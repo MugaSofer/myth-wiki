@@ -19,7 +19,7 @@
 - **Lines 1-10**: Invocation to the Muses and [Zeus](../deities/zeus.md)
 - **Lines 11-26**: The two kinds of Strife
 - **Lines 42-105**: [Prometheus](../deities/prometheus.md), Pandora, and the jar
-- **Lines 106-201**: The Five Ages of Man (Gold, Silver, Bronze, Heroic, Iron)
+- **Lines 106-201**: [The Five Ages of Man](../events/five-ages.md) (Gold, Silver, Bronze, Heroic, Iron)
 - **Lines 202-285**: The fable of the hawk and the nightingale; Justice personified
 
 ### Practical/Moral Sections
@@ -35,7 +35,7 @@
 ### Introduced in Works and Days
 
 - **Pandora** — the first woman, created as punishment for Prometheus's theft of fire
-- **The Five Ages** — Gold, Silver, Bronze, Heroic, Iron
+- **[The Five Ages](../events/five-ages.md)** — Gold, Silver, Bronze, Heroic, Iron
 - **The two Strifes** — one harmful (war), one beneficial (competition)
 - **Aidos and Nemesis** — personified Shame and Retribution, who will abandon mankind in the Iron Age
 

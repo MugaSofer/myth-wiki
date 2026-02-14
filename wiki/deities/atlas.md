@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Parents** | [Iapetus](iapetus.md) and Clymene (daughter of [Oceanus](oceanus.md)) |
-| **Siblings** | [Prometheus](prometheus.md), Epimetheus, Menoetius |
+| **Siblings** | [Prometheus](prometheus.md), Epimetheus, [Menoetius](menoetius.md) |
 | **First appearance** | [Theogony](../sources/theogony.md) 509 |
 
 ## Overview

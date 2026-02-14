@@ -4,7 +4,7 @@
 |---|---|
 | **Parents** | [Gaia](gaia.md) and [Uranus](uranus.md) |
 | **Consort(s)** | [Phoebe](phoebe.md) |
-| **Children** | Leto, [Asteria](asteria.md) (via [Phoebe](phoebe.md)) |
+| **Children** | [Leto](leto.md), [Asteria](asteria.md) (via [Phoebe](phoebe.md)) |
 | **First appearance** | [Theogony](../sources/theogony.md) 134 |
 
 ## Overview

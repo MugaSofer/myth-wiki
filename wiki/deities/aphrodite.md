@@ -130,7 +130,7 @@ In [Iliad](../sources/iliad.md) Book V, Aphrodite shields her son Aeneas from Di
 
 Then flows "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals."[^il5-ichor]
 
-She fled in pain to [Olympus](../places/olympus.md) and "fell upon Dione's knees that was her mother." [Zeus](zeus.md) told her gently: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet [Ares](ares.md) and Athene look."[^il5-zeus]
+She fled in pain to [Olympus](../places/olympus.md) and "fell upon [Dione](dione.md)'s knees that was her mother." [Zeus](zeus.md) told her gently: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet [Ares](ares.md) and Athene look."[^il5-zeus]
 
 [^il5-wound]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm" (Iliad V.2913-2916, trans. Lang, Leaf, and Myers)
 [^il5-ichor]: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad V.2917-2919)
@@ -140,6 +140,6 @@ She fled in pain to [Olympus](../places/olympus.md) and "fell upon Dione's knees
 
 ### Birth from Uranus (Theogony) vs Daughter of Dione (Iliad)
 
-Hesiod's account of Aphrodite's birth from [Uranus](uranus.md)'s severed members is one of two major traditions. The Iliad presents the other: in Book V, when Aphrodite is wounded, "fair Aphrodite fell upon Dione's knees that was her mother."[^il5-dione] Dione comforts her and speaks as her mother throughout the scene. [Zeus](zeus.md) also addresses Aphrodite as "my child," consistent with her being his daughter by Dione.
+Hesiod's account of Aphrodite's birth from [Uranus](uranus.md)'s severed members is one of two major traditions. The Iliad presents the other: in Book V, when Aphrodite is wounded, "fair Aphrodite fell upon [Dione](dione.md)'s knees that was her mother."[^il5-dione] [Dione](dione.md) comforts her and speaks as her mother throughout the scene. [Zeus](zeus.md) also addresses Aphrodite as "my child," consistent with her being his daughter by Dione.
 
 [^il5-dione]: "fair Aphrodite fell upon Dione's knees that was her mother. She took her daughter in her arms and stroked her with her hand" (Iliad V.2948-2949)

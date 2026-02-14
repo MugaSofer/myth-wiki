@@ -5,7 +5,7 @@
 | **Also known as** | Gold-crowned Phoebe |
 | **Parents** | [Gaia](gaia.md) and [Uranus](uranus.md) |
 | **Consort(s)** | [Coeus](coeus.md) |
-| **Children** | Leto, Asteria |
+| **Children** | [Leto](leto.md), [Asteria](asteria.md) |
 | **First appearance** | [Theogony](../sources/theogony.md) 136 |
 
 ## Overview
@@ -20,7 +20,7 @@ Listed among the children of [Gaia](gaia.md) and [Uranus](uranus.md): "she lay w
 
 ## Children
 
-"Phoebe came to the desired embrace of [Coeus](coeus.md)." She is the mother of Leto (who bore [Apollo](apollo.md) and [Artemis](artemis.md)) and Asteria.[^theog-children]
+"Phoebe came to the desired embrace of [Coeus](coeus.md)." She is the mother of [Leto](leto.md) (who bore [Apollo](apollo.md) and [Artemis](artemis.md)) and [Asteria](asteria.md).[^theog-children]
 
 [^theog-children]: "Again, Phoebe came to the desired embrace of Coeus" (Theogony 404, trans. H.G. Evelyn-White)
 

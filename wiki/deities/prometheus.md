@@ -8,7 +8,7 @@
 |---|---|
 | **Also known as** | Son of Iapetus |
 | **Parents** | [Iapetus](iapetus.md) and Clymene (daughter of [Oceanus](oceanus.md)) |
-| **Siblings** | Atlas, Menoetius, Epimetheus |
+| **Siblings** | [Atlas](atlas.md), [Menoetius](menoetius.md), Epimetheus |
 | **First appearance** | [Theogony](../sources/theogony.md) 510 |
 
 ## Overview

@@ -99,6 +99,7 @@ Hermes told Hades: "Dark-haired Hades, ruler over the departed, father Zeus bids
 
 - **[Theogony](../sources/theogony.md)** 444, 938-939: Associated with herds; birth
 - **[Homeric Hymn IV](../sources/homeric-hymns.md)**: Birth; invention of the lyre; theft of Apollo's cattle; exchange of lyre for herds; domains assigned
+- **[Homeric Hymn XIX](../sources/homeric-hymns.md)**: Father of [Pan](pan.md) by a daughter of Dryops
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)** 334-383: Sent by Zeus to retrieve Persephone from Hades
 - **[Iliad](../sources/iliad.md)** XXI: Matched against Leto in the Theomachy; declines to fight — "a grievous thing it is to come to blows with wives of cloud-gathering Zeus"
 - **[Iliad](../sources/iliad.md)** XXIV: Major role as guide — Zeus sends him to escort Priam; golden sandals ("that bare him over wet sea and over the boundless land"), wand ("wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep"); disguised as a young prince; puts the sentinels to sleep; opens the gates; reveals himself: "I that have come to thee am an immortal god, even Hermes"; drives Priam home before dawn

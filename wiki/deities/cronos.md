@@ -52,7 +52,7 @@ He was deceived when [Rhea](rhea.md), counselled by [Gaia](gaia.md) and [Uranus]
 
 ## In Works and Days
 
-[Works and Days](../sources/works-and-days.md) presents a strikingly different picture of Cronos's reign. The Golden Age took place "in the time of Cronos when he was reigning in heaven," and men "lived like gods without sorrow of heart, remote and free from toil and grief."[^wd-golden]
+[Works and Days](../sources/works-and-days.md) presents a strikingly different picture of Cronos's reign. The [Golden Age](../events/five-ages.md) took place "in the time of Cronos when he was reigning in heaven," and men "lived like gods without sorrow of heart, remote and free from toil and grief."[^wd-golden]
 
 After the [Titanomachy](../events/titanomachy.md) and his imprisonment, Cronos was eventually released: "the father of men and gods released him from his bonds." He now rules the Islands of the Blessed, where the heroes of the fourth age "live untouched by sorrow... happy heroes for whom the grain-giving earth bears honey-sweet fruit flourishing thrice a year."[^wd-blessed]
 

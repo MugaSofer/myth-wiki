@@ -4,7 +4,7 @@
 |---|---|
 | **Parents** | [Gaia](gaia.md) and [Uranus](uranus.md) |
 | **Consort(s)** | Clymene (daughter of [Oceanus](oceanus.md)) |
-| **Children** | [Atlas](atlas.md), Menoetius, [Prometheus](prometheus.md), Epimetheus |
+| **Children** | [Atlas](atlas.md), [Menoetius](menoetius.md), [Prometheus](prometheus.md), Epimetheus |
 | **First appearance** | [Theogony](../sources/theogony.md) 18 |
 
 ## Overview
