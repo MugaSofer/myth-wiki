@@ -153,6 +153,35 @@ Later, Agamemnon sacrifices to Zeus and prays for victory, "but not as yet would
 [^il2-dream]: "Come now, thou baneful Dream, go to the Achaians' fleet ships, enter into the hut of Agamemnon son of Atreus, and tell him every word plainly as I charge thee. Bid him call to arms the flowing-haired Achaians with all speed, for that now he may take the wide-wayed city of the Trojans" (Iliad II.793-800, trans. Lang, Leaf, and Myers)
 [^il2-sacrifice]: "not as yet would Kronion grant him fulfilment; he accepted the sacrifice, but made toil to wax increasingly" (Iliad II.1172-1173)
 
+### The Golden Chain / Absolute Supremacy (Book VIII)
+
+In [Iliad](../sources/iliad.md) Book VIII, Zeus summons all the gods and forbids any from aiding either side in battle. He backs this with the most explicit statement of his supremacy in the poem: "Fasten ye a rope of gold from heaven, and all ye gods lay hold thereof and all goddesses; yet could ye not drag from heaven to earth Zeus, counsellor supreme, not though ye toiled sore. But once I likewise were minded to draw with all my heart, then should I draw you up with very earth and sea withal. Thereafter would I bind the rope about a pinnacle of Olympus, and so should all those things be hung in air. By so much am I beyond gods and beyond men."[^il8-chain]
+
+### The Golden Scales (Book VIII)
+
+When the battle rages, Zeus weighs the fates: "when the sun bestrode mid-heaven, then did the Father balance his golden scales, and put therein two fates of death that layeth men at their length, one for horse-taming Trojans, one for mail-clad Achaians; and he took the scale-yard by the midst and lifted it, and the Achaians' day of destiny sank down."[^il8-scales] He then thundered from Ida and hurled lightning before Diomedes' horses.
+
+### Pity and the Eagle (Book VIII)
+
+After Agamemnon prays weeping, "the Father had pity on him as he wept, and vouchsafed him that his folk should be saved and perish not. Forthwith sent he an eagle—surest sign among winged fowl—holding in his claws a fawn."[^il8-eagle]
+
+### Stopping Hera and Athena (Book VIII)
+
+When [Hera](hera.md) and [Athena](athena.md) arm for battle and pass through heaven's gates, Zeus sends [Iris](iris.md) with terrible threats: "I will maim their fleet horses in the chariot, and them will I hurl out from the car, and will break in pieces the chariot; neither within the courses of ten years shall they heal them of the wounds the thunderbolt shall tear." He notes he is angrier at Athena than Hera: "with Hera have I not so great indignation... seeing it ever is her wont to thwart me, whate'er I have decreed."[^il8-threats]
+
+When they return chastened, he taunts them: "all the gods that are in Olympus could not turn me... trembling erst gat hold upon your bright limbs ere that ye beheld war and war's fell deeds."[^il8-taunt]
+
+### Prophecy (Book VIII)
+
+Zeus reveals the future to Hera: "headlong Hector shall not refrain from battle till that Peleus' son fleet of foot have arisen beside the ships, that day when these shall fight amid the sterns in most grievous stress, around Patroklos fallen. Such is the doom of heaven." He then invokes the cosmic underworld: "not even though thou go to the nethermost bounds of earth and sea, where sit Iapetos and [Kronos](cronos.md) and have no joy in the beams of Hyperion the Sun-god, neither in any breeze, but deep [Tartaros](../places/tartarus.md) is round about them."[^il8-prophecy]
+
+[^il8-chain]: "Fasten ye a rope of gold from heaven, and all ye gods lay hold thereof and all goddesses; yet could ye not drag from heaven to earth Zeus, counsellor supreme, not though ye toiled sore. But once I likewise were minded to draw with all my heart, then should I draw you up with very earth and sea withal. Thereafter would I bind the rope about a pinnacle of Olympus, and so should all those things be hung in air. By so much am I beyond gods and beyond men." (Iliad VIII.4429-4435, trans. Lang, Leaf, and Myers)
+[^il8-scales]: "when the sun bestrode mid-heaven, then did the Father balance his golden scales, and put therein two fates of death that layeth men at their length, one for horse-taming Trojans, one for mail-clad Achaians; and he took the scale-yard by the midst and lifted it, and the Achaians' day of destiny sank down" (Iliad VIII.4474-4481)
+[^il8-eagle]: "the Father had pity on him as he wept, and vouchsafed him that his folk should be saved and perish not. Forthwith sent he an eagle—surest sign among winged fowl—holding in his claws a fawn" (Iliad VIII.4647-4650)
+[^il8-threats]: "I will maim their fleet horses in the chariot, and them will I hurl out from the car, and will break in pieces the chariot; neither within the courses of ten years shall they heal them of the wounds the thunderbolt shall tear; that the bright-eyed one may know the end when she striveth against her father. But with Hera have I not so great indignation nor wrath: seeing it ever is her wont to thwart me, whate'er I have decreed" (Iliad VIII.4793-4799)
+[^il8-taunt]: "all the gods that are in Olympus could not turn me: and for you twain, trembling erst gat hold upon your bright limbs ere that ye beheld war and war's fell deeds" (Iliad VIII.4840-4842)
+[^il8-prophecy]: "headlong Hector shall not refrain from battle till that Peleus' son fleet of foot have arisen beside the ships, that day when these shall fight amid the sterns in most grievous stress, around Patroklos fallen. Such is the doom of heaven... not even though thou go to the nethermost bounds of earth and sea, where sit Iapetos and Kronos and have no joy in the beams of Hyperion the Sun-god, neither in any breeze, but deep Tartaros is round about them" (Iliad VIII.4861-4867)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 4-96, 141, 389-401, 453-506, 617-735, 820-885, 886-944: Pervasive throughout
@@ -160,3 +189,4 @@ Later, Agamemnon sacrifices to Zeus and prays for victory, "but not as yet would
 - **[Iliad](../sources/iliad.md)** II: Sends deceptive Dream to Agamemnon; accepts sacrifice but denies fulfilment
 - **[Iliad](../sources/iliad.md)** IV: Taunts Hera; bargains over cities; sends Athena to break the truce
 - **[Iliad](../sources/iliad.md)** V: Tells Aphrodite her domain is wedlock, not war; rebukes Ares ("most hateful to me art thou of all gods"); sends Athena against Ares
+- **[Iliad](../sources/iliad.md)** VIII: Golden chain speech (supreme power); golden scales weighing fates; thunders from Ida; sends eagle; stops Hera and Athena with threats via Iris; prophesies Patroclus's death; Iapetos and Kronos in Tartarus

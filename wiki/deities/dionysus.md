@@ -59,8 +59,22 @@ Dionysus revealed himself: "I am loud-crying Dionysus whom Cadmus' daughter Seme
 [^hh7-miracles]: "sweet, fragrant wine ran streaming throughout all the black ship... a vine spread out both ways along the top of the sail with many clusters hanging down from it, and a dark ivy-plant twined about the mast... the god changed into a dreadful lion there on the ship... the sailors fled into the stern... they leapt out overboard one and all into the bright sea, escaping from a miserable fate, and were changed into dolphins" (Homeric Hymn VII to Dionysus 35-53)
 [^hh7-reveal]: "I am loud-crying Dionysus whom Cadmus' daughter Semele bare of union with Zeus" (Homeric Hymn VII to Dionysus 56-57)
 
+## In the Iliad
+
+### Dionysus and Lykurgos (Book VI)
+
+In [Iliad](../sources/iliad.md) Book VI, Diomedes tells the story of Lykurgos as a warning against fighting gods. Lykurgos "chased through the goodly land of Nysa the nursing-mothers of frenzied Dionysos; and they all cast their wands upon the ground, smitten with murderous Lykurgos' ox-goad. Then Dionysos fled and plunged beneath the salt sea-wave, and [Thetis](thetis.md) took him to her bosom, affrighted, for a mighty trembling had seized him at his foe's rebuke."[^il6-lykurgos]
+
+The gods punished Lykurgos: "with Lykurgos the gods that live at ease were wroth, and Kronos' son made him blind, and he was not for long, because he was hated of all the immortal gods."[^il6-punishment]
+
+This passage is notable for showing Dionysus in fear and flight — "affrighted" and "a mighty trembling" — and for his description as "frenzied Dionysos" whose followers are "nursing-mothers" carrying wands.
+
+[^il6-lykurgos]: "he that erst chased through the goodly land of Nysa the nursing-mothers of frenzied Dionysos; and they all cast their wands upon the ground, smitten with murderous Lykurgos' ox-goad. Then Dionysos fled and plunged beneath the salt sea-wave, and Thetis took him to her bosom, affrighted, for a mighty trembling had seized him at his foe's rebuke" (Iliad VI.3581-3586, trans. Lang, Leaf, and Myers)
+[^il6-punishment]: "with Lykurgos the gods that live at ease were wroth, and Kronos' son made him blind, and he was not for long, because he was hated of all the immortal gods" (Iliad VI.3586-3588)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 940-942, 947-949: Birth; marriage to Ariadne
 - **[Homeric Hymn I](../sources/homeric-hymns.md)**: Variant birth traditions; born at Nysa, secretly from Hera
 - **[Homeric Hymn VII](../sources/homeric-hymns.md)**: The pirates — bonds, miracles, transformation into dolphins
+- **[Iliad](../sources/iliad.md)** VI: Lykurgos story — chased from Nysa, fled into the sea, sheltered by Thetis; "frenzied Dionysos"; Zeus blinded Lykurgos

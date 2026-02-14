@@ -41,7 +41,24 @@ After hunting, she goes to [Apollo](apollo.md)'s house at Delphi: "There she han
 [^hh27-hunt]: "Over the shadowy hills and windy peaks she draws her golden bow, rejoicing in the chase, and sends out grievous shafts. The tops of the high mountains tremble and the tangled wood echoes awesomely with the outcry of beasts: earthquakes and the sea also where fishes shoal" (Homeric Hymn XXVII to Artemis 4-10, trans. H.G. Evelyn-White)
 [^hh27-delphi]: "this huntress who delights in arrows slackens her supple bow and goes to the great house of her dear brother Phoebus Apollo, to the rich land of Delphi, there to order the lovely dance of the Muses and Graces. There she hangs up her curved bow and her arrows, and heads and leads the dances" (Homeric Hymn XXVII to Artemis 12-18)
 
+## In the Iliad
+
+### Slayer of Mortals (Book VI)
+
+In [Iliad](../sources/iliad.md) Book VI, Artemis is named twice as the slayer of mortal women:
+
+In Glaukos's account of Bellerophon, after Bellerophon's line was cursed: "his daughter was slain in wrath of gold-gleaming Artemis."[^il6-bellerophon] (The translation notes this may also be read as "Artemis of the golden reins.")
+
+In Andromache's lament, she tells how Achilles destroyed her family but spared her mother for ransom: "but in her father's halls was she smitten by the Archer Artemis."[^il6-andromache]
+
+Both passages show Artemis as a bringer of death to women, striking suddenly and without elaboration.
+
+[^il6-bellerophon]: "his daughter was slain in wrath of gold-gleaming Artemis" (Iliad VI.3641-3642, trans. Lang, Leaf, and Myers)
+[^il6-andromache]: "in her father's halls was she smitten by the Archer Artemis" (Iliad VI.3859)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 14, 918-920: Named in the invocation; birth
 - **[Homeric Hymn XXVII](../sources/homeric-hymns.md)**: The huntress; dances at Delphi
+- **[Iliad](../sources/iliad.md)** V: Heals Aeneas in Apollo's temple with Leto
+- **[Iliad](../sources/iliad.md)** VI: Slays Bellerophon's daughter "in wrath"; slays Andromache's mother ("the Archer Artemis")

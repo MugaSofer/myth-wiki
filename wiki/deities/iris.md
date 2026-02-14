@@ -48,6 +48,15 @@ In [Iliad](../sources/iliad.md) Book II, [Zeus](zeus.md) sends "fleet Iris the w
 
 [^il2-iris]: "fleet Iris the wind-footed went to the Trojans, a messenger from aegis-bearing Zeus, with a grievous message... she made her voice like to the voice of Polites son of Priam... Hector failed not to know the voice of the goddess, and straightway dismissed the assembly, and they rushed to arms" (Iliad II.1512-1533, trans. Lang, Leaf, and Myers)
 
+### Stopping Hera and Athena (Book VIII)
+
+In [Iliad](../sources/iliad.md) Book VIII, [Zeus](zeus.md) sends Iris to intercept [Hera](hera.md) and [Athena](athena.md) as they ride through heaven's gates to join the battle. Iris meets them "even at the entrance of the gates of Olympus many-folded" and delivers Zeus's threats. She calls Athena "most fell art thou, reckless vixen! if thou indeed wilt dare to lift thy huge spear against the face of Zeus."[^il8-vixen] The goddesses obey and turn back.
+
+Here Iris is called "whirlwind-footed" and "fleet-footed" — variant epithets that emphasize her speed.[^il8-speed]
+
+[^il8-vixen]: "Most fell art thou, reckless vixen! if thou indeed wilt dare to lift thy huge spear against the face of Zeus" (Iliad VIII.4813-4815, trans. Lang, Leaf, and Myers)
+[^il8-speed]: "whirlwind-footed Iris arose to bear the message" (Iliad VIII.4801)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 266, 780-785: Birth; messenger of Zeus carrying the oath of Styx
@@ -55,3 +64,4 @@ In [Iliad](../sources/iliad.md) Book II, [Zeus](zeus.md) sends "fleet Iris the w
 - **[Iliad](../sources/iliad.md)** II: Messenger to the Trojans disguised as Polites; "wind-footed"
 - **[Iliad](../sources/iliad.md)** III: Summons Helen to watch the duel, disguised as Laodike; "put into her heart sweet longing for her former husband"
 - **[Iliad](../sources/iliad.md)** V: Rescues wounded Aphrodite from the battlefield; "wind-footed Iris took her and led her from the throng"
+- **[Iliad](../sources/iliad.md)** VIII: "Whirlwind-footed"; stops Hera and Athena at heaven's gates with Zeus's threats; calls Athena "reckless vixen"

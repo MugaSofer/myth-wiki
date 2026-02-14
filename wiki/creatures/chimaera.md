@@ -23,6 +23,22 @@ The **Chimaera** was a fire-breathing monster with three heads, daughter of [Ech
 
 [^theog-slay]: "Her did Pegasus and noble Bellerophon slay" (Theogony 325)
 
+## In the Iliad
+
+### The Bellerophon Story (Book VI)
+
+In [Iliad](../sources/iliad.md) Book VI, Glaukos tells Diomedes the story of his ancestor Bellerophon. The Chimaera is described with a slightly different formulation from the Theogony: "Of divine birth was she and not of men, in front a lion, and behind a serpent, and in the midst a goat; and she breathed dread fierceness of blazing fire."[^il6-chimaira]
+
+Here she is called "Chimaira the unconquerable" and her divine origin is emphasized — "of divine birth was she and not of men" — a detail not found in the Theogony. Bellerophon "slew [her], obedient to the signs of heaven."[^il6-slain]
+
+### Variant Details
+
+The [Theogony](../sources/theogony.md) describes three *heads* (lion, dragon, goat) and names [Echidna](echidna.md) and [Typhoeus](typhoeus.md) as parents. The Iliad describes three *parts* (front, middle, behind) without naming specific parents, instead saying she was "of divine birth." The Theogony credits [Pegasus](pegasus.md) and Bellerophon jointly; the Iliad credits Bellerophon alone.
+
+[^il6-chimaira]: "he bade him slay Chimaira the unconquerable. Of divine birth was she and not of men, in front a lion, and behind a serpent, and in the midst a goat; and she breathed dread fierceness of blazing fire" (Iliad VI.3621-3624, trans. Lang, Leaf, and Myers)
+[^il6-slain]: "And her he slew, obedient to the signs of heaven" (Iliad VI.3624)
+
 ## Appearances
 
-- **[Theogony](../sources/theogony.md)** 319-325: Description and death
+- **[Theogony](../sources/theogony.md)** 319-325: Description (three heads) and death (slain by Pegasus and Bellerophon)
+- **[Iliad](../sources/iliad.md)** VI: "Chimaira the unconquerable"; three-part body; "of divine birth"; slain by Bellerophon alone "obedient to the signs of heaven"

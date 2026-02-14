@@ -66,6 +66,15 @@ In the Catalogue of Ships, Athens is described as "the domain of Erechtheus the 
 [^il2-aegis]: "bright-eyed Athene in the midst, bearing the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk, urging them forth; and in every man's heart she roused strength to battle without ceasing and to fight" (Iliad II.1197-1202)
 [^il2-erechtheus]: "the goodly citadel of Athens, the domain of Erechtheus the high-hearted, whom erst Athene daughter of Zeus fostered when Earth, the grain-giver, brought him to birth; and she gave him a resting-place in Athens in her own rich sanctuary; and there the sons of the Athenians worship him with bulls and rams as the years turn in their courses" (Iliad II.1282-1287)
 
+### Denying Troy's Prayer (Book VI)
+
+In [Iliad](../sources/iliad.md) Book VI, the Trojans pray to Athena in desperation. Hector instructs his mother Hekabe to gather the aged wives and offer "the robe that seemeth to her the most gracious and greatest in her hall" upon the knees of "beauteous-haired Athene" along with a vow of twelve unbroken kine, "if she will have mercy on the city and the Trojans' wives and little children."[^il6-prayer-request]
+
+The priestess Theano places the fairest robe on Athena's knees and prays: "Lady Athene, saviour of the city, fair among goddesses, break now Diomedes' spear, and grant moreover that himself may fall prone before the Skaian gates." But: "So spake she praying, but Pallas Athene denied the prayer."[^il6-denied]
+
+[^il6-prayer-request]: "let her lay the robe, that seemeth to her the most gracious and greatest in her hall and far dearest unto herself, upon the knees of beauteous-haired Athene; and vow to her to sacrifice in her temple twelve sleek kine, that have not felt the goad, if she will have mercy on the city and the Trojans' wives and little children" (Iliad VI.3544-3549, trans. Lang, Leaf, and Myers)
+[^il6-denied]: "Lady Athene, saviour of the city, fair among goddesses, break now Diomedes' spear, and grant moreover that himself may fall prone before the Skaian gates; that we may sacrifice thee now forthwith in thy temple twelve sleek kine, that have not felt the goad, if thou wilt have mercy on the city and the Trojans' wives and little children. So spake she praying, but Pallas Athene denied the prayer." (Iliad VI.3749-3754)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 13, 318, 573-578, 886-900, 924-929t: Invocation; aids Heracles; dresses the first woman; birth from Zeus's head
@@ -74,3 +83,6 @@ In the Catalogue of Ships, Athens is described as "the domain of Erechtheus the 
 - **[Iliad](../sources/iliad.md)** II: Stops the Greek retreat via Odysseus; bears the aegis (described in detail); fostered Erechtheus in Athens
 - **[Iliad](../sources/iliad.md)** IV: Disguised as Laodokos, tricks Pandaros into breaking the truce; protects Menelaos from the arrow "even as a mother driveth a fly from her child"; urges the Achaians on
 - **[Iliad](../sources/iliad.md)** V: Empowers Diomedes (fire from head, sight to see gods); full arming scene (Zeus's tunic, aegis with Gorgon head, golden helm, heavy spear); wears helm of Hades for invisibility; drives Diomedes' chariot and guides his spear into Ares
+- **[Iliad](../sources/iliad.md)** VI: Trojans pray to her with offerings; "Pallas Athene denied the prayer"
+- **[Iliad](../sources/iliad.md)** VII: Descends from Olympus; meets Apollo by the oak tree; they arrange Hector's single combat; sits as vulture-bird "rejoicing in their warriors"
+- **[Iliad](../sources/iliad.md)** VIII: Accepts Zeus's golden chain claim ("thy might is unyielding"); recalls saving Heracles from Eurystheus's tasks and the descent to fetch Cerberus; arms for battle with Hera but turned back by Iris; Zeus angrier at her than at Hera

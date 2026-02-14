@@ -88,6 +88,23 @@ The plague continued for nine days until the Greeks returned Chryses's daughter 
 [^il1-plague]: "Phoebus Apollo heard him, and came down from the peaks of Olympus wroth at heart, bearing on his shoulders his bow and covered quiver. And the arrows clanged upon his shoulders in wrath, as the god moved; and he descended like to night. Then he sate him aloof from the ships, and let an arrow fly; and there was heard a dread clanging of the silver bow" (Iliad I.43-49, trans. Lang, Leaf, and Myers)
 [^il1-favour]: "Apollo the Far-darter sent them a favouring gale" (Iliad I.479)
 
+### Meeting Athena / Arranging the Duel (Book VII)
+
+In [Iliad](../sources/iliad.md) Book VII, when [Athena](athena.md) descends from Olympus to aid the Greeks, "Apollo rose to meet her, for he beheld her from Pergamos, and would have victory for the Trojans." The two gods meet by the oak tree, and Apollo proposes a halt to the general battle by having Hector challenge a single champion. Athena agrees.[^il7-meeting]
+
+They then sit together "in the likeness of vulture birds" on the oak "holy to aegis-bearing father [Zeus](zeus.md), rejoicing in their warriors."[^il7-vultures]
+
+During the duel between Aias and Hector, when Aias knocks Hector down with a great stone, "Apollo straightway raised him up."[^il7-raises]
+
+### Built Troy's Wall for Laomedon (Book VII)
+
+[Poseidon](poseidon.md) complains to [Zeus](zeus.md) about the Achaian wall: "men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon."[^il7-wall] This is a passing but significant reference to Apollo and Poseidon's forced service to the mortal king Laomedon — building Troy's walls.
+
+[^il7-meeting]: "Apollo rose to meet her, for he beheld her from Pergamos, and would have victory for the Trojans. So the twain met each the other by the oak-tree. To her spake first king Apollo son of Zeus: 'Why now art thou come thus eagerly from Olympus, thou daughter of great Zeus?'" (Iliad VII.3983-3987, trans. Lang, Leaf, and Myers)
+[^il7-vultures]: "Athene withal and Apollo of the silver bow, in the likeness of vulture birds, sate them upon a tall oak holy to aegis-bearing father Zeus, rejoicing in their warriors" (Iliad VII.4019-4021)
+[^il7-raises]: "Apollo straightway raised him up" (Iliad VII.4209)
+[^il7-wall]: "men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon" (Iliad VII.4375-4376)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
@@ -95,3 +112,4 @@ The plague continued for nine days until the Greeks returned Chryses's daughter 
 - **[Iliad](../sources/iliad.md)** I: Sends plague on the Greeks; "descended like to night"; sends favourable wind after sacrifice
 - **[Iliad](../sources/iliad.md)** IV: Rallies the Trojans from Pergamos; notes Achilles' absence
 - **[Iliad](../sources/iliad.md)** V: Shields Aeneas (creates a wraith in his likeness); warns Diomedes: "there is no comparison of the race of immortal gods and of men that walk upon the earth"; sends Ares into battle; Leto and Artemis heal Aeneas in Apollo's temple
+- **[Iliad](../sources/iliad.md)** VII: Meets Athena; arranges Hector's duel; sits as vulture-bird on the oak; raises Hector after Aias fells him; built Troy's wall with Poseidon for Laomedon

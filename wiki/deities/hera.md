@@ -91,6 +91,18 @@ When the Greeks rush to flee after Agamemnon's test, Hera intervenes again by se
 
 [^il2-retreat]: "Hera spake a word to Athene: 'Out on it, daughter of aegis-bearing Zeus, unwearied maiden! Shall the Argives thus indeed flee homeward to their dear native land over the sea's broad back? But they would leave to Priam and the Trojans their boast, even Helen of Argos'" (Iliad II.932-936, trans. Lang, Leaf, and Myers)
 
+### Recruiting Poseidon / Stopped by Zeus (Book VIII)
+
+In [Iliad](../sources/iliad.md) Book VIII, when the Trojans drive the Greeks back, Hera tries to recruit [Poseidon](poseidon.md) against [Zeus](zeus.md): "Did we but will, we that are confederate with the Danaans, to drive the Trojans back and withhold far-seeing Zeus, then would he vex himself that he should sit there alone in Ida." Poseidon refuses: "I am not he that would fain see us all at strife with Zeus Kronion, for he verily is mightier far."[^il8-poseidon]
+
+Then Hera and [Athena](athena.md) arm for battle — Hera "stirred her upon her throne and made high Olympus quake" — but Zeus sends [Iris](iris.md) with threats of the thunderbolt, and they turn back. The Hours unyoke their horses.[^il8-stopped]
+
+When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well know we, even we, that thy might is no wise puny; yet still have we pity for the Danaan spearmen... Yet will we refrain from battle, if thou biddest us."[^il8-yield]
+
+[^il8-poseidon]: "Did we but will, we that are confederate with the Danaans, to drive the Trojans back and withhold far-seeing Zeus, then would he vex himself that he should sit there alone in Ida" ... "I am not he that would fain see us all at strife with Zeus Kronion, for he verily is mightier far" (Iliad VIII.4607-4617, trans. Lang, Leaf, and Myers)
+[^il8-stopped]: "queen Hera had indignation, and stirred her upon her throne and made high Olympus quake" (Iliad VIII.4605-4606)
+[^il8-yield]: "Well know we, even we, that thy might is no wise puny; yet still have we pity for the Danaan spearmen, that now shall perish and fill up the measure of grievous fate. Yet will we refrain from battle, if thou biddest us" (Iliad VIII.4851-4856)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 11-12, 314-315, 328-329, 454, 921-929: Invocation; nourishes monsters against Heracles; bears children
@@ -99,3 +111,4 @@ When the Greeks rush to flee after Agamemnon's test, Hera intervenes again by se
 - **[Iliad](../sources/iliad.md)** II: Sends Athena to stop the Greek retreat
 - **[Iliad](../sources/iliad.md)** IV: Argues with Zeus over Troy's fate; claims equal divine lineage; offers Argos, Sparta, and Mycenae in exchange for Troy's destruction
 - **[Iliad](../sources/iliad.md)** V: Drives gold-frontleted chariot to Troy with Athena; shouts disguised as Stentor ("voice of bronze... loud as the cry of fifty other men"); wounded once by Heracles (recalled by Dione)
+- **[Iliad](../sources/iliad.md)** VIII: Tries to recruit Poseidon against Zeus; arms for battle with Athena but stopped by Iris; yields to Zeus's supremacy; quakes Olympus from her throne

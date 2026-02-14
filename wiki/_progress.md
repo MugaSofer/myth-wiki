@@ -175,6 +175,44 @@ Book V (Diomedes' aristeia — most mythology-dense book so far):
 
 **Pages updated:** athena.md, zeus.md, hera.md, aphrodite.md, ares.md, apollo.md, iris.md, hephaestus.md, hades.md, heracles.md, muses.md, styx.md, typhoeus.md
 
+**Book VI processed:**
+- Lykurgos and Dionysus: Dionysus "frenzied," nursing-mothers with wands, fled into sea, Thetis sheltered him, Zeus blinded Lykurgos
+- Bellerophon full narrative: Proitos' wife, deadly tokens, Chimaira ("of divine birth... in front a lion, and behind a serpent, and in the midst a goat"), Solymi, Amazons, domain in Lykia, Laodameia bore Sarpedon to Zeus, wandering "devouring his own soul," Ares slew Isandros, Artemis slew his daughter
+- Trojans pray to Athena: robe on her knees, twelve kine vowed; "Pallas Athene denied the prayer"
+- Andromache's mother "smitten by the Archer Artemis"
+- Mountain nymphs "daughters of aegis-bearing Zeus" (planted elms around Eëtion's barrow)
+- Fountain-nymph Abarbarea bore twin sons to Boukolion (son of Laomedon)
+
+**Pages updated:** dionysus.md, thetis.md, athena.md, artemis.md, chimaera.md, iliad.md
+
+**Book VII processed:**
+- Athena descends, Apollo meets her at the oak tree; they arrange Hector's single combat challenge
+- Both gods sit "in the likeness of vulture birds" on the oak, "rejoicing in their warriors"
+- Apollo raises Hector after Aias knocks him down with a stone
+- Poseidon complains to Zeus about the Achaian wall: "men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon"
+- Zeus tells Poseidon to destroy the wall after the Greeks leave
+- Zeus thunders ominously all night
+- Minor: Ares as epithet source ("men of Ares' company," "furious Ares' dance"), Ares gave Lykurgos his armour (Nestor's tale)
+
+**Pages updated:** apollo.md, poseidon.md, athena.md, iliad.md
+
+**Book VIII processed:**
+- Zeus's golden chain speech: "By so much am I beyond gods and beyond men" — absolute supremacy claim
+- Zeus rides to Ida in chariot with golden manes, golden whip
+- Golden scales of destiny: weighs fates of Greeks and Trojans, Achaian day sinks down
+- Zeus thunders at Diomedes, hurls lightning before his horses
+- Hera tries to recruit Poseidon ("Did we but will... drive the Trojans back"); Poseidon refuses ("he verily is mightier far")
+- Athena recalls saving Heracles from Eurystheus's tasks, specifically fetching Cerberus from Hades
+- Hera and Athena arm for battle (full repeat of Book V arming); Hours guard heaven's gates
+- Zeus sends Iris ("whirlwind-footed") to stop them; Iris calls Athena "reckless vixen"
+- Zeus's prophecy: Hector won't stop until Patroclus falls
+- Kronos and Iapetos sit in Tartarus "with no joy in the beams of Hyperion the Sun-god"
+- Apollo deflects Teukros's arrow from Hector
+- Gods refuse Troy's sacrifice: "the blessed gods regaled not themselves... for sore was holy Ilios hated of them"
+- Hephaestus's breastplate for Diomedes (mentioned by Hector)
+
+**Pages updated:** zeus.md, hera.md, athena.md, iris.md, poseidon.md, heracles.md, iliad.md
+
 ## Next
 
-Continue Iliad processing (Books VI-XXIV), one book at a time.
+Continue Iliad processing (Books IX-XXIV), one book at a time.
