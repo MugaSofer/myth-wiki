@@ -39,6 +39,12 @@ In the [Theogony](../sources/theogony.md), Heracles is mentioned as:
 
 [^theog-apotheosis]: "mighty Heracles, the valiant son of neat-ankled Alcmena, when he had finished his grievous toils, made Hebe the child of great Zeus and gold-shod Hera his shy wife in snowy Olympus. Happy he! For he has finished his great works and lives amongst the undying gods, untroubled and unageing all his days." (Theogony 950-955)
 
+### Oppressing Pylos (Book XI)
+
+In [Iliad](../sources/iliad.md) Book XI, Nestor recalls Heracles' devastation of Pylos: "the mighty Herakles had come and oppressed us, in the former years, and all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished."[^il11-pylos]
+
+[^il11-pylos]: "the mighty Herakles had come and oppressed us, in the former years, and all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished" (Iliad XI.6817-6819, trans. Lang, Leaf, and Myers)
+
 ### Fetching Cerberus (Book VIII)
 
 In [Iliad](../sources/iliad.md) Book VIII, [Athena](../deities/athena.md) recalls how she helped Heracles with Eurystheus's tasks: "Neither remembereth he at all those many times and oft that I saved his son fordone with Eurystheus' tasks." She specifically mentions the descent to Hades: "what time Eurystheus sent him forth to the house of [Hades](../deities/hades.md) the Warder of the Gate, to bring from Erebos the hound of loathed Hades, then had he not escaped the sheer stream of the water of [Styx](../deities/styx.md)."[^il8-cerberus]
@@ -52,3 +58,4 @@ This is the first explicit reference to the Cerberus labour in any source proces
 - **[Theogony](../sources/theogony.md)** 289-292, 316-318, 332, 526-532, 943-944, 950-955: Slaying monsters; freeing Prometheus; birth; marriage to Hebe and apotheosis
 - **[Iliad](../sources/iliad.md)** V: Wounded [Hera](../deities/hera.md) with a three-barbed arrow and [Hades](../deities/hades.md) at Pylos; previously sacked Troy with only six ships for Laomedon's horses (recalled by Dione and Tlepolemos)
 - **[Iliad](../sources/iliad.md)** VIII: Fetching Cerberus from Hades recalled by Athena; Athena was his protector during Eurystheus's tasks
+- **[Iliad](../sources/iliad.md)** XI: Oppressed Pylos in "the former years" — "all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished" (Nestor's recollection)

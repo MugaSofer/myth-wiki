@@ -86,3 +86,5 @@ The priestess Theano places the fairest robe on Athena's knees and prays: "Lady 
 - **[Iliad](../sources/iliad.md)** VI: Trojans pray to her with offerings; "Pallas Athene denied the prayer"
 - **[Iliad](../sources/iliad.md)** VII: Descends from Olympus; meets Apollo by the oak tree; they arrange Hector's single combat; sits as vulture-bird "rejoicing in their warriors"
 - **[Iliad](../sources/iliad.md)** VIII: Accepts Zeus's golden chain claim ("thy might is unyielding"); recalls saving Heracles from Eurystheus's tasks and the descent to fetch Cerberus; arms for battle with Hera but turned back by Iris; Zeus angrier at her than at Hera
+- **[Iliad](../sources/iliad.md)** X: Guides the night raid — sends heron omen; breathes might into Diomedes; stands over Rhesos as evil dream; warns Diomedes to retreat; called "Athene the Giver of Spoil"; "Pallas Athene loveth him [Odysseus]"
+- **[Iliad](../sources/iliad.md)** XI: Thunders with Hera to honour Agamemnon; protects Odysseus from Sokos's spear ("did not suffer it to mingle with the bowels"); led Nestor's early battle at Pylos ("came by night rushing down from Olympus")

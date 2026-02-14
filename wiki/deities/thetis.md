@@ -56,6 +56,12 @@ Thetis travels to Olympus to beg [Zeus](zeus.md) to honour Achilles: "she sat be
 [^il1-binding]: "thou alone amid the immortals didst save the son of Kronos, lord of the storm-cloud, from shameful wreck, when all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene. Then didst thou, O goddess, enter in and loose him from his bonds, having with speed summoned to high Olympus him of the hundred arms whom gods call Briareus" (Iliad I.566-572)
 [^il1-supplicate]: "she sat before his face and with her left hand clasped his knees, and with her right touched him beneath his chin, and spake in prayer to king Zeus son of Kronos: 'Father Zeus, if ever I gave thee aid amid the immortal gods, whether by word or deed, fulfil thou this my desire: do honour to my son, that is doomed to earliest death of all men'" (Iliad I.669-674)
 
+### Achilles' Two Fates (Book IX)
+
+In [Iliad](../sources/iliad.md) Book IX, Achilles reveals what Thetis has told him of his destiny: "my goddess mother telleth me, Thetis the silver-footed, that twain fates are bearing me to the issue of death. If I abide here and besiege the Trojans' city, then my returning home is taken from me, but my fame shall be imperishable; but if I go home to my dear native land, my high fame is taken from me, but my life shall endure long while, neither shall the issue of death soon reach me."[^il9-fates]
+
+[^il9-fates]: "my goddess mother telleth me, Thetis the silver-footed, that twain fates are bearing me to the issue of death. If I abide here and besiege the Trojans' city, then my returning home is taken from me, but my fame shall be imperishable; but if I go home to my dear native land, my high fame is taken from me, but my life shall endure long while, neither shall the issue of death soon reach me" (Iliad IX.5301-5307, trans. Lang, Leaf, and Myers)
+
 ### Sheltering Dionysus (Book VI)
 
 In [Iliad](../sources/iliad.md) Book VI, Diomedes recounts how when Lykurgos chased [Dionysus](dionysus.md) and his followers from Nysa, "Dionysos fled and plunged beneath the salt sea-wave, and Thetis took him to her bosom, affrighted, for a mighty trembling had seized him at his foe's rebuke."[^il6-dionysus]
@@ -70,3 +76,4 @@ This is the second instance of Thetis sheltering a god who falls or flees into t
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 319-320: Rescued Hephaestus from the sea
 - **[Iliad](../sources/iliad.md)** I: Rises from the sea; laments Achilles' fate; recalls saving Zeus from bondage; supplicates Zeus on Olympus
 - **[Iliad](../sources/iliad.md)** VI: Sheltered Dionysus in the sea after Lykurgos chased him from Nysa
+- **[Iliad](../sources/iliad.md)** IX: Achilles reports her prophecy of his two fates — glory with death at Troy, or long life without fame

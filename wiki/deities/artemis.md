@@ -41,6 +41,12 @@ After hunting, she goes to [Apollo](apollo.md)'s house at Delphi: "There she han
 [^hh27-hunt]: "Over the shadowy hills and windy peaks she draws her golden bow, rejoicing in the chase, and sends out grievous shafts. The tops of the high mountains tremble and the tangled wood echoes awesomely with the outcry of beasts: earthquakes and the sea also where fishes shoal" (Homeric Hymn XXVII to Artemis 4-10, trans. H.G. Evelyn-White)
 [^hh27-delphi]: "this huntress who delights in arrows slackens her supple bow and goes to the great house of her dear brother Phoebus Apollo, to the rich land of Delphi, there to order the lovely dance of the Muses and Graces. There she hangs up her curved bow and her arrows, and heads and leads the dances" (Homeric Hymn XXVII to Artemis 12-18)
 
+## Immune to Aphrodite (Hymn V)
+
+In the [Homeric Hymn to Aphrodite](../sources/homeric-hymns.md) (V), Artemis is named as one of three goddesses immune to [Aphrodite](aphrodite.md)'s power: "Nor does laughter-loving Aphrodite ever tame in love Artemis, the huntress with shafts of gold; for she loves archery and the slaying of wild beasts in the mountains."[^hh5-immune]
+
+[^hh5-immune]: "Nor does laughter-loving Aphrodite ever tame in love Artemis, the huntress with shafts of gold; for she loves archery and the slaying of wild beasts in the mountains" (Homeric Hymn V to Aphrodite 16-20, trans. H.G. Evelyn-White)
+
 ## In the Iliad
 
 ### Slayer of Mortals (Book VI)
@@ -62,3 +68,13 @@ Both passages show Artemis as a bringer of death to women, striking suddenly and
 - **[Homeric Hymn XXVII](../sources/homeric-hymns.md)**: The huntress; dances at Delphi
 - **[Iliad](../sources/iliad.md)** V: Heals Aeneas in Apollo's temple with Leto
 - **[Iliad](../sources/iliad.md)** VI: Slays Bellerophon's daughter "in wrath"; slays Andromache's mother ("the Archer Artemis")
+
+### The Calydonian Boar (Book IX)
+
+In Phoenix's tale, Artemis punished King Oineus for failing to sacrifice to her: "Artemis of the golden throne had brought a plague upon them, in wrath that Oineus offered her not the harvest first-fruits on the fat of his garden land; for all the other gods had their feast of hecatombs, and only to the daughter of great [Zeus](zeus.md) offered he not, whether he forgat or marked it not; and therein sinned he sore in his heart. So the Archer-goddess was wroth and sent against him a creature of heaven, a fierce wild boar, white-tusked, that wrought sore ill continually on Oineus' garden land."[^il9-boar]
+
+Meleager slew the boar "having gathered together from many cities huntsmen and hounds; for not of few men could the boar be slain, so mighty was he." Then Artemis "made much turmoil over him and tumult concerning the boar's head and shaggy hide," leading to war between the Kuretes and Aitolians.[^il9-aftermath]
+
+[^il9-boar]: "Artemis of the golden throne had brought a plague upon them, in wrath that Oineus offered her not the harvest first-fruits on the fat of his garden land; for all the other gods had their feast of hecatombs, and only to the daughter of great Zeus offered he not, whether he forgat or marked it not; and therein sinned he sore in his heart. So the Archer-goddess was wroth and sent against him a creature of heaven, a fierce wild boar, white-tusked" (Iliad IX.5402-5409, trans. Lang, Leaf, and Myers)
+[^il9-aftermath]: "the goddess made much turmoil over him and tumult concerning the boar's head and shaggy hide, between the Kuretes and great-hearted Aitolians" (Iliad IX.5413-5415)
+- **[Iliad](../sources/iliad.md)** IX: The Calydonian Boar — sent against Oineus for failing to offer first-fruits; "Artemis of the golden throne"; Apollo snatched Marpessa (Ides' wife)

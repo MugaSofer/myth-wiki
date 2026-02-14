@@ -36,6 +36,18 @@ Chrysaor, joined with Callirrhoe (daughter of [Oceanus](../deities/oceanus.md)),
 [^theog-pegasus]: "Now Pegasus flew away and left the earth, the mother of flocks, and came to the deathless gods: and he dwells in the house of Zeus and brings to wise Zeus the thunder and lightning." (Theogony 284-286)
 [^theog-geryones]: "But Chrysaor was joined in love to Callirrhoe, the daughter of glorious Ocean, and begot three-headed Geryones. Him mighty Heracles slew in sea-girt Erythea" (Theogony 287-294)
 
+## In the Iliad
+
+### On Agamemnon's Shield (Book XI)
+
+In [Iliad](../sources/iliad.md) Book XI, Agamemnon's shield bears the Gorgon as a device: "thereon was embossed the Gorgon fell of aspect glaring terribly, and about her were Dread and Terror."[^il11-shield]
+
+This is separate from the Gorgon head on [Athena](../deities/athena.md)'s aegis (described in [Iliad](../sources/iliad.md) Book V) — here the Gorgon is a decorative emblem on a mortal's armour, paired with personified Dread and Terror.
+
+[^il11-shield]: "thereon was embossed the Gorgon fell of aspect glaring terribly, and about her were Dread and Terror" (Iliad XI.6189-6190, trans. Lang, Leaf, and Myers)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 274-294: Origin, Medusa's offspring
+- **[Iliad](../sources/iliad.md)** V: Gorgon head on [Athena](../deities/athena.md)'s aegis
+- **[Iliad](../sources/iliad.md)** XI: "The Gorgon fell of aspect" on Agamemnon's shield, flanked by Dread and Terror

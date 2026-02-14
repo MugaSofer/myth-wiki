@@ -182,6 +182,21 @@ Zeus reveals the future to Hera: "headlong Hector shall not refrain from battle 
 [^il8-taunt]: "all the gods that are in Olympus could not turn me: and for you twain, trembling erst gat hold upon your bright limbs ere that ye beheld war and war's fell deeds" (Iliad VIII.4840-4842)
 [^il8-prophecy]: "headlong Hector shall not refrain from battle till that Peleus' son fleet of foot have arisen beside the ships, that day when these shall fight amid the sterns in most grievous stress, around Patroklos fallen. Such is the doom of heaven... not even though thou go to the nethermost bounds of earth and sea, where sit Iapetos and Kronos and have no joy in the beams of Hyperion the Sun-god, neither in any breeze, but deep Tartaros is round about them" (Iliad VIII.4861-4867)
 
+### Sending Discord and Blood-Dew (Book XI)
+
+In [Iliad](../sources/iliad.md) Book XI, Zeus opens the day's battle by sending a personified force: "Zeus sent forth fierce Discord unto the fleet ships of the Achaians, and in her hands she held the signal of war." Discord stood on Odysseus's ship and "cried shrilly in a great voice and terrible, and mighty strength she set in the heart of each of the Achaians, to war and fight unceasingly. And straightway to them war grew sweeter than to depart in the hollow ships."[^il11-discord]
+
+Then Zeus sent an ominous sign: "the son of Kronos aroused an evil din, and from above rained down dew danked with blood out of the upper air, for that he was about to send many strong men down to Hades."[^il11-blood]
+
+Later, Zeus descended to Ida "from heaven descending, with the thunderbolt in his hands," and sent Iris to Hector with precise tactical instructions: hold back while Agamemnon rages, then "I will give Hector strength to slay till he come even to the well-timbered ships, and the sun go down, and sacred darkness draw on."[^il11-iris]
+
+During the main battle, Discord remained alone among the gods: "woful Discord was glad at the sight, for she alone of the gods was with them in the war; for the other gods were not beside them, but in peace they sat within their halls."[^il11-discord-glad]
+
+[^il11-discord]: "Zeus sent forth fierce Discord unto the fleet ships of the Achaians, and in her hands she held the signal of war. And she stood upon the huge black ship of Odysseus, that was in the midst, to make her voice heard on either side... There stood the goddess and cried shrilly in a great voice and terrible, and mighty strength she set in the heart of each of the Achaians, to war and fight unceasingly. And straightway to them war grew sweeter than to depart in the hollow ships to their dear native land" (Iliad XI.6161-6171, trans. Lang, Leaf, and Myers)
+[^il11-blood]: "the son of Kronos aroused an evil din, and from above rained down dew danked with blood out of the upper air, for that he was about to send many strong men down to Hades" (Iliad XI.6204-6206)
+[^il11-iris]: "So long as he sees Agamemnon, shepherd of the host, raging among the foremost fighters, and ruining the ranks of men, so long let him hold back, but bid the rest of the host war with the foe in strong battle. But when, or smitten with the spear or wounded with arrow shot, Agamemnon leapeth into his chariot, then will I give Hector strength to slay till he come even to the well-timbered ships, and the sun go down, and sacred darkness draw on" (Iliad XI.6333-6340)
+[^il11-discord-glad]: "woful Discord was glad at the sight, for she alone of the gods was with them in the war; for the other gods were not beside them, but in peace they sat within their halls, where the goodly mansion of each was builded in the folds of Olympus" (Iliad XI.6223-6227)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 4-96, 141, 389-401, 453-506, 617-735, 820-885, 886-944: Pervasive throughout
@@ -190,3 +205,6 @@ Zeus reveals the future to Hera: "headlong Hector shall not refrain from battle 
 - **[Iliad](../sources/iliad.md)** IV: Taunts Hera; bargains over cities; sends Athena to break the truce
 - **[Iliad](../sources/iliad.md)** V: Tells Aphrodite her domain is wedlock, not war; rebukes Ares ("most hateful to me art thou of all gods"); sends Athena against Ares
 - **[Iliad](../sources/iliad.md)** VIII: Golden chain speech (supreme power); golden scales weighing fates; thunders from Ida; sends eagle; stops Hera and Athena with threats via Iris; prophesies Patroclus's death; Iapetos and Kronos in Tartarus
+- **[Iliad](../sources/iliad.md)** XI: Sends Discord to rouse the Greeks; rains blood-dew from heaven; sits on Ida with thunderbolt; sends Iris to Hector with tactical instructions; gives Hector strength after Agamemnon withdraws
+- **[Iliad](../sources/iliad.md)** XII: Wards off the Fates from his son Sarpedon; makes Hector's stone light ("the son of crooked-counselling Kronos made it light for him"); sends wind from Ida to aid Trojans; eagle omen dismissed by Hector ("One omen is best, to fight for our own country")
+- **[Iliad](../sources/iliad.md)** XIII: Turns his eyes away from Troy; contends with Poseidon — "both were of the same lineage and the same place of birth, but Zeus was the elder and the wiser"; holds Ares and other gods on Olympus by design; Zeus begat Minos (Idomeneus's genealogy: Zeus → Minos → Deukalion → Idomeneus)

@@ -91,6 +91,15 @@ When the Greeks rush to flee after Agamemnon's test, Hera intervenes again by se
 
 [^il2-retreat]: "Hera spake a word to Athene: 'Out on it, daughter of aegis-bearing Zeus, unwearied maiden! Shall the Argives thus indeed flee homeward to their dear native land over the sea's broad back? But they would leave to Priam and the Trojans their boast, even Helen of Argos'" (Iliad II.932-936, trans. Lang, Leaf, and Myers)
 
+### Thundering for Agamemnon / The Eilithyiai (Book XI)
+
+In [Iliad](../sources/iliad.md) Book XI, Hera and [Athena](athena.md) honour Agamemnon as he arms: "far forth from him into the heaven shone the bronze; and thereat Hera and Athene thundered, honouring the king of Mykene rich in gold."[^il11-thunder]
+
+Later, the Eilithyiai — goddesses of childbirth — are identified as Hera's daughters: Agamemnon's wound-pain is compared to "the piercing shaft that the goddesses of the birth-pangs send, even the Eilithyiai, the daughters of Hera that have bitter pangs in their gift."[^il11-eilithyiai]
+
+[^il11-thunder]: "far forth from him into the heaven shone the bronze; and thereat Hera and Athene thundered, honouring the king of Mykene rich in gold" (Iliad XI.6196-6197, trans. Lang, Leaf, and Myers)
+[^il11-eilithyiai]: "even as when the keen shaft cometh upon a woman in her travail, the piercing shaft that the goddesses of the birth-pangs send, even the Eilithyiai, the daughters of Hera that have bitter pangs in their gift" (Iliad XI.6411-6413)
+
 ### Recruiting Poseidon / Stopped by Zeus (Book VIII)
 
 In [Iliad](../sources/iliad.md) Book VIII, when the Trojans drive the Greeks back, Hera tries to recruit [Poseidon](poseidon.md) against [Zeus](zeus.md): "Did we but will, we that are confederate with the Danaans, to drive the Trojans back and withhold far-seeing Zeus, then would he vex himself that he should sit there alone in Ida." Poseidon refuses: "I am not he that would fain see us all at strife with Zeus Kronion, for he verily is mightier far."[^il8-poseidon]
@@ -112,3 +121,4 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 - **[Iliad](../sources/iliad.md)** IV: Argues with Zeus over Troy's fate; claims equal divine lineage; offers Argos, Sparta, and Mycenae in exchange for Troy's destruction
 - **[Iliad](../sources/iliad.md)** V: Drives gold-frontleted chariot to Troy with Athena; shouts disguised as Stentor ("voice of bronze... loud as the cry of fifty other men"); wounded once by Heracles (recalled by Dione)
 - **[Iliad](../sources/iliad.md)** VIII: Tries to recruit Poseidon against Zeus; arms for battle with Athena but stopped by Iris; yields to Zeus's supremacy; quakes Olympus from her throne
+- **[Iliad](../sources/iliad.md)** XI: Thunders with Athena to honour Agamemnon; Eilithyiai called "the daughters of Hera that have bitter pangs in their gift"

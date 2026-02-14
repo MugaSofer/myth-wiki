@@ -96,6 +96,13 @@ They then sit together "in the likeness of vulture birds" on the oak "holy to ae
 
 During the duel between Aias and Hector, when Aias knocks Hector down with a great stone, "Apollo straightway raised him up."[^il7-raises]
 
+### Apollo's Helm Saves Hector (Book XI)
+
+In [Iliad](../sources/iliad.md) Book XI, Diomedes hurls his spear at Hector's head, hitting the crest, but "bronze by bronze was turned, nor reached his fair flesh, for it was stopped by the threefold helm with its socket, that Phoebus Apollo to Hector gave."[^il11-helm] Diomedes himself recognises the divine protection: "now hath Phoebus Apollo saved thee, to whom thou must surely pray when thou goest amid the clash of spears."[^il11-saved]
+
+[^il11-helm]: "bronze by bronze was turned, nor reached his fair flesh, for it was stopped by the threefold helm with its socket, that Phoebus Apollo to Hector gave" (Iliad XI.6492-6494, trans. Lang, Leaf, and Myers)
+[^il11-saved]: "now hath Phoebus Apollo saved thee, to whom thou must surely pray when thou goest amid the clash of spears" (Iliad XI.6503-6504)
+
 ### Built Troy's Wall for Laomedon (Book VII)
 
 [Poseidon](poseidon.md) complains to [Zeus](zeus.md) about the Achaian wall: "men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon."[^il7-wall] This is a passing but significant reference to Apollo and Poseidon's forced service to the mortal king Laomedon — building Troy's walls.
@@ -113,3 +120,7 @@ During the duel between Aias and Hector, when Aias knocks Hector down with a gre
 - **[Iliad](../sources/iliad.md)** IV: Rallies the Trojans from Pergamos; notes Achilles' absence
 - **[Iliad](../sources/iliad.md)** V: Shields Aeneas (creates a wraith in his likeness); warns Diomedes: "there is no comparison of the race of immortal gods and of men that walk upon the earth"; sends Ares into battle; Leto and Artemis heal Aeneas in Apollo's temple
 - **[Iliad](../sources/iliad.md)** VII: Meets Athena; arranges Hector's duel; sits as vulture-bird on the oak; raises Hector after Aias fells him; built Troy's wall with Poseidon for Laomedon
+- **[Iliad](../sources/iliad.md)** VIII: Deflects Teukros's arrow from Hector
+- **[Iliad](../sources/iliad.md)** X: Watches Athena aid Diomedes; "in wrath against her he stole among the crowded press of Trojans" and rouses the Thracians
+- **[Iliad](../sources/iliad.md)** XI: His helm ("the threefold helm with its socket, that Phoebus Apollo to Hector gave") saves Hector from Diomedes' spear
+- **[Iliad](../sources/iliad.md)** XII: After the war, turns nine rivers against the Achaian wall for nine days to destroy it (with [Poseidon](poseidon.md))

@@ -57,6 +57,12 @@ Here Iris is called "whirlwind-footed" and "fleet-footed" — variant epithets t
 [^il8-vixen]: "Most fell art thou, reckless vixen! if thou indeed wilt dare to lift thy huge spear against the face of Zeus" (Iliad VIII.4813-4815, trans. Lang, Leaf, and Myers)
 [^il8-speed]: "whirlwind-footed Iris arose to bear the message" (Iliad VIII.4801)
 
+### Tactical Instructions to Hector (Book XI)
+
+In [Iliad](../sources/iliad.md) Book XI, [Zeus](zeus.md) sends "Iris of the golden wings" — a new epithet — to Hector with precise battle instructions. "Wind-footed swift Iris" delivers the message faithfully: hold back while Agamemnon rages, then Zeus "will give thee strength to slay."[^il11-hector]
+
+[^il11-hector]: "Then sent he forth Iris of the golden wings, to bear his word: 'Up and go, swift Iris, and tell this word unto Hector'... So spake he, and wind-footed swift Iris disobeyed him not, but she went down from the hills of Ida to sacred Ilios" (Iliad XI.6332-6343, trans. Lang, Leaf, and Myers)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 266, 780-785: Birth; messenger of Zeus carrying the oath of Styx
@@ -65,3 +71,4 @@ Here Iris is called "whirlwind-footed" and "fleet-footed" — variant epithets t
 - **[Iliad](../sources/iliad.md)** III: Summons Helen to watch the duel, disguised as Laodike; "put into her heart sweet longing for her former husband"
 - **[Iliad](../sources/iliad.md)** V: Rescues wounded Aphrodite from the battlefield; "wind-footed Iris took her and led her from the throng"
 - **[Iliad](../sources/iliad.md)** VIII: "Whirlwind-footed"; stops Hera and Athena at heaven's gates with Zeus's threats; calls Athena "reckless vixen"
+- **[Iliad](../sources/iliad.md)** XI: "Iris of the golden wings" (new epithet); carries Zeus's tactical instructions to Hector from Ida

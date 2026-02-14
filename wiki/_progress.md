@@ -213,6 +213,58 @@ Book V (Diomedes' aristeia — most mythology-dense book so far):
 
 **Pages updated:** zeus.md, hera.md, athena.md, iris.md, poseidon.md, heracles.md, iliad.md
 
+**Book IX processed:**
+- Achilles' two fates from Thetis: glory with death at Troy, or long life without fame
+- Phoenix's Prayers (Litai): "daughters of great Zeus, halting and wrinkled and of eyes askance," following Sin
+- Phoenix's father's curse: Erinyes invoked, fulfilled by "Zeus of the underworld and dread Persephone"
+- Calydonian Boar: Artemis sent "a creature of heaven, a fierce wild boar, white-tusked" against Oineus; Meleager story as parallel to Achilles
+- Althaia's curse on Meleager: "Erinnys that walketh in darkness, whose heart knoweth not ruth, heard her from Erebos"
+- Apollo and Marpessa: Ides "took the bow to face the king Phoebus Apollo for sake of the fair-ankled damsel"
+- Apollo's treasure at Pytho: "the stone threshold of the archer Phoebus Apollo encompasseth in rocky Pytho"
+
+**Pages updated:** thetis.md, artemis.md, erinyes.md, iliad.md
+
+**Book X processed:**
+- Athena guides the night raid: sends heron omen on the right; breathes might into Diomedes; evil dream over Rhesos "through the device of Athene"; warns Diomedes to retreat; called "Athene the Giver of Spoil"
+- Diomedes says "Pallas Athene loveth him [Odysseus]"
+- Diomedes prays to Athena recalling she helped his father Tydeus at Thebes
+- Apollo counters Athena: "in wrath against her he stole among the crowded press of Trojans, and aroused a counsellor of the Thracians"
+- Dolon's spoils dedicated to Athena; wine poured to Athena after the raid
+
+**Pages updated:** athena.md, apollo.md, iliad.md
+
+**Book XI processed:**
+- Zeus sends Discord (personified — "fierce Discord," "woful Discord was glad at the sight, for she alone of the gods was with them")
+- Zeus rains blood-dew from heaven as omen of death
+- Gorgon on Agamemnon's shield with Dread and Terror
+- Hera and Athena thunder to honour Agamemnon
+- Zeus sends Iris ("of the golden wings") to Hector with battle instructions from Ida
+- Apollo's helm ("the threefold helm with its socket, that Phoebus Apollo to Hector gave") saves Hector from Diomedes
+- Athena protects Odysseus from Sokos's spear ("did not suffer it to mingle with the bowels of the hero")
+- Eilithyiai called "the daughters of Hera that have bitter pangs in their gift"
+- Machaon called "son of Asklepios the good leech"
+- Nestor's tale: Heracles oppressed Pylos, killed 11 of 12 sons of Neleus; Athena came from Olympus to lead the Pylians; Poseidon saved the twin Moliones ("their sire, the Earthshaker of wide sway"); sacrifice to Zeus, Poseidon, and Athena
+- Cheiron: "most righteous of the Centaurs," taught Achilles medicine
+
+**Pages updated:** zeus.md, iris.md, hera.md, apollo.md, athena.md, poseidon.md, heracles.md, gorgons.md, iliad.md
+
+**Book XII processed:**
+- Flash-forward: Poseidon and Apollo destroy the Achaian wall after the war (Poseidon with trident, Apollo turns nine rivers for nine days, Zeus rains)
+- Zeus wards off the Fates from his son Sarpedon; eagle-and-snake omen; makes Hector's stone light; sends wind from Ida
+- Hector breaks the gates ("with face like the sudden night... his eyes shone with fire")
+- Relatively light on new mythological material (mostly battle narrative)
+
+**Pages updated:** poseidon.md, apollo.md, zeus.md, iliad.md
+
+**Book XIII processed:**
+- Poseidon's grand intervention: watches from Samothrace, three strides to Aigae, golden chariot across the waves (sea beasts, sea parts), disguised as Kalchas and Thoas
+- Poseidon vs Zeus theology: "both were of the same lineage... but Zeus was the elder and the wiser"
+- Poseidon protects Antilochos, paralyzes Alkathoos, grieves for grandson Amphimachos
+- Ares's son Askalaphos slain by Deiphobos (Ares unaware on Olympus)
+- Idomeneus's genealogy: Zeus → Minos → Deukalion → Idomeneus
+
+**Pages updated:** poseidon.md (major expansion), ares.md, zeus.md, iliad.md
+
 ## Next
 
-Continue Iliad processing (Books IX-XXIV), one book at a time.
+Continue Iliad processing (Books XIV-XXIV), one book at a time.
