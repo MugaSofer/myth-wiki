@@ -29,6 +29,17 @@ They are called "presumptuous children" and "were hated by their own father from
 
 [^theog-hated]: "presumptuous children" ... "they were hated by their own father from the first." (Theogony 149, 154-155)
 
+## In the Iliad
+
+### Briareus and the Binding of Zeus (Book I)
+
+In [Iliad](../sources/iliad.md) Book I, Achilles recounts how [Thetis](../deities/thetis.md) once saved [Zeus](../deities/zeus.md) from being bound by [Hera](../deities/hera.md), [Poseidon](../deities/poseidon.md), and [Athena](../deities/athena.md). She "summoned to high Olympus him of the hundred arms whom gods call Briareus, but all men call Aigaion; for he is mightier even than his father—so he sate him by Kronion's side rejoicing in his triumph, and the blessed gods feared him withal and bound not Zeus."[^il1-briareus]
+
+This passage introduces the **variant name Aigaion** (used by mortals), and describes Briareus as "mightier even than his father" — a detail not found in the [Theogony](../sources/theogony.md).
+
+[^il1-briareus]: "having with speed summoned to high Olympus him of the hundred arms whom gods call Briareus, but all men call Aigaion; for he is mightier even than his father—so he sate him by Kronion's side rejoicing in his triumph, and the blessed gods feared him withal and bound not Zeus" (Iliad I.570-573, trans. Lang, Leaf, and Myers)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 147-158: Birth and description; imprisoned by Uranus
+- **[Iliad](../sources/iliad.md)** I: Briareus (called Aigaion by men) summoned by Thetis to protect Zeus; "mightier even than his father"

@@ -69,7 +69,24 @@ During Leto's labour on Delos, Hera "sat in the halls of cloud-gathering [Zeus](
 [^hh3-typhaon]: "she bare one neither like the gods nor mortal men, fell, cruel Typhaon, to be a plague to men. Straightway large-eyed queenly Hera took him and bringing one evil thing to another such, gave him to the dragoness; and she received him" (Homeric Hymn III to Apollo 351-355)
 [^hh3-envy]: "Only Eilithyia, goddess of sore travail, had not heard of Leto's trouble, for she sat on the top of Olympus beneath golden clouds by white-armed Hera's contriving, who kept her close through envy" (Homeric Hymn III to Apollo 97-100)
 
+## In the Iliad
+
+### Book I
+
+In [Iliad](../sources/iliad.md) Book I, Hera is called **"the ox-eyed queen"** — a new epithet not found in Hesiod or the Hymns.[^il1-oxeyed] She puts the thought in Achilles' mind to call an assembly, "because she had pity on the Danaans when she beheld them perishing."[^il1-pity] She also sends [Athena](athena.md) to restrain Achilles from killing Agamemnon, "whose heart loved both alike and had care for them."
+
+Later, she confronts [Zeus](zeus.md) about his secret dealings with Thetis: "It is ever thy good pleasure to hold aloof from me and in secret meditation to give thy judgments."[^il1-quarrel] Zeus threatens her, and she is afraid, but smiles when [Hephaestus](hephaestus.md) makes peace. At the close of the day she is **"Hera of the golden throne"** who sleeps beside Zeus.[^il1-throne]
+
+According to Achilles, Hera was one of three gods (with [Poseidon](poseidon.md) and [Athena](athena.md)) who once tried to bind Zeus — until Thetis freed him by summoning Briareus.[^il1-binding]
+
+[^il1-oxeyed]: "Then Hera the ox-eyed queen made answer to him" (Iliad I.551, trans. Lang, Leaf, and Myers)
+[^il1-pity]: "in his mind did goddess Hera of the white arms put the thought, because she had pity on the Danaans when she beheld them perishing" (Iliad I.55-56)
+[^il1-quarrel]: "It is ever thy good pleasure to hold aloof from me and in secret meditation to give thy judgments, nor of thine own good will hast thou ever brought thyself to declare unto me the thing thou purposest" (Iliad I.541-543)
+[^il1-throne]: "beside him was Hera of the golden throne" (Iliad I.611)
+[^il1-binding]: "all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene" (Iliad I.399-400)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 11-12, 314-315, 328-329, 454, 921-929: Invocation; nourishes monsters against Heracles; bears children
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 97-100, 311-355: Opposes Apollo's birth; casts out Hephaestus; births Typhaon
+- **[Iliad](../sources/iliad.md)** I: "Ox-eyed queen"; pities the Greeks; sends Athena; quarrels with Zeus; part of the conspiracy to bind Zeus

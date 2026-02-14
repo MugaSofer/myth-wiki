@@ -42,7 +42,19 @@ In the [Theogony](../sources/theogony.md), Athena is mentioned as:
 
 [^hh28-birth]: "From his awful head wise Zeus himself bare her arrayed in warlike arms of flashing gold, and awe seized all the gods as they gazed. But Athena sprang quickly from the immortal head and stood before Zeus who holds the aegis, shaking a sharp spear: great Olympus began to reel horribly at the might of the bright-eyed goddess, and earth round about cried fearfully, and the sea was moved and tossed with dark waves, while foam burst forth suddenly: the bright Son of Hyperion stopped his swift-footed horses a long while, until the maiden Pallas Athene had stripped the heavenly armour from her immortal shoulders. And wise Zeus was glad." (Homeric Hymn XXVIII to Athena 4-16, trans. H.G. Evelyn-White)
 
+## In the Iliad
+
+### Restraining Achilles (Book I)
+
+In [Iliad](../sources/iliad.md) Book I, when Achilles is about to draw his sword against Agamemnon, "Athene came to him from heaven, sent forth of the white-armed goddess [Hera](hera.md), whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her." Achilles "straightway knew Pallas Athene; and terribly shone her eyes."[^il1-restrain]
+
+She promised him: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us."[^il1-promise]
+
+[^il1-restrain]: "Athene came to him from heaven, sent forth of the white-armed goddess Hera, whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her. Then Achilles marvelled, and turned him about, and straightway knew Pallas Athene; and terribly shone her eyes" (Iliad I.195-200, trans. Lang, Leaf, and Myers)
+[^il1-promise]: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us" (Iliad I.213-214)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 13, 318, 573-578, 886-900, 924-929t: Invocation; aids Heracles; dresses the first woman; birth from Zeus's head
 - **[Homeric Hymn XXVIII](../sources/homeric-hymns.md)**: Birth — cosmic reaction; Helius stops his chariot
+- **[Iliad](../sources/iliad.md)** I: Restrains Achilles from killing Agamemnon; visible only to him; "terribly shone her eyes"

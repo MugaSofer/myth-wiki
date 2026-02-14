@@ -17,6 +17,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 - [Theogony](sources/theogony.md) - Hesiod (c. 700 BCE)
 - [Works and Days](sources/works-and-days.md) - Hesiod (c. 700 BCE)
 - [Homeric Hymns](sources/homeric-hymns.md) - Anonymous (c. 7th-6th century BCE)
+- [Iliad](sources/iliad.md) - Homer (c. 750-700 BCE) — in progress
 
 ## Progress
 

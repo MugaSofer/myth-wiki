@@ -77,7 +77,19 @@ Apollo then chose his ministers by taking the form of a dolphin and leaping aboa
 [^hh3-pytho]: "the holy strength of Helios made her rot away there; wherefore the place is now called Pytho, and men call the lord Apollo by another name, Pythian; because on that spot the power of piercing Helios made the monster rot away" (Homeric Hymn III to Apollo 371-374)
 [^hh3-priests]: "I am the son of Zeus; Apollo is my name: but you I brought here over the wide gulf of the sea, meaning you no hurt; nay, here you shall keep my rich temple that is greatly honoured among men... in as much as at the first on the hazy sea I sprang upon the swift ship in the form of a dolphin, pray to me as Apollo Delphinius" (Homeric Hymn III to Apollo 480-496)
 
+## In the Iliad
+
+### The Plague (Book I)
+
+In [Iliad](../sources/iliad.md) Book I, Apollo sends a plague upon the Greek army because Agamemnon dishonoured his priest Chryses. "Phoebus Apollo heard him, and came down from the peaks of Olympus wroth at heart, bearing on his shoulders his bow and covered quiver. And the arrows clanged upon his shoulders in wrath, as the god moved; and he descended like to night." He "sate him aloof from the ships, and let an arrow fly; and there was heard a dread clanging of the silver bow. First did he assail the mules and fleet dogs, but afterward, aiming at the men his piercing dart, he smote; and the pyres of the dead burnt continually in multitude."[^il1-plague]
+
+The plague continued for nine days until the Greeks returned Chryses's daughter and made sacrifice; then "Apollo the Far-darter sent them a favouring gale."[^il1-favour]
+
+[^il1-plague]: "Phoebus Apollo heard him, and came down from the peaks of Olympus wroth at heart, bearing on his shoulders his bow and covered quiver. And the arrows clanged upon his shoulders in wrath, as the god moved; and he descended like to night. Then he sate him aloof from the ships, and let an arrow fly; and there was heard a dread clanging of the silver bow" (Iliad I.43-49, trans. Lang, Leaf, and Myers)
+[^il1-favour]: "Apollo the Far-darter sent them a favouring gale" (Iliad I.479)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
 - **[Homeric Hymn III](../sources/homeric-hymns.md)**: Birth on Delos; first words; the dragon at Pytho; founding of the Delphic oracle; the Cretan priests
+- **[Iliad](../sources/iliad.md)** I: Sends plague on the Greeks; "descended like to night"; sends favourable wind after sacrifice

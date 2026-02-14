@@ -106,6 +106,23 @@
 **Appearance/Epithet pass completed:**
 Added Epithets & Description sections to: hecate.md, demeter.md, apollo.md, hermes.md, hades.md, artemis.md, persephone.md, dionysus.md, eos.md, iris.md, helius.md, selene.md, ares.md. Enhanced existing sections in: hera.md, zeus.md, aphrodite.md.
 
+### Iliad — In Progress
+
+**Source text:** Lang, Leaf, and Myers translation (1893), Project Gutenberg #3059
+**Source page created:** iliad.md
+
+**Book I processed:**
+- Apollo's plague on the Greeks (Chryses, arrows "like night")
+- Athena restrains Achilles (visible only to him, "terribly shone her eyes")
+- Thetis: rises from sea "like a mist," laments Achilles' fate, recalls saving Zeus from bondage, supplicates Zeus
+- Zeus: binding myth (Hera/Poseidon/Athena conspiracy, Briareus summoned), nod shaking Olympus, "ambrosial locks"
+- Hera: "ox-eyed queen" (new epithet), pities Greeks, quarrels with Zeus, part of binding conspiracy
+- Hephaestus: peacemaker, "laughter unquenchable," variant tradition of being hurled by Zeus (not Hera), fell on Lemnos
+- Briareus/Aigaion: variant name, "mightier even than his father"
+
+**Pages updated:** apollo.md, athena.md, zeus.md, hera.md, hephaestus.md, hundred-handers.md
+**New pages created:** thetis.md
+
 ## Next
 
-All Hesiod (Theogony, Works and Days) and Homeric Hymns are now complete. Proceed to next source (Homer's Iliad or Odyssey, or another available text).
+Continue Iliad processing (Books II-XXIV), one book at a time.

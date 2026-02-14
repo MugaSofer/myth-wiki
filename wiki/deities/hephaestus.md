@@ -43,7 +43,26 @@ This adds detail not found in the [Theogony](../sources/theogony.md) — the cas
 
 [^hh3-cast]: "my son Hephaestus whom I bare was weakly among all the blessed gods and shrivelled of foot, a shame and disgrace to me in heaven, whom I myself took in my hands and cast out so that he fell in the great sea. But silver-shod Thetis the daughter of Nereus took and cared for him with her sisters" (Homeric Hymn III to Apollo 316-321, trans. H.G. Evelyn-White)
 
+## In the Iliad
+
+### Peacemaker on Olympus (Book I)
+
+In [Iliad](../sources/iliad.md) Book I, when [Zeus](zeus.md) and [Hera](hera.md) quarrel, Hephaestus rises to make peace, urging his mother: "So I give counsel to my mother, though herself is wise, to do kindness to our dear father Zeus, that our father upbraid us not again and cast the banquet in confusion. What if the Olympian, the lord of the lightning, will to dash us from our seats! for he is strongest far."[^il1-peace]
+
+He then serves wine to all the gods: "laughter unquenchable arose amid the blessed gods to see Hephaistos bustling through the palace."[^il1-laughter]
+
+### Variant Tradition: Hurled by Zeus
+
+In this same speech, Hephaestus tells a **variant tradition** of his fall — here it is [Zeus](zeus.md), not [Hera](hera.md), who cast him out: "Yea, once ere this, when I was fain to save thee, he caught me by my foot and hurled me from the heavenly threshold; all day I flew, and at the set of sun I fell in Lemnos, and little life was in me. There did the Sintian folk forthwith tend me for my fall."[^il1-fall]
+
+This contradicts the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III), where Hera herself cast him out and Thetis rescued him from the sea. In the Iliad version, Zeus hurls him, he lands on Lemnos (not in the sea), and the Sintian people tend him.
+
+[^il1-peace]: "So I give counsel to my mother, though herself is wise, to do kindness to our dear father Zeus, that our father upbraid us not again and cast the banquet in confusion. What if the Olympian, the lord of the lightning, will to dash us from our seats! for he is strongest far" (Iliad I.738-748, trans. Lang, Leaf, and Myers)
+[^il1-laughter]: "laughter unquenchable arose amid the blessed gods to see Hephaistos bustling through the palace" (Iliad I.763-764)
+[^il1-fall]: "once ere this, when I was fain to save thee, he caught me by my foot and hurled me from the heavenly threshold; all day I flew, and at the set of sun I fell in Lemnos, and little life was in me. There did the Sintian folk forthwith tend me for my fall" (Iliad I.755-758)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 316-321: Cast out by Hera; rescued by Thetis
+- **[Iliad](../sources/iliad.md)** I: Peacemaker on Olympus; "laughter unquenchable"; variant tradition of being hurled by Zeus (not Hera), fell on Lemnos

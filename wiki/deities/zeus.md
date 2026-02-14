@@ -126,6 +126,25 @@ After the [Titanomachy](../events/titanomachy.md), [Gaia](gaia.md) bore [Typhoeu
 
 [^theog-divide]: "when the blessed gods had finished their toil, and settled by force their struggle for honours with the Titans, they pressed far-seeing Olympian Zeus to reign and to rule over them, by Earth's prompting. So he divided their dignities amongst them" (Theogony 881-885)
 
+## In the Iliad
+
+### The Binding of Zeus (Book I)
+
+Achilles tells his mother Thetis of a myth not found in any other source: that the Olympians once tried to bind Zeus. "Thou alone amid the immortals didst save the son of Kronos, lord of the storm-cloud, from shameful wreck, when all the other Olympians would have bound him, even [Hera](hera.md) and [Poseidon](poseidon.md) and Pallas [Athene](athena.md)." Thetis summoned Briareus (one of the [Hundred-Handers](../creatures/hundred-handers.md)): "so he sate him by Kronion's side rejoicing in his triumph, and the blessed gods feared him withal and bound not Zeus."[^il1-binding]
+
+### The Nod of Zeus
+
+When Thetis beseeches Zeus to honour Achilles, he consents with a nod whose power is absolute: "no word of mine is revocable nor false nor unfulfilled when the bowing of my head hath pledged it." Then: "Kronion spake, and bowed his dark brow, and the ambrosial locks waved from the king's immortal head; and he made great [Olympus](../places/olympus.md) quake."[^il1-nod]
+
+### Zeus and Hera's Quarrel
+
+[Hera](hera.md) immediately perceives Zeus's deal with Thetis and confronts him. Zeus responds with a threat: "Abide thou in silence and hearken to my bidding, lest all the gods that are in Olympus keep not off from thee my visitation, when I put forth my hands unapproachable against thee."[^il1-threat]
+
+[^il1-binding]: "thou alone amid the immortals didst save the son of Kronos, lord of the storm-cloud, from shameful wreck, when all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene. Then didst thou, O goddess, enter in and loose him from his bonds, having with speed summoned to high Olympus him of the hundred arms whom gods call Briareus, but all men call Aigaion" (Iliad I.396-404, trans. Lang, Leaf, and Myers)
+[^il1-nod]: "Kronion spake, and bowed his dark brow, and the ambrosial locks waved from the king's immortal head; and he made great Olympus quake" (Iliad I.528-530)
+[^il1-threat]: "Abide thou in silence and hearken to my bidding, lest all the gods that are in Olympus keep not off from thee my visitation, when I put forth my hands unapproachable against thee" (Iliad I.565-567)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 4-96, 141, 389-401, 453-506, 617-735, 820-885, 886-944: Pervasive throughout
+- **[Iliad](../sources/iliad.md)** I: Bound by Hera/Poseidon/Athena, freed by Thetis and Briareus; pledges to honour Achilles; his nod shakes Olympus; quarrels with Hera
