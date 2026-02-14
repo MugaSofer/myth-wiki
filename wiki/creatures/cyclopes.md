@@ -9,7 +9,7 @@
 
 ## Overview
 
-The **Cyclopes** are three beings born of [Gaia](../deities/gaia.md) and [Uranus](../deities/uranus.md). They later gave [Zeus](../deities/zeus.md) the thunder and thunderbolt.
+The **Cyclopes** are three beings born of [Gaia](../deities/gaia.md) and [Uranus](../deities/uranus.md). They later gave [Zeus](../deities/zeus.md) the thunder and [thunderbolt](../objects/thunderbolt.md).
 
 ## Description
 
@@ -26,7 +26,7 @@ The **Cyclopes** are three beings born of [Gaia](../deities/gaia.md) and [Uranus
 
 ## Role
 
-They "gave Zeus the thunder and made the thunderbolt."[^theog-thunder]
+They "gave Zeus the thunder and made the [thunderbolt](../objects/thunderbolt.md)."[^theog-thunder]
 
 [^theog-thunder]: "who gave Zeus the thunder and made the thunderbolt" (Theogony 141)
 

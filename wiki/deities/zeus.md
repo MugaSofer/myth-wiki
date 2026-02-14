@@ -36,11 +36,11 @@ Zeus is rarely described physically, known more through his effects than his for
 
 When he seduces [Hera](hera.md) on Mount Ida, he wraps them both in concealment: "a fair golden cloud, whence fell drops of glittering dew."[^il14-earth]
 
-His instruments are described as extensions of himself: the golden scales with which he weighs fates,[^il8-scales] and the thunderbolt, with which he descends "from heaven" to sit on Ida.[^il11-iris]
+His instruments are described as extensions of himself: the [golden scales](../objects/golden-scales.md) with which he weighs fates,[^il8-scales] and the [thunderbolt](../objects/thunderbolt.md), with which he descends "from heaven" to sit on Ida.[^il11-iris]
 
 ## Domains & Powers
 
-Zeus holds "the lightning and glowing thunderbolt," having "overcome by might his father [Cronos](cronos.md)," after which "he distributed fairly to the immortals their portions and declared their privileges."[^theog-rule] The thunderbolt was given to him by the [Cyclopes](../creatures/cyclopes.md).[^theog-cyclopes]
+Zeus holds "the lightning and glowing [thunderbolt](../objects/thunderbolt.md)," having "overcome by might his father [Cronos](cronos.md)," after which "he distributed fairly to the immortals their portions and declared their privileges."[^theog-rule] The thunderbolt was given to him by the [Cyclopes](../creatures/cyclopes.md).[^theog-cyclopes]
 
 It is "through the [Muses](muses.md) and far-shooting [Apollo](apollo.md) that there are singers and harpers upon the earth; but princes are of Zeus."[^theog-princes]
 

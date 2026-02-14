@@ -29,7 +29,7 @@
 
 ## Appearance
 
-Hermes carries two signature items: "the wand of gold" and [Apollo](apollo.md)'s "shining whip," exchanged when they reconciled.[^desc-exchange]
+Hermes carries two signature items: "the [wand](../objects/hermes-wand.md) of gold" and [Apollo](apollo.md)'s "shining whip," exchanged when they reconciled.[^desc-exchange]
 
 In [Iliad](../sources/iliad.md) Book XXIV, his equipment is described in detail when [Zeus](zeus.md) sends him to guide Priam: he binds on golden sandals "that bare him over wet sea and over the boundless land swift as the blast of the wind" and takes up his wand "wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep."[^il24-equip] He disguises himself as "a young man, a prince, with the first down on his lip, as when the youth of men is the comeliest."[^il24-disguise]
 
@@ -39,9 +39,9 @@ In [Iliad](../sources/iliad.md) Book XXIV, his equipment is described in detail 
 
 ## Powers
 
-Hermes's wand can both induce and break sleep — he uses it to put the Greek sentinels to sleep so Priam can pass.[^il24-equip] He is the appointed "messenger to [Hades](hades.md),"[^hh4-domains] guide between the worlds of living and dead.
+Hermes's [wand](../objects/hermes-wand.md) can both induce and break sleep — he uses it to put the Greek sentinels to sleep so Priam can pass.[^il24-equip] He is the appointed "messenger to [Hades](hades.md),"[^hh4-domains] guide between the worlds of living and dead.
 
-On the very day of his birth he invented fire ("it was Hermes who first invented fire-sticks and fire"), crafted the lyre from a tortoise shell, and stole fifty of [Apollo](apollo.md)'s divine cattle.[^hh4-theft] [Zeus](zeus.md) describes him through laughter — "Zeus laughed out loud to see his evil-plotting child well and cunningly denying guilt."[^hh4-zeus]
+On the very day of his birth he invented fire ("it was Hermes who first invented fire-sticks and fire"), crafted the [lyre](../objects/lyre.md) from a tortoise shell, and stole fifty of [Apollo](apollo.md)'s divine cattle.[^hh4-theft] [Zeus](zeus.md) describes him through laughter — "Zeus laughed out loud to see his evil-plotting child well and cunningly denying guilt."[^hh4-zeus]
 
 ## Birth
 
@@ -61,7 +61,7 @@ The [Homeric Hymn to Hermes](../sources/homeric-hymns.md) (IV) is devoted entire
 
 ### Invention of the Lyre
 
-"Born with the dawning, at mid-day he played on the lyre." Finding a tortoise, he "first made the tortoise a singer" — cutting it open, stretching ox hide over the shell, and fitting "seven strings of sheep-gut." He sang of [Zeus](zeus.md) and Maia "telling all the glorious tale of his own begetting."[^hh4-lyre]
+"Born with the dawning, at mid-day he played on the [lyre](../objects/lyre.md)." Finding a tortoise, he "first made the tortoise a singer" — cutting it open, stretching ox hide over the shell, and fitting "seven strings of sheep-gut." He sang of [Zeus](zeus.md) and Maia "telling all the glorious tale of his own begetting."[^hh4-lyre]
 
 ### The Cattle Theft
 
@@ -73,7 +73,7 @@ When Apollo confronted him, Hermes denied everything: "I was born yesterday, and
 
 ### The Exchange
 
-When Hermes played the lyre for Apollo, "the sweet throb of the marvellous music went to his heart, and a soft longing took hold on his soul." Apollo declared: "this song of yours is worth fifty cows." Hermes gave Apollo the lyre, and "Phoebus Apollo took it, and readily put his shining whip in Hermes' hand, and ordained him keeper of herds." [Zeus](zeus.md) "made them both friends."[^hh4-exchange]
+When Hermes played the [lyre](../objects/lyre.md) for Apollo, "the sweet throb of the marvellous music went to his heart, and a soft longing took hold on his soul." Apollo declared: "this song of yours is worth fifty cows." Hermes gave Apollo the lyre, and "Phoebus Apollo took it, and readily put his shining whip in Hermes' hand, and ordained him keeper of herds." [Zeus](zeus.md) "made them both friends."[^hh4-exchange]
 
 ### Domains Assigned
 

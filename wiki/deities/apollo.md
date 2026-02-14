@@ -20,7 +20,7 @@ Apollo is described with more epithets than almost any other deity:
 
 - **"far-shooting Apollo"** / **"who shoots afar"** — the most frequent epithet ([Theogony](../sources/theogony.md) 94; Hymn III 1, etc.)
 - **"Phoebus Apollo"** — used throughout the Hymn to Apollo
-- **"god of the silver bow"** — (Hymn III 140, 215)
+- **"god of the [silver bow](../objects/apollos-bow.md)"** — (Hymn III 140, 215)
 - **"bearer of the golden blade"** — (Hymn III 123)[^desc-blade]
 - **"the long-haired god"** — (Hymn III 134)[^desc-longhaired]
 - **"the Pythian"** — from the rotting (*pythein*) of the dragon he slew (Hymn III 372-374)
@@ -148,7 +148,7 @@ Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing h
 - **[Iliad](../sources/iliad.md)** X: Watches Athena aid Diomedes; "in wrath against her he stole among the crowded press of Trojans" and rouses the Thracians
 - **[Iliad](../sources/iliad.md)** XI: His helm ("the threefold helm with its socket, that Phoebus Apollo to Hector gave") saves Hector from Diomedes' spear
 - **[Iliad](../sources/iliad.md)** XII: After the war, turns nine rivers against the Achaian wall for nine days to destroy it (with [Poseidon](poseidon.md))
-- **[Iliad](../sources/iliad.md)** XV: Sent by Zeus to revive Hector ("Phoebus Apollo of the golden sword... breathed great might into the shepherd of the host"); holds the aegis ("dread, circled with a shaggy fringe, and gleaming, that Hephaistos the smith gave to Zeus"); destroys the Achaian wall "as when a boy scatters the sand beside the sea"; protects Polydamas from Meges; gave Teukros his bow; Zeus breaks Teukros's bowstring to protect Hector
+- **[Iliad](../sources/iliad.md)** XV: Sent by Zeus to revive Hector ("Phoebus Apollo of the golden sword... breathed great might into the shepherd of the host"); holds the [aegis](../objects/aegis.md) ("dread, circled with a shaggy fringe, and gleaming, that Hephaistos the smith gave to Zeus"); destroys the Achaian wall "as when a boy scatters the sand beside the sea"; protects Polydamas from Meges; gave Teukros his bow; Zeus breaks Teukros's bowstring to protect Hector
 - **[Iliad](../sources/iliad.md)** XVI: Heals Glaukos's wound; thrice drives Patroklos from Troy's wall ("Not beneath thy spear is it fated"); disguised as Asios urges Hector; kills Patroklos from behind in mist (strips helmet, spear, shield, corslet); bears Sarpedon's body home, anoints with ambrosia, sends via Sleep and Death
 - **[Iliad](../sources/iliad.md)** XVII: Disguised as Mentes (chief of the Kikones) urges Hector; disguised as Periphas (herald) urges Aineias; sends terror on the Achaians
 - **[Iliad](../sources/iliad.md)** XX: Disguised as Lykaon urges Aineias; notes Aphrodite is higher than Thetis; warns Hector not to face Achilles; saves Hector again in thick mist

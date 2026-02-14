@@ -29,13 +29,13 @@
 
 When she restrains Achilles, "terribly shone her eyes" — visible only to him while invisible to others.[^desc-eyes] At her birth, she sprang from Zeus's head "arrayed in warlike arms of flashing gold," shaking a sharp spear so that "great [Olympus](../places/olympus.md) began to reel horribly."[^desc-birth-arms]
 
-Her full arming is described twice in the Iliad (Books V and VIII): she puts on "the tunic of [Zeus](zeus.md) the cloud-gatherer," then "the great shield of the aegis... therein is Panic, therein Strife, therein Valour, therein the dread onset of Battle, therein the [Gorgon](../creatures/gorgons.md) head of the dread monster." On her head she sets "the two-crested golden helm with four plates, adorned with men-at-arms of an hundred cities." She wields "her father's spear, the great, the stout, the heavy, wherewith she vanquisheth the ranks of men."[^desc-arming]
+Her full arming is described twice in the Iliad (Books V and VIII): she puts on "the tunic of [Zeus](zeus.md) the cloud-gatherer," then "the great shield of the [aegis](../objects/aegis.md)... therein is Panic, therein Strife, therein Valour, therein the dread onset of Battle, therein the [Gorgon](../creatures/gorgons.md) head of the dread monster." On her head she sets "the two-crested golden helm with four plates, adorned with men-at-arms of an hundred cities." She wields "her father's spear, the great, the stout, the heavy, wherewith she vanquisheth the ranks of men."[^desc-arming]
 
-She also wears the **helm of [Hades](hades.md)**, which grants invisibility — "that terrible [Ares](ares.md) might not behold her."[^desc-hades-helm]
+She also wears the **[helm of Hades](../objects/helm-of-hades.md)**, which grants invisibility — "that terrible [Ares](ares.md) might not behold her."[^desc-hades-helm]
 
 ### The Aegis
 
-The aegis is described separately from her arming scenes: "the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk."[^desc-aegis]
+The [aegis](../objects/aegis.md) is described separately from her arming scenes: "the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk."[^desc-aegis]
 
 [^desc-eyes]: "straightway knew Pallas Athene; and terribly shone her eyes" (Iliad I.200, trans. Lang, Leaf, and Myers)
 [^desc-birth-arms]: "From his awful head wise Zeus himself bare her arrayed in warlike arms of flashing gold, and awe seized all the gods as they gazed" (Homeric Hymn XXVIII to Athena 4-6, trans. H.G. Evelyn-White)

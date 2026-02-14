@@ -119,7 +119,7 @@ Helen obeys in fear. Aphrodite then serves her directly: "laughter-loving Aphrod
 - **[Homeric Hymn V](../sources/homeric-hymns.md)**: The three immune; seduction of Anchises; birth of Aeneas; Eos and Tithonus
 - **[Iliad](../sources/iliad.md)** III: Rescues Paris from Menelaos; disguises as old woman; Helen sees through disguise ("fair neck and lovely breast and sparkling eyes"); threatens Helen
 - **[Iliad](../sources/iliad.md)** V: Shields Aeneas; wounded by Diomedes (ichor flows); flees to Olympus and Dione's lap; Zeus defines her domain as wedlock, not war
-- **[Iliad](../sources/iliad.md)** XIV: Lends Hera her enchanted girdle ("the broidered girdle... therein are love, and desire, and loving converse, that steals the wits even of the wise") for the seduction of Zeus
+- **[Iliad](../sources/iliad.md)** XIV: Lends Hera her enchanted [girdle](../objects/aphrodites-girdle.md) ("the broidered girdle... therein are love, and desire, and loving converse, that steals the wits even of the wise") for the seduction of Zeus
 - **[Iliad](../sources/iliad.md)** XXI: Leads wounded Ares from battle; Athena strikes her on the breast ("her knees and heart were unstrung")
 - **[Iliad](../sources/iliad.md)** XXII: Andromache's veil — "the veil that golden Aphrodite gave her" on her wedding day
 - **[Iliad](../sources/iliad.md)** XXIII: Protects Hector's body — "day and night Aphrodite daughter of Zeus kept off the dogs, and anointed him with rose-sweet oil ambrosial"

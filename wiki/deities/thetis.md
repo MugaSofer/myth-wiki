@@ -80,7 +80,7 @@ She confirms his fate: "Short-lived, I ween, must thou be then, my child, by wha
 
 ### Commissioning Armour from Hephaistos (Book XVIII)
 
-Thetis goes to Olympus to commission new armour from [Hephaistos](hephaestus.md). She describes her forced marriage to Peleus: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will."[^il18-marriage]
+Thetis goes to Olympus to commission new armour — including the [Shield of Achilles](../objects/shield-of-achilles.md) — from [Hephaistos](hephaestus.md). She describes her forced marriage to Peleus: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will."[^il18-marriage]
 
 [^il18-nereids]: "terribly moaned Achilles; and his lady mother heard him as she sate in the depths of the sea beside her ancient sire. And thereon she uttered a cry, and the goddesses flocked around her, all the daughters of Nereus that were in the deep of the sea" (Iliad XVIII.10482-10486, trans. Lang, Leaf, and Myers)
 [^il18-lament]: "Listen, sister Nereids, that ye all hear and know well what sorrows are in my heart. Ay me unhappy, ay me that bare to my sorrow the first of men! For after I had borne a son noble and strong, the chief of heroes, and he shot up like a young branch, then when I had reared him as a plant in a very fruitful field I sent him in beaked ships to Ilios to fight against the men of Troy; but never again shall I welcome him back to his home, to the house of Peleus" (Iliad XVIII.10487-10494)
