@@ -416,6 +416,26 @@ Populated the previously empty `wiki/objects/` folder with 9 pages:
 
 **Pages updated:** heracles.md (conception narrative, Cycnus/Ares combat), ares.md (Shield of Heracles section), athena.md (Shield of Heracles section), apollo.md, hephaestus.md, aegis.md, helm-of-hades.md (Perseus scene)
 
+### Epic Cycle — Full Pass
+
+**Source page created:** epic-cycle.md
+
+**Trojan Cycle processed:**
+- **Cypria** (Stasinus): Zeus plans Trojan War to depopulate earth; Judgment of Paris (Strife at Peleus/Thetis wedding); Thetis's backstory (avoided Zeus to please Hera); Helen born of Zeus and Nemesis; Aphrodite's flower-garments; Castor/Polydeuces (immortality every other day); Iphigeneia at Aulis (Artemis snatches her, substitutes stag); Gorgons variant location
+- **Aethiopis** (Arctinus): Penthesileia (daughter of Ares); Memnon (son of Eos, Hephaestus-armour); death of Achilles (Paris + Apollo); Thetis transports him to White Island; Aias's suicide
+- **Little Iliad** (Lesches): Athena contrives arms for Odysseus; wooden horse; Paris killed by Philoctetes; Ganymede's golden vine; Astyanax cast from tower
+- **Sack of Ilium** (Arctinus): Wooden horse debated; Laocoon and serpents; Cassandra/Aias; Polyxena sacrificed; Athena's vengeance at sea; Machaon/Podaleirius as sons of Poseidon
+- **Returns** (Agias): Ghost of Achilles; Locrian Aias destroyed; Agamemnon murdered; Tantalus's punishment; Medea rejuvenates Aeson; Telemachus marries Circe variant
+- **Telegony** (Eugammon): Odysseus killed by Telegonus; Circe makes them immortal; cross-marriages
+
+**Theban Cycle processed:**
+- **War of the Titans**: Variants — Heaven son of Aether; Aegaeon ally of Titans; Zeus dancing; Cronos as horse with Philyra (Cheiron's origin)
+- **Story of Oedipus**: Children by Euryganeia (not Iocasta); Sphinx kills Haemon
+- **Thebaid**: Oedipus's curse on his sons; the Fury hears
+- **Epigoni**: Manto sent to Delphi
+
+**Pages updated:** zeus.md, aphrodite.md, artemis.md, eos.md, hera.md, athena.md, ares.md, hephaestus.md, apollo.md, thetis.md (new section), cronos.md, gorgons.md, erinyes.md
+
 ## Next
 
-Consider processing the next major source (e.g. Odyssey, remaining Hesiod texts in source file: Catalogues of Women, Great Eoiae, fragments of the Epic Cycle).
+Consider processing: Odyssey (major source, would need obtaining text), Catalogues of Women fragments (genealogical), Great Eoiae fragments, Melampodia fragments. The Catalogues contain the Bellerophon/Pegasus story and extensive genealogies from Deucalion onward.
