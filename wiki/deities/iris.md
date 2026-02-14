@@ -72,3 +72,4 @@ In [Iliad](../sources/iliad.md) Book XI, [Zeus](zeus.md) sends "Iris of the gold
 - **[Iliad](../sources/iliad.md)** V: Rescues wounded Aphrodite from the battlefield; "wind-footed Iris took her and led her from the throng"
 - **[Iliad](../sources/iliad.md)** VIII: "Whirlwind-footed"; stops Hera and Athena at heaven's gates with Zeus's threats; calls Athena "reckless vixen"
 - **[Iliad](../sources/iliad.md)** XI: "Iris of the golden wings" (new epithet); carries Zeus's tactical instructions to Hector from Ida
+- **[Iliad](../sources/iliad.md)** XV: Carries Zeus's command to Poseidon to withdraw; when Poseidon protests, she counsels prudence: "the Erinyes do always follow to aid the elder-born"; Poseidon yields

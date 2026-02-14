@@ -100,6 +100,29 @@ Later, the Eilithyiai — goddesses of childbirth — are identified as Hera's d
 [^il11-thunder]: "far forth from him into the heaven shone the bronze; and thereat Hera and Athene thundered, honouring the king of Mykene rich in gold" (Iliad XI.6196-6197, trans. Lang, Leaf, and Myers)
 [^il11-eilithyiai]: "even as when the keen shaft cometh upon a woman in her travail, the piercing shaft that the goddesses of the birth-pangs send, even the Eilithyiai, the daughters of Hera that have bitter pangs in their gift" (Iliad XI.6411-6413)
 
+### The Deception of Zeus (Book XIV)
+
+In [Iliad](../sources/iliad.md) Book XIV, Hera devises the most elaborate divine scheme in the poem — seducing [Zeus](zeus.md) to sleep so that [Poseidon](poseidon.md) can aid the Greeks openly.
+
+**Adorning herself:** She enters her bower (built by [Hephaestus](hephaestus.md), with secret bolt no other god could open), cleanses herself with ambrosia, anoints with olive oil ("ambrosial, soft, and of a sweet savour; if it were but shaken, in the bronze-floored mansion of Zeus, the savour thereof went right forth to earth and heaven"), combs and plaits her "shining tresses, fair and ambrosial, flowing from her immortal head," dons a "fragrant robe that [Athena](athena.md) wrought delicately for her," clasps of gold, "a girdle arrayed with a hundred tassels," earrings "of three drops, and glistering, therefrom shone grace abundantly," a veil "bright as the sun," and golden sandals.[^il14-adorn]
+
+**Borrowing [Aphrodite](aphrodite.md)'s girdle:** Hera asks Aphrodite for "Love and Desire wherewith thou dost overcome all the Immortals, and mortal men," pretending she needs to reconcile Okeanos and Tethys. Aphrodite "from her breast... loosed the broidered girdle, fair-wrought, wherein are all her enchantments; therein are love, and desire, and loving converse, that steals the wits even of the wise."[^il14-girdle]
+
+As her cover story, Hera claims Okeanos and Tethys "reared me well and nourished me in their halls, having taken me from [Rhea](rhea.md), when far-seeing Zeus imprisoned [Kronos](cronos.md) beneath the earth and the unvintaged sea."[^il14-okeanos]
+
+**Recruiting Sleep:** Hera finds "Sleep, the brother of Death" on Lemnos and asks him to lull Zeus. Sleep refuses, recalling a previous time Hera used him: she had sent [Heracles](../heroes/heracles.md) to Kos with storm winds, and when Zeus woke "he was wrathful, and dashed the gods about his mansion, and me above all he sought, and he would have cast me from the upper air to perish in the deep, if [Night](night.md) had not saved me, Night, that subdues both gods and men... he was in awe of doing aught displeasing to swift Night."[^il14-sleep]
+
+Hera overcomes his reluctance by offering Pasithea, "one of the younger of the [Graces](graces.md)," as his wife. Sleep makes her swear by the inviolable water of [Styx](styx.md), calling "all the gods by name, even those below [Tartaros](../places/tartarus.md) that are called [Titans](titans.md)."[^il14-oath]
+
+**The seduction:** On Ida, Zeus sees Hera and "love came over his deep heart." He lists his past conquests — none moved him as she does now — then wraps them in a golden cloud ("not even the sun might see through it") while "the divine earth sent forth fresh new grass, and dewy lotus, and crocus, and hyacinth, thick and soft."[^il14-earth]
+
+[^il14-adorn]: "With ambrosia first did she cleanse every stain from her winsome body, and anointed her with olive oil, ambrosial, soft, and of a sweet savour; if it were but shaken, in the bronze-floored mansion of Zeus, the savour thereof went right forth to earth and heaven. Therewith she anointed her fair body, and combed her hair, and with her hands plaited her shining tresses, fair and ambrosial, flowing from her immortal head" (Iliad XIV.8371-8377, trans. Lang, Leaf, and Myers)
+[^il14-girdle]: "from her breast she loosed the broidered girdle, fair-wrought, wherein are all her enchantments; therein are love, and desire, and loving converse, that steals the wits even of the wise" (Iliad XIV.8411-8413)
+[^il14-okeanos]: "Okeanos, father of the gods, and mother Tethys, who reared me well and nourished me in their halls, having taken me from Rhea, when far-seeing Zeus imprisoned Kronos beneath the earth and the unvintaged sea" (Iliad XIV.8398-8400)
+[^il14-sleep]: "he was wrathful, and dashed the gods about his mansion, and me above all he sought, and he would have cast me from the upper air to perish in the deep, if Night had not saved me, Night, that subdues both gods and men. To her I came as a suppliant in my flight, and he ceased from pursuing, wrathful as he was, for he was in awe of doing aught displeasing to swift Night" (Iliad XIV.8449-8454)
+[^il14-oath]: "she sware as he bade her, and called all the gods by name, even those below Tartaros that are called Titans" (Iliad XIV.8473-8474)
+[^il14-earth]: "beneath them the divine earth sent forth fresh new grass, and dewy lotus, and crocus, and hyacinth, thick and soft, that raised them aloft from the ground. Therein they lay, and were clad on with a fair golden cloud, whence fell drops of glittering dew" (Iliad XIV.8539-8542)
+
 ### Recruiting Poseidon / Stopped by Zeus (Book VIII)
 
 In [Iliad](../sources/iliad.md) Book VIII, when the Trojans drive the Greeks back, Hera tries to recruit [Poseidon](poseidon.md) against [Zeus](zeus.md): "Did we but will, we that are confederate with the Danaans, to drive the Trojans back and withhold far-seeing Zeus, then would he vex himself that he should sit there alone in Ida." Poseidon refuses: "I am not he that would fain see us all at strife with Zeus Kronion, for he verily is mightier far."[^il8-poseidon]
@@ -122,3 +145,5 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 - **[Iliad](../sources/iliad.md)** V: Drives gold-frontleted chariot to Troy with Athena; shouts disguised as Stentor ("voice of bronze... loud as the cry of fifty other men"); wounded once by Heracles (recalled by Dione)
 - **[Iliad](../sources/iliad.md)** VIII: Tries to recruit Poseidon against Zeus; arms for battle with Athena but stopped by Iris; yields to Zeus's supremacy; quakes Olympus from her throne
 - **[Iliad](../sources/iliad.md)** XI: Thunders with Athena to honour Agamemnon; Eilithyiai called "the daughters of Hera that have bitter pangs in their gift"
+- **[Iliad](../sources/iliad.md)** XIV: The Deception of Zeus — adorns herself (ambrosia, Athena's robe, golden clasps, veil "bright as the sun"); borrows Aphrodite's magic girdle; recruits Sleep with promise of Pasithea (a Grace); claims Okeanos and Tethys as foster-parents; seduces Zeus on Ida; earth blooms beneath them; golden cloud hides them
+- **[Iliad](../sources/iliad.md)** XV: Zeus recalls hanging her (two anvils, golden bonds, "the gods were wroth... but they could not come round and unloose thee"); swears innocence by Styx; announces Ares's son's death; Themis greets her first on Olympus

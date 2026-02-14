@@ -36,3 +36,4 @@ The description "Erinnys that walketh in darkness, whose heart knoweth not ruth"
 
 - **[Theogony](../sources/theogony.md)** 185: Born from Uranus's blood
 - **[Iliad](../sources/iliad.md)** IX: Fulfil Phoenix's father's curse (with "Zeus of the underworld and dread Persephone"); "Erinnys that walketh in darkness, whose heart knoweth not ruth" answers Althaia's prayer against Meleager
+- **[Iliad](../sources/iliad.md)** XV: Iris invokes the Erinyes as a cosmic principle: "the Erinyes do always follow to aid the elder-born" — persuading Poseidon to yield to Zeus as the elder brother

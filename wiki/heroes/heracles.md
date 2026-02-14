@@ -59,3 +59,4 @@ This is the first explicit reference to the Cerberus labour in any source proces
 - **[Iliad](../sources/iliad.md)** V: Wounded [Hera](../deities/hera.md) with a three-barbed arrow and [Hades](../deities/hades.md) at Pylos; previously sacked Troy with only six ships for Laomedon's horses (recalled by Dione and Tlepolemos)
 - **[Iliad](../sources/iliad.md)** VIII: Fetching Cerberus from Hades recalled by Athena; Athena was his protector during Eurystheus's tasks
 - **[Iliad](../sources/iliad.md)** XI: Oppressed Pylos in "the former years" — "all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished" (Nestor's recollection)
+- **[Iliad](../sources/iliad.md)** XIV: Blown to Kos by Hera's storm winds after sacking Troy; Zeus's rage when he woke (recalled by Sleep)

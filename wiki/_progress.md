@@ -265,6 +265,16 @@ Book V (Diomedes' aristeia — most mythology-dense book so far):
 
 **Pages updated:** poseidon.md (major expansion), ares.md, zeus.md, iliad.md
 
+**Book XIV processed:**
+- The Deception of Zeus (Dios Apate): Hera adorns herself, borrows Aphrodite's enchanted girdle, recruits Sleep ("brother of Death"), seduces Zeus on Ida
+- Night's power: "Night, that subdues both gods and men" — even Zeus will not challenge her
+- Zeus's list of loves: Ixion's wife/Pirithoos, Danae/Perseus, Phoinix's daughter/Minos+Rhadamanthys, Semele/Dionysos, Alkmene/Heracles, Demeter, Leto
+- Hera's cover story: Okeanos and Tethys as foster-parents, Kronos imprisoned
+- Poseidon leads openly with lightning-sword while Zeus sleeps
+- Sleep offered Pasithea (a Grace) as wife
+
+**Pages updated:** hera.md (major expansion), zeus.md, aphrodite.md, poseidon.md, heracles.md, night.md, iliad.md
+
 ## Next
 
-Continue Iliad processing (Books XIV-XXIV), one book at a time.
+Continue Iliad processing (Books XV-XXIV), one book at a time.

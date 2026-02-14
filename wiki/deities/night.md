@@ -57,7 +57,18 @@ In the [Theogony](../sources/theogony.md), there is one Strife (Eris), born of N
 
 [^wd-strife]: "there was not one kind of Strife alone, but all over the earth there are two. As for the one, a man would praise her when he came to understand her; but the other is blameworthy... the elder daughter of dark Night, and the son of Cronos who sits above and dwells in the aether, set her in the roots of the earth: and she is far kinder to men" (Works and Days 11-24, trans. H.G. Evelyn-White)
 
+## In the Iliad
+
+### Night Subdues Gods and Men (Book XIV)
+
+In [Iliad](../sources/iliad.md) Book XIV, Sleep recalls that when [Zeus](zeus.md) was enraged after [Hera](hera.md)'s scheme against [Heracles](../heroes/heracles.md), he sought to destroy Sleep — but Night saved him: "Night, that subdues both gods and men. To her I came as a suppliant in my flight, and he ceased from pursuing, wrathful as he was, for he was in awe of doing aught displeasing to swift Night."[^il14-night]
+
+This is a remarkable claim: even Zeus, who asserts absolute supremacy over all other gods, will not challenge Night. Sleep is called "the brother of Death" — both children of Night in the [Theogony](../sources/theogony.md).
+
+[^il14-night]: "Night, that subdues both gods and men. To her I came as a suppliant in my flight, and he ceased from pursuing, wrathful as he was, for he was in awe of doing aught displeasing to swift Night" (Iliad XIV.8452-8454, trans. Lang, Leaf, and Myers)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 123-125, 211-232: Birth, offspring with Erebus, offspring alone, grandchildren through Strife
 - **[Works and Days](../sources/works-and-days.md)** 11-24: Two kinds of Strife — one harmful, one beneficial
+- **[Iliad](../sources/iliad.md)** XIV: Zeus will not challenge Night — "Night, that subdues both gods and men"; Sleep (her son) takes refuge with her
