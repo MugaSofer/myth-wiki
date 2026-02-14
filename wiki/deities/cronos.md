@@ -65,3 +65,6 @@ This represents a **variant tradition** from the [Theogony](../sources/theogony.
 
 - **[Theogony](../sources/theogony.md)** 18, 137-138, 167-210, 453-491: Named among Titans; castrates Uranus; swallows his children; deceived by Rhea
 - **[Works and Days](../sources/works-and-days.md)** 109-113, 170-173: Rules during the Golden Age; released from bonds to rule the Islands of the Blessed
+- **[Epic Cycle](../sources/epic-cycle.md)** (War of the Titans): "Cronos took the shape of a horse and lay with Philyra, the daughter of Ocean. Through this cause Cheiron was born a centaur"[^titan-cheiron]
+
+[^titan-cheiron]: "Cronos took the shape of a horse and lay with Philyra, the daughter of Ocean. Through this cause Cheiron was born a centaur: his wife was Chariclo" (War of the Titans, Fragment 6, trans. H.G. Evelyn-White)

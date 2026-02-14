@@ -84,3 +84,6 @@ Meleager slew the boar "having gathered together from many cities huntsmen and h
 - **[Iliad](../sources/iliad.md)** IX: The Calydonian Boar — sent against Oineus for failing to offer first-fruits; "Artemis of the golden throne"; Apollo snatched Marpessa (Ides' wife)
 - **[Iliad](../sources/iliad.md)** XXI: Rebukes Apollo for yielding to Poseidon; beaten by Hera with her own bow ("smiling, beat her on the ears"); arrows scatter; flees weeping like a dove; weeps on Zeus's knee; Zeus laughs gently
 - **[Iliad](../sources/iliad.md)** XXIV: Niobe's daughters — "the daughters archer Artemis" slew, because Niobe matched herself against Leto
+- **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Angry at Agamemnon's boast that he surpassed her, sends stormy winds to prevent sailing; when told to sacrifice Iphigeneia, "snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"[^cyp-iphigeneia]
+
+[^cyp-iphigeneia]: Cypria, summary by Proclus: "Artemis, however, snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"

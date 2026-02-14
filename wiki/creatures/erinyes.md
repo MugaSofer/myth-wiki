@@ -49,6 +49,9 @@ In [Iliad](../sources/iliad.md) Book XIX, the Erinyes appear in three distinct r
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 185: Born from Uranus's blood
+- **[Epic Cycle](../sources/epic-cycle.md)** (Thebaid): "The avenging Fury of the gods failed not to hear him" — when Oedipus curses his sons[^theb-curse]
 - **[Iliad](../sources/iliad.md)** IX: Fulfil Phoenix's father's curse (with "Zeus of the underworld and dread Persephone"); "Erinnys that walketh in darkness, whose heart knoweth not ruth" answers Althaia's prayer against Meleager
 - **[Iliad](../sources/iliad.md)** XV: Iris invokes the Erinyes as a cosmic principle: "the Erinyes do always follow to aid the elder-born" — persuading Poseidon to yield to Zeus as the elder brother
 - **[Iliad](../sources/iliad.md)** XIX: Agamemnon blames "Erinys that walketh in the darkness" for his madness; in his oath he invokes "Erinyes, who under earth take vengeance upon men, whosoever forsweareth himself"; the Erinyes stop the horse Xanthos from speaking further after he prophesies Achilles' death
+
+[^theb-curse]: "great misery fell on his heart, and he straight-way called down bitter curses there in the presence of both his sons. And the avenging Fury of the gods failed not to hear him as he prayed that they might never divide their father's goods in loving brotherhood, but that war and fighting might be ever the portion of them both" (Thebaid, Fragment 2, trans. H.G. Evelyn-White)

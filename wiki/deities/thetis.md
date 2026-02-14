@@ -87,10 +87,40 @@ Thetis goes to Olympus to commission new armour — including the [Shield of Ach
 [^il18-fate]: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee" (Iliad XVIII.10527-10529)
 [^il18-marriage]: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will" (Iliad XVIII.10737-10739)
 
+## In the Epic Cycle
+
+### Marriage to Peleus (Cypria)
+
+In the [Epic Cycle](../sources/epic-cycle.md)'s account, Thetis's marriage to a mortal arose from divine politics. "Thetis, to please [Hera](hera.md), avoided union with [Zeus](zeus.md), at which he was enraged and swore that she should be the wife of a mortal."[^cyp-thetis] This forced marriage stands as the origin of Achilles — and, indirectly, of the Trojan War itself, for at the wedding of Peleus and Thetis, [Strife](night.md) arrived and started the dispute between the goddesses that led to the Judgment of Paris.[^cyp-judgment]
+
+[^cyp-thetis]: "Thetis, to please Hera, avoided union with Zeus, at which he was enraged and swore that she should be the wife of a mortal" (Cypria, Fragment 4, trans. H.G. Evelyn-White)
+[^cyp-judgment]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite"
+
+### Warning Achilles of Memnon (Aethiopis)
+
+In the Aethiopis, Thetis warned Achilles about Memnon, son of [Eos](eos.md), who came to aid Troy wearing armour made by [Hephaestus](hephaestus.md).[^aeth-memnon]
+
+[^aeth-memnon]: Aethiopis, summary by Proclus: "Memnon, the son of Eos, wearing armour made by Hephaestus, comes to help the Trojans... Thetis warns her son about him"
+
+### After Achilles' Death (Aethiopis)
+
+When Paris and [Apollo](apollo.md) killed Achilles, Thetis arrived "with the Muses and her sisters" to bewail him, then "catches away from the pyre and transports to the White Island."[^aeth-achilles]
+
+[^aeth-achilles]: Aethiopis, summary by Proclus: "Thetis, arriving with the Muses and her sisters, bewails her son, whom she afterwards catches away from the pyre and transports to the White Island"
+
+### Warning Neoptolemus (Returns)
+
+In the Returns, Thetis warned Neoptolemus (Achilles' son), who heeded her counsel and journeyed overland rather than by sea.[^ret-neoptolemus]
+
+[^ret-neoptolemus]: Returns, summary by Proclus: "Neoptolemus, warned by Thetis, journeys overland"
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 244: Listed among the Nereids
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 319-320: Rescued Hephaestus from the sea
+- **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Avoided union with Zeus to please Hera; Zeus swore she should marry a mortal; at her wedding to Peleus, Strife starts the dispute leading to the Judgment of Paris
+- **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Warns Achilles about Memnon; arrives with the Muses and her sisters to bewail Achilles; catches him away from the pyre and transports to the White Island
+- **[Epic Cycle](../sources/epic-cycle.md)** (Returns): Warns Neoptolemus, who journeys overland instead of by sea
 - **[Iliad](../sources/iliad.md)** I: Rises from the sea; laments Achilles' fate; recalls saving Zeus from bondage; supplicates Zeus on Olympus
 - **[Iliad](../sources/iliad.md)** VI: Sheltered Dionysus in the sea after Lykurgos chased him from Nysa
 - **[Iliad](../sources/iliad.md)** IX: Achilles reports her prophecy of his two fates — glory with death at Troy, or long life without fame

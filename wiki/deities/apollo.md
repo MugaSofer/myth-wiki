@@ -140,6 +140,8 @@ Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing h
 
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
 - **[Homeric Hymn III](../sources/homeric-hymns.md)**: Birth on Delos; first words; the dragon at Pytho; founding of the Delphic oracle; the Cretan priests
+- **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Kills Achilles alongside Paris
+- **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Separates [Ares](ares.md) and [Athena](athena.md) in battle
 - **[Shield of Heracles](../sources/shield-of-heracles.md)**: Depicted on the shield playing a golden lyre amid the gods on Olympus; his temple near Pagasae is the site Cycnus was despoiling; Apollo commands the river Anaurus to destroy Cycnus's grave
 - **[Iliad](../sources/iliad.md)** I: Sends plague on the Greeks; "descended like to night"; sends favourable wind after sacrifice
 - **[Iliad](../sources/iliad.md)** IV: Rallies the Trojans from Pergamos; notes Achilles' absence

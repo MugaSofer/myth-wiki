@@ -161,3 +161,7 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 - **[Iliad](../sources/iliad.md)** XIX: Gives speech to the horse Xanthos ("the white-armed goddess Hera gave him speech"); recalled tricking Zeus over Heracles' birth (delayed Alkmene, hastened Eurystheus) in Agamemnon's Ate speech
 - **[Iliad](../sources/iliad.md)** XXI: Calls Hephaistos to burn the River Xanthos; beats Artemis with her own bow ("smiling, beat her on the ears"); calls Aphrodite a "dogfly"; "against women Zeus made thee a lion" to Artemis
 - **[Iliad](../sources/iliad.md)** XXIV: Opposes returning Hector's body (with Poseidon and Athena) — still angry about the Judgment of Paris ("the sin of Alexandros in that he contemned those goddesses"); claims she raised Thetis: "Achilles is child of a goddess whom I myself bred up and reared and gave to a man to be his wife, even to Peleus who was dearest of all men to the Immortals' heart"
+- **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Competes with Athena and Aphrodite in the Judgment of Paris (Paris chooses Aphrodite);[^cyp-judgment-hera] Thetis avoided Zeus's advances "to please Hera"[^cyp-thetis-hera]
+
+[^cyp-judgment-hera]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite"
+[^cyp-thetis-hera]: "Thetis, to please Hera, avoided union with Zeus, at which he was enraged and swore that she should be the wife of a mortal" (Cypria, Fragment 4)

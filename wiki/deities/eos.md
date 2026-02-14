@@ -47,3 +47,6 @@ In the [Homeric Hymn to Aphrodite](../sources/homeric-hymns.md) (V), [Aphrodite]
 
 - **[Theogony](../sources/theogony.md)** 19, 371-382, 984-991: Named in invocation; birth; children (winds and stars); sons Memnon and Emathion
 - **[Homeric Hymn V](../sources/homeric-hymns.md)** 218-238: Eos and Tithonus — immortality without eternal youth
+- **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Her son Memnon arrives wearing armour made by Hephaestus, is killed by Achilles; "Eos then obtains of Zeus and bestows upon her son immortality"[^aeth-eos]
+
+[^aeth-eos]: Aethiopis, summary by Proclus: "Memnon, the son of Eos, wearing armour made by Hephaestus, comes to help the Trojans... Eos then obtains of Zeus and bestows upon her son immortality"

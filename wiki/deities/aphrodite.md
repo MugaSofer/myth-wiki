@@ -123,6 +123,10 @@ Helen obeys in fear. Aphrodite then serves her directly: "laughter-loving Aphrod
 - **[Iliad](../sources/iliad.md)** XXI: Leads wounded Ares from battle; Athena strikes her on the breast ("her knees and heart were unstrung")
 - **[Iliad](../sources/iliad.md)** XXII: Andromache's veil — "the veil that golden Aphrodite gave her" on her wedding day
 - **[Iliad](../sources/iliad.md)** XXIII: Protects Hector's body — "day and night Aphrodite daughter of Zeus kept off the dogs, and anointed him with rose-sweet oil ambrosial"
+- **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Her garments "which the Graces and Hours had made for her and dyed in flowers of spring — such flowers as the Seasons wear — in crocus and hyacinth and flourishing violet and the rose's lovely bloom";[^cyp-garments] competes with Hera and Athena in the Judgment of Paris; Paris chooses her and she promises him Helen[^cyp-judgment]
+
+[^cyp-garments]: "She clothed herself with garments which the Graces and Hours had made for her and dyed in flowers of spring—such flowers as the Seasons wear—in crocus and hyacinth and flourishing violet and the rose's lovely bloom, so sweet and delicious, and heavenly buds, the flowers of the narcissus and lily" (Cypria, Fragment 6)
+[^cyp-judgment]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite... Alexandrus, lured by his promised marriage with Helen, decides in favour of Aphrodite"
 
 ### Wounded by Diomedes / Ichor (Book V)
 

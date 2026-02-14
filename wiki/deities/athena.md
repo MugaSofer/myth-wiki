@@ -156,3 +156,13 @@ The priestess Theano places the fairest robe on Athena's knees and prays: "Lady 
 - **[Iliad](../sources/iliad.md)** XXII: Echoes Hera's Sarpedon argument — "A man that is a mortal, doomed long ago by fate, wouldst thou redeem back from ill-boding death?"; disguised as Deiphobus, tricks Hector into facing Achilles; retrieves Achilles' thrown spear "unknown of Hector"; "bright-eyed Athene had slain him by the hand of Achilles"
 - **[Iliad](../sources/iliad.md)** XXIII: Counters Apollo in the chariot race (returns Diomedes' lash, puts spirit in his steeds, breaks Eumelos's yoke); helps Odysseus win the foot-race (makes his limbs light, trips Aias in ox-filth); Aias: "the goddess... from of old like a mother standeth by Odysseus' side"
 - **[Iliad](../sources/iliad.md)** XXIV: Opposes returning Hector's body (with Hera and Poseidon) — still angry about the Judgment of Paris; gives Thetis her place on Olympus
+- **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Competes with Hera and Aphrodite in the Judgment of Paris (Paris chooses Aphrodite);[^cyp-judgment-athena] polished Peleus's spear[^cyp-spear]
+- **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Contrives that Odysseus wins Achilles' arms; instructs Epeius to build the Wooden Horse[^liliad-athena]
+- **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): Her image torn away by Aias son of Ileus when he drags Cassandra from her temple; plans to destroy the Greeks on the high seas after they sail away[^sack-athena]
+- **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Engages Ares in battle when he routs Odysseus's army; separated by Apollo[^tel-athena]
+
+[^cyp-judgment-athena]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite"
+[^cyp-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5)
+[^liliad-athena]: Little Iliad, summary by Proclus: "Odysseus, by the contriving of Athena, gains them... Epeius, by Athena's instruction, builds the wooden horse"
+[^sack-athena]: Sack of Ilium, summary by Proclus: "Aias the son of Ileus, while trying to drag Cassandra away by force, tears away with her the image of Athena... the Greeks sail away and Athena plans to destroy them on the high seas"
+[^tel-athena]: Telegony, summary by Proclus: "Ares routs the army of Odysseus and Athena engages with Ares, until Apollo separates them"

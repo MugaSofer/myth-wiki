@@ -82,3 +82,8 @@ Then "Paieon laid assuaging drugs upon the wound and healed him; seeing that ver
 - **[Iliad](../sources/iliad.md)** XV: Learns of Askalaphos's death; smites his thighs, bids yoke Fear and Dread (his horses), dons shining harness; Athena stops him ("Mad that thou art, and distraught of wit"), strips his helmet, shield, and spear; his children Panic (Phobos) and Fear (Dread) as his chariot horses
 - **[Iliad](../sources/iliad.md)** XVII: "Ares the dread war-god entered into" Hector when he dons Achilles' divine armour, filling his limbs with valour and strength
 - **[Iliad](../sources/iliad.md)** XXI: Attacks Athena's aegis ("not even the lightning of Zeus can overcome"); felled by her stone, covers seven roods; Aphrodite leads him away groaning
+- **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Penthesileia, the Amazon, is his daughter; comes to aid Troy and is killed by Achilles[^aeth-penth]
+- **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Routs the army of Odysseus; Athena engages with him in battle until Apollo separates them[^tel-ares]
+
+[^aeth-penth]: Aethiopis, summary by Proclus: "The Amazon Penthesileia, the daughter of Ares and of Thracian race, comes to aid the Trojans, and after showing great prowess, is killed by Achilles"
+[^tel-ares]: Telegony, summary by Proclus: "Ares routs the army of Odysseus and Athena engages with Ares, until Apollo separates them"

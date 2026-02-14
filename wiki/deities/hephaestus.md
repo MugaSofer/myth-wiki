@@ -110,3 +110,10 @@ He forges the [Shield of Achilles](../objects/shield-of-achilles.md) — a compl
 - **[Iliad](../sources/iliad.md)** XVIII: His bronze house described; self-moving golden tripods; golden handmaidens with understanding and voice; forges the Shield of Achilles (cosmos, two cities, Ares and Athena in gold, Daidalos's dancing-place, Ocean rim), corslet, helm, and greaves
 - **[Iliad](../sources/iliad.md)** XXI: Burns the River Xanthos with fire at Hera's command; elms, willows, tamarisks, lotus consumed; the river submits and swears an oath
 - **[Shield of Heracles](../sources/shield-of-heracles.md)**: Named as maker of Heracles' shield — "a wonderful thing the great strong shield was to see—even for Zeus the loud-thunderer, by whose will Hephaestus made it and fitted it with his hands"; also "the famous Lame One" who fashioned the Perseus scene "of gold with his hands"
+- **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Fitted Peleus's spear with a head[^cyp-heph-spear]
+- **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Made Memnon's armour[^aeth-heph-armour]
+- **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Wrought the golden vine that Zeus gave to Laomedon as price for Ganymedes[^liliad-heph-vine]
+
+[^cyp-heph-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5)
+[^aeth-heph-armour]: Aethiopis, summary by Proclus: "Memnon, the son of Eos, wearing armour made by Hephaestus, comes to help the Trojans"
+[^liliad-heph-vine]: "the vine which the son of Cronos gave him as a recompense for his son. It bloomed richly with soft leaves of gold and grape clusters; Hephaestus wrought it and gave it to his father Zeus: and he bestowed it on Laomedon as a price for Ganymedes" (Little Iliad, Fragment 7)
