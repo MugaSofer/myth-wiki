@@ -398,6 +398,24 @@ Populated the previously empty `wiki/objects/` folder with 9 pages:
 
 **Cross-links added** from 10 deity/creature pages to the object pages.
 
+### Housekeeping Pass
+
+- Created missing entity pages: leto.md, dione.md, hebe.md, eileithyia.md, asteria.md
+- Broken links audit: 1 broken link fixed (asteria.md from coeus.md), 4 orphaned pages connected (dione, menoetius, pan, five-ages)
+- Result: 0 broken links, 0 orphaned pages across all 93 wiki files
+
+### Shield of Heracles — Full Pass
+
+**Source page created:** shield-of-heracles.md
+
+**Sections processed:**
+- Lines 1-56: Alcmena's background; Zeus's conception of Heracles; twin birth (Heracles by Zeus, Iphiclus by Amphitryon)
+- Lines 57-138: Introduction of Cycnus; Heracles-Iolaus dialogue; arming scene (Athena's golden breastplate, adamant helm)
+- Lines 139-317: Shield ekphrasis — Fear, Strife, twelve serpent heads; boars and lions; Lapiths vs Centaurs; Ares with Fear and Flight; Athena with aegis; Olympus and Apollo's lyre; harbour with dolphins; Perseus and Gorgons (cap of Hades); city at war (Fates named: Clotho, Lachesis, Atropos; Darkness of Death); city at peace (bridal procession); rural scenes; chariot race; Ocean rim
+- Lines 318-480: Athena's counsel; combat with Cycnus (killed by spear to neck); combat with Ares (wounded in thigh, carried to Olympus by Panic and Dread); aftermath (Cycnus's grave destroyed at Apollo's command)
+
+**Pages updated:** heracles.md (conception narrative, Cycnus/Ares combat), ares.md (Shield of Heracles section), athena.md (Shield of Heracles section), apollo.md, hephaestus.md, aegis.md, helm-of-hades.md (Perseus scene)
+
 ## Next
 
-Consider processing the next major source (e.g. Odyssey, Hesiod's Shield of Heracles, remaining Hesiod fragments, Apollodorus, etc.). The Hesiod source file (hesiod-evelyn-white.txt) may contain additional texts beyond the Theogony and Works and Days.
+Consider processing the next major source (e.g. Odyssey, remaining Hesiod texts in source file: Catalogues of Women, Great Eoiae, fragments of the Epic Cycle).

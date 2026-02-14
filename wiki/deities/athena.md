@@ -86,6 +86,21 @@ In the [Theogony](../sources/theogony.md), Athena is mentioned as:
 
 [^hh28-birth]: "From his awful head wise Zeus himself bare her arrayed in warlike arms of flashing gold, and awe seized all the gods as they gazed. But Athena sprang quickly from the immortal head and stood before Zeus who holds the aegis, shaking a sharp spear: great Olympus began to reel horribly at the might of the bright-eyed goddess, and earth round about cried fearfully, and the sea was moved and tossed with dark waves, while foam burst forth suddenly: the bright Son of Hyperion stopped his swift-footed horses a long while, until the maiden Pallas Athene had stripped the heavenly armour from her immortal shoulders. And wise Zeus was glad." (Homeric Hymn XXVIII to Athena 4-16, trans. H.G. Evelyn-White)
 
+## In the Shield of Heracles
+
+In the [Shield of Heracles](../sources/shield-of-heracles.md), Athena plays a crucial role in [Heracles](../heroes/heracles.md)' battle against Cycnus and [Ares](ares.md). She gives Heracles his golden breastplate ("a fine golden breast-plate, curiously wrought, which Pallas Athene the daughter of Zeus had given him when first he was about to set out upon his grievous labours").[^sh-gift]
+
+She counsels him to wound Ares where exposed beneath his shield, then joins the battle: "the goddess grey-eyed Athene came near them and spoke winged words, encouraging them." She rides in the chariot, "shaking her aegis," and when Ares hurls his spear, "bright-eyed Athene reached out from the car and turned aside the force of the spear."[^sh-battle]
+
+When Ares refuses to withdraw, she rebukes him: "Ares, check your fierce anger and matchless hands; for it is not ordained that you should kill Heracles, the bold-hearted son of Zeus."[^sh-rebuke]
+
+On the shield itself, Athena is depicted armed: "the daughter of Zeus, Tritogeneia who drives the spoil. She was like as if she would array a battle, with a spear in her hand, and a golden helmet, and the [aegis](../objects/aegis.md) about her shoulders."[^sh-shield-athena]
+
+[^sh-gift]: "he fastened about his breast a fine golden breast-plate, curiously wrought, which Pallas Athene the daughter of Zeus had given him when first he was about to set out upon his grievous labours" (Shield of Heracles 122-126, trans. H.G. Evelyn-White)
+[^sh-battle]: "bright-eyed Athene reached out from the car and turned aside the force of the spear" (Shield of Heracles 451-452)
+[^sh-rebuke]: "Ares, check your fierce anger and matchless hands; for it is not ordained that you should kill Heracles, the bold-hearted son of Zeus, and strip off his rich armour. Come, then, cease fighting and do not withstand me" (Shield of Heracles 443-449)
+[^sh-shield-athena]: "the daughter of Zeus, Tritogeneia who drives the spoil. She was like as if she would array a battle, with a spear in her hand, and a golden helmet, and the aegis about her shoulders. And she was going towards the awful strife" (Shield of Heracles 197-200)
+
 ## In the Iliad
 
 ### Restraining Achilles (Book I)
@@ -123,6 +138,7 @@ The priestess Theano places the fairest robe on Athena's knees and prays: "Lady 
 
 - **[Theogony](../sources/theogony.md)** 13, 318, 573-578, 886-900, 924-929t: Invocation; aids Heracles; dresses the first woman; birth from Zeus's head
 - **[Homeric Hymn XXVIII](../sources/homeric-hymns.md)**: Birth — cosmic reaction; Helius stops his chariot
+- **[Shield of Heracles](../sources/shield-of-heracles.md)**: Gives Heracles his golden breastplate; counsels him in battle; deflects Ares' spear; rebukes Ares; depicted on the shield with spear, golden helm, and aegis
 - **[Iliad](../sources/iliad.md)** I: Restrains Achilles from killing Agamemnon; visible only to him; "terribly shone her eyes"
 - **[Iliad](../sources/iliad.md)** II: Stops the Greek retreat via Odysseus; bears the aegis (described in detail); fostered Erechtheus in Athens
 - **[Iliad](../sources/iliad.md)** IV: Disguised as Laodokos, tricks Pandaros into breaking the truce; protects Menelaos from the arrow "even as a mother driveth a fly from her child"; urges the Achaians on

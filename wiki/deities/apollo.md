@@ -140,6 +140,7 @@ Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing h
 
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
 - **[Homeric Hymn III](../sources/homeric-hymns.md)**: Birth on Delos; first words; the dragon at Pytho; founding of the Delphic oracle; the Cretan priests
+- **[Shield of Heracles](../sources/shield-of-heracles.md)**: Depicted on the shield playing a golden lyre amid the gods on Olympus; his temple near Pagasae is the site Cycnus was despoiling; Apollo commands the river Anaurus to destroy Cycnus's grave
 - **[Iliad](../sources/iliad.md)** I: Sends plague on the Greeks; "descended like to night"; sends favourable wind after sacrifice
 - **[Iliad](../sources/iliad.md)** IV: Rallies the Trojans from Pergamos; notes Achilles' absence
 - **[Iliad](../sources/iliad.md)** V: Shields Aeneas (creates a wraith in his likeness); warns Diomedes: "there is no comparison of the race of immortal gods and of men that walk upon the earth"; sends Ares into battle; Leto and Artemis heal Aeneas in Apollo's temple

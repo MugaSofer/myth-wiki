@@ -58,3 +58,4 @@ Athena wields the aegis on multiple occasions in the [Iliad](../sources/iliad.md
 - **[Iliad](../sources/iliad.md)** XVIII: Athena casts it around Achilles' shoulders alongside golden cloud and blazing fire; Athena's voice spreads "terror unspeakable"
 - **[Iliad](../sources/iliad.md)** XXI: Ares attacks it; described as something "not even the lightning of Zeus can overcome"
 - **[Iliad](../sources/iliad.md)** XXIV: Apollo protects Hector's body with a "golden aegis"
+- **[Shield of Heracles](../sources/shield-of-heracles.md)** 197-200: Athena depicted on the shield with "the aegis about her shoulders"; also shakes the aegis when joining the battle against Cycnus and Ares

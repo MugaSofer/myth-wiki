@@ -34,6 +34,16 @@
 
 [^theog-children]: "Also Cytherea bare to Ares the shield-piercer Panic and Fear, terrible gods who drive in disorder the close ranks of men in numbing war, with the help of Ares, sacker of towns: and Harmonia whom high-spirited Cadmus made his wife" (Theogony 933-937)
 
+## In the Shield of Heracles
+
+In the [Shield of Heracles](../sources/shield-of-heracles.md), Ares fights alongside his son Cycnus against [Heracles](../heroes/heracles.md). When Heracles kills Cycnus, Ares charges to avenge him, but [Athena](athena.md) deflects his spear and rebukes him: "Ares, check your fierce anger and matchless hands; for it is not ordained that you should kill Heracles, the bold-hearted son of Zeus."[^sh-athena] But "he uttered a great shout and waving his spears like fire, he rushed headlong at strong Heracles." Heracles then wounded him in the thigh, "and cast him flat upon the ground. And Panic and Dread quickly drove his smooth-wheeled chariot and horses near him and lifted him from the wide-pathed earth into his richly-wrought car."[^sh-wound]
+
+On the shield itself, Ares appears in his chariot: "deadly Ares the spoil-winner himself. He held a spear in his hands and was urging on the footmen: he was red with blood as if he were slaying living men. Beside him stood Fear and Flight, eager to plunge amidst the fighting men."[^sh-shield]
+
+[^sh-athena]: "Ares, check your fierce anger and matchless hands; for it is not ordained that you should kill Heracles, the bold-hearted son of Zeus, and strip off his rich armour. Come, then, cease fighting and do not withstand me" (Shield of Heracles 443-449, trans. H.G. Evelyn-White)
+[^sh-wound]: "the son of Amphitryon, unsated of fierce battle, shrewdly wounded his thigh where it was exposed under his richly-wrought shield, and tare deep into his flesh with the spear-thrust and cast him flat upon the ground. And Panic and Dread quickly drove his smooth-wheeled chariot and horses near him and lifted him from the wide-pathed earth into his richly-wrought car" (Shield of Heracles 456-462)
+[^sh-shield]: "deadly Ares the spoil-winner himself. He held a spear in his hands and was urging on the footmen: he was red with blood as if he were slaying living men, and he stood in his chariot. Beside him stood Fear and Flight, eager to plunge amidst the fighting men" (Shield of Heracles 191-196)
+
 ## In the Iliad
 
 ### Bound by Otos and Ephialtes
@@ -66,6 +76,7 @@ Then "Paieon laid assuaging drugs upon the wound and healed him; seeing that ver
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 922, 933-937: Birth; children with Aphrodite
+- **[Shield of Heracles](../sources/shield-of-heracles.md)**: Fights alongside his son Cycnus; Athena rebukes him; wounded in the thigh by Heracles; Panic and Dread carry him to Olympus; depicted on the shield "red with blood" with Fear and Flight
 - **[Iliad](../sources/iliad.md)** V: Bound by Otos and Ephialtes (recalled by Dione); leads Trojans disguised as Akamas; wounded by Diomedes with Athena's help; bellows as loud as ten thousand men; rebuked by Zeus ("most hateful to me"); healed by Paieon
 - **[Iliad](../sources/iliad.md)** XIII: His son Askalaphos ("the son of Enyalios") slain by Deiphobos — "loud-voiced awful Ares was not yet aware at all that his son had fallen in strong battle, but he was reclining on the peak of Olympus, beneath the golden clouds, being held there by the design of Zeus"
 - **[Iliad](../sources/iliad.md)** XV: Learns of Askalaphos's death; smites his thighs, bids yoke Fear and Dread (his horses), dons shining harness; Athena stops him ("Mad that thou art, and distraught of wit"), strips his helmet, shield, and spear; his children Panic (Phobos) and Fear (Dread) as his chariot horses

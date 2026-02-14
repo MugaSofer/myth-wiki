@@ -16,7 +16,15 @@
 
 "Alcmena was joined in love with [Zeus](../deities/zeus.md) who drives the clouds and bare mighty Heracles."[^theog-birth]
 
+### The Conception (Shield of Heracles)
+
+The [Shield of Heracles](../sources/shield-of-heracles.md) gives the fullest account of Heracles' conception. [Zeus](../deities/zeus.md) descended from Olympus "pondering guile in the deep of his heart," to beget "one to defend against destruction gods and men who eat bread." In one night Zeus lay with Alcmena, and in the same night her husband Amphitryon returned from war: "she, being subject in love to a god and to a man exceeding goodly, brought forth twin sons in seven-gated Thebe."[^sh-twins]
+
+The twins were unlike: "one was weaker but the other a far better man, one terrible and strong, the mighty Heracles. Him she bare through the embrace of the son of Cronos lord of dark clouds and the other, Iphiclus, of Amphitryon the spear-wielder."[^sh-unlike]
+
 [^theog-birth]: "Alcmena was joined in love with Zeus who drives the clouds and bare mighty Heracles" (Theogony 943-944, trans. H.G. Evelyn-White)
+[^sh-twins]: "she, being subject in love to a god and to a man exceeding goodly, brought forth twin sons in seven-gated Thebe" (Shield of Heracles 49-51, trans. H.G. Evelyn-White)
+[^sh-unlike]: "one was weaker but the other a far better man, one terrible and strong, the mighty Heracles. Him she bare through the embrace of the son of Cronos lord of dark clouds and the other, Iphiclus, of Amphitryon the spear-wielder—offspring distinct" (Shield of Heracles 51-56)
 
 ## Mythology
 
@@ -39,6 +47,21 @@ In the [Theogony](../sources/theogony.md), Heracles is mentioned as:
 
 [^theog-apotheosis]: "mighty Heracles, the valiant son of neat-ankled Alcmena, when he had finished his grievous toils, made Hebe the child of great Zeus and gold-shod Hera his shy wife in snowy Olympus. Happy he! For he has finished his great works and lives amongst the undying gods, untroubled and unageing all his days." (Theogony 950-955)
 
+### Slaying Cycnus and Wounding Ares (Shield of Heracles)
+
+In the [Shield of Heracles](../sources/shield-of-heracles.md), Heracles encounters Cycnus, the son of [Ares](../deities/ares.md), who was waylaying pilgrims near [Apollo](../deities/apollo.md)'s temple. [Athena](../deities/athena.md) counselled him: "When you have robbed Cycnus of sweet life, then leave him there and his armour also, and you yourself watch man-slaying Ares narrowly as he attacks, and wherever you shall see him uncovered below his cunningly-wrought shield, there wound him with your sharp spear."[^sh-athena]
+
+Heracles killed Cycnus with a spear-thrust to the neck: "the deadly spear cut through the two sinews; for the hero's full strength lighted on his foe. And Cycnus fell as an oak falls or a lofty pine that is stricken by the lurid thunderbolt of Zeus."[^sh-cycnus]
+
+When Ares charged to avenge his son, Athena "reached out from the car and turned aside the force of the spear." Heracles then "shrewdly wounded his thigh where it was exposed under his richly-wrought shield, and tare deep into his flesh with the spear-thrust and cast him flat upon the ground. And Panic and Dread quickly drove his smooth-wheeled chariot and horses near him and lifted him from the wide-pathed earth into his richly-wrought car, and then straight lashed the horses and came to high Olympus."[^sh-ares]
+
+Heracles boasts of a previous encounter: "Another time ere this I declare he has made trial of my spear, when he defended sandy Pylos and stood against me, fiercely longing for fight. Thrice was he stricken by my spear and dashed to earth."[^sh-pylos]
+
+[^sh-athena]: "When you have robbed Cycnus of sweet life, then leave him there and his armour also, and you yourself watch man-slaying Ares narrowly as he attacks, and wherever you shall see him uncovered below his cunningly-wrought shield, there wound him with your sharp spear" (Shield of Heracles 330-336, trans. H.G. Evelyn-White)
+[^sh-cycnus]: "the deadly spear cut through the two sinews; for the hero's full strength lighted on his foe. And Cycnus fell as an oak falls or a lofty pine that is stricken by the lurid thunderbolt of Zeus; even so he fell, and his armour adorned with bronze clashed about him" (Shield of Heracles 418-423)
+[^sh-ares]: "the son of Amphitryon, unsated of fierce battle, shrewdly wounded his thigh where it was exposed under his richly-wrought shield, and tare deep into his flesh with the spear-thrust and cast him flat upon the ground. And Panic and Dread quickly drove his smooth-wheeled chariot and horses near him and lifted him from the wide-pathed earth into his richly-wrought car, and then straight lashed the horses and came to high Olympus" (Shield of Heracles 456-462)
+[^sh-pylos]: "Another time ere this I declare he has made trial of my spear, when he defended sandy Pylos and stood against me, fiercely longing for fight. Thrice was he stricken by my spear and dashed to earth, and his shield was pierced" (Shield of Heracles 357-362)
+
 ### Oppressing Pylos (Book XI)
 
 In [Iliad](../sources/iliad.md) Book XI, Nestor recalls Heracles' devastation of Pylos: "the mighty Herakles had come and oppressed us, in the former years, and all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished."[^il11-pylos]
@@ -56,6 +79,7 @@ This is the first explicit reference to the Cerberus labour in any source proces
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 289-292, 316-318, 332, 526-532, 943-944, 950-955: Slaying monsters; freeing Prometheus; birth; marriage to Hebe and apotheosis
+- **[Shield of Heracles](../sources/shield-of-heracles.md)**: Conception (Zeus and Alcmena on the same night as Amphitryon); arming with Athena's gifts; the shield ekphrasis; kills Cycnus; wounds Ares in the thigh
 - **[Iliad](../sources/iliad.md)** V: Wounded [Hera](../deities/hera.md) with a three-barbed arrow and [Hades](../deities/hades.md) at Pylos; previously sacked Troy with only six ships for Laomedon's horses (recalled by Dione and Tlepolemos)
 - **[Iliad](../sources/iliad.md)** VIII: Fetching Cerberus from Hades recalled by Athena; Athena was his protector during Eurystheus's tasks
 - **[Iliad](../sources/iliad.md)** XI: Oppressed Pylos in "the former years" — "all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished" (Nestor's recollection)
