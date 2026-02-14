@@ -1,0 +1,104 @@
+# Leto
+
+| | |
+|---|---|
+| **Also known as** | Leto with the lovely tresses, queenly Leto, neat-ankled Leto |
+| **Roman equivalent** | Latona |
+| **Parents** | [Coeus](coeus.md) and [Phoebe](phoebe.md) |
+| **Consort(s)** | [Zeus](zeus.md) |
+| **Children** | [Apollo](apollo.md), [Artemis](artemis.md) |
+| **First appearance** | [Theogony](../sources/theogony.md) 918 |
+
+## Overview
+
+**Leto** is a Titaness, daughter of [Coeus](coeus.md) and [Phoebe](phoebe.md), and mother of [Apollo](apollo.md) and [Artemis](artemis.md) by [Zeus](zeus.md). She is the sixth consort of Zeus in the [Theogony](../sources/theogony.md)'s catalogue of divine marriages.
+
+## Epithets
+
+- **"Leto with the lovely tresses"** — used in the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III 97)[^ep-tresses]
+- **"queenly Leto"** — used when she sets foot on Delos (Hymn III 49)[^ep-queenly]
+- **"neat-ankled Leto"** — used in connection with her children (Theogony 950)[^ep-ankled]
+- **"renowned Leto"** — used in Zeus's list of loves (Iliad XIV)[^ep-renowned]
+
+[^ep-tresses]: "Leto with the lovely tresses was soon to bear a son faultless and strong" (Homeric Hymn III to Apollo 97-100)
+[^ep-queenly]: "queenly Leto set foot on Delos and uttered winged words" (Homeric Hymn III to Apollo 46-49, trans. H.G. Evelyn-White)
+[^ep-ankled]: "mighty Heracles, the valiant son of neat-ankled Alcmena, when he had finished his grievous toils, made Hebe the child of great Zeus and gold-shod Hera his shy wife in snowy Olympus. Happy he! For he has finished his great works and lives amongst the undying gods, untroubled and unageing all his days." (Theogony 950-955)
+[^ep-renowned]: "nor when I loved the fair-tressed queen, Demeter, nor renowned Leto, nay, nor thy very self, as now I love thee, and sweet desire possesses me" (Iliad XIV.8510-8520, trans. Lang, Leaf, and Myers)
+
+## Birth of Apollo and Artemis (Theogony)
+
+"Leto was joined in love with [Zeus](zeus.md) who holds the aegis, and bare [Apollo](apollo.md) and [Artemis](artemis.md) delighting in arrows, children lovely above all the sons of Heaven."[^theog-birth]
+
+[^theog-birth]: "Leto was joined in love with Zeus who holds the aegis, and bare Apollo and Artemis delighting in arrows, children lovely above all the sons of Heaven" (Theogony 918-920, trans. H.G. Evelyn-White)
+
+## Birth of Apollo on Delos (Hymn to Apollo)
+
+The [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III) tells of Leto's wandering search for a birthplace. No land would receive her, for "they greatly trembled and feared, and none, not even the richest of them, dared receive Phoebus." Only Delos agreed, after Leto swore an oath that [Apollo](apollo.md) would build his first temple there.[^hh3-delos]
+
+[Hera](hera.md) kept [Eileithyia](eileithyia.md) (goddess of childbirth) away "through envy, because Leto with the lovely tresses was soon to bear a son faultless and strong." The other goddesses sent [Iris](iris.md) to fetch her. When Eileithyia arrived, "the pains of birth seized Leto, and she longed to bring forth; so she cast her arms about a palm tree and kneeled on the soft meadow while the earth laughed for joy beneath. Then the child leaped forth to the light."[^hh3-birth]
+
+After the birth, [Themis](themis.md) fed the newborn: "Leto did not give Apollo, bearer of the golden blade, her breast; but Themis duly poured nectar and ambrosia."[^hh3-themis]
+
+[^hh3-delos]: "they greatly trembled and feared, and none, not even the richest of them, dared receive Phoebus, until queenly Leto set foot on Delos and uttered winged words" (Homeric Hymn III to Apollo 46-49, trans. H.G. Evelyn-White)
+[^hh3-birth]: "the pains of birth seized Leto, and she longed to bring forth; so she cast her arms about a palm tree and kneeled on the soft meadow while the earth laughed for joy beneath. Then the child leaped forth to the light, and all the goddesses washed you purely and cleanly with sweet water" (Homeric Hymn III to Apollo 115-120)
+[^hh3-themis]: "Leto did not give Apollo, bearer of the golden blade, her breast; but Themis duly poured nectar and ambrosia" (Homeric Hymn III to Apollo 123-124, trans. H.G. Evelyn-White)
+
+## On Olympus
+
+When [Apollo](apollo.md) enters the hall of [Zeus](zeus.md), "the gods tremble before him and all spring up from their seats when he draws near, as he bends his bright bow. But Leto alone stays by the side of Zeus who delights in thunder."[^hh3-olympus]
+
+After [Artemis](artemis.md) hunts, she goes to Apollo's house at Delphi to lead the dances, "while all they utter their heavenly voice, singing how neat-ankled Leto bare children supreme among the immortals."[^hh27-delphi]
+
+[^hh3-olympus]: "As he goes through the house of Zeus, the gods tremble before him and all spring up from their seats when he draws near, as he bends his bright bow. But Leto alone stays by the side of Zeus who delights in thunder" (Homeric Hymn III to Apollo 2-7)
+[^hh27-delphi]: "this huntress who delights in arrows slackens her supple bow and goes to the great house of her dear brother Phoebus Apollo, to the rich land of Delphi, there to order the lovely dance of the Muses and Graces. There she hangs up her curved bow and her arrows, and heads and leads the dances" (Homeric Hymn XXVII to Artemis 12-18)
+
+## In the Iliad
+
+### Healing Aeneas (Book V)
+
+In [Iliad](../sources/iliad.md) Book V, after [Apollo](apollo.md) shields Aeneas from Diomedes and places him in his temple, Leto and [Artemis](artemis.md) heal him there.[^il5-heal]
+
+[^il5-heal]: Leto and Artemis heal Aeneas in Apollo's temple (Iliad V, trans. Lang, Leaf, and Myers)
+
+### Among Zeus's Loves (Book XIV)
+
+[Zeus](zeus.md) names Leto among his past loves when overcome by desire for [Hera](hera.md): "nor when I loved the fair-tressed queen, [Demeter](demeter.md), nor renowned Leto, nay, nor thy very self, as now I love thee, and sweet desire possesses me."[^il14-loves]
+
+[^il14-loves]: "nor when I loved the fair-tressed queen, Demeter, nor renowned Leto, nay, nor thy very self, as now I love thee, and sweet desire possesses me" (Iliad XIV.8510-8520, trans. Lang, Leaf, and Myers)
+
+### Patroklos's Dying Words (Book XVI)
+
+Patroklos acknowledges [Apollo](apollo.md) as his true slayer: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying."[^il16-dying]
+
+[^il16-dying]: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying" (Iliad XVI.9988)
+
+### The Theomachy (Books XX-XXI)
+
+In Book XX, when [Zeus](zeus.md) unleashes all the gods to fight on both sides, Leto is listed on the Trojan side alongside [Ares](ares.md), [Apollo](apollo.md), [Artemis](artemis.md), Xanthos, and [Aphrodite](aphrodite.md).[^il20-sides]
+
+In Book XXI, [Hermes](hermes.md) is matched against Leto in the Theomachy but declines to fight her: "a grievous thing it is to come to blows with wives of cloud-gathering Zeus."[^il21-hermes]
+
+In the same episode, [Hera](hera.md) beats [Artemis](artemis.md) with her own bow, and Artemis flees weeping to [Zeus](zeus.md)'s knee.[^il21-artemis]
+
+[^il20-sides]: Theomachy — Zeus unleashes both sides (Trojan: Ares, Apollo, Artemis, Leto, Xanthos, Aphrodite) (Iliad XX, trans. Lang, Leaf, and Myers)
+[^il21-hermes]: "a grievous thing it is to come to blows with wives of cloud-gathering Zeus" (Iliad XXI, trans. Lang, Leaf, and Myers)
+[^il21-artemis]: Hera beats Artemis with her own bow; Artemis flees weeping to Zeus's knee (Iliad XXI, trans. Lang, Leaf, and Myers)
+
+### The Niobe Story (Book XXIV)
+
+In Achilles' account of Niobe, her children were slain for rivalling Leto: "Apollo slew the sons with arrows from his silver bow, being angered with Niobe, and shaft-showering [Artemis](artemis.md) slew the daughters."[^il24-niobe] Niobe had "matched herself against Leto," claiming superiority in children.[^il24-matched]
+
+[^il24-niobe]: "Apollo slew the sons with arrows from his silver bow, being angered with Niobe, and shaft-showering Artemis slew the daughters" (Iliad XXIV.14189-14191)
+[^il24-matched]: Niobe matched herself against Leto (Iliad XXIV, trans. Lang, Leaf, and Myers)
+
+## Appearances
+
+- **[Theogony](../sources/theogony.md)** 918-920: Sixth consort of Zeus; bore Apollo and Artemis
+- **[Homeric Hymn III](../sources/homeric-hymns.md)**: Wanders seeking a birthplace; labours on Delos; stays calm by Zeus's side on Olympus
+- **[Homeric Hymn XXVII](../sources/homeric-hymns.md)**: Praised in song as mother of children "supreme among the immortals"
+- **[Iliad](../sources/iliad.md)** V: Heals Aeneas in Apollo's temple with Artemis
+- **[Iliad](../sources/iliad.md)** XIV: Named among Zeus's past loves ("renowned Leto")
+- **[Iliad](../sources/iliad.md)** XVI: Referred to in Patroklos's dying words ("the son of Leto")
+- **[Iliad](../sources/iliad.md)** XX: Listed on the Trojan side in the Theomachy
+- **[Iliad](../sources/iliad.md)** XXI: Hermes declines to fight her; Hera beats Artemis
+- **[Iliad](../sources/iliad.md)** XXIV: The Niobe story — her children slain for rivalling Leto

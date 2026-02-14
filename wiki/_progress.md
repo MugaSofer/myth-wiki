@@ -57,7 +57,7 @@
 - theogony.md
 
 **Entities mentioned but not yet given dedicated pages:**
-- Deities: Leto, Dione, Hebe, Eileithyia
+- ~~Deities: Leto, Dione, Hebe, Eileithyia~~ (pages created)
 - Nereus's daughters (Nereids), Oceanids, Rivers
 - Heroes: Bellerophon, Cadmus
 - Places: Crete/Lyctus, Pytho/Parnassus, Cyprus, Cythera
@@ -367,6 +367,37 @@ Book V (Diomedes' aristeia — most mythology-dense book so far):
 
 All 24 books of the Iliad (Lang, Leaf, and Myers translation) have been processed.
 
+### Structural Pass: Epithets / Appearance / Powers
+
+Split all combined "Epithets & Description" sections across deity pages into separate headings:
+- **## Epithets** — names, titles, formulaic phrases
+- **## Appearance** — physical descriptions, clothing, visual details
+- **## Powers** — demonstrated abilities
+
+**New Appearance/Powers content added to:** zeus.md (Appearance), hera.md (Appearance expanded), hermes.md (Appearance + Powers), aphrodite.md (Appearance expanded with Iliad details)
+
+**Split by background agent:** artemis.md, dionysus.md, hades.md, helius.md, persephone.md, selene.md (Epithets + Appearance); eos.md, hecate.md, iris.md, thetis.md (Epithets only — too thin for separate Appearance)
+
+**Previously done:** athena.md, hephaestus.md, poseidon.md (full Epithets + Appearance + Powers), apollo.md, demeter.md, hera.md (split), ares.md, zeus.md (renamed)
+
+No combined "Epithets & Description" sections remain.
+
+### Object Pages
+
+Populated the previously empty `wiki/objects/` folder with 9 pages:
+
+- **aegis.md** — Zeus's divine shield/cloak; wielded also by Athena and Apollo; made by Hephaestus; Gorgon head, Panic, Strife, Valour
+- **shield-of-achilles.md** — Full ekphrasis from Iliad XVIII (cosmos, two cities, ploughing, reaping, vintage, cattle, sheep, dancing-place, Ocean rim)
+- **thunderbolt.md** — Made by Cyclopes; instrument of Zeus's supremacy
+- **helm-of-hades.md** — Grants invisibility; worn by Athena in Iliad V
+- **aphrodites-girdle.md** — Enchanted cestus; lent to Hera in Iliad XIV
+- **golden-scales.md** — Fate-weighing in Books VIII and XXII
+- **hermes-wand.md** — Golden wand from Apollo; induces/breaks sleep
+- **lyre.md** — Invented by Hermes; given to Apollo
+- **apollos-bow.md** — Silver bow; plague, gentle death, dragon-slaying
+
+**Cross-links added** from 10 deity/creature pages to the object pages.
+
 ## Next
 
-The Iliad is complete. Consider processing the next major source (e.g. Odyssey, Hesiod's Shield of Heracles, Homeric Hymn to Hermes variants, Apollodorus, etc.).
+Consider processing the next major source (e.g. Odyssey, Hesiod's Shield of Heracles, remaining Hesiod fragments, Apollodorus, etc.). The Hesiod source file (hesiod-evelyn-white.txt) may contain additional texts beyond the Theogony and Works and Days.
