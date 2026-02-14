@@ -14,17 +14,22 @@
 
 **Hera** is the queen of the gods and wife of [Zeus](zeus.md). She is a daughter of [Cronos](cronos.md) and [Rhea](rhea.md), and thus one of the Olympians who were swallowed by Cronos and later freed.
 
-## Epithets & Description
+## Epithets
 
 - **"queenly Hera of Argos who walks on golden sandals"** — (Theogony 11-12)
 - **"gold-shod Hera"** — (Theogony 454)
 - **"white-armed Hera"** — (Theogony 315; Hymn IV to Hermes 6)
 - **"large-eyed queenly Hera"** — (Hymn III to Apollo 305, 322, 332)[^desc-largeeyed]
 - **"golden-throned Hera"** — (Hymn XII 1)[^desc-throne]
-- **"surpassing all in beauty"** — the only physical comparison among the gods, from Hymn XII: "Queen of the immortals is she, surpassing all in beauty."[^desc-beauty]
+- **"the ox-eyed queen"** — a new epithet in the Iliad, not found in Hesiod or the Hymns (Iliad I)
 
 [^desc-largeeyed]: "Then straightway large-eyed queenly Hera prayed, striking the ground flatwise with her hand" (Homeric Hymn III to Apollo 305-306, trans. H.G. Evelyn-White)
 [^desc-throne]: "I sing of golden-throned Hera whom Rhea bare. Queen of the immortals is she" (Homeric Hymn XII to Hera 1-2)
+
+## Appearance
+
+**"Surpassing all in beauty"** — the only physical comparison among the gods, from Hymn XII: "Queen of the immortals is she, surpassing all in beauty."[^desc-beauty]
+
 [^desc-beauty]: "Queen of the immortals is she, surpassing all in beauty: she is the sister and the wife of loud-thundering Zeus,—the glorious one whom all the blessed throughout high Olympus reverence and honour even as Zeus who delights in thunder" (Homeric Hymn XII to Hera 2-5)
 
 ## Children

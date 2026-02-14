@@ -14,7 +14,7 @@
 
 **Apollo** is a son of [Zeus](zeus.md) and Leto, and twin brother of [Artemis](artemis.md).
 
-## Epithets & Description
+## Epithets
 
 Apollo is described with more epithets than almost any other deity:
 
@@ -26,10 +26,13 @@ Apollo is described with more epithets than almost any other deity:
 - **"the Pythian"** — from the rotting (*pythein*) of the dragon he slew (Hymn III 372-374)
 - **"Apollo Delphinius"** — from his dolphin form (Hymn III 496)
 
-At his birth he was "swathed... in a white garment of fine texture, new-woven, and fastened a golden band about" him.[^desc-birth] On [Olympus](../places/olympus.md), a vivid physical picture: "Apollo plays his lyre stepping high and featly and a radiance shines around him, the gleaming of his feet and close-woven vest."[^desc-radiance]
-
 [^desc-blade]: "Leto did not give Apollo, bearer of the golden blade, her breast; but Themis duly poured nectar and ambrosia" (Homeric Hymn III to Apollo 123-124, trans. H.G. Evelyn-White)
 [^desc-longhaired]: "So said Phoebus, the long-haired god who shoots afar and began to walk upon the wide-pathed earth; and all goddesses were amazed at him" (Homeric Hymn III to Apollo 134-135)
+
+## Appearance
+
+At his birth he was "swathed... in a white garment of fine texture, new-woven, and fastened a golden band about" him.[^desc-birth] On [Olympus](../places/olympus.md), a vivid physical picture: "Apollo plays his lyre stepping high and featly and a radiance shines around him, the gleaming of his feet and close-woven vest."[^desc-radiance]
+
 [^desc-birth]: "all the goddesses washed you purely and cleanly with sweet water, and swathed you in a white garment of fine texture, new-woven, and fastened a golden band about you" (Homeric Hymn III to Apollo 120-122)
 [^desc-radiance]: "Apollo plays his lyre stepping high and featly and a radiance shines around him, the gleaming of his feet and close-woven vest" (Homeric Hymn III to Apollo 202-203)
 

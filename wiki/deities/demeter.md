@@ -14,7 +14,7 @@
 
 **Demeter** is a daughter of [Cronos](cronos.md) and [Rhea](rhea.md), one of the Olympians swallowed by Cronos and later freed. She is the mother of [Persephone](persephone.md).
 
-## Epithets & Description
+## Epithets
 
 Demeter is described with a rich array of epithets across the sources:
 
@@ -26,11 +26,6 @@ Demeter is described with a rich array of epithets across the sources:
 - **"bringer of seasons and giver of good gifts"** — [Hecate](hecate.md)'s address to her (Hymn to Demeter 54)[^epithets-seasons]
 - **"lovely in form"** — used even when she is in disguise (Hymn to Demeter 315)[^epithets-lovely]
 
-During her search for [Persephone](persephone.md), she disguised herself as "an ancient woman who is cut off from childbearing and the gifts of garland-loving Aphrodite."[^epithets-disguise]
-
-When she revealed her true form at Eleusis, "the goddess changed her stature and her looks, thrusting old age away from her: beauty spread round about her and a lovely fragrance was wafted from her sweet-smelling robes, and from the divine body of the goddess a light shone afar, while golden tresses spread down over her shoulders, so that the strong house was filled with brightness as with lightning."[^epithets-reveal]
-
-[^epithets-reveal]: "the goddess changed her stature and her looks, thrusting old age away from her: beauty spread round about her and a lovely fragrance was wafted from her sweet-smelling robes, and from the divine body of the goddess a light shone afar, while golden tresses spread down over her shoulders, so that the strong house was filled with brightness as with lightning" (Homeric Hymn to Demeter 275-280)
 [^epithets-richhaired]: "I begin to sing of rich-haired Demeter, awful goddess" (Homeric Hymn to Demeter 1, trans. H.G. Evelyn-White)
 [^epithets-richcrowned]: "by day rich-crowned Demeter would anoint him with ambrosia" (Homeric Hymn to Demeter 235)
 [^epithets-darkcloaked]: "finding dark-cloaked Demeter in her temple" (Homeric Hymn to Demeter 319)
@@ -38,6 +33,14 @@ When she revealed her true form at Eleusis, "the goddess changed her stature and
 [^epithets-allnourishing]: "he came to the bed of all-nourishing Demeter" (Theogony 912)
 [^epithets-seasons]: "Queenly Demeter, bringer of seasons and giver of good gifts" (Homeric Hymn to Demeter 54)
 [^epithets-lovely]: "rich-haired Demeter, lovely in form" (Homeric Hymn to Demeter 315)
+
+## Appearance
+
+During her search for [Persephone](persephone.md), she disguised herself as "an ancient woman who is cut off from childbearing and the gifts of garland-loving Aphrodite."[^epithets-disguise]
+
+When she revealed her true form at Eleusis, "the goddess changed her stature and her looks, thrusting old age away from her: beauty spread round about her and a lovely fragrance was wafted from her sweet-smelling robes, and from the divine body of the goddess a light shone afar, while golden tresses spread down over her shoulders, so that the strong house was filled with brightness as with lightning."[^epithets-reveal]
+
+[^epithets-reveal]: "the goddess changed her stature and her looks, thrusting old age away from her: beauty spread round about her and a lovely fragrance was wafted from her sweet-smelling robes, and from the divine body of the goddess a light shone afar, while golden tresses spread down over her shoulders, so that the strong house was filled with brightness as with lightning" (Homeric Hymn to Demeter 275-280)
 [^epithets-disguise]: "she was like an ancient woman who is cut off from childbearing and the gifts of garland-loving Aphrodite" (Homeric Hymn to Demeter 101-102)
 
 ## Children

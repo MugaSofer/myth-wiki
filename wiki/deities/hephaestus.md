@@ -15,6 +15,33 @@
 
 [^theog-crafts]: "Hera without union with Zeus—for she was very angry and quarrelled with her mate—bare famous Hephaestus, who is skilled in crafts more than all the sons of Heaven" (Theogony 927-929, trans. H.G. Evelyn-White)
 
+## Epithets
+
+- **"the famous Limping God"** / **"the famous Lame One"** — (Theogony 571, 945)
+- **"skilled in crafts more than all the sons of Heaven"** — (Theogony 929)
+- **"the crook-footed god"** — the most frequent Iliad epithet (Iliad XVIII passim)
+- **"famed Hephaistos the lame god"** — (Iliad II)
+
+## Appearance
+
+In the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III), [Hera](hera.md) describes him as "weakly among all the blessed gods and shrivelled of foot, a shame and disgrace to me in heaven."[^desc-shrivelled] In the Iliad, he is "the crook-footed god" who bustles through the palace serving wine, provoking "laughter unquenchable... amid the blessed gods."[^desc-laughter]
+
+His workshop house is "imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself." When [Thetis](thetis.md) finds him, he is "sweating in toil and busy about his bellows."[^desc-house]
+
+[^desc-shrivelled]: "my son Hephaestus whom I bare was weakly among all the blessed gods and shrivelled of foot, a shame and disgrace to me in heaven" (Homeric Hymn III to Apollo 316-318, trans. H.G. Evelyn-White)
+[^desc-laughter]: "laughter unquenchable arose amid the blessed gods to see Hephaistos bustling through the palace" (Iliad I.763-764, trans. Lang, Leaf, and Myers)
+[^desc-house]: "she came unto the house of Hephaistos, imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself. Him found she sweating in toil and busy about his bellows" (Iliad XVIII.10712-10715)
+
+## Powers
+
+- **Supreme craftsmanship:** "Skilled in crafts more than all the sons of Heaven." His creations include: the first woman's golden crown ("wonderful things, like living beings with voices"), self-moving golden tripods, [Agamemnon's sceptre](../sources/iliad.md), and the Shield of Achilles (an entire cosmos in miniature).[^desc-crafts]
+- **Automata:** His golden handmaidens are "the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods." His tripods move "of their own motion" to enter the assembly of the gods.[^desc-automata]
+- **Fire:** He burns the River [Xanthos](../sources/iliad.md) at [Hera](hera.md)'s command — consuming elms, willows, tamarisks, and lotus until the river submits and swears an oath.[^desc-fire]
+
+[^desc-crafts]: "the very famous Limping God formed of earth the likeness of a shy maiden... wonderful things, like living beings with voices: and great beauty shone out from it" (Theogony 571-584)
+[^desc-automata]: "there were handmaidens of gold that moved to help their lord, the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods" (Iliad XVIII.10723-10726)
+[^desc-fire]: (Iliad XXI)
+
 ## Birth
 
 [Hera](hera.md) bore Hephaestus without union with [Zeus](zeus.md), "for she was very angry and quarrelled with her mate."[^theog-birth]

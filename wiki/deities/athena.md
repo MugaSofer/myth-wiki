@@ -14,6 +14,50 @@
 
 [^theog-epithets]: "bright-eyed Tritogeneia, the awful, the strife-stirring, the host-leader, the unwearying, the queen, who delights in tumults and wars and battles" (Theogony 924-926, trans. H.G. Evelyn-White)
 
+## Epithets
+
+- **"bright-eyed"** / **"grey-eyed"** — the most frequent epithet, used throughout all sources (Theogony 13, 573, 888, 924; Iliad passim)
+- **"Tritogeneia"** / **"Trito-born"** — from her birthplace by the river Trito (Theogony 895, 924; Iliad XXII)[^desc-trito]
+- **"Pallas Athene"** — the standard compound name (Iliad passim)
+- **"the Giver of Spoil"** / **"the spoil-driver"** — (Theogony 318; Iliad X)
+- **"beauteous-haired Athene"** / **"saviour of the city"** — used by the Trojans in prayer (Iliad VI)
+- **"the bright-eyed Maiden"** — (Iliad XXIV)
+
+[^desc-trito]: "Be of good cheer, Trito-born, dear child" (Iliad XXII.12455-12456, trans. Lang, Leaf, and Myers)
+
+## Appearance
+
+When she restrains Achilles, "terribly shone her eyes" — visible only to him while invisible to others.[^desc-eyes] At her birth, she sprang from Zeus's head "arrayed in warlike arms of flashing gold," shaking a sharp spear so that "great [Olympus](../places/olympus.md) began to reel horribly."[^desc-birth-arms]
+
+Her full arming is described twice in the Iliad (Books V and VIII): she puts on "the tunic of [Zeus](zeus.md) the cloud-gatherer," then "the great shield of the aegis... therein is Panic, therein Strife, therein Valour, therein the dread onset of Battle, therein the [Gorgon](../creatures/gorgons.md) head of the dread monster." On her head she sets "the two-crested golden helm with four plates, adorned with men-at-arms of an hundred cities." She wields "her father's spear, the great, the stout, the heavy, wherewith she vanquisheth the ranks of men."[^desc-arming]
+
+She also wears the **helm of [Hades](hades.md)**, which grants invisibility — "that terrible [Ares](ares.md) might not behold her."[^desc-hades-helm]
+
+### The Aegis
+
+The aegis is described separately from her arming scenes: "the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk."[^desc-aegis]
+
+[^desc-eyes]: "straightway knew Pallas Athene; and terribly shone her eyes" (Iliad I.200, trans. Lang, Leaf, and Myers)
+[^desc-birth-arms]: "From his awful head wise Zeus himself bare her arrayed in warlike arms of flashing gold, and awe seized all the gods as they gazed" (Homeric Hymn XXVIII to Athena 4-6, trans. H.G. Evelyn-White)
+[^desc-arming]: "she put on the tunic of Zeus the cloud-gatherer, and arrayed her in her armour for dolorous battle. About her shoulders cast she the tasselled aegis terrible, all about which Terror is as a crown, and therein is Strife, therein Valour, therein the dread onset of Battle, therein the Gorgon head of the dread monster, terrible and grim, portent of aegis-bearing Zeus. Upon her head she set the two-crested golden helm with four plates, adorned with men-at-arms of an hundred cities. Upon the flaming chariot set she her foot, and grasped her heavy spear, great and stout, wherewith she vanquisheth the ranks of men" (Iliad V.3185-3198)
+[^desc-hades-helm]: "she put on the helm of Hades, that terrible Ares might not behold her" (Iliad V.3205-3206)
+[^desc-aegis]: "bright-eyed Athene in the midst, bearing the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk" (Iliad II.1197-1201)
+
+## Powers
+
+- **Empowering mortals:** She sets fire blazing from Diomedes' head and shoulders, and grants him sight to distinguish gods from men.[^desc-fire] She later does the same for Achilles — casting her aegis around him, setting "a golden cloud" and "blazing fire" on his head, and adding her voice to his shout so that "Pallas Athene uttered her voice, and spread terror unspeakable."[^desc-achilles-fire]
+- **Protecting mortals:** She wards off weapons — from Menelaos "even as a mother driveth a fly from her child," and from Odysseus so that a spear "did not suffer it to mingle with the bowels."[^desc-protect]
+- **Disguise and deception:** She appears as Laodokos (IV), Deiphobus (XXII), and in vulture form (VII). She tricks Hector into facing Achilles by impersonating his brother, then invisibly retrieves Achilles' thrown spear.[^desc-deception]
+- **Physical combat:** She hurls a boundary stone at Ares so that "seven roods he covered in his fall," and strikes [Aphrodite](aphrodite.md) on the breast with her fist.[^desc-combat]
+- **Motherly patronage of Odysseus:** Aias calls her "the goddess... from of old like a mother standeth by Odysseus' side."[^desc-odysseus]
+
+[^desc-fire]: "she kindled from his helm and shield flame unwearying, like to the star of summer that above all stars riseth brightest bathed in the Ocean stream. In such wise kindled she fire from his head and shoulders" (Iliad V.2611-2614, trans. Lang, Leaf, and Myers)
+[^desc-achilles-fire]: "the bright-eyed goddess Athene cast about his mighty shoulders the tasselled aegis, and around his head the divine goddess set a crown of golden cloud, and kindled therefrom a blazing fire... Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" (Iliad XVIII.10553-10562)
+[^desc-protect]: "even as a mother driveth a fly from her child that lieth in sweet slumber" (Iliad IV.2176-2177)
+[^desc-deception]: "she left him and came to noble Hector, like unto Deiphobos in shape and in strong voice... Thus saying Athene in her subtlety led him on" (Iliad XXII.12493-12514)
+[^desc-combat]: "she sprang forth and caught up a stone that lay in the plain, black, rugged, huge, that men of old time set to be the boundary of a field: therewith smote she fierce Ares on the neck, and unstrung his limbs" (Iliad XXI.12103-12106)
+[^desc-odysseus]: "the goddess who from of old like a mother standeth by Odysseus' side and helpeth him" (Iliad XXIII.13463-13464)
+
 ## Birth
 
 [Zeus](zeus.md) swallowed Metis ("wisest among gods and mortal men") when she was pregnant with Athena, on the advice of [Gaia](gaia.md) and [Uranus](uranus.md), because "very wise children were destined to be born of her, first the maiden bright-eyed Tritogeneia, equal to her father in strength and in wise understanding; but afterwards she was to bear a son of overbearing spirit, king of gods and men."[^theog-prophecy]

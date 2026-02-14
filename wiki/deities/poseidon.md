@@ -15,10 +15,35 @@
 
 ## Epithets
 
-- "the earth-holder who shakes the earth" (Theogony 15)
-- "the loud-crashing Earth-Shaker" (Theogony 456)
-- "the Dark-haired One" (Theogony 278) — used when describing his union with [Medusa](../creatures/gorgons.md)
-- "deep-roaring Earth-Shaker" (Theogony 818)
+- **"the earth-holder who shakes the earth"** — (Theogony 15)
+- **"the loud-crashing Earth-Shaker"** / **"the mighty Earthshaker"** — (Theogony 456; Iliad XIII)
+- **"the Dark-haired One"** — used when describing his union with [Medusa](../creatures/gorgons.md) (Theogony 278)
+- **"deep-roaring Earth-Shaker"** — (Theogony 818)
+- **"the Shaker of the earth"** / **"the Enfolder and Shaker of the earth"** — (Iliad XII, XXIII)
+
+## Appearance
+
+The most vivid description comes in [Iliad](../sources/iliad.md) Book XIII, where Poseidon makes his grand descent: "Three strides he made, and with the fourth he reached his goal, even Aigae, and there was his famous palace in the deeps of the mere, his glistering golden mansions builded, imperishable for ever." He harnesses "bronze-hooved horses, swift of flight, clothed with their golden manes," takes "the well-wrought lash of gold," and dons golden armour. As he drives across the waves, "the sea beasts frolicked beneath him, on all sides out of the deeps, for well they knew their lord, and with gladness the sea stood asunder, and swiftly they sped, and the axle of bronze was not wetted beneath."[^desc-chariot]
+
+In Book XIV, fighting openly while [Zeus](zeus.md) sleeps, he carries "a dread sword of fine edge in his strong hand, like unto lightning."[^desc-sword]
+
+[^desc-chariot]: "Three strides he made, and with the fourth he reached his goal, even Aigae, and there was his famous palace in the deeps of the mere, his glistering golden mansions builded, imperishable for ever. Thither went he, and let harness to the car his bronze-hooved horses, swift of flight, clothed with their golden manes. He girt his own golden array about his body, and seized the well-wrought lash of gold, and mounted his chariot, and forth he drove across the waves. And the sea beasts frolicked beneath him, on all sides out of the deeps, for well they knew their lord, and with gladness the sea stood asunder" (Iliad XIII.7421-7431, trans. Lang, Leaf, and Myers)
+[^desc-sword]: "The Shaker of the earth led them, wielding in his strong hand a dread sword of fine edge in his strong hand, like unto lightning, wherewith it is not permitted that any should mingle in deadly battle, but fear keepeth men therefrom" (Iliad XIV.8655-8658)
+
+## Powers
+
+- **Earthquakes:** "From beneath Poseidon made the vast earth shake, and the steep tops of the mountains," so that even [Hades](hades.md) "leapt from his throne and cried aloud, in terror lest the earth-shaker Poseidon rend the earth asunder from above."[^desc-earthquake]
+- **Sea mastery:** The sea parts before him and sea beasts frolic in recognition; he drives his golden chariot unwetted across the waves.[^desc-chariot]
+- **Voice:** He shouts with a voice "as of nine thousand men, or ten thousand" when he leads the Greeks openly.[^desc-voice]
+- **Disguise:** He appears as the seer Kalchas and as Thoas in Book XIII, and as an old man taking Agamemnon's hand in Book XIV. Aias recognises him: "easily I knew the tokens of his feet and knees as he turned away, and the gods are easy to discern."[^desc-disguise]
+- **Spells and protection:** He paralyzes Alkathoos for Idomeneus, "throwing a spell over his shining eyes, and snaring his glorious limbs." He also shields Antilochos from javelins on all sides.[^desc-spell]
+- **Destruction:** With his trident, he leads the destruction of the Achaian wall after the war, sending "all the foundations of beams and stones" into the waves and making "all smooth by the strong current of the Hellespont."[^desc-trident]
+
+[^desc-earthquake]: "from beneath Poseidon made the vast earth shake, and the steep tops of the mountains. All the roots of many-fountained Ida were shaken, and all her crests, and the city of the Trojans, and the ships of the Achaians. And Aidoneus, lord of the dead below, had terror and leapt from his throne and cried aloud, in terror lest the earth-shaker Poseidon rend the earth asunder from above" (Iliad XX.11397-11403)
+[^desc-voice]: "loudly he shouted, with might as of nine thousand men, or ten thousand" (Iliad XIV.8654-8655)
+[^desc-disguise]: "easily I knew the tokens of his feet and knees as he turned away, and the gods are easy to discern" (Iliad XIII.7472-7473)
+[^desc-spell]: "Poseidon subdue to Idomeneus, throwing a spell over his shining eyes, and snaring his glorious limbs; so that he might neither flee backwards, nor avoid the stroke, but stood steady as a pillar" (Iliad XIII.7821-7824)
+[^desc-trident]: "the Shaker of the earth, with his trident in his hands, was himself the leader, and sent forth into the waves all the foundations of beams and stones that the Achaians had laid with toil, and made all smooth by the strong current of the Hellespont" (Iliad XII.6993-6998)
 
 ## Mythology
 

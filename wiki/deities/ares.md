@@ -14,7 +14,7 @@
 
 **Ares** is a son of [Zeus](zeus.md) and [Hera](hera.md), god of war.
 
-## Epithets & Description
+## Epithets
 
 - **"Ares the shield-piercer"** / **"sacker of towns"** — ([Theogony](../sources/theogony.md) 934-936)
 
