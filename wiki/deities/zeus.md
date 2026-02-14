@@ -144,7 +144,19 @@ When Thetis beseeches Zeus to honour Achilles, he consents with a nod whose powe
 [^il1-nod]: "Kronion spake, and bowed his dark brow, and the ambrosial locks waved from the king's immortal head; and he made great Olympus quake" (Iliad I.528-530)
 [^il1-threat]: "Abide thou in silence and hearken to my bidding, lest all the gods that are in Olympus keep not off from thee my visitation, when I put forth my hands unapproachable against thee" (Iliad I.565-567)
 
+### The Deceptive Dream (Book II)
+
+Zeus sends a personified Dream to Agamemnon to deceive him: "Come now, thou baneful Dream, go to the Achaians' fleet ships, enter into the hut of Agamemnon son of Atreus, and tell him every word plainly as I charge thee. Bid him call to arms the flowing-haired Achaians with all speed, for that now he may take the wide-wayed city of the Trojans." The Dream takes the form of Nestor and delivers the false message. Agamemnon believed it — "fond man, in that he knew not the plans that Zeus had in mind."[^il2-dream]
+
+Later, Agamemnon sacrifices to Zeus and prays for victory, "but not as yet would Kronion grant him fulfilment; he accepted the sacrifice, but made toil to wax increasingly."[^il2-sacrifice]
+
+[^il2-dream]: "Come now, thou baneful Dream, go to the Achaians' fleet ships, enter into the hut of Agamemnon son of Atreus, and tell him every word plainly as I charge thee. Bid him call to arms the flowing-haired Achaians with all speed, for that now he may take the wide-wayed city of the Trojans" (Iliad II.793-800, trans. Lang, Leaf, and Myers)
+[^il2-sacrifice]: "not as yet would Kronion grant him fulfilment; he accepted the sacrifice, but made toil to wax increasingly" (Iliad II.1172-1173)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 4-96, 141, 389-401, 453-506, 617-735, 820-885, 886-944: Pervasive throughout
 - **[Iliad](../sources/iliad.md)** I: Bound by Hera/Poseidon/Athena, freed by Thetis and Briareus; pledges to honour Achilles; his nod shakes Olympus; quarrels with Hera
+- **[Iliad](../sources/iliad.md)** II: Sends deceptive Dream to Agamemnon; accepts sacrifice but denies fulfilment
+- **[Iliad](../sources/iliad.md)** IV: Taunts Hera; bargains over cities; sends Athena to break the truce
+- **[Iliad](../sources/iliad.md)** V: Tells Aphrodite her domain is wedlock, not war; rebukes Ares ("most hateful to me art thou of all gods"); sends Athena against Ares

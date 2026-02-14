@@ -42,3 +42,4 @@ In the [Theogony](../sources/theogony.md), Heracles is mentioned as:
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 289-292, 316-318, 332, 526-532, 943-944, 950-955: Slaying monsters; freeing Prometheus; birth; marriage to Hebe and apotheosis
+- **[Iliad](../sources/iliad.md)** V: Wounded [Hera](../deities/hera.md) with a three-barbed arrow and [Hades](../deities/hades.md) at Pylos; previously sacked Troy with only six ships for Laomedon's horses (recalled by Dione and Tlepolemos)

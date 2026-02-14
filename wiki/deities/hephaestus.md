@@ -66,3 +66,5 @@ This contradicts the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III)
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 316-321: Cast out by Hera; rescued by Thetis
 - **[Iliad](../sources/iliad.md)** I: Peacemaker on Olympus; "laughter unquenchable"; variant tradition of being hurled by Zeus (not Hera), fell on Lemnos
+- **[Iliad](../sources/iliad.md)** II: Crafted Agamemnon's sceptre (passed from Zeus to Hermes to Pelops to Atreus to Agamemnon); "famed Hephaistos the lame god"
+- **[Iliad](../sources/iliad.md)** V: Saves Idaios (his priest's son) "in a veil of darkness, that he might not have his aged priest all broken with sorrow"

@@ -123,6 +123,58 @@ Added Epithets & Description sections to: hecate.md, demeter.md, apollo.md, herm
 **Pages updated:** apollo.md, athena.md, zeus.md, hera.md, hephaestus.md, hundred-handers.md
 **New pages created:** thetis.md
 
+**Book II processed:**
+- Zeus sends deceptive Dream to Agamemnon (takes form of Nestor)
+- Hera sends Athena to stop Greek retreat; Athena rallies army via Odysseus
+- Athena's aegis: "the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold"
+- Athena fostered Erechtheus in Athens (born of Earth)
+- Muses punish Thamyris the Thracian (maimed him, took his song and harping)
+- Iris as messenger to Trojans, disguised as Polites son of Priam
+- Hephaestus crafted Agamemnon's sceptre (Zeus → Hermes → Pelops → Atreus → Agamemnon)
+- Typhoeus: "Typhoeus' couch" in the land of the Arimoi
+- Styx: "the dread river of the oath" (Titaresios as offspring)
+- Aeneas confirmed as son of Aphrodite and Anchises
+- Catalogue of Ships: mostly geographical, minimal new mythological content
+
+**Pages updated:** athena.md, zeus.md, hera.md, hephaestus.md, muses.md, iris.md, styx.md, typhoeus.md
+
+**Books III-V processed:**
+
+Book III:
+- Iris disguised as Laodike summons Helen
+- Aphrodite rescues Paris, disguises as old woolcomber, Helen sees through it (fair neck, lovely breast, sparkling eyes)
+- Helen defies Aphrodite; Aphrodite threatens her
+- "Laughter-loving Aphrodite" carries chair for Helen
+
+Book IV:
+- Zeus-Hera negotiation: Hera offers Argos/Sparta/Mycenae for Troy's destruction
+- Hera: "I also am a god, and my lineage is even as thine"
+- Athena disguised as Laodokos breaks the truce (persuades Pandaros)
+- Athena protects Menelaos "even as a mother driveth a fly from her child"
+- Apollo rallies Trojans from Pergamos
+- Strife personified: "sister and friend of murderous Ares"
+
+Book V (Diomedes' aristeia — most mythology-dense book so far):
+- Athena empowers Diomedes: fire from head/shoulders, removes mist so he can see gods
+- Hephaestus saves Idaios in a "veil of darkness"
+- Aphrodite wounded by Diomedes: ichor defined ("they eat no bread neither drink they gleaming wine, wherefore they are bloodless")
+- VARIANT TRADITION: Aphrodite is daughter of Dione (not born from Uranus)
+- Dione's tales: Ares bound 13 months by Otos/Ephialtes (freed by Hermes); Hera wounded by Heracles; Hades wounded by Heracles at Pylos; Paieon healed them
+- Zeus to Aphrodite: "Not unto thee, my child, are given the works of war"
+- Apollo shields Aeneas, creates wraith; warns "no comparison of the race of immortal gods and of men"
+- Leto and Artemis heal Aeneas in Apollo's temple
+- Athena's full arming: Zeus's tunic, aegis with "Panic... Strife... Valour... Gorgon head," golden helm, heavy spear
+- Hours guard the gates of heaven
+- Hera shouts disguised as Stentor ("voice of bronze... loud as the cry of fifty other men")
+- Athena wears helm of Hades for invisibility
+- Athena drives Diomedes' chariot, guides his spear into Ares
+- Ares "bellowed loud as nine thousand warriors or ten thousand"
+- Zeus rebukes Ares: "Most hateful to me art thou of all gods"
+- Paieon heals Ares; Hebe bathes and clothes him
+- Heracles previously sacked Troy for Laomedon's horses (Tlepolemos/Sarpedon)
+
+**Pages updated:** athena.md, zeus.md, hera.md, aphrodite.md, ares.md, apollo.md, iris.md, hephaestus.md, hades.md, heracles.md, muses.md, styx.md, typhoeus.md
+
 ## Next
 
-Continue Iliad processing (Books II-XXIV), one book at a time.
+Continue Iliad processing (Books VI-XXIV), one book at a time.

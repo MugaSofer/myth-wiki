@@ -93,3 +93,5 @@ The plague continued for nine days until the Greeks returned Chryses's daughter 
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
 - **[Homeric Hymn III](../sources/homeric-hymns.md)**: Birth on Delos; first words; the dragon at Pytho; founding of the Delphic oracle; the Cretan priests
 - **[Iliad](../sources/iliad.md)** I: Sends plague on the Greeks; "descended like to night"; sends favourable wind after sacrifice
+- **[Iliad](../sources/iliad.md)** IV: Rallies the Trojans from Pergamos; notes Achilles' absence
+- **[Iliad](../sources/iliad.md)** V: Shields Aeneas (creates a wraith in his likeness); warns Diomedes: "there is no comparison of the race of immortal gods and of men that walk upon the earth"; sends Ares into battle; Leto and Artemis heal Aeneas in Apollo's temple

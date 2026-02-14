@@ -50,11 +50,27 @@ In [Iliad](../sources/iliad.md) Book I, when Achilles is about to draw his sword
 
 She promised him: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us."[^il1-promise]
 
+### Stopping the Retreat and the Aegis (Book II)
+
+When the Greeks rush to flee after Agamemnon's test, [Hera](hera.md) sends Athena to stop them. She goes to Odysseus, speaking to him directly (he "knew the voice of the goddess"), and through him rallies the army.[^il2-retreat]
+
+She then marches with the army bearing her aegis: "bright-eyed Athene in the midst, bearing the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk, urging them forth; and in every man's heart she roused strength to battle."[^il2-aegis]
+
+### Fostering Erechtheus (Book II)
+
+In the Catalogue of Ships, Athens is described as "the domain of Erechtheus the high-hearted, whom erst Athene daughter of Zeus fostered when Earth, the grain-giver, brought him to birth; and she gave him a resting-place in Athens in her own rich sanctuary."[^il2-erechtheus]
+
 [^il1-restrain]: "Athene came to him from heaven, sent forth of the white-armed goddess Hera, whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her. Then Achilles marvelled, and turned him about, and straightway knew Pallas Athene; and terribly shone her eyes" (Iliad I.195-200, trans. Lang, Leaf, and Myers)
 [^il1-promise]: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us" (Iliad I.213-214)
+[^il2-retreat]: "bright-eyed Athene stood by him and said: 'Heaven-sprung son of Laertes, Odysseus of many devices, will ye indeed fling yourselves upon your benched ships to flee homeward to your dear native land?'" (Iliad II.946-948, trans. Lang, Leaf, and Myers)
+[^il2-aegis]: "bright-eyed Athene in the midst, bearing the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk, urging them forth; and in every man's heart she roused strength to battle without ceasing and to fight" (Iliad II.1197-1202)
+[^il2-erechtheus]: "the goodly citadel of Athens, the domain of Erechtheus the high-hearted, whom erst Athene daughter of Zeus fostered when Earth, the grain-giver, brought him to birth; and she gave him a resting-place in Athens in her own rich sanctuary; and there the sons of the Athenians worship him with bulls and rams as the years turn in their courses" (Iliad II.1282-1287)
 
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 13, 318, 573-578, 886-900, 924-929t: Invocation; aids Heracles; dresses the first woman; birth from Zeus's head
 - **[Homeric Hymn XXVIII](../sources/homeric-hymns.md)**: Birth — cosmic reaction; Helius stops his chariot
 - **[Iliad](../sources/iliad.md)** I: Restrains Achilles from killing Agamemnon; visible only to him; "terribly shone her eyes"
+- **[Iliad](../sources/iliad.md)** II: Stops the Greek retreat via Odysseus; bears the aegis (described in detail); fostered Erechtheus in Athens
+- **[Iliad](../sources/iliad.md)** IV: Disguised as Laodokos, tricks Pandaros into breaking the truce; protects Menelaos from the arrow "even as a mother driveth a fly from her child"; urges the Achaians on
+- **[Iliad](../sources/iliad.md)** V: Empowers Diomedes (fire from head, sight to see gods); full arming scene (Zeus's tunic, aegis with Gorgon head, golden helm, heavy spear); wears helm of Hades for invisibility; drives Diomedes' chariot and guides his spear into Ares

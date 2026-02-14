@@ -52,3 +52,4 @@ With [Echidna](echidna.md), Typhoeus (called "Typhaon" in this passage) fathered
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 306 (as Typhaon), 820-880: Father of monsters; battle with Zeus
+- **[Iliad](../sources/iliad.md)** II: "Typhoeus' couch" in the country of the Arimoi, where Zeus lashes the earth

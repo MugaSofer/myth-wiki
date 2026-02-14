@@ -85,8 +85,17 @@ According to Achilles, Hera was one of three gods (with [Poseidon](poseidon.md) 
 [^il1-throne]: "beside him was Hera of the golden throne" (Iliad I.611)
 [^il1-binding]: "all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene" (Iliad I.399-400)
 
+### Stopping the Retreat (Book II)
+
+When the Greeks rush to flee after Agamemnon's test, Hera intervenes again by sending [Athena](athena.md): "Shall the Argives thus indeed flee homeward to their dear native land over the sea's broad back? But they would leave to Priam and the Trojans their boast, even Helen of Argos, for whose sake many an Achaian hath perished in Troy." She instructs Athena to restrain the army "with thy gentle words."[^il2-retreat]
+
+[^il2-retreat]: "Hera spake a word to Athene: 'Out on it, daughter of aegis-bearing Zeus, unwearied maiden! Shall the Argives thus indeed flee homeward to their dear native land over the sea's broad back? But they would leave to Priam and the Trojans their boast, even Helen of Argos'" (Iliad II.932-936, trans. Lang, Leaf, and Myers)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 11-12, 314-315, 328-329, 454, 921-929: Invocation; nourishes monsters against Heracles; bears children
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 97-100, 311-355: Opposes Apollo's birth; casts out Hephaestus; births Typhaon
 - **[Iliad](../sources/iliad.md)** I: "Ox-eyed queen"; pities the Greeks; sends Athena; quarrels with Zeus; part of the conspiracy to bind Zeus
+- **[Iliad](../sources/iliad.md)** II: Sends Athena to stop the Greek retreat
+- **[Iliad](../sources/iliad.md)** IV: Argues with Zeus over Troy's fate; claims equal divine lineage; offers Argos, Sparta, and Mycenae in exchange for Troy's destruction
+- **[Iliad](../sources/iliad.md)** V: Drives gold-frontleted chariot to Troy with Athena; shouts disguised as Stentor ("voice of bronze... loud as the cry of fifty other men"); wounded once by Heracles (recalled by Dione)

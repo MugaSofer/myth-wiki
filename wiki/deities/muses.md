@@ -68,6 +68,20 @@ It is "through the Muses and far-shooting [Apollo](apollo.md) that there are sin
 [^theog-gifts]: "he, speaking surely, would soon make wise end even of a great quarrel... yet, when a singer, the servant of the Muses, chants the glorious deeds of men of old and the blessed gods who inhabit Olympus, at once he forgets his heaviness and remembers not his sorrows at all" (Theogony 89-103)
 [^theog-apollo]: "For it is through the Muses and far-shooting Apollo that there are singers and harpers upon the earth; but princes are of Zeus" (Theogony 94-96)
 
+## In the Iliad
+
+### The Muses and Thamyris (Book II)
+
+In the Catalogue of Ships, the poet notes that near Dorion "the Muses met Thamyris the Thracian, and made an end of his singing, as he was faring from Oichalia, from Eurytos the Oichalian; for he averred with boasting that he would conquer, even did the Muses themselves sing against him, the daughters of aegis-bearing [Zeus](zeus.md); but they in their anger maimed him, moreover they took from him the high gift of song and made him to forget his harping."[^il2-thamyris]
+
+### Invocation for the Catalogue (Book II)
+
+The poet invokes the Muses before the Catalogue of Ships, acknowledging their unique knowledge: "Tell me now, ye Muses that dwell in the mansions of [Olympus](../places/olympus.md)—seeing that ye are goddesses and are at hand and know all things, but we hear only a rumour and know not anything."[^il2-invocation]
+
+[^il2-thamyris]: "the Muses met Thamyris the Thracian, and made an end of his singing, as he was faring from Oichalia, from Eurytos the Oichalian; for he averred with boasting that he would conquer, even did the Muses themselves sing against him, the daughters of aegis-bearing Zeus; but they in their anger maimed him, moreover they took from him the high gift of song and made him to forget his harping" (Iliad II.1331-1336, trans. Lang, Leaf, and Myers)
+[^il2-invocation]: "Tell me now, ye Muses that dwell in the mansions of Olympus—seeing that ye are goddesses and are at hand and know all things, but we hear only a rumour and know not anything" (Iliad II.1229-1231)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 1-115: Invocation; birth, activities, and gifts to mortals
+- **[Iliad](../sources/iliad.md)** II: Punish Thamyris (maimed, took his song); invoked for the Catalogue of Ships

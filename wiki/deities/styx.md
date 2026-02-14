@@ -43,6 +43,13 @@ Styx "lives apart from the gods in her glorious house vaulted over with great ro
 
 [^theog-house]: "She lives apart from the gods in her glorious house vaulted over with great rocks and propped up to heaven all round with silver pillars" (Theogony 778-779)
 
+## In the Iliad
+
+The river Titaresios is described as "an offspring from the water of Styx, the dread river of the oath" — it flows over the Peneios "like unto oil" without mingling.[^il2-styx]
+
+[^il2-styx]: "he is an offspring from the water of Styx, the dread river of the oath" (Iliad II.1480-1481, trans. Lang, Leaf, and Myers)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 361, 383-401, 775-806: Named among Oceanids; children and alliance with Zeus; dwelling in Tartarus; oath penalty
+- **[Iliad](../sources/iliad.md)** II: "The dread river of the oath"; the Titaresios as an offspring of Styx

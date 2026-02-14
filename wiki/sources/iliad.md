@@ -15,3 +15,7 @@ The **Iliad** is an epic poem attributed to Homer, set during the final year of 
 ## Books Processed
 
 - **Book I**: The quarrel between Agamemnon and Achilles; Apollo's plague; Athena restrains Achilles; Thetis supplicates Zeus; Olympian quarrel between Zeus and Hera; Hephaestus as peacemaker
+- **Book II**: Zeus's deceptive Dream; Agamemnon tests the army; Hera and Athena stop the retreat; Athena's aegis described; the Catalogue of Ships (Greek and Trojan forces); Muses punish Thamyris; Iris as messenger to Trojans
+- **Book III**: Paris and Menelaos duel; Iris summons Helen (disguised as Laodike); Aphrodite rescues Paris; Aphrodite disguised as old woman summons Helen; Helen defies then obeys Aphrodite
+- **Book IV**: Zeus and Hera negotiate over Troy; Athena disguised as Laodokos breaks the truce; Athena protects Menelaos; Apollo rallies Trojans; Strife personified
+- **Book V**: Diomedes' aristeia; Athena empowers him (fire, divine sight); Aphrodite wounded (ichor); Dione as Aphrodite's mother (variant tradition); Dione's tales (Ares bound, Hera/Hades wounded by Heracles); Apollo shields Aeneas (wraith); Athena's full arming (aegis with Gorgon head, helm of Hades); Ares wounded, bellows, rebuked by Zeus; Paieon heals; Hours guard heaven's gates

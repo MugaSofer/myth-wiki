@@ -92,11 +92,48 @@ In the Hymn, Aphrodite tells the story of [Eos](eos.md) and Tithonus as a cautio
 [^hh5-shame]: "now my mouth shall no more have this power among the gods; for very great has been my madness, my miserable and dreadful madness, and I went astray out of my mind who have gotten a child beneath my girdle, mating with a mortal man" (Homeric Hymn V to Aphrodite 247-253)
 [^hh5-tithonus]: "when loathsome old age pressed full upon him, and he could not move nor lift his limbs, this seemed to her in her heart the best counsel: she laid him in a room and put to the shining doors. There he babbles endlessly, and no more has strength at all, such as once he had in his supple limbs" (Homeric Hymn V to Aphrodite 233-238)
 
+## In the Iliad
+
+### Rescuing Paris (Book III)
+
+In [Iliad](../sources/iliad.md) Book III, when Menelaos is about to kill Paris in single combat, "Zeus' daughter Aphrodite was swift to mark, and tore asunder for him the strap of slaughtered ox's hide; so the helmet came away empty in his stalwart hand." Then "Aphrodite snatched up Paris, very easily as a goddess may, and hid him in thick darkness, and sent him down in his fragrant perfumed chamber."[^il3-rescue]
+
+### Summoning Helen
+
+Aphrodite then goes to Helen "in the likeness of an aged dame, a woolcomber that was wont to work for her fair wool when she dwelt in Lakedaimon." But Helen sees through the disguise: "she marked the fair neck and lovely breast and sparkling eyes of the goddess, she marvelled straightway."[^il3-disguise]
+
+Helen defies her: "Go and sit thou by his side, and depart from the way of the gods; neither let thy feet ever bear thee back to [Olympus](../places/olympus.md)." Aphrodite threatens her in return: "Provoke me not, rash woman, lest in mine anger I desert thee, and hate thee even as now I love thee beyond measure, and lest I devise grievous enmities between both, even betwixt Trojans and Achaians, and so thou perish in evil wise."[^il3-threat]
+
+Helen obeys in fear. Aphrodite then serves her directly: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris."[^il3-chair]
+
+[^il3-rescue]: "Zeus' daughter Aphrodite was swift to mark, and tore asunder for him the strap of slaughtered ox's hide; so the helmet came away empty in his stalwart hand... Aphrodite snatched up Paris, very easily as a goddess may, and hid him in thick darkness, and sent him down in his fragrant perfumed chamber" (Iliad III.1975-1982, trans. Lang, Leaf, and Myers)
+[^il3-disguise]: "she marked the fair neck and lovely breast and sparkling eyes of the goddess, she marvelled straightway and spake a word and called upon her name: 'Strange queen, why art thou desirous now to beguile me?'" (Iliad III.1994-1996)
+[^il3-threat]: "Provoke me not, rash woman, lest in mine anger I desert thee, and hate thee even as now I love thee beyond measure, and lest I devise grievous enmities between both, even betwixt Trojans and Achaians, and so thou perish in evil wise" (Iliad III.2009-2013)
+[^il3-chair]: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris" (Iliad III.2021-2022)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 16, 188-206: Mentioned in invocation; birth from sea-foam
 - **[Homeric Hymn V](../sources/homeric-hymns.md)**: The three immune; seduction of Anchises; birth of Aeneas; Eos and Tithonus
+- **[Iliad](../sources/iliad.md)** III: Rescues Paris from Menelaos; disguises as old woman; Helen sees through disguise ("fair neck and lovely breast and sparkling eyes"); threatens Helen
+- **[Iliad](../sources/iliad.md)** V: Shields Aeneas; wounded by Diomedes (ichor flows); flees to Olympus and Dione's lap; Zeus defines her domain as wedlock, not war
+
+### Wounded by Diomedes / Ichor (Book V)
+
+In [Iliad](../sources/iliad.md) Book V, Aphrodite shields her son Aeneas from Diomedes: "About her dear son wound she her white arms, and spread before his face a fold of her radiant vesture." But Diomedes, empowered by [Athena](athena.md), "thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the [Graces](graces.md) themselves had woven her pierced the dart into the flesh."[^il5-wound]
+
+Then flows "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals."[^il5-ichor]
+
+She fled in pain to [Olympus](../places/olympus.md) and "fell upon Dione's knees that was her mother." [Zeus](zeus.md) told her gently: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet [Ares](ares.md) and Athene look."[^il5-zeus]
+
+[^il5-wound]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm" (Iliad V.2913-2916, trans. Lang, Leaf, and Myers)
+[^il5-ichor]: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad V.2917-2919)
+[^il5-zeus]: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet Ares and Athene look" (Iliad V.3003-3005)
 
 ## Variant Traditions
 
-Hesiod's account of Aphrodite's birth from [Uranus](uranus.md)'s severed members is one of two major traditions. The other (attested in Homer) makes her a daughter of [Zeus](zeus.md) and Dione — but this wiki will document that tradition when processing Homeric sources.
+### Birth from Uranus (Theogony) vs Daughter of Dione (Iliad)
+
+Hesiod's account of Aphrodite's birth from [Uranus](uranus.md)'s severed members is one of two major traditions. The Iliad presents the other: in Book V, when Aphrodite is wounded, "fair Aphrodite fell upon Dione's knees that was her mother."[^il5-dione] Dione comforts her and speaks as her mother throughout the scene. [Zeus](zeus.md) also addresses Aphrodite as "my child," consistent with her being his daughter by Dione.
+
+[^il5-dione]: "fair Aphrodite fell upon Dione's knees that was her mother. She took her daughter in her arms and stroked her with her hand" (Iliad V.2948-2949)
