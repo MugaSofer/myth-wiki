@@ -81,3 +81,4 @@ He forges the Shield of Achilles — a complete cosmos in miniature: earth, heav
 - **[Iliad](../sources/iliad.md)** II: Crafted Agamemnon's sceptre (passed from Zeus to Hermes to Pelops to Atreus to Agamemnon); "famed Hephaistos the lame god"
 - **[Iliad](../sources/iliad.md)** V: Saves Idaios (his priest's son) "in a veil of darkness, that he might not have his aged priest all broken with sorrow"
 - **[Iliad](../sources/iliad.md)** XVIII: His bronze house described; self-moving golden tripods; golden handmaidens with understanding and voice; forges the Shield of Achilles (cosmos, two cities, Ares and Athena in gold, Daidalos's dancing-place, Ocean rim), corslet, helm, and greaves
+- **[Iliad](../sources/iliad.md)** XXI: Burns the River Xanthos with fire at Hera's command; elms, willows, tamarisks, lotus consumed; the river submits and swears an oath

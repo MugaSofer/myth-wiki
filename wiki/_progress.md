@@ -325,6 +325,14 @@ Book V (Diomedes' aristeia — most mythology-dense book so far):
 
 **Pages updated:** zeus.md, poseidon.md, apollo.md, athena.md, iliad.md
 
+**Book XXI processed:**
+- Achilles vs River Xanthos; Hephaistos burns the river at Hera's command
+- Actual god-on-god Theomachy: Ares vs Athena (Athena wins with stone); Aphrodite struck by Athena; Poseidon vs Apollo (Apollo refuses); Hera beats Artemis with her own bow; Hermes declines to fight Leto
+- Zeus watches and laughs; Apollo saves Agenor, lures Achilles
+- Expanded Laomedon account (Poseidon built walls, Apollo herded cattle)
+
+**Pages updated:** athena.md, ares.md, aphrodite.md, hera.md, hephaestus.md, apollo.md, poseidon.md, artemis.md, hermes.md, zeus.md, iliad.md
+
 ## Next
 
-Continue Iliad processing (Books XXI-XXIV), one book at a time.
+Continue Iliad processing (Books XXII-XXIV), one book at a time.

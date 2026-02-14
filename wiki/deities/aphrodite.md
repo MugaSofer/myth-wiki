@@ -118,6 +118,7 @@ Helen obeys in fear. Aphrodite then serves her directly: "laughter-loving Aphrod
 - **[Iliad](../sources/iliad.md)** III: Rescues Paris from Menelaos; disguises as old woman; Helen sees through disguise ("fair neck and lovely breast and sparkling eyes"); threatens Helen
 - **[Iliad](../sources/iliad.md)** V: Shields Aeneas; wounded by Diomedes (ichor flows); flees to Olympus and Dione's lap; Zeus defines her domain as wedlock, not war
 - **[Iliad](../sources/iliad.md)** XIV: Lends Hera her enchanted girdle ("the broidered girdle... therein are love, and desire, and loving converse, that steals the wits even of the wise") for the seduction of Zeus
+- **[Iliad](../sources/iliad.md)** XXI: Leads wounded Ares from battle; Athena strikes her on the breast ("her knees and heart were unstrung")
 
 ### Wounded by Diomedes / Ichor (Book V)
 

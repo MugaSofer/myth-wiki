@@ -92,3 +92,4 @@ The priestess Theano places the fairest robe on Athena's knees and prays: "Lady 
 - **[Iliad](../sources/iliad.md)** XVIII: Casts her aegis around Achilles; sets a golden cloud and blazing fire on his head; adds her voice to his shout — "Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy"; thrice he shouted and thrice Troy was confounded
 - **[Iliad](../sources/iliad.md)** XIX: Sent by Zeus to feed fasting Achilles nectar and ambrosia; "like a falcon wide-winged and shrill-voiced, hurled herself forth from heaven"
 - **[Iliad](../sources/iliad.md)** XX: Matched against Ares in the Theomachy; turns Hector's spear from Achilles "with a breath"; built Heracles' wall with the Trojans
+- **[Iliad](../sources/iliad.md)** XXI: Defeats Ares with a boundary-stone ("seven roods he covered in his fall"); strikes Aphrodite down when she leads Ares away; saves Achilles from the River with Poseidon

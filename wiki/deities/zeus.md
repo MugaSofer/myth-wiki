@@ -267,3 +267,6 @@ Zeus also pities the immortal horses of Achilles as they weep for Patroklos: "Ah
 - **[Iliad](../sources/iliad.md)** XVIII: Acknowledges Hera roused Achilles — "Verily of thine own children must the flowing-haired Achaians be"; the armour Achilles gave to Peleus described as gift from the gods on their wedding day
 - **[Iliad](../sources/iliad.md)** XIX: Agamemnon's Ate speech — Ate as "Eldest daughter of Zeus who blindeth all"; Zeus tricked by Hera over Heracles' birth (swore oath, Hera delayed Alkmene and hastened Eurystheus, Zeus cast Ate from heaven); sends Athena to feed Achilles nectar and ambrosia
 - **[Iliad](../sources/iliad.md)** XX: Calls gods to council via Themis; unleashes all gods to fight on both sides (fears Achilles may "overleap the bound of fate"); thunders from above; Ganymedes "most beautiful of mortal men" caught up as cupbearer; Zeus begat Dardanos, loved him above all mortal sons; Aineias's dynasty prophesied
+- **[Iliad](../sources/iliad.md)** XXI: "His heart within him laughed pleasantly when he beheld that strife of gods" — watches the Theomachy from Olympus with amusement[^il21-laugh]
+
+[^il21-laugh]: "Zeus heard as he sate upon Olympus, and his heart within him laughed pleasantly when he beheld that strife of gods" (Iliad XXI.12093-12094, trans. Lang, Leaf, and Myers)
