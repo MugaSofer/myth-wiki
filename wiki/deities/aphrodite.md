@@ -113,6 +113,23 @@ Helen obeys in fear. Aphrodite then serves her directly: "laughter-loving Aphrod
 [^il3-threat]: "Provoke me not, rash woman, lest in mine anger I desert thee, and hate thee even as now I love thee beyond measure, and lest I devise grievous enmities between both, even betwixt Trojans and Achaians, and so thou perish in evil wise" (Iliad III.2009-2013)
 [^il3-chair]: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris" (Iliad III.2021-2022)
 
+## In the Odyssey
+
+### The Song of Ares and Aphrodite (Book VIII)
+
+In [Odyssey](../sources/odyssey.md) Book VIII, the minstrel Demodocus sings the tale of [Ares](ares.md) and Aphrodite's adultery. Ares "gave her many gifts, and dishonoured the marriage bed of the lord [Hephaestus](hephaestus.md)." [Helius](helius.md) spied them and reported to Hephaestus, who forged an unbreakable net and trapped them in his bed.[^od8-adultery]
+
+Hephaestus summoned the gods to witness, crying: "Aphrodite, daughter of [Zeus](zeus.md), ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born."[^od8-heph-cry]
+
+The male gods gathered — [Poseidon](poseidon.md), [Hermes](hermes.md), and [Apollo](apollo.md) — "but the lady goddesses abode each within her house for shame." [Apollo](apollo.md) asked Hermes if he would lie with golden Aphrodite despite the bonds; Hermes replied: "So might thrice as many bonds innumerable encompass me about, and all ye gods be looking on and all the goddesses, yet would I lie by golden Aphrodite."[^od8-hermes]
+
+After Poseidon guaranteed the fine, "laughter-loving Aphrodite went to Paphos of Cyprus, where is her precinct and fragrant altar. There the [Graces](graces.md) bathed and anointed her with oil imperishable, such as is laid upon the everlasting gods. And they clad her in lovely raiment, a wonder to see."[^od8-paphos]
+
+[^od8-adultery]: "he sang of the love of Ares and Aphrodite, of the fair crown, how at the first they lay together in the house of Hephaestus privily; and Ares gave her many gifts, and dishonoured the marriage bed of the lord Hephaestus. And anon there came to him one to report the thing, even Helios, that had seen them at their pastime" (Odyssey VIII.4407-4411, trans. Butcher and Lang)
+[^od8-heph-cry]: "Aphrodite, daughter of Zeus, ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born. Howbeit, there is none to blame but my father and mother,—would they had never begotten me!" (Odyssey VIII.4446-4450)
+[^od8-hermes]: "So might thrice as many bonds innumerable encompass me about, and all ye gods be looking on and all the goddesses, yet would I lie by golden Aphrodite" (Odyssey VIII.4480-4481)
+[^od8-paphos]: "laughter-loving Aphrodite went to Paphos of Cyprus, where is her precinct and fragrant altar. There the Graces bathed and anointed her with oil imperishable, such as is laid upon the everlasting gods. And they clad her in lovely raiment, a wonder to see" (Odyssey VIII.4505-4508)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 16, 188-206: Mentioned in invocation; birth from sea-foam
@@ -123,6 +140,10 @@ Helen obeys in fear. Aphrodite then serves her directly: "laughter-loving Aphrod
 - **[Iliad](../sources/iliad.md)** XXI: Leads wounded Ares from battle; Athena strikes her on the breast ("her knees and heart were unstrung")
 - **[Iliad](../sources/iliad.md)** XXII: Andromache's veil — "the veil that golden Aphrodite gave her" on her wedding day
 - **[Iliad](../sources/iliad.md)** XXIII: Protects Hector's body — "day and night Aphrodite daughter of Zeus kept off the dogs, and anointed him with rose-sweet oil ambrosial"
+- **[Odyssey](../sources/odyssey.md)** IV: Helen recalls "the blindness that Aphrodite gave me, when she led me thither away from mine own country"; Hermione is "as fair as golden Aphrodite"
+- **[Odyssey](../sources/odyssey.md)** VIII: The Song of Ares and Aphrodite — committed adultery with Ares in Hephaestus's house; "daughter of Zeus"; trapped in Hephaestus's net; goes to "Paphos of Cyprus, where is her precinct and fragrant altar"; the Graces bathe and anoint her
+- **[Odyssey](../sources/odyssey.md)** XVIII: Penelope beautified with "beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the [Graces](graces.md)" — Athena uses Aphrodite's own beauty standard as the measure[^od18-cytherea]
+- **[Odyssey](../sources/odyssey.md)** XX: In the myth of the daughters of Pandareus — "fair [Aphrodite](aphrodite.md) cherished them with curds and sweet honey and delicious wine" and later went "wending to high [Olympus](../places/olympus.md), to pray that a glad marriage might be accomplished for the maidens"[^od20-pandareus]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Her garments "which the Graces and Hours had made for her and dyed in flowers of spring — such flowers as the Seasons wear — in crocus and hyacinth and flourishing violet and the rose's lovely bloom";[^cyp-garments] competes with Hera and Athena in the Judgment of Paris; Paris chooses her and she promises him Helen[^cyp-judgment]
 
 [^cyp-garments]: "She clothed herself with garments which the Graces and Hours had made for her and dyed in flowers of spring—such flowers as the Seasons wear—in crocus and hyacinth and flourishing violet and the rose's lovely bloom, so sweet and delicious, and heavenly buds, the flowers of the narcissus and lily" (Cypria, Fragment 6)
@@ -147,3 +168,5 @@ She fled in pain to [Olympus](../places/olympus.md) and "fell upon [Dione](dione
 Hesiod's account of Aphrodite's birth from [Uranus](uranus.md)'s severed members is one of two major traditions. The Iliad presents the other: in Book V, when Aphrodite is wounded, "fair Aphrodite fell upon [Dione](dione.md)'s knees that was her mother."[^il5-dione] [Dione](dione.md) comforts her and speaks as her mother throughout the scene. [Zeus](zeus.md) also addresses Aphrodite as "my child," consistent with her being his daughter by Dione.
 
 [^il5-dione]: "fair Aphrodite fell upon Dione's knees that was her mother. She took her daughter in her arms and stroked her with her hand" (Iliad V.2948-2949)
+[^od18-cytherea]: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the Graces" (Odyssey 9894-9897, trans. Butcher and Lang)
+[^od20-pandareus]: "fair Aphrodite cherished them with curds and sweet honey and delicious wine... Now while fair Aphrodite was wending to high Olympus, to pray that a glad marriage might be accomplished for the maidens" (Odyssey 10823-10828, trans. Butcher and Lang)

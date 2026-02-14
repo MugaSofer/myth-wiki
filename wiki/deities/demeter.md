@@ -101,7 +101,18 @@ Demeter then "showed the conduct of her rites and taught them all her mysteries,
 [^hd-return]: "rich-crowned Demeter did not refuse but straightway made fruit to spring up from the rich lands, so that the whole wide earth was laden with leaves and flowers" (Homeric Hymn to Demeter 470-473)
 [^hd-mysteries]: "she showed the conduct of her rites and taught them all her mysteries, to Triptolemus and Polyxeinus and Diocles also,—awful mysteries which no one may in any way transgress or pry into or utter, for deep awe of the gods checks the voice. Happy is he among men upon earth who has seen these mysteries" (Homeric Hymn to Demeter 473-480)
 
+## In the Odyssey
+
+### Demeter and Iasion (Book V)
+
+In [Odyssey](../sources/odyssey.md) Book V, Calypso cites Demeter's love for the mortal Iasion as a second precedent for the gods' jealousy: "So too when fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field, [Zeus](zeus.md) was not long without tidings thereof, and cast at him with his white bolt and slew him."[^od5-iasion]
+
+This echoes the [Theogony](../sources/theogony.md)'s account of the same union (969-974), but where the Theogony focuses on the offspring Plutus, Calypso emphasises Zeus's violent punishment of the mortal lover.
+
+[^od5-iasion]: "So too when fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field, Zeus was not long without tidings thereof, and cast at him with his white bolt and slew him" (Odyssey V.3098-3101, trans. Butcher and Lang)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 454, 912-914, 969-974: Named among Cronos's children; bears Persephone; bears Plutus with Iasion
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Search for Persephone; famine; Eleusinian Mysteries
+- **[Odyssey](../sources/odyssey.md)** V: "Fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field" — Calypso cites as divine jealousy; Zeus slew Iasion with his thunderbolt

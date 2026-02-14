@@ -43,10 +43,26 @@ In the [Homeric Hymn to Aphrodite](../sources/homeric-hymns.md) (V), [Aphrodite]
 [^hh5-tithonus]: "golden-throned Eos rapt away Tithonus who was of your race and like the deathless gods. And she went to ask the dark-clouded Son of Cronos that he should be deathless and live eternally; and Zeus bowed his head to her prayer and fulfilled her desire" (Homeric Hymn V to Aphrodite 218-221, trans. H.G. Evelyn-White)
 [^hh5-age]: "Too simply was queenly Eos: she thought not in her heart to ask youth for him and to strip him of the slough of deadly age... she laid him in a room and put to the shining doors. There he babbles endlessly, and no more has strength at all" (Homeric Hymn V to Aphrodite 223-238)
 
+## In the Odyssey
+
+### Dawn and Orion (Book V)
+
+In [Odyssey](../sources/odyssey.md) Book V, Calypso cites Eos's love for Orion as a precedent for the gods' jealousy toward goddesses who take mortal lovers: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste [Artemis](artemis.md), of the golden throne, slew him in Ortygia with the visitation of her gentle shafts."[^od5-orion]
+
+[^od5-orion]: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste Artemis, of the golden throne, slew him in Ortygia with the visitation of her gentle shafts" (Odyssey V.3095-3098, trans. Butcher and Lang)
+
+## Eos and Cleitus (Odyssey XV)
+
+In [Odyssey](../sources/odyssey.md) Book XV, another instance of Dawn's pattern of snatching beautiful mortals: "the golden-throned Dawn snatched away Cleitus for his very beauty's sake, that he might dwell with the Immortals."[^od15-cleitus] Like Tithonus and Orion before him, Cleitus was taken by Eos for his beauty — reinforcing the recurring motif of Dawn's desire for mortal men.
+
+[^od15-cleitus]: "the golden-throned Dawn snatched away Cleitus for his very beauty's sake, that he might dwell with the Immortals" (Odyssey XV.8212-8213, trans. Butcher and Lang)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 19, 371-382, 984-991: Named in invocation; birth; children (winds and stars); sons Memnon and Emathion
 - **[Homeric Hymn V](../sources/homeric-hymns.md)** 218-238: Eos and Tithonus — immortality without eternal youth
+- **[Odyssey](../sources/odyssey.md)** V: "Rosy-fingered Dawn took Orion for her lover" — Calypso cites as divine jealousy; Artemis slew him; also "the Dawn arose from her couch, from the side of the lordly Tithonus" (formulaic)
+- **[Odyssey](../sources/odyssey.md)** XV: "the golden-throned Dawn snatched away Cleitus for his very beauty's sake, that he might dwell with the Immortals" — another instance of Dawn snatching beautiful mortals (cf. Tithonus, Orion)
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Her son Memnon arrives wearing armour made by Hephaestus, is killed by Achilles; "Eos then obtains of Zeus and bestows upon her son immortality"[^aeth-eos]
 
 [^aeth-eos]: Aethiopis, summary by Proclus: "Memnon, the son of Eos, wearing armour made by Hephaestus, comes to help the Trojans... Eos then obtains of Zeus and bestows upon her son immortality"

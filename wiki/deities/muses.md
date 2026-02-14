@@ -84,4 +84,8 @@ The poet invokes the Muses before the Catalogue of Ships, acknowledging their un
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 1-115: Invocation; birth, activities, and gifts to mortals
+- **[Odyssey](../sources/odyssey.md)** VIII: "The muse loved dearly, and she gave him both good and evil; of his sight she reft him, but granted him sweet song" — the Muse and the blind minstrel Demodocus
+- **[Odyssey](../sources/odyssey.md)** XXIV: At Achilles' funeral — "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant" — singing for seventeen days alongside immortal gods and mortal men[^od24-dirge]
 - **[Iliad](../sources/iliad.md)** II: Punish Thamyris (maimed, took his song); invoked for the Catalogue of Ships
+
+[^od24-dirge]: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant. Thus for seventeen days and nights continually did we all bewail thee, immortal gods and mortal men." (Odyssey XXIV.12615-12619, trans. Butcher and Lang)

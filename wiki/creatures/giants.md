@@ -17,4 +17,5 @@ They are described as "the great Giants with gleaming armour, holding long spear
 
 ## Appearances
 
+- **[Odyssey](../sources/odyssey.md)** VII: Eurymedon "who once was king among the haughty Giants. Howbeit, he destroyed his infatuate people, and was himself destroyed"
 - **[Theogony](../sources/theogony.md)** 185-186: Birth

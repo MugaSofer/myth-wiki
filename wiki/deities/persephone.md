@@ -71,7 +71,17 @@ After her return, [Hecate](hecate.md) "often did she embrace the daughter of hol
 [^hd-hecate]: "bright-coiffed Hecate came near to them, and often did she embrace the daughter of holy Demeter: and from that time the lady Hecate was minister and companion to Persephone" (Homeric Hymn to Demeter 438-440)
 [^hd-rule]: "while you are here, you shall rule all that lives and moves and shall have the greatest rights among the deathless gods: those who defraud you and do not appease your power with offerings, reverently performing rites and paying fit gifts, shall be punished for evermore" (Homeric Hymn to Demeter 364-369)
 
+## In the Odyssey
+
+Persephone plays a major role in Book XI of the [Odyssey](../sources/odyssey.md), the Nekuia (descent to Hades). Teiresias retains his judgment "even in death" because "Persephone hath given judgment" to him alone.[^od10-teiresias] Anticleia explains the nature of death to Odysseus, assuring him that "Persephone, the daughter of Zeus, doth in no wise deceive thee."[^od11-anticleia] As queen of the dead, "holy Persephone had scattered this way and that the spirits of the women folk" — she is "the high goddess Persephone" who sends forth the catalogue of heroines.[^od11-catalogue] As Odysseus lingers, he fears she may "send me the head of the Gorgon, that dread monster, from out of Hades."[^od11-gorgon]
+
+[^od10-teiresias]: "Persephone hath given judgment" (Odyssey XI.5812-5813, trans. Butcher and Lang)
+[^od11-anticleia]: "Persephone, the daughter of Zeus, doth in no wise deceive thee" (Odyssey XI.6102, trans. Butcher and Lang)
+[^od11-catalogue]: "holy Persephone had scattered this way and that the spirits of the women folk" (Odyssey XI.6267, trans. Butcher and Lang)
+[^od11-gorgon]: "send me the head of the Gorgon, that dread monster, from out of Hades" (Odyssey XI.6515, trans. Butcher and Lang)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 768, 913-914: Named in the underworld; abducted by Hades
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Abduction; pomegranate; division of the year; queen of the underworld
+- **[Odyssey](../sources/odyssey.md)** X-XI: "Dread Persephone" in Circe's instructions; "Persephone hath given judgment" to Teiresias alone; "the daughter of Zeus, doth in no wise deceive thee" (Anticleia); "holy Persephone had scattered this way and that the spirits of the women folk" — sends forth the catalogue of heroines; Odysseus fears she may send the Gorgon's head

@@ -73,6 +73,18 @@ Then "Paieon laid assuaging drugs upon the wound and healed him; seeing that ver
 [^il5-rebuke]: "Most hateful to me art thou of all gods that dwell in Olympus: thou ever lovest strife and wars and battles. Truly thy mother's spirit is intolerable, unyielding, even Hera's; her can I scarce rule with words... mine offspring art thou, and to me thy mother bare thee. But wert thou born of any other god unto this violence, long ere this hadst thou been lower than the sons of Heaven" (Iliad V.3424-3432)
 [^il5-heal]: "Paieon laid assuaging drugs upon the wound and healed him; seeing that verily he was of no mortal substance. Even as fig juice maketh haste to thicken white milk, that is liquid but curdleth speedily as a man stirreth, even so swiftly healed he impetuous Ares. And Hebe bathed him, and clothed him in gracious raiment" (Iliad V.3439-3444)
 
+## In the Odyssey
+
+### The Song of Ares and Aphrodite (Book VIII)
+
+In [Odyssey](../sources/odyssey.md) Book VIII, the minstrel Demodocus sings the tale of Ares and [Aphrodite](aphrodite.md)'s adultery in [Hephaestus](hephaestus.md)'s house. "Ares of the golden rein kept no blind watch, what time he saw Hephaestus, the famed craftsman, depart afar." He enticed Aphrodite: "Come, my beloved, let us to bed, and take our pleasure of love, for Hephaestus is no longer among his own people; methinks he is already gone to Lemnos, to the Sintians, men of savage speech."[^od8-ares-entice]
+
+They were trapped in Hephaestus's unbreakable net: "around them clung the cunning bonds of skilled Hephaestus, so that they could not move nor raise a limb."[^od8-trapped] After [Poseidon](poseidon.md) guaranteed the fine, "the twain, when they were freed from that strong bond, sprang up straightway, and departed, he to Thrace."[^od8-thrace]
+
+[^od8-ares-entice]: "Ares of the golden rein kept no blind watch, what time he saw Hephaestus, the famed craftsman, depart afar. So he went on his way to the house of renowned Hephaestus, eager for the love of crowned Cytherea... 'Come, my beloved, let us to bed, and take our pleasure of love, for Hephaestus is no longer among his own people; methinks he is already gone to Lemnos, to the Sintians, men of savage speech'" (Odyssey VIII.4423-4432, trans. Butcher and Lang)
+[^od8-trapped]: "around them clung the cunning bonds of skilled Hephaestus, so that they could not move nor raise a limb" (Odyssey VIII.4435-4436)
+[^od8-thrace]: "the twain, when they were freed from that strong bond, sprang up straightway, and departed, he to Thrace" (Odyssey VIII.4503-4504)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 922, 933-937: Birth; children with Aphrodite
@@ -82,6 +94,7 @@ Then "Paieon laid assuaging drugs upon the wound and healed him; seeing that ver
 - **[Iliad](../sources/iliad.md)** XV: Learns of Askalaphos's death; smites his thighs, bids yoke Fear and Dread (his horses), dons shining harness; Athena stops him ("Mad that thou art, and distraught of wit"), strips his helmet, shield, and spear; his children Panic (Phobos) and Fear (Dread) as his chariot horses
 - **[Iliad](../sources/iliad.md)** XVII: "Ares the dread war-god entered into" Hector when he dons Achilles' divine armour, filling his limbs with valour and strength
 - **[Iliad](../sources/iliad.md)** XXI: Attacks Athena's aegis ("not even the lightning of Zeus can overcome"); felled by her stone, covers seven roods; Aphrodite leads him away groaning
+- **[Odyssey](../sources/odyssey.md)** VIII: The Song of Ares and Aphrodite — "Ares of the golden rein"; adultery with Aphrodite in Hephaestus's house; trapped in the net; departs to Thrace
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Penthesileia, the Amazon, is his daughter; comes to aid Troy and is killed by Achilles[^aeth-penth]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Routs the army of Odysseus; Athena engages with him in battle until Apollo separates them[^tel-ares]
 

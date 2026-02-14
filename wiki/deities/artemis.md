@@ -66,6 +66,14 @@ Both passages show Artemis as a bringer of death to women, striking suddenly and
 [^il6-bellerophon]: "his daughter was slain in wrath of gold-gleaming Artemis" (Iliad VI.3641-3642, trans. Lang, Leaf, and Myers)
 [^il6-andromache]: "in her father's halls was she smitten by the Archer Artemis" (Iliad VI.3859)
 
+## In the Odyssey
+
+### Slaying Orion (Book V)
+
+In Calypso's bitter speech against the gods' jealousy, Artemis is named as the instrument of Orion's death after [Eos](eos.md) took him as her lover: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste Artemis, of the golden throne, slew him in Ortygia with the visitation of her gentle shafts."[^od5-orion]
+
+[^od5-orion]: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste Artemis, of the golden throne, slew him in Ortygia with the visitation of her gentle shafts" (Odyssey V.3095-3098, trans. Butcher and Lang)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 14, 918-920: Named in the invocation; birth
@@ -84,6 +92,11 @@ Meleager slew the boar "having gathered together from many cities huntsmen and h
 - **[Iliad](../sources/iliad.md)** IX: The Calydonian Boar — sent against Oineus for failing to offer first-fruits; "Artemis of the golden throne"; Apollo snatched Marpessa (Ides' wife)
 - **[Iliad](../sources/iliad.md)** XXI: Rebukes Apollo for yielding to Poseidon; beaten by Hera with her own bow ("smiling, beat her on the ears"); arrows scatter; flees weeping like a dove; weeps on Zeus's knee; Zeus laughs gently
 - **[Iliad](../sources/iliad.md)** XXIV: Niobe's daughters — "the daughters archer Artemis" slew, because Niobe matched herself against Leto
+- **[Odyssey](../sources/odyssey.md)** V: "Chaste Artemis, of the golden throne, slew him [Orion] in Ortygia with the visitation of her gentle shafts" — cited by Calypso as divine jealousy toward goddesses who take mortal lovers
+- **[Odyssey](../sources/odyssey.md)** XI: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" — killed Ariadne; Anticleia denies Artemis killed her ("It was not the archer goddess of the keen sight, who slew me in my halls")[^od11-ariadne][^od11-anticleia]
+
+[^od11-ariadne]: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" (Odyssey XI.6208, trans. Butcher and Lang)
+[^od11-anticleia]: "It was not the archer goddess of the keen sight, who slew me in my halls" (Odyssey XI.6102, trans. Butcher and Lang)
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Angry at Agamemnon's boast that he surpassed her, sends stormy winds to prevent sailing; when told to sacrifice Iphigeneia, "snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"[^cyp-iphigeneia]
 
 [^cyp-iphigeneia]: Cypria, summary by Proclus: "Artemis, however, snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"

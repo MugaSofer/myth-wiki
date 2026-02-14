@@ -62,6 +62,24 @@ Heracles boasts of a previous encounter: "Another time ere this I declare he has
 [^sh-ares]: "the son of Amphitryon, unsated of fierce battle, shrewdly wounded his thigh where it was exposed under his richly-wrought shield, and tare deep into his flesh with the spear-thrust and cast him flat upon the ground. And Panic and Dread quickly drove his smooth-wheeled chariot and horses near him and lifted him from the wide-pathed earth into his richly-wrought car, and then straight lashed the horses and came to high Olympus" (Shield of Heracles 456-462)
 [^sh-pylos]: "Another time ere this I declare he has made trial of my spear, when he defended sandy Pylos and stood against me, fiercely longing for fight. Thrice was he stricken by my spear and dashed to earth, and his shield was pierced" (Shield of Heracles 357-362)
 
+### Slaying Iphitus (Odyssey XXI)
+
+In [Odyssey](../sources/odyssey.md) Book XXI, the bow of Eurytus occasions one of the most negative depictions of Heracles in the sources. Iphitus, son of Eurytus, came searching for lost horses and met Heracles: "the child of [Zeus](../deities/zeus.md), hardy of heart, the man Heracles, that had knowledge of great adventures, who smote Iphitus though his guest in his house, in his frowardness, and had no regard for the vengeance of the gods, nor for the table which he spread before him; for after the meal he slew him, his guest though he was, and kept for himself in the halls the horses strong of hoof."[^od21-iphitus]
+
+This is guest-murder — a violation of divine law. Heracles killed Iphitus after sharing a meal, one of the gravest offences against the hospitality that [Zeus](../deities/zeus.md) protects as god of strangers.
+
+[^od21-iphitus]: "the child of Zeus, hardy of heart, the man Heracles, that had knowledge of great adventures, who smote Iphitus though his guest in his house, in his frowardness, and had no regard for the vengeance of the gods, nor for the table which he spread before him; for after the meal he slew him, his guest though he was, and kept for himself in the halls the horses strong of hoof" (Odyssey 11211-11216, trans. Butcher and Lang)
+
+### Phantom in Hades (Odyssey XI)
+
+In [Odyssey](../sources/odyssey.md) Book XI, Odysseus encounters Heracles' shade in the underworld. But the poem draws a striking distinction: "his phantom, I say; but as for himself he hath joy at the banquet among the deathless gods, and hath to wife Hebe of the fair ankles, child of great Zeus, and of Here of the golden sandals."[^od11-phantom] He is described in fearsome terms: "like black Night, with bow uncased, and shaft upon the string, fiercely glancing around, like one in the act to shoot."[^od11-appearance]
+
+Heracles recognises a kindred sufferer in Odysseus: "I was the son of Zeus Cronion, yet had I trouble beyond measure, for I was subdued unto a man far worse than I." He recalls the worst of his labours: "he sent me hither to bring back the hound of hell... I lifted the hound and brought him forth from out of the house of Hades; and Hermes sped me on my way and the grey-eyed Athene."[^od11-cerberus]
+
+[^od11-phantom]: "his phantom, I say; but as for himself he hath joy at the banquet among the deathless gods, and hath to wife Hebe of the fair ankles, child of great Zeus, and of Here of the golden sandals" (Odyssey XI.6485-6490, trans. Butcher and Lang)
+[^od11-appearance]: "like black Night, with bow uncased, and shaft upon the string, fiercely glancing around, like one in the act to shoot" (Odyssey XI.6491-6493, trans. Butcher and Lang)
+[^od11-cerberus]: "I was the son of Zeus Cronion, yet had I trouble beyond measure, for I was subdued unto a man far worse than I... he sent me hither to bring back the hound of hell... I lifted the hound and brought him forth from out of the house of Hades; and Hermes sped me on my way and the grey-eyed Athene" (Odyssey XI.6497-6507, trans. Butcher and Lang)
+
 ### Oppressing Pylos (Book XI)
 
 In [Iliad](../sources/iliad.md) Book XI, Nestor recalls Heracles' devastation of Pylos: "the mighty Herakles had come and oppressed us, in the former years, and all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished."[^il11-pylos]
@@ -83,6 +101,8 @@ This is the first explicit reference to the Cerberus labour in any source proces
 - **[Iliad](../sources/iliad.md)** V: Wounded [Hera](../deities/hera.md) with a three-barbed arrow and [Hades](../deities/hades.md) at Pylos; previously sacked Troy with only six ships for Laomedon's horses (recalled by Dione and Tlepolemos)
 - **[Iliad](../sources/iliad.md)** VIII: Fetching Cerberus from Hades recalled by Athena; Athena was his protector during Eurystheus's tasks
 - **[Iliad](../sources/iliad.md)** XI: Oppressed Pylos in "the former years" — "all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished" (Nestor's recollection)
+- **[Odyssey](../sources/odyssey.md)** XXI: Slew Iphitus, his guest, after sharing a meal — "the child of Zeus, hardy of heart... had no regard for the vengeance of the gods, nor for the table which he spread before him"; kept Iphitus's horses; among the most negative depictions of Heracles
+- **[Odyssey](../sources/odyssey.md)** XI: Appears as a phantom in Hades — "like black Night, with bow uncased, and shaft upon the string, fiercely glancing around, like one in the act to shoot"; his true self feasts with the gods, having wed Hebe; tells Odysseus "I was the son of Zeus Cronion, yet had I trouble beyond measure"; recounts fetching Cerberus with Hermes and Athena's aid
 - **[Iliad](../sources/iliad.md)** XIV: Blown to Kos by Hera's storm winds after sacking Troy; Zeus's rage when he woke (recalled by Sleep)
 - **[Iliad](../sources/iliad.md)** XVIII: Achilles invokes him: "not even the mighty Herakles escaped death, albeit most dear to Kronian Zeus the king, but Fate overcame him and Hera's cruel wrath"
 - **[Iliad](../sources/iliad.md)** XIX: Agamemnon's Ate speech tells of his birth — Zeus swore that day's child of his lineage would rule; Hera delayed Alkmene and hastened Eurystheus's birth; Zeus groaned "when he beheld his beloved son in cruel travail at Eurystheus' hest"

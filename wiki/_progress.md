@@ -436,6 +436,100 @@ Populated the previously empty `wiki/objects/` folder with 9 pages:
 
 **Pages updated:** zeus.md, aphrodite.md, artemis.md, eos.md, hera.md, athena.md, ares.md, hephaestus.md, apollo.md, thetis.md (new section), cronos.md, gorgons.md, erinyes.md
 
+### Odyssey — COMPLETE
+
+**Source text:** S.H. Butcher and Andrew Lang translation (1879), Project Gutenberg #1728
+**Source page created:** odyssey.md
+
+**Book I processed:**
+- Zeus's speech on mortal responsibility (Aegisthus ignored Hermes' warning; "vainly mortal men do blame the gods")
+- Athena advocates for Odysseus; proposes sending Hermes to Calypso while she rouses Telemachus
+- Poseidon's wrath over Polyphemus — "quenchless anger for the Cyclops' sake"; absent among the Ethiopians
+- Polyphemus: "godlike Polyphemus whose power is mightiest amongst all the Cyclôpes"; son of Poseidon and the nymph Thoösa (daughter of Phorcys)
+- Atlas variant tradition: "the wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder"; father of Calypso
+- Athena disguised as Mentes: golden sandals, bronze spear; counsels Telemachus; departs "like an eagle of the sea"
+- Athena casts sleep on Penelope
+
+**Pages updated:** zeus.md, athena.md, poseidon.md, atlas.md, hermes.md, cyclopes.md
+
+**Book II processed:**
+- Zeus sends two eagles as omen at Telemachus's prayer
+- Athena disguised as Mentor and as Telemachus; sends a favourable West Wind
+- Themis invoked: "who looseth and gathereth the meetings of men"
+
+**Pages updated:** athena.md, zeus.md, themis.md
+
+**Book III processed:**
+- Athena continues as Mentor; departs "in the semblance of a sea-eagle"; Nestor recognises her as "the maiden Trito-born"
+- Athena's theological statement: "death, which is common to all, the very gods cannot avert even from the man they love"
+- Apollo slays Menelaus's pilot with "gentle shafts" at Sunium
+
+**Pages updated:** athena.md, apollo.md
+
+**Book IV processed:**
+- Proteus: "the deathless Egyptian Proteus, who knows the depths of every sea, and is the thrall of Poseidon"; shape-shifts into lion, snake, pard, boar, water, tree
+- Poseidon saves then destroys Locrian Aias — smites the rock of Gyrae with his trident
+- Helen recalls "the blindness that Aphrodite gave me, when she led me thither"
+- Elysian Plain: prophesied for Menelaus — "where life is easiest for men... for thou hast Helen to wife, and thereby they deem thee to be son of Zeus"
+- Athena creates a phantom in the likeness of Iphthime to comfort Penelope in her sleep
+- Hera saves Agamemnon from the sea (brief mention)
+
+**Pages updated:** poseidon.md, athena.md, aphrodite.md, apollo.md
+
+**Book V processed:**
+- Hermes's embassy to Calypso: golden sandals, wand, cormorant flight simile; delivers Zeus's command; eats ambrosia and nectar
+- Calypso's speech on divine jealousy: Dawn loved Orion (Artemis slew him); Demeter lay with Iasion (Zeus slew him with thunderbolt)
+- The Styx oath: Calypso swears by "that falling water of the Styx, the greatest oath and the most terrible"
+- Poseidon's storm: returns from Ethiopia, spots Odysseus near Phaeacia, grasps trident, rouses all winds, smashes raft
+- Ino/Leucothea: "the daughter of Cadmus... who in time past was a maiden of mortal speech, but now in the depths of the salt sea she had gotten her share of worship from the gods"; gives Odysseus her imperishable veil
+- Athena binds the winds and rouses only the North; puts thoughts in Odysseus's heart at the rocks; sheds sleep on him once ashore
+- The river-god: Odysseus prays to the unnamed river; "the god straightway stayed his stream and withheld his waves"
+
+**Pages updated:** hermes.md, artemis.md, eos.md, demeter.md, poseidon.md, athena.md, zeus.md, styx.md
+
+**Books VI-VIII processed:**
+- Book VI: Athena disguised as Dymas's daughter (dream to Nausicaa); Olympus description ("seat of the gods that standeth fast for ever"); Artemis simile for Nausicaa; Athena gives courage; Athena beautifies Odysseus (hyacinth curls, gold-on-silver simile); Apollo's altar at Delos mentioned; Athena "had regard unto her father's brother Poseidon"
+- Book VII: Athena as young maiden guides Odysseus through mist; Phaeacian genealogy (Poseidon + Periboea, daughter of Eurymedon king of Giants); Apollo slew Rhexenor; Hephaestus's golden and silver hounds ("free from death and age"); Athena to "the good house of Erechtheus" in Athens; Rhadamanthus visits Tityos son of Gaia; gods "appear manifest" to Phaeacians
+- Book VIII: Athena as herald, pours grace on Odysseus; the Muse gave Demodocus sight and song; Apollo's oracle at Pytho; **Song of Ares and Aphrodite** (adultery, Helius reports, Hephaestus forges net, gods witness, Poseidon guarantees fine, Aphrodite to Paphos); Apollo slew Eurytus; Wooden Horse song (Epeius by aid of Athena); Poseidon's prophecy against Phaeacian ships
+
+**Pages updated:** athena.md, olympus.md, poseidon.md, apollo.md, hephaestus.md, giants.md, muses.md, helius.md, aphrodite.md, ares.md, hermes.md, odyssey.md
+
+**Books IX-XI processed:**
+- Book IX: Cyclopes as a lawless people; Polyphemus — physical description, defiance of Zeus, blinding, prayer to Poseidon (heard and granted); Maron priest of Apollo; Zeus ignores Odysseus's sacrifice
+- Book X: Aeolus keeper of the winds; Laestrygonians (compared to Giants); Circe — daughter of Helius and Perse, transformation of men to swine, moly from Hermes, restoration of men, a year on Aia; Circe's instructions for the Nekuia; underworld geography
+- Book XI: The Nekuia — Teiresias's prophecy; catalogue of heroines (Poseidon seduces Tyro, Zeus with Antiope/Alcmene, Oedipus/Epicaste, Castor and Polydeuces, Otos and Ephialtes slain by Apollo, Ariadne slain by Artemis); Achilles on death; Minos judging the dead; punishments of Tityos/Tantalus/Sisyphus; Heracles' phantom vs divine self
+
+**New pages created:** circe.md
+
+**Pages updated:** cyclopes.md, poseidon.md, zeus.md, hermes.md, apollo.md, artemis.md, persephone.md, heracles.md, erinyes.md, dionysus.md, odyssey.md
+
+**Books XII-XVI processed:**
+- Book XII: Sirens (new page), Scylla/Charybdis (new page), cattle of Helius, Hera and the Argo, Zeus destroys ship
+- Book XIII: Poseidon smites Phaeacian ship to stone; Athena's revelation scene; transformation of Odysseus
+- Book XIV: Light mythology — Zeus as god of strangers, Dodona oracle
+- Book XV: Melampus genealogy (Erinyes, Apollo, Eos), gentle death by Apollo/Artemis
+- Book XVI: Athena's selective visibility, transformation scenes
+
+**New pages created:** sirens.md, scylla.md
+
+**Pages updated:** helius.md, circe.md, zeus.md, hera.md, poseidon.md, athena.md, apollo.md, eos.md, erinyes.md, odyssey.md
+
+**Books XVII-XXIV processed:**
+- Book XVII: Odysseus as beggar at the palace; Athena sheds grace on Telemachus; Zeus and the day of slavery
+- Book XVIII: Contest with Irus; Athena beautifies Penelope (Cytherea simile); Penelope prays to Artemis for death
+- Book XIX: Foot-washing and scar; Autolycus and Hermes; Athena's golden cresset; gates of horn and ivory
+- Book XX: Penelope's prayer to Artemis; daughters of Pandareus myth (Aphrodite, Hera, Artemis, Athena each gave gifts; storm spirits gave them to the Erinyes); Zeus thunders as omen
+- Book XXI: Bow of Eurytus; Heracles slew Iphitus as guest; Apollo's feast day; Eurytion the Centaur; Zeus thunders when Odysseus strings the bow
+- Book XXII: Slaying of the wooers; Athena as Mentor and swallow; aegis; purification with sulphur
+- Book XXIII: Penelope's test of the bed; Athena beautifies Odysseus (Hephaestus craft simile); Athena holds night; Dawn's steeds Lampus and Phaethon by Oceanus
+- Book XXIV: Second Nekuia — Hermes as psychopomp; Achilles' funeral (Thetis, Nereids, Muses' dirge, Dionysus's golden urn by Hephaestus); Odysseus and Laertes; Athena makes Laertes greater; Zeus decrees peace; Zeus casts flaming bolt
+
+**Pages updated:** hermes.md (Autolycus, psychopomp), athena.md (Books XVII-XXIV), zeus.md (Books XVII-XXIV), thetis.md (Achilles' funeral), muses.md (funeral dirge), dionysus.md (golden urn), hephaestus.md (craft simile, funeral), aphrodite.md (Cytherea, Pandareus), heracles.md (Iphitus), erinyes.md (Pandareus), odyssey.md (Books XVII-XXIV)
+
+## Odyssey — COMPLETE
+
+All 24 books of the Odyssey (Butcher and Lang translation) have been processed.
+
 ## Next
 
-Consider processing: Odyssey (major source, would need obtaining text), Catalogues of Women fragments (genealogical), Great Eoiae fragments, Melampodia fragments. The Catalogues contain the Bellerophon/Pegasus story and extensive genealogies from Deucalion onward.
+Consider processing: Catalogues of Women fragments (genealogical), Great Eoiae fragments, Melampodia fragments. The Catalogues contain the Bellerophon/Pegasus story and extensive genealogies from Deucalion onward.

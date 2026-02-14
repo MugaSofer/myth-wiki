@@ -143,6 +143,12 @@ Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing h
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Kills Achilles alongside Paris
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Separates [Ares](ares.md) and [Athena](athena.md) in battle
 - **[Shield of Heracles](../sources/shield-of-heracles.md)**: Depicted on the shield playing a golden lyre amid the gods on Olympus; his temple near Pagasae is the site Cycnus was despoiling; Apollo commands the river Anaurus to destroy Cycnus's grave
+- **[Odyssey](../sources/odyssey.md)** III: "Phoebus Apollo slew the pilot of Menelaus with the visitation of his gentle shafts" — sudden death at sea, at holy Sunium
+- **[Odyssey](../sources/odyssey.md)** VII: "Apollo of the silver bow smote him [Rhexenor], a groom new wed" — killed Arete's father
+- **[Odyssey](../sources/odyssey.md)** VIII: Oracle at Pytho — "Phoebus Apollo in his soothsaying had told him that it must be"; in the Song of Ares and Aphrodite, asks Hermes if he'd lie with golden Aphrodite despite the bonds; Apollo slew Eurytus of Oechalia "in his wrath, seeing that he challenged him to shoot a match"
+- **[Odyssey](../sources/odyssey.md)** XI: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" — slew Otos and Ephialtes before they reached manhood, who had tried to pile Ossa on Olympus and Pelion on Ossa[^od11-aloadae]
+- **[Odyssey](../sources/odyssey.md)** XV: [Zeus](zeus.md) and Apollo "loved [Amphiaraus] with all manner of love" but he died in Thebes "by reason of a woman's gifts" ([Eriphyle](../mortals/eriphyle.md)'s bribery)[^od15-amphiaraus]; Apollo "made the high-souled Polypheides a seer, far the chief of human kind, Amphiaraus being now dead"[^od15-polypheides]; with [Artemis](artemis.md), "slays them with the visitation of his gentle shafts" — the gentle death of old age on the isle of Syria[^od15-syria]; a hawk described as "the swift messenger of Apollo"[^od15-hawk]
+
 - **[Iliad](../sources/iliad.md)** I: Sends plague on the Greeks; "descended like to night"; sends favourable wind after sacrifice
 - **[Iliad](../sources/iliad.md)** IV: Rallies the Trojans from Pergamos; notes Achilles' absence
 - **[Iliad](../sources/iliad.md)** V: Shields Aeneas (creates a wraith in his likeness); warns Diomedes: "there is no comparison of the race of immortal gods and of men that walk upon the earth"; sends Ares into battle; Leto and Artemis heal Aeneas in Apollo's temple
@@ -159,3 +165,9 @@ Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing h
 - **[Iliad](../sources/iliad.md)** XXII: Reveals himself to Achilles — "I am a god... I am not subject unto death"; nerved Hector's strength until the golden scales tipped, then "Phoebus Apollo left him"; Hector's dying prophecy: "Paris and Phoebus Apollo slay thee... at the Skaian gate"
 - **[Iliad](../sources/iliad.md)** XXIII: Protects Hector's body with a dark cloud ("lest meanwhile the sun's strength shrivel his flesh"); wroth with Diomedes in the chariot race, smites the lash from his hand; countered by Athena
 - **[Iliad](../sources/iliad.md)** XXIV: Continues protecting Hector's body with golden aegis; rebukes the gods for not returning Hector — "an enduring soul have the Fates given unto men"; Niobe's sons "Apollo slew with arrows from his silver bow"; Hekabe: Hector looks "like one on whom Apollo... hath descended and slain him with his gentle darts"
+
+[^od11-aloadae]: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" (Odyssey XI.6201-6203, trans. Butcher and Lang)
+[^od15-amphiaraus]: "Zeus and Apollo loved him with all manner of love; yet he reached not the threshold of old age, but died in Thebes by reason of a woman's gifts" (Odyssey XV.8207-8210, trans. Butcher and Lang)
+[^od15-polypheides]: "Apollo made the high-souled Polypheides a seer, far the chief of human kind, Amphiaraus being now dead" (Odyssey XV.8215-8216, trans. Butcher and Lang)
+[^od15-syria]: "then comes Apollo of the silver bow, with Artemis, and slays them with the visitation of his gentle shafts" (Odyssey XV.8366-8367, trans. Butcher and Lang)
+[^od15-hawk]: "the swift messenger of Apollo" (Odyssey XV.8478-8479, trans. Butcher and Lang)

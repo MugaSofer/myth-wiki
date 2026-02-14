@@ -77,7 +77,13 @@ This passage is notable for showing Dionysus in fear and flight — "affrighted"
 
 ## Appearances
 
+- **[Odyssey](../sources/odyssey.md)** XI: "Artemis slew her [Ariadne] ere that in sea-girt Dia, by reason of the witness of Dionysus" — his testimony led to Ariadne's death at Artemis's hand[^od11-ariadne]
+- **[Odyssey](../sources/odyssey.md)** XXIV: At Achilles' funeral — "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned [Hephaestus](hephaestus.md)" — the urn that held Achilles' bones[^od24-urn]
 - **[Theogony](../sources/theogony.md)** 940-942, 947-949: Birth; marriage to Ariadne
 - **[Homeric Hymn I](../sources/homeric-hymns.md)**: Variant birth traditions; born at Nysa, secretly from Hera
 - **[Homeric Hymn VII](../sources/homeric-hymns.md)**: The pirates — bonds, miracles, transformation into dolphins
 - **[Iliad](../sources/iliad.md)** VI: Lykurgos story — chased from Nysa, fled into the sea, sheltered by Thetis; "frenzied Dionysos"; Zeus blinded Lykurgos
+
+[^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey XXIV.12627-12629, trans. Butcher and Lang)
+
+[^od11-ariadne]: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" (Odyssey XI.6208, trans. Butcher and Lang)

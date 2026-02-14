@@ -25,6 +25,13 @@ Themis was [Zeus](zeus.md)'s second wife (after Metis). "Next he married bright 
 
 [^theog-marriage]: "Next he married bright Themis who bare the Horae (Hours), and Eunomia (Order), Dike (Justice), and blooming Eirene (Peace), who mind the works of mortal men, and the Moerae (Fates) to whom wise Zeus gave the greatest honour, Clotho, and Lachesis, and Atropos who give mortal men evil and good to have" (Theogony 901-906, trans. H.G. Evelyn-White)
 
+## In the Odyssey
+
+In [Odyssey](../sources/odyssey.md) Book II, Telemachus invokes Themis at the assembly: "I pray you by Olympian [Zeus](zeus.md) and by Themis, who looseth and gathereth the meetings of men."[^od2-themis] This attributes to Themis the specific role of presiding over assemblies — she both convenes and dissolves them.
+
+[^od2-themis]: "I pray you by Olympian Zeus and by Themis, who looseth and gathereth the meetings of men" (Odyssey II.1237-1238, trans. Butcher and Lang)
+
 ## Appearances
 
+- **[Odyssey](../sources/odyssey.md)** II: "Themis, who looseth and gathereth the meetings of men" — invoked at the Ithacan assembly
 - **[Theogony](../sources/theogony.md)** 16, 135, 901-906: Named in invocation; birth; marriage to Zeus and children

@@ -49,7 +49,14 @@ The river Titaresios is described as "an offspring from the water of Styx, the d
 
 [^il2-styx]: "he is an offspring from the water of Styx, the dread river of the oath" (Iliad II.1480-1481, trans. Lang, Leaf, and Myers)
 
+## In the Odyssey
+
+In [Odyssey](../sources/odyssey.md) Book V, Calypso swears by Styx to assure Odysseus she means no treachery: "Let earth be now witness hereto, and the wide heaven above, and that falling water of the Styx, the greatest oath and the most terrible to the blessed gods."[^od5-styx]
+
+[^od5-styx]: "Let earth be now witness hereto, and the wide heaven above, and that falling water of the Styx, the greatest oath and the most terrible to the blessed gods, that I will not plan any hidden guile to thine own hurt" (Odyssey V.3160-3163, trans. Butcher and Lang)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 361, 383-401, 775-806: Named among Oceanids; children and alliance with Zeus; dwelling in Tartarus; oath penalty
+- **[Odyssey](../sources/odyssey.md)** V: Calypso swears by "that falling water of the Styx, the greatest oath and the most terrible to the blessed gods"
 - **[Iliad](../sources/iliad.md)** II: "The dread river of the oath"; the Titaresios as an offspring of Styx

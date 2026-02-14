@@ -134,6 +134,48 @@ After the [Titanomachy](../events/titanomachy.md), [Gaia](gaia.md) bore [Typhoeu
 
 [^theog-divide]: "when the blessed gods had finished their toil, and settled by force their struggle for honours with the Titans, they pressed far-seeing Olympian Zeus to reign and to rule over them, by Earth's prompting. So he divided their dignities amongst them" (Theogony 881-885)
 
+## In the Odyssey
+
+### Mortal Responsibility (Book I)
+
+In the [Odyssey](../sources/odyssey.md), Zeus opens the poem's divine action with a theological speech. While the gods are gathered on [Olympus](../places/olympus.md) (with [Poseidon](poseidon.md) away among the Ethiopians), Zeus reflects on Aegisthus, who murdered Agamemnon despite divine warning:
+
+"Lo you now, how vainly mortal men do blame the gods! For of us they say comes evil, whereas they even of themselves, through the blindness of their own hearts, have sorrows beyond that which is ordained. Even as of late Aegisthus, beyond that which was ordained, took to him the wedded wife of the son of Atreus, and killed her lord on his return, and that with sheer doom before his eyes, since we had warned him by the embassy of [Hermes](hermes.md) the keen-sighted, the slayer of Argos, that he should neither kill the man, nor woo his wife."[^od1-aegisthus]
+
+When [Athena](athena.md) advocates for Odysseus, Zeus readily agrees — "Yea, how should I forget divine Odysseus, who in understanding is beyond mortals and beyond all men hath done sacrifice to the deathless gods?" — and identifies [Poseidon](poseidon.md) as the sole obstacle: "it is Poseidon, the girdler of the earth, that hath been wroth continually with quenchless anger for the Cyclops' sake whom he blinded of his eye."[^od1-poseidon]
+
+Zeus then takes the initiative to bring Odysseus home: "let us here one and all take good counsel as touching his returning, that he may be got home; so shall Poseidon let go his displeasure, for he will in no wise be able to strive alone against all, in despite of all the deathless gods."[^od1-counsel]
+
+[^od1-aegisthus]: "Lo you now, how vainly mortal men do blame the gods! For of us they say comes evil, whereas they even of themselves, through the blindness of their own hearts, have sorrows beyond that which is ordained. Even as of late Aegisthus, beyond that which was ordained, took to him the wedded wife of the son of Atreus, and killed her lord on his return, and that with sheer doom before his eyes, since we had warned him by the embassy of Hermes the keen-sighted, the slayer of Argos, that he should neither kill the man, nor woo his wife. For the son of Atreus shall be avenged at the hand of Orestes, so soon as he shall come to man's estate and long for his own country. So spake Hermes, yet he prevailed not on the heart of Aegisthus, for all his good will; but now hath he paid one price for all." (Odyssey I.758-769, trans. Butcher and Lang)
+[^od1-poseidon]: "My child, what word hath escaped the door of thy lips? Yea, how should I forget divine Odysseus, who in understanding is beyond mortals and beyond all men hath done sacrifice to the deathless gods, who keep the wide heaven? Nay, but it is Poseidon, the girdler of the earth, that hath been wroth continually with quenchless anger for the Cyclops' sake whom he blinded of his eye, even godlike Polyphemus whose power is mightiest amongst all the Cyclôpes." (Odyssey I.788-794, trans. Butcher and Lang)
+[^od1-counsel]: "let us here one and all take good counsel as touching his returning, that he may be got home; so shall Poseidon let go his displeasure, for he will in no wise be able to strive alone against all, in despite of all the deathless gods" (Odyssey I.799-802, trans. Butcher and Lang)
+
+### Gods Among Men (Book XVII)
+
+In Book XVII, a general theological statement is made about the gods' relationship to human affairs: "the gods, in the likeness of strangers from far countries, put on all manner of shapes, and wander through the cities, beholding the violence and the righteousness of men."[^od17-gods] This is spoken by a wooer rebuking Antinous for striking the disguised Odysseus — an irony, given that Zeus has indeed sent a god-favoured man among them.
+
+### Omens of Thunder (Books XX-XXI)
+
+Zeus provides direct signs to Odysseus in the final stages of his plan. When Odysseus prays for an omen, "Zeus, the counsellor, heard him. Straightway he thundered from shining Olympus, from on high from the place of clouds; and goodly Odysseus was glad."[^od20-thunder] A grinding-woman confirms the sign: "Father Zeus, who rulest over gods and men, loudly hast thou thundered from the starry sky, yet nowhere is there a cloud to be seen: this surely is a portent thou art showing to some mortal."[^od20-grinder]
+
+Zeus thunders again at the pivotal moment when Odysseus strings the great bow: "Zeus thundered loud showing forth his tokens. And the steadfast goodly Odysseus was glad thereat, in that the son of deep-counselling Cronos had sent him a sign."[^od21-thunder] The double thunder — first in answer to prayer, then at the stringing of the bow — frames the slaying of the wooers as divinely sanctioned.
+
+### The Final Divine Council (Book XXIV)
+
+The [Odyssey](../sources/odyssey.md) ends as it began — with a divine council. [Athena](athena.md) asks Zeus the question that will determine the poem's resolution: "O Father, our father Cronides, throned in the highest, answer and tell me what is now the hidden counsel of thy heart? Wilt thou yet further rouse up evil war and the terrible din of battle, or art thou minded to set them at one again in friendship?"[^od24-athena-question]
+
+Zeus's response is the last major theological pronouncement of the poem. He reminds Athena that the vengeance was her own design, then decrees the terms of peace: "let them make a firm covenant together with sacrifice, and let him be king all his days, and let us bring about oblivion of the slaying of their children and their brethren; so may both sides love one another as of old, and let peace and wealth abundant be their portion."[^od24-decree] The decree of "oblivion" — a divinely imposed forgetting of bloodshed — is a striking theological concept: Zeus does not merely command peace but erases the memory that would prevent it.
+
+He then seals the covenant with force: "the son of Cronos cast forth a flaming bolt, and it fell at the feet of the grey-eyed goddess, the daughter of the mighty Sire."[^od24-bolt] The bolt at [Athena](athena.md)'s feet is both signal and sanction — the final exercise of Zeus's supreme authority in the poem.
+
+[^od17-gods]: "the gods, in the likeness of strangers from far countries, put on all manner of shapes, and wander through the cities, beholding the violence and the righteousness of men" (Odyssey XVII.9540-9543, trans. Butcher and Lang)
+[^od20-thunder]: "Zeus, the counsellor, heard him. Straightway he thundered from shining Olympus, from on high from the place of clouds; and goodly Odysseus was glad" (Odyssey XX.10858-10860, trans. Butcher and Lang)
+[^od20-grinder]: "Father Zeus, who rulest over gods and men, loudly hast thou thundered from the starry sky, yet nowhere is there a cloud to be seen: this surely is a portent thou art showing to some mortal." (Odyssey XX.10869-10871, trans. Butcher and Lang)
+[^od21-thunder]: "Zeus thundered loud showing forth his tokens. And the steadfast goodly Odysseus was glad thereat, in that the son of deep-counselling Cronos had sent him a sign" (Odyssey XXI.11618-11620, trans. Butcher and Lang)
+[^od24-athena-question]: "O Father, our father Cronides, throned in the highest, answer and tell me what is now the hidden counsel of thy heart? Wilt thou yet further rouse up evil war and the terrible din of battle, or art thou minded to set them at one again in friendship?" (Odyssey XXIV.13025-13029, trans. Butcher and Lang)
+[^od24-decree]: "let them make a firm covenant together with sacrifice, and let him be king all his days, and let us bring about oblivion of the slaying of their children and their brethren; so may both sides love one another as of old, and let peace and wealth abundant be their portion" (Odyssey XXIV.13036-13040, trans. Butcher and Lang)
+[^od24-bolt]: "the son of Cronos cast forth a flaming bolt, and it fell at the feet of the grey-eyed goddess, the daughter of the mighty Sire" (Odyssey XXIV.13105-13106, trans. Butcher and Lang)
+
 ## In the Iliad
 
 ### The Binding of Zeus (Book I)
@@ -278,9 +320,22 @@ Zeus also pities the immortal horses of Achilles as they weep for Patroklos: "Ah
 - **[Iliad](../sources/iliad.md)** XXI: "His heart within him laughed pleasantly when he beheld that strife of gods" — watches the Theomachy from Olympus with amusement[^il21-laugh]
 - **[Iliad](../sources/iliad.md)** XXII: Debates saving Hector (echoing the Sarpedon scene) — "a man beloved I see pursued around the wall"; Athena dissuades him; hangs golden balances again ("two lots of dreary death, one of Achilles, one of horse-taming Hector... Hector's fated day sank down"); gives Hector over to his foes[^il22-balances]
 - **[Iliad](../sources/iliad.md)** XXIV: Orchestrates the ransom of Hector; the Two Urns — "two urns stand upon the floor of Zeus filled with his evil gifts, and one with blessings"; "this is the lot the gods have spun for miserable men, that they should live in pain; yet themselves are sorrowless"; sends Iris to Thetis and to Priam; sends Hermes as guide; sends eagle omen ("surest omen of winged birds, the dusky hunter called of men the Black Eagle"); turned Niobe's people to stones[^il24-urns]
+- **[Odyssey](../sources/odyssey.md)** IX: Ignores Odysseus's sacrifice after escaping Polyphemus — "he heeded not the sacrifice, but was devising how my decked ships and my dear company might perish utterly"; "the rain of Zeus gives them increase" (Cyclopes' crops); Polyphemus claims the Cyclopes "pay no heed to Zeus... for verily we are better men than they"
+- **[Odyssey](../sources/odyssey.md)** I: Speech on mortal responsibility (Aegisthus ignored Hermes' warning); praises Odysseus's piety; identifies Poseidon as the sole obstacle; initiates the plan for Odysseus's return
+- **[Odyssey](../sources/odyssey.md)** II: Sends two eagles as omen at Telemachus's prayer in the assembly
+- **[Odyssey](../sources/odyssey.md)** V: Commands Hermes to order Calypso to release Odysseus; decrees Odysseus shall reach Phaeacia on a raft; "cast at him [Iasion] with his white bolt and slew him" (Calypso's speech)
+- **[Odyssey](../sources/odyssey.md)** XII: Rouses winds to trap Odysseus on Thrinacia; sheds sleep on Odysseus while crew slaughters [Helius](helius.md)'s cattle; promises [Helius](helius.md) vengeance; destroys Odysseus's ship with thunderbolt;[^od12-bolt] "the father of gods and of men";[^od12-father] saves Odysseus from [Scylla](../creatures/scylla.md) on his return past the strait[^od12-scylla]
+- **[Odyssey](../sources/odyssey.md)** XVII: "the gods, in the likeness of strangers from far countries, put on all manner of shapes, and wander through the cities, beholding the violence and the righteousness of men"
+- **[Odyssey](../sources/odyssey.md)** XX: Thunders from shining [Olympus](../places/olympus.md) as omen for Odysseus — "from on high from the place of clouds; and goodly Odysseus was glad"
+- **[Odyssey](../sources/odyssey.md)** XXI: Thunders again when Odysseus strings the bow — "Zeus thundered loud showing forth his tokens"
+- **[Odyssey](../sources/odyssey.md)** XXIV: Final divine council — [Athena](athena.md) asks his counsel; decrees peace, oblivion of bloodshed, and Odysseus as king forever ("let peace and wealth abundant be their portion"); casts flaming bolt at [Athena](athena.md)'s feet as signal for the final covenant
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Plans the Trojan War with Themis to depopulate the earth;[^cyp-zeus-plan] pursues Nemesis to beget Helen (she flees in various forms);[^cyp-nemesis] swears Thetis shall marry a mortal;[^cyp-thetis-mortal] gives Castor and Polydeuces immortality every other day[^cyp-dioscuri]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Gave Laomedon a golden vine (wrought by Hephaestus) as price for Ganymedes[^liliad-vine]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Eos obtains immortality from Zeus for her son Memnon[^aeth-memnon-immortal]
+
+[^od12-bolt]: "Zeus thundered and cast his bolt upon the ship, and she reeled all over being stricken by the bolt of Zeus, and was filled with sulphur" (Odyssey XII.6936-6938, trans. Butcher and Lang)
+[^od12-father]: "the father of gods and of men suffered me no more to behold Scylla" (Odyssey XII.6964, trans. Butcher and Lang)
+[^od12-scylla]: "the father of gods and of men suffered me no more to behold Scylla, else I should never have escaped from utter doom" (Odyssey XII.6964, trans. Butcher and Lang)
 
 [^il21-laugh]: "Zeus heard as he sate upon Olympus, and his heart within him laughed pleasantly when he beheld that strife of gods" (Iliad XXI.12093-12094, trans. Lang, Leaf, and Myers)
 [^il22-balances]: "then the Father hung his golden balances, and set therein two lots of dreary death, one of Achilles, one of horse-taming Hector, and held them by the midst and poised. Then Hector's fated day sank down, and fell to the house of Hades, and Phoebus Apollo left him" (Iliad XXII.12479-12482)

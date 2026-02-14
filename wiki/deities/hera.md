@@ -148,6 +148,8 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 
 - **[Theogony](../sources/theogony.md)** 11-12, 314-315, 328-329, 454, 921-929: Invocation; nourishes monsters against Heracles; bears children
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 97-100, 311-355: Opposes Apollo's birth; casts out Hephaestus; births Typhaon
+- **[Odyssey](../sources/odyssey.md)** IV: Saves Agamemnon from the sea
+- **[Odyssey](../sources/odyssey.md)** XII: "Here sent her [Argo] by for love of Jason" past the Wandering Rocks[^od12-argo]
 - **[Iliad](../sources/iliad.md)** I: "Ox-eyed queen"; pities the Greeks; sends Athena; quarrels with Zeus; part of the conspiracy to bind Zeus
 - **[Iliad](../sources/iliad.md)** II: Sends Athena to stop the Greek retreat
 - **[Iliad](../sources/iliad.md)** IV: Argues with Zeus over Troy's fate; claims equal divine lineage; offers Argos, Sparta, and Mycenae in exchange for Troy's destruction
@@ -163,5 +165,6 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 - **[Iliad](../sources/iliad.md)** XXIV: Opposes returning Hector's body (with Poseidon and Athena) — still angry about the Judgment of Paris ("the sin of Alexandros in that he contemned those goddesses"); claims she raised Thetis: "Achilles is child of a goddess whom I myself bred up and reared and gave to a man to be his wife, even to Peleus who was dearest of all men to the Immortals' heart"
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Competes with Athena and Aphrodite in the Judgment of Paris (Paris chooses Aphrodite);[^cyp-judgment-hera] Thetis avoided Zeus's advances "to please Hera"[^cyp-thetis-hera]
 
+[^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason." (Odyssey XII.6597-6600, trans. Butcher and Lang)
 [^cyp-judgment-hera]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite"
 [^cyp-thetis-hera]: "Thetis, to please Hera, avoided union with Zeus, at which he was enraged and swore that she should be the wife of a mortal" (Cypria, Fragment 4)

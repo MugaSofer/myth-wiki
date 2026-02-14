@@ -87,6 +87,27 @@ Thetis goes to Olympus to commission new armour — including the [Shield of Ach
 [^il18-fate]: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee" (Iliad XVIII.10527-10529)
 [^il18-marriage]: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will" (Iliad XVIII.10737-10739)
 
+## In the Odyssey
+
+### Achilles' Funeral (Odyssey Book XXIV)
+
+In [Odyssey](../sources/odyssey.md) Book XXIV, Agamemnon's shade describes Achilles' funeral to him in the underworld. Thetis emerged from the sea with her fellow sea-goddesses: "forth from the sea came thy mother with the deathless maidens of the waters, when they heard the tidings; and a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans."[^od24-arrival]
+
+The Nereids prepared his body: "Then round thee stood the daughters of the ancient one of the sea, holding a pitiful lament, and they clad thee about in raiment incorruptible."[^od24-nereids]
+
+The [Muses](muses.md) joined the mourning: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant."[^od24-muses] The mourning lasted "seventeen days and nights continually did we all bewail thee, immortal gods and mortal men."[^od24-seventeen]
+
+After the cremation — "when the flame of [Hephaestus](hephaestus.md) had utterly abolished thee" — Thetis provided the urn for Achilles' bones: "Thy mother gave a twy-handled golden urn, and said that it was the gift of [Dionysus](dionysus.md), and the workmanship of renowned [Hephaestus](hephaestus.md)."[^od24-urn]
+
+Finally, Thetis organised funeral games: "Then thy mother asked the gods for glorious prizes in the games, and set them in the midst of the lists for the champions of the Achaeans... such glorious prizes did the goddess set there to honour thee, even Thetis, the silver-footed; for very dear wert thou to the gods."[^od24-games]
+
+[^od24-arrival]: "forth from the sea came thy mother with the deathless maidens of the waters, when they heard the tidings; and a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans" (Odyssey XXIV.12600-12603, trans. Butcher and Lang)
+[^od24-nereids]: "Then round thee stood the daughters of the ancient one of the sea, holding a pitiful lament, and they clad thee about in raiment incorruptible" (Odyssey XXIV.12613-12615, trans. Butcher and Lang)
+[^od24-muses]: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant" (Odyssey XXIV.12615-12617, trans. Butcher and Lang)
+[^od24-seventeen]: "seventeen days and nights continually did we all bewail thee, immortal gods and mortal men" (Odyssey XXIV.12618-12619, trans. Butcher and Lang)
+[^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey XXIV.12627-12629, trans. Butcher and Lang)
+[^od24-games]: "Then thy mother asked the gods for glorious prizes in the games, and set them in the midst of the lists for the champions of the Achaeans... such glorious prizes did the goddess set there to honour thee, even Thetis, the silver-footed; for very dear wert thou to the gods" (Odyssey XXIV.12636-12643, trans. Butcher and Lang)
+
 ## In the Epic Cycle
 
 ### Marriage to Peleus (Cypria)
@@ -116,6 +137,7 @@ In the Returns, Thetis warned Neoptolemus (Achilles' son), who heeded her counse
 
 ## Appearances
 
+- **[Odyssey](../sources/odyssey.md)** XXIV: Achilles' funeral — rises from the sea with the deathless maidens; the Nereids clad Achilles in incorruptible raiment; the nine Muses sang the dirge; seventeen days of mourning; gave a golden urn (gift of [Dionysus](dionysus.md), work of [Hephaestus](hephaestus.md)); asked the gods for prizes in the funeral games; "very dear wert thou to the gods"
 - **[Theogony](../sources/theogony.md)** 244: Listed among the Nereids
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 319-320: Rescued Hephaestus from the sea
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Avoided union with Zeus to please Hera; Zeus swore she should marry a mortal; at her wedding to Peleus, Strife starts the dispute leading to the Judgment of Paris

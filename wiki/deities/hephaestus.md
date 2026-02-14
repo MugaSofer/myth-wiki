@@ -100,6 +100,27 @@ He forges the [Shield of Achilles](../objects/shield-of-achilles.md) — a compl
 [^il18-maidens]: "there were handmaidens of gold that moved to help their lord, the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods" (Iliad XVIII.10723-10726)
 [^il18-shield]: "There wrought he the earth, and the heavens, and the sea, and the unwearying sun, and the moon waxing to the full, and the signs every one wherewith the heavens are crowned, Pleiads and Hyads and Orion's might, and the Bear that men call also the Wain, her that turneth in her place and watcheth Orion, and alone hath no part in the baths of Ocean" (Iliad XVIII.10783-10788)
 
+## In the Odyssey
+
+### Hephaestus's Craft at Alcinous's Palace (Book VII)
+
+In Book VII, Alcinous's palace is guarded by Hephaestus's creations: "on either side stood golden hounds and silver, which Hephaestus wrought by his cunning, to guard the palace of great-hearted Alcinous, being free from death and age all their days."[^od7-hounds]
+
+[^od7-hounds]: "on either side stood golden hounds and silver, which Hephaestus wrought by his cunning, to guard the palace of great-hearted Alcinous, being free from death and age all their days" (Odyssey VII.3893-3895, trans. Butcher and Lang)
+
+### The Song of Ares and Aphrodite (Book VIII)
+
+In [Odyssey](../sources/odyssey.md) Book VIII, the minstrel Demodocus sings of Hephaestus's revenge on [Ares](ares.md) and [Aphrodite](aphrodite.md). When [Helius](helius.md) reported their adultery, "he went his way to the forge, devising evil in the deep of his heart, and set the great anvil on the stithy, and wrought fetters that none might snap or loosen, that the lovers might there unmoveably remain."[^od8-forge] The net was "subtle as spiders' webs, so that none might see them, even of the blessed gods: so cunningly were they forged."[^od8-web]
+
+He then "made as though he would go to Lemnos, that stablished castle, and this was far the dearest of all lands in his sight." When the trap was sprung, he summoned the gods: "Father [Zeus](zeus.md), and ye other blessed gods, that live for ever, come hither, that ye may see a mirthful thing and a cruel." He lamented: "Aphrodite, daughter of Zeus, ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born."[^od8-lament]
+
+"Laughter unquenchable arose among the blessed gods, as they beheld the sleight of cunning Hephaestus." [Poseidon](poseidon.md) guaranteed Ares's fine: "even if Ares avoid the debt and flee away, I myself will pay thee all." Hephaestus released them, and was called "the famous god of the strong arms."[^od8-release]
+
+[^od8-forge]: "he went his way to the forge, devising evil in the deep of his heart, and set the great anvil on the stithy, and wrought fetters that none might snap or loosen, that the lovers might there unmoveably remain" (Odyssey VIII.4412-4414, trans. Butcher and Lang)
+[^od8-web]: "subtle as spiders' webs, so that none might see them, even of the blessed gods: so cunningly were they forged" (Odyssey VIII.4419-4420)
+[^od8-lament]: "Aphrodite, daughter of Zeus, ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born. Howbeit, there is none to blame but my father and mother,—would they had never begotten me!" (Odyssey VIII.4446-4450)
+[^od8-release]: "laughter unquenchable arose among the blessed gods, as they beheld the sleight of cunning Hephaestus... Poseidon answered him, shaker of the earth: 'Hephaestus, even if Ares avoid the debt and flee away, I myself will pay thee all.' Then the famous god of the strong arms answered him: 'It may not be that I should say thee nay'" (Odyssey VIII.4463-4501)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea
@@ -110,10 +131,16 @@ He forges the [Shield of Achilles](../objects/shield-of-achilles.md) — a compl
 - **[Iliad](../sources/iliad.md)** XVIII: His bronze house described; self-moving golden tripods; golden handmaidens with understanding and voice; forges the Shield of Achilles (cosmos, two cities, Ares and Athena in gold, Daidalos's dancing-place, Ocean rim), corslet, helm, and greaves
 - **[Iliad](../sources/iliad.md)** XXI: Burns the River Xanthos with fire at Hera's command; elms, willows, tamarisks, lotus consumed; the river submits and swears an oath
 - **[Shield of Heracles](../sources/shield-of-heracles.md)**: Named as maker of Heracles' shield — "a wonderful thing the great strong shield was to see—even for Zeus the loud-thunderer, by whose will Hephaestus made it and fitted it with his hands"; also "the famous Lame One" who fashioned the Perseus scene "of gold with his hands"
+- **[Odyssey](../sources/odyssey.md)** VII: Made golden and silver hounds for Alcinous's palace — "being free from death and age all their days"
+- **[Odyssey](../sources/odyssey.md)** VIII: The Song of Ares and Aphrodite — forges an unbreakable net to trap Ares and Aphrodite in his bed; called by Helius who "had seen them at their pastime"; "wrought fetters that none might snap or loosen... subtle as spiders' webs"; pretends to leave for Lemnos; summons all the gods to witness; demands his bride-price back; Poseidon guarantees the fine; releases them
+- **[Odyssey](../sources/odyssey.md)** XXIII: The gold-on-silver simile for [Athena](athena.md)'s beautifying of Odysseus — "as when some skilful man overlays gold upon silver, one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork"[^od23-simile]
+- **[Odyssey](../sources/odyssey.md)** XXIV: "the flame of Hephaestus had utterly abolished thee" — consumed Achilles on the pyre; the golden urn for Achilles' bones was "the workmanship of renowned Hephaestus"[^od24-flame]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Fitted Peleus's spear with a head[^cyp-heph-spear]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Made Memnon's armour[^aeth-heph-armour]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Wrought the golden vine that Zeus gave to Laomedon as price for Ganymedes[^liliad-heph-vine]
 
+[^od23-simile]: "as when some skilful man overlays gold upon silver, one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork" (Odyssey XXIII.12342-12344, trans. Butcher and Lang)
+[^od24-flame]: "when the flame of Hephaestus had utterly abolished thee" ... "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey XXIV.12624-12625, 12627-12629, trans. Butcher and Lang)
 [^cyp-heph-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5)
 [^aeth-heph-armour]: Aethiopis, summary by Proclus: "Memnon, the son of Eos, wearing armour made by Hephaestus, comes to help the Trojans"
 [^liliad-heph-vine]: "the vine which the son of Cronos gave him as a recompense for his son. It bloomed richly with soft leaves of gold and grape clusters; Hephaestus wrought it and gave it to his father Zeus: and he bestowed it on Laomedon as a price for Ganymedes" (Little Iliad, Fragment 7)

@@ -6,7 +6,7 @@
 | **Roman equivalent** | Neptune |
 | **Domain** | The sea, earthquakes |
 | **Parents** | [Cronos](cronos.md) and [Rhea](rhea.md) |
-| **Children** | Triton (with Amphitrite) |
+| **Children** | Triton (with Amphitrite), Polyphemus (with Thoösa) |
 | **First appearance** | [Theogony](../sources/theogony.md) 15 |
 
 ## Overview
@@ -19,6 +19,7 @@
 - **"the loud-crashing Earth-Shaker"** / **"the mighty Earthshaker"** — (Theogony 456; Iliad XIII)
 - **"the Dark-haired One"** — used when describing his union with [Medusa](../creatures/gorgons.md) (Theogony 278)
 - **"deep-roaring Earth-Shaker"** — (Theogony 818)
+- **"the girdler of the earth"** — (Odyssey I)
 - **"the Shaker of the earth"** / **"the Enfolder and Shaker of the earth"** — (Iliad XII, XXIII)
 
 ## Appearance
@@ -59,6 +60,71 @@ He made Briareos (one of the [Hundred-Handers](../creatures/hundred-handers.md))
 [^theog-medusa]: "With her lay the Dark-haired One in a soft meadow amid spring flowers" (Theogony 278-279)
 [^theog-triton]: "of Amphitrite and the loud-roaring Earth-Shaker was born great, wide-ruling Triton, and he owns the depths of the sea, living with his dear mother and the lord his father in their golden house, an awful god" (Theogony 930-933)
 [^theog-briareos]: "Briareos, being goodly, the deep-roaring Earth-Shaker made his son-in-law, giving him Cymopolea his daughter to wed" (Theogony 817-819)
+
+## In the Odyssey
+
+### Wrath Over Polyphemus (Book I)
+
+In the [Odyssey](../sources/odyssey.md), Poseidon is Odysseus's primary divine antagonist. "All the gods had pity on him save Poseidon, who raged continually against godlike Odysseus, till he came to his own country."[^od1-rage]
+
+[Zeus](zeus.md) explains the source of his anger: "it is Poseidon, the girdler of the earth, that hath been wroth continually with quenchless anger for the Cyclops' sake whom he blinded of his eye, even godlike Polyphemus whose power is mightiest amongst all the Cyclôpes. His mother was the nymph Thoösa, daughter of Phorcys, lord of the unharvested sea, and in the hollow caves she lay with Poseidon."[^od1-polyphemus]
+
+Poseidon does not seek to kill Odysseus outright: "From that day forth Poseidon the earth-shaker doth not indeed slay Odysseus, but driveth him wandering from his own country."[^od1-wandering] Zeus observes that Poseidon "will in no wise be able to strive alone against all, in despite of all the deathless gods."[^od1-alone]
+
+At the opening of the poem, Poseidon is absent from the divine council: "Poseidon had now departed for the distant Ethiopians, the Ethiopians that are sundered in twain, the uttermost of men... There he looked to receive his hecatomb of bulls and rams."[^od1-ethiopia]
+
+### Destroying Locrian Aias (Book IV)
+
+In Menelaus's account of Proteus's prophecy, Poseidon's dual nature is vividly shown. He first saves Aias (the Locrian, son of Oileus) from the sea: "Poseidon at first brought him nigh to Gyrae, to the mighty rocks, and delivered him from the sea." But when Aias boasted blasphemously — "he said that in the gods' despite he had escaped the great gulf of the sea" — Poseidon responded with devastating force: "Poseidon heard his loud boasting, and presently caught up his trident into his strong hands, and smote the rock Gyraean and cleft it in twain... and the rock bore him down into the vast and heaving deep."[^od4-aias]
+
+[^od4-aias]: "Poseidon at first brought him nigh to Gyrae, to the mighty rocks, and delivered him from the sea. And so he would have fled his doom, albeit hated by Athene, had he not let a proud word fall in the fatal darkening of his heart. He said that in the gods' despite he had escaped the great gulf of the sea; and Poseidon heard his loud boasting, and presently caught up his trident into his strong hands, and smote the rock Gyraean and cleft it in twain." (Odyssey IV.2614-2621, trans. Butcher and Lang)
+
+[^od1-rage]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus, till he came to his own country" (Odyssey I.746-748, trans. Butcher and Lang)
+[^od1-polyphemus]: "it is Poseidon, the girdler of the earth, that hath been wroth continually with quenchless anger for the Cyclops' sake whom he blinded of his eye, even godlike Polyphemus whose power is mightiest amongst all the Cyclôpes. His mother was the nymph Thoösa, daughter of Phorcys, lord of the unharvested sea, and in the hollow caves she lay with Poseidon." (Odyssey I.792-797, trans. Butcher and Lang)
+[^od1-wandering]: "From that day forth Poseidon the earth-shaker doth not indeed slay Odysseus, but driveth him wandering from his own country" (Odyssey I.797-798, trans. Butcher and Lang)
+[^od1-alone]: "Poseidon let go his displeasure, for he will in no wise be able to strive alone against all, in despite of all the deathless gods" (Odyssey I.800-802, trans. Butcher and Lang)
+[^od1-ethiopia]: "Poseidon had now departed for the distant Ethiopians, the Ethiopians that are sundered in twain, the uttermost of men, abiding some where Hyperion sinks and some where he rises. There he looked to receive his hecatomb of bulls and rams" (Odyssey I.748-752, trans. Butcher and Lang)
+
+### Poseidon and Tyro (Book XI)
+
+In the catalogue of heroines, Tyro loved the river Enipeus, and Poseidon seduced her in Enipeus's form: "the girdler of the world, the Earth-shaker, put on the shape of the god, and lay by the lady at the mouths of the whirling stream. Then the dark wave stood around them like a hill-side bowed, and hid the god and the mortal woman." He told her: "Woman, be glad in our love, and when the year comes round thou shalt give birth to glorious children,—for not weak are the embraces of the gods... behold, I am Poseidon, shaker of the earth." She bore Pelias and Neleus.[^od11-tyro]
+
+Also in the catalogue, Iphimedeia "said that she had lain with Poseidon, and she bare children twain... godlike Otus and far-famed Ephialtes" — the giants who tried to pile mountains to reach Olympus.[^od11-iphimedeia]
+
+[^od11-tyro]: "the girdler of the world, the Earth-shaker, put on the shape of the god, and lay by the lady at the mouths of the whirling stream. Then the dark wave stood around them like a hill-side bowed, and hid the god and the mortal woman... Woman, be glad in our love, and when the year comes round thou shalt give birth to glorious children,—for not weak are the embraces of the gods... behold, I am Poseidon, shaker of the earth" (Odyssey XI.6124-6141, trans. Butcher and Lang)
+[^od11-iphimedeia]: "said that she had lain with Poseidon, and she bare children twain... godlike Otus and far-famed Ephialtes" (Odyssey XI.6191-6203, trans. Butcher and Lang)
+
+### Polyphemus's Prayer (Book IX)
+
+After Odysseus blinds [Polyphemus](../creatures/cyclopes.md), the Cyclops prays to his father: "Hear me, Poseidon, girdler of the earth, god of the dark hair, if indeed I be thine, and thou avowest thee my sire,—grant that he may never come to his home, even Odysseus, waster of cities, the son of Laertes, whose dwelling is in Ithaca; yet if he is ordained to see his friends and come unto his well-builded house, and his own country, late may he come in evil case, with the loss of all his company, in the ship of strangers, and find sorrows in his house." And "the god of the dark locks heard him."[^od9-prayer]
+
+This prayer — which Poseidon grants — exactly describes the course of Odysseus's return: arriving late, alone, on a Phaeacian ship, to find his house beset by suitors.
+
+[^od9-prayer]: "Hear me, Poseidon, girdler of the earth, god of the dark hair, if indeed I be thine, and thou avowest thee my sire,—grant that he may never come to his home, even Odysseus, waster of cities, the son of Laertes, whose dwelling is in Ithaca; yet if he is ordained to see his friends and come unto his well-builded house, and his own country, late may he come in evil case, with the loss of all his company, in the ship of strangers, and find sorrows in his house... So he spake in prayer, and the god of the dark locks heard him" (Odyssey IX.5263-5272, trans. Butcher and Lang)
+
+### The Storm (Book V)
+
+Returning from the Ethiopians, Poseidon spots Odysseus near Phaeacia: "the lord, the shaker of the earth, on his way from the Ethiopians espied him afar off from the mountains of the Solymi... and he was mightily angered in spirit." He declares: "methinks, that even yet I will drive him far enough in the path of suffering."[^od5-espied]
+
+He then unleashes a full storm: "he gathered the clouds and troubled the waters of the deep, grasping his trident in his hands; and he roused all storms of all manner of winds, and shrouded in clouds the land and sea: and down sped night from heaven."[^od5-storm] He smashes Odysseus's raft with a great wave, then departs with a final pronouncement: "Even so, after all thy sufferings, go wandering over the deep, till thou shalt come among a people, the fosterlings of Zeus. Yet for all that I deem not that thou shalt think thyself too lightly afflicted."[^od5-depart]
+
+[^od5-espied]: "the lord, the shaker of the earth, on his way from the Ethiopians espied him afar off from the mountains of the Solymi: even thence he saw Odysseus as he sailed over the deep; and he was mightily angered in spirit" (Odyssey V.3255-3258, trans. Butcher and Lang)
+[^od5-storm]: "he gathered the clouds and troubled the waters of the deep, grasping his trident in his hands; and he roused all storms of all manner of winds, and shrouded in clouds the land and sea: and down sped night from heaven" (Odyssey V.3265-3268)
+[^od5-depart]: "Even so, after all thy sufferings, go wandering over the deep, till thou shalt come among a people, the fosterlings of Zeus. Yet for all that I deem not that thou shalt think thyself too lightly afflicted" (Odyssey V.3355-3358)
+
+### Punishment of the Phaeacians (Book XIII)
+
+When Poseidon discovers that the Phaeacians have safely conveyed Odysseus home to Ithaca, he is outraged. He complains to [Zeus](zeus.md): "Father Zeus, I for one shall no longer be of worship among the deathless gods, when mortal men hold me in no regard, even Phaeacians, who moreover are of mine own lineage."[^od13-complaint] Zeus gives him free rein: "Do thou as thou wilt, and as seems thee good."[^od13-zeus]
+
+Poseidon strikes as the Phaeacian ship returns to Scheria: "he smote her into a stone, and rooted her far below with the down-stroke of his hand."[^od13-stone] King Alcinous recognises the fulfilment of an ancient oracle — that Poseidon would one day punish the Phaeacians, "for that we give safe escort to all men."[^od13-oracle] In response, the Phaeacians offer twelve chosen bulls to appease him.[^od13-bulls]
+
+This episode completes the arc begun in Books V and VIII: Poseidon's wrath, unable to prevent Odysseus's return, falls instead on those who aided it. The Phaeacians — his own descendants through Nausithous — are punished not for opposing him, but for rendering his opposition meaningless.
+
+[^od13-complaint]: "Father Zeus, I for one shall no longer be of worship among the deathless gods, when mortal men hold me in no regard, even Phaeacians, who moreover are of mine own lineage" (Odyssey XIII.7108-7111, trans. Butcher and Lang)
+[^od13-zeus]: "Do thou as thou wilt, and as seems thee good" (Odyssey XIII.7124-7125, trans. Butcher and Lang)
+[^od13-stone]: "he smote her into a stone, and rooted her far below with the down-stroke of his hand" (Odyssey XIII.7145-7147, trans. Butcher and Lang)
+[^od13-oracle]: "jealous of us, for that we give safe escort to all men" (Odyssey XIII.7160-7161, trans. Butcher and Lang)
+[^od13-bulls]: "let us sacrifice to him twelve chosen bulls, if perchance he may take pity, and not overshadow our city with a long mountain" (Odyssey XIII.7167-7173, trans. Butcher and Lang)
 
 ## In the Iliad
 
@@ -106,6 +172,15 @@ Poseidon is also moved by family grief: "Poseidon wroth at heart, when his son's
 
 ## Appearances
 
+- **[Odyssey](../sources/odyssey.md)** XIII: Complains to Zeus about the Phaeacians; turns their returning ship to stone ("smote her into a stone, and rooted her far below"); Alcinous recognises ancient oracle; twelve bulls sacrificed to appease him
+- **[Odyssey](../sources/odyssey.md)** XI: Seduces Tyro in the form of the river Enipeus — "the dark wave stood around them like a hill-side bowed"; fathers Pelias and Neleus; Iphimedeia bore him Otos and Ephialtes; Teiresias prophesies his wrath will make Odysseus's return difficult
+- **[Odyssey](../sources/odyssey.md)** IX: Polyphemus's prayer — "god of the dark hair... thou avowest thee my sire"; Poseidon "heard him" and grants the curse; Polyphemus claims Poseidon alone can heal his eye
+- **[Odyssey](../sources/odyssey.md)** I: "Raged continually against godlike Odysseus" for blinding Polyphemus; absent among the Ethiopians; fathered Polyphemus by the nymph Thoösa (daughter of Phorcys); called "the girdler of the earth"; Zeus says he cannot strive alone against all the gods
+- **[Odyssey](../sources/odyssey.md)** III: Sacrifice of black bulls at Pylos in his honour
+- **[Odyssey](../sources/odyssey.md)** V: Returns from Ethiopia, spots Odysseus near Phaeacia; unleashes a full storm with his trident ("roused all storms of all manner of winds"); smashes the raft; departs saying "I deem not that thou shalt think thyself too lightly afflicted"; "lashed his steeds of the flowing manes, and came to Aegae, where is his lordly home"
+- **[Odyssey](../sources/odyssey.md)** VII: Father of Nausithous by Periboea (daughter of Eurymedon, king of the Giants); "the Earth-shaker hath vouchsafed them this power" (Phaeacian ships)
+- **[Odyssey](../sources/odyssey.md)** VIII: In the Song of Ares and Aphrodite — guarantees Ares's fine to Hephaestus ("even if Ares avoid the debt and flee away, I myself will pay thee all"); "Poseidon, the girdler of the earth"; Nausithous's prophecy that Poseidon would smite a Phaeacian ship and overshadow the city with a mountain
+- **[Odyssey](../sources/odyssey.md)** IV: Saves then destroys Locrian Aias — first delivers him to the rocks of Gyrae, then when Aias boasts "in the gods' despite," smites the rock with his trident and drowns him; Proteus is his "thrall"
 - **[Theogony](../sources/theogony.md)** 15, 278-279, 456, 732-733, 817-819, 930-933: Invocation; union with Medusa; birth; sealing Tartarus; Briareos; fathering Triton
 - **[Iliad](../sources/iliad.md)** I: Part of the conspiracy to bind Zeus
 - **[Iliad](../sources/iliad.md)** VII: Complains to Zeus about Achaian wall; reveals he and Apollo built Troy's wall for Laomedon; Zeus grants him permission to destroy it later
