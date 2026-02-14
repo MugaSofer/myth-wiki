@@ -333,6 +333,40 @@ Book V (Diomedes' aristeia — most mythology-dense book so far):
 
 **Pages updated:** athena.md, ares.md, aphrodite.md, hera.md, hephaestus.md, apollo.md, poseidon.md, artemis.md, hermes.md, zeus.md, iliad.md
 
+**Book XXII processed:**
+- Apollo reveals himself to Achilles; supported Hector until the golden scales tipped, then left him
+- Zeus debates saving Hector (echoes Sarpedon), Athena dissuades; golden balances (second use)
+- Athena disguised as Deiphobus; retrieves Achilles' spear; "bright-eyed Athene had slain him"
+- Hector's dying prophecy: Paris and Apollo will slay Achilles at the Skaian gate
+
+**Pages updated:** apollo.md, athena.md, zeus.md, iliad.md
+
+**Book XXIII processed:**
+- Patroklos's ghost: afterlife theology (spirits, phantoms, wide-gated dwelling of Hades)
+- Aphrodite and Apollo protect Hector's body (rose-sweet oil; dark cloud)
+- Iris carries prayer to the Winds for the pyre
+- Chariot race: Apollo wroth with Diomedes (smites lash); Athena counters (returns lash, breaks Eumelos's yoke)
+- Foot-race: Athena aids Odysseus, trips Aias; "from of old like a mother standeth by Odysseus' side"
+- Thetis stirs wailing at Patroklos's funeral
+
+**Pages updated:** apollo.md, athena.md, aphrodite.md, iris.md, thetis.md, iliad.md
+
+**Book XXIV processed:**
+- Apollo protects Hector's body; rebukes gods; Fates mentioned
+- Judgment of Paris — first explicit Iliad reference (Hera/Poseidon/Athena oppose Hector's return)
+- Zeus orchestrates the ransom; Two Urns speech; sends eagle omen
+- Hermes as guide: golden sandals, wand, disguised as young prince, puts sentinels to sleep
+- Thetis summoned to Olympus; delivers Zeus's message
+- Iris: two missions (Thetis from the sea; Priam in Troy)
+- Niobe: Apollo slew six sons, Artemis six daughters, for rivalling Leto
+- Hera: raised Thetis and gave her to Peleus
+
+**Pages updated:** zeus.md, hera.md, hermes.md, apollo.md, artemis.md, thetis.md, iris.md, athena.md, poseidon.md, iliad.md
+
+## Iliad — COMPLETE
+
+All 24 books of the Iliad (Lang, Leaf, and Myers translation) have been processed.
+
 ## Next
 
-Continue Iliad processing (Books XXII-XXIV), one book at a time.
+The Iliad is complete. Consider processing the next major source (e.g. Odyssey, Hesiod's Shield of Heracles, Homeric Hymn to Hermes variants, Apollodorus, etc.).

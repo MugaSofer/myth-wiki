@@ -79,3 +79,4 @@ Meleager slew the boar "having gathered together from many cities huntsmen and h
 [^il9-aftermath]: "the goddess made much turmoil over him and tumult concerning the boar's head and shaggy hide, between the Kuretes and great-hearted Aitolians" (Iliad IX.5413-5415)
 - **[Iliad](../sources/iliad.md)** IX: The Calydonian Boar — sent against Oineus for failing to offer first-fruits; "Artemis of the golden throne"; Apollo snatched Marpessa (Ides' wife)
 - **[Iliad](../sources/iliad.md)** XXI: Rebukes Apollo for yielding to Poseidon; beaten by Hera with her own bow ("smiling, beat her on the ears"); arrows scatter; flees weeping like a dove; weeps on Zeus's knee; Zeus laughs gently
+- **[Iliad](../sources/iliad.md)** XXIV: Niobe's daughters — "the daughters archer Artemis" slew, because Niobe matched herself against Leto

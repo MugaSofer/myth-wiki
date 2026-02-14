@@ -95,3 +95,5 @@ Thetis goes to Olympus to commission new armour from [Hephaistos](hephaestus.md)
 - **[Iliad](../sources/iliad.md)** VI: Sheltered Dionysus in the sea after Lykurgos chased him from Nysa
 - **[Iliad](../sources/iliad.md)** IX: Achilles reports her prophecy of his two fates — glory with death at Troy, or long life without fame
 - **[Iliad](../sources/iliad.md)** XVIII: Laments among the Nereids; confirms Achilles' impending death; describes her forced marriage to Peleus; commissions armour from [Hephaestus](hephaestus.md) on Olympus
+- **[Iliad](../sources/iliad.md)** XXIII: "Thetis stirred among them desire of wailing" at Patroklos's funeral
+- **[Iliad](../sources/iliad.md)** XXIV: Summoned by Iris from the sea (wailing among the Nereids); goes to Olympus; Athena gives her place, Hera gives her a golden cup; Zeus sends her to bid Achilles accept ransom; "not long shalt thou be left alive to me"; Hera: "I myself bred up and reared [Thetis] and gave [her] to a man to be his wife, even to Peleus who was dearest of all men to the Immortals' heart"

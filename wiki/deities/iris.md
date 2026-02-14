@@ -74,3 +74,5 @@ In [Iliad](../sources/iliad.md) Book XI, [Zeus](zeus.md) sends "Iris of the gold
 - **[Iliad](../sources/iliad.md)** XI: "Iris of the golden wings" (new epithet); carries Zeus's tactical instructions to Hector from Ida
 - **[Iliad](../sources/iliad.md)** XV: Carries Zeus's command to Poseidon to withdraw; when Poseidon protests, she counsels prudence: "the Erinyes do always follow to aid the elder-born"; Poseidon yields
 - **[Iliad](../sources/iliad.md)** XVIII: Sent secretly by Hera ("unknown of Zeus and the other gods, for Hera sent her") to rouse Achilles to save Patroklos's body; "wind-footed fleet Iris"
+- **[Iliad](../sources/iliad.md)** XXIII: Carries Achilles' prayer to the Winds (North and West) to kindle Patroklos's pyre; mentions returning to "the streams of Ocean, to the Ethiopians' land where they sacrifice hecatombs to the immortal gods"
+- **[Iliad](../sources/iliad.md)** XXIV: Two missions — summons Thetis from the sea ("airy-footed Iris"; leaps into the sea "like a weight of lead"); delivers Zeus's message to Priam in Troy
