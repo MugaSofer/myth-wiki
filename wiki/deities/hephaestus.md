@@ -61,6 +61,18 @@ This contradicts the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III)
 [^il1-laughter]: "laughter unquenchable arose amid the blessed gods to see Hephaistos bustling through the palace" (Iliad I.763-764)
 [^il1-fall]: "once ere this, when I was fain to save thee, he caught me by my foot and hurled me from the heavenly threshold; all day I flew, and at the set of sun I fell in Lemnos, and little life was in me. There did the Sintian folk forthwith tend me for my fall" (Iliad I.755-758)
 
+### His Workshop and the Shield of Achilles (Book XVIII)
+
+[Thetis](thetis.md) comes to Hephaistos's house — "imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself." She finds him forging self-moving golden tripods: "beneath the base of each he had set golden wheels, that of their own motion they might enter the assembly of the gods and again return unto his house, a marvel to look upon."[^il18-house]
+
+He is aided by golden handmaidens: "there were handmaidens of gold that moved to help their lord, the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods."[^il18-maidens]
+
+He forges the Shield of Achilles — a complete cosmos in miniature: earth, heavens, sea, sun, moon, constellations ("Pleiads and Hyads and Orion's might, and the Bear... that alone hath no part in the baths of Ocean"); two cities (one at peace with a marriage feast and trial, one at war with [Ares](ares.md) and [Athena](athena.md) wrought in gold leading the troops, and Strife, Tumult, and Death personified); ploughing, reaping, vintage, cattle, sheep; a dancing-place "like unto that which once in wide Knosos Daidalos wrought for Ariadne of the lovely tresses"; and "the great might of the River of Ocean around the uttermost rim."[^il18-shield]
+
+[^il18-house]: "she came unto the house of Hephaistos, imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself. Him found she sweating in toil and busy about his bellows, for he was forging tripods twenty in all... beneath the base of each he had set golden wheels, that of their own motion they might enter the assembly of the gods and again return unto his house, a marvel to look upon" (Iliad XVIII.10712-10718, trans. Lang, Leaf, and Myers)
+[^il18-maidens]: "there were handmaidens of gold that moved to help their lord, the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods" (Iliad XVIII.10723-10726)
+[^il18-shield]: "There wrought he the earth, and the heavens, and the sea, and the unwearying sun, and the moon waxing to the full, and the signs every one wherewith the heavens are crowned, Pleiads and Hyads and Orion's might, and the Bear that men call also the Wain, her that turneth in her place and watcheth Orion, and alone hath no part in the baths of Ocean" (Iliad XVIII.10783-10788)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea
@@ -68,3 +80,4 @@ This contradicts the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III)
 - **[Iliad](../sources/iliad.md)** I: Peacemaker on Olympus; "laughter unquenchable"; variant tradition of being hurled by Zeus (not Hera), fell on Lemnos
 - **[Iliad](../sources/iliad.md)** II: Crafted Agamemnon's sceptre (passed from Zeus to Hermes to Pelops to Atreus to Agamemnon); "famed Hephaistos the lame god"
 - **[Iliad](../sources/iliad.md)** V: Saves Idaios (his priest's son) "in a veil of darkness, that he might not have his aged priest all broken with sorrow"
+- **[Iliad](../sources/iliad.md)** XVIII: His bronze house described; self-moving golden tripods; golden handmaidens with understanding and voice; forges the Shield of Achilles (cosmos, two cities, Ares and Athena in gold, Daidalos's dancing-place, Ocean rim), corslet, helm, and greaves

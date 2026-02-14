@@ -67,8 +67,18 @@ This is a remarkable claim: even Zeus, who asserts absolute supremacy over all o
 
 [^il14-night]: "Night, that subdues both gods and men. To her I came as a suppliant in my flight, and he ceased from pursuing, wrathful as he was, for he was in awe of doing aught displeasing to swift Night" (Iliad XIV.8452-8454, trans. Lang, Leaf, and Myers)
 
+### Sleep and Death as Twin Convoy (Book XVI)
+
+[Zeus](zeus.md) commands [Apollo](apollo.md) to send Sarpedon's body home "to be wafted by fleet convoy, by the twin brethren Sleep and Death, that quickly will set him in the rich land of wide Lykia."[^il16-twins] Apollo obeys, and the twins "swiftly set him down in the rich land of wide Lykia."[^il16-twins-do]
+
+Sleep and Death are children of Night in the [Theogony](../sources/theogony.md) (line 212). The Iliad here calls them "the twin brethren" — the only source so far to describe them acting together in a specific task.
+
+[^il16-twins]: "send him to be wafted by fleet convoy, by the twin brethren Sleep and Death, that quickly will set him in the rich land of wide Lykia" (Iliad XVI.9834-9837, trans. Lang, Leaf, and Myers)
+[^il16-twins-do]: "sent him to be wafted by fleet convoy, the twin brethren Sleep and Death, that swiftly set him down in the rich land of wide Lykia" (Iliad XVI.9843-9845)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 123-125, 211-232: Birth, offspring with Erebus, offspring alone, grandchildren through Strife
 - **[Works and Days](../sources/works-and-days.md)** 11-24: Two kinds of Strife — one harmful, one beneficial
 - **[Iliad](../sources/iliad.md)** XIV: Zeus will not challenge Night — "Night, that subdues both gods and men"; Sleep (her son) takes refuge with her
+- **[Iliad](../sources/iliad.md)** XVI: "The twin brethren Sleep and Death" bear Sarpedon's body home to Lykia at Zeus's command (both children of Night in the [Theogony](../sources/theogony.md))

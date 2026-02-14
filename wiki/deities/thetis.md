@@ -70,6 +70,23 @@ This is the second instance of Thetis sheltering a god who falls or flees into t
 
 [^il6-dionysus]: "Dionysos fled and plunged beneath the salt sea-wave, and Thetis took him to her bosom, affrighted, for a mighty trembling had seized him at his foe's rebuke" (Iliad VI.3584-3586, trans. Lang, Leaf, and Myers)
 
+### Lament and the Nereids (Book XVIII)
+
+When Achilles learns of Patroklos's death, "terribly moaned Achilles; and his lady mother heard him as she sate in the depths of the sea beside her ancient sire. And thereon she uttered a cry, and the goddesses flocked around her, all the daughters of Nereus that were in the deep of the sea."[^il18-nereids]
+
+Thetis leads the lament among the Nereids: "Listen, sister Nereids, that ye all hear and know well what sorrows are in my heart. Ay me unhappy, ay me that bare to my sorrow the first of men! For after I had borne a son noble and strong, the chief of heroes, and he shot up like a young branch, then when I had reared him as a plant in a very fruitful field I sent him in beaked ships to Ilios... but never again shall I welcome him back to his home."[^il18-lament]
+
+She confirms his fate: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee."[^il18-fate]
+
+### Commissioning Armour from Hephaistos (Book XVIII)
+
+Thetis goes to Olympus to commission new armour from [Hephaistos](hephaestus.md). She describes her forced marriage to Peleus: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will."[^il18-marriage]
+
+[^il18-nereids]: "terribly moaned Achilles; and his lady mother heard him as she sate in the depths of the sea beside her ancient sire. And thereon she uttered a cry, and the goddesses flocked around her, all the daughters of Nereus that were in the deep of the sea" (Iliad XVIII.10482-10486, trans. Lang, Leaf, and Myers)
+[^il18-lament]: "Listen, sister Nereids, that ye all hear and know well what sorrows are in my heart. Ay me unhappy, ay me that bare to my sorrow the first of men! For after I had borne a son noble and strong, the chief of heroes, and he shot up like a young branch, then when I had reared him as a plant in a very fruitful field I sent him in beaked ships to Ilios to fight against the men of Troy; but never again shall I welcome him back to his home, to the house of Peleus" (Iliad XVIII.10487-10494)
+[^il18-fate]: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee" (Iliad XVIII.10527-10529)
+[^il18-marriage]: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will" (Iliad XVIII.10737-10739)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 244: Listed among the Nereids
@@ -77,3 +94,4 @@ This is the second instance of Thetis sheltering a god who falls or flees into t
 - **[Iliad](../sources/iliad.md)** I: Rises from the sea; laments Achilles' fate; recalls saving Zeus from bondage; supplicates Zeus on Olympus
 - **[Iliad](../sources/iliad.md)** VI: Sheltered Dionysus in the sea after Lykurgos chased him from Nysa
 - **[Iliad](../sources/iliad.md)** IX: Achilles reports her prophecy of his two fates — glory with death at Troy, or long life without fame
+- **[Iliad](../sources/iliad.md)** XVIII: Laments among the Nereids; confirms Achilles' impending death; describes her forced marriage to Peleus; commissions armour from [Hephaestus](hephaestus.md) on Olympus

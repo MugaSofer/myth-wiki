@@ -275,6 +275,56 @@ Book V (Diomedes' aristeia — most mythology-dense book so far):
 
 **Pages updated:** hera.md (major expansion), zeus.md, aphrodite.md, poseidon.md, heracles.md, night.md, iliad.md
 
+**Book XV processed:**
+- Zeus wakes and rages; recalls hanging Hera (anvils, golden bonds)
+- Full prophecy: Patroclus → Sarpedon → Hector → Troy falls "through the counsels of Athene"
+- The Three Lots: Zeus got heaven, Poseidon the sea, Hades darkness; earth and Olympus common
+- Ares nearly rebels (Askalaphos's death), Athena stops him ("Mad that thou art")
+- Iris to Poseidon: "the Erinyes do always follow to aid the elder-born"
+- Apollo revives Hector, holds the aegis, destroys wall "as when a boy scatters the sand"
+
+**Pages updated:** zeus.md, hera.md, ares.md, poseidon.md, apollo.md, athena.md, iris.md, erinyes.md, iliad.md
+
+**Book XVI processed:**
+- Zeus debates saving Sarpedon; Hera dissuades him; bloody raindrops
+- Sleep and Death ("the twin brethren") bear Sarpedon home
+- Apollo heals Glaukos, thrice drives Patroklos from Troy's wall, kills Patroklos from behind in mist
+- Achilles' immortal horses Xanthos and Balios (born of harpy Podarge and the West Wind)
+- Patroklos's dying words: "me have ruinous Fate and the son of Leto slain"
+
+**Pages updated:** zeus.md, apollo.md (major expansion), hera.md, night.md, harpies.md, iliad.md
+
+**Book XVII processed:**
+- Zeus pities Hector in divine armour, prophesies his death; Ares enters Hector
+- Zeus's speech on mortality to weeping immortal horses ("there is nothing more piteous than a man")
+- Apollo disguised as Mentes and Periphas
+
+**Pages updated:** zeus.md, apollo.md, ares.md, iliad.md
+
+**Book XVIII processed:**
+- Thetis and Nereids lament; Thetis confirms Achilles' fate; her forced marriage to Peleus
+- Hera sends Iris secretly; Athena's fire on Achilles; Hera sends Sun down
+- Hephaistos's workshop (self-moving tripods, golden handmaidens with understanding)
+- Shield of Achilles (cosmos, two cities, Daidalos's dancing-place, Ocean rim)
+
+**Pages updated:** thetis.md, hephaestus.md (major expansion), iris.md, athena.md, hera.md, zeus.md, iliad.md
+
+**Book XIX processed:**
+- Agamemnon's Ate speech (Eldest daughter of Zeus; Heracles' birth trick)
+- Erinyes in three roles: madness, oath-enforcement, silencing Xanthos
+- Hera gives speech to Xanthos; horse prophesies Achilles' death
+- Zeus sends Athena to feed Achilles; Pelian spear from Cheiron
+
+**Pages updated:** erinyes.md (major expansion), hera.md, zeus.md, athena.md, heracles.md, iliad.md
+
+**Book XX processed:**
+- Theomachy — all gods unleashed; cosmic earthquake; Hades terrified
+- Aineias's full genealogy (Zeus → Dardanos → Erichthonios → Tros → Ganymedes etc.)
+- Poseidon saves Aineias, prophesies his dynasty
+- Apollo disguised as Lykaon; saves Hector in mist
+
+**Pages updated:** zeus.md, poseidon.md, apollo.md, athena.md, iliad.md
+
 ## Next
 
-Continue Iliad processing (Books XV-XXIV), one book at a time.
+Continue Iliad processing (Books XXI-XXIV), one book at a time.

@@ -112,6 +112,27 @@ In [Iliad](../sources/iliad.md) Book XI, Diomedes hurls his spear at Hector's he
 [^il7-raises]: "Apollo straightway raised him up" (Iliad VII.4209)
 [^il7-wall]: "men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon" (Iliad VII.4375-4376)
 
+### Healing Glaukos (Book XVI)
+
+When Glaukos prays for healing so he can defend Sarpedon's body, "Phoebus Apollo heard him. Straightway he made his pains to cease, and in the grievous wound stanched the black blood, and put courage into his heart. And Glaukos knew it within him, and was glad, for that the great god speedily heard his prayer."[^il16-glaukos]
+
+### Defending Troy's Wall / Killing Patroklos (Book XVI)
+
+Apollo drives Patroklos back from Troy's wall three times: "Thrice clomb Patroklos on the corner of the lofty wall, and thrice did Apollo force him back and smote the shining shield with his immortal hands." On the fourth attempt, Apollo warns him: "Give back, Patroklos of the seed of Zeus! Not beneath thy spear is it fated that the city of the valiant Trojans shall fall, nay nor beneath Achilles, a man far better than thou."[^il16-wall]
+
+Apollo then appears to Hector disguised as Asios (Hekabe's brother), urging him against Patroklos: "turn against Patroklos thy strong-hooved horses, if perchance thou mayst slay him, and Apollo give thee glory."[^il16-asios]
+
+In the final encounter, Apollo attacks Patroklos from behind, hidden in mist: "Phoebus met thee in the strong battle, in dreadful wise... hidden in thick mist did he meet him, and stood behind him, and smote his back and broad shoulders with a down-stroke of his hand, and his eyes were dazed." He then strips Patroklos of all his armour — helmet, spear, shield, and corslet — leaving him defenceless: "the prince Apollo, son of Zeus, loosed his corslet, and blindness seized his heart."[^il16-kills] Patroklos acknowledges this with his dying words: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying."[^il16-dying]
+
+Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing him with ambrosia and sending him "to be wafted by fleet convoy, the twin brethren Sleep and Death."[^il16-sarpedon-body]
+
+[^il16-glaukos]: "Phoebus Apollo heard him. Straightway he made his pains to cease, and in the grievous wound stanched the black blood, and put courage into his heart. And Glaukos knew it within him, and was glad, for that the great god speedily heard his prayer" (Iliad XVI.9768-9771, trans. Lang, Leaf, and Myers)
+[^il16-wall]: "Thrice clomb Patroklos on the corner of the lofty wall, and thrice did Apollo force him back and smote the shining shield with his immortal hands. But when for the fourth time he came on like a god, then cried far-darting Apollo terribly, and spake winged words: 'Give back, Patroklos of the seed of Zeus! Not beneath thy spear is it fated that the city of the valiant Trojans shall fall, nay nor beneath Achilles, a man far better than thou'" (Iliad XVI.9858-9865)
+[^il16-asios]: "Phoebus Apollo stood by him in the guise of a young man and a strong, Asios, who was the mother's brother of horse-taming Hector, being own brother of Hekabe, and son of Dymas, who dwelt in Phrygia... In his guise spake Apollo, son of Zeus, to Hector: 'Hector, wherefore dost thou cease from fight?... turn against Patroklos thy strong-hooved horses, if perchance thou mayst slay him, and Apollo give thee glory'" (Iliad XVI.9871-9879)
+[^il16-kills]: "Phoebus met thee in the strong battle, in dreadful wise. And Patroklos was not ware of him coming through the press, for hidden in thick mist did he meet him, and stood behind him, and smote his back and broad shoulders with a down-stroke of his hand, and his eyes were dazed. And from his head Phoebus Apollo smote the helmet... And all the long-shadowed spear was shattered in the hands of Patroklos... while from his shoulders the tasselled shield with the baldric fell to the ground. And the prince Apollo, son of Zeus, loosed his corslet, and blindness seized his heart and his shining limbs were unstrung" (Iliad XVI.9935-9947)
+[^il16-dying]: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying" (Iliad XVI.9988)
+[^il16-sarpedon-body]: "He went down the hills of Ida to the dread battle din, and straightway bore goodly Sarpedon out of the darts, and carried him far away and bathed him in the streams of the river, and anointed him with ambrosia, and clad him in garments that wax not old, and sent him to be wafted by fleet convoy, the twin brethren Sleep and Death, that swiftly set him down in the rich land of wide Lykia" (Iliad XVI.9839-9845)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
@@ -125,3 +146,6 @@ In [Iliad](../sources/iliad.md) Book XI, Diomedes hurls his spear at Hector's he
 - **[Iliad](../sources/iliad.md)** XI: His helm ("the threefold helm with its socket, that Phoebus Apollo to Hector gave") saves Hector from Diomedes' spear
 - **[Iliad](../sources/iliad.md)** XII: After the war, turns nine rivers against the Achaian wall for nine days to destroy it (with [Poseidon](poseidon.md))
 - **[Iliad](../sources/iliad.md)** XV: Sent by Zeus to revive Hector ("Phoebus Apollo of the golden sword... breathed great might into the shepherd of the host"); holds the aegis ("dread, circled with a shaggy fringe, and gleaming, that Hephaistos the smith gave to Zeus"); destroys the Achaian wall "as when a boy scatters the sand beside the sea"; protects Polydamas from Meges; gave Teukros his bow; Zeus breaks Teukros's bowstring to protect Hector
+- **[Iliad](../sources/iliad.md)** XVI: Heals Glaukos's wound; thrice drives Patroklos from Troy's wall ("Not beneath thy spear is it fated"); disguised as Asios urges Hector; kills Patroklos from behind in mist (strips helmet, spear, shield, corslet); bears Sarpedon's body home, anoints with ambrosia, sends via Sleep and Death
+- **[Iliad](../sources/iliad.md)** XVII: Disguised as Mentes (chief of the Kikones) urges Hector; disguised as Periphas (herald) urges Aineias; sends terror on the Achaians
+- **[Iliad](../sources/iliad.md)** XX: Disguised as Lykaon urges Aineias; notes Aphrodite is higher than Thetis; warns Hector not to face Achilles; saves Hector again in thick mist

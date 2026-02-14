@@ -60,3 +60,5 @@ This is the first explicit reference to the Cerberus labour in any source proces
 - **[Iliad](../sources/iliad.md)** VIII: Fetching Cerberus from Hades recalled by Athena; Athena was his protector during Eurystheus's tasks
 - **[Iliad](../sources/iliad.md)** XI: Oppressed Pylos in "the former years" — "all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished" (Nestor's recollection)
 - **[Iliad](../sources/iliad.md)** XIV: Blown to Kos by Hera's storm winds after sacking Troy; Zeus's rage when he woke (recalled by Sleep)
+- **[Iliad](../sources/iliad.md)** XVIII: Achilles invokes him: "not even the mighty Herakles escaped death, albeit most dear to Kronian Zeus the king, but Fate overcame him and Hera's cruel wrath"
+- **[Iliad](../sources/iliad.md)** XIX: Agamemnon's Ate speech tells of his birth — Zeus swore that day's child of his lineage would rule; Hera delayed Alkmene and hastened Eurystheus's birth; Zeus groaned "when he beheld his beloved son in cruel travail at Eurystheus' hest"

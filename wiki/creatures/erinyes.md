@@ -32,8 +32,23 @@ The description "Erinnys that walketh in darkness, whose heart knoweth not ruth"
 [^il9-phoenix]: "he was sore angered with me... and called the dire Erinyes to look that never should any dear son sprung of my body sit upon my knees: and the gods fulfilled his curse, even Zeus of the underworld and dread Persephone" (Iliad IX.5338-5341, trans. Lang, Leaf, and Myers)
 [^il9-althaia]: "she, grieved for her brethren's death, prayed instantly to the gods, and with her hands likewise beat instantly upon the fertile earth, calling on Hades and dread Persephone, while she knelt upon her knees and made her bosom wet with tears, to bring her son to death; and Erinnys that walketh in darkness, whose heart knoweth not ruth, heard her from Erebos" (Iliad IX.5429-5434)
 
+### Triple Role (Book XIX)
+
+In [Iliad](../sources/iliad.md) Book XIX, the Erinyes appear in three distinct roles:
+
+1. **As agents of madness**: Agamemnon blames "[Zeus](../deities/zeus.md) and Destiny and Erinys that walketh in the darkness, who put into my soul fierce madness on the day when in the assembly I, even I, bereft Achilles of his meed."[^il19-madness]
+
+2. **As oath-enforcers**: In his oath, Agamemnon invokes "[Zeus](../deities/zeus.md)... and Earth, and Sun, and Erinyes, who under earth take vengeance upon men, whosoever forsweareth himself."[^il19-oath]
+
+3. **As guardians of natural order**: When Achilles' horse Xanthos prophesies his death (given speech by [Hera](../deities/hera.md)), "the Erinyes stayed his voice" — enforcing the boundary between animal and human speech.[^il19-voice]
+
+[^il19-madness]: "Zeus and Destiny and Erinys that walketh in the darkness, who put into my soul fierce madness on the day when in the assembly I, even I, bereft Achilles of his meed. What could I do? it is God who accomplisheth all" (Iliad XIX.10997-11000, trans. Lang, Leaf, and Myers)
+[^il19-oath]: "Be Zeus before all witness, highest and best of the gods, and Earth, and Sun, and Erinyes, who under earth take vengeance upon men, whosoever forsweareth himself" (Iliad XIX.11140-11142)
+[^il19-voice]: "Now when he had thus spoken the Erinyes stayed his voice" (Iliad XIX.11280)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 185: Born from Uranus's blood
 - **[Iliad](../sources/iliad.md)** IX: Fulfil Phoenix's father's curse (with "Zeus of the underworld and dread Persephone"); "Erinnys that walketh in darkness, whose heart knoweth not ruth" answers Althaia's prayer against Meleager
 - **[Iliad](../sources/iliad.md)** XV: Iris invokes the Erinyes as a cosmic principle: "the Erinyes do always follow to aid the elder-born" — persuading Poseidon to yield to Zeus as the elder brother
+- **[Iliad](../sources/iliad.md)** XIX: Agamemnon blames "Erinys that walketh in the darkness" for his madness; in his oath he invokes "Erinyes, who under earth take vengeance upon men, whosoever forsweareth himself"; the Erinyes stop the horse Xanthos from speaking further after he prophesies Achilles' death

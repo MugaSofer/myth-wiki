@@ -15,7 +15,7 @@
 ## Epithets & Description
 
 - **"swift Iris"** / **"swift-footed Iris"** — her defining attribute ([Theogony](../sources/theogony.md) 266, 780)
-- **"golden-winged Iris"** — used in the [Hymn to Demeter](../sources/homeric-hymns.md) (314)[^desc-golden]
+- **"golden-winged Iris"** — used in the [Hymn to Demeter](../sources/homeric-hymns.md) (314)[^desc-golden] and in the Iliad[^il11-hector]
 
 She is consistently associated with speed: she "sped with swift feet across the space between" when delivering [Zeus](zeus.md)'s message.[^desc-swift]
 
@@ -59,7 +59,7 @@ Here Iris is called "whirlwind-footed" and "fleet-footed" — variant epithets t
 
 ### Tactical Instructions to Hector (Book XI)
 
-In [Iliad](../sources/iliad.md) Book XI, [Zeus](zeus.md) sends "Iris of the golden wings" — a new epithet — to Hector with precise battle instructions. "Wind-footed swift Iris" delivers the message faithfully: hold back while Agamemnon rages, then Zeus "will give thee strength to slay."[^il11-hector]
+In [Iliad](../sources/iliad.md) Book XI, [Zeus](zeus.md) sends "Iris of the golden wings" to Hector with precise battle instructions. "Wind-footed swift Iris" delivers the message faithfully: hold back while Agamemnon rages, then Zeus "will give thee strength to slay."[^il11-hector]
 
 [^il11-hector]: "Then sent he forth Iris of the golden wings, to bear his word: 'Up and go, swift Iris, and tell this word unto Hector'... So spake he, and wind-footed swift Iris disobeyed him not, but she went down from the hills of Ida to sacred Ilios" (Iliad XI.6332-6343, trans. Lang, Leaf, and Myers)
 
@@ -73,3 +73,4 @@ In [Iliad](../sources/iliad.md) Book XI, [Zeus](zeus.md) sends "Iris of the gold
 - **[Iliad](../sources/iliad.md)** VIII: "Whirlwind-footed"; stops Hera and Athena at heaven's gates with Zeus's threats; calls Athena "reckless vixen"
 - **[Iliad](../sources/iliad.md)** XI: "Iris of the golden wings" (new epithet); carries Zeus's tactical instructions to Hector from Ida
 - **[Iliad](../sources/iliad.md)** XV: Carries Zeus's command to Poseidon to withdraw; when Poseidon protests, she counsels prudence: "the Erinyes do always follow to aid the elder-born"; Poseidon yields
+- **[Iliad](../sources/iliad.md)** XVIII: Sent secretly by Hera ("unknown of Zeus and the other gods, for Hera sent her") to rouse Achilles to save Patroklos's body; "wind-footed fleet Iris"
