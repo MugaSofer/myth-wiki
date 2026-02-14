@@ -30,6 +30,10 @@
 
 **"Surpassing all in beauty"** — the only physical comparison among the gods, from Hymn XII: "Queen of the immortals is she, surpassing all in beauty."[^desc-beauty]
 
+The most detailed divine toilette in the sources appears in [Iliad](../sources/iliad.md) Book XIV, when Hera adorns herself to seduce [Zeus](zeus.md). She anoints with olive oil "ambrosial, soft, and of a sweet savour," combs and plaits "her shining tresses, fair and ambrosial, flowing from her immortal head," dons a robe [Athena](athena.md) wrought for her, clasps of gold, "a girdle arrayed with a hundred tassels," earrings "of three drops, and glistering, therefrom shone grace abundantly," a veil "bright as the sun," and golden sandals.[^il14-adorn] (See [The Deception of Zeus](#the-deception-of-zeus-book-xiv) below for the full episode.)
+
+Hera's physical power is also conveyed through action: she "stirred her upon her throne and made high [Olympus](../places/olympus.md) quake."[^il8-stopped]
+
 [^desc-beauty]: "Queen of the immortals is she, surpassing all in beauty: she is the sister and the wife of loud-thundering Zeus,—the glorious one whom all the blessed throughout high Olympus reverence and honour even as Zeus who delights in thunder" (Homeric Hymn XII to Hera 2-5)
 
 ## Children

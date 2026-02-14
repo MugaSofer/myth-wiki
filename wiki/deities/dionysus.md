@@ -13,7 +13,7 @@
 
 **Dionysus** is a son of [Zeus](zeus.md) and the mortal woman Semele, notable as a case of a mortal-born deity.
 
-## Epithets & Description
+## Epithets
 
 - **"joyous Dionysus"** — ([Theogony](../sources/theogony.md) 941)
 - **"golden-haired Dionysus"** — (Theogony 947)[^desc-golden]
@@ -21,11 +21,14 @@
 - **"the Insewn"** / **"Heaven-born"** — (Hymn I 2)[^desc-insewn]
 - **"Inspirer of frenzied women"** — (Hymn I, title)
 
-In the pirates' story, he appeared "seeming like a stripling in the first flush of manhood: his rich, dark hair was waving about him, and on his strong shoulders he wore a purple robe."[^desc-stripling] When they tried to bind him, "the bonds would not hold him, and the withes fell far away from his hands and feet: and he sat with a smile in his dark eyes."[^desc-smile]
-
 [^desc-golden]: "golden-haired Dionysus made brown-haired Ariadne, the daughter of Minos, his buxom wife" (Theogony 947-948, trans. H.G. Evelyn-White)
 [^desc-loud]: "I am loud-crying Dionysus whom Cadmus' daughter Semele bare of union with Zeus" (Homeric Hymn VII to Dionysus 56-57)
 [^desc-insewn]: "some say, at Dracanum; and some, on windy Icarus; and some, in Naxos, O Heaven-born, Insewn" (Homeric Hymn I to Dionysus 1-2)
+
+## Appearance
+
+In the pirates' story, he appeared "seeming like a stripling in the first flush of manhood: his rich, dark hair was waving about him, and on his strong shoulders he wore a purple robe."[^desc-stripling] When they tried to bind him, "the bonds would not hold him, and the withes fell far away from his hands and feet: and he sat with a smile in his dark eyes."[^desc-smile]
+
 [^desc-stripling]: "he seemed like a stripling in the first flush of manhood: his rich, dark hair was waving about him, and on his strong shoulders he wore a purple robe" (Homeric Hymn VII to Dionysus 3-5)
 [^desc-smile]: "the bonds would not hold him, and the withes fell far away from his hands and feet: and he sat with a smile in his dark eyes" (Homeric Hymn VII to Dionysus 12-15)
 

@@ -12,16 +12,19 @@
 
 **Selene** is the goddess of the moon, daughter of [Hyperion](hyperion.md) and [Theia](theia.md), sister of [Helius](helius.md) and [Eos](eos.md).
 
-## Epithets & Description
+## Epithets
 
 - **"clear Selene"** — ([Theogony](../sources/theogony.md) 371)
 - **"bright Selene"** — (Hymn XXXII 8)
 - **"rich-tressed Selene"** — (Hymn XXXI 4)
 - **"white-armed goddess, bright Selene, mild, bright-tressed queen"** — the closing salutation (Hymn XXXII 17)[^desc-queen]
 
+[^desc-queen]: "Hail, white-armed goddess, bright Selene, mild, bright-tressed queen!" (Homeric Hymn XXXII to Selene 17-18, trans. H.G. Evelyn-White)
+
+## Appearance
+
 [Homeric Hymn XXXII](../sources/homeric-hymns.md) gives a luminous physical description: "From her immortal head a radiance is shown from heaven and embraces earth; and great is the beauty that ariseth from her shining light. The air, unlit before, glows with the light of her golden crown." She drives "long-maned horses at full speed" after "having bathed her lovely body in the waters of Ocean."[^desc-appearance]
 
-[^desc-queen]: "Hail, white-armed goddess, bright Selene, mild, bright-tressed queen!" (Homeric Hymn XXXII to Selene 17-18, trans. H.G. Evelyn-White)
 [^desc-appearance]: "From her immortal head a radiance is shown from heaven and embraces earth; and great is the beauty that ariseth from her shining light. The air, unlit before, glows with the light of her golden crown, and her rays beam clear, whensoever bright Selene having bathed her lovely body in the waters of Ocean, and donned her far-gleaming, shining team, drives on her long-maned horses at full speed" (Homeric Hymn XXXII to Selene 1-10)
 
 ## Birth

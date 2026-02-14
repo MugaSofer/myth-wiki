@@ -13,7 +13,7 @@
 
 [^theog-honour]: "Zeus the son of Cronos honoured above all. He gave her splendid gifts, to have a share of the earth and the unfruitful sea. She received honour also in starry heaven" (Theogony 411-414, trans. H.G. Evelyn-White)
 
-## Epithets & Description
+## Epithets
 
 Hecate is consistently called "bright-coiffed" (Hymn to Demeter 25, 438) and "tender-hearted" (Hymn to Demeter 24). The Theogony calls her "the glorious goddess" (Theogony 441). She is associated with torches — in the Hymn to Demeter she carries "a torch in her hands" when she meets [Demeter](demeter.md) (52) and "flaming torches" as they go together to [Helius](helius.md) (61).
 

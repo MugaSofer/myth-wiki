@@ -13,20 +13,23 @@
 
 **Hades** is a son of [Cronos](cronos.md) and [Rhea](rhea.md), ruler of the dead.
 
-## Epithets & Description
+## Epithets
 
 - **"strong Hades, pitiless in heart"** — the [Theogony](../sources/theogony.md)'s description (455-456)[^theog-desc]
 - **"the Host of Many"** / **"the Ruler of Many"** — his most common titles in the Hymn to Demeter (17, 84)[^desc-host]
 - **"Aidoneus"** — his formal name (Theogony 913; Hymn to Demeter 2, etc.)
 - **"He who has many names"** — (Hymn to Demeter 18)[^desc-manynames]
 
+[^theog-desc]: "strong Hades, pitiless in heart, who dwells under the earth" (Theogony 455-456, trans. H.G. Evelyn-White)
+[^desc-host]: "Aidoneus, the Ruler of Many, is no unfitting husband among the deathless gods for your child" (Homeric Hymn to Demeter 83-84)
+[^desc-manynames]: "the lord, Host of Many, with his immortal horses sprang out upon her—the Son of Cronos, He who has many names" (Homeric Hymn to Demeter 17-18)
+
+## Appearance
+
 He rides a **golden car** drawn by **immortal horses** (Hymn to Demeter 19).[^desc-car] His dwelling is described as "echoing halls... of the god of the lower-world" — a **golden house** (Hymn to Demeter 365).[^desc-golden]
 
 When ordered to release [Persephone](persephone.md), he "smiled grimly" — a memorable physical detail.[^desc-smile]
 
-[^theog-desc]: "strong Hades, pitiless in heart, who dwells under the earth" (Theogony 455-456, trans. H.G. Evelyn-White)
-[^desc-host]: "Aidoneus, the Ruler of Many, is no unfitting husband among the deathless gods for your child" (Homeric Hymn to Demeter 83-84)
-[^desc-manynames]: "the lord, Host of Many, with his immortal horses sprang out upon her—the Son of Cronos, He who has many names" (Homeric Hymn to Demeter 17-18)
 [^desc-car]: "He caught her up reluctant on his golden car and bare her away lamenting" (Homeric Hymn to Demeter 19)
 [^desc-golden]: "the strong Slayer of Argos drew near and said: 'Dark-haired Hades, ruler over the departed'" (Homeric Hymn to Demeter 346-347)
 [^desc-smile]: "Aidoneus, ruler over the dead, smiled grimly and obeyed the behest of Zeus the king" (Homeric Hymn to Demeter 357-358)

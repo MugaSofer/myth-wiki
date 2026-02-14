@@ -13,7 +13,7 @@
 
 **Persephone** is the daughter of [Zeus](zeus.md) and [Demeter](demeter.md), and queen of the underworld alongside [Hades](hades.md).
 
-## Epithets & Description
+## Epithets
 
 - **"white-armed Persephone"** — ([Theogony](../sources/theogony.md) 913)[^desc-whitearm]
 - **"awful Persephone"** — her underworld title (Theogony 768)[^desc-awful]
@@ -21,13 +21,16 @@
 - **"trim-ankled daughter of [Demeter](demeter.md)"** — (Hymn to Demeter 77)[^desc-trim]
 - **"fair-faced daughter"** — [Demeter](demeter.md)'s term for her (Hymn to Demeter 332)[^desc-fairface]
 
-She is depicted among flowers before the abduction: "gathering flowers over a soft meadow, roses and crocuses and beautiful violets, irises also and hyacinths."[^desc-flowers]
-
 [^desc-whitearm]: "she bare white-armed Persephone" (Theogony 913, trans. H.G. Evelyn-White)
 [^desc-awful]: "the echoing halls of the god of the lower-world, strong Hades, and of awful Persephone" (Theogony 767-768)
 [^desc-bloom]: "Earth made to grow... the narcissus... to be a snare for the bloom-like girl" (Homeric Hymn to Demeter 8-11)
 [^desc-trim]: "None other of the deathless gods is to blame, but only cloud-gathering Zeus who gave her, your trim-ankled daughter" (Homeric Hymn to Demeter 77-78)
 [^desc-fairface]: "she vowed that she would never set foot on fragrant Olympus... until she beheld with her eyes her own fair-faced daughter" (Homeric Hymn to Demeter 331-333)
+
+## Appearance
+
+She is depicted among flowers before the abduction: "gathering flowers over a soft meadow, roses and crocuses and beautiful violets, irises also and hyacinths."[^desc-flowers]
+
 [^desc-flowers]: "she was playing with the deep-bosomed daughters of Oceanus and gathering flowers over a soft meadow, roses and crocuses and beautiful violets, irises also and hyacinths" (Homeric Hymn to Demeter 5-8)
 
 ## Mythology

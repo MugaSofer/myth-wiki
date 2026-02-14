@@ -14,11 +14,13 @@
 
 **Helius** (the Sun) is a son of the [Titans](titans.md) [Hyperion](hyperion.md) and [Theia](theia.md).
 
-## Epithets & Description
+## Epithets
 
 - **"great Helius"** — ([Theogony](../sources/theogony.md) 371)
 - **"unwearying Helios"** / **"tireless Helios"** — (Theogony 956; Hymn XXXI 4)
 - **"Hyperion's bright son"** — (Hymn to Demeter 26)
+
+## Appearance
 
 [Homeric Hymn XXXI](../sources/homeric-hymns.md) provides the most vivid physical description of any celestial deity: "As he rides in his chariot, he shines upon men and deathless gods, and piercingly he gazes with his eyes from his golden helmet. Bright rays beam dazzlingly from him, and his bright locks streaming from the temples of his head gracefully enclose his far-seen face: a rich, fine-spun garment glows upon his body and flutters in the wind: and stallions carry him."[^desc-appearance]
 

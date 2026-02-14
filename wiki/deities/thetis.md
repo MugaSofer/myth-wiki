@@ -12,7 +12,7 @@
 
 **Thetis** is a sea goddess, daughter of [Nereus](nereus.md), and mother of Achilles. She is one of the Nereids listed in the [Theogony](../sources/theogony.md).
 
-## Epithets & Description
+## Epithets
 
 - **"silver-footed Thetis"** / **"Thetis of the silver feet"** — her constant epithet in the Iliad[^il1-silver]
 - **"daughter of the Ancient of the sea"** — identifying her father [Nereus](nereus.md)[^il1-ancient]

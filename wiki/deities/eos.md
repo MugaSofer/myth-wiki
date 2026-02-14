@@ -15,7 +15,7 @@
 
 **Eos** (Dawn) is a daughter of the [Titans](titans.md) [Hyperion](hyperion.md) and [Theia](theia.md), who "shines upon all that are on earth and upon the deathless Gods who live in the wide heaven."[^theog-birth]
 
-## Epithets & Description
+## Epithets
 
 - **"golden-throned Eos"** — (Hymn V 218)[^desc-throne]
 - **"queenly Eos"** — (Hymn V 223)

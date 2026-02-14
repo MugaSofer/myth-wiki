@@ -24,7 +24,7 @@ When [Cronos](cronos.md) cut off [Uranus](uranus.md)'s members and cast them int
 [^theog-birth]: "they were swept away over the main a long time: and a white foam spread around them from the immortal flesh, and in it there grew a maiden" (Theogony 189-192)
 [^theog-landing]: "she came to sea-girt Cyprus, and came forth an awful and lovely goddess, and grass grew up about her beneath her shapely feet" (Theogony 192-194)
 
-## Epithets & Names
+## Epithets
 
 Her names are etymologized in the text:[^theog-names]
 - **Aphrodite** — "because she grew amid the foam" (Greek *aphros* = foam)
@@ -45,11 +45,13 @@ At her birth, [Eros](eros.md) and "comely Desire" accompanied her: "with her wen
 [^theog-domain]: "This honour she has from the beginning, and this is the portion allotted to her amongst men and undying gods,--the whisperings of maidens and smiles and deceits with sweet delight and love and graciousness" (Theogony 201-206)
 [^theog-eros]: "with her went Eros, and comely Desire followed her at her birth at the first and as she went into the assembly of the gods" (Theogony 201-202)
 
-## Description
+## Appearance
 
 She is described as "an awful and lovely goddess," and "grass grew up about her beneath her shapely feet."[^theog-desc]
 
 Additional epithets include **"violet-crowned Cytherea"** and **"sweetly-winning, coy-eyed goddess"** (Hymn VI 18, 19).[^desc-violet]
+
+In the [Iliad](../sources/iliad.md), when Aphrodite disguises herself as an old woman, Helen sees through it by recognising "the fair neck and lovely breast and sparkling eyes of the goddess."[^il3-disguise] Her raiment is described as "ambrosial" and woven by the [Graces](graces.md) themselves.[^il5-wound]
 
 ### Appearance to Anchises (Hymn V)
 

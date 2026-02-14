@@ -30,6 +30,14 @@ In the Hymn to Hermes, when his infant son denies stealing cattle, "Zeus laughed
 
 [^desc-laugh]: "Zeus laughed out loud to see his evil-plotting child well and cunningly denying guilt about the cattle" (Homeric Hymn IV to Hermes 389-390, trans. H.G. Evelyn-White)
 
+## Appearance
+
+Zeus is rarely described physically, known more through his effects than his form. The most vivid image comes from the nod that seals his oaths: "Kronion spake, and bowed his dark brow, and the ambrosial locks waved from the king's immortal head; and he made great [Olympus](../places/olympus.md) quake."[^il1-nod]
+
+When he seduces [Hera](hera.md) on Mount Ida, he wraps them both in concealment: "a fair golden cloud, whence fell drops of glittering dew."[^il14-earth]
+
+His instruments are described as extensions of himself: the golden scales with which he weighs fates,[^il8-scales] and the thunderbolt, with which he descends "from heaven" to sit on Ida.[^il11-iris]
+
 ## Domains & Powers
 
 Zeus holds "the lightning and glowing thunderbolt," having "overcome by might his father [Cronos](cronos.md)," after which "he distributed fairly to the immortals their portions and declared their privileges."[^theog-rule] The thunderbolt was given to him by the [Cyclopes](../creatures/cyclopes.md).[^theog-cyclopes]

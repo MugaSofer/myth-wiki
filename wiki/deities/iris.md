@@ -12,7 +12,7 @@
 
 **Iris** is a swift messenger goddess, daughter of Thaumas and the Oceanid Electra, and sister of the [Harpies](../creatures/harpies.md).
 
-## Epithets & Description
+## Epithets
 
 - **"swift Iris"** / **"swift-footed Iris"** — her defining attribute ([Theogony](../sources/theogony.md) 266, 780)
 - **"golden-winged Iris"** — used in the [Hymn to Demeter](../sources/homeric-hymns.md) (314)[^desc-golden] and in the Iliad[^il11-hector]

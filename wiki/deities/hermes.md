@@ -13,7 +13,7 @@
 
 **Hermes** is a son of [Zeus](zeus.md) and Maia, serving as the herald of the gods.
 
-## Epithets & Description
+## Epithets
 
 - **"the Slayer of Argus"** / **"the strong Slayer of Argus"** — the most frequent epithet (Hymn to Demeter 335; Hymn IV passim)
 - **"the Cyllenian"** — from his birthplace on Mount Cyllene (Hymn IV 387)
@@ -22,13 +22,26 @@
 - **"bearer of the golden wand"** — (Hymn IV 529; Hymn V 117)[^desc-wand]
 - **"of many shifts, blandly cunning, a robber, a cattle driver, a bringer of dreams, a watcher by night, a thief at the gates"** — the remarkable string of epithets at his birth (Hymn IV 13-15)[^desc-shifts]
 
-He carries "the wand of gold" and [Apollo](apollo.md) gave him "his shining whip" when they exchanged gifts.[^desc-exchange]
-
 [^desc-luck]: "I sing of Cyllenian Hermes, the Slayer of Argus, lord of Cyllene and Arcadia rich in flocks, luck-bringing messenger of the deathless gods" (Homeric Hymn XVIII to Hermes 1-3, trans. H.G. Evelyn-White)
 [^desc-keen]: "Ares and the keen-eyed Slayer of Argus" (Homeric Hymn III to Apollo 201)
 [^desc-wand]: "he sent the Slayer of Argus whose wand is of gold to Erebus" (Homeric Hymn to Demeter 335)
 [^desc-shifts]: "she bare a son, of many shifts, blandly cunning, a robber, a cattle driver, a bringer of dreams, a watcher by night, a thief at the gates" (Homeric Hymn IV to Hermes 13-15)
+
+## Appearance
+
+Hermes carries two signature items: "the wand of gold" and [Apollo](apollo.md)'s "shining whip," exchanged when they reconciled.[^desc-exchange]
+
+In [Iliad](../sources/iliad.md) Book XXIV, his equipment is described in detail when [Zeus](zeus.md) sends him to guide Priam: he binds on golden sandals "that bare him over wet sea and over the boundless land swift as the blast of the wind" and takes up his wand "wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep."[^il24-equip] He disguises himself as "a young man, a prince, with the first down on his lip, as when the youth of men is the comeliest."[^il24-disguise]
+
 [^desc-exchange]: "Phoebus Apollo took it, and readily put his shining whip in Hermes' hand, and ordained him keeper of herds" (Homeric Hymn IV to Hermes 497-498)
+[^il24-equip]: "Forthwith then he bound beneath his feet his fair sandals, golden, divine, that bare him over wet sea and over the boundless land swift as the blast of the wind. And he took up his wand wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep" (Iliad XXIV.14064-14069, trans. Lang, Leaf, and Myers)
+[^il24-disguise]: "he made him like a young man, a prince, with the first down on his lip, as when the youth of men is the comeliest" (Iliad XXIV.14073-14074)
+
+## Powers
+
+Hermes's wand can both induce and break sleep — he uses it to put the Greek sentinels to sleep so Priam can pass.[^il24-equip] He is the appointed "messenger to [Hades](hades.md),"[^hh4-domains] guide between the worlds of living and dead.
+
+On the very day of his birth he invented fire ("it was Hermes who first invented fire-sticks and fire"), crafted the lyre from a tortoise shell, and stole fifty of [Apollo](apollo.md)'s divine cattle.[^hh4-theft] [Zeus](zeus.md) describes him through laughter — "Zeus laughed out loud to see his evil-plotting child well and cunningly denying guilt."[^hh4-zeus]
 
 ## Birth
 
