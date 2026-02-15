@@ -299,6 +299,27 @@ Zeus also pities the immortal horses of Achilles as they weep for Patroklos: "Ah
 [^il17-hector-armour]: "Ah, hapless man, no thought is in thy heart of death that yet draweth nigh unto thee; thou doest on thee the divine armour of a peerless man before whom the rest have terror. His comrade, gentle and brave, thou hast slain, and unmeetly hast stripped the armour from his head and shoulders; yet now for a while at least I will give into thy hands great might, in recompense for this, even that nowise shalt thou come home out of the battle, for Andromache to receive from thee Peleides' glorious arms" (Iliad XVII.10109-10116, trans. Lang, Leaf, and Myers)
 [^il17-horses]: "Ah, hapless pair, why gave we you to king Peleus, a mortal man, while ye are deathless and ever young? Was it that ye should suffer sorrows among ill-fated men? For methinketh there is nothing more piteous than a man among all things that breathe and creep upon the earth" (Iliad XVII.10276-10280)
 
+## In the Bibliotheca (1.6.1-1.6.3)
+
+The [Bibliotheca](../sources/apollodorus.md) adds substantial new detail to Zeus's role in the [Gigantomachy](../creatures/giants.md) and the [Typhon](../creatures/typhoeus.md) battle.
+
+### The Gigantomachy
+
+When [Gaia](gaia.md) sought an herb to protect the [Giants](../creatures/giants.md) from mortals, Zeus "forbade the Dawn and the Moon and the Sun to shine, and then, before anybody else could get it, he culled the simple himself."[^apd-zeus-herb] He smote Porphyrion with a [thunderbolt](../objects/thunderbolt.md) after inspiring him with lust for [Hera](hera.md), and "the other giants Zeus smote and destroyed with thunderbolts."[^apd-zeus-giants]
+
+### The Battle with Typhon
+
+Zeus attacked [Typhoeus](../creatures/typhoeus.md) with thunderbolts at a distance, then struck with "an adamantine sickle" at close range. But at Mount Casius, Typhon "twined about him and gripped him in his coils, and wresting the sickle from him severed the sinews of his hands and feet" and imprisoned him in the Corycian cave.[^apd-zeus-sinews]
+
+> **NEW DETAIL:** Zeus's temporary defeat — sinews severed, imprisoned in a cave — is entirely absent from the [Theogony](../sources/theogony.md), where Zeus wins decisively.
+
+[Hermes](hermes.md) and Aegipan stole the sinews and restored them. Zeus then pursued Typhon in "a chariot of winged horses" until finally casting Mount Etna upon him in Sicily.[^apd-zeus-etna]
+
+[^apd-zeus-herb]: "Zeus forbade the Dawn and the Moon and the Sun to shine, and then, before anybody else could get it, he culled the simple himself, and by means of Athena summoned Hercules to his help." (Bibliotheca 1.6.1, trans. Frazer)
+[^apd-zeus-giants]: "The other giants Zeus smote and destroyed with thunderbolts and all of them Hercules shot with arrows as they were dying." (Bibliotheca 1.6.2, trans. Frazer)
+[^apd-zeus-sinews]: "Typhon twined about him and gripped him in his coils, and wresting the sickle from him severed the sinews of his hands and feet, and lifting him on his shoulders carried him through the sea to Cilicia and deposited him on arrival in the Corycian cave." (Bibliotheca 1.6.3, trans. Frazer)
+[^apd-zeus-etna]: "when he started to flee through the Sicilian sea, Zeus cast Mount Etna in Sicily upon him." (Bibliotheca 1.6.3, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 4-96, 141, 389-401, 453-506, 617-735, 820-885, 886-944: Pervasive throughout
@@ -332,6 +353,21 @@ Zeus also pities the immortal horses of Achilles as they weep for Patroklos: "Ah
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Plans the Trojan War with Themis to depopulate the earth;[^cyp-zeus-plan] pursues Nemesis to beget Helen (she flees in various forms);[^cyp-nemesis] swears Thetis shall marry a mortal;[^cyp-thetis-mortal] gives Castor and Polydeuces immortality every other day[^cyp-dioscuri]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Gave Laomedon a golden vine (wrought by Hephaestus) as price for Ganymedes[^liliad-vine]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Eos obtains immortality from Zeus for her son Memnon[^aeth-memnon-immortal]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.5-1.3.6: Birth in cave of Dicte; Metis gives Cronos emetic; wages ten-year war; Three Lots divide cosmos; establishes Styx oath; consorts and children — Hera (Hebe, Eileithyia, Ares), Themis (Seasons, Fates), Dione (Aphrodite), Eurynome (Graces), Styx (Persephone — variant), Mnemosyne (Muses), Metis (Athena); swallows Metis; Athena born from his head
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.1-1.6.3: Forbade Dawn/Moon/Sun to shine to cull the herb; smote Porphyrion with thunderbolt; destroyed remaining Giants with thunderbolts; battled Typhon — defeated at Mt. Casius, sinews stolen, recovered via Hermes and Aegipan, pursued Typhon in chariot of winged horses, cast Mt. Etna upon him
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.2: Flooded Greece to destroy the men of the Bronze Age — "Zeus by pouring heavy rain from heaven flooded the greater part of Greece, so that all men were destroyed, except a few who fled to the high mountains"; sent [Hermes](hermes.md) to Deucalion afterwards and "allowed him to choose what he would"[^apd-flood]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Turned Alcyone and Ceyx into birds for their pride — "he said that his wife was [Hera](hera.md), and she said that her husband was Zeus. But Zeus turned them into birds"[^apd-alcyone]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.5: Allowed Endymion to choose his fate — "Zeus allowed him to choose what he would, and he chose to sleep for ever, remaining deathless and ageless"[^apd-endymion]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.9: Arbitrated between [Apollo](apollo.md) and Idas over Marpessa — "Zeus parted them and allowed the maiden herself to choose which of the two she would marry"[^apd-marpessa]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.7: Struck Salmoneus with a thunderbolt — "Zeus struck him with a thunderbolt, and wiped out the city he had founded with all its inhabitants"[^apd-salmoneus]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.24: Sent a storm against the Argonauts for the murder of Apsyrtus — "Zeus sent a furious storm upon them, and drove them out of their course, because he was angry at the murder of Apsyrtus"[^apd-storm]
+
+[^apd-flood]: "Zeus by pouring heavy rain from heaven flooded the greater part of Greece, so that all men were destroyed, except a few who fled to the high mountains in the neighborhood" (Bibliotheca 1.7.2, trans. Frazer)
+[^apd-alcyone]: "he said that his wife was Hera, and she said that her husband was Zeus. But Zeus turned them into birds; her he made a kingfisher and him a gannet" (Bibliotheca 1.7.4, trans. Frazer)
+[^apd-endymion]: "Zeus allowed him to choose what he would, and he chose to sleep for ever, remaining deathless and ageless" (Bibliotheca 1.7.5, trans. Frazer)
+[^apd-marpessa]: "Zeus parted them and allowed the maiden herself to choose which of the two she would marry; and she, because she feared that Apollo might desert her in her old age, chose Idas for her husband" (Bibliotheca 1.7.9, trans. Frazer)
+[^apd-salmoneus]: "Zeus struck him with a thunderbolt, and wiped out the city he had founded with all its inhabitants" (Bibliotheca 1.9.7, trans. Frazer)
+[^apd-storm]: "Zeus sent a furious storm upon them, and drove them out of their course, because he was angry at the murder of Apsyrtus" (Bibliotheca 1.9.24, trans. Frazer)
 
 [^od12-bolt]: "Zeus thundered and cast his bolt upon the ship, and she reeled all over being stricken by the bolt of Zeus, and was filled with sulphur" (Odyssey XII.6936-6938, trans. Butcher and Lang)
 [^od12-father]: "the father of gods and of men suffered me no more to behold Scylla" (Odyssey XII.6964, trans. Butcher and Lang)

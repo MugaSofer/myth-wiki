@@ -130,3 +130,8 @@ According to the [Telegony](../sources/epic-cycle.md) (attributed to Eugammon), 
 - **[Odyssey](../sources/odyssey.md)** X: Major role — island of Aia; enchanted beasts; transformation of crew into swine; Hermes gives Odysseus moly; recognises Odysseus; restores the men; a year of feasting; instructions for the Nekuia and the geography of the underworld
 - **[Odyssey](../sources/odyssey.md)** XII: Returns after the Nekuia; greets the crew as "men overbold"; delivers prophecies about the Sirens, Scylla, Charybdis, and the cattle of [Helius](helius.md); sends a favouring wind
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Makes Telemachus, Penelope, and Telegonus immortal; variant tradition of marriage to Telemachus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.1: Sister of Aeetes and Pasiphae; daughter of [Helius](helius.md) and Perseis[^apd-sister]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.24: Purified the Argonauts of the murder of Apsyrtus at Aeaea — "they skirted Tyrrhenia and came to Aeaea, where they supplicated Circe and were purified"[^apd-purify]
+
+[^apd-sister]: "Aeetes, son of the Sun and of Perseis, and brother of Circe and Pasiphae" (Bibliotheca 1.9.1, trans. Frazer)
+[^apd-purify]: "they skirted Tyrrhenia and came to Aeaea, where they supplicated Circe and were purified" (Bibliotheca 1.9.24, trans. Frazer)

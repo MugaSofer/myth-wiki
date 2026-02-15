@@ -21,3 +21,4 @@
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 510-516: Birth; struck down by Zeus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.3: Son of Iapetus and Asia; "Zeus in the battle with the Titans smote [him] with a thunderbolt and hurled [him] down to Tartarus"

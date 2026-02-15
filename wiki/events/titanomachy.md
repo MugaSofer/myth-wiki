@@ -59,6 +59,28 @@ The Titans were "buried beneath the wide-pathed earth, and bound in bitter chain
 [^theog-tartarus]: "and buried them beneath the wide-pathed earth, and bound them in bitter chains when they had conquered them by their strength for all their great spirit, as far beneath the earth to Tartarus. For a brazen anvil falling down from heaven nine nights and days would reach the earth upon the tenth: and again, a brazen anvil falling from earth nine nights and days would reach Tartarus upon the tenth." (Theogony 717-725)
 [^theog-warders]: "There Gyes and Cottus and great-souled Obriareus live, trusty warders of Zeus who holds the aegis." (Theogony 734-735)
 
+## In the Bibliotheca
+
+Apollodorus provides a more compressed account of the [Titanomachy](../events/titanomachy.md) that adds several details to the Theogony.
+
+### Metis and the Emetic
+
+[Zeus](../deities/zeus.md), "when full-grown," enlisted Metis, "daughter of Ocean," to help him. She "gave Cronus a drug to swallow, which forced him to disgorge first the stone and then the children whom he had swallowed."[^apd-titan-emetic] The Theogony credits Zeus himself with making Cronos disgorge; Apollodorus introduces Metis as the agent.
+
+### The Ten-Year War and Campe
+
+"They fought for ten years," and [Gaia](../deities/gaia.md) "prophesied victory to Zeus if he should have as allies those who had been hurled down to Tartarus."[^apd-titan-war] Zeus then "slew their jailoress Campe, and loosed their bonds."[^apd-titan-campe] The jailoress Campe is unique to Apollodorus among the sources processed so far.
+
+### The Three Lots
+
+After the victory, "they themselves cast lots for the sovereignty, and to [Zeus](../deities/zeus.md) was allotted the dominion of the sky, to [Poseidon](../deities/poseidon.md) the dominion of the sea, and to [Hades](../deities/hades.md) the dominion in Hades."[^apd-titan-lots] The Theogony does not describe a division by lot; it simply states Zeus's supremacy.
+
+[^apd-titan-emetic]: "he took Metis, daughter of Ocean, to help him, and she gave Cronus a drug to swallow, which forced him to disgorge first the stone and then the children whom he had swallowed" (Bibliotheca 1.2.1, trans. Frazer)
+[^apd-titan-war]: "They fought for ten years, and Earth prophesied victory to Zeus if he should have as allies those who had been hurled down to Tartarus" (Bibliotheca 1.2.1, trans. Frazer)
+[^apd-titan-campe]: "So he slew their jailoress Campe, and loosed their bonds" (Bibliotheca 1.2.1, trans. Frazer)
+[^apd-titan-lots]: "they themselves cast lots for the sovereignty, and to Zeus was allotted the dominion of the sky, to Poseidon the dominion of the sea, and to Pluto the dominion in Hades" (Bibliotheca 1.2.1, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 617-735: Full account
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.1: Metis gives Cronos emetic; ten-year war; jailoress Campe slain; Cyclopes arm the gods; Three Lots divide the cosmos

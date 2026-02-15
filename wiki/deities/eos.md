@@ -57,12 +57,25 @@ In [Odyssey](../sources/odyssey.md) Book XV, another instance of Dawn's pattern 
 
 [^od15-cleitus]: "the golden-throned Dawn snatched away Cleitus for his very beauty's sake, that he might dwell with the Immortals" (Odyssey XV.8212-8213, trans. Butcher and Lang)
 
+## In the Bibliotheca (1.4.4)
+
+### Aphrodite's Curse and Orion
+
+The [Bibliotheca](../sources/apollodorus.md) provides an explanation for Eos's pattern of falling in love with mortal men: "[Eos] fell in love with Orion and carried him off and brought him to Delos; for [Aphrodite](aphrodite.md) caused [Eos] to be perpetually in love, because she had bedded with [Ares](ares.md)."[^apd-eos-curse]
+
+> **NEW DETAIL:** This is the only source in our corpus that explains *why* Eos keeps falling in love with mortals. The [Odyssey](../sources/odyssey.md) V and [Homeric Hymn V](../sources/homeric-hymns.md) mention her abductions of Orion and Tithonus but give no reason. The Bibliotheca traces it to Aphrodite's jealousy over Eos's affair with Ares.
+
+[^apd-eos-curse]: "Dawn fell in love with Orion and carried him off and brought him to Delos; for Aphrodite caused Dawn to be perpetually in love, because she had bedded with Ares" (Bibliotheca 1.4.4, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 19, 371-382, 984-991: Named in invocation; birth; children (winds and stars); sons Memnon and Emathion
 - **[Homeric Hymn V](../sources/homeric-hymns.md)** 218-238: Eos and Tithonus — immortality without eternal youth
 - **[Odyssey](../sources/odyssey.md)** V: "Rosy-fingered Dawn took Orion for her lover" — Calypso cites as divine jealousy; Artemis slew him; also "the Dawn arose from her couch, from the side of the lordly Tithonus" (formulaic)
 - **[Odyssey](../sources/odyssey.md)** XV: "the golden-throned Dawn snatched away Cleitus for his very beauty's sake, that he might dwell with the Immortals" — another instance of Dawn snatching beautiful mortals (cf. Tithonus, Orion)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.4: Fell in love with Orion and carried him to Delos; [Aphrodite](aphrodite.md) cursed her with perpetual love because she had bedded with [Ares](ares.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.2: Born of [Hyperion](hyperion.md) and [Theia](theia.md) (as "Dawn")
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.4: With Astraeus bore the winds and stars
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Her son Memnon arrives wearing armour made by Hephaestus, is killed by Achilles; "Eos then obtains of Zeus and bestows upon her son immortality"[^aeth-eos]
 
 [^aeth-eos]: Aethiopis, summary by Proclus: "Memnon, the son of Eos, wearing armour made by Hephaestus, comes to help the Trojans... Eos then obtains of Zeus and bestows upon her son immortality"

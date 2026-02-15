@@ -170,6 +170,29 @@ Poseidon is also moved by family grief: "Poseidon wroth at heart, when his son's
 [^il13-brothers]: "the two mighty sons of Kronos, with contending will, were contriving sorrow and anguish for the heroes. Zeus desired victory for the Trojans and Hector, giving glory to swift-footed Achilles; yet he did not wish the Achaian host to perish utterly before Ilios... But Poseidon went among the Argives and stirred them to war, stealing secretly forth from the grey salt sea... Verily both were of the same lineage and the same place of birth, but Zeus was the elder and the wiser. Therefore also Poseidon avoided to give open aid" (Iliad XIII.7737-7747)
 [^il13-grandson]: "Then verily was Poseidon wroth at heart, when his son's son fell in the terrible fray" (Iliad XIII.7601)
 
+## In the Bibliotheca (1.4.3-1.4.5, 1.6.2)
+
+### Orion (1.4.3-1.4.4)
+
+The [Bibliotheca](../sources/apollodorus.md) names Poseidon as Orion's father: "Pherecydes says that he was a son of Poseidon and Euryale. Poseidon bestowed on him the power of striding across the sea."[^apd-pos-orion]
+
+When Orion sought vengeance on Oenopion for blinding him, "for him Poseidon had made ready a house under the earth constructed by [Hephaestus](hephaestus.md)," hiding Oenopion from his wrath.[^apd-pos-house]
+
+### Marriage to Amphitrite (1.4.5)
+
+"Poseidon wedded Amphitrite, daughter of Ocean, and there were born to him Triton and Rhode, who was married to the Sun."[^apd-pos-amphitrite]
+
+> **NOTE:** The [Theogony](../sources/theogony.md) also names Amphitrite as mother of Triton (930-933) but does not mention Rhode. The Bibliotheca adds Rhode and specifies Amphitrite as a daughter of [Oceanus](oceanus.md) rather than [Nereus](nereus.md).
+
+### Chasing Polybotes in the Gigantomachy (1.6.2)
+
+During the battle with the [Giants](../creatures/giants.md), "Polybotes was chased through the sea by Poseidon and came to Cos; and Poseidon, breaking off that piece of the island which is called Nisyrum, threw it on him."[^apd-pos-polybotes]
+
+[^apd-pos-orion]: "Pherecydes says that he was a son of Poseidon and Euryale. Poseidon bestowed on him the power of striding across the sea" (Bibliotheca 1.4.3, trans. Frazer)
+[^apd-pos-house]: "for him Poseidon had made ready a house under the earth constructed by Hephaestus" (Bibliotheca 1.4.4, trans. Frazer)
+[^apd-pos-amphitrite]: "Poseidon wedded Amphitrite, daughter of Ocean, and there were born to him Triton and Rhode, who was married to the Sun" (Bibliotheca 1.4.5, trans. Frazer)
+[^apd-pos-polybotes]: "Polybotes was chased through the sea by Poseidon and came to Cos; and Poseidon, breaking off that piece of the island which is called Nisyrum, threw it on him" (Bibliotheca 1.6.2, trans. Frazer)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** XIII: Complains to Zeus about the Phaeacians; turns their returning ship to stone ("smote her into a stone, and rooted her far below"); Alcinous recognises ancient oracle; twelve bulls sacrificed to appease him
@@ -193,3 +216,10 @@ Poseidon is also moved by family grief: "Poseidon wroth at heart, when his son's
 - **[Iliad](../sources/iliad.md)** XX: Cosmic earthquake — "from beneath Poseidon made the vast earth shake"; Hades terrified his realm will be exposed; saves Aineias (despite being pro-Greek) and prophesies his dynasty: "the might of Aineias [shall] reign among the Trojans, and his children's children"; Dardanos loved by Zeus above all mortal sons
 - **[Iliad](../sources/iliad.md)** XXI: Saves Achilles from the River (with Athena, in likeness of men); challenges Apollo — expanded Laomedon account: "I round their city built the Trojans a wall... and thou Phoebus, didst herd shambling crook-horned kine among the spurs of woody many-folded Ida"; Laomedon cheated them of their hire
 - **[Iliad](../sources/iliad.md)** XXIV: Opposes returning Hector's body (with Hera and Athena) — still angry about the Judgment of Paris
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.3-1.4.4: Father of Orion (by Euryale, per Pherecydes); gave Orion power of striding across the sea; hid Oenopion in underground house built by [Hephaestus](hephaestus.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.5: Married Amphitrite, daughter of [Oceanus](oceanus.md); fathered Triton and Rhode
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Chased the giant Polybotes through the sea; broke off part of Cos (Nisyrum) and threw it on him
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.5, 1.2.1: Swallowed by Cronos; Cyclopes bestow a trident on him; allotted dominion of the sea by lot
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Father of the Aloads (Otus and Ephialtes) by Iphimedia; gave Idas a winged chariot
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.8: Disguised as the river Enipeus, lay with Tyro; she bore twins Pelias and Neleus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.9: Gave Periclymenus (son of Neleus) the power of changing his shape

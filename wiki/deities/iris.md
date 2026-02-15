@@ -76,3 +76,4 @@ In [Iliad](../sources/iliad.md) Book XI, [Zeus](zeus.md) sends "Iris of the gold
 - **[Iliad](../sources/iliad.md)** XVIII: Sent secretly by Hera ("unknown of Zeus and the other gods, for Hera sent her") to rouse Achilles to save Patroklos's body; "wind-footed fleet Iris"
 - **[Iliad](../sources/iliad.md)** XXIII: Carries Achilles' prayer to the Winds (North and West) to kindle Patroklos's pyre; mentions returning to "the streams of Ocean, to the Ethiopians' land where they sacrifice hecatombs to the immortal gods"
 - **[Iliad](../sources/iliad.md)** XXIV: Two missions — summons Thetis from the sea ("airy-footed Iris"; leaps into the sea "like a weight of lead"); delivers Zeus's message to Priam in Troy
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.6: "to Thaumas and Electra were born Iris and the Harpies, Aello and Ocypete" — confirms Theogonic parentage

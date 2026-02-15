@@ -45,3 +45,4 @@ The Horae (as "the rich-haired Hours") also play a role at [Aphrodite](aphrodite
 - **[Theogony](../sources/theogony.md)** 901-903: Birth and description
 - **[Works and Days](../sources/works-and-days.md)** 220-260: Dike (Justice) personified — sits by Zeus, dragged by the corrupt
 - **[Homeric Hymn VI](../sources/homeric-hymns.md)**: Adorn Aphrodite at her birth
+- **[Bibliotheca](../sources/apollodorus.md)** 1.3.1: Daughters of Zeus and Themis — Peace, Order, and Justice (confirms Theogony)

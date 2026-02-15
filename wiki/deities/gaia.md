@@ -50,3 +50,4 @@ She then "lay with Heaven" and bore:[^theog-titans]
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 116-166: Origin, offspring, plot against Uranus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.1-1.2.6: Weds Sky (Uranus); bears Hundred-Handers, Cyclopes, Titans; gives Cronos adamantine sickle; prophesies Zeus's victory in the Titanomachy; with Pontus (Sea) bears Phorcus, Thaumas, Nereus, Eurybia, Ceto

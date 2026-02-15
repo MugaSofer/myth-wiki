@@ -27,3 +27,4 @@ Listed among the children of [Gaia](gaia.md) and [Uranus](uranus.md): "she lay w
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 136, 404-452: Birth; union with Coeus and children
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.3, 1.2.2: Listed among the Titanides; with [Coeus](coeus.md) bore [Asteria](asteria.md) and Latona ([Leto](leto.md))

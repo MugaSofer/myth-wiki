@@ -67,9 +67,20 @@ A previous prophecy had foretold this: Polyphemus recalls the soothsayer Telemus
 [^od1-polyphemus]: "godlike Polyphemus whose power is mightiest amongst all the Cyclôpes. His mother was the nymph Thoösa, daughter of Phorcys, lord of the unharvested sea, and in the hollow caves she lay with Poseidon." (Odyssey I.794-797, trans. Butcher and Lang)
 [^od1-wrath]: "it is Poseidon, the girdler of the earth, that hath been wroth continually with quenchless anger for the Cyclops' sake whom he blinded of his eye" (Odyssey I.792-794, trans. Butcher and Lang)
 
+## In the Bibliotheca
+
+Apollodorus confirms the [Theogony](../sources/theogony.md)'s account of the Cyclopes' birth, imprisonment, and role: [Uranus](../deities/uranus.md) "bound and cast [them] into Tartarus."[^apd-cyc-prison] Their description is briefer than the Theogony's: "each had one eye on his forehead."[^apd-cyc-desc]
+
+In the [Titanomachy](../events/titanomachy.md), Apollodorus specifies the arms each god received from the Cyclopes — a detail more explicit than in the Theogony: "the Cyclopes then gave [Zeus](../deities/zeus.md) thunder and lightning and a thunderbolt, and on [Hades](../deities/hades.md) they bestowed a helmet and on [Poseidon](../deities/poseidon.md) a trident."[^apd-cyc-arms] While the Theogony mentions only the thunderbolt, Apollodorus attributes all three divine weapons to the Cyclopes' craft.
+
+[^apd-cyc-prison]: "them Sky bound and cast into Tartarus, a gloomy place in Hades as far distant from earth as earth is distant from the sky" (Bibliotheca 1.1.2, trans. Frazer)
+[^apd-cyc-desc]: "each had one eye on his forehead" (Bibliotheca 1.1.2, trans. Frazer)
+[^apd-cyc-arms]: "the Cyclopes then gave Zeus thunder and lightning and a thunderbolt, and on Pluto they bestowed a helmet and on Poseidon a trident" (Bibliotheca 1.2.1, trans. Frazer)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** I: Polyphemus named as "mightiest amongst all the Cyclôpes"; son of Poseidon and the nymph Thoösa; blinded by Odysseus
 - **[Odyssey](../sources/odyssey.md)** VII: Near of kin to the Phaeacians and the Giants; gods "appear manifest" to them
 - **[Odyssey](../sources/odyssey.md)** IX: Described as "a froward and a lawless folk" who plant nothing and have no laws; Polyphemus — "monstrous... like a wooded peak of the towering hills"; defies Zeus ("we are better men than they"); blinded by Odysseus; prays to Poseidon who hears him; soothsayer Telemus had foretold the blinding
 - **[Theogony](../sources/theogony.md)** 139-146: Birth, description, and role
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.2, 1.2.1: Imprisoned in Tartarus by Uranus; gave Zeus thunder/lightning/thunderbolt, Hades a helmet, Poseidon a trident

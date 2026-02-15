@@ -111,8 +111,51 @@ This echoes the [Theogony](../sources/theogony.md)'s account of the same union (
 
 [^od5-iasion]: "So too when fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field, Zeus was not long without tidings thereof, and cast at him with his white bolt and slew him" (Odyssey V.3098-3101, trans. Butcher and Lang)
 
+## In the Bibliotheca
+
+The [Bibliotheca](../sources/apollodorus.md) retells the search for [Persephone](persephone.md) with several variants from the [Homeric Hymn to Demeter](../sources/homeric-hymns.md).
+
+### The Search
+
+[Hades](hades.md) "fell in love with Persephone and with the help of [Zeus](zeus.md) carried her off secretly." Demeter searched "all over the earth with torches by night and day, and learning from the people of Hermion that Pluto had carried her off, she was wroth with the gods and quitted heaven."[^apd-dem-search]
+
+### At Eleusis
+
+Coming to Eleusis in the likeness of a woman, Demeter "first she sat down on the rock which has been named Laughless after her, beside what is called the Well of the Fair Dances." A crone named Iambe "joked the goddess and made her smile. For that reason they say that the women break jests at the Thesmophoria."[^apd-dem-iambe]
+
+> **VARIANT:** In the Homeric Hymn, the jesting figure is also named Iambe, but the connection to the Thesmophoria festival is made more explicit in the Bibliotheca.
+
+### Demophon
+
+Demeter received Metanira's child to nurse, "wishing to make it immortal she set the babe of nights on the fire and stripped off its mortal flesh." But Praxithea watched, "and discovering him buried in the fire she cried out; wherefore the babe was consumed by the fire and the goddess revealed herself."[^apd-dem-demophon]
+
+> **VARIANT:** In the Homeric Hymn, Metanira herself discovers the child and cries out, and the child Demophoon survives (merely losing his chance at immortality). In the Bibliotheca, the watcher is named Praxithea, and the child Demophon is *consumed by the fire* — a starkly different outcome.
+
+### Triptolemus
+
+"For Triptolemus, the elder of Metanira's children, she made a chariot of winged dragons, and gave him wheat, with which, wafted through the sky, he sowed the whole inhabited earth."[^apd-dem-triptolemus] The text notes variant parentages: "Panyasis affirms that Triptolemus was a son of Eleusis" and "Pherecydes, however, says that he was a son of Ocean and Earth."[^apd-dem-trip-variants]
+
+### The Pomegranate and Ascalaphus
+
+When [Zeus](zeus.md) ordered [Hades](hades.md) to return Persephone, "Pluto gave her a seed of a pomegranate to eat, in order that she might not tarry long with her mother." Ascalaphus, "son of Acheron and Gorgyra, bore witness against her," and "Demeter laid a heavy rock on him in Hades."[^apd-dem-ascalaphus]
+
+### Division of the Year
+
+"Persephone was compelled to remain a third of every year with Pluto and the rest of the time with the gods."[^apd-dem-division]
+
+> **NOTE:** Both the Bibliotheca and the Homeric Hymn agree on the one-third / two-thirds division. This contrasts with a common later tradition of the year split in half.
+
+[^apd-dem-search]: "Demeter went about seeking her all over the earth with torches by night and day, and learning from the people of Hermion that Pluto had carried her off, she was wroth with the gods and quitted heaven" (Bibliotheca 1.5.1, trans. Frazer)
+[^apd-dem-iambe]: "first she sat down on the rock which has been named Laughless after her, beside what is called the Well of the Fair Dances... a certain old crone, Iambe, joked the goddess and made her smile. For that reason they say that the women break jests at the Thesmophoria." (Bibliotheca 1.5.1, trans. Frazer)
+[^apd-dem-demophon]: "wishing to make it immortal she set the babe of nights on the fire and stripped off its mortal flesh. But as Demophon -- for that was the child's name -- grew marvelously by day, Praxithea watched, and discovering him buried in the fire she cried out; wherefore the babe was consumed by the fire and the goddess revealed herself." (Bibliotheca 1.5.1, trans. Frazer)
+[^apd-dem-triptolemus]: "for Triptolemus, the elder of Metanira's children, she made a chariot of winged dragons, and gave him wheat, with which, wafted through the sky, he sowed the whole inhabited earth." (Bibliotheca 1.5.2, trans. Frazer)
+[^apd-dem-trip-variants]: "Panyasis affirms that Triptolemus was a son of Eleusis, for he says that Demeter came to him. Pherecydes, however, says that he was a son of Ocean and Earth." (Bibliotheca 1.5.2, trans. Frazer)
+[^apd-dem-ascalaphus]: "because Ascalaphus, son of Acheron and Gorgyra, bore witness against her, Demeter laid a heavy rock on him in Hades." (Bibliotheca 1.5.3, trans. Frazer)
+[^apd-dem-division]: "Persephone was compelled to remain a third of every year with Pluto and the rest of the time with the gods." (Bibliotheca 1.5.3, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 454, 912-914, 969-974: Named among Cronos's children; bears Persephone; bears Plutus with Iasion
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Search for Persephone; famine; Eleusinian Mysteries
 - **[Odyssey](../sources/odyssey.md)** V: "Fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field" — Calypso cites as divine jealousy; Zeus slew Iasion with his thunderbolt
+- **[Bibliotheca](../sources/apollodorus.md)** 1.5.1-1.5.3: Search with torches; Laughless Rock and Well of Fair Dances at Eleusis; Iambe's jest and the Thesmophoria; Demophon consumed in the fire (variant: Praxithea watches, not Metanira); Triptolemus given winged dragon chariot to sow wheat; pomegranate; Ascalaphus bears witness; one-third year with Hades

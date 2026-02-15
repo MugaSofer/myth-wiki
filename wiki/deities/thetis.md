@@ -149,3 +149,8 @@ In the Returns, Thetis warned Neoptolemus (Achilles' son), who heeded her counse
 - **[Iliad](../sources/iliad.md)** XVIII: Laments among the Nereids; confirms Achilles' impending death; describes her forced marriage to Peleus; commissions armour from [Hephaestus](hephaestus.md) on Olympus
 - **[Iliad](../sources/iliad.md)** XXIII: "Thetis stirred among them desire of wailing" at Patroklos's funeral
 - **[Iliad](../sources/iliad.md)** XXIV: Summoned by Iris from the sea (wailing among the Nereids); goes to Olympus; Athena gives her place, Hera gives her a golden cup; Zeus sends her to bid Achilles accept ransom; "not long shalt thou be left alive to me"; Hera: "I myself bred up and reared [Thetis] and gave [her] to a man to be his wife, even to Peleus who was dearest of all men to the Immortals' heart"
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.7: Listed among the Nereids, daughters of [Nereus](nereus.md) and Doris
+- **[Bibliotheca](../sources/apollodorus.md)** 1.3.5: Saved [Hephaestus](hephaestus.md) after [Zeus](zeus.md) cast him from heaven and he fell on Lemnos
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Steered the Argo through the Wandering Rocks with the Nereids — "Thetis with the Nereids steered the ship through them at the summons of [Hera](hera.md)"[^apd-wandering]
+
+[^apd-wandering]: "Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)

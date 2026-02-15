@@ -39,7 +39,21 @@ This passage introduces the **variant name Aigaion** (used by mortals), and desc
 
 [^il1-briareus]: "having with speed summoned to high Olympus him of the hundred arms whom gods call Briareus, but all men call Aigaion; for he is mightier even than his father—so he sate him by Kronion's side rejoicing in his triumph, and the blessed gods feared him withal and bound not Zeus" (Iliad I.570-573, trans. Lang, Leaf, and Myers)
 
+## In the Bibliotheca
+
+Apollodorus confirms the Theogonic account and adds that the Hundred-Handers were "unsurpassed in size and might, each of them having a hundred hands and fifty heads."[^apd-hh-desc] He names them in a different order from Hesiod: Briareus, Gyes, Cottus (vs. Cottus, Briareos, Gyes in the Theogony).
+
+After the [Titans](../deities/titans.md) overthrew [Uranus](../deities/uranus.md), [Cronos](../deities/cronos.md) "again bound and shut them up in Tartarus."[^apd-hh-rebound] This double imprisonment — first by Uranus, then by Cronos — is stated more explicitly in Apollodorus than in the Theogony.
+
+In the [Titanomachy](../events/titanomachy.md), [Zeus](../deities/zeus.md) "slew their jailoress Campe, and loosed their bonds"[^apd-hh-campe] — the jailoress Campe is a detail not found in the Theogony. After the victory, the gods "appointed the Hundred-handers their guards" over the imprisoned Titans.[^apd-hh-guards]
+
+[^apd-hh-desc]: "he begat first the Hundred-handed, as they are named: Briareus, Gyes, Cottus, who were unsurpassed in size and might, each of them having a hundred hands and fifty heads" (Bibliotheca 1.1.1, trans. Frazer)
+[^apd-hh-rebound]: "he again bound and shut them up in Tartarus" (Bibliotheca 1.1.5, trans. Frazer)
+[^apd-hh-campe]: "he slew their jailoress Campe, and loosed their bonds" (Bibliotheca 1.2.1, trans. Frazer)
+[^apd-hh-guards]: "Armed with these weapons the gods overcame the Titans, shut them up in Tartarus, and appointed the Hundred-handers their guards" (Bibliotheca 1.2.1, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 147-158: Birth and description; imprisoned by Uranus
 - **[Iliad](../sources/iliad.md)** I: Briareus (called Aigaion by men) summoned by Thetis to protect Zeus; "mightier even than his father"
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.1, 1.1.5, 1.2.1: Named Briareus, Gyes, Cottus; imprisoned twice (by Uranus and again by Cronos); freed by Zeus who slew the jailoress Campe; appointed guards of the imprisoned Titans

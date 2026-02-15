@@ -52,6 +52,18 @@ Odysseus hears the Sirens' song bound to the mast while his crew, their ears sto
 
 [^od-passage]: Odysseus hears the Sirens bound to the mast; his crew rows with waxed ears; when he begs to be freed they bind him tighter; they pass safely (Odyssey XII.6688-6720, trans. Butcher and Lang)
 
+## Parentage (Bibliotheca)
+
+Apollodorus names the Sirens' parents: "Melpomene had by Achelous the Sirens."[^apd-sirens-parents] This gives them a specific genealogy not found in the [Odyssey](../sources/odyssey.md), where they are unnamed as to parentage. Their mother is Melpomene (the [Muse](../deities/muses.md) of tragedy), and their father is Achelous (the river god).
+
+[^apd-sirens-parents]: "Melpomene had by Achelous the Sirens" (Bibliotheca 1.3.4, trans. Frazer)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** XII: [Circe](../deities/circe.md)'s warning about the Sirens and their meadow of bones; instructions for safe passage (wax and the mast); the Sirens' song to Odysseus, appealing to his fame and claiming omniscience; Odysseus hears them bound to the mast and passes safely
+- **[Bibliotheca](../sources/apollodorus.md)** 1.3.4: Parentage — daughters of Melpomene and Achelous
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.10: Variant parentage — Sterope (daughter of Porthaon) "is said to have been the mother of the Sirens by Achelous"[^apd-sterope]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Orpheus countered their song — "Orpheus restrained the Argonauts by chanting a counter-melody. Butes alone swam off to the Sirens, but [Aphrodite](../deities/aphrodite.md) carried him away"[^apd-orpheus]
+
+[^apd-sterope]: "Sterope, who is said to have been the mother of the Sirens by Achelous" (Bibliotheca 1.7.10, trans. Frazer)
+[^apd-orpheus]: "Orpheus restrained the Argonauts by chanting a counter-melody. Butes alone swam off to the Sirens, but Aphrodite carried him away and settled him in Lilybaeum" (Bibliotheca 1.9.25, trans. Frazer)

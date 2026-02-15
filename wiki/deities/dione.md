@@ -43,6 +43,16 @@ Dione's role as Aphrodite's mother stands in contrast to the [Theogony](../sourc
 
 [^il5-zeus]: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet Ares and Athene look" (Iliad V.3003-3005, trans. Lang, Leaf, and Myers)
 
+## In the Bibliotheca
+
+Apollodorus lists Dione as one of the **Titanides**: "Tethys, Rhea, Themis, Mnemosyne, Phoebe, Dione, Thia."[^apd-dione-titanide] This is significant because the [Theogony](../sources/theogony.md) places Dione among the Oceanids (Theogony 353), not among the Titans. By making her a Titanide, Apollodorus elevates her to the same rank as [Rhea](rhea.md) and [Themis](themis.md).
+
+Consistently, Apollodorus names her as a consort of [Zeus](zeus.md): "by Dione he had [Aphrodite](aphrodite.md)."[^apd-dione-aphrodite]
+
+[^apd-dione-titanide]: "also daughters, the Titanides as they are called: Tethys, Rhea, Themis, Mnemosyne, Phoebe, Dione, Thia" (Bibliotheca 1.1.3, trans. Frazer)
+[^apd-dione-aphrodite]: "by Dione he had Aphrodite" (Bibliotheca 1.3.1, trans. Frazer)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** V: Mother of Aphrodite (variant tradition); comforts wounded Aphrodite; tells tales of gods harmed by mortals (Ares bound by Otos and Ephialtes; Hera and Hades wounded by Heracles)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.3, 1.3.1: Listed as a Titanide (elevated from Oceanid status); mother of Aphrodite by Zeus

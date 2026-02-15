@@ -91,6 +91,14 @@ In Achilles' account of Niobe, her children were slain for rivalling Leto: "Apol
 [^il24-niobe]: "Apollo slew the sons with arrows from his silver bow, being angered with Niobe, and shaft-showering Artemis slew the daughters" (Iliad XXIV.14189-14191)
 [^il24-matched]: Niobe matched herself against Leto (Iliad XXIV, trans. Lang, Leaf, and Myers)
 
+## In the Bibliotheca
+
+The [Bibliotheca](../sources/apollodorus.md) adds that "Latona for her intrigue with Zeus was hunted by [Hera](hera.md) over the whole earth, till she came to Delos and brought forth first [Artemis](artemis.md), by the help of whose midwifery she afterwards gave birth to [Apollo](apollo.md)."[^apd-leto]
+
+> **VARIANT:** In the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III), Hera's interference takes the form of keeping [Eileithyia](eileithyia.md) away from Delos; other goddesses ultimately fetch Eileithyia to assist the birth. In the Bibliotheca, Hera hunts Leto "over the whole earth," and Artemis herself — born first — serves as midwife for Apollo.
+
+[^apd-leto]: "Latona for her intrigue with Zeus was hunted by Hera over the whole earth, till she came to Delos and brought forth first Artemis, by the help of whose midwifery she afterwards gave birth to Apollo." (Bibliotheca 1.4.1, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 918-920: Sixth consort of Zeus; bore Apollo and Artemis
@@ -102,3 +110,5 @@ In Achilles' account of Niobe, her children were slain for rivalling Leto: "Apol
 - **[Iliad](../sources/iliad.md)** XX: Listed on the Trojan side in the Theomachy
 - **[Iliad](../sources/iliad.md)** XXI: Hermes declines to fight her; Hera beats Artemis
 - **[Iliad](../sources/iliad.md)** XXIV: The Niobe story — her children slain for rivalling Leto
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.2: Daughter of [Coeus](coeus.md) and [Phoebe](phoebe.md) (as "Latona")
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.1: Hunted by Hera over the whole earth; bore Artemis first on Delos, then Apollo

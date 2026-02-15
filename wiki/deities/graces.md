@@ -28,3 +28,4 @@ The **Graces** (Charites) are three goddesses of beauty and charm.
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 64, 907-911, 945-946: Mentioned near the Muses' homes; birth; Aglaea's marriage to Hephaestus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.3.1: "by Eurynome, daughter of Ocean, he had the Graces, to wit, Aglaia, Euphrosyne, and Thalia" — confirms Theogony

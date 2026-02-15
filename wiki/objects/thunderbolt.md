@@ -27,6 +27,12 @@ The thunderbolt underpins Zeus's absolute power. In the [Iliad](../sources/iliad
 
 Zeus used the thunderbolt to overcome [Typhoeus](../creatures/typhoeus.md), the last challenger to his rule: "he leaped from [Olympus](../places/olympus.md) and struck him."[^theog-854]
 
+The [Bibliotheca](../sources/apollodorus.md) gives an expanded account of the thunderbolt's role: "[Zeus](../deities/zeus.md) pelted Typhon at a distance with thunderbolts, and at close quarters struck him down with an adamantine sickle." After recovering his sinews, "Zeus suddenly from heaven, riding in a chariot of winged horses, pelted Typhon with thunderbolts and pursued him" through Nysa and Thrace. Finally, "when he started to flee through the Sicilian sea, Zeus cast Mount Etna in Sicily upon him."[^apd-bolt-typhon]
+
+> **NOTE:** The Bibliotheca's account is far more detailed than the Theogony's. The thunderbolts are used at range while the adamantine sickle serves for close combat — and the thunderbolts alone prove insufficient, as Typhon temporarily defeats Zeus and severs his sinews.
+
+[^apd-bolt-typhon]: "Zeus pelted Typhon at a distance with thunderbolts, and at close quarters struck him down with an adamantine sickle... Zeus suddenly from heaven, riding in a chariot of winged horses, pelted Typhon with thunderbolts" (Bibliotheca 1.6.3, trans. Frazer)
+
 ### Battlefield Interventions
 
 In the [Iliad](../sources/iliad.md), Zeus employs the thunderbolt repeatedly to shape the course of the Trojan War. He hurls lightning before Diomedes' horses to drive the Greeks back (Book VIII), and breaks Teukros's bowstring with a thunderbolt (Book XV). When [Hera](../deities/hera.md) and [Athena](../deities/athena.md) attempt to intervene in battle, he threatens them through [Iris](../deities/iris.md) with devastating force.[^il8-threats]
@@ -53,3 +59,6 @@ In the [Iliad](../sources/iliad.md), Zeus employs the thunderbolt repeatedly to 
 - **[Iliad](../sources/iliad.md)** XI: Zeus descends to Ida "with the thunderbolt in his hands"
 - **[Iliad](../sources/iliad.md)** XV: Breaks Teukros's bowstring
 - **[Homeric Hymn V](../sources/homeric-hymns.md)**: [Aphrodite](../deities/aphrodite.md) warns Anchises of Zeus's thunderbolt
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: [Zeus](../deities/zeus.md) "smote him with a thunderbolt" — struck Porphyrion in the [Gigantomachy](../creatures/giants.md); "the other giants Zeus smote and destroyed with thunderbolts"
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.3: Used at range against [Typhoeus](../creatures/typhoeus.md) — "pelted Typhon at a distance with thunderbolts"; proved insufficient alone (Typhon severed Zeus's sinews); used again from "a chariot of winged horses" in the final pursuit; mountains recoiled "through the force of the thunderbolt"
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.1: "the Cyclopes then gave Zeus thunder and lightning and a thunderbolt" — confirms Theogonic account

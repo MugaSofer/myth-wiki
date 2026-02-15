@@ -61,10 +61,35 @@ This represents a **variant tradition** from the [Theogony](../sources/theogony.
 [^wd-golden]: "First of all the deathless gods who dwell on Olympus made a golden race of mortal men who lived in the time of Cronos when he was reigning in heaven. And they lived like gods without sorrow of heart, remote and free from toil and grief" (Works and Days 109-113, trans. H.G. Evelyn-White)
 [^wd-blessed]: "they live untouched by sorrow in the islands of the blessed along the shore of deep swirling Ocean, happy heroes for whom the grain-giving earth bears honey-sweet fruit flourishing thrice a year, far from the deathless gods, and Cronos rules over them; for the father of men and gods released him from his bonds" (Works and Days 170-173)
 
+## In the Bibliotheca
+
+Apollodorus retells the castration and swallowing myths, with some notable differences from the Theogony.
+
+### The Castration of Uranus
+
+In Apollodorus, [Gaia](gaia.md) "gave Cronus an adamantine sickle" (the Theogony says "grey flint"). All the Titans attacked Uranus "all but [Oceanus](oceanus.md)," and Cronos "cut off his father's genitals and threw them into the sea."[^apd-cronos-castrate] The Theogony presents Cronos as acting alone in ambush; Apollodorus makes it a collective assault (with Oceanus as the sole abstainer).
+
+After dethroning Uranus, the Titans "brought up their brethren who had been hurled down to Tartarus, and committed the sovereignty to Cronus."[^apd-cronos-rule] But Cronos then "again bound and shut them up in Tartarus."[^apd-cronos-rebind]
+
+### Swallowing Order
+
+Apollodorus specifies the order of swallowing: "His firstborn Hestia he swallowed, then Demeter and Hera, and after them Pluto and Poseidon."[^apd-cronos-swallow] This matches the Theogony's birth order but makes the sequence explicit.
+
+### Chiron
+
+Apollodorus confirms the [Epic Cycle](../sources/epic-cycle.md) tradition: "to Cronus and Philyra was born Chiron, a centaur of double form."[^apd-cronos-chiron]
+
+[^apd-cronos-castrate]: "they, all but Ocean, attacked him, and Cronus cut off his father's genitals and threw them into the sea" (Bibliotheca 1.1.4, trans. Frazer)
+[^apd-cronos-rule]: "having dethroned their father, they brought up their brethren who had been hurled down to Tartarus, and committed the sovereignty to Cronus" (Bibliotheca 1.1.4, trans. Frazer)
+[^apd-cronos-rebind]: "he again bound and shut them up in Tartarus" (Bibliotheca 1.1.5, trans. Frazer)
+[^apd-cronos-swallow]: "His firstborn Hestia he swallowed, then Demeter and Hera, and after them Pluto and Poseidon" (Bibliotheca 1.1.5, trans. Frazer)
+[^apd-cronos-chiron]: "to Cronus and Philyra was born Chiron, a centaur of double form" (Bibliotheca 1.2.4, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 18, 137-138, 167-210, 453-491: Named among Titans; castrates Uranus; swallows his children; deceived by Rhea
 - **[Works and Days](../sources/works-and-days.md)** 109-113, 170-173: Rules during the Golden Age; released from bonds to rule the Islands of the Blessed
 - **[Epic Cycle](../sources/epic-cycle.md)** (War of the Titans): "Cronos took the shape of a horse and lay with Philyra, the daughter of Ocean. Through this cause Cheiron was born a centaur"[^titan-cheiron]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.4-1.2.4: Castrates Uranus with adamantine sickle (all Titans attack except Oceanus); re-imprisons Hundred-Handers and Cyclopes; swallows children in order (Hestia, Demeter, Hera, Hades, Poseidon); fathers Chiron by Philyra
 
 [^titan-cheiron]: "Cronos took the shape of a horse and lay with Philyra, the daughter of Ocean. Through this cause Cheiron was born a centaur: his wife was Chariclo" (War of the Titans, Fragment 6, trans. H.G. Evelyn-White)

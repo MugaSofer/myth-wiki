@@ -31,3 +31,4 @@ This differs from the [Theogony](../sources/theogony.md) in several ways: Atlas 
 
 - **[Odyssey](../sources/odyssey.md)** I: "The wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder"; father of Calypso
 - **[Theogony](../sources/theogony.md)** 509, 517-520, 746-749: Named among Iapetus's sons; holds up heaven; stationed at entrance to Tartarus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.3: "to Iapetus and Asia was born Atlas, who has the sky on his shoulders" — mother named as Asia (variant: Clymene in Theogony)

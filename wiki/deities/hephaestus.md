@@ -121,6 +121,36 @@ He then "made as though he would go to Lemnos, that stablished castle, and this 
 [^od8-lament]: "Aphrodite, daughter of Zeus, ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born. Howbeit, there is none to blame but my father and mother,—would they had never begotten me!" (Odyssey VIII.4446-4450)
 [^od8-release]: "laughter unquenchable arose among the blessed gods, as they beheld the sleight of cunning Hephaestus... Poseidon answered him, shaker of the earth: 'Hephaestus, even if Ares avoid the debt and flee away, I myself will pay thee all.' Then the famous god of the strong arms answered him: 'It may not be that I should say thee nay'" (Odyssey VIII.4463-4501)
 
+## In the Bibliotheca
+
+Apollodorus presents the birth traditions side by side: "[Hera](hera.md) gave birth to Hephaestus without intercourse with the other sex, but according to Homer he was one of her children by [Zeus](zeus.md)."[^apd-heph-birth]
+
+He gives a specific reason for Hephaestus being cast from heaven: [Zeus](zeus.md) cast him out "because he came to the rescue of [Hera](hera.md) in her bonds. For when [Heracles](../heroes/heracles.md) had taken Troy and was at sea, Hera sent a storm after him; so Zeus hung her from Olympus."[^apd-heph-cast] Hephaestus "fell on Lemnos and was lamed of his legs, but [Thetis](thetis.md) saved him."[^apd-heph-lemnos]
+
+This combines elements from multiple earlier traditions: the Iliad's account of Zeus hurling Hephaestus (I.755-758, where the fall is to Lemnos and the Sintian people tend him) and the Hymn to Apollo's account of Thetis rescuing him (III.316-321, where Hera casts him into the sea). Apollodorus merges them: Zeus does the casting, the fall is to Lemnos (as in the Iliad), but Thetis saves him (as in the Hymn).
+
+[^apd-heph-birth]: "Hera gave birth to Hephaestus without intercourse with the other sex, but according to Homer he was one of her children by Zeus" (Bibliotheca 1.3.5, trans. Frazer)
+[^apd-heph-cast]: "Him Zeus cast out of heaven, because he came to the rescue of Hera in her bonds. For when Hercules had taken Troy and was at sea, Hera sent a storm after him; so Zeus hung her from Olympus" (Bibliotheca 1.3.5, trans. Frazer)
+[^apd-heph-lemnos]: "Hephaestus fell on Lemnos and was lamed of his legs, but Thetis saved him" (Bibliotheca 1.3.5, trans. Frazer)
+
+## In the Bibliotheca (1.4.3-1.4.4, 1.6.2)
+
+### Orion's Visit to the Smithy (1.4.3)
+
+When Orion was blinded by Oenopion and cast on the beach, "he went to the smithy of Hephaestus, and snatching up a lad set him on his shoulders and bade him lead him to the sunrise."[^apd-heph-smithy]
+
+### The Underground House (1.4.4)
+
+[Poseidon](poseidon.md) protected Oenopion from Orion's vengeance by hiding him in "a house under the earth constructed by Hephaestus."[^apd-heph-house]
+
+### Slaying Mimas in the Gigantomachy (1.6.2)
+
+During the battle with the [Giants](../creatures/giants.md), "Mimas [was killed] by Hephaestus with missiles of red-hot metal."[^apd-heph-mimas]
+
+[^apd-heph-smithy]: "he went to the smithy of Hephaestus, and snatching up a lad set him on his shoulders and bade him lead him to the sunrise" (Bibliotheca 1.4.3, trans. Frazer)
+[^apd-heph-house]: "for him Poseidon had made ready a house under the earth constructed by Hephaestus" (Bibliotheca 1.4.4, trans. Frazer)
+[^apd-heph-mimas]: "Mimas by Hephaestus with missiles of red-hot metal" (Bibliotheca 1.6.2, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea
@@ -138,6 +168,17 @@ He then "made as though he would go to Lemnos, that stablished castle, and this 
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Fitted Peleus's spear with a head[^cyp-heph-spear]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Made Memnon's armour[^aeth-heph-armour]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Wrought the golden vine that Zeus gave to Laomedon as price for Ganymedes[^liliad-heph-vine]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.3: Orion went to his smithy after being blinded — "snatching up a lad set him on his shoulders and bade him lead him to the sunrise"
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.4: Constructed an underground house for Oenopion at [Poseidon](poseidon.md)'s request
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Killed the giant Mimas "with missiles of red-hot metal" in the [Gigantomachy](../creatures/giants.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.3.5-1.3.6: Born of Hera without father (Homer variant: by Zeus); cast from heaven by Zeus for rescuing Hera; fell on Lemnos, lamed, saved by Thetis; Prometheus or Hephaestus split Zeus's head for Athena's birth
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.1: Nailed [Prometheus](prometheus.md) to Mount Caucasus — "[Zeus](zeus.md) ordered Hephaestus to nail his body to Mount Caucasus"[^apd-prometheus]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: Made brazen-footed fire-breathing bulls, a gift to Aeetes — "two wild bulls that he had, of enormous size, a gift of Hephaestus; they had brazen feet and puffed fire from their mouths"[^apd-bulls]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.26: Talos the brazen man — "some say that he was given to Minos by Hephaestus; he was a brazen man"[^apd-talos]
+
+[^apd-prometheus]: "Zeus ordered Hephaestus to nail his body to Mount Caucasus" (Bibliotheca 1.7.1, trans. Frazer)
+[^apd-bulls]: "two wild bulls that he had, of enormous size, a gift of Hephaestus; they had brazen feet and puffed fire from their mouths" (Bibliotheca 1.9.23, trans. Frazer)
+[^apd-talos]: "he was given to Minos by Hephaestus; he was a brazen man, but some say that he was a bull" (Bibliotheca 1.9.26, trans. Frazer)
 
 [^od23-simile]: "as when some skilful man overlays gold upon silver, one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork" (Odyssey XXIII.12342-12344, trans. Butcher and Lang)
 [^od24-flame]: "when the flame of Hephaestus had utterly abolished thee" ... "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey XXIV.12624-12625, 12627-12629, trans. Butcher and Lang)

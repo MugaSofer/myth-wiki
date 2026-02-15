@@ -80,8 +80,35 @@ Persephone plays a major role in Book XI of the [Odyssey](../sources/odyssey.md)
 [^od11-catalogue]: "holy Persephone had scattered this way and that the spirits of the women folk" (Odyssey XI.6267, trans. Butcher and Lang)
 [^od11-gorgon]: "send me the head of the Gorgon, that dread monster, from out of Hades" (Odyssey XI.6515, trans. Butcher and Lang)
 
+## In the Bibliotheca (1.5.1-1.5.3)
+
+The [Bibliotheca](../sources/apollodorus.md) retells the abduction and return with some notable details.
+
+[Hades](hades.md) "fell in love with Persephone and with the help of [Zeus](zeus.md) carried her off secretly."[^apd-pers-abduct] When Zeus ordered her return, Hades "gave her a seed of a pomegranate to eat, in order that she might not tarry long with her mother. Not foreseeing the consequence, she swallowed it."[^apd-pers-pomegranate]
+
+Ascalaphus, "son of Acheron and Gorgyra, bore witness against her" — testifying that she had eaten in the underworld. [Demeter](demeter.md) punished him by laying "a heavy rock on him in Hades."[^apd-pers-ascalaphus]
+
+"Persephone was compelled to remain a third of every year with Pluto and the rest of the time with the gods."[^apd-pers-division]
+
+> **NOTE:** The one-third / two-thirds division matches the [Homeric Hymn to Demeter](../sources/homeric-hymns.md). The Bibliotheca adds the figure of Ascalaphus as witness and the detail that Persephone swallowed the pomegranate seed "not foreseeing the consequence."
+
+[^apd-pers-abduct]: "Pluto fell in love with Persephone and with the help of Zeus carried her off secretly." (Bibliotheca 1.5.1, trans. Frazer)
+[^apd-pers-pomegranate]: "Pluto gave her a seed of a pomegranate to eat, in order that she might not tarry long with her mother. Not foreseeing the consequence, she swallowed it" (Bibliotheca 1.5.3, trans. Frazer)
+[^apd-pers-ascalaphus]: "because Ascalaphus, son of Acheron and Gorgyra, bore witness against her, Demeter laid a heavy rock on him in Hades." (Bibliotheca 1.5.3, trans. Frazer)
+[^apd-pers-division]: "Persephone was compelled to remain a third of every year with Pluto and the rest of the time with the gods." (Bibliotheca 1.5.3, trans. Frazer)
+
+## Variant Traditions
+
+### Parentage: Zeus and Styx (Bibliotheca) vs Zeus and Demeter (Theogony)
+
+Apollodorus records a striking variant: "by [Styx](styx.md) he had Persephone."[^apd-persephone-styx] All other sources — the [Theogony](../sources/theogony.md), the [Homeric Hymn to Demeter](../sources/homeric-hymns.md), and the [Odyssey](../sources/odyssey.md) — name [Demeter](demeter.md) as Persephone's mother. Making Styx (an Oceanid associated with death and the underworld oath) the mother instead of Demeter (goddess of grain and fertility) would fundamentally alter Persephone's mythological significance, linking her to the underworld by birth rather than by abduction alone.
+
+[^apd-persephone-styx]: "by Styx he had Persephone" (Bibliotheca 1.3.1, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 768, 913-914: Named in the underworld; abducted by Hades
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Abduction; pomegranate; division of the year; queen of the underworld
 - **[Odyssey](../sources/odyssey.md)** X-XI: "Dread Persephone" in Circe's instructions; "Persephone hath given judgment" to Teiresias alone; "the daughter of Zeus, doth in no wise deceive thee" (Anticleia); "holy Persephone had scattered this way and that the spirits of the women folk" — sends forth the catalogue of heroines; Odysseus fears she may send the Gorgon's head
+- **[Bibliotheca](../sources/apollodorus.md)** 1.3.1: Daughter of [Zeus](zeus.md) and [Styx](styx.md) — variant from the standard tradition of Zeus and [Demeter](demeter.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.5.1-1.5.3: Carried off by Hades with Zeus's help; pomegranate seed; Ascalaphus bears witness; one-third year with Hades

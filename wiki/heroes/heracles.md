@@ -94,6 +94,28 @@ This is the first explicit reference to the Cerberus labour in any source proces
 
 [^il8-cerberus]: "Neither remembereth he at all those many times and oft that I saved his son fordone with Eurystheus' tasks. For he would make lament toward heaven, and me would Zeus speed forth from heaven to succour him. Had I but known all this in my prudent heart, what time Eurystheus sent him forth to the house of Hades the Warder of the Gate, to bring from Erebos the hound of loathed Hades, then had he not escaped the sheer stream of the water of Styx" (Iliad VIII.4757-4763, trans. Lang, Leaf, and Myers)
 
+## In the Bibliotheca (1.6.1-1.6.2)
+
+### The Gigantomachy
+
+The [Bibliotheca](../sources/apollodorus.md) gives Heracles a central role in the battle against the [Giants](../creatures/giants.md). An oracle declared that "none of the giants could perish at the hand of gods, but that with the help of a mortal they would be made an end of." [Zeus](../deities/zeus.md) "by means of [Athena](../deities/athena.md) summoned Hercules to his help."[^apd-herc-summon]
+
+Heracles first dealt with Alcyoneus, who was immortal so long as he fought in the land of his birth: "Hercules first shot Alcyoneus with an arrow, but when the giant fell on the ground he somewhat revived. However, at [Athena](../deities/athena.md)'s advice Hercules dragged him outside Pallene, and so the giant died."[^apd-herc-alcyoneus]
+
+In the battle's climactic moment, when Porphyrion attacked both Heracles and [Hera](../deities/hera.md), "[Zeus](../deities/zeus.md) smote him with a thunderbolt, and Hercules shot him dead with an arrow."[^apd-herc-porphyrion]
+
+[Apollo](../deities/apollo.md) and Heracles together killed Ephialtes: "Ephialtes was shot by Apollo with an arrow in his left eye and by Hercules in his right."[^apd-herc-ephialtes]
+
+After the individual combats, "all of them Hercules shot with arrows as they were dying."[^apd-herc-finish]
+
+> **NEW DETAIL:** The Gigantomachy is not described in the [Theogony](../sources/theogony.md), [Iliad](../sources/iliad.md), or [Odyssey](../sources/odyssey.md). The Bibliotheca provides the only detailed account in our corpus, and places Heracles at its centre — the mortal ally without whom the gods could not prevail.
+
+[^apd-herc-summon]: "the gods had an oracle that none of the giants could perish at the hand of gods, but that with the help of a mortal they would be made an end of... by means of Athena summoned Hercules to his help" (Bibliotheca 1.6.1, trans. Frazer)
+[^apd-herc-alcyoneus]: "Hercules first shot Alcyoneus with an arrow, but when the giant fell on the ground he somewhat revived. However, at Athena's advice Hercules dragged him outside Pallene, and so the giant died" (Bibliotheca 1.6.1, trans. Frazer)
+[^apd-herc-porphyrion]: "Zeus smote him with a thunderbolt, and Hercules shot him dead with an arrow" (Bibliotheca 1.6.2, trans. Frazer)
+[^apd-herc-ephialtes]: "Ephialtes was shot by Apollo with an arrow in his left eye and by Hercules in his right" (Bibliotheca 1.6.2, trans. Frazer)
+[^apd-herc-finish]: "all of them Hercules shot with arrows as they were dying" (Bibliotheca 1.6.2, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 289-292, 316-318, 332, 526-532, 943-944, 950-955: Slaying monsters; freeing Prometheus; birth; marriage to Hebe and apotheosis
@@ -106,3 +128,11 @@ This is the first explicit reference to the Cerberus labour in any source proces
 - **[Iliad](../sources/iliad.md)** XIV: Blown to Kos by Hera's storm winds after sacking Troy; Zeus's rage when he woke (recalled by Sleep)
 - **[Iliad](../sources/iliad.md)** XVIII: Achilles invokes him: "not even the mighty Herakles escaped death, albeit most dear to Kronian Zeus the king, but Fate overcame him and Hera's cruel wrath"
 - **[Iliad](../sources/iliad.md)** XIX: Agamemnon's Ate speech tells of his birth — Zeus swore that day's child of his lineage would rule; Hera delayed Alkmene and hastened Eurystheus's birth; Zeus groaned "when he beheld his beloved son in cruel travail at Eurystheus' hest"
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.1-1.6.2: Central role in the [Gigantomachy](../creatures/giants.md) — summoned by [Zeus](../deities/zeus.md) via [Athena](../deities/athena.md) as the mortal needed to defeat the Giants; shot Alcyoneus, dragged him outside Pallene; shot Porphyrion dead with [Zeus](../deities/zeus.md)'s thunderbolt; shot Ephialtes in the right eye (Apollo in the left); finished all dying giants with arrows
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Listed as an Argonaut — "Hercules, son of Zeus"[^apd-argonaut]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.19: Left behind at Mysia when Hylas was ravished by nymphs — "while the two were seeking for Hylas, the ship put to sea. So Polyphemus founded a city Cius in Mysia and reigned as king; but Hercules returned to Argos"[^apd-hylas]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Variant — "Hercules fought with Hades and brought her [Alcestis] up to him"[^apd-alcestis]
+
+[^apd-argonaut]: "Hercules, son of Zeus" (Bibliotheca 1.9.16, trans. Frazer)
+[^apd-hylas]: "Hylas, son of Thiodamas, a minion of Hercules, had been sent to draw water and was ravished away by nymphs on account of his beauty... while the two were seeking for Hylas, the ship put to sea... Hercules returned to Argos" (Bibliotheca 1.9.19, trans. Frazer)
+[^apd-alcestis]: "the Maiden sent her up again, or, as some say, Hercules fought with Hades and brought her up to him" (Bibliotheca 1.9.15, trans. Frazer)

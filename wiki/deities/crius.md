@@ -26,3 +26,4 @@ Listed among the children of [Gaia](gaia.md) and [Uranus](uranus.md): "she lay w
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 134, 375-377: Birth; children with Eurybia
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.3, 1.2.2: Listed among the Titans; with Eurybia "daughter of Sea (Pontus)" bore Astraeus, Pallas, and Perses

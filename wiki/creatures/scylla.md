@@ -54,3 +54,6 @@ On the second encounter, after the destruction of his ship by [Zeus](../deities/
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** XII: [Circe](../deities/circe.md)'s warning describing Scylla's form (twelve feet, six heads, three rows of teeth), her immortality, and her mother Crataiis; the paired threat of Charybdis ("thrice a day she sucks it down"); Scylla snatches six men (the fishing simile; "the most pitiful thing... mine eyes have seen"); Odysseus's return to Charybdis, clinging to the fig-tree "like a bat"
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: The Argo passed through the strait of Scylla and the Wandering Rocks — "[Thetis](../deities/thetis.md) with the Nereids steered the ship through them at the summons of [Hera](../deities/hera.md)"[^apd-argo]
+
+[^apd-argo]: "the ship encountered Charybdis and Scylla and the Wandering Rocks, above which a great flame and smoke were seen rising. But Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)

@@ -90,7 +90,23 @@ The first woman is here **named**: "he called this woman Pandora, because all th
 [^theog-menoetius]: "Menoetius was outrageous, and far-seeing Zeus struck him with a lurid thunderbolt and sent him down to Erebus because of his mad presumption and exceeding pride" (Theogony 514-516)
 [^theog-epimetheus]: "scatter-brained Epimetheus who from the first was a mischief to men who eat bread; for it was he who first took of Zeus the woman, the maiden whom he had formed" (Theogony 511-514)
 
+## In the Bibliotheca
+
+The [Bibliotheca](../sources/apollodorus.md) adds that Prometheus "moulded men out of water and earth" — making him humanity's creator, not merely their benefactor.[^apd-mould] He gave them fire "which, unknown to Zeus, he had hidden in a stalk of fennel," and [Zeus](zeus.md) ordered [Hephaestus](hephaestus.md) to nail him to Mount Caucasus in punishment.[^apd-fire] The account of his torment matches the Theogony: "Every day an eagle swooped on him and devoured the lobes of his liver, which grew by night."[^apd-eagle]
+
+**VARIANT from Theogony:** The Theogony describes Prometheus bound with chains and a shaft driven through his middle; the Bibliotheca specifies he was nailed to Caucasus by Hephaestus. The Bibliotheca also adds the detail that Prometheus created humans from water and earth, which is not stated in Hesiod.
+
+Prometheus's son was Deucalion, who "by the advice of Prometheus constructed a chest" and survived the great flood that [Zeus](zeus.md) sent to destroy the men of the Bronze Age.[^apd-flood]
+
+[^apd-mould]: "Prometheus moulded men out of water and earth" (Bibliotheca 1.7.1, trans. Frazer)
+[^apd-fire]: "gave them also fire, which, unknown to Zeus, he had hidden in a stalk of fennel. But when Zeus learned of it, he ordered Hephaestus to nail his body to Mount Caucasus" (Bibliotheca 1.7.1, trans. Frazer)
+[^apd-eagle]: "Every day an eagle swooped on him and devoured the lobes of his liver, which grew by night" (Bibliotheca 1.7.1, trans. Frazer)
+[^apd-flood]: "Deucalion by the advice of Prometheus constructed a chest, and having stored it with provisions he embarked in it with Pyrrha" (Bibliotheca 1.7.2, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 507-616: Full account of family, trick at Mecone, theft of fire, punishment and release
 - **[Works and Days](../sources/works-and-days.md)** 42-105: Retelling of fire theft; Zeus's speech; creation and naming of Pandora; the jar of evils
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.3: Son of Iapetus and Asia (variant: Clymene in Theogony)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.3.6: Named as one who split Zeus's head for Athena's birth (variant: Hephaestus)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.1-1.7.2: Moulded men from water and earth; fire in fennel stalk; nailed to Caucasus by Hephaestus; eagle and liver; son Deucalion and the flood

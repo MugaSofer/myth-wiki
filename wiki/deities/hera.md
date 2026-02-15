@@ -164,6 +164,20 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 - **[Iliad](../sources/iliad.md)** XXI: Calls Hephaistos to burn the River Xanthos; beats Artemis with her own bow ("smiling, beat her on the ears"); calls Aphrodite a "dogfly"; "against women Zeus made thee a lion" to Artemis
 - **[Iliad](../sources/iliad.md)** XXIV: Opposes returning Hector's body (with Poseidon and Athena) — still angry about the Judgment of Paris ("the sin of Alexandros in that he contemned those goddesses"); claims she raised Thetis: "Achilles is child of a goddess whom I myself bred up and reared and gave to a man to be his wife, even to Peleus who was dearest of all men to the Immortals' heart"
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Competes with Athena and Aphrodite in the Judgment of Paris (Paris chooses Aphrodite);[^cyp-judgment-hera] Thetis avoided Zeus's advances "to please Hera"[^cyp-thetis-hera]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.5, 1.3.1, 1.3.5: Swallowed by Cronos (third, after Hestia and Demeter); bears Hebe, Eileithyia, and Ares by Zeus; bore Hephaestus without father (Homer variant: by Zeus); hung from Olympus by Zeus, Hephaestus cast out for rescuing her
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Ephialtes (one of the Aloads) wooed Hera[^apd-ephialtes]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.2: Drove Athamas mad in her wrath, so that he shot Learchus with an arrow[^apd-athamas]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.8: Pelias "cut her down on the very altars" of Hera when killing Sidero, and "ever after he continued to treat Hera with contumely"[^apd-pelias]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Jason answered Pelias "instigated by the angry Hera in order that Medea should prove a curse to Pelias, who did not honor Hera"[^apd-hera-jason]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.22: Helped the Argonauts through the Clashing Rocks — "with hard rowing and the help of Hera, they passed through"[^apd-clashing]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Summoned [Thetis](thetis.md) and the Nereids to steer the Argo through the Wandering Rocks[^apd-wandering]
+
+[^apd-ephialtes]: "Ephialtes wooed Hera, and Otus wooed Artemis" (Bibliotheca 1.7.4, trans. Frazer)
+[^apd-athamas]: "afterwards Athamas was bereft also of the children of Ino through the wrath of Hera; for he went mad and shot Learchus with an arrow, and Ino cast herself and Melicertes into the sea" (Bibliotheca 1.9.2, trans. Frazer)
+[^apd-pelias]: "Pelias cut her down on the very altars, and ever after he continued to treat Hera with contumely" (Bibliotheca 1.9.8, trans. Frazer)
+[^apd-hera-jason]: "Jason answered, whether at haphazard or instigated by the angry Hera in order that Medea should prove a curse to Pelias, who did not honor Hera" (Bibliotheca 1.9.16, trans. Frazer)
+[^apd-clashing]: "with hard rowing and the help of Hera, they passed through, the extremity of the ship's ornamented poop being shorn away right round" (Bibliotheca 1.9.22, trans. Frazer)
+[^apd-wandering]: "Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)
 
 [^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason." (Odyssey XII.6597-6600, trans. Butcher and Lang)
 [^cyp-judgment-hera]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite"

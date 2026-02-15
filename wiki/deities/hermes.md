@@ -171,6 +171,33 @@ Hermes then departs: "Then Hermes departed toward high Olympus, up through the w
 [^od10-depart]: "Then Hermes departed toward high Olympus, up through the woodland isle" (Odyssey X.5618, trans. Butcher and Lang)
 [^od10-circe]: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither, on his way from Troy with his swift black ship." (Odyssey X.5645-5647, trans. Butcher and Lang)
 
+## In the Bibliotheca
+
+The [Bibliotheca](../sources/apollodorus.md) adds several roles for Hermes. He rescued [Ares](ares.md) from imprisonment by the Aloads (Otus and Ephialtes): "Hermes rescued Ares by stealth."[^apd-ares] This confirms the Iliad V account but specifies stealth rather than the Iliad's detail about Eeriboea reporting to Hermes.
+
+He also gave a golden ram to Nephele, which carried her children Phrixus and Helle through the sky to escape sacrifice. Helle fell into the sea (creating the Hellespont), while Phrixus reached Colchis.[^apd-ram]
+
+In the Deucalion flood narrative, [Zeus](zeus.md) sent Hermes to the surviving Deucalion "and allowed him to choose what he would, and he chose to get men."[^apd-deucalion]
+
+Hermes is also listed as father of Autolycus among the Argonauts.[^apd-autolycus]
+
+### Restoring Zeus's Sinews (1.6.3)
+
+During the battle with [Typhoeus](../creatures/typhoeus.md), after Typhon severed [Zeus](zeus.md)'s sinews and hid them in the Corycian cave, "Hermes and Aegipan stole the sinews and fitted them unobserved to Zeus."[^apd-herm-sinews]
+
+> **NEW DETAIL:** Hermes as rescuer of Zeus is not found in the [Theogony](../sources/theogony.md). Aegipan (a goat-like figure sometimes identified with [Pan](pan.md)) is his partner in this exploit.
+
+### Slaying Hippolytus in the Gigantomachy (1.6.2)
+
+During the [Gigantomachy](../creatures/giants.md), "Hermes, wearing the helmet of Hades, slew Hippolytus in the fight."[^apd-herm-hippolytus]
+
+[^apd-herm-sinews]: "But Hermes and Aegipan stole the sinews and fitted them unobserved to Zeus." (Bibliotheca 1.6.3, trans. Frazer)
+[^apd-herm-hippolytus]: "Hermes, wearing the helmet of Hades, slew Hippolytus in the fight" (Bibliotheca 1.6.2, trans. Frazer)
+[^apd-ares]: "Hermes rescued Ares by stealth" (Bibliotheca 1.7.4, trans. Frazer)
+[^apd-ram]: "Nephele caught him and her daughter up and gave them a ram with a golden fleece, which she had received from Hermes, and borne through the sky by the ram they crossed land and sea" (Bibliotheca 1.9.1, trans. Frazer)
+[^apd-deucalion]: "Zeus sent Hermes to him and allowed him to choose what he would, and he chose to get men" (Bibliotheca 1.7.2, trans. Frazer)
+[^apd-autolycus]: "Autolycus, son of Hermes" (Bibliotheca 1.9.16, trans. Frazer)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** I: Sent by Zeus to warn Aegisthus (past event recalled); Athena proposes sending him to Calypso
@@ -187,3 +214,9 @@ Hermes then departs: "Then Hermes departed toward high Olympus, up through the w
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)** 334-383: Sent by Zeus to retrieve Persephone from Hades
 - **[Iliad](../sources/iliad.md)** XXI: Matched against Leto in the Theomachy; declines to fight — "a grievous thing it is to come to blows with wives of cloud-gathering Zeus"
 - **[Iliad](../sources/iliad.md)** XXIV: Major role as guide — Zeus sends him to escort Priam; golden sandals ("that bare him over wet sea and over the boundless land"), wand ("wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep"); disguised as a young prince; puts the sentinels to sleep; opens the gates; reveals himself: "I that have come to thee am an immortal god, even Hermes"; drives Priam home before dawn
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Wore the [helmet of Hades](../objects/helm-of-hades.md) and slew the giant Hippolytus in the [Gigantomachy](../creatures/giants.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.3: With Aegipan, stole [Zeus](zeus.md)'s sinews from the Corycian cave and restored them during the [Typhon](../creatures/typhoeus.md) battle
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.2: Sent by Zeus to Deucalion after the flood
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Rescued Ares from the Aloads by stealth
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.1: Gave Nephele the golden ram that carried Phrixus and Helle
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Father of Autolycus (Argonaut)

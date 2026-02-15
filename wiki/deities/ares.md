@@ -85,6 +85,16 @@ They were trapped in Hephaestus's unbreakable net: "around them clung the cunnin
 [^od8-trapped]: "around them clung the cunning bonds of skilled Hephaestus, so that they could not move nor raise a limb" (Odyssey VIII.4435-4436)
 [^od8-thrace]: "the twain, when they were freed from that strong bond, sprang up straightway, and departed, he to Thrace" (Odyssey VIII.4503-4504)
 
+## In the Bibliotheca (1.4.4)
+
+### Ares and Eos
+
+The [Bibliotheca](../sources/apollodorus.md) mentions that [Eos](eos.md) (Dawn) "had bedded with Ares," which prompted [Aphrodite](aphrodite.md) to curse her with perpetual love for mortals.[^apd-ares-dawn]
+
+> **NOTE:** This connects to the [Odyssey](../sources/odyssey.md) VIII account of Ares and Aphrodite's affair. The Bibliotheca adds the consequence: Aphrodite punished Eos for the liaison, explaining the series of mortal lovers (Orion, Tithonus, Cleitus) attributed to Eos elsewhere.
+
+[^apd-ares-dawn]: "Aphrodite caused Dawn to be perpetually in love, because she had bedded with Ares" (Bibliotheca 1.4.4, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 922, 933-937: Birth; children with Aphrodite
@@ -95,8 +105,22 @@ They were trapped in Hephaestus's unbreakable net: "around them clung the cunnin
 - **[Iliad](../sources/iliad.md)** XVII: "Ares the dread war-god entered into" Hector when he dons Achilles' divine armour, filling his limbs with valour and strength
 - **[Iliad](../sources/iliad.md)** XXI: Attacks Athena's aegis ("not even the lightning of Zeus can overcome"); felled by her stone, covers seven roods; Aphrodite leads him away groaning
 - **[Odyssey](../sources/odyssey.md)** VIII: The Song of Ares and Aphrodite — "Ares of the golden rein"; adultery with Aphrodite in Hephaestus's house; trapped in the net; departs to Thrace
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.4: Bedded with [Eos](eos.md) (Dawn), prompting [Aphrodite](aphrodite.md) to curse Eos with perpetual love for mortals
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Imprisoned by the Aloads; freed by Hermes by stealth
+- **[Bibliotheca](../sources/apollodorus.md)** 1.8.2: Possibly father of Meleager
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Father of Ascalaphus and Ialmenus (Argonauts)
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Penthesileia, the Amazon, is his daughter; comes to aid Troy and is killed by Achilles[^aeth-penth]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Routs the army of Odysseus; Athena engages with him in battle until Apollo separates them[^tel-ares]
+
+## In the Bibliotheca
+
+The [Bibliotheca](../sources/apollodorus.md) confirms the Aloads' imprisonment of Ares and adds that "they put Ares in bonds" and that "[Hermes](hermes.md) rescued Ares by stealth."[^apd-ares-bonds] The Iliad V version says he was imprisoned thirteen months in a bronze vessel and was already "pining" when freed.
+
+The Bibliotheca also names Ares as a possible father of Meleager: "Althaea had also a son Meleager, by Oeneus, though they say that he was begotten by Ares."[^apd-meleager] Ares additionally appears in the Argonaut catalogue as father of Ascalaphus and Ialmenus.[^apd-argo-sons]
+
+[^apd-ares-bonds]: "they put Ares in bonds. However, Hermes rescued Ares by stealth" (Bibliotheca 1.7.4, trans. Frazer)
+[^apd-meleager]: "Althaea had also a son Meleager, by Oeneus, though they say that he was begotten by Ares" (Bibliotheca 1.8.2, trans. Frazer)
+[^apd-argo-sons]: "Ascalaphus and Ialmenus, sons of Ares" (Bibliotheca 1.9.16, trans. Frazer)
 
 [^aeth-penth]: Aethiopis, summary by Proclus: "The Amazon Penthesileia, the daughter of Ares and of Thracian race, comes to aid the Trojans, and after showing great prowess, is killed by Achilles"
 [^tel-ares]: Telegony, summary by Proclus: "Ares routs the army of Odysseus and Athena engages with Ares, until Apollo separates them"

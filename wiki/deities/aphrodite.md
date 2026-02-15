@@ -145,6 +145,13 @@ After Poseidon guaranteed the fine, "laughter-loving Aphrodite went to Paphos of
 - **[Odyssey](../sources/odyssey.md)** XVIII: Penelope beautified with "beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the [Graces](graces.md)" — Athena uses Aphrodite's own beauty standard as the measure[^od18-cytherea]
 - **[Odyssey](../sources/odyssey.md)** XX: In the myth of the daughters of Pandareus — "fair [Aphrodite](aphrodite.md) cherished them with curds and sweet honey and delicious wine" and later went "wending to high [Olympus](../places/olympus.md), to pray that a glad marriage might be accomplished for the maidens"[^od20-pandareus]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Her garments "which the Graces and Hours had made for her and dyed in flowers of spring — such flowers as the Seasons wear — in crocus and hyacinth and flourishing violet and the rose's lovely bloom";[^cyp-garments] competes with Hera and Athena in the Judgment of Paris; Paris chooses her and she promises him Helen[^cyp-judgment]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.4: Cursed [Eos](eos.md) (Dawn) with perpetual love for mortals, because Eos had bedded with [Ares](ares.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.3.1: Daughter of [Zeus](zeus.md) and [Dione](dione.md) (variant from the Theogony's birth from Uranus)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.17: Cursed the Lemnian women with a noisome smell — "she visited them with a noisome smell; therefore their spouses took captive women from the neighboring country of Thrace and bedded with them"[^apd-lemnos]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Rescued Butes from the Sirens — "Butes alone swam off to the Sirens, but Aphrodite carried him away and settled him in Lilybaeum"[^apd-butes]
+
+[^apd-lemnos]: "The Lemnian women did not honor Aphrodite, and she visited them with a noisome smell; therefore their spouses took captive women from the neighboring country of Thrace and bedded with them" (Bibliotheca 1.9.17, trans. Frazer)
+[^apd-butes]: "Butes alone swam off to the Sirens, but Aphrodite carried him away and settled him in Lilybaeum" (Bibliotheca 1.9.25, trans. Frazer)
 
 [^cyp-garments]: "She clothed herself with garments which the Graces and Hours had made for her and dyed in flowers of spring—such flowers as the Seasons wear—in crocus and hyacinth and flourishing violet and the rose's lovely bloom, so sweet and delicious, and heavenly buds, the flowers of the narcissus and lily" (Cypria, Fragment 6)
 [^cyp-judgment]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite... Alexandrus, lured by his promised marriage with Helen, decides in favour of Aphrodite"
@@ -161,12 +168,25 @@ She fled in pain to [Olympus](../places/olympus.md) and "fell upon [Dione](dione
 [^il5-ichor]: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad V.2917-2919)
 [^il5-zeus]: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet Ares and Athene look" (Iliad V.3003-3005)
 
+## In the Bibliotheca (1.4.4)
+
+### Cursing Eos
+
+The [Bibliotheca](../sources/apollodorus.md) adds a detail about Aphrodite's jealousy: "Aphrodite caused [Eos](eos.md) to be perpetually in love, because she had bedded with [Ares](ares.md)."[^apd-aph-dawn]
+
+> **NEW DETAIL:** This explains the pattern of Eos's mortal loves (Orion in [Odyssey](../sources/odyssey.md) V, Tithonus in [Homeric Hymn V](../sources/homeric-hymns.md), Cleitus in Odyssey XV) as punishment by Aphrodite. It connects to the Odyssey VIII Song of Ares and Aphrodite, where the affair between the two is well established.
+
+[^apd-aph-dawn]: "Aphrodite caused Dawn to be perpetually in love, because she had bedded with Ares" (Bibliotheca 1.4.4, trans. Frazer)
+
 ## Variant Traditions
 
-### Birth from Uranus (Theogony) vs Daughter of Dione (Iliad)
+### Birth from Uranus (Theogony) vs Daughter of Dione (Iliad / Bibliotheca)
 
 Hesiod's account of Aphrodite's birth from [Uranus](uranus.md)'s severed members is one of two major traditions. The Iliad presents the other: in Book V, when Aphrodite is wounded, "fair Aphrodite fell upon [Dione](dione.md)'s knees that was her mother."[^il5-dione] [Dione](dione.md) comforts her and speaks as her mother throughout the scene. [Zeus](zeus.md) also addresses Aphrodite as "my child," consistent with her being his daughter by Dione.
 
+Apollodorus follows the Iliad tradition: "by [Dione](dione.md) he had Aphrodite."[^apd-aphrodite-dione] This is notable because Apollodorus is generally drawing on Hesiodic material for his cosmogony — his adoption of the Dione parentage over the Theogony's sea-foam birth represents a deliberate choice.
+
 [^il5-dione]: "fair Aphrodite fell upon Dione's knees that was her mother. She took her daughter in her arms and stroked her with her hand" (Iliad V.2948-2949)
+[^apd-aphrodite-dione]: "by Dione he had Aphrodite" (Bibliotheca 1.3.1, trans. Frazer)
 [^od18-cytherea]: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the Graces" (Odyssey 9894-9897, trans. Butcher and Lang)
 [^od20-pandareus]: "fair Aphrodite cherished them with curds and sweet honey and delicious wine... Now while fair Aphrodite was wending to high Olympus, to pray that a glad marriage might be accomplished for the maidens" (Odyssey 10823-10828, trans. Butcher and Lang)

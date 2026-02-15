@@ -136,6 +136,40 @@ Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing h
 [^il16-dying]: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying" (Iliad XVI.9988)
 [^il16-sarpedon-body]: "He went down the hills of Ida to the dread battle din, and straightway bore goodly Sarpedon out of the darts, and carried him far away and bathed him in the streams of the river, and anointed him with ambrosia, and clad him in garments that wax not old, and sent him to be wafted by fleet convoy, the twin brethren Sleep and Death, that swiftly set him down in the rich land of wide Lykia" (Iliad XVI.9839-9845)
 
+## In the Bibliotheca
+
+The [Bibliotheca](../sources/apollodorus.md) adds several details to Apollo's mythology not found in the Homeric sources.
+
+### Prophecy from Pan
+
+Apollo "learned the art of prophecy from Pan, the son of Zeus and Hybris."[^apd-pan]
+
+> **VARIANT:** [Homeric Hymn XIX](../sources/homeric-hymns.md) makes [Pan](pan.md) the son of [Hermes](hermes.md) and a daughter of Dryops. The Bibliotheca gives Pan different parentage entirely — son of [Zeus](zeus.md) and Hybris.
+
+### Python and the Oracle at Delphi
+
+Apollo came to Delphi, "where [Themis](themis.md) at that time used to deliver oracles; and when the snake Python, which guarded the oracle, would have hindered him from approaching the chasm, he killed it and took over the oracle."[^apd-python]
+
+> **NEW DETAIL:** The Bibliotheca specifies that [Themis](themis.md) was delivering oracles at Delphi before Apollo, and that Python *guarded* the oracle. In the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III), the dragon is female and is slain near the site but is not described as guarding the oracle, and Themis's role is limited to feeding the newborn Apollo.
+
+### Slaying of Tityus
+
+Apollo slew Tityus, "a son of Zeus and Elare, daughter of Orchomenus." Zeus had hidden Elare "under the earth for fear of [Hera](hera.md)," and she bore Tityus there, "of monstrous size." When Tityus assaulted [Leto](leto.md) at Pytho, "she called her children to her aid, and they shot him down with their arrows. And he is punished even after death; for vultures eat his heart in Hades."[^apd-tityus]
+
+### Slaying of Marsyas
+
+Apollo also slew Marsyas, who had found the pipes that [Athena](athena.md) had discarded. In a musical contest, Apollo "turned his lyre upside down in the competition and bade Marsyas do the same. But Marsyas could not, so Apollo was judged the victor and despatched Marsyas by hanging him on a tall pine tree and stripping off his skin."[^apd-marsyas]
+
+### In the Gigantomachy
+
+During the [Gigantomachy](../creatures/giants.md), "Ephialtes was shot by Apollo with an arrow in his left eye and by [Heracles](../heroes/heracles.md) in his right."[^apd-ephialtes]
+
+[^apd-pan]: "Apollo learned the art of prophecy from Pan, the son of Zeus and Hybris" (Bibliotheca 1.4.1, trans. Frazer)
+[^apd-python]: "Themis at that time used to deliver oracles; and when the snake Python, which guarded the oracle, would have hindered him from approaching the chasm, he killed it and took over the oracle." (Bibliotheca 1.4.1, trans. Frazer)
+[^apd-tityus]: "he slew also Tityus, who was a son of Zeus and Elare, daughter of Orchomenus; for her, after he had debauched her, Zeus hid under the earth for fear of Hera, and brought forth to the light the son Tityus, of monstrous size, whom she had borne in her womb." (Bibliotheca 1.4.1, trans. Frazer)
+[^apd-marsyas]: "Apollo was judged the victor and despatched Marsyas by hanging him on a tall pine tree and stripping off his skin." (Bibliotheca 1.4.2, trans. Frazer)
+[^apd-ephialtes]: "Ephialtes was shot by Apollo with an arrow in his left eye and by Hercules in his right" (Bibliotheca 1.6.2, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
@@ -148,6 +182,7 @@ Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing h
 - **[Odyssey](../sources/odyssey.md)** VIII: Oracle at Pytho — "Phoebus Apollo in his soothsaying had told him that it must be"; in the Song of Ares and Aphrodite, asks Hermes if he'd lie with golden Aphrodite despite the bonds; Apollo slew Eurytus of Oechalia "in his wrath, seeing that he challenged him to shoot a match"
 - **[Odyssey](../sources/odyssey.md)** XI: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" — slew Otos and Ephialtes before they reached manhood, who had tried to pile Ossa on Olympus and Pelion on Ossa[^od11-aloadae]
 - **[Odyssey](../sources/odyssey.md)** XV: [Zeus](zeus.md) and Apollo "loved [Amphiaraus] with all manner of love" but he died in Thebes "by reason of a woman's gifts" ([Eriphyle](../mortals/eriphyle.md)'s bribery)[^od15-amphiaraus]; Apollo "made the high-souled Polypheides a seer, far the chief of human kind, Amphiaraus being now dead"[^od15-polypheides]; with [Artemis](artemis.md), "slays them with the visitation of his gentle shafts" — the gentle death of old age on the isle of Syria[^od15-syria]; a hawk described as "the swift messenger of Apollo"[^od15-hawk]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.1-1.4.2, 1.6.2: Learned prophecy from [Pan](pan.md); killed Python at Delphi; slew Tityus; slew Marsyas; shot Ephialtes in the [Gigantomachy](../creatures/giants.md)
 
 - **[Iliad](../sources/iliad.md)** I: Sends plague on the Greeks; "descended like to night"; sends favourable wind after sacrifice
 - **[Iliad](../sources/iliad.md)** IV: Rallies the Trojans from Pergamos; notes Achilles' absence
@@ -165,6 +200,10 @@ Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing h
 - **[Iliad](../sources/iliad.md)** XXII: Reveals himself to Achilles — "I am a god... I am not subject unto death"; nerved Hector's strength until the golden scales tipped, then "Phoebus Apollo left him"; Hector's dying prophecy: "Paris and Phoebus Apollo slay thee... at the Skaian gate"
 - **[Iliad](../sources/iliad.md)** XXIII: Protects Hector's body with a dark cloud ("lest meanwhile the sun's strength shrivel his flesh"); wroth with Diomedes in the chariot race, smites the lash from his hand; countered by Athena
 - **[Iliad](../sources/iliad.md)** XXIV: Continues protecting Hector's body with golden aegis; rebukes the gods for not returning Hector — "an enduring soul have the Fates given unto men"; Niobe's sons "Apollo slew with arrows from his silver bow"; Hekabe: Hector looks "like one on whom Apollo... hath descended and slain him with his gentle darts"
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.8-1.7.9: Wooed Marpessa; fought Idas for her; Zeus let her choose, and she chose Idas fearing Apollo would desert her in old age
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.11: Taught Melampus divination at the Alpheus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Served Admetus as thrall; yoked lion and boar; obtained favour of the [Fates](fates.md) for Admetus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.26: Flashed lightning from the Melantian ridges, guiding the Argonauts to the island of Anaphe
 
 [^od11-aloadae]: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" (Odyssey XI.6201-6203, trans. Butcher and Lang)
 [^od15-amphiaraus]: "Zeus and Apollo loved him with all manner of love; yet he reached not the threshold of old age, but died in Thebes by reason of a woman's gifts" (Odyssey XV.8207-8210, trans. Butcher and Lang)

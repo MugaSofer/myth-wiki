@@ -29,3 +29,4 @@ With Doris, "daughter of Ocean the perfect river," Nereus fathered fifty daughte
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 233-264: Origin, character, and listing of daughters
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.6-1.2.7: Born of Sea ([Pontus](pontus.md)) and Earth; with Doris bore the Nereids (list of fifty names including [Thetis](thetis.md), Amphitrite, Galatea, Psamathe, Calypso)

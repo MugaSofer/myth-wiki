@@ -82,6 +82,15 @@ In the [Theogony](../sources/theogony.md), Athena is mentioned as:
 [^theog-woman]: "the goddess bright-eyed Athene girded and clothed her with silvery raiment, and down from her head she spread with her hands a broidered veil, a wonder to see; and she, Pallas Athene, put about her head lovely garlands, flowers of new-grown herbs" (Theogony 573-578)
 [^theog-hydra]: "Heracles, the son of Zeus, of the house of Amphitryon, together with warlike Iolaus, destroyed with the unpitying sword through the plans of Athene the spoil-driver" (Theogony 318)
 
+## Birth — Apollodorus's Account (Bibliotheca)
+
+Apollodorus adds significant details to the birth narrative. [Zeus](zeus.md) swallowed Metis after she "turned into many shapes in order to avoid his embraces" and when she "was with child," because "[Gaia](gaia.md) said that, after giving birth to the maiden who was then in her womb, Metis would bear a son who should be the lord of heaven."[^apd-athena-metis]
+
+The birth itself is more specific than in the Theogony: "[Prometheus](prometheus.md) or, as others say, [Hephaestus](hephaestus.md), smote the head of Zeus with an axe, and Athena, fully armed, leaped up from the top of his head at the river Triton."[^apd-athena-birth] The Theogony says only that Zeus "gave her birth by way of his head on the banks of the river Trito." Apollodorus names the agent (Prometheus or Hephaestus), the instrument (an axe), and gives the dual tradition.
+
+[^apd-athena-metis]: "Zeus had intercourse with Metis, who turned into many shapes in order to avoid his embraces. When she was with child, Zeus, taking time by the forelock, swallowed her, because Earth said that, after giving birth to the maiden who was then in her womb, Metis would bear a son who should be the lord of heaven" (Bibliotheca 1.3.6, trans. Frazer)
+[^apd-athena-birth]: "Prometheus or, as others say, Hephaestus, smote the head of Zeus with an axe, and Athena, fully armed, leaped up from the top of his head at the river Triton" (Bibliotheca 1.3.6, trans. Frazer)
+
 ## Birth — Cosmic Impact (Hymn XXVIII)
 
 [Homeric Hymn XXVIII](../sources/homeric-hymns.md) describes the cosmic reaction to Athena's birth: "From his awful head wise [Zeus](zeus.md) himself bare her arrayed in warlike arms of flashing gold, and awe seized all the gods as they gazed. But Athena sprang quickly from the immortal head and stood before [Zeus](zeus.md)... shaking a sharp spear: great [Olympus](../places/olympus.md) began to reel horribly at the might of the bright-eyed goddess, and earth round about cried fearfully, and the sea was moved and tossed with dark waves." Even [Helius](helius.md) "stopped his swift-footed horses a long while, until the maiden Pallas Athene had stripped the heavenly armour from her immortal shoulders."[^hh28-birth]
@@ -282,6 +291,15 @@ The priestess Theano places the fairest robe on Athena's knees and prays: "Lady 
 [^il6-prayer-request]: "let her lay the robe, that seemeth to her the most gracious and greatest in her hall and far dearest unto herself, upon the knees of beauteous-haired Athene; and vow to her to sacrifice in her temple twelve sleek kine, that have not felt the goad, if she will have mercy on the city and the Trojans' wives and little children" (Iliad VI.3544-3549, trans. Lang, Leaf, and Myers)
 [^il6-denied]: "Lady Athene, saviour of the city, fair among goddesses, break now Diomedes' spear, and grant moreover that himself may fall prone before the Skaian gates; that we may sacrifice thee now forthwith in thy temple twelve sleek kine, that have not felt the goad, if thou wilt have mercy on the city and the Trojans' wives and little children. So spake she praying, but Pallas Athene denied the prayer." (Iliad VI.3749-3754)
 
+## In the Bibliotheca (1.6.1-1.6.2)
+
+The [Bibliotheca](../sources/apollodorus.md) assigns Athena a major role in the [Gigantomachy](../creatures/giants.md). She summoned [Heracles](../heroes/heracles.md) at [Zeus](zeus.md)'s command, and advised him to drag Alcyoneus outside Pallene to prevent his revival.[^apd-ath-alcyoneus] She threw "the island of Sicily" upon the fleeing Enceladus, and "flayed Pallas and used his skin to shield her own body in the fight."[^apd-ath-pallas]
+
+> **NEW DETAIL:** Athena flaying the Giant Pallas and using his skin as a shield may be connected to her epithet "Pallas Athena" — though the text does not make this connection explicitly.
+
+[^apd-ath-alcyoneus]: "at Athena's advice Hercules dragged him outside Pallene, and so the giant died." (Bibliotheca 1.6.1, trans. Frazer)
+[^apd-ath-pallas]: "Enceladus fled, but Athena threw on him in his flight the island of Sicily; and she flayed Pallas and used his skin to shield her own body in the fight." (Bibliotheca 1.6.2, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 13, 318, 573-578, 886-900, 924-929t: Invocation; aids Heracles; dresses the first woman; birth from Zeus's head
@@ -327,6 +345,13 @@ The priestess Theano places the fairest robe on Athena's knees and prays: "Lady 
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Contrives that Odysseus wins Achilles' arms; instructs Epeius to build the Wooden Horse[^liliad-athena]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): Her image torn away by Aias son of Ileus when he drags Cassandra from her temple; plans to destroy the Greeks on the high seas after they sail away[^sack-athena]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Engages Ares in battle when he routs Odysseus's army; separated by Apollo[^tel-athena]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.3.6: Metis shapeshifts to avoid Zeus; Zeus swallows her (Earth prophesied a son who would rule heaven); Prometheus or Hephaestus splits Zeus's head with an axe; Athena leaps fully armed from the top of his head at the river Triton
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.1-1.6.2: Summoned Heracles for the Gigantomachy; advised dragging Alcyoneus outside Pallene; threw Sicily on Enceladus; flayed Pallas and used his skin as a shield
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Fitted a speaking timber from the oak of Dodona into the Argo's prow — "at the prow Athena fitted in a speaking timber from the oak of Dodona"[^apd-argo-timber]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: Gave half of the dragon's teeth to Aeetes — "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes"[^apd-dragon-teeth]
+
+[^apd-argo-timber]: "at the prow Athena fitted in a speaking timber from the oak of Dodona" (Bibliotheca 1.9.16, trans. Frazer)
+[^apd-dragon-teeth]: "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes" (Bibliotheca 1.9.23, trans. Frazer)
 
 [^cyp-judgment-athena]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite"
 [^cyp-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5)

@@ -60,3 +60,4 @@ In [Odyssey](../sources/odyssey.md) Book V, Calypso swears by Styx to assure Ody
 - **[Theogony](../sources/theogony.md)** 361, 383-401, 775-806: Named among Oceanids; children and alliance with Zeus; dwelling in Tartarus; oath penalty
 - **[Odyssey](../sources/odyssey.md)** V: Calypso swears by "that falling water of the Styx, the greatest oath and the most terrible to the blessed gods"
 - **[Iliad](../sources/iliad.md)** II: "The dread river of the oath"; the Titaresios as an offspring of Styx
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.5, 1.3.1: Zeus established the oath by Styx "because she and her children had fought on his side against the Titans"; mother of [Persephone](persephone.md) by Zeus (variant tradition)

@@ -32,6 +32,17 @@ Hermes "went quickly to the abodes of the deathless gods, carrying the son wrapp
 [^hh19-birth]: "in the house she bare Hermes a dear son who from his birth was marvellous to look upon, with goat's feet and two horns—a noisy, merry-laughing child. But when the nurse saw his uncouth face and full beard, she was afraid and sprang up and fled and left the child" (Homeric Hymn XIX to Pan 36-42)
 [^hh19-name]: "all the immortals were glad in heart and Bacchic Dionysus in especial; and they called the boy Pan because he delighted all their hearts" (Homeric Hymn XIX to Pan 45-47)
 
+## In the Bibliotheca (1.4.1)
+
+### Variant Parentage and Teaching Apollo Prophecy
+
+The [Bibliotheca](../sources/apollodorus.md) names Pan as "the son of [Zeus](zeus.md) and Hybris," from whom [Apollo](apollo.md) "learned the art of prophecy."[^apd-pan-parent]
+
+> **VARIANT:** [Homeric Hymn XIX](../sources/homeric-hymns.md) makes Pan the son of [Hermes](hermes.md) and a daughter of Dryops. The Bibliotheca's parentage — Zeus and Hybris (a personification of hubris/insolence) — is strikingly different and otherwise unattested in our sources. The role of teaching Apollo prophecy is also unique to this account.
+
+[^apd-pan-parent]: "Apollo learned the art of prophecy from Pan, the son of Zeus and Hybris" (Bibliotheca 1.4.1, trans. Frazer)
+
 ## Appearances
 
 - **[Homeric Hymn XIX](../sources/homeric-hymns.md)**: Full birth narrative; description; music
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.1: Son of [Zeus](zeus.md) and Hybris (variant from Hymn XIX's [Hermes](hermes.md) parentage); taught [Apollo](apollo.md) the art of prophecy

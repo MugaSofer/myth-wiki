@@ -51,6 +51,7 @@ This is separate from the Gorgon head on [Athena](../deities/athena.md)'s aegis 
 - **[Theogony](../sources/theogony.md)** 274-294: Origin, Medusa's offspring
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): "By him she conceived and bare the Gorgons, fearful monsters who lived in Sarpedon, a rocky island in deep-eddying Oceanus"[^cyp-gorgons]
 - **[Iliad](../sources/iliad.md)** V: Gorgon head on [Athena](../deities/athena.md)'s aegis
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.6: Daughters of Phorcus and Ceto (deferred to the Perseus narrative)
 - **[Iliad](../sources/iliad.md)** XI: "The Gorgon fell of aspect" on Agamemnon's shield, flanked by Dread and Terror
 
 [^cyp-gorgons]: "By him she conceived and bare the Gorgons, fearful monsters who lived in Sarpedon, a rocky island in deep-eddying Oceanus" (Cypria, Fragment 21, trans. H.G. Evelyn-White)

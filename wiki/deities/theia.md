@@ -26,3 +26,4 @@ Listed among the children of [Gaia](gaia.md) and [Uranus](uranus.md): "she lay w
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 135, 371-374: Birth; children with Hyperion
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.3, 1.2.2: Listed among the Titanides (as "Thia"); with [Hyperion](hyperion.md) bore Dawn, Sun, and Moon

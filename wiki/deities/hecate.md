@@ -60,10 +60,22 @@ After Persephone's return, "bright-coiffed Hecate came near to them, and often d
 [^hd-news]: "Hecate, with a torch in her hands, met her, and spoke to her and told her news: 'Queenly Demeter, bringer of seasons and giver of good gifts, what god of heaven or what mortal man has rapt away Persephone and pierced with sorrow your dear heart? For I heard her voice, yet saw not with my eyes who it was'" (Homeric Hymn to Demeter 51-58)
 [^hd-companion]: "bright-coiffed Hecate came near to them, and often did she embrace the daughter of holy Demeter: and from that time the lady Hecate was minister and companion to Persephone" (Homeric Hymn to Demeter 438-440)
 
+## In the Bibliotheca (1.6.2)
+
+### Slaying Clytius in the Gigantomachy
+
+During the battle with the [Giants](../creatures/giants.md), "Clytius [was killed] by Hecate with torches."[^apd-hec-clytius]
+
+> **NOTE:** Hecate's use of torches as weapons connects to her established association with them in the [Homeric Hymn to Demeter](../sources/homeric-hymns.md), where she carries "a torch in her hands" (52) and "flaming torches" (61).
+
+[^apd-hec-clytius]: "Clytius by Hecate with torches" (Bibliotheca 1.6.2, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 411-452: Extended hymn to Hecate
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)** 24-27, 51-58, 438-440: Hears Persephone's cry; aids Demeter's search; becomes Persephone's companion
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.4: "to Perses and Asteria was born Hecate" — confirms Theogonic parentage
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Killed the giant Clytius with torches in the [Gigantomachy](../creatures/giants.md)
 
 ## Notes
 

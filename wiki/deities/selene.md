@@ -47,8 +47,18 @@ The [Theogony](../sources/theogony.md) names Selene's mother as [Theia](theia.md
 
 [^hh32-pandia]: "Once the Son of Cronos was joined with her in love; and she conceived and bare a daughter Pandia, exceeding lovely amongst the deathless gods" (Homeric Hymn XXXII to Selene 14-16, trans. H.G. Evelyn-White)
 
+## In the Bibliotheca
+
+The [Bibliotheca](../sources/apollodorus.md) adds the story of Selene and Endymion. Endymion "was of surpassing beauty" and "the Moon fell in love with him." [Zeus](zeus.md) allowed Endymion to choose whatever he wished, "and he chose to sleep for ever, remaining deathless and ageless."[^apd-endymion]
+
+This is the earliest surviving prose account of the Endymion myth and is the first mention of Selene as a lover in any source processed for this wiki.
+
+[^apd-endymion]: "As he was of surpassing beauty, the Moon fell in love with him, and Zeus allowed him to choose what he would, and he chose to sleep for ever, remaining deathless and ageless" (Bibliotheca 1.7.5, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 19, 371-374: Named in invocation; birth
 - **[Homeric Hymn XXXI](../sources/homeric-hymns.md)**: Mother named Euryphaessa
 - **[Homeric Hymn XXXII](../sources/homeric-hymns.md)**: Daughter Pandia by Zeus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.2: Born of [Hyperion](hyperion.md) and [Theia](theia.md) (as "Moon")
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.5: Fell in love with Endymion; Zeus allowed him to choose eternal sleep, deathless and ageless

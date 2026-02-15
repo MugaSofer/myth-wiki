@@ -530,6 +530,54 @@ Populated the previously empty `wiki/objects/` folder with 9 pages:
 
 All 24 books of the Odyssey (Butcher and Lang translation) have been processed.
 
+### Apollodorus, Bibliotheca — In Progress
+
+**Source text:** Sir James George Frazer translation (1921), Loeb Classical Library
+**Source page created:** apollodorus.md
+
+**Book 1 processed (1.1.1-1.9.28):**
+
+Sections 1.1-1.3 (Cosmogony, Titans, Zeus's consorts):
+- Erinyes named individually (Alecto, Tisiphone, Megaera); Cronos swallowing order; Curetes guard Zeus
+- Chiron's parentage (Cronus+Philyra); Hecate (Perses+Asteria); Styx's oath
+- Zeus's consorts with variants: Aphrodite from Dione (not Uranus), Persephone from Styx (not Demeter)
+- Orpheus/Eurydice, Hyacinth/Apollo, Thamyris punished by Muses
+- Athena's birth (Prometheus or Hephaestus split Zeus's head); Hephaestus born without father
+- Titan offspring genealogies, Nereids list
+
+Sections 1.4-1.6 (Apollo/Artemis, Demeter, Gigantomachy, Typhon):
+- Artemis as midwife for Apollo; Pan variant (son of Zeus+Hybris); Apollo kills Python, Tityus, Marsyas
+- Orion's full narrative (Poseidon's son, sea-striding, blinding, healing, death variants)
+- Demeter/Persephone: Apollodorus version (1/3 year variant; Demophon consumed; Triptolemus chariot)
+- GIGANTOMACHY in full detail — oracle requiring mortal help; Heracles as essential ally; each god's kill
+- TYPHON expanded — gods flee to Egypt; Zeus's sinews stolen; Hermes+Aegipan recover them; Fates beguile Typhon
+
+Sections 1.7-1.9 (Prometheus, Flood, Aeolus, Calydonian Boar, Argonauts):
+- Prometheus moulds men; eagle and Caucasus; Deucalion's flood (chest, Parnassus, stones-to-people)
+- Aloads (Hermes frees Ares; Artemis's deer trick); Endymion (Selene's love); Marpessa (Zeus arbitrates)
+- Calydonian Boar: Fates' brand prophecy; Atalanta; two versions of Meleager's death
+- Argonautica: Argo with speaking timber; full catalogue; Lemnos, Phineus/Harpies, Clashing Rocks, Colchis (brazen bulls, Medea), return (Circe purifies, Thetis steers, Talos), Pelias's death, Corinth, Medea's flight
+
+**~50 existing pages updated.** New pages created: jason.md, medea.md
+
+### Backfill Pass: Heroes, Places, Creatures, Objects, Events
+
+Created dedicated pages for major entities across all previously processed sources:
+
+**Heroes (9 new pages):** odysseus.md, achilles.md, diomedes.md, patroclus.md, helen.md, bellerophon.md, aeneas.md, jason.md, medea.md
+
+**Places (8 new pages):** delos.md, delphi.md, elysium.md, aeaea.md, colchis.md, lemnos.md, thebes.md, troy.md
+
+**Creatures (1 new page):** chiron.md
+
+**Objects (2 new pages):** golden-fleece.md, argo.md
+
+**Events (2 new pages):** calydonian-boar.md, deucalions-flood.md
+
+## Bibliotheca Book 1 — COMPLETE
+
 ## Next
 
-Consider processing: Catalogues of Women fragments (genealogical), Great Eoiae fragments, Melampodia fragments. The Catalogues contain the Bellerophon/Pegasus story and extensive genealogies from Deucalion onward.
+Continue processing Apollodorus: Book 2 (Perseus, Heracles), Book 3 (Europa, Cadmus, Thebes, Crete), Epitome (Theseus, Trojan War, Returns).
+
+Also consider: Catalogues of Women fragments (genealogical), Great Eoiae fragments, Melampodia fragments.

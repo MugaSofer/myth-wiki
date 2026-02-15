@@ -23,6 +23,13 @@ Listed among the children of [Gaia](gaia.md) and [Uranus](uranus.md): "she lay w
 
 [^theog-children]: "Now Iapetus took to wife the neat-ankled maid Clymene, daughter of Ocean, and went up with her into one bed. And she bare him a stout-hearted son, Atlas: also she bare very glorious Menoetius and clever Prometheus, full of various wiles, and scatter-brained Epimetheus who from the first was a mischief to men who eat bread" (Theogony 507-514, trans. H.G. Evelyn-White)
 
+## In the Bibliotheca
+
+Apollodorus names **Asia** (an Oceanid) as Iapetus's wife, rather than the Theogony's Clymene: "to Iapetus and Asia was born [Atlas](atlas.md), who has the sky on his shoulders, and [Prometheus](prometheus.md), and [Epimetheus](epimetheus.md), and [Menoetius](menoetius.md), he whom [Zeus](zeus.md) in the battle with the Titans smote with a thunderbolt and hurled down to Tartarus."[^apd-iapetus] This is a **variant tradition** — the Theogony gives Clymene, also a daughter of [Oceanus](oceanus.md), as the mother.
+
+[^apd-iapetus]: "to Iapetus and Asia was born Atlas, who has the sky on his shoulders, and Prometheus, and Epimetheus, and Menoetius, he whom Zeus in the battle with the Titans smote with a thunderbolt and hurled down to Tartarus" (Bibliotheca 1.2.3, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 18, 134, 507-514: Named in invocation; birth; children with Clymene
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.3: Children with Asia (variant — Theogony names Clymene): Atlas, Prometheus, Epimetheus, Menoetius

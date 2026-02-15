@@ -65,4 +65,5 @@ When [Hermes](hermes.md) came to retrieve Persephone, "Aidoneus, ruler over the 
 
 - **[Theogony](../sources/theogony.md)** 455-456, 767-768, 850, 912-914: Birth; dwelling described; trembles during Typhonomachy; receives Persephone
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Abducts Persephone; the pomegranate trick; "smiled grimly"
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.5, 1.2.1: Swallowed by Cronos; Cyclopes bestow a helmet on him; allotted dominion of the underworld by lot
 - **[Iliad](../sources/iliad.md)** V: Wounded once by [Heracles](../heroes/heracles.md) "in Pylos amid the dead" with a swift arrow in the shoulder; healed by Paieon (recalled by Dione). His [helm](../objects/helm-of-hades.md) grants invisibility (worn by Athena)

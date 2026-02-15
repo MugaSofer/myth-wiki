@@ -66,6 +66,35 @@ Both passages show Artemis as a bringer of death to women, striking suddenly and
 [^il6-bellerophon]: "his daughter was slain in wrath of gold-gleaming Artemis" (Iliad VI.3641-3642, trans. Lang, Leaf, and Myers)
 [^il6-andromache]: "in her father's halls was she smitten by the Archer Artemis" (Iliad VI.3859)
 
+## In the Bibliotheca
+
+The [Bibliotheca](../sources/apollodorus.md) adds several significant details about Artemis.
+
+### Birth and Midwifery
+
+[Leto](leto.md) came to Delos and "brought forth first Artemis, by the help of whose midwifery she afterwards gave birth to [Apollo](apollo.md)."[^apd-art-midwife]
+
+> **NEW DETAIL:** Artemis as midwife at Apollo's birth is not found in the [Homeric Hymn to Apollo](../sources/homeric-hymns.md), where Eileithyia serves as birth-goddess. Here Artemis, born first, assists with her twin's delivery.
+
+### Virginity
+
+"Artemis devoted herself to the chase and remained a maid."[^apd-art-maid]
+
+### Slaying of Orion
+
+Artemis slew Orion in Delos. The text gives two variant causes: "Orion was killed, as some say, for challenging Artemis to a match at quoits, but some say he was shot by Artemis for offering violence to Opis, one of the maidens who had come from the Hyperboreans."[^apd-art-orion]
+
+> **VARIANT:** The [Odyssey](../sources/odyssey.md) (V) says Artemis slew Orion in Ortygia after [Eos](eos.md) took him as a lover. The Bibliotheca places the killing in Delos and offers two different motives — a quoits challenge, or violence against the Hyperborean maiden Opis.
+
+### In the Gigantomachy
+
+During the [Gigantomachy](../creatures/giants.md), "Artemis slew Gration."[^apd-art-gration]
+
+[^apd-art-midwife]: "she came to Delos and brought forth first Artemis, by the help of whose midwifery she afterwards gave birth to Apollo." (Bibliotheca 1.4.1, trans. Frazer)
+[^apd-art-maid]: "Artemis devoted herself to the chase and remained a maid" (Bibliotheca 1.4.1, trans. Frazer)
+[^apd-art-orion]: "Orion was killed, as some say, for challenging Artemis to a match at quoits, but some say he was shot by Artemis for offering violence to Opis, one of the maidens who had come from the Hyperboreans." (Bibliotheca 1.4.5, trans. Frazer)
+[^apd-art-gration]: "Artemis slew Gration" (Bibliotheca 1.6.2, trans. Frazer)
+
 ## In the Odyssey
 
 ### Slaying Orion (Book V)
@@ -98,5 +127,10 @@ Meleager slew the boar "having gathered together from many cities huntsmen and h
 [^od11-ariadne]: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" (Odyssey XI.6208, trans. Butcher and Lang)
 [^od11-anticleia]: "It was not the archer goddess of the keen sight, who slew me in my halls" (Odyssey XI.6102, trans. Butcher and Lang)
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Angry at Agamemnon's boast that he surpassed her, sends stormy winds to prevent sailing; when told to sacrifice Iphigeneia, "snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"[^cyp-iphigeneia]
+
+- **[Bibliotheca](../sources/apollodorus.md)** 1.4.1, 1.4.3-1.4.5, 1.6.2: Born first on Delos, served as midwife for Apollo's birth; devoted to the chase and remained a maid; slew Orion in Delos (two variant causes); slew Gration in the Gigantomachy
+- **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Killed the Aloads by a ruse — changed into a deer and leapt between them; they killed each other throwing darts at the quarry
+- **[Bibliotheca](../sources/apollodorus.md)** 1.8.2: Sent the Calydonian Boar because Oeneus forgot her in sacrifice
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Admetus forgot to sacrifice to her at his marriage; chamber filled with snakes
 
 [^cyp-iphigeneia]: Cypria, summary by Proclus: "Artemis, however, snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"

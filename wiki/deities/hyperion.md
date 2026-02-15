@@ -27,3 +27,4 @@ Listed among the children of [Gaia](gaia.md) and [Uranus](uranus.md): "she lay w
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 134, 371-374: Birth; children with Theia
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.3, 1.2.2: Listed among the Titans; with Thia bore Dawn ([Eos](eos.md)), Sun ([Helius](helius.md)), and Moon ([Selene](selene.md))

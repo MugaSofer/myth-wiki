@@ -62,6 +62,14 @@ The passage is striking because the Erinyes receive the maidens as a kind of cos
 
 [^od20-pandareus]: "the spirits of the storm snatched away these maidens, and gave them to be handmaids to the hateful Erinyes" (Odyssey 10830-10831, trans. Butcher and Lang)
 
+## In the Bibliotheca
+
+Apollodorus names the individual [Erinyes](../creatures/erinyes.md) — a detail not found in any earlier source processed so far. When [Cronos](../deities/cronos.md) castrated [Uranus](../deities/uranus.md), "from the drops of the flowing blood were born Furies, to wit, Alecto, Tisiphone, and Megaera."[^apd-erinyes-names]
+
+This is the first source to give the Erinyes their individual names. The [Theogony](../sources/theogony.md) calls them simply "the strong Erinyes"; the [Iliad](../sources/iliad.md) and [Odyssey](../sources/odyssey.md) refer to them collectively or in the singular.
+
+[^apd-erinyes-names]: "from the drops of the flowing blood were born Furies, to wit, Alecto, Tisiphone, and Megaera" (Bibliotheca 1.1.4, trans. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 185: Born from Uranus's blood
@@ -73,6 +81,7 @@ The passage is striking because the Erinyes receive the maidens as a kind of cos
 
 - **[Iliad](../sources/iliad.md)** XV: Iris invokes the Erinyes as a cosmic principle: "the Erinyes do always follow to aid the elder-born" — persuading Poseidon to yield to Zeus as the elder brother
 - **[Iliad](../sources/iliad.md)** XIX: Agamemnon blames "Erinys that walketh in the darkness" for his madness; in his oath he invokes "Erinyes, who under earth take vengeance upon men, whosoever forsweareth himself"; the Erinyes stop the horse Xanthos from speaking further after he prophesies Achilles' death
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.4: Named individually for the first time — Alecto, Tisiphone, and Megaera; born from the blood of [Uranus](../deities/uranus.md)'s castration
 
 [^theb-curse]: "great misery fell on his heart, and he straight-way called down bitter curses there in the presence of both his sons. And the avenging Fury of the gods failed not to hear him as he prayed that they might never divide their father's goods in loving brotherhood, but that war and fighting might be ever the portion of them both" (Thebaid, Fragment 2, trans. H.G. Evelyn-White)
 [^od11-epicaste]: "she left pains behind full many, even all that the Avengers of a mother bring to pass" (Odyssey XI.6162-6163, trans. Butcher and Lang)

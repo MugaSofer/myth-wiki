@@ -33,3 +33,4 @@ Uranus "used to hide them all away in a secret place of Earth so soon as each wa
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 126-172: Birth, fathering children, imprisonment of offspring, Gaia's plot
+- **[Bibliotheca](../sources/apollodorus.md)** 1.1.1-1.1.4: "Sky was the first who ruled over the whole world"; weds Earth; begets Hundred-Handers, Cyclopes, Titans; casts Cyclopes into Tartarus; castrated by Cronos with adamantine sickle

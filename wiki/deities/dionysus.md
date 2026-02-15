@@ -75,6 +75,16 @@ This passage is notable for showing Dionysus in fear and flight — "affrighted"
 [^il6-lykurgos]: "he that erst chased through the goodly land of Nysa the nursing-mothers of frenzied Dionysos; and they all cast their wands upon the ground, smitten with murderous Lykurgos' ox-goad. Then Dionysos fled and plunged beneath the salt sea-wave, and Thetis took him to her bosom, affrighted, for a mighty trembling had seized him at his foe's rebuke" (Iliad VI.3581-3586, trans. Lang, Leaf, and Myers)
 [^il6-punishment]: "with Lykurgos the gods that live at ease were wroth, and Kronos' son made him blind, and he was not for long, because he was hated of all the immortal gods" (Iliad VI.3586-3588)
 
+## In the Bibliotheca (1.6.2)
+
+### Slaying Eurytus in the Gigantomachy
+
+During the battle with the [Giants](../creatures/giants.md), "Eurytus was killed by Dionysus with a thyrsus."[^apd-dion-eurytus]
+
+> **NEW DETAIL:** This is the only reference in our sources to Dionysus as a warrior. His weapon — the thyrsus, a staff tipped with ivy — is associated with his worship and revelry rather than combat.
+
+[^apd-dion-eurytus]: "Eurytus was killed by Dionysus with a thyrsus" (Bibliotheca 1.6.2, trans. Frazer)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** XI: "Artemis slew her [Ariadne] ere that in sea-girt Dia, by reason of the witness of Dionysus" — his testimony led to Ariadne's death at Artemis's hand[^od11-ariadne]
@@ -83,6 +93,16 @@ This passage is notable for showing Dionysus in fear and flight — "affrighted"
 - **[Homeric Hymn I](../sources/homeric-hymns.md)**: Variant birth traditions; born at Nysa, secretly from Hera
 - **[Homeric Hymn VII](../sources/homeric-hymns.md)**: The pirates — bonds, miracles, transformation into dolphins
 - **[Iliad](../sources/iliad.md)** VI: Lykurgos story — chased from Nysa, fled into the sea, sheltered by Thetis; "frenzied Dionysos"; Zeus blinded Lykurgos
+- **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Killed the giant Eurytus with a thyrsus in the [Gigantomachy](../creatures/giants.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 1.8.1: Gave Oeneus a vine-plant — "Oeneus was the first who received a vine-plant from Dionysus"[^apd-vine]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.8.1: Deianira "is said to have been begotten on Althaea by Dionysus"[^apd-deianira]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.12: Drove the women of Argos mad; Melampus "healed them on condition of receiving part of the kingdom"[^apd-argos]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Sons Phanus and Staphylus listed as Argonauts[^apd-argonauts-dion]
+
+[^apd-vine]: "Reigning over Calydon, Oeneus was the first who received a vine-plant from Dionysus" (Bibliotheca 1.8.1, trans. Frazer)
+[^apd-deianira]: "Deianira, who is said to have been begotten on Althaea by Dionysus" (Bibliotheca 1.8.1, trans. Frazer)
+[^apd-argos]: "when Dionysus drove the women of Argos mad, he healed them on condition of receiving part of the kingdom" (Bibliotheca 1.9.12, trans. Frazer)
+[^apd-argonauts-dion]: "Phanus and Staphylus, sons of Dionysus" (Bibliotheca 1.9.16, trans. Frazer)
 
 [^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey XXIV.12627-12629, trans. Butcher and Lang)
 

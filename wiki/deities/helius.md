@@ -79,3 +79,9 @@ Odysseus notes that he was not present for this divine exchange, and that his kn
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)** 26-27, 62-87: Witnesses abduction; tells Demeter the truth
 - **[Odyssey](../sources/odyssey.md)** VIII: In the Song of Ares and Aphrodite — "Helios, that had seen them at their pastime" reports the adultery to Hephaestus
 - **[Odyssey](../sources/odyssey.md)** XII: Sacred cattle on Thrinacia; Lampetie reports their slaughter; Helius threatens to shine among the dead; [Zeus](zeus.md) promises vengeance
+- **[Bibliotheca](../sources/apollodorus.md)** 1.2.2: Born of [Hyperion](hyperion.md) and [Theia](theia.md) (as "Sun")
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.1: Father of Aeetes, [Circe](circe.md), and Pasiphae — "Aeetes, son of the Sun and of Perseis, and brother of Circe and Pasiphae, whom Minos married"[^apd-children]
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.28: Gave Medea a car drawn by winged dragons for her escape from Corinth — "having got from the Sun a car drawn by winged dragons she fled on it to Athens"[^apd-dragon-car]
+
+[^apd-children]: "Aeetes, son of the Sun and of Perseis, and brother of Circe and Pasiphae, whom Minos married" (Bibliotheca 1.9.1, trans. Frazer)
+[^apd-dragon-car]: "having got from the Sun a car drawn by winged dragons she fled on it to Athens" (Bibliotheca 1.9.28, trans. Frazer)
