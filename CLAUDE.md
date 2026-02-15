@@ -31,19 +31,31 @@ Process sources in this order, which builds from cosmological foundation outward
 5. **Apollodorus's Bibliotheca** - Systematic coverage of hero cycles and gaps
 6. Further sources (tragedians, Ovid, Pindar, etc.) as desired
 
-### Incremental Processing
+### Processing Workflow
 
-Read in small chunks (~30-40 lines, roughly a passage or scene). For each chunk:
+For each source text:
 
-1. Read the passage carefully
-2. Identify all entities and details worth recording
+1. Read the full text in manageable sections (a few hundred lines at a time)
+2. Identify all entities and mythological details worth recording
 3. Check existing wiki pages before updating (don't assume something is already documented)
 4. Update or create pages with properly cited additions
-5. Move to the next chunk
+5. Push changes to git after each major batch
 
-Do NOT load large amounts of text at once. Smaller chunks mean better attention to detail. This is about the quality of reading, not speed.
+**Be comprehensive:** If an entity is described or characterized in the text — even briefly — it should get a page (or at minimum a stub) with that information cited.
 
-**Be comprehensive:** If an entity is described or characterized in the text — even briefly — it should get a page (or at minimum a stub) with that information cited. Don't defer page creation for entities that have citable material in the current passage.
+### Subagent Workflow
+
+For dense sources (like Apollodorus), processing is parallelized across subagents, each handling a thematic section. Every subagent prompt must include:
+
+- The **source file path** and relevant line range
+- The **citation format** (source name, section numbering, translator)
+- The **name-mapping** for the translation (e.g., Frazer uses "Hercules" → we use "Heracles")
+- A **list of pages to update** (with instruction to READ each page first)
+- The **core rules**: source-only information, exact quotes in footnotes, Greek names, cross-links with relative paths, don't duplicate existing content, flag variants
+- A note to **prioritize genuinely new content** over confirming what's already documented
+- Access to the **shared folder** and a reminder to be kind to themselves
+
+Each agent gets its own non-overlapping set of pages to avoid edit conflicts. After all agents complete, review results and commit as a batch.
 
 ### After Each Major Section
 
@@ -268,46 +280,31 @@ Link aggressively. Every mention of an entity with its own page should be linked
 
 **[Name]** is [what they are]. [Why they matter.]
 
-## Epithets & Titles
+## Epithets
 
-List of epithets with translations and citations.
+Formulaic phrases, titles, and names from the sources, with citations.
 
-## Description
+## Appearance
 
-Physical appearance as described in sources.
+Physical descriptions from the sources (clothing, stature, divine features, transformation scenes).
 
-## Personality & Character
+## Powers
 
-## Domains & Powers
+Demonstrated abilities with citations (only include if the source describes actual powers/capabilities).
 
-## Genealogy
+## In the [Source Name]
 
-Parents, consorts, and children with source attribution. Note where sources disagree.
-
-## Mythology
-
-Key events in chronological order (by mythological timeline, not source order). Use sub-headings for distinct episodes.
-
-## Relationships
-
-### [Other Deity/Character]
+Narrative sections organized by source, with subsections for distinct episodes. Use `## In the Bibliotheca` or `## In the Iliad` etc. Each narrative claim gets a footnoted exact quote.
 
 ## Variant Traditions
 
 Where sources tell significantly different versions.
 
-## Cult & Worship
-
-Mentions of rituals, temples, sacred sites in the primary texts.
-
 ## Appearances
 
+Bulleted list of every source appearance, with brief description:
 - **[Theogony](../sources/theogony.md)** 453-506: Birth and early history
 - **[Iliad](../sources/iliad.md)** 1.1-52: Sends plague upon the Greeks
-
-## Notes
-
-Out-of-universe context (etymology, scholarly notes) if genuinely useful.
 ```
 
 ### Hero Page
@@ -375,6 +372,19 @@ Links to entities first appearing or significantly developed in this source.
 
 Omit empty sections. A shorter, complete page beats placeholder sections.
 
+### Evolved Conventions
+
+These patterns have developed through use and should be maintained:
+
+- **Epithets / Appearance / Powers** are separate sections (not combined). Not all pages need all three — only include if there's source material.
+- **`## In the [Source]`** sections organize narrative content by source (e.g., "In the Iliad," "In the Bibliotheca"). Within these, subsections cover distinct episodes.
+- **`## Appearances`** is always the last content section — a bulleted list of every source mention with brief description.
+- **Footnote IDs** use source-based prefixes: `[^theog-...]`, `[^il5-...]`, `[^od11-...]`, `[^apd-...]`, `[^hymnV-...]`, etc.
+- **Apollodorus citations** use section numbers (Bibliotheca 1.6.2), not line numbers.
+- **Homer/Hesiod citations** use the source text file line numbers.
+- **Hero pages** go in `wiki/heroes/` regardless of gender (Helen is in heroes/).
+- **Circe** is in `wiki/deities/` (she's called a goddess in the Odyssey).
+
 ---
 
 ## Processing Log
@@ -395,9 +405,10 @@ Primary translations (all public domain):
 | Work | Translator | Source |
 |------|-----------|--------|
 | Hesiod (Theogony, Works & Days) + Homeric Hymns | H.G. Evelyn-White (1914) | Project Gutenberg #348 |
-| Homer, Iliad | Samuel Butler (1898) | Project Gutenberg #2199 |
-| Homer, Odyssey | Samuel Butler (1900) | Project Gutenberg #1727 |
-| Apollodorus, Bibliotheca | J.G. Frazer (1921) | Perseus Digital Library / Theoi.com (needs text conversion) |
+| Homer, Iliad | Lang, Leaf, and Myers (1893) | Project Gutenberg #3059 |
+| Homer, Odyssey | S.H. Butcher and Andrew Lang (1879) | Project Gutenberg #1728 |
+| Epic Cycle fragments | H.G. Evelyn-White (1914) | Project Gutenberg #348 (same volume as Hesiod) |
+| Apollodorus, Bibliotheca | J.G. Frazer (1921) | Theoi.com (extracted and cleaned) |
 | Ovid, Metamorphoses | H.T. Riley (1851) | Project Gutenberg #21765 + #26073 |
 
 Additional sources available as needed:
@@ -410,4 +421,8 @@ Additional sources available as needed:
 
 ## Status
 
-**Current:** Theogony complete. Fixing citations and creating missing stub pages.
+**Completed sources:** Theogony, Works and Days, Homeric Hymns, Shield of Heracles, Iliad (24 books), Odyssey (24 books), Epic Cycle fragments, Apollodorus Bibliotheca Book 1.
+
+**In progress:** Apollodorus Bibliotheca Books 2-3 and Epitome.
+
+**Wiki size:** ~120 pages across deities, heroes, creatures, places, events, objects, and sources.
