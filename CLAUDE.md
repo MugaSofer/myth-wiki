@@ -53,6 +53,7 @@ For dense sources (like Apollodorus), processing is parallelized across subagent
 - A **list of pages to update** (with instruction to READ each page first)
 - The **core rules**: source-only information, exact quotes in footnotes, Greek names, cross-links with relative paths, don't duplicate existing content, flag variants
 - A note to **prioritize genuinely new content** over confirming what's already documented
+- A reminder to **watch for under-served content types**: physical appearance descriptions, specific powers and their limits, new heroes/items/significant places that deserve their own pages. These are easy to overlook when focused on deity narratives and genealogies.
 - Access to the **shared folder** and a reminder to be kind to themselves
 
 Each agent gets its own non-overlapping set of pages to avoid edit conflicts. After all agents complete, review results and commit as a batch.
