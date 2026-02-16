@@ -77,10 +77,37 @@ In the [Titanomachy](../events/titanomachy.md), Apollodorus specifies the arms e
 [^apd-cyc-desc]: "each had one eye on his forehead" (Bibliotheca 1.1.2, trans. Frazer)
 [^apd-cyc-arms]: "the Cyclopes then gave Zeus thunder and lightning and a thunderbolt, and on Pluto they bestowed a helmet and on Poseidon a trident" (Bibliotheca 1.2.1, trans. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Polyphemus, Galatea, and Acis (13.738-897)
+
+The [Metamorphoses](../sources/metamorphoses.md) gives Polyphemus a love story. The sea-nymph Galatea, daughter of [Nereus](../deities/nereus.md) and Doris, tells [Scylla](scylla.md) how the Cyclops pursued her with constant passion while she loved the youth Acis, son of Faunus. Polyphemus tried to make himself presentable: "Now, Polyphemus, wretched Cyclops, you are careful of appearance, and you try the art of pleasing. You have even combed your stiffened hair with rakes: it pleases you to trim your shaggy beard with sickles, while you gaze at your fierce features in a pool."[^met-cyc-grooming]
+
+He sang to Galatea from a hilltop, playing shepherd-pipes of "a hundred reeds" so loudly "the very mountains felt the pipings." His song is an elaborate praise-and-blame catalogue: Galatea is "fairer than the flower of snow-white privet... smoother than shells worn by continual floods" but also "wilder than all untrained bullocks, harder than seasoned oak, more treacherous than tumbled waters."[^met-cyc-song]
+
+Polyphemus boasted of his possessions — ewes, lambs, caves, fruit trees — and defended his single eye: "I have but one eye centered perfectly within my forehead, so it seems most like a mighty buckler. Ha! does not the Sun see everything from heaven? Yet it has but one eye."[^met-cyc-eye]
+
+He also recalled the prophecy of Telemus: "That single eye now midmost in your brow [Odysseus](../heroes/odysseus.md) will take from you." But Polyphemus laughed: "Most silly of the prophets! you are wrong, a maiden has already taken it!"[^met-cyc-telemus]
+
+When he discovered Galatea with Acis, he roared: "I see you and you never will again parade your love before me!" He hurled a mountain fragment at Acis, burying him. Galatea, through her divine power, let Acis "take ancestral power of river deities." The blood became water, the rock split, and "a youth emerged, the water flowing clear about his waist, his new horns circled with entwining reeds" — Acis transformed into a river-god.[^met-cyc-acis]
+
+### Macareus's Account (14.160-198)
+
+In Book XIV, the Greek Achaemenides (left behind on Sicily in the [Odyssey](../sources/odyssey.md)) recounts seeing the blinded Polyphemus: "a ghastly horror took possession of me when I saw his face and every feature streaming yet with blood, his ruthless hands, and the vile open space where his one eye had been, and his coarse limbs, and his beard matted through with human blood." He recalled Polyphemus devouring his companions — "like a lion, crouched, devouring quickly in his hideous jaws, their entrails and their flesh and their crushed bones, white marrowed, and their mangled quivering limbs."[^met-cyc-macareus]
+
+[^met-cyc-grooming]: "Now, Polyphemus, wretched Cyclops, you are careful of appearance, and you try the art of pleasing. You have even combed your stiffened hair with rakes: it pleases you to trim your shaggy beard with sickles, while you gaze at your fierce features in a pool" (Metamorphoses 13.764-770, trans. Brookes More)
+[^met-cyc-song]: "O Galatea, fairer than the flower of snow-white privet, and more blooming than the meadows... And yet, O Galatea; I must say, that you are wilder than all untrained bullocks, harder than seasoned oak, more treacherous than tumbled waters" (Metamorphoses 13.789-801, trans. Brookes More)
+[^met-cyc-eye]: "I have but one eye centered perfectly within my forehead, so it seems most like a mighty buckler. Ha! does not the Sun see everything from heaven? Yet it has but one eye" (Metamorphoses 13.851-855, trans. Brookes More)
+[^met-cyc-telemus]: "That single eye now midmost in your brow Ulysses will take from you... Most silly of the prophets! you are wrong, a maiden has already taken it!" (Metamorphoses 13.770-786, trans. Brookes More)
+[^met-cyc-acis]: "a youth emerged, the water flowing clear about his waist, his new horns circled with entwining reeds, and the youth certainly was Acis, though he was of larger stature and his face and features all were azure" (Metamorphoses 13.885-897, trans. Brookes More)
+[^met-cyc-macareus]: "a ghastly horror took possession of me when I saw his face and every feature streaming yet with blood, his ruthless hands, and the vile open space where his one eye had been, and his coarse limbs, and his beard matted through with human blood" (Metamorphoses 14.164-169, trans. Brookes More)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** I: Polyphemus named as "mightiest amongst all the Cyclôpes"; son of Poseidon and the nymph Thoösa; blinded by Odysseus
 - **[Odyssey](../sources/odyssey.md)** VII: Near of kin to the Phaeacians and the Giants; gods "appear manifest" to them
 - **[Odyssey](../sources/odyssey.md)** IX: Described as "a froward and a lawless folk" who plant nothing and have no laws; Polyphemus — "monstrous... like a wooded peak of the towering hills"; defies Zeus ("we are better men than they"); blinded by Odysseus; prays to Poseidon who hears him; soothsayer Telemus had foretold the blinding
 - **[Theogony](../sources/theogony.md)** 139-146: Birth, description, and role
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.738-897: Polyphemus in love with Galatea; combed hair with rakes, trimmed beard with sickles; hundred-reed pipes; elaborate song of praise and blame; boasted of one eye like the Sun; recalled Telemus's prophecy (laughed it off); crushed Acis with mountain fragment; Acis transformed to river-god
+- **[Metamorphoses](../sources/metamorphoses.md)** 14.160-198: Achaemenides's account of blinded Polyphemus — face streaming with blood, beard matted with human blood; devoured companions "like a lion"; groped through forests
 - **[Bibliotheca](../sources/apollodorus.md)** 1.1.2, 1.2.1: Imprisoned in Tartarus by Uranus; gave Zeus thunder/lightning/thunderbolt, Hades a helmet, Poseidon a trident

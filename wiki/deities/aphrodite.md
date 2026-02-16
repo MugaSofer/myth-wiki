@@ -184,6 +184,18 @@ Aphrodite then took revenge on [Helius](helius.md) for his betrayal, brooding "o
 [^met-aphrodite-exposed]: "the Lemnian cuckold opened wide the folding ivory doors and called the Gods,—to witness. There they lay disgraced and bound... The Gods were moved to laughter: and the tale was long most noted in the courts of Heaven" (Metamorphoses 4.183-189, trans. Brookes More)
 [^met-aphrodite-revenge]: "The Cytherean Venus brooded on the Sun's betrayal of her stolen joys, and thought to torture him in passion's pains" (Metamorphoses 4.190-192, trans. Brookes More)
 
+### Venus and Adonis (10.519-739)
+
+Cupid accidentally scratched Aphrodite's breast with an arrow while kissing her, and she fell in love with [Adonis](../heroes/adonis.md), a youth born from the incestuous union of Myrrha and Cinyras. Venus "neglecting heaven, prefers Adonis to heaven," and became his hunting companion, going "through the woods and over mountain ridges and wild fields, rocky and thorn-set, bare to her white knees after Diana's manner."[^met-aph-adonis]
+
+She warned him against fierce beasts: "Dear boy, do not be rash, do not attack the wild beasts which are armed by nature, lest your glory may cost me great sorrow." To illustrate, she told the tale of [Atalanta](../heroes/atalanta.md) and Hippomenes — how she gave golden apples from her sacred field in Cyprus, and how the couple's ingratitude in desecrating Cybele's temple led to their transformation into lions.[^met-aph-warning]
+
+After departing in her swan-drawn chariot, Adonis ignored her warning and was gored by a wild boar. Venus heard his groans from the air, "leaped down — tore her garment — tore her hair — and beat her bosom with distracted hands." She declared: "My sorrow for Adonis will remain, enduring as a lasting monument. Each passing year the memory of his death shall cause an imitation of my grief." Sprinkling nectar on his blood, she transformed him into the anemone — "the winds which give the flower its name, Anemone, shake it right down."[^met-aph-anemone]
+
+[^met-aph-adonis]: "Venus, neglecting heaven, prefers Adonis to heaven, and so she holds close to his ways as his companion... She goes through the woods and over mountain ridges and wild fields, rocky and thorn-set, bare to her white knees after Diana's manner" (Metamorphoses 10.532-544, trans. Brookes More)
+[^met-aph-warning]: "Dear boy, do not be rash, do not attack the wild beasts which are armed by nature, lest your glory may cost me great sorrow" (Metamorphoses 10.543-549, trans. Brookes More)
+[^met-aph-anemone]: "My sorrow for Adonis will remain, enduring as a lasting monument. Each passing year the memory of his death shall cause an imitation of my grief. Your blood, Adonis, will become a flower perennial... the winds which give the flower its name, Anemone, shake it right down" (Metamorphoses 10.724-739, trans. Brookes More)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 16, 188-206: Mentioned in invocation; birth from sea-foam
@@ -199,6 +211,7 @@ Aphrodite then took revenge on [Helius](helius.md) for his betrayal, brooding "o
 - **[Odyssey](../sources/odyssey.md)** XVIII: Penelope beautified with "beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the [Graces](graces.md)" — Athena uses Aphrodite's own beauty standard as the measure[^od18-cytherea]
 - **[Odyssey](../sources/odyssey.md)** XX: In the myth of the daughters of Pandareus — "fair [Aphrodite](aphrodite.md) cherished them with curds and sweet honey and delicious wine" and later went "wending to high [Olympus](../places/olympus.md), to pray that a glad marriage might be accomplished for the maidens"[^od20-pandareus]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Her garments "which the Graces and Hours had made for her and dyed in flowers of spring — such flowers as the Seasons wear — in crocus and hyacinth and flourishing violet and the rose's lovely bloom";[^cyp-garments] competes with Hera and Athena in the Judgment of Paris; Paris chooses her and she promises him Helen[^cyp-judgment]
+- **[Metamorphoses](../sources/metamorphoses.md)** 10.519-739: Wounded by Cupid's arrow; loved Adonis; abandoned heaven to hunt with him; warned against fierce beasts; told tale of Atalanta/Hippomenes and golden apples; Adonis gored by boar; tore her garments in grief; sprinkled nectar on his blood; transformed him to anemone
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.4: Cursed [Eos](eos.md) (Dawn) with perpetual love for mortals, because Eos had bedded with [Ares](ares.md)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.1: Daughter of [Zeus](zeus.md) and [Dione](dione.md) (variant from the Theogony's birth from Uranus)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.17: Cursed the Lemnian women with a noisome smell — "she visited them with a noisome smell; therefore their spouses took captive women from the neighboring country of Thrace and bedded with them"[^apd-lemnos]
