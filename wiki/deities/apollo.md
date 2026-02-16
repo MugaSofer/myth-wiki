@@ -255,8 +255,43 @@ After Heracles murdered Iphitus and sought purification at Delphi, "the Pythian 
 [^apd-apo-troy]: "Apollo and Poseidon assumed the likeness of men and undertook to fortify Pergamum for wages. But when they had fortified it, he would not pay them their wages. Therefore Apollo sent a pestilence, and Poseidon a sea monster" (Bibliotheca 2.5.9, trans. J.G. Frazer)
 [^apd-apo-tripod]: "Apollo fought him, and Zeus threw a thunderbolt between them" (Bibliotheca 2.6.2, trans. J.G. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Python and the Pythian Games (1.438-451)
+
+After the Great Flood, the Earth spontaneously produced new creatures, including the monstrous Python. Apollo destroyed the serpent with a rain of arrows: "The God that bears the bow... destroyed the monster with a myriad darts, and almost emptied all his quiver, till envenomed gore oozed forth from livid wounds."[^met-apo-python] He then instituted the Pythian Games to commemorate the deed. Ovid notes that the laurel did not yet exist, so victors were crowned with oak.
+
+### Daphne (1.452-567)
+
+Apollo's first love arose from Cupid's revenge. After Apollo mocked the love god's bow, Cupid pierced him with a golden arrow of desire while striking the nymph [Daphne](../heroes/daphne.md) with a leaden dart of repulsion. Apollo pursued Daphne in a long chase, listing his divine credentials: "The Delphic Land, the Pataraean Realm, Claros and Tenedos revere my name," and confessing the irony of his plight: "The art of medicine is my invention, and the power of herbs; but though the world declare my useful works there is no herb to medicate my wound."[^met-apo-daphne] When Daphne was transformed into a laurel tree, Apollo claimed it as his sacred tree: "thy green leaves, O Laurel! shall forever crown my brows, be wreathed around my quiver and my lyre."[^met-apo-laurel]
+
+### Marsyas (6.382-400)
+
+The Satyr Marsyas challenged Apollo to a musical contest, pitting his flute against Apollo's lyre. They agreed "the one who lost should be the victor's prey." When Marsyas lost, Apollo flayed him alive. Marsyas cried: "Ah-h-h! why are you now tearing me apart? A flute has not the value of my life!" His body was stripped "till his whole body was a flaming wound, with nerves and veins and viscera exposed."[^met-apo-marsyas] The tears of the mourning Fauns, Satyrs, and Nymphs gathered underground and emerged as the river Marsyas in Phrygia.
+
+### Hyacinthus (10.162-219)
+
+Apollo's love for the Spartan youth Hyacinthus was so consuming that [Delphi](../places/delphi.md) "had no presiding guardian, while the God frequented the Eurotas and the land of Sparta." Apollo abandoned his dignity entirely: "without a thought of dignity, he carried nets and held the dogs in leash."[^met-apo-hyacinthus] During a discus contest, Apollo's throw rebounded from the earth and struck Hyacinthus in the face. Apollo went "deadly pale" and tried healing herbs, but "the wound is past all art of cure." He mourned: "I can see in your sad wound my own guilt, and you are my cause of grief and self-reproach. My own hand gave you death unmerited."[^met-apo-hyacinthus-grief] From the boy's blood sprang a flower inscribed with "AI, AI" — Apollo's cries of grief.
+
+### Contest with Pan, Midas's Ears (11.146-193)
+
+[Pan](pan.md) boasted his music surpassed Apollo's and agreed to a contest judged by the mountain god Tmolus. Pan played his rustic reeds; then Apollo appeared with "golden locks richly wreathed with fresh Parnassian laurel" and a "robe of Tyrian purple" sweeping the ground, playing his gem-studded lyre.[^met-apo-pan] Tmolus judged Apollo the winner. When King Midas alone called the award unjust, Apollo transformed his ears into those of an ass: "drawing them out to a hideous length, he fills them with gray hairs."[^met-apo-midas]
+
+[^met-apo-python]: "The God that bears the bow (a weapon used till then only to hunt the deer and agile goat) destroyed the monster with a myriad darts, and almost emptied all his quiver, till envenomed gore oozed forth from livid wounds" (Metamorphoses 1.438-451, trans. Brookes More)
+[^met-apo-daphne]: "The art of medicine is my invention, and the power of herbs; but though the world declare my useful works there is no herb to medicate my wound, and all the arts that save have failed their lord" (Metamorphoses 1.521-524, trans. Brookes More)
+[^met-apo-laurel]: "thou shalt be called my chosen tree, and thy green leaves, O Laurel! shall forever crown my brows, be wreathed around my quiver and my lyre" (Metamorphoses 1.557-560, trans. Brookes More)
+[^met-apo-marsyas]: "his living skin was ripped off from his limbs, till his whole body was a flaming wound, with nerves and veins and viscera exposed" (Metamorphoses 6.387-389, trans. Brookes More)
+[^met-apo-hyacinthus]: "without a thought of dignity, he carried nets and held the dogs in leash, and did not hesitate to go with Hyacinthus on the rough, steep mountain ridges" (Metamorphoses 10.168-172, trans. Brookes More)
+[^met-apo-hyacinthus-grief]: "I can see in your sad wound my own guilt, and you are my cause of grief and self-reproach. My own hand gave you death unmerited" (Metamorphoses 10.197-200, trans. Brookes More)
+[^met-apo-pan]: "Apollo's golden locks were richly wreathed with fresh Parnassian laurel; his robe of Tyrian purple swept the ground; his left hand held his lyre, adorned with gems and Indian ivory" (Metamorphoses 11.157-164, trans. Brookes More)
+[^met-apo-midas]: "The Delian god forbids his stupid ears to hold their native human shape; and, drawing them out to a hideous length, he fills them with gray hairs" (Metamorphoses 11.174-178, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.438-567: Slays Python; institutes Pythian Games; pursues Daphne; claims laurel as sacred tree
+- **[Metamorphoses](../sources/metamorphoses.md)** 6.382-400: Defeats Marsyas in musical contest; flays him alive; mourners' tears become the river Marsyas
+- **[Metamorphoses](../sources/metamorphoses.md)** 10.162-219: Love for Hyacinthus; accidentally kills him with discus; creates flower from his blood
+- **[Metamorphoses](../sources/metamorphoses.md)** 11.146-193: Defeats Pan in musical contest; gives Midas ass ears
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
 - **Catalogue of Women** Fragment 89: Crow brings news of Coronis's infidelity to "unshorn Phoebus" at Pytho
 - **Catalogue of Women** Fragment 90: [Zeus](zeus.md) smites Asclepius "with a lurid thunderbolt," arousing Apollo's anger

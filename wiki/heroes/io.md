@@ -81,8 +81,34 @@ The Fabulae concludes with Io's transformation into an Egyptian goddess: "When [
 [^hyg-egypt]: "Thence she swam to Scythia, and the Bosporus is named from that; thence she went to Egypt where she bore Epaphus" (Fabulae §145, trans. Mary Grant)
 [^hyg-isis]: "When Jove realized that for his sake she had borne such suffering, he restored her to her own form, and made her a goddess of the Egyptians, called Isis" (Fabulae §145, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Seduction and Transformation (1.567-621)
+
+Ovid locates the meeting in the Vale of Tempe, by the River Peneus. [Zeus](../deities/zeus.md) propositioned Io as she returned from her father Inachus's stream: "O virgin, worthy of immortal Jove... behold these shades of overhanging trees." When Io fled, Zeus "called forth a heavy shadow which involved the wide extended earth, and stopped her flight and ravished in that cloud her chastity."[^met-io-seduction]
+
+[Hera](../deities/hera.md) grew suspicious of the dark clouds in bright daylight. Zeus transformed Io into "a milk white heifer — formed so beautiful and fair that envious Juno gazed on her." Hera shrewdly asked for the heifer as a gift, trapping Zeus.
+
+### Argus and Suffering (1.622-723)
+
+Io was given to Argus, "whose head was circled with a hundred glowing eyes; of which but two did slumber in their turn."[^met-io-argus] She fed on "green leaves and bitter herbs" and slept on cold ground. When she saw her horns reflected in a stream, she was "frightened with her proper voice."
+
+The most poignant moment is her encounter with her father Inachus: she "licked his hands, kissing her father's palms" but could not speak. Instead "she traced in dust the letters of her name with cloven hoof; and thus her sad estate was known."[^met-io-letters] Inachus lamented: "it is a dreadful thing to be a God! The lethal gate of death is shut against me, and my growing grief must last throughout eternity."
+
+[Hermes](../deities/hermes.md) was sent to slay Argus. He told the story of [Pan](../deities/pan.md) and Syrinx to lull Argus to sleep, then struck off his head. Hera spread Argus's eyes upon her peacock's tail, then drove Io across the world with "a dreadful Fury."
+
+### Restoration in Egypt (1.738-746)
+
+At the Nile, Zeus swore on the Styx to end Io's suffering. "The hair fell from her snowy sides; the horns absorbed, her dilate orbs decreased." Io was restored but "long the very thought of speech, that she might bellow as a heifer, filled her mind with terror."[^met-io-restored]
+
+[^met-io-seduction]: "he called forth a heavy shadow which involved the wide extended earth, and stopped her flight and ravished in that cloud her chastity" (Metamorphoses 1.599-600, trans. Brookes More)
+[^met-io-argus]: "Argus, Aristorides, whose head was circled with a hundred glowing eyes; of which but two did slumber in their turn whilst all the others kept on watch and guard" (Metamorphoses 1.625-628, trans. Brookes More)
+[^met-io-letters]: "she traced in dust the letters of her name with cloven hoof; and thus her sad estate was known" (Metamorphoses 1.649-650, trans. Brookes More)
+[^met-io-restored]: "the hair fell from her snowy sides; the horns absorbed, her dilate orbs decreased; the opening of her jaws contracted; hands appeared and shoulders" (Metamorphoses 1.738-741, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.567-746: Seduced by Zeus in a cloud; transformed to white heifer; guarded by hundred-eyed Argus; traces name in dust for father; Hermes slays Argus; driven by Fury; restored in Egypt
 - **Aegimius** Fragments 3-6: Io daughter of Peiren; Argus described as having "four eyes" and unwearying strength; [Hermes](../deities/hermes.md) slew Argus; Zeus ordained that love-oaths be without penalty
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Priestess of Hera; seduced by Zeus; transformed into white cow; guarded by Argus; Hermes killed Argus; gadfly sent by Hera; wandered through Europe and Asia; recovered form in Egypt; bore Epaphus; identified with Isis
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.4: Through Epaphus, ancestress of Libya, Agenor, Belus, Danaus, and Egyptus

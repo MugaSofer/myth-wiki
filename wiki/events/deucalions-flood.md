@@ -113,6 +113,29 @@ The Fabulae also preserves an alternate tradition linking the flood to Phaethon'
 [^hyg-152a-burn]: "Phaethon, son of Sol and Clymene, who had secretly mounted his father's car, and had been borne too high above the earth, from fear fell into the river Eridanus. When Jupiter struck him with a thunderbolt, everything started to burn" (Fabulae §152A, trans. Mary Grant)
 [^hyg-152a-flood]: "In order to have a reason for destroying the whole race of mortals, Jove pretended he wanted to put out the fire; he let loose the rivers everywhere, and all the human race perished except Deucalion and Pyrrha" (Fabulae §152A, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+Ovid gives the most elaborate poetic account of the flood. After [Zeus](../deities/zeus.md) recounts Lycaon's crime to the assembled gods, he resolves to destroy all of humanity. He sets aside his thunderbolts for fear of burning the cosmos and instead calls upon [Poseidon](../deities/poseidon.md) (Neptune) for aid: "Neptune with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare."[^met-flood-1]
+
+### The Deluge
+
+The flood's imagery is vivid and surreal. Dolphins swim through treetops, seals rest in former meadows, and "the wandering bird, seeking umbrageous groves and hidden vales, with wearied pinion droops into the sea." One desperate man takes to the hills, another rows where he had plowed.[^met-flood-2]
+
+### Deucalion and Pyrrha
+
+Only Deucalion and Pyrrha survive, arriving at Parnassus "in a small and fragile boat." Ovid emphasizes their piety: "As he no other lived so good and just, as she no other feared the Gods."[^met-flood-3] Deucalion laments their isolation: "O sister! wife! alone of woman left!... of all the dawn and eve behold of earth, but you and I are left—for the deep sea has kept the rest!"[^met-flood-4]
+
+### The Oracle and the Stones
+
+They consult the oracle of [Themis](../deities/themis.md), who instructs them to "cast behind you as you go, the bones of your great mother." Deucalion interprets the riddle: "Our mother is the Earth... and I may judge the stones of earth are bones."[^met-flood-5] The stones they threw behind them "assumed a softer form, enlarging as their brittle nature changed to milder substance — till the shape of man appeared, imperfect, faintly outlined first, as marble statue chiseled in the rough."[^met-flood-6]
+
+[^met-flood-1]: "Neptune with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare" (Metamorphoses 1.283-285, trans. Brookes More)
+[^met-flood-2]: "Dolphins darting mid the trees, meshed in the twisted branches, beat against the shaken oak trees. There the sheep, affrayed, swim with the frightened wolf" (Metamorphoses 1.302-304, trans. Brookes More)
+[^met-flood-3]: "As he no other lived so good and just, as she no other feared the Gods" (Metamorphoses 1.322-323, trans. Brookes More)
+[^met-flood-4]: "O sister! wife! alone of woman left!... of all the dawn and eve behold of earth, but you and I are left—for the deep sea has kept the rest!" (Metamorphoses 1.351-356, trans. Brookes More)
+[^met-flood-5]: "Our mother is the Earth, and I may judge the stones of earth are bones that we should cast behind us as we go" (Metamorphoses 1.393-396, trans. Brookes More)
+[^met-flood-6]: "hard and rigid stones assumed a softer form, enlarging as their brittle nature changed to milder substance,—till the shape of man appeared, imperfect, faintly outlined first, as marble statue chiseled in the rough" (Metamorphoses 1.400-404, trans. Brookes More)
+
 ## Appearances
 
 - **[Catalogue of Women](../sources/theogony.md)** (Fragments 1-5): Deucalion son of Prometheus and Pronoea; Hellen son of Deucalion and Pyrrha; descendants rule Thessaly; daughters Thyia and Pandora bear sons to [Zeus](../deities/zeus.md); stones become people (laas/laos wordplay)
@@ -123,3 +146,4 @@ The Fabulae also preserves an alternate tradition linking the flood to Phaethon'
 - **[Bibliotheca](../sources/apollodorus.md)** 3.14.5: Dated to reign of Cranaus of Athens
 - **[Fabulae](../sources/hyginus.md)** §152A: Phaethon variant — Zeus uses Phaethon's fiery fall as pretext to flood the earth; "all the human race perished except Deucalion and Pyrrha"
 - **[Fabulae](../sources/hyginus.md)** §153: Fled to Mount Etna (not Parnassus); begged Zeus for companions "or to afflict them with a similar disaster"; stones cast behind become men/women; laos/las etymology
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.240-415: [Zeus](../deities/zeus.md) resolves to flood the earth; [Poseidon](../deities/poseidon.md) assists; Deucalion and Pyrrha survive on Parnassus; consult [Themis](../deities/themis.md); cast stones to refound humanity

@@ -203,8 +203,31 @@ During [Heracles](../heroes/heracles.md)' descent to [Hades](hades.md) for [Cerb
 [^apd-dem-iasion]: "Iasion loved Demeter, and in an attempt to defile the goddess he was killed by a thunderbolt" (Bibliotheca 3.12.1, trans. J.G. Frazer)
 [^apd-dem-eleusis2]: "Demeter was welcomed by Celeus at Eleusis" (Bibliotheca 3.14.7, trans. J.G. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Search for Proserpina (5.438-508)
+
+Ovid's Calliope sings of Demeter's (Ceres') frantic search for her daughter. After [Hades](hades.md) (Pluto) abducted [Persephone](persephone.md) (Proserpina) near Henna in Sicily, Demeter searched "every land and every sea in vain." She lit two torches from [Aetna](../places/troy.md)'s flames and carried them through the night without rest.[^met-dem-search]
+
+During her wanderings, a thirsty Demeter stopped at a cottage for a drink. A rude boy mocked her, and she sprinkled him with the barley-meal drink, transforming him into a spotted lizard — "a body starred with many coloured spots."[^met-dem-lizard]
+
+### The Blight on Earth (5.462-486)
+
+When the nymph Cyane revealed Proserpina's girdle in her pool, Demeter at last understood what had happened. In her rage, she blighted all of Sicily and then the world: "she broke with savage hand the plows which there had turned the soil, and full of wrath leveled in equal death the peasant and his ox." She made the "fertile isle" a waste — corn was blighted, rain and heat destroyed crops, and weeds choked the wheat.[^met-dem-blight]
+
+### Appeal to Zeus and Resolution (5.509-571)
+
+Demeter appealed to [Zeus](zeus.md) as both mother and father of Proserpina: "If thy hard heart deny a mother grace, yet haply as a father thou canst feel some pity for thy daughter."[^met-dem-plea] Zeus acknowledged the deed was done from love and proposed that Proserpina might return — unless she had eaten in the underworld. But the Fates intervened: Proserpina "had broken fast" by chewing "seven grains, picked from the pallid rind" of a pomegranate.[^met-dem-seeds] Zeus divided the year equally: "for six months with her mother she abides, and six months with her husband."
+
+[^met-dem-search]: "Aurora, when she came with ruddy locks, might never know, nor even Hesperus, if she might deign to rest.—She lit two pines from Aetna's flames and held one in each hand, and restless bore them through the frosty glooms" (Metamorphoses 5.441-445, trans. Brookes More)
+[^met-dem-lizard]: "His face grew spotted where the mixture struck, and legs appeared where he had arms before, a tail was added to his changing trunk" (Metamorphoses 5.455-458, trans. Brookes More)
+[^met-dem-blight]: "she broke with savage hand the plows which there had turned the soil, and full of wrath leveled in equal death the peasant and his ox" (Metamorphoses 5.477-479, trans. Brookes More)
+[^met-dem-plea]: "O Jupiter, a suppliant to thee, both for my own offspring as well as thine" (Metamorphoses 5.514-515, trans. Brookes More)
+[^met-dem-seeds]: "The virgin, thoughtless while she strayed among the cultivated Stygian fields, had broken fast. While there she plucked the fruit by bending a pomegranate tree, and plucked, and chewed seven grains, picked from the pallid rind" (Metamorphoses 5.534-538, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.341-571: Search for Proserpina with torches; transforms a mocking boy into a lizard; blights Sicily and the world; appeals to Zeus; year divided equally between Persephone and Hades
 - **[Theogony](../sources/theogony.md)** 454, 912-914, 969-974: Named among Cronos's children; bears Persephone; bears Plutus with Iasion
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Search for Persephone; famine; Eleusinian Mysteries
 - **[Odyssey](../sources/odyssey.md)** V: "Fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field" — Calypso cites as divine jealousy; Zeus slew Iasion with his thunderbolt

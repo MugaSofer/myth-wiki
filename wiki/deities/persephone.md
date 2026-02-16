@@ -117,8 +117,29 @@ Even more striking is the detail of who accompanied her: "While Proserpina was g
 
 The resolution follows the standard pattern: "Afterwards Ceres obtained from Jove permission for her to stay half of the year with her, and half with Pluto."[^hyg-146-division] This differs from the usual one-third/two-thirds division and matches the seasonal symbolism more precisely (six months above, six below).
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Abduction at Henna (5.385-408)
+
+Ovid locates the abduction at Lake Pergus near Henna in Sicily. [Aphrodite](aphrodite.md) (Venus) instigated the abduction, commanding Cupid to shoot [Hades](hades.md) (Pluto) so he would seize Persephone and prevent her from remaining a virgin like [Athena](athena.md) and [Artemis](artemis.md). Persephone was gathering lilies and violets "in a pretty zeal to strive beyond all others" when "she was seen, beloved, and carried off by Pluto — such the haste of sudden love." As her robe tore in the struggle, her gathered flowers spilled: "This mishap, so perfect was her childish innocence, increased her virgin grief."[^met-pers-abduction]
+
+The nymph Cyane tried to block Hades, declaring "thou shalt not by force alone become the son-in-law of Ceres." Hades hurled his scepter into the pool, splitting the earth, and plunged his chariot into [Tartarus](../places/tartarus.md).
+
+### The Pomegranate Seeds (5.534-538)
+
+The Fates barred Persephone's full return. "The virgin, thoughtless while she strayed among the cultivated Stygian fields, had broken fast. While there she plucked the fruit by bending a pomegranate tree, and plucked, and chewed seven grains, picked from the pallid rind."[^met-pers-seeds] Ascalaphus saw and testified, and was punished by being transformed into an owl.
+
+### Queen of Two Kingdoms (5.564-571)
+
+[Zeus](zeus.md) divided the year equally: "for six months with her mother she abides, and six months with her husband." Ovid emphasises her transformation: "Both her mind and her appearance quickly were transformed; for she who seemed so sad in Pluto's eyes" now showed a joyful face.[^met-pers-queen]
+
+[^met-pers-abduction]: "she was seen, beloved, and carried off by Pluto—such the haste of sudden love. The goddess, in great fear, called on her mother and on all her friends; and, in her frenzy, as her robe was rent, down from the upper edge, her gathered flowers fell from her loosened tunic" (Metamorphoses 5.395-401, trans. Brookes More)
+[^met-pers-seeds]: "The virgin, thoughtless while she strayed among the cultivated Stygian fields, had broken fast. While there she plucked the fruit by bending a pomegranate tree, and plucked, and chewed seven grains, picked from the pallid rind" (Metamorphoses 5.534-538, trans. Brookes More)
+[^met-pers-queen]: "for six months with her mother she abides, and six months with her husband.—Both her mind and her appearance quickly were transformed" (Metamorphoses 5.566-568, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.385-571: Abducted at Henna by Hades (Cupid-struck); gathers flowers; Cyane opposes Hades; eats seven pomegranate seeds; year divided equally; queen of two kingdoms
 - **[Theogony](../sources/theogony.md)** 768, 913-914: Named in the underworld; abducted by Hades
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Abduction; pomegranate; division of the year; queen of the underworld
 - **[Odyssey](../sources/odyssey.md)** X-XI: "Dread Persephone" in Circe's instructions; "Persephone hath given judgment" to Teiresias alone; "the daughter of Zeus, doth in no wise deceive thee" (Anticleia); "holy Persephone had scattered this way and that the spirits of the women folk" — sends forth the catalogue of heroines; Odysseus fears she may send the Gorgon's head

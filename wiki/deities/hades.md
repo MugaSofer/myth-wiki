@@ -61,9 +61,23 @@ When [Hermes](hermes.md) came to retrieve Persephone, "Aidoneus, ruler over the 
 [^hd-helius]: "Aidoneus, the Ruler of Many, is no unfitting husband among the deathless gods for your child, being your own brother and born of the same stock: also, for honour, he has that third share which he received when division was made at the first, and is appointed lord of those among whom he dwells" (Homeric Hymn to Demeter 83-87)
 [^hd-pomegranate]: "Aidoneus, ruler over the dead, smiled grimly and obeyed the behest of Zeus the king... he on his part secretly gave her sweet pomegranate seed to eat, taking care for himself that she might not remain continually with grave, dark-robed Demeter" (Homeric Hymn to Demeter 357-374)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Abduction of Proserpina (5.341-424)
+
+The Metamorphoses presents the abduction as orchestrated by [Aphrodite](aphrodite.md) (Venus). Typhoeus's struggles beneath Sicily caused earthquakes, and Hades (Pluto) left his realm to inspect the foundations, fearing the earth might crack open and "letting in the day, may terrify the trembling ghosts."[^met-had-quake] Venus saw him wandering and commanded [Cupid](../heroes/cupid.md) to shoot him: "aim thy keenest arrow at the heart of that divinity whom fortune gave the last award... why, then, should Tartarus escape our sway — the third part of the universe at stake."[^met-had-venus]
+
+Cupid's arrow "struck Pluto in the breast." At Lake Pergus near Henna, while [Persephone](persephone.md) (Proserpine) was gathering lilies and violets, "she was seen, beloved, and carried off by Pluto — such the haste of sudden love." She called for her mother as her gathered flowers fell from her torn robe.[^met-had-seize] The nymph Cyane opposed him: "O thou shalt go no further, Pluto, thou shalt not by force alone become the son-in-law of Ceres." But Hades "blazed with uncontrolled rage; and urged his steeds, and hurled his royal scepter in the pool." The earth opened and "received the plunging chariot in the midst."[^met-had-cyane]
+
+[^met-had-quake]: "that dark despot left his gloomy habitation; carried forth by soot-black horses, in his gloomy car. He circumspectly viewed Sicilia's vast foundations" (Metamorphoses 5.356-362, trans. Brookes More)
+[^met-had-venus]: "aim thy keenest arrow at the heart of that divinity whom fortune gave the last award, what time the triple realm, by lot was portioned out... why, then, should Tartarus escape our sway — the third part of the universe at stake" (Metamorphoses 5.365-375)
+[^met-had-seize]: "while she heaped her basket, while she filled her bosom, in a pretty zeal to strive beyond all others; she was seen, beloved, and carried off by Pluto — such the haste of sudden love" (Metamorphoses 5.393-396)
+[^met-had-cyane]: "The son of Saturn blazed with uncontrolled rage; and urged his steeds, and hurled his royal scepter in the pool. Cast with a mighty arm it pierced the deeps. The smitten earth made way to Tartarus; it opened a wide basin and received the plunging chariot in the midst" (Metamorphoses 5.417-424)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 455-456, 767-768, 850, 912-914: Birth; dwelling described; trembles during Typhonomachy; receives Persephone
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Abducts Persephone; the pomegranate trick; "smiled grimly"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.1.5, 1.2.1: Swallowed by Cronos; Cyclopes bestow a helmet on him; allotted dominion of the underworld by lot
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.341-424: Left underworld to inspect Sicily's foundations after Typhoeus's earthquakes; struck by Cupid at Venus's command; abducted Proserpine at Lake Pergus; "carried forth by soot-black horses, in his gloomy car"; Cyane opposed him; hurled royal scepter into pool; earth opened to receive chariot
 - **[Iliad](../sources/iliad.md)** V: Wounded once by [Heracles](../heroes/heracles.md) "in Pylos amid the dead" with a swift arrow in the shoulder; healed by Paieon (recalled by Dione). His [helm](../objects/helm-of-hades.md) grants invisibility (worn by Athena)

@@ -72,8 +72,16 @@ The remaining Giants were each slain by specific gods, always finished by [Herac
 [^apd-agrius-thoas]: "the Fates, fighting with brazen clubs, killed Agrius and Thoas" (Bibliotheca 1.6.2, trans. Frazer)
 [^apd-finish]: "The other giants Zeus smote and destroyed with thunderbolts and all of them Hercules shot with arrows as they were dying." (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+The Metamorphoses gives a brief account of the Giants' assault on heaven. They "piled mountain on mountain to the lofty stars. But Jove, omnipotent, shot thunderbolts through Mount Olympus, and he overturned from Ossa huge, enormous Pelion."[^met-giants-1] After their destruction, [Gaia](../deities/gaia.md) gave the Giants a grim legacy: their blood soaked the earth, and she "infused the steaming gore with life renewed," creating a new race of men in human shape but equally violent — "this new race alike despised the Gods, and by the greed of savage slaughter proved a sanguinary birth."[^met-giants-2]
+
+[^met-giants-1]: "the throne of Heaven was threatened by the Giants; and they piled mountain on mountain to the lofty stars. But Jove, omnipotent, shot thunderbolts through Mount Olympus, and he overturned from Ossa huge, enormous Pelion" (Metamorphoses 1.151-155, trans. Brookes More)
+[^met-giants-2]: "the Earth was reeking with the copious blood of her gigantic sons; and thus replete with moisture she infused the steaming gore with life renewed... this new race alike despised the Gods, and by the greed of savage slaughter proved a sanguinary birth" (Metamorphoses 1.157-162, trans. Brookes More)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** VII: Eurymedon "who once was king among the haughty Giants. Howbeit, he destroyed his infatuate people, and was himself destroyed"
 - **[Theogony](../sources/theogony.md)** 185-186: Birth
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.1-1.6.2: Full Gigantomachy narrative — origin, description, oracle, battle, individual fates of each Giant
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.151-162: Giants pile mountains; [Zeus](../deities/zeus.md) overthrows them with thunderbolts; their blood begets a new violent race

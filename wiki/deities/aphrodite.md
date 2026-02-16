@@ -171,6 +171,19 @@ See [Hephaestus](hephaestus.md) §148. When Vulcan ([[Hephaestus](hephaestus.md)
 [^hyg-148-ref]: (Fabulae §148, trans. Mary Grant)
 [^hyg-148-hostile]: "To Sol's progeny, however, Venus, because of his disclosure, was always hostile." (Fabulae §148, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Mars and Venus (4.167-189)
+
+The [Metamorphoses](../sources/metamorphoses.md) retells the affair of [Ares](ares.md) and Aphrodite. [Helius](helius.md), "the Lord of Day, whose wakeful eye beholds at once whatever may transpire, witnessed the loves of Mars and Venus." He told [Hephaestus](hephaestus.md), "showing how Mars and Venus shamed his love, as they defiled his bed."[^met-aphrodite-witnessed] Hephaestus then forged invisible chains — "nets invisible, filmy of mesh and airy as the thread of insect-web" — and drew them around the bed. When Aphrodite lay down "to languish with her paramour," they were "meshed in the chains" and could "not thence arise, nor could they else but lie in strict embrace."[^met-aphrodite-trapped] Hephaestus "opened wide the folding ivory doors and called the Gods, to witness. There they lay disgraced and bound." The tale "was long most noted in the courts of Heaven."[^met-aphrodite-exposed]
+
+Aphrodite then took revenge on [Helius](helius.md) for his betrayal, brooding "on the Sun's betrayal of her stolen joys, and thought to torture him in passion's pains."[^met-aphrodite-revenge]
+
+[^met-aphrodite-witnessed]: "the Lord of Day, whose wakeful eye beholds at once whatever may transpire, witnessed the loves of Mars and Venus. Grieved to know the wrong, he called the son of Juno, Vulcan, and gave full knowledge of the deed, showing how Mars and Venus shamed his love, as they defiled his bed" (Metamorphoses 4.170-176, trans. Brookes More)
+[^met-aphrodite-trapped]: "Meshed in the chains they could not thence arise, nor could they else but lie in strict embrace" (Metamorphoses 4.182-183, trans. Brookes More)
+[^met-aphrodite-exposed]: "the Lemnian cuckold opened wide the folding ivory doors and called the Gods,—to witness. There they lay disgraced and bound... The Gods were moved to laughter: and the tale was long most noted in the courts of Heaven" (Metamorphoses 4.183-189, trans. Brookes More)
+[^met-aphrodite-revenge]: "The Cytherean Venus brooded on the Sun's betrayal of her stolen joys, and thought to torture him in passion's pains" (Metamorphoses 4.190-192, trans. Brookes More)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 16, 188-206: Mentioned in invocation; birth from sea-foam

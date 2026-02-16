@@ -129,6 +129,24 @@ Convinced by this demonstration, "the daughters of Pelias — namely, Alcestis, 
 [^hyg24-murder]: "So in the same way the daughters of Pelias — namely, Alcestis, Pelopia, Medusa, Pisidice, and Hippothoe — at Medea's instigation slew their father and cooked him in a brazen caldron" (Fabulae §24, trans. Mary Grant)
 [^hyg24-acastus]: "But Jason, at a given signal of Medea, made himself the master of the palace, and handed over the rule to Acastus, son of Pelias, brother of the Peliades, because he had gone with him to Colchis. He himself with Medea departed for Corinth" (Fabulae §24, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Jason and Medea at Colchis (7.1-158)
+
+Ovid tells the Colchis episode entirely through [Medea](medea.md)'s perspective, with Jason as the object of her passion rather than the active hero. When Jason arrives at Aeetes' court to demand the Golden Fleece, Medea is consumed with love at the sight of him: "she saw the son of Aeson, dying flames leaped up again... so now her love that had been smoldering, and which you would have thought was almost dead, when she had see again his manly youth, blazed up once more."[^met-jason-1]
+
+Jason speaks to Medea and promises marriage, "grasping her right hand," and she gives him the magic herbs to protect him against the fire-breathing bulls.[^met-jason-2] On the Field of [Ares](../deities/ares.md), Jason tames the brazen-footed bulls and sows dragon's teeth. When earth-born warriors rise to attack him, he hurls a stone into their midst so that "those earth-born brothers fought among themselves till all were slaughtered in blood-thirsty strife."[^met-jason-3] He then lulls the dragon guarding the [Golden Fleece](../objects/golden-fleece.md) with Lethean herbs, and "proudly sailed away bearing his treasure and the willing maid."[^met-jason-4]
+
+### Rejuvenation of Aeson (7.159-293)
+
+After the return to Iolcus, Jason grieves that his father Aeson is worn out with age. He begs Medea: "take from my life some years that I should live and add them to my father's ending days."[^met-jason-5] Medea refuses to shorten Jason's life but promises a greater feat, and through elaborate ritual magic restores Aeson to the vigor of youth.
+
+[^met-jason-1]: "she saw the son of Aeson, dying flames leaped up again... so now her love that had been smoldering, and which you would have thought was almost dead, when she had see again his manly youth, blazed up once more" (Metamorphoses 7.77-84, trans. Brookes More)
+[^met-jason-2]: "he spoke to her, and promised marriage, grasping her right hand... He swore that she could trust in him" (Metamorphoses 7.86-93, trans. Brookes More)
+[^met-jason-3]: "those earth-born brothers fought among themselves till all were slaughtered in blood-thirsty strife" (Metamorphoses 7.140-141, trans. Brookes More)
+[^met-jason-4]: "proudly sailed away bearing his treasure and the willing maid, (whose aid had saved him) to his native port Iolcus—victorious with the Argonauts" (Metamorphoses 7.149-158, trans. Brookes More)
+[^met-jason-5]: "take from my life some years that I should live and add them to my father's ending days" (Metamorphoses 7.166-167, trans. Brookes More)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 13: Son of Aeson; raised by [Chiron](../creatures/chiron.md) on Pelion
@@ -140,3 +158,4 @@ Convinced by this demonstration, "the daughters of Pelias — namely, Alcestis, 
 - **[Fabulae](../sources/hyginus.md)** §14-14.5: Leader of the Argonauts; son of Aeson and Alcimede; extensive catalog of Argonauts; ship positions
 - **[Fabulae](../sources/hyginus.md)** §22: Oracle to Aeetes about the fleece; tasks with bronze-footed bulls and dragon's teeth; [Juno](../deities/hera.md) arranges for [Venus](../deities/aphrodite.md) to inspire Medea with love; wins fleece with Medea's aid
 - **[Fabulae](../sources/hyginus.md)** §24: Medea disguised as priestess of [Diana](../deities/artemis.md); tricks Pelias's daughters (Alcestis, Pelopia, Medusa, Pisidice, Hippothoe) into killing their father; hands kingdom to Acastus; departs for Corinth
+- **[Metamorphoses](../sources/metamorphoses.md)** 7.1-293: Medea's love and Jason's trials at Colchis; tames brazen-footed bulls; sows dragon's teeth; lulls the guardian dragon; takes the Golden Fleece; begs Medea to restore Aeson's youth

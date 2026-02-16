@@ -227,8 +227,35 @@ When [Theseus](../heroes/theseus.md) arrived at Naxos with [Ariadne](../heroes/a
 
 [^apd-dion-ariadne]: "Dionysus fell in love with Ariadne and carried her off; and having brought her to Lemnos he enjoyed her, and begat Thoas, Staphylus, Oenopion, and Peparethus" (Epitome 1.9, trans. J.G. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Birth from Semele (3.253-315)
+
+[Hera](hera.md) (Juno), jealous of Semele, disguised herself as the old nurse Beroe and persuaded Semele to demand that [Zeus](zeus.md) (Jove) appear in his true divine form. Zeus, bound by his oath on the Styx, reluctantly appeared with mitigated thunder — arming himself not with the overwhelming flames that defeated [Typhoeus](../creatures/typhoeus.md) but with "other thunder-bolts... forged by the [Cyclops](../creatures/cyclopes.md) of a milder heat." Even so, "her mortal form could not endure the shock and she was burned to ashes in his sight." The unborn Dionysus was rescued: "An unformed babe was rescued from her side, and, nurtured in the thigh of Jupiter, completed Nature's time until his birth."[^met-dion-birth]
+
+### Pentheus (3.509-733)
+
+Pentheus, king of Thebes and grandson of [Cadmus](../heroes/cadmus.md), was the sole mortal who defied Dionysus's arrival. He scorned the god as "an unarmed boy... whose ringlets reek with myrrh" and ordered his followers seized. When his servants brought back a follower (Acoetes, the pilot from the pirate ship), the man told how Dionysus transformed the Tyrrhenian pirates: the ship filled with ivy and phantom beasts, and the terrified sailors "leaped into the sea, and were turned into dolphins."[^met-dion-pirates]
+
+Pentheus remained unmoved and went to spy on the Bacchic rites on Cithaeron. His mother Agave, "first of all the frenzied rout," mistook him for a boar and attacked. Pentheus pleaded: "Mother! Look upon me! I am your own; your boy Actaeon!" But the maddened women tore him apart.[^met-dion-pentheus]
+
+### Death of Orpheus and Midas (11.1-193)
+
+The Thracian Bacchantes attacked [Orpheus](../heroes/orpheus.md), whose music had scorned mortal women after losing [Eurydice](../heroes/orpheus.md). Their missiles at first fell harmless under the spell of his song, until the "clamor of the Berecynthian flutes, drums, breast-beatings, and Bacchic howlings" drowned out the lyre.[^met-dion-orpheus] The women tore him to pieces.
+
+Dionysus punished the Bacchantes by rooting them to the ground as oak trees. He then rewarded Midas of Phrygia, who had returned the wandering Silenus: "For his sake Bacchus gave the king the right to choose his own reward — a welcome gift, but ill he used the right."[^met-dion-midas] Midas chose the golden touch, only to find his food and drink turned solid gold, and begged the god to take it back. Dionysus directed him to wash in the river Pactolus, which ran golden ever after.
+
+[^met-dion-birth]: "her mortal form could not endure the shock and she was burned to ashes in his sight. An unformed babe was rescued from her side, and, nurtured in the thigh of Jupiter, completed Nature's time until his birth" (Metamorphoses 3.308-315, trans. Brookes More)
+[^met-dion-pirates]: The full pirate transformation scene occupies Metamorphoses 3.582-691 (trans. Brookes More)
+[^met-dion-pentheus]: Pentheus's dismemberment by Agave and her sisters, Metamorphoses 3.708-731 (trans. Brookes More)
+[^met-dion-orpheus]: "the clamor of the Berecynthian flutes, drums, breast-beatings, and Bacchic howlings, drowned the lyre" (Metamorphoses 11.15-18, trans. Brookes More)
+[^met-dion-midas]: "For his sake Bacchus gave the king the right to choose his own reward—a welcome gift, but ill he used the right" (Metamorphoses 11.100-102, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 3.253-315: Birth from Semele; Hera's trick; Zeus's thunderbolt; rescued from his mother's womb; twice-born
+- **[Metamorphoses](../sources/metamorphoses.md)** 3.509-733: Pentheus defies him; pirates turned to dolphins; Pentheus torn apart by his mother and aunts
+- **[Metamorphoses](../sources/metamorphoses.md)** 11.1-193: Bacchantes kill Orpheus; punishes them; rewards Midas with golden touch
 - **Catalogue of Women** Fragment 87: "Such gifts as Dionysus gave to men, a joy and a sorrow both" — wine binds hands, feet, tongue, and wits "with fetters unspeakable"
 - **[Odyssey](../sources/odyssey.md)** XI: "Artemis slew her [Ariadne] ere that in sea-girt Dia, by reason of the witness of Dionysus" — his testimony led to Ariadne's death at Artemis's hand[^od11-ariadne]
 - **[Odyssey](../sources/odyssey.md)** XXIV: At Achilles' funeral — "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned [Hephaestus](hephaestus.md)" — the urn that held Achilles' bones[^od24-urn]

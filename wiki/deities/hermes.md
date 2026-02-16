@@ -259,6 +259,22 @@ He drove the cattle through vast distances — through the lands of the Pelasgi,
 [^ge-cattle]: "he cast upon the dogs which were guarding them a stupor and strangles, so that the dogs forgot the cows and lost the power of barking... fastening to the tail of each one brushwood to wipe out the footmarks of the cows" (Great Eoiae, Fragment 16, trans. H.G. Evelyn-White)
 [^ge-battus]: "Hermes was angry because he was double-tongued, and struck him with his staff and changed him into a rock. And either frost or heat never leaves him" (Great Eoiae, Fragment 16, trans. H.G. Evelyn-White)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Slaying Argus (1.668-730)
+
+When [Zeus](zeus.md) could no longer endure [Io](../heroes/io.md)'s suffering as a heifer under Argus's watch, "he called his son, whom Maia brightest of the Pleiades brought forth, and bade him slay the star eyed guard, Argus."[^met-herm-called] Mercury descended to earth in disguise: "he seized his sleep compelling wand and fastened waving wings on his swift feet, and deftly fixed his brimmed hat on his head" — then "put off his cap and wings, though still retained his wand with which he drove through pathless wilds some stray she goats, and as a shepherd fared, piping on oaten reeds melodious tunes."[^met-herm-disguise]
+
+Argus invited this shepherd to sit with him, and Mercury played the pipes and told stories to lull those hundred eyes. He told the tale of [Pan](pan.md) and the nymph Syrinx to bring on sleep. "When Pan had told his tale to her, and she despised his prayers" she fled to the river Ladon and was transformed into marsh reeds, from which Pan fashioned his pipes.[^met-herm-syrinx]
+
+When Argus finally slumbered, Mercury struck: "he touched the drooping eyelids with his magic wand, compelling slumber. Then without delay he struck the sleeper with his crescent sword, where neck and head unite, and hurled his head, blood dripping, down the rocks."[^met-herm-strike] [Hera](hera.md) then "spread their glister on the feathers of her bird, emblazoning its tail with starry gems" — placing Argus's hundred eyes upon the peacock's tail.[^met-herm-peacock]
+
+[^met-herm-called]: "The sovereign god no longer could endure to witness Io's woes. He called his son, whom Maia brightest of the Pleiades brought forth, and bade him slay the star eyed guard, Argus" (Metamorphoses 1.668-671, trans. Brookes More)
+[^met-herm-disguise]: "he seized his sleep compelling wand and fastened waving wings on his swift feet, and deftly fixed his brimmed hat on his head... put off his cap and wings, though still retained his wand with which he drove through pathless wilds some stray she goats, and as a shepherd fared, piping on oaten reeds melodious tunes" (Metamorphoses 1.671-677)
+[^met-herm-syrinx]: "A famous Naiad dwelt among the Hamadryads, on the cold Arcadian summit Nonacris, whose name was Syrinx... she implored her sister Nymphs to change her form: and Pan, believing he had caught her, held instead some marsh reeds for the body of the Nymph" (Metamorphoses 1.689-710)
+[^met-herm-strike]: "he touched the drooping eyelids with his magic wand, compelling slumber. Then without delay he struck the sleeper with his crescent sword, where neck and head unite, and hurled his head, blood dripping, down the rocks and rugged cliff" (Metamorphoses 1.712-716)
+[^met-herm-peacock]: "Saturn's daughter spread their glister on the feathers of her bird, emblazoning its tail with starry gems" (Metamorphoses 1.717-719)
+
 ## Appearances
 
 - **Great Eoiae** Fragment 16: Cattle theft variant — cast stupor on dogs; drove cattle across Greece; tested Battus's oath; turned him to stone for breaking it
@@ -300,5 +316,6 @@ He drove the cattle through vast distances — through the lands of the Pelasgi,
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.5: Variant — stole Helen by Zeus's will and carried her to Egypt
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.30: Brought Protesilaus up from Hades for his grieving wife Laodamia
 - **[Bibliotheca](../sources/apollodorus.md)** E.7.38: Variant — Pan born to Hermes by Penelope
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.668-730: Called by Zeus to slay Argus; descended with sleep-compelling wand, wings, and brimmed hat; disguised as shepherd with oaten reeds; told story of Pan and Syrinx to lull Argus's hundred eyes; struck off his head with crescent sword; Hera placed Argus's eyes on peacock's tail
 - **[Fabulae](../sources/hyginus.md)** §143: Men lived under Jove speaking one tongue; Mercury explained languages and divided nations; called "ermeneutes" (interpreter); discord arose; Jove gave first rule to Phoroneus
 - **[Fabulae](../sources/hyginus.md)** §201: Gave Autolycus gift of theft and shapeshifting stolen goods; Sisyphus marked cattle hooves to catch him; Sisyphus seduced Anticleia while there; she married Laertes and bore Ulysses; some call Ulysses "Sisyphean" for this reason

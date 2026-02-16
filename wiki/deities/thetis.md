@@ -163,8 +163,21 @@ This makes Prometheus's release conditional on revealing the secret. "And so whe
 
 The bargain is completed: "[Heracles](../heroes/heracles.md) was sent to kill the eagle which was eating out Prometheus' heart. When it was killed, Prometheus after thirty thousand years was freed from Mount Caucasus."[^hyg-54-release] The specific detail of "thirty thousand years" appears nowhere else in the tradition and gives the duration of Prometheus's torment.
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Marriage to Peleus (11.221-265)
+
+The Metamorphoses gives the fullest account of Thetis's resistance to [Peleus](../heroes/peleus.md). She is described as "the lovely daughter of the sea" with "green hair."[^met-th-desc] Proteus prophesied she would bear a son who would "surpass the deeds of his own father," so [Zeus](zeus.md) renounced her and urged Peleus to marry her instead.
+
+Thetis would visit a myrtle cave, riding "quite naked, seated on her dolphin, which was harnessed."[^met-th-dolphin] When Peleus seized her, she transformed repeatedly — into a bird, a large tree, and a spotted tigress — but Peleus held fast. She finally yielded: "she groaned and said, 'You could not overcome me in this way, but some divinity has given you the power.'"[^met-th-yield]
+
+[^met-th-desc]: "the lovely daughter of the sea" and "the green haired maid" (Metamorphoses 11.226-228, trans. Brookes More)
+[^met-th-dolphin]: "There Thetis often went, quite naked, seated on her dolphin, which was harnessed" (Metamorphoses 11.236-237)
+[^met-th-yield]: "she groaned and said, 'You could not overcome me in this way, but some divinity has given you the power.' Then she appeared as Thetis" (Metamorphoses 11.259-262)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 11.221-265: Proteus prophesied son would surpass his father; Zeus renounced her; "the green haired maid" rode naked on a harnessed dolphin to a myrtle cave; Peleus seized her; shifted to bird, tree, spotted tigress; yielded and conceived Achilles
 - **[Odyssey](../sources/odyssey.md)** XXIV: Achilles' funeral — rises from the sea with the deathless maidens; the Nereids clad Achilles in incorruptible raiment; the nine Muses sang the dirge; seventeen days of mourning; gave a golden urn (gift of [Dionysus](dionysus.md), work of [Hephaestus](hephaestus.md)); asked the gods for prizes in the funeral games; "very dear wert thou to the gods"
 - **[Theogony](../sources/theogony.md)** 244: Listed among the Nereids
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 319-320: Rescued Hephaestus from the sea

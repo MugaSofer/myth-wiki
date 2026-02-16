@@ -65,6 +65,25 @@ The warning was stark: "he advised [Zeus](../deities/zeus.md) not to lie with Th
 [^hyg-marriage]: "Thetis was given in marriage to Peleus, son of Aeacus" (Fabulae §54, trans. Mary Grant)
 [^hyg-prometheus]: "Hercules was sent to kill the eagle which was eating out Prometheus' heart. When it was killed, Prometheus after thirty thousand years was freed from Mount Caucasus" (Fabulae §54, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Winning Thetis (11.221-265)
+
+The Metamorphoses gives a detailed account of Peleus's capture of [Thetis](../deities/thetis.md). Proteus had prophesied that Thetis would bear "a youth who by heroic actions will surpass the deeds of his own father," so [Zeus](../deities/zeus.md), "although the flame of love for Thetis burned his breast, would not embrace the lovely daughter of the sea, and urged his grandson Peleus, son of Aeacus, to wed the green haired maid."[^met-pel-prophecy]
+
+Thetis would come naked to a myrtle-shaded cave, "seated on her dolphin, which was harnessed." Peleus seized her while she slept, "and after he had tried to win her by entreaties, while she long continued to resist him, he resolved to conquer her by violence." She shape-shifted: "At first she was a bird, but while she seemed a bird he held her fast; and then she changed herself to a large tree... her third disguise was as a spotted tigress, which frightened him so that he lost his hold."[^met-pel-shapes]
+
+Peleus prayed to the sea-gods, and Proteus advised him to bind her with cords while she slept. When Peleus next seized her, "she changed her shape and persevered until convinced she could not overcome his hold — for her two arms were forced apart — she groaned and said, 'You could not overcome me in this way, but some divinity has given you the power.'" She then appeared as herself, and "Peleus saw her now deprived of all deceptions, he embraced her and was father of the great [Achilles](achilles.md)."[^met-pel-achilles]
+
+### Exile at Trachis (11.266-289)
+
+Peleus was "blest in everything, except in killing Phocus" — the murder of his half-brother. He fled to Trachis, where King Ceyx received him hospitably.[^met-pel-exile]
+
+[^met-pel-prophecy]: "you shall be the mother of a youth who by heroic actions will surpass the deeds of his own father, and your son shall be superior to his father's power. So Jupiter, although the flame of love for Thetis burned his breast, would not embrace the lovely daughter of the sea" (Metamorphoses 11.223-228, trans. Brookes More)
+[^met-pel-shapes]: "At first she was a bird, but while she seemed a bird he held her fast; and then she changed herself to a large tree, and Peleus clung with ardor to the tree; her third disguise was as a spotted tigress, which frightened him so that he lost his hold" (Metamorphoses 11.241-247)
+[^met-pel-achilles]: "she groaned and said, 'You could not overcome me in this way, but some divinity has given you the power.' Then she appeared as Thetis: and, when Peleus saw her now deprived of all deceptions, he embraced her and was father of the great Achilles" (Metamorphoses 11.259-264)
+[^met-pel-exile]: "Great Peleus' heart was filled with happiness; because of his great son and Thetis his dear wife: he was blest in everything, except in killing Phocus. The Trachinian land received him guilty of his brother's blood" (Metamorphoses 11.266-270)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 53: Origin of the Myrmidons — [Zeus](../deities/zeus.md) turned ants into men for Aeacus (Peleus's father); first seafarers
@@ -79,6 +98,7 @@ The warning was stark: "he advised [Zeus](../deities/zeus.md) not to lie with Th
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.6: Interrupts Thetis's fire immortality attempt; brings Achilles to Chiron
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.7: Takes revenge on Acastus and Astydamia
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.13: "Peleus was expelled from Phthia by the sons of Acastus and died"
+- **[Metamorphoses](../sources/metamorphoses.md)** 11.221-289: Proteus prophesied Thetis's son would surpass his father; Zeus urged Peleus to wed "the green haired maid"; seized her at a myrtle cave; she shifted to bird, tree, tigress; bound her on Proteus's advice; father of Achilles; exile at Trachis for killing Phocus
 - **[Fabulae](../sources/hyginus.md)** §54: Thetis prophecy — "her son would be greater than his father"; Prometheus's bargain with Zeus; marriage to Peleus; Heracles frees Prometheus
 
 [^apd-exile]: "As Phocus excelled in athletic sports, his brothers Peleus and Telamon plotted against him, and the lot falling on Telamon, he killed his brother in a match by throwing a quoit at his head, and with the help of Peleus carried the body and hid it in a wood" (Bibliotheca 3.12.6, trans. J.G. Frazer)

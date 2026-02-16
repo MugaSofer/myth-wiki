@@ -82,8 +82,32 @@ The [Fabulae](../sources/hyginus.md) combines elements from the Hesiodic traditi
 [^hyg-75-blind]: "When he decided in Jove's favour, Juno with the back of her hand angrily blinded him" (Fabulae §75, trans. Mary Grant)
 [^hyg-75-gifts]: "Jove because of this gave him seven lives to live, and made him a seer wiser than other mortals" (Fabulae §75, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Sex Change and Judgment (3.316-338)
+
+Ovid tells how [Zeus](../deities/zeus.md) (Jove), "a careless hour, indulged too freely in the nectar cup" and jested with [Hera](../deities/hera.md) (Juno) that women enjoyed greater pleasure in love than men. They chose Tiresias as arbiter, "than whom none knew both male and female joys."[^met-tir-arbiter] While wandering in a wood he had struck two coupling serpents with his staff and been transformed into a woman for seven years. Upon seeing the snakes again, he struck them once more and "his former sex returned; his manhood was restored."[^met-tir-change]
+
+When Tiresias sided with Zeus, Hera "enraged, decreed eternal night should seal Tiresias' eyes." Zeus could not undo another god's decree but compensated him with "the gift of prophecy."[^met-tir-blind]
+
+### Prophecy of Narcissus (3.339-350)
+
+Tiresias's fame of prophecy was proven by his first oracle. When the nymph Liriope asked if her son [Narcissus](narcissus.md) would attain old age, Tiresias answered: "If he but fail to recognize himself, a long life he may have, beneath the sun." The words "seemed frivolous" until the event confirmed them.[^met-tir-narcissus]
+
+### Warning to Pentheus (3.509-525)
+
+Tiresias warned Pentheus against opposing [Dionysus](../deities/dionysus.md): "Oh glad the day to thee, if, light denied, thine eyes, most fortunate, should not behold the Bacchanalian rites!" He prophesied Pentheus would be "torn asunder" by his own mother and aunts. Pentheus drove the seer away, "but all his words, prophetic, were fulfilled."[^met-tir-pentheus]
+
+[^met-tir-arbiter]: "than whom none knew both male and female joys: for wandering in a green wood he had seen two serpents coupling; and he took his staff and sharply struck them" (Metamorphoses 3.322-326, trans. Brookes More)
+[^met-tir-change]: "his former sex returned; his manhood was restored" (Metamorphoses 3.331-332, trans. Brookes More)
+[^met-tir-blind]: "the disappointment Juno felt surpassed all reason, and enraged, decreed eternal night should seal Tiresias' eyes... but Jove, to recompense his loss of sight, endowed him with the gift of prophecy" (Metamorphoses 3.336-340, trans. Brookes More)
+[^met-tir-narcissus]: "If he but fail to recognize himself, a long life he may have, beneath the sun" (Metamorphoses 3.348, trans. Brookes More)
+[^met-tir-pentheus]: "Oh glad the day to thee, if, light denied, thine eyes, most fortunate, should not behold the Bacchanalian rites! The day will come, and soon the light will dawn, when Bacchus, born of Semele, shall make his advent known" (Metamorphoses 3.513-518, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 3.316-350: Sex change by striking serpents; judgment between Zeus and Hera; blinded by Hera; compensated by Zeus with prophecy; prophecy of Narcissus
+- **[Metamorphoses](../sources/metamorphoses.md)** 3.509-525: Warns Pentheus against opposing Dionysus; prophecy of his dismemberment
 - **Melampodia** Fragment 1: Contest between Calchas and Mopsus (Tiresias's grandson through Manto); Calchas dies of vexation
 - **Melampodia** Fragment 2: Tiresias speaks of living seven generations
 - **Melampodia** Fragment 3: Sex-change on Cithaeron; judgment between [Zeus](../deities/zeus.md) and [Hera](../deities/hera.md); "Of ten parts a man enjoys only one"

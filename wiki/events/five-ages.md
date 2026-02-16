@@ -59,8 +59,34 @@ This age will end when moral decay is complete: "The father will not agree with 
 [^wd-iron]: "Thereafter, would that I were not among the men of the fifth generation, but either had died before or been born afterwards. For now truly is a race of iron, and men never rest from labour and sorrow by day, and from perishing by night; and the gods shall lay sore trouble upon them" (Works and Days 174-178)
 [^wd-iron-end]: "The father will not agree with his children, nor the children with their father, nor guest with his host, nor comrade with comrade; nor will brother be dear to brother as aforetime... And then Aidos and Nemesis, with their sweet forms wrapped in white robes, will go from the wide-pathed earth and forsake mankind to join the company of the deathless gods: and bitter sorrows will be left for mortal men, and there will be no help against evil" (Works and Days 182-201)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+Ovid retells the myth as the **Four Ages of Man**, omitting Hesiod's Heroic Age entirely and proceeding directly from Gold to Silver to Bronze to Iron. The sequence follows [Zeus](../deities/zeus.md)'s (Jove's) overthrow of [Cronos](../deities/cronos.md) (Saturn).
+
+### The Golden Age
+
+Under Cronos, "rectitude spontaneous in the heart prevailed, and faith." There were no laws, no judges, no punishment. No ships sailed, no wars were fought, and "of her own accord the earth produced a store of every fruit." It was a time of "Eternal Spring," when "rivers flowed milk and nectar, and the trees, the very oak trees, then gave honey of themselves."[^met-fiveages-1]
+
+### The Silver and Bronze Ages
+
+When [Zeus](../deities/zeus.md) overthrew Cronos, the Silver Age began, "though not so good as gold but still surpassing yellow brass." Zeus "first reduced to years the Primal Spring" and introduced the four seasons, driving men to build shelters and plant crops.[^met-fiveages-2] The Bronze Age followed, "when cruel people were inclined to arms but not to impious crimes."[^met-fiveages-3]
+
+### The Iron Age
+
+The final age brought complete moral collapse: "modesty and faith and truth took flight, and in their stead deceits and snares and frauds and violence and wicked love of gain, succeeded." Men mined the earth for gold and iron, bringing war. Family bonds dissolved: "The husband threatened to destroy his wife, and she her husband: horrid step dames mixed the deadly henbane." The age ended when "the virgin deity, Astraea vanished from the blood-stained earth."[^met-fiveages-4]
+
+[^met-fiveages-1]: "First was the Golden Age. Then rectitude spontaneous in the heart prevailed, and faith... of her own accord the earth produced a store of every fruit... Eternal Spring! Soft breathing zephyrs soothed and warmly cherished buds and blooms... rivers flowed milk and nectar, and the trees, the very oak trees, then gave honey of themselves" (Metamorphoses 1.89-112, trans. Brookes More)
+[^met-fiveages-2]: "When Saturn had been banished into night and all the world was ruled by Jove supreme, the Silver Age, though not so good as gold but still surpassing yellow brass, prevailed. Jove first reduced to years the Primal Spring" (Metamorphoses 1.113-116, trans. Brookes More)
+[^met-fiveages-3]: "The third Age followed, called The Age of Bronze, when cruel people were inclined to arms but not to impious crimes" (Metamorphoses 1.125-127, trans. Brookes More)
+[^met-fiveages-4]: "modesty and faith and truth took flight, and in their stead deceits and snares and frauds and violence and wicked love of gain, succeeded... the virgin deity, Astraea vanished from the blood-stained earth" (Metamorphoses 1.129-150, trans. Brookes More)
+
 ## Notes
 
 The Five Ages myth is notable for breaking its own pattern: the decline from Gold to Silver to Bronze is interrupted by the Heroic Age, which is "nobler and more righteous" than the Bronze. This has been taken as Hesiod inserting the established tradition of the heroic age (the age of the Trojan War and Thebes) into what was originally a four-stage myth of decline.
 
 The Golden Age under [Cronos](../deities/cronos.md) creates an interesting tension with the [Theogony](../sources/theogony.md), where Cronos is portrayed as the tyrant who swallowed his children. Here he presides over a paradise, and even rules the Islands of the Blessed after being "released from his bonds" by [Zeus](../deities/zeus.md).
+
+## Appearances
+
+- **[Works and Days](../sources/works-and-days.md)** 106-201: Five Ages — Gold, Silver, Bronze, Heroic, Iron
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.89-150: Four Ages — Gold, Silver, Bronze, Iron (Heroic Age omitted); Astraea's departure

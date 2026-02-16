@@ -2,7 +2,7 @@
 
 ## Current Source
 
-**Hyginus, Fabulae** (trans. Mary Grant, 1960) — COMPLETE
+**Ovid, Metamorphoses** (trans. Brookes More, 1922) — IN PROGRESS
 
 ## Progress
 
@@ -702,13 +702,57 @@ Created dedicated pages for major entities across all previously processed sourc
 
 ## Hyginus, Fabulae — COMPLETE
 
+### Ovid, Metamorphoses — In Progress
+
+**Source text:** Brookes More translation (1922), Boston: Cornhill Publishing Co. Public domain.
+**Source page created:** metamorphoses.md
+**Source file:** sources/ovid-metamorphoses-more.txt (16,307 lines, 15 books)
+
+**Roman→Greek name mapping:** Jove/Jupiter=Zeus, Juno=Hera, Minerva=Athena, Venus=Aphrodite, Phoebus/Apollo=Apollo, Diana=Artemis, Mercury=Hermes, Neptune=Poseidon, Vulcan=Hephaestus, Bacchus/Liber=Dionysus, Ceres=Demeter, Pluto/Dis=Hades, Proserpine=Persephone, Latona=Leto, Hercules=Heracles, Ulysses=Odysseus, Sol=Helius, Aurora=Eos
+
+**Processing approach:** Initial batch by 5 parallel Sonnet agents (hit rate limits after ~18 pages); continued direct processing.
+
+**Pages updated with "In the Metamorphoses" sections (38 total):**
+
+*By subagents (18 pages):*
+- giants.md, aphrodite.md, ares.md, helius.md, hephaestus.md, zeus.md, deucalions-flood.md, five-ages.md, ajax.md, jason.md, medea.md, golden-fleece.md
+
+*By direct processing (20 pages):*
+- apollo.md (Python, Daphne, Marsyas, Hyacinthus, Pan contest)
+- artemis.md (Actaeon, Callisto, Niobe's daughters)
+- tiresias.md (sex change, Narcissus prophecy, Pentheus warning)
+- dionysus.md (Semele birth, Pentheus, Orpheus/Midas)
+- demeter.md (search for Proserpina, blight, resolution)
+- persephone.md (abduction at Henna, pomegranate seeds, queen of two kingdoms)
+- hera.md (Io persecution, Semele trick, Tiresias, Heracles)
+- heracles.md (Achelous, Nessus, death, pyre, apotheosis)
+- perseus.md (Atlas, Andromeda, Gorgon, wedding battle)
+- io.md (seduction, Argus, restoration)
+- athena.md (Arachne, Medusa's punishment)
+- hermes.md (Argus slaying, Pan/Syrinx story)
+- pan.md (Syrinx, musical contest with Apollo)
+- cadmus.md (Europa quest, dragon of Mars, sown men, serpent transformation)
+- daedalus.md (wings, Icarus's fall, Perdix the partridge)
+- hades.md (abduction of Proserpina via Cupid's arrow)
+- poseidon.md (flood with trident, walls of Troy)
+
+**New pages created (9):**
+- daphne.md, phaethon.md, narcissus.md, orpheus.md, pygmalion.md, pyramus.md (by agents)
+- midas.md, niobe.md, arachne.md (direct)
+
+**Remaining work:**
+- Books VII-IX: theseus.md, atalanta.md (Book VIII boar, Book X race), deianira.md
+- Books X-XII: peleus.md, thetis.md, achilles.md
+- Books XIII-XV: odysseus.md, circe.md, aeneas.md, scylla.md
+- New pages still needed: tereus.md, ceyx.md, philemon.md, erysichthon.md
+- Update metamorphoses.md source page with book-by-book contents
+
 ## Next
 
 ### New Sources (in priority order)
 
-1. **Ovid, Metamorphoses** — 15 books, creation to Caesar. Enormous coverage with many unique myths (Narcissus, Pygmalion, Philemon & Baucis, etc.) and variant traditions for existing entries. Roman perspective throughout. Candidate translation: Brookes More (1922).
-2. **Virgil, Aeneid** — Essential for Aeneas, the underworld (Book VI), and Roman foundation myth. More focused than Ovid.
-3. **Pindar, Odes** — Rich mythological digressions scattered across Olympian, Pythian, Nemean, and Isthmian odes. Harder to process systematically but high-quality material.
+1. **Virgil, Aeneid** — Essential for Aeneas, the underworld (Book VI), and Roman foundation myth. More focused than Ovid.
+2. **Pindar, Odes** — Rich mythological digressions scattered across Olympian, Pythian, Nemean, and Isthmian odes. Harder to process systematically but high-quality material.
 
 ### Minor Expansions
 

@@ -189,6 +189,16 @@ For the sixth labour (the Stymphalian birds), "[Athena](athena.md) gave him braz
 [^apd-heph-breastplate]: "Hercules received a sword from Hermes, a bow and arrows from Apollo, a golden breastplate from Hephaestus, and a robe from Athena" (Bibliotheca 2.4.11, trans. J.G. Frazer)
 [^apd-heph-castanets]: "Athena gave him brazen castanets, which she had received from Hephaestus" (Bibliotheca 2.5.6, trans. J.G. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Mars and Venus (4.167-189)
+
+The [Metamorphoses](../sources/metamorphoses.md) retells [Hephaestus](hephaestus.md)'s entrapment of [Ares](ares.md) and [Aphrodite](aphrodite.md). When [Helius](helius.md) informed him of the affair, "Vulcan amazed,—the nimble-thoughted Vulcan lost his wits, so that he dropped the work his right hand held."[^met-heph-amazed] He immediately set to work forging an invisible trap: "he set to file out chains of brass, delicate, fine, from which to fashion nets invisible, filmy of mesh and airy as the thread of insect-web, that from the rafter swings."[^met-heph-chains] When the lovers were caught, "the Lemnian cuckold opened wide the folding ivory doors and called the Gods, to witness. There they lay disgraced and bound."[^met-heph-cuckold]
+
+[^met-heph-amazed]: "Vulcan amazed,—the nimble-thoughted Vulcan lost his wits, so that he dropped the work his right hand held" (Metamorphoses 4.176-177, trans. Brookes More)
+[^met-heph-chains]: "he set to file out chains of brass, delicate, fine, from which to fashion nets invisible, filmy of mesh and airy as the thread of insect-web, that from the rafter swings" (Metamorphoses 4.174-179, trans. Brookes More)
+[^met-heph-cuckold]: "the Lemnian cuckold opened wide the folding ivory doors and called the Gods,—to witness. There they lay disgraced and bound" (Metamorphoses 4.184-186, trans. Brookes More)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea

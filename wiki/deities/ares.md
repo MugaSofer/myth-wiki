@@ -95,6 +95,17 @@ The [Bibliotheca](../sources/apollodorus.md) mentions that [Eos](eos.md) (Dawn) 
 
 [^apd-ares-dawn]: "Aphrodite caused Dawn to be perpetually in love, because she had bedded with Ares" (Bibliotheca 1.4.4, trans. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Mars and Venus (4.167-189)
+
+The [Metamorphoses](../sources/metamorphoses.md) retells the story of [Ares](ares.md) and [Aphrodite](aphrodite.md)'s adultery. [Helius](helius.md) "witnessed the loves of Mars and Venus" and told [Hephaestus](hephaestus.md). Hephaestus forged chains "delicate, fine, from which to fashion nets invisible, filmy of mesh and airy as the thread of insect-web" and drew them around the bed.[^met-ares-nets] When Ares appeared "with his paramour," they were "meshed in the chains" and could "not thence arise, nor could they else but lie in strict embrace." Hephaestus then "called the Gods, to witness. There they lay disgraced and bound."[^met-ares-trapped]
+
+> **NOTE:** This version closely follows the [Odyssey](../sources/odyssey.md) VIII account but is more compressed, and Ovid adds the detail that Aphrodite subsequently took revenge on Helius for his disclosure (4.190ff).
+
+[^met-ares-nets]: "he set to file out chains of brass, delicate, fine, from which to fashion nets invisible, filmy of mesh and airy as the thread of insect-web" (Metamorphoses 4.174-178, trans. Brookes More)
+[^met-ares-trapped]: "Meshed in the chains they could not thence arise, nor could they else but lie in strict embrace,—cunningly thus entrapped by Vulcan's wit" (Metamorphoses 4.182-184, trans. Brookes More)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 922, 933-937: Birth; children with Aphrodite

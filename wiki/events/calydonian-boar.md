@@ -163,6 +163,36 @@ The Fabulae adds details about the aftermath: Meleager's sisters "because of the
 [^hyg-174-burn]: "When Althaea, the mother, heard that her son had dared to commit such a crime, remembering the warning of the Parcae, she brought out the brand from the chest and threw it on the fire" (Fabulae §174, trans. Mary Grant)
 [^hyg-174-birds]: "his sisters, all except Gorge and Deianeira, because of their weeping, were by the will of the gods changed into birds. These are called Meleagrides, 'guinea hens.' And Alcyone, wife of Meleager, died from grief in mourning for him" (Fabulae §174, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md) (8.262-532)
+
+### Diana's Revenge (8.262-328)
+
+Ovid provides the most elaborate telling. King Oeneus had "decreed that all should offer the first fruits of corn to Ceres — and to Bacchus wine of grapes — and oil of olives to the golden haired Minerva. Thus, the Gods were all adored... except alone Diana, and of all the Gods her altars only were neglected." [Artemis](../deities/artemis.md) cried: "Though I am thus dishonored, I will not be unrevenged!" and sent the boar.[^met-cb-diana]
+
+The boar is described vividly: "His burning, bloodshot eyes seemed coals of living fire, and his rough neck was knotted with stiff muscles, and thick-set with bristles like sharp spikes. A seething froth dripped on his shoulders, and his tusks were like the spoils of Ind. Discordant roars reverberated from his hideous jaws; and lightning — belched forth from his horrid throat — scorched the green fields."[^met-cb-boar]
+
+### The Hunters and the Hunt (8.300-425)
+
+The catalogue of heroes includes Castor and Pollux, [Jason](../heroes/jason.md), [Theseus](../heroes/theseus.md) with Pirithous, Telamon, [Peleus](../heroes/peleus.md), Nestor, and [Atalanta](../heroes/atalanta.md), described as "virgin of the groves, of Mount Lycaeus, glory of her sex; a polished buckle fastened her attire; her lustrous hair was fashioned in a knot." Meleager saw her and "at once longed for her beauty."[^met-cb-atalanta]
+
+The hunt is chaotic: spears miss, [Apollo](../deities/apollo.md) guides one dart but Diana "struck the iron head from the shaft" so only blunt wood hit the boar. Ancaeus, boasting that "weapons of a man excel a woman's," was gored through the groin. Nestor "vaulted on his long lance from the ground into the branches of a sheltering tree." Atalanta shot the arrow that first drew blood — "the feathered shaft quivered beneath the monster's ear" — and Meleager cried "Give honor to the courage of a maid!"[^met-cb-hunt]
+
+Meleager dealt the killing blow, plunging a spear into the boar's shoulder. He gave the spoils to Atalanta: "O Atalanta, glorious maid, of Nonacris, to you is yielded spoil."[^met-cb-kill]
+
+### Althaea and the Brand (8.445-532)
+
+The sons of Thestius seized the trophy from Atalanta. Meleager killed both Plexippus and Toxeus. His mother Althaea remembered the three Fates at his birth, who cast a billet in the flames and chanted: "Unto you we give, O child new-born! only the life of this; the period of this billet is your life." She had snatched it from the fire and hidden it.[^met-cb-fates]
+
+Now torn between mother's love and sister's vengeance — "as when the wind has seized upon a ship and blows against a tide of equal force" — she addressed the Eumenides: "I am avenging and committing crime! With death must death be justified and crime be added unto crime!" She cast the brand into the fire, and Meleager died in agony as it burned.[^met-cb-brand]
+
+[^met-cb-diana]: "except alone Diana, and of all the Gods her altars only were neglected... 'Though I am thus dishonored, I will not be unrevenged!'" (Metamorphoses 8.280-286, trans. Brookes More)
+[^met-cb-boar]: "His burning, bloodshot eyes seemed coals of living fire, and his rough neck was knotted with stiff muscles, and thick-set with bristles like sharp spikes. A seething froth dripped on his shoulders, and his tusks were like the spoils of Ind" (Metamorphoses 8.284-290)
+[^met-cb-atalanta]: "Atalanta, virgin of the groves, of Mount Lycaeus, glory of her sex; a polished buckle fastened her attire; her lustrous hair was fashioned in a knot... When Meleager saw her, he at once longed for her beauty" (Metamorphoses 8.317-326)
+[^met-cb-hunt]: "the feathered shaft quivered beneath the monster's ear, the red blood stained his hard bristles... 'Give honor to the courage of a maid!'" (Metamorphoses 8.380-391)
+[^met-cb-kill]: "O Atalanta, glorious maid, of Nonacris, to you is yielded spoil, my lawful right, and I rejoice to share the merit of this glorious victory" (Metamorphoses 8.425-432)
+[^met-cb-fates]: "the three attendant sisters of his fate... as they spun and drew the fatal threads they softly chanted, 'Unto you we give, O child new-born! only the life of this; the period of this billet is your life'" (Metamorphoses 8.452-460)
+[^met-cb-brand]: "I am avenging and committing crime! With death must death be justified and crime be added unto crime!" (Metamorphoses 8.490-494)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Meleager noted as dead; Aetolian leadership passed to Thoas
@@ -171,6 +201,7 @@ The Fabulae adds details about the aftermath: Meleager's sisters "because of the
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.1-1.8.3: Full account — Oeneus forgets [Artemis](../deities/artemis.md); Fates' brand prophecy; catalogue of hunters; Atalanta first to wound; Meleager kills boar and gives skin to Atalanta; sons of Thestius seize it; Meleager kills them; Althaea burns the brand; alternate war version; mourning women turned to birds
 - **[Bibliotheca](../sources/apollodorus.md)** 2.5.12: Meleager's shade meets [Heracles](../heroes/heracles.md) in Hades
 - **[Fabulae](../sources/hyginus.md)** §171: Fates prophesy at birth; Oeneus and Mars both slept with Althaea; brand hidden
+- **[Metamorphoses](../sources/metamorphoses.md)** 8.262-532: Most elaborate telling — Diana neglected by Oeneus; boar described (fire-eyes, bristle-spikes, lightning breath); massive hero catalogue; Atalanta "glory of her sex" draws first blood; Apollo guides dart but Diana removes iron head; Ancaeus boasts and is gored; Nestor vaults into a tree; Meleager kills boar and gives spoils to Atalanta; kills uncles Plexippus and Toxeus; three Fates and the brand; Althaea's conflict (wind-and-tide simile); she burns the brand; Meleager dies
 - **[Fabulae](../sources/hyginus.md)** §172: Oeneus omitted Diana yearly; boar sent
 - **[Fabulae](../sources/hyginus.md)** §173-173A: Extensive hunter catalogue (31 heroes including Phoenix, Laertes, Deucalion); 18 states that sent help
 - **[Fabulae](../sources/hyginus.md)** §174: Hide given to Atalanta; Althaea's brothers (Ideus, Plexippus, Lynceus) try to seize it; Meleager kills them; Althaea burns brand; sisters transformed to guinea hens except Gorge and Deianeira; Alcyone dies of grief

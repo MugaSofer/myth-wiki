@@ -131,6 +131,39 @@ Not recognizing her own son, she "persuaded the king that he was not Hippotes, b
 [^hyg27-mistake]: "And so when Medus was brought out to pay for his deceit by death, when she saw that things were otherwise than she had thought, she said she wished to talk with him, and gave him a sword, and bade him avenge the wrongs of his grandfather" (Fabulae §27, trans. Mary Grant)
 [^hyg27-revenge]: "Medus, at this news, killed Perses, and gained his grandfather's kingdom; from his name he called the country Media" (Fabulae §27, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Medea's Love for Jason (7.1-99)
+
+Ovid gives Medea the longest interior monologue in Book VII. At the sight of [Jason](jason.md), she is torn between duty to her father and her consuming passion: "I see a better course and I approve, but follow its defeat."[^met-medea-1] She debates whether to help the stranger, arguing with herself about betrayal and desire, until seeing Jason again at [Hecate](../deities/hecate.md)'s altar reignites her love: "her frenzy so prevailed, she was convinced that he was not a mortal."[^met-medea-2] She gives him the magic herbs and he swears fidelity "by the goddess of the triple form."[^met-medea-3]
+
+### The Trials and the Fleece (7.100-158)
+
+When the earth-born warriors threaten Jason, Medea is "struck with sudden panic" and "chilled with fear she wilted to the ground," adding incantations to protect him.[^met-medea-4] After his victory she longs to embrace him but holds back, "careful of her good name," and rejoices "in deep, silent love."[^met-medea-5]
+
+### Rejuvenation of Aeson (7.159-293)
+
+Medea's greatest magical feat is the restoration of [Jason](jason.md)'s father Aeson to youth. She invokes [Hecate](../deities/hecate.md), the Moon, and the Earth in an extraordinary incantation: "I speak—and the wild, troubled sea is calm, and I command the waters to arise! The clouds I scatter—and I bring the clouds."[^met-medea-6] Flying through the sky in a dragon-drawn chariot, she gathers herbs for nine days and nights. She cuts old Aeson's throat and fills "his ancient veins with rich elixir," restoring him to the vigor of forty years past.[^met-medea-7]
+
+### The Murder of Pelias (7.297-349)
+
+Medea feigns a quarrel with Jason and flees to Pelias, where she wins the trust of his daughters by demonstrating how she can turn an old ram into a lamb. She then tricks the daughters into cutting their father's throat and boiling him — but this time uses herbs "of no potency." The daughters, each averting her eyes, "blindly struck him with their cruel hands."[^met-medea-8]
+
+### Flight and Corinth (7.350-424)
+
+Medea escapes on her winged dragons, flying over many lands (Ovid lists a catalogue of mythological sites). At Corinth, "the new wife had been burnt by the Colchian witchcraft and two seas had seen the king's own palace all aflame, then, savagely she drew her sword, and bathed it in the blood of her own infant sons."[^met-medea-9] She flees to Athens, where she marries Aegeus and attempts to poison [Theseus](theseus.md) with aconite, but Aegeus recognizes his son's sword and dashes the cup away. "Medea suddenly escaped from death, in a dark whirlwind her witch-singing raised."[^met-medea-10]
+
+[^met-medea-1]: "I see a better course and I approve, but follow its defeat" (Metamorphoses 7.17-18, trans. Brookes More)
+[^met-medea-2]: "her frenzy so prevailed, she was convinced that he was not a mortal" (Metamorphoses 7.85-86, trans. Brookes More)
+[^met-medea-3]: "by the goddess of the triple form, Diana, Trivia, or Luna called, and by her sacred groves and fanes, he vowed" (Metamorphoses 7.94-96, trans. Brookes More)
+[^met-medea-4]: "struck with sudden panic, she turned ashen white, her bloodless cheeks were blanched; and chilled with fear she wilted to the ground" (Metamorphoses 7.131-134, trans. Brookes More)
+[^met-medea-5]: "careful of her good name, held aloof,—rejoicing in deep, silent love" (Metamorphoses 7.144-146, trans. Brookes More)
+[^met-medea-6]: "I speak—and the wild, troubled sea is calm, and I command the waters to arise! The clouds I scatter—and I bring the clouds" (Metamorphoses 7.200-202, trans. Brookes More)
+[^met-medea-7]: "his beard and hair no longer white with age, turned quickly to their natural vigor, dark and lustrous; and his wasted form renewed, appeared in all the vigor of bright youth" (Metamorphoses 7.285-289, trans. Brookes More)
+[^met-medea-8]: "every face averted so, they blindly struck him with their cruel hands" (Metamorphoses 7.330-331, trans. Brookes More)
+[^met-medea-9]: "the new wife had been burnt by the Colchian witchcraft and two seas had seen the king's own palace all aflame, then, savagely she drew her sword, and bathed it in the blood of her own infant sons" (Metamorphoses 7.394-398, trans. Brookes More)
+[^met-medea-10]: "Medea suddenly escaped from death, in a dark whirlwind her witch-singing raised" (Metamorphoses 7.424, trans. Brookes More)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: "A witch, daughter of Aeetes and Idyia"; conceived a passion for [Jason](jason.md); gave him a drug against fire and iron; lulled the dragon to sleep; won the Golden Fleece
@@ -145,3 +178,4 @@ Not recognizing her own son, she "persuaded the king that he was not Hippotes, b
 - **[Fabulae](../sources/hyginus.md)** §25: At Corinth with sons Mermerus and Pheres; Jason taunted for having foreign sorceress wife; Creon gives daughter Glauce to Jason; Medea sends poisoned golden crown; Creusa/Glauce, Jason, and Creon all burned (variant account); Medea kills her sons
 - **[Fabulae](../sources/hyginus.md)** §26: Exiled from Athens by priestess of [Diana](../deities/artemis.md)'s censure; travels to Colchis; stops at Absoros; gathers snakes into Absyrtus's tomb
 - **[Fabulae](../sources/hyginus.md)** §27: Medus claims to be Hippotes; Medea arrives as priestess claiming to cure sterility; nearly kills her own son unknowingly; recognizes him; gives him sword; Medus kills Perses; gains kingdom; names country Media
+- **[Metamorphoses](../sources/metamorphoses.md)** 7.1-424: Full Medea arc — interior monologue of love for Jason; gives him magic herbs; panic during the trials; rejuvenation of Aeson (incantation, dragon chariot, herb-gathering, cauldron magic); murder of Pelias via his daughters; flight over many lands; burning of Corinth; infanticide; attempted poisoning of Theseus; escape in a whirlwind

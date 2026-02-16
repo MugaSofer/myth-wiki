@@ -73,6 +73,16 @@ Odysseus notes that he was not present for this divine exchange, and that his kn
 [^od-zeus]: "Helios, do thou, I say, shine on amidst the deathless gods, and amid mortal men upon the earth, the grain-giver. But as for me, I will soon smite their swift ship with my white bolt, and cleave it in pieces in the midst of the wine-dark deep." (Odyssey XII.6905-6909, trans. Butcher and Lang)
 [^od-calypso]: "This I heard from Calypso of the fair hair; and she said that she herself had heard it from Hermes the Messenger." (Odyssey XII.6911-6912, trans. Butcher and Lang)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Mars and Venus (4.167-189)
+
+The [Metamorphoses](../sources/metamorphoses.md) presents [Helius](helius.md) as the catalyst of the affair's exposure: "the Lord of Day, whose wakeful eye beholds at once whatever may transpire, witnessed the loves of Mars and Venus."[^met-helius-witness] He reported the adultery to [Hephaestus](hephaestus.md), "showing how Mars and Venus shamed his love, as they defiled his bed."[^met-helius-report] [Aphrodite](aphrodite.md) then took revenge: "The Cytherean Venus brooded on the Sun's betrayal of her stolen joys, and thought to torture him in passion's pains, and wreak requital for the pain he caused."[^met-helius-revenge]
+
+[^met-helius-witness]: "the Lord of Day, whose wakeful eye beholds at once whatever may transpire, witnessed the loves of Mars and Venus" (Metamorphoses 4.170-173, trans. Brookes More)
+[^met-helius-report]: "Grieved to know the wrong, he called the son of Juno, Vulcan, and gave full knowledge of the deed, showing how Mars and Venus shamed his love, as they defiled his bed" (Metamorphoses 4.173-176, trans. Brookes More)
+[^met-helius-revenge]: "The Cytherean Venus brooded on the Sun's betrayal of her stolen joys, and thought to torture him in passion's pains, and wreak requital for the pain he caused" (Metamorphoses 4.190-193, trans. Brookes More)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 19, 371-374, 760, 956-957: Named in invocation; birth; never looks upon Sleep and Death; children

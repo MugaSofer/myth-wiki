@@ -366,8 +366,29 @@ Athena continued her role as [Heracles](../heroes/heracles.md)' protector:
 [^apd-ath-gorgon-lock]: "Hercules had received from Athena a lock of the Gorgon's hair in a bronze jar and gave it to Sterope, daughter of Cepheus" (Bibliotheca 2.7.3)
 [^apd-ath-apples]: "Athena got them and conveyed them back again; for it was not lawful that they should be laid down anywhere" (Bibliotheca 2.5.11)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Arachne (6.1-145)
+
+The Lydian weaver Arachne boasted that her skill surpassed Athena's (Minerva's) and refused to acknowledge the goddess as her teacher. Athena first appeared disguised as an old woman, advising Arachne to "pray that she may pardon you, for she will grant you pardon if you ask." Arachne scornfully replied: "Silly fool, — worn out and witless in your palsied age!"[^met-ath-arachne1]
+
+Revealed in her true form, Athena competed with Arachne in weaving. Athena's tapestry showed the contest with [Poseidon](poseidon.md) for Athens and scenes of divine punishment for mortal presumption. Arachne's tapestry depicted the gods' sexual transgressions — Zeus as bull, swan, eagle, gold; Poseidon in various disguises — all "woven true to life, in proper shades."[^met-ath-arachne2]
+
+"Minerva could not find a fleck or flaw — even Envy can not censure perfect art." Enraged at Arachne's perfection and her subjects' impiety, Athena "ripped the web, and ruined all the scenes" and struck Arachne on the head with her shuttle. Arachne hanged herself, but Athena saved her from death and transformed her: "At once all hair fell off, her nose and ears remained not, and her head shrunk rapidly in size... Her slender fingers gathered to her sides as long thin legs... and ever since, Arachne, as a spider, weaves her web."[^met-ath-arachne3]
+
+### Medusa's Punishment (4.794-803)
+
+Ovid reveals that Medusa was once "famed for beauty" and "the envious hope of many suitors." [Poseidon](poseidon.md) "attained her love in chaste Minerva's temple," and Athena in anger "changed the Gorgon's splendid hair to serpents horrible." She now "wears upon her breast those awful vipers — creatures of her rage."[^met-ath-medusa]
+
+[^met-ath-arachne1]: "Silly fool,—worn out and witless in your palsied age, a great age is your great misfortune!" (Metamorphoses 6.37-38, trans. Brookes More)
+[^met-ath-arachne2]: "Minerva could not find a fleck or flaw—even Envy can not censure perfect art—enraged because Arachne had such skill she ripped the web" (Metamorphoses 6.129-131, trans. Brookes More)
+[^met-ath-arachne3]: "At once all hair fell off, her nose and ears remained not, and her head shrunk rapidly in size... Her slender fingers gathered to her sides as long thin legs... and ever since, Arachne, as a spider, weaves her web" (Metamorphoses 6.140-145, trans. Brookes More)
+[^met-ath-medusa]: "Minerva changed the Gorgon's splendid hair to serpents horrible. And now to strike her foes with fear, she wears upon her breast those awful vipers—creatures of her rage" (Metamorphoses 4.801-803, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 4.794-803: Punished Medusa by turning her hair to serpents after Poseidon defiled her temple
+- **[Metamorphoses](../sources/metamorphoses.md)** 6.1-145: Contest with Arachne; weaves scenes of divine justice; destroys Arachne's perfect tapestry; transforms her into a spider
 - **[Theogony](../sources/theogony.md)** 13, 318, 573-578, 886-900, 924-929t: Invocation; aids Heracles; dresses the first woman; birth from Zeus's head
 - **[Homeric Hymn XXVIII](../sources/homeric-hymns.md)**: Birth — cosmic reaction; Helius stops his chariot
 - **[Shield of Heracles](../sources/shield-of-heracles.md)**: Gives Heracles his golden breastplate; counsels him in battle; deflects Ares' spear; rebukes Ares; depicted on the shield with spear, golden helm, and aegis

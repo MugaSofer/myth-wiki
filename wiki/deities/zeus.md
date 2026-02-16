@@ -402,6 +402,22 @@ After Hera sent storms against Heracles as he sailed from [Troy](../places/troy.
 [^apd-zeus-tripod]: "Apollo fought him, and Zeus threw a thunderbolt between them" (Bibliotheca 2.6.2)
 [^apd-zeus-hung-hera]: "When Hercules was sailing from Troy, Hera sent grievous storms, which so vexed Zeus that he hung her from Olympus" (Bibliotheca 2.7.1)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Myrmidons (7.453-660)
+
+When [Hera](hera.md) (Juno) sends a devastating plague upon the island of Aegina — named for Zeus's lover — King Aeacus, Zeus's son, prays to his father for aid. The pestilence is described in horrifying detail, driven by "the rage of jealous Juno flaming for revenge."[^met-zeus-1] Aeacus begs: "if truth were told of your sweet comfort in Aegina's arms, if you were not ashamed of me, your son, restore my people, or entomb my corpse."[^met-zeus-2] Zeus answers with lightning and thunder, which Aeacus accepts as "good omens given as a sacred pledge." That night, Zeus transforms ants from a sacred oak of Dodona into the Myrmidons, a new race of warriors: "from its boughs, that trembled in the still air, moving ants were scattered to the ground in troops below; and ever, as they touched the soil, they grew larger and larger."[^met-zeus-3]
+
+### Apotheosis of Heracles (9.239-272)
+
+When [Heracles](../heroes/heracles.md) lies dying on his pyre atop Mount Oeta, the gods feel fear "for earth's defender." Zeus (called "Saturnian Jove") addresses them with pride and authority: "Your sudden fear is surely my delight, O heavenly Gods! my heart is lifted up and joy prevails upon me, in the thought that I am called the Father and the King of all this grateful race of Gods."[^met-zeus-4] He declares that Heracles' celestial part, inherited from himself, "cannot feel the power of death" and promises to translate him to heaven. He warns that any jealous god "may begrudge the prize but he will know at least 'twas given him deservedly." Zeus then takes Heracles up "in the great chariot drawn by four swift steeds" and sets him "amid the glittering stars."[^met-zeus-5]
+
+[^met-zeus-1]: "a deadly pestilence was visited on my confiding people, through the rage of jealous Juno flaming for revenge" (Metamorphoses 7.523-525, trans. Brookes More)
+[^met-zeus-2]: "if truth were told of your sweet comfort in Aegina's arms, if you were not ashamed of me, your son, restore my people, or entomb my corpse" (Metamorphoses 7.614-618, trans. Brookes More)
+[^met-zeus-3]: "from its boughs, that trembled in the still air, moving ants were scattered to the ground in troops below; and ever, as they touched the soil, they grew larger and larger" (Metamorphoses 7.634-641, trans. Brookes More)
+[^met-zeus-4]: "Your sudden fear is surely my delight, O heavenly Gods! my heart is lifted up and joy prevails upon me, in the thought that I am called the Father and the King of all this grateful race of Gods" (Metamorphoses 9.243-249, trans. Brookes More)
+[^met-zeus-5]: "the glorious father of the Gods in the great chariot drawn by four swift steeds, took up above the wide-encircling clouds, and set him there amid the glittering stars" (Metamorphoses 9.267-272, trans. Brookes More)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 4-96, 141, 389-401, 453-506, 617-735, 820-885, 886-944: Pervasive throughout

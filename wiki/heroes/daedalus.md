@@ -80,6 +80,39 @@ The pursuit ended in Sicily: "[Minos](minos.md), because many misfortunes had co
 [^hyg-pursuit]: "Minos, because many misfortunes had come to him through the agency of Daedalus, followed him to Sicily, and asked King Cocalus to surrender him" (Fabulae §44, trans. Mary Grant)
 [^hyg-death-minos]: "When Cocalus had promised this, and Daedalus found it out, he sought help from the daughters of the king, and they killed Minos" (Fabulae §44, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Flight (8.183-235)
+
+Ovid's account focuses on the emotional weight of the flight. Daedalus, longing for home, declared: "Though Minos blocks escape by sea and land... The unconfined skies remain though Minos may be lord of all the world his sceptre is not regnant of the air."[^met-daed-words] He "turned his mind to arts unknown and nature unrevealed," fashioning wings from feathers arranged "from small to large, as any rustic pipe," bound with thread and fixed with wax, "bent them to the shape of birds."[^met-daed-craft]
+
+His son Icarus played nearby, unaware of danger — chasing feathers ruffled by the breeze and softening wax with his thumb, "and by his playfulness retard the work his anxious father planned."[^met-daed-play] Daedalus warned him: "My son, I caution you to keep the middle way, for if your pinions dip too low the waters may impede your flight; and if they soar too high the sun may scorch them."[^met-daed-warn] He fitted wings on his son "with trembling hands, while down his withered cheeks the tears were falling. Then he gave his son a last kiss."[^met-daed-tears]
+
+They flew together — "as when the bird leads forth her tender young, from high-swung nest to try the yielding air." Below them, "the fisherman while casting his long rod, or the tired shepherd leaning on his crook, or the rough plowman as he raised his eyes, astonished might observe them on the wing, and worship them as Gods."[^met-daed-flight]
+
+### The Fall of Icarus (8.220-235)
+
+"Proud of his success, the foolish Icarus forsook his guide, and, bold in vanity, began to soar, rising upon his wings to touch the skies." The sun's heat "softened the fragrant wax that held his plumes" and "he waved his naked arms instead of wings, with no more feathers to sustain his flight. And as he called upon his father's name his voice was smothered in the dark blue sea, now called Icarian from the dead boy's name."[^met-daed-fall]
+
+The father cried: "Where are you, Icarus?... In what place shall I seek you, Icarus?" He "saw the wings of his dear Icarus, floating on the waves; and he began to rail and curse his art." He buried the body on the island now called Icaria.[^met-daed-grief]
+
+### Perdix the Partridge (8.236-259)
+
+While Daedalus buried Icarus, "a pert partridge near, observed him from the covert of an oak, and whistled his unnatural delight." This bird was once Perdix, Daedalus's nephew, whom his sister had sent as a pupil. The boy had invented the saw (from a fish's backbone) and the compass (two hinged arms of iron). "Wherefore Daedalus enraged and envious, sought to slay the youth and cast him headlong from Minerva's fane." But [Athena](../deities/athena.md) (Pallas) saved the pupil by changing him into a bird. "The Partridge hides in shaded places by the leafy trees... nor does it seek to rise in lofty flight, for it is mindful of its former fall."[^met-daed-perdix]
+
+Daedalus then reached Sicily, "where Cocalus was king; and when the wandering Daedalus implored the monarch's kind protection from his foe, he gathered a great army for his guest."[^met-daed-sicily]
+
+[^met-daed-words]: "Though Minos blocks escape by sea and land... The unconfined skies remain though Minos may be lord of all the world his sceptre is not regnant of the air, and by that untried way is our escape" (Metamorphoses 8.185-189, trans. Brookes More)
+[^met-daed-craft]: "He fashioned quills and feathers in due order — deftly formed from small to large, as any rustic pipe... he bound with thread the middle feathers, and the lower fixed with pliant wax; till so, in gentle curves arranged, he bent them to the shape of birds" (Metamorphoses 8.189-195)
+[^met-daed-play]: "his son Icarus, with smiling countenance and unaware of danger to himself, perchance would chase the feathers, ruffled by the shifting breeze, or soften with his thumb the yellow wax, and by his playfulness retard the work his anxious father planned" (Metamorphoses 8.195-200)
+[^met-daed-warn]: "My son, I caution you to keep the middle way, for if your pinions dip too low the waters may impede your flight; and if they soar too high the sun may scorch them" (Metamorphoses 8.203-206)
+[^met-daed-tears]: "he fitted on his son the plumed wings with trembling hands, while down his withered cheeks the tears were falling. Then he gave his son a last kiss, and upon his gliding wings assumed a careful lead solicitous" (Metamorphoses 8.211-216)
+[^met-daed-flight]: "the fisherman while casting his long rod, or the tired shepherd leaning on his crook, or the rough plowman as he raised his eyes, astonished might observe them on the wing, and worship them as Gods" (Metamorphoses 8.217-220)
+[^met-daed-fall]: "Proud of his success, the foolish Icarus forsook his guide, and, bold in vanity, began to soar, rising upon his wings to touch the skies; but as he neared the scorching sun, its heat softened the fragrant wax that held his plumes... he waved his naked arms instead of wings, with no more feathers to sustain his flight. And as he called upon his father's name his voice was smothered in the dark blue sea" (Metamorphoses 8.223-233)
+[^met-daed-grief]: "Where are you, Icarus?... In what place shall I seek you, Icarus?... he saw the wings of his dear Icarus, floating on the waves; and he began to rail and curse his art" (Metamorphoses 8.233-237)
+[^met-daed-perdix]: "He took the jagged backbone of a fish, and with it as a model made a saw... Daedalus enraged and envious, sought to slay the youth and cast him headlong from Minerva's fane... Pallas, goddess of ingenious men, saving the pupil changed him to a bird... The Partridge hides in shaded places by the leafy trees... nor does it seek to rise in lofty flight, for it is mindful of its former fall" (Metamorphoses 8.246-259)
+[^met-daed-sicily]: "Wearied with travel Daedalus arrived at Sicily, where Cocalus was king; and when the wandering Daedalus implored the monarch's kind protection from his foe, he gathered a great army for his guest" (Metamorphoses 8.260-265)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** XVIII: The dancing-place on the [Shield of Achilles](../objects/shield-of-achilles.md) was "like unto that which once in wide Knosos Daidalos wrought for Ariadne of the lovely tresses"
@@ -88,6 +121,8 @@ The pursuit ended in Sicily: "[Minos](minos.md), because many misfortunes had co
 - **[Bibliotheca](../sources/apollodorus.md)** E.1.8-9: Advised Ariadne to give Theseus the clue
 - **[Bibliotheca](../sources/apollodorus.md)** E.1.12-13: Imprisoned in the labyrinth with Icarus; constructed wings; Icarus fell; Daedalus reached Sicily
 - **[Bibliotheca](../sources/apollodorus.md)** E.1.14-15: The spiral shell riddle; Minos's death at Camicus
+- **[Metamorphoses](../sources/metamorphoses.md)** 8.183-259: Fashioned wings of feathers, thread, and wax; warned Icarus to fly the middle way; fitted wings "with trembling hands" and tears; fishermen and shepherds mistook them for gods; Icarus soared too high, wax melted, fell into Icarian sea; Daedalus cursed his art; Perdix the partridge watched from a tree (Daedalus's nephew, cast from Minerva's temple, saved as a bird by Pallas)
+- **[Metamorphoses](../sources/metamorphoses.md)** 8.260-265: Reached Sicily under King Cocalus's protection
 - **[Fabulae](../sources/hyginus.md)** §39: Killed Perdix, son of his sister, envying his skill; "first invented the saw"; exiled to Crete
 - **[Fabulae](../sources/hyginus.md)** §40: Made wooden cow for Pasiphae; built the labyrinth; imprisoned by Minos; freed by Pasiphae; made wings for himself and Icarus; Icarus fell into sea; reached Sicily
 - **[Fabulae](../sources/hyginus.md)** §44: Minos followed him to Sicily; sought help from Cocalus's daughters; they killed Minos

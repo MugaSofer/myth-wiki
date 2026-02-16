@@ -96,8 +96,43 @@ In a longer section on Europa, the Fabulae narrates Cadmus's quest and the found
 [^hyg-178-sparti]: "Under Minerva's instructions he sowed the teeth and ploughed them under. From them sprang the Sparti. These fought themselves, but from them five survived, namely, Chthonius, Udaeus, Hyperenor, Pelorus, and Echion" (Fabulae §178, trans. Mary Grant)
 [^hyg-178-boeotia]: "Moreover, Boeotia was named from the ox Cadmus followed" (Fabulae §178, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Europa and the Quest (3.1-13)
+
+The Metamorphoses opens Book III with Cadmus's situation after [Zeus](../deities/zeus.md) (Jupiter) carried off Europa: "Jupiter had not revealed himself, nor laid aside the semblance of a bull, until they stood upon the plains of Crete." Cadmus's father "bade her brother Cadmus search through all the world, until he found his sister, and proclaimed him doomed to exile if he found her not; thus was he good and wicked in one deed."[^met-cad-exile] [Apollo](../deities/apollo.md) (Phoebus) told him to follow a heifer that had never known the yoke and found a city where she lay down — "and its name shall be the City of Boeotia."[^met-cad-oracle]
+
+### The Dragon of Mars (3.26-94)
+
+Cadmus followed the cow to Boeotia, where he prepared to sacrifice to [Zeus](../deities/zeus.md). His men went to a grove to draw water, but a dragon "sacred to the war-like Mars" guarded a spring there — "crested and gorgeous with radescent scales, and eyes that sparkled as the glow of coals. A deadly venom had puffed up his bulk, and from his jaws he darted forth three tongues, and in a triple row his sharp teeth stood."[^met-cad-dragon] The dragon killed Cadmus's companions.
+
+Cadmus attacked: he first hurled "a mill-stone huge" which the dragon's armoured scales repelled, then pierced it with a javelin through the spine. The dragon fought back — "his throat was swollen with great knotted veins; a white froth gathered on his poisonous jaws; the earth resounded with his rasping scales." Finally Cadmus pinned the serpent through the neck to an oak tree with his spear: "the stout trunk bending with the monster's weight, groaned at the lashing of his serpent tail."[^met-cad-fight]
+
+### The Sown Men (3.95-130)
+
+As Cadmus gazed on the slain dragon, a voice warned: "Son of Agenor, why art thou here standing by this carcase-worm, for others shall behold thy body changed into a serpent."[^met-cad-voice] [Athena](../deities/athena.md) (Minerva) appeared and commanded him to sow the dragon's teeth. From the furrows, armed men grew — "A spear-point first appeared above the furrows, followed next by helmet-covered heads, nodding their cones; their shoulders, breasts and arms weighted with spears."[^met-cad-sparti] They fought each other until only five survived, including Echion, who by Athena's warning called for peace. These five became Cadmus's "trusted comrades" in building the city Apollo had named.[^met-cad-five]
+
+### Transformation to Serpents (4.563-603)
+
+In Book IV, after years of grief over his descendants' fates, "the founder fled the city he had built" and arrived in Illyria with Harmonia. Recalling the dragon he had killed, Cadmus said: "If haply 'tis the Gods, whose rage unerring, gives me to revenge, I only pray that I may lengthen out, as any serpent."[^met-cad-wish]
+
+Immediately "he saw and felt himself increase in length. His body coiled into a serpent's form; bright scales enveloped his indurate skin, and azure macules in speckled pride, enriched his glowing folds." While arms remained, he called to Harmonia: "Come hither my unhappy wife, while aught is left of manhood; touch me, take my hand, unchanged as yet."[^met-cad-transform] But his tongue became twin-forked and he could only hiss. Harmonia begged to be transformed too; both became "crested snakes" in "brightly glistening mail." The narrator adds: "these gentle serpents never shun mankind, nor wound, nor strike with poisoned fangs; for they are always conscious of the past."[^met-cad-gentle]
+
+[^met-cad-exile]: "her father bade her brother Cadmus search through all the world, until he found his sister, and proclaimed him doomed to exile if he found her not; thus was he good and wicked in one deed" (Metamorphoses 3.3-7, trans. Brookes More)
+[^met-cad-oracle]: "When on the plains a heifer, that has never known the yoke, shall cross thy path go thou thy way with her, and follow where she leads; and when she lies, to rest herself upon the meadow green, there shalt thou stop... and its name shall be the City of Boeotia" (Metamorphoses 3.10-18)
+[^met-cad-dragon]: "crested and gorgeous with radescent scales, and eyes that sparkled as the glow of coals. A deadly venom had puffed up his bulk, and from his jaws he darted forth three tongues, and in a triple row his sharp teeth stood" (Metamorphoses 3.32-34)
+[^met-cad-fight]: "his throat was swollen with great knotted veins; a white froth gathered on his poisonous jaws; the earth resounded with his rasping scales... to this he fixed the dragon through the neck: the stout trunk bending with the monster's weight, groaned at the lashing of his serpent tail" (Metamorphoses 3.75-94)
+[^met-cad-voice]: "Son of Agenor, why art thou here standing by this carcase-worm, for others shall behold thy body changed into a serpent" (Metamorphoses 3.97-99)
+[^met-cad-sparti]: "A spear-point first appeared above the furrows, followed next by helmet-covered heads, nodding their cones; their shoulders, breasts and arms weighted with spears; and largely grew the shielded crop of men" (Metamorphoses 3.106-112)
+[^met-cad-five]: "Echion, by Minerva warned, called on his brothers to give up the fight, and cast his arms away in pledge of faith" (Metamorphoses 3.126-128)
+[^met-cad-wish]: "Was that a sacred dragon that my spear impaled... If haply 'tis the Gods, whose rage unerring, gives me to revenge, I only pray that I may lengthen out, as any serpent" (Metamorphoses 4.573-584)
+[^met-cad-transform]: "he saw and felt himself increase in length. His body coiled into a serpent's form; bright scales enveloped his indurate skin, and azure macules in speckled pride, enriched his glowing folds... Come hither my unhappy wife, while aught is left of manhood; touch me, take my hand, unchanged as yet" (Metamorphoses 4.576-597)
+[^met-cad-gentle]: "these gentle serpents never shun mankind, nor wound, nor strike with poisoned fangs; for they are always conscious of the past" (Metamorphoses 4.601-603)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 3.1.1-3.5.4: Search for Europa; oracle's cow; dragon at spring of Ares; sowing dragon's teeth; Sparti; servitude to Ares; marriage to Harmonia with gods attending; children; transformation to serpents in Illyria; sent to Elysian Fields
+- **[Metamorphoses](../sources/metamorphoses.md)** 3.1-130: Search for Europa; oracle's heifer; dragon of Mars with three tongues and triple-row teeth; Cadmus pins it to oak tree; voice warns of serpent fate; Minerva orders teeth sown; armed men sprout; five survive including Echion; founds Boeotia
+- **[Metamorphoses](../sources/metamorphoses.md)** 4.563-603: In Illyria, Cadmus wishes to become a serpent; transforms — "bright scales... azure macules"; calls to Harmonia; Harmonia transformed too; "gentle serpents... always conscious of the past"
 - **[Fabulae](../sources/hyginus.md)** §6: Turned to snakes in Illyria by Mars' wrath for slaying dragon of Castalia; after children killed
 - **[Fabulae](../sources/hyginus.md)** §178: Europa abducted; Agenor sends sons; Phoenix to Africa (Phoenicians), Cilix to Cilicia; oracle tells Cadmus to follow ox with moon-mark; dragon at Castalia killed with stone; sowed teeth under Minerva's instruction; five Sparti survive; Boeotia named from ox

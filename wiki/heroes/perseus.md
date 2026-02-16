@@ -124,8 +124,35 @@ The variant continues: "Perseus with Andromeda returned to his country. When Pol
 [^hyg-64-stone]: "When he wanted to marry her, Cepheus, her father, along with Agenor, her betrothed, planned to kill him. Perseus, discovering the plot, showed them the head of the Gorgon, and all were changed from human form into stone" (Fabulae §64, trans. Mary Grant)
 [^hyg-64-polydectes]: "Perseus with Andromeda returned to his country. When Polydectes saw that Perseus was so courageous, he feared him and tried to kill him be treachery, but when Perseus discovered this he showed him the Gorgon's head, and he was changed from human form into stone" (Fabulae §64, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Atlas Turned to Mountain (4.604-662)
+
+Flying over Libya with the Gorgon's head (from whose dripping blood "unnumbered serpents" were born), Perseus sought hospitality from [Atlas](../deities/atlas.md). Atlas refused, fearing a prophecy from Themis: "O Atlas! mark the day a son of Jupiter shall come to spoil; for when thy trees been stripped of golden fruit, the glory shall be his."[^met-per-atlas] When Atlas tried to drive him away by force, Perseus turned his own face aside and showed Medusa's head. "Atlas, huge and vast, becomes a mountain — His great beard and hair are forests, and his shoulders and his hands mountainous ridges, and his head the top of a high peak."[^met-per-atlas2]
+
+### Rescue of Andromeda (4.663-803)
+
+Perseus found [Andromeda](andromeda.md) chained to a rock: "as marble he would deem her, but the breeze moved in her hair, and from her streaming eyes the warm tears fell."[^met-per-andromeda] He declared his lineage and offered to fight the sea monster for her hand. The battle is vivid — Perseus fought "like the swift bird of Jove" diving on a serpent, thrusting his sword "sheer to the hilt, in its right shoulder."[^met-per-monster] When the monster fought back, Perseus found a rock to brace against, and thrust his sword "times more than three, unswerving in his aim, sheer through the monster's entrails."
+
+### The Gorgon's Head (4.765-803)
+
+Perseus told how he stole the single eye shared by two of Phorcys's daughters, then reached the Gorgon's lair: "I saw on all sides men and animals — like statues — turned to flinty stone at sight of dread Medusa's visage. Nevertheless reflected on the brazen shield, I bore upon my left, I saw her horrid face."[^met-per-gorgon] He struck while she slept, and from her blood "winged Pegasus" was born. Ovid adds that Medusa was once beautiful — "famed for beauty... Words would fail to tell the glory of her hair" — until [Poseidon](../deities/poseidon.md) ravished her in [Athena](../deities/athena.md)'s temple, and Athena "changed the Gorgon's splendid hair to serpents horrible."[^met-per-medusa]
+
+### The Wedding Battle (5.1-249)
+
+At the wedding feast, Phineus (Andromeda's former betrothed) attacked with an armed mob. Perseus fought back with spear, sword, and finally the Gorgon's head, turning his enemies to stone. Even Phineus, who begged for mercy, was petrified: "he turned his face from the awful spectacle in vain; Medusa's head transformed him to a rigid block."
+
+[^met-per-atlas]: "O Atlas! mark the day a son of Jupiter shall come to spoil; for when thy trees been stripped of golden fruit, the glory shall be his" (Metamorphoses 4.643-646, trans. Brookes More)
+[^met-per-atlas2]: "Atlas, huge and vast, becomes a mountain—His great beard and hair are forests, and his shoulders and his hands mountainous ridges, and his head the top of a high peak" (Metamorphoses 4.657-661, trans. Brookes More)
+[^met-per-andromeda]: "as marble he would deem her, but the breeze moved in her hair, and from her streaming eyes the warm tears fell. Her beauty so amazed his heart, unconscious captive of her charms, that almost his swift wings forgot to wave" (Metamorphoses 4.675-679, trans. Brookes More)
+[^met-per-monster]: "so did the winged youth, in rapid flight through yielding elements, press down on the great monster's back, and thrust his sword, sheer to the hilt, in its right shoulder" (Metamorphoses 4.717-723, trans. Brookes More)
+[^met-per-gorgon]: "I saw on all sides men and animals—like statues—turned to flinty stone at sight of dread Medusa's visage. Nevertheless reflected on the brazen shield, I bore upon my left, I saw her horrid face" (Metamorphoses 4.780-786, trans. Brookes More)
+[^met-per-medusa]: "Beyond all others she was famed for beauty, and the envious hope of many suitors... the Sovereign of the Sea attained her love in chaste Minerva's temple... Minerva changed the Gorgon's splendid hair to serpents horrible" (Metamorphoses 4.794-803, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 4.604-803: Turns Atlas to mountain; rescues Andromeda from sea monster; tells how he slew Medusa; Medusa's origin as a beauty punished by Athena
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.1-249: Wedding battle; petrifies Phineus and enemies with Gorgon's head
 - **[Theogony](../sources/theogony.md)** 280-283: Beheading Medusa
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.1: Birth from Zeus and Danae; cast to sea in chest; raised on Seriphus by Dictys
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.2: Polydectes' scheme; quest to the Phorcides and nymphs; Gorgon slaying with averted gaze in brazen shield

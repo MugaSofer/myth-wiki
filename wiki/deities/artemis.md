@@ -136,8 +136,35 @@ In Calypso's bitter speech against the gods' jealousy, Artemis is named as the i
 
 [^od5-orion]: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste Artemis, of the golden throne, slew him in Ortygia with the visitation of her gentle shafts" (Odyssey V.3095-3098, trans. Butcher and Lang)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Actaeon (3.138-252)
+
+Ovid's account of Actaeon's death emphasises the accidental nature of his transgression. While Actaeon's companions rested from the hunt, he "wandering through the unknown woods, entered the precincts of that sacred grove; with steps uncertain wandered he as fate directed."[^met-art-actaeon1] He stumbled upon Artemis (Diana) bathing in her grotto at Gargaphia. She stood "head and shoulders taller than her guards" as her nymphs rushed to shield her. Without her arrows at hand, she splashed water in his face and taunted: "Go tell it, if your tongue can tell the tale, your bold eyes saw me stripped of all my robes."[^met-art-actaeon2]
+
+Immediately Actaeon sprouted stag horns, his hands and feet transformed, and "his courage turned to fear." His own pack of hounds — Ovid names dozens — tore him to pieces while his companions called his name, unaware that the stag before them was their master. "'Tis said Diana's fury raged with none abatement till the torn flesh ceased to live."[^met-art-actaeon3]
+
+Ovid insists Actaeon's death was fortune's crime, not guilt: "who maintains mistakes are crimes?"
+
+### Callisto (2.401-530)
+
+[Zeus](zeus.md) seduced the nymph Callisto by disguising himself as Artemis — a detail unique to Ovid. Callisto's pregnancy was discovered when "in a clear brook she waded, loathe to wet her tender bosom; and she could not hide her secret shame."[^met-art-callisto] Artemis drove her from the company of virgins, and [Hera](hera.md) completed the punishment by transforming Callisto into a bear. Years later, when Callisto's son Arcas nearly killed her with a javelin, Zeus snatched both up and set them as the constellations Great and Little Bear.
+
+### Niobe's Daughters (6.268-312)
+
+After [Apollo](apollo.md) slew Niobe's seven sons, Artemis completed the punishment by shooting her seven daughters. The sisters fell as they mourned their brothers, and Niobe tried to shield the last one: "Leave me one, the littlest one!" But even as she prayed, the last daughter was struck down.[^met-art-niobe] Ovid describes Niobe hardened into stone by grief, weeping even as marble.
+
+[^met-art-actaeon1]: "wandering through the unknown woods, entered the precincts of that sacred grove; with steps uncertain wandered he as fate directed" (Metamorphoses 3.174-177, trans. Brookes More)
+[^met-art-actaeon2]: "Go tell it, if your tongue can tell the tale, your bold eyes saw me stripped of all my robes" (Metamorphoses 3.192-193, trans. Brookes More)
+[^met-art-actaeon3]: "'Tis said Diana's fury raged with none abatement till the torn flesh ceased to live" (Metamorphoses 3.251-252, trans. Brookes More)
+[^met-art-callisto]: "in a clear brook she waded, loathe to wet her tender bosom; and she could not hide her secret shame" (Metamorphoses 2.461-463, trans. Brookes More)
+[^met-art-niobe]: "Leave me one, the littlest one!" (Metamorphoses 6.299, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 2.401-530: Expels Callisto from her maidens for pregnancy
+- **[Metamorphoses](../sources/metamorphoses.md)** 3.138-252: Actaeon sees her bathing; transforms him into a stag; he is torn apart by his own hounds
+- **[Metamorphoses](../sources/metamorphoses.md)** 6.268-312: Slays Niobe's seven daughters with arrows
 - **[Theogony](../sources/theogony.md)** 14, 918-920: Named in the invocation; birth
 - **[Homeric Hymn XXVII](../sources/homeric-hymns.md)**: The huntress; dances at Delphi
 - **[Iliad](../sources/iliad.md)** V: Heals Aeneas in Apollo's temple with Leto

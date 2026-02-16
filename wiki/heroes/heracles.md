@@ -501,8 +501,37 @@ Hyginus catalogues additional exploits beyond the canonical twelve. Notable vari
 [^hyg-31-nessus-simple]: "He killed the centaur Nessus because he tried to violate Dejanira" (Fabulae §31, trans. Mary Grant)
 [^hyg-31-achelous]: "The River Achelous used to change himself into all sorts of shapes. When he fought with Hercules to win Dejanira in marriage, he changed himself into a bull. Hercules tore of his horn, presenting it to the Hesperides or the Nymphs, and the goddesses filled it with fruits and called it Cornucopia" (Fabulae §31, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Wrestling Achelous (9.1-88)
+
+Ovid has the river god Achelous narrate his defeat by Heracles in the contest for [Deianira](deianira.md). The two fought like bulls: "so, have I seen two strong bulls rush in combat for the good of some smooth heifer in the pasture."[^met-her-bulls] Heracles boasted that strangling snakes "was the pastime of my cradle days" when Achelous shifted to serpent form. When Achelous became a bull, Heracles tore off his horn, which the Naiads filled with fruit — the origin of the Cornucopia.[^met-her-horn]
+
+### Nessus and the Poisoned Robe (9.98-133)
+
+The centaur Nessus offered to carry Deianira across the swollen river Evenus while Heracles swam. When Nessus tried to ravish her, Heracles shot him from the far bank. Dying, Nessus "gave his tunic, soaked with blood to Deianira as a gift; and said, 'Keep this to strengthen waning love.'"[^met-her-nessus]
+
+### The Death of Heracles (9.134-272)
+
+Years later, when rumor declared Heracles burned with love for Iole, Deianira sent him Nessus's tunic. Heracles put it on while sacrificing at Cenaeum, and the hydra-poisoned garment melted into his flesh. Ovid describes the agony in unflinching detail: "The poisoned garment, cleaving to him, ripped his skin, heat-shriveled, from his burning flesh. Or, tightening on him, as his great strength pulled, stripped with it the great muscles from his limbs, leaving his huge bones bare."[^met-her-agony]
+
+In his fury, Heracles hurled the messenger Lichas into the Euboic Sea, where terror petrified him to rock mid-flight. Then Heracles catalogued his labours — Busiris, Antaeus, Cerberus, the Nemean lion, the Hydra, the horses of Thrace, the sky itself — crying: "Still Eurystheus is alive and well! And there are those who yet believe in Gods!"[^met-her-lament]
+
+### The Pyre and Apotheosis (9.229-272)
+
+Heracles built his pyre on Mount Oeta, spread the Nemean lion skin on top, and "club for pillow, you lay down to sleep, as placid as if... reclining on a banquet-couch."[^met-her-pyre] [Zeus](../deities/zeus.md) reassured the frightened gods: "Hercules who conquered everything, shall conquer equally the spreading fires." The mortal part was burned away by [Hephaestus](../deities/hephaestus.md), and like a serpent shedding its skin, "his own celestial, wonderful appeared, majestic and of godlike dignity." Zeus took him up "in the great chariot drawn by four swift steeds" and set him "amid the glittering stars."[^met-her-apotheosis]
+
+[^met-her-bulls]: "so, have I seen two strong bulls rush in combat for the good of some smooth heifer in the pasture—while the herd a-tremble and uncertain, wait; ready to give allegiance to the one most worthy of dominion" (Metamorphoses 9.45-49, trans. Brookes More)
+[^met-her-horn]: "he laid his fierce right hand on my tough horn, and broke and tore it from my mutilated head.—This horn, now heaped with fruits delicious and sweet-smelling flowers, the Naiads have held sacred" (Metamorphoses 9.85-89, trans. Brookes More)
+[^met-her-nessus]: "he gave his tunic, soaked with blood to Deianira as a gift; and said, 'Keep this to strengthen waning love'" (Metamorphoses 9.131-133, trans. Brookes More)
+[^met-her-agony]: "The poisoned garment, cleaving to him, ripped his skin, heat-shriveled, from his burning flesh. Or, tightening on him, as his great strength pulled, stripped with it the great muscles from his limbs, leaving his huge bones bare" (Metamorphoses 9.166-170, trans. Brookes More)
+[^met-her-lament]: "But still Eurystheus is alive and well! And there are those who yet believe in Gods!" (Metamorphoses 9.203-204, trans. Brookes More)
+[^met-her-pyre]: "club for pillow, you lay down to sleep, as placid as if, with abounding cups of generous wine and crowned with garlands, you were safe, reclining on a banquet-couch" (Metamorphoses 9.233-238, trans. Brookes More)
+[^met-her-apotheosis]: "his own celestial, wonderful appeared, majestic and of godlike dignity. And him, the glorious father of the Gods in the great chariot drawn by four swift steeds, took up above the wide-encircling clouds, and set him there amid the glittering stars" (Metamorphoses 9.264-272, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 9.1-272: Wrestles Achelous; origin of Cornucopia; Nessus's poisoned tunic; agonizing death; lists his labours; builds pyre on Oeta; apotheosis among the stars
 - **[Theogony](../sources/theogony.md)** 289-292, 316-318, 332, 526-532, 943-944, 950-955: Slaying monsters; freeing Prometheus; birth; marriage to Hebe and apotheosis
 - **[Shield of Heracles](../sources/shield-of-heracles.md)**: Conception (Zeus and Alcmena on the same night as Amphitryon); arming with Athena's gifts; the shield ekphrasis; kills Cycnus; wounds Ares in the thigh
 - **[Iliad](../sources/iliad.md)** V: Wounded [Hera](../deities/hera.md) with a three-barbed arrow and [Hades](../deities/hades.md) at Pylos; previously sacked Troy with only six ships for Laomedon's horses (recalled by Dione and Tlepolemos)

@@ -42,7 +42,31 @@ The [Bibliotheca](../sources/apollodorus.md) names Pan as "the son of [Zeus](zeu
 
 [^apd-pan-parent]: "Apollo learned the art of prophecy from Pan, the son of Zeus and Hybris" (Bibliotheca 1.4.1, trans. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Pan and Syrinx (1.689-712)
+
+The story of Pan and Syrinx is told within the Metamorphoses as a tale [Hermes](hermes.md) (Mercury) narrates to lull Argus to sleep. "A famous Naiad dwelt among the Hamadryads, on the cold Arcadian summit Nonacris, whose name was Syrinx. Often she escaped the Gods, that wandered in the groves of sylvan shades, and often fled from Satyrs that pursued."[^met-pan-syrinx] She modelled herself on [Artemis](artemis.md) (Diana): "Vowing virginity, in all pursuits she strove to emulate Diana's ways: and as that graceful goddess wears her robe, so Syrinx girded hers."[^met-pan-diana]
+
+Pan, "whose head was girt with prickly pines," saw her returning from the Lycian Hill and pursued her. She fled to the river Ladon, where "she implored her sister Nymphs to change her form: and Pan, believing he had caught her, held instead some marsh reeds for the body of the Nymph."[^met-pan-reeds] The wind through the reeds produced a sweet sound, and Pan fashioned them into his instrument: "Forever this discovery shall remain a sweet communion binding thee to me."[^met-pan-pipes]
+
+### Musical Contest with Apollo (11.146-193)
+
+After [Midas](../heroes/midas.md) lost his golden touch, he "inhabited the woods and fields, and followed Pan who dwells always in mountain-caves." Pan boasted of his superiority to [Apollo](apollo.md) and agreed to a contest judged by the mountain-god Tmolus.[^met-pan-contest] Pan "made some rustic sounds on his rough reeds, delighting Midas with his uncouth notes." But when Apollo played — wearing Parnassian laurel, a robe of Tyrian purple, holding a lyre "adorned with gems and Indian ivory" — Tmolus "ordered Pan to hold his reeds excelled by beauty of Apollo's lyre."[^met-pan-judged]
+
+Midas alone disputed the verdict, and Apollo transformed his ears into those of a donkey.[^met-pan-midas]
+
+[^met-pan-syrinx]: "A famous Naiad dwelt among the Hamadryads, on the cold Arcadian summit Nonacris, whose name was Syrinx. Often she escaped the Gods, that wandered in the groves of sylvan shades, and often fled from Satyrs that pursued" (Metamorphoses 1.689-693, trans. Brookes More)
+[^met-pan-diana]: "Vowing virginity, in all pursuits she strove to emulate Diana's ways: and as that graceful goddess wears her robe, so Syrinx girded hers that one might well believe Diana there" (Metamorphoses 1.694-697)
+[^met-pan-reeds]: "she implored her sister Nymphs to change her form: and Pan, believing he had caught her, held instead some marsh reeds for the body of the Nymph" (Metamorphoses 1.705-707)
+[^met-pan-pipes]: "Forever this discovery shall remain a sweet communion binding thee to me" (Metamorphoses 1.709-710)
+[^met-pan-contest]: "While Pan was boasting there to mountain nymphs of his great skill in music... he dared to boast to them how he despised Apollo's music when compared with his" (Metamorphoses 11.152-157)
+[^met-pan-judged]: "Pan made some rustic sounds on his rough reeds, delighting Midas with his uncouth notes... Tmolus ordered Pan to hold his reeds excelled by beauty of Apollo's lyre" (Metamorphoses 11.166-180)
+[^met-pan-midas]: "That judgment of the sacred mountain god pleased all those present, all but Midas, who blaming Tmolus called the award unjust. The Delian god forbids his stupid ears to hold their native human shape" (Metamorphoses 11.172-175)
+
 ## Appearances
 
 - **[Homeric Hymn XIX](../sources/homeric-hymns.md)**: Full birth narrative; description; music
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.689-712: Story of Pan and Syrinx told by Mercury to Argus; Pan pursued Syrinx to river Ladon; she transformed into marsh reeds; Pan fashioned pipes from them
+- **[Metamorphoses](../sources/metamorphoses.md)** 11.146-193: Musical contest with Apollo on Mount Tmolus; Tmolus judged Apollo the winner; Midas disagreed; Apollo gave Midas donkey ears
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.1: Son of [Zeus](zeus.md) and Hybris (variant from Hymn XIX's [Hermes](hermes.md) parentage); taught [Apollo](apollo.md) the art of prophecy

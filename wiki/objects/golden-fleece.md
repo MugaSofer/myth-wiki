@@ -52,6 +52,16 @@ After the return voyage, "Jason surrendered the fleece" to Pelias.[^apd-surrende
 [^apd-taking]: "Medea brought Jason by night to the fleece, and having lulled to sleep by her drugs the dragon that guarded it, she possessed herself of the fleece and in Jason's company came to the Argo" (Bibliotheca 1.9.23, trans. Frazer)
 [^apd-surrender]: "On his return Jason surrendered the fleece" (Bibliotheca 1.9.27, trans. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Retrieval of the Fleece (7.100-158)
+
+In Ovid's telling, the Golden Fleece is the prize demanded by King Aeetes from [Jason](../heroes/jason.md) and the Argonauts, guarded by a dragon described as "magnificent and terrible with gorgeous crest and triple tongue, and fangs barbed as a javelin."[^met-fleece-1] After Jason subdues the fire-breathing bulls and defeats the earth-born warriors, the dragon remains the final obstacle. Jason sprinkles on its crest "Lethean juices of a magic herb" and recites words "which would becalm the storm-tossed ocean, and would stop the flow of the most rapid rivers of our earth."[^met-fleece-2] With the dragon asleep, "the hero took the Golden Fleece; and proudly sailed away bearing his treasure and the willing maid."[^met-fleece-3]
+
+[^met-fleece-1]: "magnificent and terrible with gorgeous crest and triple tongue, and fangs barbed as a javelin, guards the Golden Fleece" (Metamorphoses 7.149-152, trans. Brookes More)
+[^met-fleece-2]: "Lethean juices of a magic herb, and then recited thrice the words which bring deep slumber, potent words which would becalm the storm-tossed ocean" (Metamorphoses 7.152-156, trans. Brookes More)
+[^met-fleece-3]: "the hero took the Golden Fleece; and proudly sailed away bearing his treasure and the willing maid" (Metamorphoses 7.155-158, trans. Brookes More)
+
 ## Appearances
 
 - **[Catalogue of Women](../sources/theogony.md)** (Fragment 38): The ram was immortal and had a golden fleece, given by Nephele; as Hesiod and Pherecydes say
@@ -60,3 +70,4 @@ After the return voyage, "Jason surrendered the fleece" to Pelias.[^apd-surrende
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Pelias sends Jason to fetch it; described as "hanging on an oak and guarded by a sleepless dragon"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: Aeetes sets tasks (brazen-footed bulls, dragon's teeth); Medea lulls the guardian dragon; she takes the fleece
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.27: Jason surrenders the fleece upon return to Iolcus
+- **[Metamorphoses](../sources/metamorphoses.md)** 7.149-158: Dragon guarding the fleece lulled by Lethean herbs and incantations; Jason takes the fleece and sails away

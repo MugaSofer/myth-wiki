@@ -52,6 +52,27 @@ The result was tragic: "Ajax, harbouring rage, in madness slaughtered his flocks
 [^hyg-denial]: "Through the anger of Minerva they were denied him by Agamemnon and Menelaus, and given to Ulysses" (Fabulae §107, trans. Mary Grant)
 [^hyg-suicide]: "Ajax, harbouring rage, in madness slaughtered his flocks, and killed himself with that sword he had received from Hector as a gift when the two met in battle line" (Fabulae §107, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Contest of Arms (13.1-398)
+
+Ovid gives Ajax's claim to [Achilles](achilles.md)' arms its fullest dramatic treatment. The chiefs sit in council, the soldiers forming a circle around them, and Ajax rises first. He appeals to his deeds rather than his words: "We plead, O Jupiter, our cause before the ships,--Ulysses vies with me! He did not shrink from giving way before the flames of Hector, when I withstood them and I saved the fleet."[^met-ajax-plea] He invokes his kinship with Achilles -- both grandsons of Aeacus -- and catalogues his battlefield exploits: shielding the fallen [Odysseus](odysseus.md), duelling Hector alone, and defending the Greek ships "with my breast, saving the hopes of your return."[^met-ajax-ships]
+
+Ajax mocks Odysseus as a man of stealth and night-raids who "by stealth and quite unarmed, has always done his work, deceiving his unwary enemy."[^met-ajax-stealth] He challenges the assembly to a trial by combat rather than rhetoric, ending bluntly: "Let us be tried in war."[^met-ajax-trial]
+
+[Odysseus](odysseus.md) responds with a long counter-speech (13.128-381), claiming credit for bringing Achilles to the war, for carrying his body from the field, and for stealing the Palladium from [Troy](../places/troy.md). The assembled chiefs are swayed: "the power of eloquence" prevails, and the arms are awarded to Odysseus.[^met-ajax-verdict]
+
+### Suicide and the Hyacinth (13.382-398)
+
+Ajax, "the unconquerable," is "conquered by his grief." He draws his sword and declares: "This is at least my own; or will Ulysses also claim this, for himself." He plunges the blade into his breast -- "which never had felt a wound" -- and from the blood-soaked earth springs a purple flower, the same hyacinth that grew from the blood of [Apollo](../deities/apollo.md)'s beloved: "Its petals now are charged with double freight -- the warrior's name, Apollo's cry of woe."[^met-ajax-death]
+
+[^met-ajax-plea]: "We plead, O Jupiter, our cause before the ships,--Ulysses vies with me! He did not shrink from giving way before the flames of Hector, when I withstood them and I saved the fleet" (Metamorphoses 13.1-12, trans. Brookes More)
+[^met-ajax-ships]: "I did protect a thousand ships with my breast, saving the hopes of your return" (Metamorphoses 13.90-94, trans. Brookes More)
+[^met-ajax-stealth]: "by stealth and quite unarmed, has always done his work, deceiving his unwary enemy" (Metamorphoses 13.103-105, trans. Brookes More)
+[^met-ajax-trial]: "Let us be tried in war. Let all the arms of brave Achilles now be thrown among the foe; order them all to be retrieved; and decorate for war whoever brings them back" (Metamorphoses 13.120-126, trans. Brookes More)
+[^met-ajax-verdict]: "The assembled body of the chiefs was moved; and then, appeared the power of eloquence: the fluent man received, amid applause, the arms of the brave man" (Metamorphoses 13.382-385, trans. Brookes More)
+[^met-ajax-death]: "The unconquerable was conquered by his grief. He drew his sword, and said:--'This is at least my own; or will Ulysses also claim this, for himself'... The ensanguined earth sprouted from her green turf that purple flower which grew of old from Hyacinthine blood. Its petals now are charged with double freight--the warrior's name, Apollo's cry of woe" (Metamorphoses 13.386-398, trans. Brookes More)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** VII: Single combat with Hector; nearly defeats him; parted by heralds
@@ -67,6 +88,7 @@ The result was tragic: "Ajax, harbouring rage, in madness slaughtered his flocks
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.4: Carries Achilles' body through a shower of darts; kills Glaucus
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.6-7: Arms contest lost to Odysseus; driven mad by Athena; slaughters cattle; suicide; buried in a coffin at Rhoeteum
 - **[Fabulae](../sources/hyginus.md)** §107: Demanded Achilles' arms as cousin; denied by Agamemnon and Menelaus through Athena's anger; given to Odysseus; killed himself with sword from Hector
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.1-398: Speech claiming Achilles' arms by deeds and kinship; mocks Odysseus as man of stealth; loses to Odysseus's eloquence; draws sword and kills himself; blood sprouts hyacinth flower
 
 [^apd-birth]: "when Hercules had prayed that he might have a male child, an eagle appeared after the prayer" (Bibliotheca 3.12.7, trans. J.G. Frazer)
 [^apd-ships]: "Of the Salaminians, Telamonian Ajax: he brought twelve ships" (Bibliotheca E.3.11, trans. J.G. Frazer)

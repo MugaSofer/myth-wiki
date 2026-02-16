@@ -249,8 +249,25 @@ During [Heracles](../heroes/heracles.md)' pursuit of the centaurs, "the rest of 
 [^apd-pos-troy]: "Apollo and Poseidon assumed the likeness of men and undertook to fortify Pergamum for wages. But when they had fortified it, he would not pay them their wages. Therefore Apollo sent a pestilence, and Poseidon a sea monster" (Bibliotheca 2.5.9)
 [^apd-pos-centaurs]: "the rest of them Poseidon received at Eleusis and hid them in a mountain" (Bibliotheca 2.5.4)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Flood (1.274-312)
+
+Poseidon (Neptune) aids [Zeus](zeus.md) (Jupiter) in flooding the world. Zeus "brought to aid his azure brother, lord of flowing waves, who called upon the Rivers and the Streams." Neptune commanded: "A long appeal is needless; pour ye forth in rage of power; open up your fountains; rush over obstacles; let every stream pour forth in boundless floods."[^met-pos-flood] He then "with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare."[^met-pos-trident] When Zeus ended the punishment, "the Ocean ruler laid his trident down and pacified the waves, and called on azure Triton" to blow his shell and signal retreat to all the waters.[^met-pos-retreat]
+
+### The Walls of Troy (11.194-237)
+
+In Book XI, [Apollo](apollo.md) and Poseidon "assumed a mortal form: and those two gods agreed to labor for a sum of gold and built the mighty wall" of Troy for Laomedon. "But that false king refused all payment, adding perjury to his false bargaining." Poseidon "drove all his waters high upon the shores of Troy" and demanded the king's daughter Hesione as sacrifice to a sea-monster. [Heracles](../heroes/heracles.md) saved her, but Laomedon refused payment again, so Heracles "captured the twice-perjured walls of conquered Troy."[^met-pos-troy]
+
+[^met-pos-flood]: "A long appeal is needless; pour ye forth in rage of power; open up your fountains; rush over obstacles; let every stream pour forth in boundless floods" (Metamorphoses 1.278-281, trans. Brookes More)
+[^met-pos-trident]: "Neptune with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare" (Metamorphoses 1.283-284)
+[^met-pos-retreat]: "the Ocean ruler laid his trident down and pacified the waves, and called on azure Triton... he bade the Triton blow, blow in his sounding shell, the wandering streams and rivers to recall" (Metamorphoses 1.330-335)
+[^met-pos-troy]: "Neptune, enraged, said, 'You shall not escape your punishment.' And he drove all his waters high upon the shores of Troy... The daughter of the king was soon required as food for a sea-monster" (Metamorphoses 11.207-225)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.274-312: Aids Zeus in the flood — "Neptune with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare"; commands rivers to overflow; afterwards "laid his trident down and pacified the waves" and called Triton to sound retreat
+- **[Metamorphoses](../sources/metamorphoses.md)** 11.798-837: With Apollo, built the walls of Troy in mortal form for wages; Laomedon refused payment; Neptune drove waves upon the shores; sent a sea-monster requiring Hesione; Hercules saved her but Laomedon defaulted again; Hercules captured Troy
 - **[Odyssey](../sources/odyssey.md)** XIII: Complains to Zeus about the Phaeacians; turns their returning ship to stone ("smote her into a stone, and rooted her far below"); Alcinous recognises ancient oracle; twelve bulls sacrificed to appease him
 - **[Odyssey](../sources/odyssey.md)** XI: Seduces Tyro in the form of the river Enipeus — "the dark wave stood around them like a hill-side bowed"; fathers Pelias and Neleus; Iphimedeia bore him Otos and Ephialtes; Teiresias prophesies his wrath will make Odysseus's return difficult
 - **[Odyssey](../sources/odyssey.md)** IX: Polyphemus's prayer — "god of the dark hair... thou avowest thee my sire"; Poseidon "heard him" and grants the curse; Polyphemus claims Poseidon alone can heal his eye

@@ -209,8 +209,36 @@ After Heracles' apotheosis, Hera was reconciled to him: "being reconciled to Her
 [^apd-hera-storms]: "When Hercules was sailing from Troy, Hera sent grievous storms, which so vexed Zeus that he hung her from Olympus" (Bibliotheca 2.7.1)
 [^apd-hera-reconciled]: "being reconciled to Hera he married her daughter Hebe, by whom he had sons, Alexiares and Anicetus" (Bibliotheca 2.7.7)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Io's Persecution (1.601-746)
+
+Hera (Juno) detected [Zeus](zeus.md)'s affair with [Io](../heroes/io.md) by noticing suspicious clouds in bright daylight: "This cloud deceives my mind, or Jove has wronged me."[^met-hera-io1] When Zeus transformed Io into a white heifer, Hera shrewdly asked for the cow as a gift — trapping Zeus, since refusal would prove guilt. She then set Argus (with "a hundred glowing eyes") to guard Io.[^met-hera-io2] After [Hermes](hermes.md) slew Argus, Hera "spread their glister on the feathers of her bird, emblazoning its tail with starry gems" — an aetiology for the peacock's tail.[^met-hera-peacock] She then drove Io with "a dreadful Fury" and "Stings invisible" through the world until Zeus swore on the Styx to stop.
+
+### The Trick on Semele (3.253-315)
+
+Hera disguised herself as the old nurse Beroe to convince Semele to demand Zeus appear in his true divine form. Her jealous soliloquy is vivid: "Am I not Juno the supreme of Heaven? Queen of the flashing scepter?"[^met-hera-semele] The trick succeeded — Semele was burned to ashes by Zeus's thunder.
+
+### Tiresias's Judgment (3.316-338)
+
+When Tiresias sided with Zeus in the dispute about sexual pleasure, Hera "enraged, decreed eternal night should seal Tiresias' eyes." Ovid notes that "immortal Deities may never turn decrees and deeds of other Gods to naught" — even Zeus could not undo her punishment, only compensate with prophecy.
+
+### Heracles' Death (9.134-272)
+
+Though Hera's hatred of [Heracles](../heroes/heracles.md) drove the plot, Ovid has Heracles address her directly as he dies: "Come Juno, feast upon my death; feast on me, cruel one, look down from your exalted seat; behold my dreadful end and glut your savage heart!"[^met-hera-heracles] When Zeus announced Heracles' apotheosis, "Juno seemed to be contented and to acquiesce, her deep vexation was not wholly hid."
+
+[^met-hera-io1]: "This cloud deceives my mind, or Jove has wronged me" (Metamorphoses 1.606-607, trans. Brookes More)
+[^met-hera-io2]: "Juno regardful of Jove's cunning art... gave the unhappy heifer to the charge of Argus, Aristorides, whose head was circled with a hundred glowing eyes" (Metamorphoses 1.622-625, trans. Brookes More)
+[^met-hera-peacock]: "Saturn's daughter spread their glister on the feathers of her bird, emblazoning its tail with starry gems" (Metamorphoses 1.722-723, trans. Brookes More)
+[^met-hera-semele]: "Am I not Juno the supreme of Heaven? Queen of the flashing scepter? Am I not sister and wife of Jove omnipotent?" (Metamorphoses 3.265-268, trans. Brookes More)
+[^met-hera-heracles]: "Come Juno, feast upon my death; feast on me, cruel one, look down from your exalted seat; behold my dreadful end and glut your savage heart!" (Metamorphoses 9.176-180, trans. Brookes More)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.601-746: Detects Zeus's affair with Io; claims heifer; sets Argus to guard; decorates peacock with Argus's eyes; drives Io with a Fury
+- **[Metamorphoses](../sources/metamorphoses.md)** 3.253-315: Disguised as nurse Beroe, tricks Semele into fatal demand
+- **[Metamorphoses](../sources/metamorphoses.md)** 3.316-338: Blinds Tiresias for siding with Zeus
+- **[Metamorphoses](../sources/metamorphoses.md)** 9.134-272: Target of dying Heracles' bitter address; grudgingly accepts his apotheosis
 - **[Theogony](../sources/theogony.md)** 11-12, 314-315, 328-329, 454, 921-929: Invocation; nourishes monsters against Heracles; bears children
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 97-100, 311-355: Opposes Apollo's birth; casts out Hephaestus; births Typhaon
 - **[Odyssey](../sources/odyssey.md)** IV: Saves Agamemnon from the sea
