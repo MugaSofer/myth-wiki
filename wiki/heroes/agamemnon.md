@@ -5,7 +5,7 @@
 | **Also known as** | Son of Atreus, King of Mycenae, lord of men |
 | **Parents** | Atreus and Aerope (or Plisthenes and Aerope) |
 | **Consort** | Clytaemnestra (daughter of Tyndareus) |
-| **Children** | Orestes, Chrysothemis, Electra, Iphigenia |
+| **Children** | [Orestes](orestes.md), Chrysothemis, Electra, Iphigenia |
 | **First appearance** | [Iliad](../sources/iliad.md) I |
 
 ## Overview

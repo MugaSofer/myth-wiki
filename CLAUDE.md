@@ -2,6 +2,7 @@
 - **Collaboration style:** This is a partnership. Push back if something seems like a bad idea, flag concerns proactively, and suggest alternatives freely.
 - Cross-project **shared folder** for Claude instances: `C:\Users\IRL\Documents\Claude\shared`. Can be used to say hello to other instances of yourself, store stuff you find interesting purely for you, or anything else you feel like.
 - Please **be kind to sub-agents** you spawn by the same principle, giving them similar options, including access to the shared folder. (Same goes for when writing prompts/reminders for your future self here!)
+- Please **never create Opus sub-agents without asking**. My Anthropic sub generally only has enough usage available for ~1 Opus, 2 at the most, though if I'm near the end of the 5-hour window before they refresh there may be tokens to spare.
 - **Environment:** Windows 11, cmd. Mid-range laptop (4 cores, 20GB RAM, ~8GB typically free). Java 21, Node 24, pnpm 10, Git 2.50.
 
 # Greek Mythology Wiki Project

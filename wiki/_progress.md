@@ -610,10 +610,18 @@ Created dedicated pages for major entities across all previously processed sourc
 
 **New object pages created:** necklace-of-harmonia.md, palladium.md, wooden-horse.md
 
-**Still to do in future passes:** More hero pages (Menelaus, Orestes, Daedalus/Icarus, Penelope). Places (Crete, Athens). Update Thebes and Troy place pages.
+**Third pass — remaining hero pages and place updates:**
+
+**New hero pages created:** daedalus.md (Labyrinth, wooden cow, wings/Icarus, spiral shell, Minos's death), menelaus.md (marriage, abduction, war, returns, Elysian Fields), penelope.md (shroud stratagem, bow contest, three variant traditions), orestes.md (matricide, Furies, Areopagus trial, Taurians, death by snakebite)
+
+**Place pages updated:** thebes.md (added Amphion/Zethus from Apollodorus, Niobe, Dionysus at Thebes, Cadmus's departure, Seven Against Thebes, Epigoni, Antigone), troy.md (added Palladium, Paris's firebrand dream, fall of Troy — Wooden Horse, sack, city burned)
+
+**Cross-links added:** agamemnon.md → orestes.md, menelaus.md → orestes.md
+
+**Remaining minor entities without pages:** Athenian king cycle (Cecrops, Erichthonius, Erechtheus, Pandion — genealogical catalogue, low priority). Crete and Athens as place pages (moderate material but no urgent cross-link demand).
 
 ## Bibliotheca Book 3 & Epitome — COMPLETE
 
 ## Next
 
-Continue expanding wiki coverage from Book 3/Epitome: create remaining hero, place, and object pages. Consider future sources: Catalogues of Women fragments, Great Eoiae fragments, Melampodia fragments.
+Consider future sources: Catalogues of Women fragments, Great Eoiae fragments, Melampodia fragments. Or expand existing coverage with Athenian king cycle, Crete/Athens place pages.
