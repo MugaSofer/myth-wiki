@@ -74,7 +74,44 @@ In the [Theogony](../sources/theogony.md), Bellerophon appears briefly in connec
 
 A fragmentary passage gives additional detail: Bellerophon "caught and slew the fire-breathing Chimera" with the aid of [Pegasus](../creatures/pegasus.md), and "wedded the dear child of the great-hearted Iobates, the worshipful king."[^hes-chimera] This names the Lykian king as Iobates, a detail not given in the Iliad.
 
-<!-- NOTE: Apollodorus 1.9.3 mentions "Bellerophon, who slew the fire breathing Chimera." Apollodorus content is currently being processed by other agents and will be added later. -->
+## In the [Bibliotheca](../sources/apollodorus.md)
+
+Apollodorus gives a concise account of Bellerophon's story in Book 2, largely consistent with the Iliad but with several additional details.
+
+### Parentage and Exile
+
+Apollodorus identifies Bellerophon as "son of Glaucus, son of Sisyphus," matching the Iliad's lineage.[^apd-bel-parentage] He adds a detail absent from Homer: Bellerophon came to Proetus because he had "accidentally killed his brother Deliades or, as some say, Piren, or, as others will have it, Alcimenes."[^apd-bel-brother] Three variant names for the slain brother are given, suggesting competing traditions. Proetus purified him of the killing.
+
+### Stheneboea's Accusation
+
+As in the Iliad, the queen fell in love with Bellerophon: "Stheneboea fell in love with him, and sent him proposals for a meeting; and when he rejected them, she told Proetus that Bellerophon had sent her a vicious proposal."[^apd-bel-stheneboea] Apollodorus uses the name Stheneboea (from the tragic poets) rather than Homer's Anteia. Proetus then gave Bellerophon a letter to take to Iobates, "in which it was written that he was to kill Bellerophon."[^apd-bel-letter]
+
+### The Chimaera
+
+Iobates ordered Bellerophon to kill the [Chimaera](../creatures/chimaera.md), "believing that he would be destroyed by the beast, for it was more than a match for many, let alone one."[^apd-bel-chimaera-task] Apollodorus gives the most detailed physical description: "it had the fore part of a lion, the tail of a dragon, and its third head, the middle one, was that of a goat, through which it belched fire. And it devastated the country and harried the cattle; for it was a single creature with the power of three beasts."[^apd-bel-chimaera-desc] He notes the creature "was bred by Amisodarus" and "was begotten by Typhon on [Echidna](../creatures/echidna.md), as Hesiod relates."[^apd-bel-chimaera-origin]
+
+Bellerophon "mounted his winged steed [Pegasus](../creatures/pegasus.md), offspring of Medusa and [Poseidon](../deities/poseidon.md), and soaring on high shot down the Chimera from the height."[^apd-bel-chimaera-kill] This specifies the method of attack -- shooting from above -- which Homer does not.
+
+### Further Quests
+
+Iobates then ordered Bellerophon to fight the Solymi, and after that to combat the Amazons. "And when he had killed them also, he picked out the reputed bravest of the Lycians and bade them lay an ambush and slay him. But when Bellerophon had killed them also to a man."[^apd-bel-quests]
+
+### Recognition
+
+"Iobates, in admiration of his prowess, showed him the letter and begged him to stay with him; moreover he gave him his daughter Philonoe, and dying bequeathed to him the kingdom."[^apd-bel-reward] Apollodorus names the daughter Philonoe, a detail not found in the Iliad.
+
+Unlike the Iliad, Apollodorus's account ends here -- there is no mention of Bellerophon's downfall, his wandering in the Aleian plain, or the deaths of his children. The tragic ending is unique to Homer.
+
+[^apd-bel-parentage]: "Bellerophon, son of Glaucus, son of Sisyphus" (Bibliotheca 2.3.1, trans. J.G. Frazer)
+[^apd-bel-brother]: "having accidentally killed his brother Deliades or, as some say, Piren, or, as others will have it, Alcimenes, came to Proetus and was purified" (Bibliotheca 2.3.1)
+[^apd-bel-stheneboea]: "Stheneboea fell in love with him, and sent him proposals for a meeting; and when he rejected them, she told Proetus that Bellerophon had sent her a vicious proposal" (Bibliotheca 2.3.1)
+[^apd-bel-letter]: "Proetus believed her, and gave him a letter to take to Iobates, in which it was written that he was to kill Bellerophon" (Bibliotheca 2.3.1)
+[^apd-bel-chimaera-task]: "Iobates ordered him to kill the Chimera, believing that he would be destroyed by the beast, for it was more than a match for many, let alone one" (Bibliotheca 2.3.1)
+[^apd-bel-chimaera-desc]: "it had the fore part of a lion, the tail of a dragon, and its third head, the middle one, was that of a goat, through which it belched fire. And it devastated the country and harried the cattle; for it was a single creature with the power of three beasts" (Bibliotheca 2.3.1)
+[^apd-bel-chimaera-origin]: "this Chimera was bred by Amisodarus, as Homer also affirms, and that it was begotten by Typhon on Echidna, as Hesiod relates" (Bibliotheca 2.3.1)
+[^apd-bel-chimaera-kill]: "Bellerophon mounted his winged steed Pegasus, offspring of Medusa and Poseidon, and soaring on high shot down the Chimera from the height" (Bibliotheca 2.3.2)
+[^apd-bel-quests]: "when he had killed them also, he picked out the reputed bravest of the Lycians and bade them lay an ambush and slay him. But when Bellerophon had killed them also to a man" (Bibliotheca 2.3.2)
+[^apd-bel-reward]: "Iobates, in admiration of his prowess, showed him the letter and begged him to stay with him; moreover he gave him his daughter Philonoe, and dying bequeathed to him the kingdom" (Bibliotheca 2.3.2)
 
 ## Appearances
 
@@ -82,6 +119,8 @@ A fragmentary passage gives additional detail: Bellerophon "caught and slew the 
 - **Hesiodic Catalogue of Women** (Fragment 7): Son of [Poseidon](../deities/poseidon.md) and the wife of Glaukos; given [Pegasus](../creatures/pegasus.md) by his father; slew the Chimaera; married the daughter of Iobates
 - **[Iliad](../sources/iliad.md)** II: (Mentioned in Glaukos's lineage among the Lykian contingent)
 - **[Iliad](../sources/iliad.md)** VI: Full story told by Glaukos — son of Glaukos son of Sisyphos; Proitos and Anteia's false accusation; the deadly tokens; slaying the [Chimaera](../creatures/chimaera.md); fighting the Solymi and the Amazons; defeating the ambush; marriage and kingdom in Lykia; children (Isandros, Hippolochos, Laodameia); Laodameia bore Sarpedon to [Zeus](../deities/zeus.md); wandering alone "devouring his own soul"; children slain by [Ares](../deities/ares.md) and [Artemis](../deities/artemis.md); guest-friendship with Oineus
+- **[Bibliotheca](../sources/apollodorus.md)** 2.3.1: Son of Glaucus son of Sisyphus; accidentally killed brother (Deliades/Piren/Alcimenes); purified by Proetus; Stheneboea's false accusation; letter to Iobates; Chimaera described
+- **[Bibliotheca](../sources/apollodorus.md)** 2.3.2: Slew Chimaera from [Pegasus](../creatures/pegasus.md)'s back; fought Solymi and Amazons; survived ambush; given daughter Philonoe and the kingdom
 
 [^il6-lineage]: "There is a city Ephyre in the heart of Argos, pasture land of horses, and there dwelt Sisyphos that was craftiest of men, Sisyphos son of Aiolos; and he begat a son, even Glaukos, and Glaukos begat noble Bellerophon" (Iliad VI.3600-3603, trans. Lang, Leaf, and Myers)
 [^hes-parentage]: "So she lay in the arms of Poseidon and bare in the house of Glaucus blameless Bellerophon, surpassing all men" (Hesiodic Catalogue of Women, Fragment 7, trans. H.G. Evelyn-White)

@@ -153,9 +153,26 @@ When [Zeus](zeus.md) ordered [Hades](hades.md) to return Persephone, "Pluto gave
 [^apd-dem-ascalaphus]: "because Ascalaphus, son of Acheron and Gorgyra, bore witness against her, Demeter laid a heavy rock on him in Hades." (Bibliotheca 1.5.3, trans. Frazer)
 [^apd-dem-division]: "Persephone was compelled to remain a third of every year with Pluto and the rest of the time with the gods." (Bibliotheca 1.5.3, trans. Frazer)
 
+## In the Bibliotheca (2.1.3, 2.5.12)
+
+### Called Isis by the Egyptians
+
+The [Bibliotheca](../sources/apollodorus.md) identifies Demeter with the Egyptian goddess Isis. When Io came to Egypt and married Telegonus, "she set up an image of Demeter, whom the Egyptians called Isis, and Io likewise they called by the name of Isis."[^apd-dem-isis]
+
+### Ascalaphus Turned into an Owl
+
+During [Heracles](../heroes/heracles.md)' descent to [Hades](hades.md) for [Cerberus](../creatures/cerberus.md), the text notes: "Demeter turned Ascalaphus into a short-eared owl."[^apd-dem-owl]
+
+> **VARIANT:** In [Bibliotheca](../sources/apollodorus.md) 1.5.3, Demeter punished Ascalaphus by laying "a heavy rock on him in Hades" for testifying that [Persephone](persephone.md) had eaten the pomegranate. Here in 2.5.12, the punishment is transformation into an owl — a different tradition attached to the same figure.
+
+[^apd-dem-isis]: "she set up an image of Demeter, whom the Egyptians called Isis, and Io likewise they called by the name of Isis" (Bibliotheca 2.1.3, trans. J.G. Frazer)
+[^apd-dem-owl]: "Demeter turned Ascalaphus into a short-eared owl" (Bibliotheca 2.5.12, trans. J.G. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 454, 912-914, 969-974: Named among Cronos's children; bears Persephone; bears Plutus with Iasion
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Search for Persephone; famine; Eleusinian Mysteries
 - **[Odyssey](../sources/odyssey.md)** V: "Fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field" — Calypso cites as divine jealousy; Zeus slew Iasion with his thunderbolt
 - **[Bibliotheca](../sources/apollodorus.md)** 1.5.1-1.5.3: Search with torches; Laughless Rock and Well of Fair Dances at Eleusis; Iambe's jest and the Thesmophoria; Demophon consumed in the fire (variant: Praxithea watches, not Metanira); Triptolemus given winged dragon chariot to sow wheat; pomegranate; Ascalaphus bears witness; one-third year with Hades
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Identified with Isis — "the Egyptians called Isis"
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.12: Turned Ascalaphus into a short-eared owl (variant of the rock punishment in 1.5.3)

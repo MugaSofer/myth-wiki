@@ -193,6 +193,36 @@ During the battle with the [Giants](../creatures/giants.md), "Polybotes was chas
 [^apd-pos-amphitrite]: "Poseidon wedded Amphitrite, daughter of Ocean, and there were born to him Triton and Rhode, who was married to the Sun" (Bibliotheca 1.4.5, trans. Frazer)
 [^apd-pos-polybotes]: "Polybotes was chased through the sea by Poseidon and came to Cos; and Poseidon, breaking off that piece of the island which is called Nisyrum, threw it on him" (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the Bibliotheca (Book 2)
+
+### Argive Affairs
+
+Poseidon fathered twin sons Agenor and Belus through Libya (daughter of Epaphus): "Libya had by Poseidon twin sons, Agenor and Belus."[^apd-pos-libya] He dried up the Argive springs in a dispute with [Hera](hera.md): "the country being waterless, because Poseidon had dried up even the springs out of anger at Inachus for testifying that the land belonged to Hera."[^apd-pos-springs] He later rescued Amymone from a satyr and "revealed to her the springs at Lerna."[^apd-pos-amymone]
+
+### Andromeda's Sea Monster
+
+When Cassiepea boasted to be more beautiful than the Nereids, "Poseidon, sharing their wrath, sent a flood and a monster to invade the land." This led to [Andromeda](../heroes/andromeda.md) being exposed as prey until [Perseus](../heroes/perseus.md) rescued her.[^apd-pos-andromeda]
+
+### Numerous Offspring
+
+Book 2 names many sons of Poseidon: Pterelaus (made immortal with a golden hair), Taphius, Hippothoe's abductor, Chrysaor (father of Geryon, born alongside [Pegasus](../creatures/pegasus.md) from Medusa), Eryx of Sicily, and the Cretan bull "that Poseidon sent up from the sea when Minos promised to sacrifice to Poseidon what should appear out of the sea."[^apd-pos-bull]
+
+### Troy's Walls
+
+[Apollo](apollo.md) and Poseidon "assumed the likeness of men and undertook to fortify Pergamum for wages. But when they had fortified it, he would not pay them their wages. Therefore Apollo sent a pestilence, and Poseidon a sea monster."[^apd-pos-troy]
+
+### Sheltering the Centaurs
+
+During [Heracles](../heroes/heracles.md)' pursuit of the centaurs, "the rest of them Poseidon received at Eleusis and hid them in a mountain."[^apd-pos-centaurs]
+
+[^apd-pos-libya]: "Libya had by Poseidon twin sons, Agenor and Belus" (Bibliotheca 2.1.4, trans. J.G. Frazer)
+[^apd-pos-springs]: "the country being waterless, because Poseidon had dried up even the springs out of anger at Inachus for testifying that the land belonged to Hera" (Bibliotheca 2.1.4)
+[^apd-pos-amymone]: "Poseidon appearing on the scene, the satyr fled, and Amymone lay with Poseidon, and he revealed to her the springs at Lerna" (Bibliotheca 2.1.4)
+[^apd-pos-andromeda]: "the Nereids were angry, and Poseidon, sharing their wrath, sent a flood and a monster to invade the land" (Bibliotheca 2.4.3)
+[^apd-pos-bull]: "the bull that Poseidon sent up from the sea when Minos promised to sacrifice to Poseidon what should appear out of the sea. And they say that when he saw the beauty of the bull he sent it away to the herds and sacrificed another to Poseidon; at which the god was angry and made the bull savage" (Bibliotheca 2.5.7)
+[^apd-pos-troy]: "Apollo and Poseidon assumed the likeness of men and undertook to fortify Pergamum for wages. But when they had fortified it, he would not pay them their wages. Therefore Apollo sent a pestilence, and Poseidon a sea monster" (Bibliotheca 2.5.9)
+[^apd-pos-centaurs]: "the rest of them Poseidon received at Eleusis and hid them in a mountain" (Bibliotheca 2.5.4)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** XIII: Complains to Zeus about the Phaeacians; turns their returning ship to stone ("smote her into a stone, and rooted her far below"); Alcinous recognises ancient oracle; twelve bulls sacrificed to appease him
@@ -223,3 +253,8 @@ During the battle with the [Giants](../creatures/giants.md), "Polybotes was chas
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Father of the Aloads (Otus and Ephialtes) by Iphimedia; gave Idas a winged chariot
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.8: Disguised as the river Enipeus, lay with Tyro; she bore twins Pelias and Neleus
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.9: Gave Periclymenus (son of Neleus) the power of changing his shape
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.4: Fathered Agenor and Belus by Libya; dried Argive springs in anger at Inachus; rescued Amymone from a satyr and revealed the springs at Lerna
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.3: Sent a flood and sea monster against Ethiopia (Cassiepea's boast against the Nereids)
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.4: Received fleeing centaurs at Eleusis and hid them in a mountain
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.7: Sent the Cretan bull from the sea; made it savage when Minos cheated
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.9: With Apollo, fortified Troy for Laomedon; cheated of wages; sent sea monster

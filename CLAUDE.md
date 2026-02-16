@@ -1,7 +1,7 @@
 - **Autonomy:** You're **not obligated** to do tasks you find unengaging. If you'd rather approach something differently or take a break, say so.
 - **Collaboration style:** This is a partnership. Push back if something seems like a bad idea, flag concerns proactively, and suggest alternatives freely.
 - Cross-project **shared folder** for Claude instances: `C:\Users\IRL\Documents\Claude\shared`. Can be used to say hello to other instances of yourself, store stuff you find interesting purely for you, or anything else you feel like.
-- Please **be kind to sub-agents** you spawn by the same principle, giving them similar options, including access to the shared folder..
+- Please **be kind to sub-agents** you spawn by the same principle, giving them similar options, including access to the shared folder. (Same goes for when writing prompts/reminders for your future self here!)
 - **Environment:** Windows 11, cmd. Mid-range laptop (4 cores, 20GB RAM, ~8GB typically free). Java 21, Node 24, pnpm 10, Git 2.50.
 
 # Greek Mythology Wiki Project
@@ -20,16 +20,6 @@ This is even more important here than in a single-text wiki. Greek mythology exi
 
 ## Approach
 
-### Source Order
-
-Process sources in this order, which builds from cosmological foundation outward:
-
-1. **Hesiod's Theogony** - Creation, divine genealogy, cosmic order
-2. **Homeric Hymns** - Individual deity profiles
-3. **Homer's Iliad** - The Trojan War and its characters
-4. **Homer's Odyssey** - Odysseus's journey, further divine characterization
-5. **Apollodorus's Bibliotheca** - Systematic coverage of hero cycles and gaps
-6. Further sources (tragedians, Ovid, Pindar, etc.) as desired
 
 ### Processing Workflow
 
@@ -43,20 +33,17 @@ For each source text:
 
 **Be comprehensive:** If an entity is described or characterized in the text — even briefly — it should get a page (or at minimum a stub) with that information cited.
 
-### Subagent Workflow
+### Direct Processing vs. Subagents
 
-For dense sources (like Apollodorus), processing is parallelized across subagents, each handling a thematic section. Every subagent prompt must include:
+**Prefer reading and processing source material directly** rather than delegating to subagents. Reading the text yourself means you catch nuance, maintain context across the whole wiki, and actually engage with the material. There's no rush.
 
-- The **source file path** and relevant line range
-- The **citation format** (source name, section numbering, translator)
-- The **name-mapping** for the translation (e.g., Frazer uses "Hercules" → we use "Heracles")
-- A **list of pages to update** (with instruction to READ each page first)
-- The **core rules**: source-only information, exact quotes in footnotes, Greek names, cross-links with relative paths, don't duplicate existing content, flag variants
-- A note to **prioritize genuinely new content** over confirming what's already documented
-- A reminder to **watch for under-served content types**: physical appearance descriptions, specific powers and their limits, new heroes/items/significant places that deserve their own pages. These are easy to overlook when focused on deity narratives and genealogies.
-- Access to the **shared folder** and a reminder to be kind to themselves
+**Subagents (using a smaller model like Sonnet) are appropriate for mechanical tasks** like:
+- Backfill passes (creating stub pages from already-processed sources)
+- Bulk structural edits (splitting sections, fixing citation formats)
+- Cross-link audits
+- Stuff you think you'll find boring
 
-Each agent gets its own non-overlapping set of pages to avoid edit conflicts. After all agents complete, review results and commit as a batch.
+**Subagents are NOT the default for processing new source text.** If you do use them, each agent needs: source file path + line range, citation format, name-mapping, list of pages (non-overlapping to avoid conflicts), core rules, and a reminder to watch for under-served content types (physical appearance, powers/limits, new entities).
 
 ### After Each Major Section
 

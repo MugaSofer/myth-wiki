@@ -198,6 +198,26 @@ During the [Gigantomachy](../creatures/giants.md), "Hermes, wearing the helmet o
 [^apd-deucalion]: "Zeus sent Hermes to him and allowed him to choose what he would, and he chose to get men" (Bibliotheca 1.7.2, trans. Frazer)
 [^apd-autolycus]: "Autolycus, son of Hermes" (Bibliotheca 1.9.16, trans. Frazer)
 
+### Killing Argus — Origin of "Argiphontes" (2.1.3)
+
+[Zeus](zeus.md) ordered Hermes to steal the cow [Io](../heroes/io.md), guarded by Argus the All-seeing. "As Hermes could not do it secretly because Hierax had blabbed, he killed Argus by the cast of a stone; whence he was called Argiphontes."[^apd-herm-argus] He also purified the Danaids alongside [Athena](athena.md) at [Zeus](zeus.md)'s command.[^apd-herm-danaids]
+
+### Aiding Perseus (2.4.2-2.4.3)
+
+Hermes accompanied [Perseus](../heroes/perseus.md) alongside [Athena](athena.md) to the daughters of Phorcus. He "received also from Hermes an adamantine sickle" for the quest.[^apd-herm-sickle] Afterwards, Perseus returned the nymphs' items via Hermes: "Hermes restored the aforesaid things to the nymphs."[^apd-herm-restore]
+
+### Aiding and Selling Heracles (2.4.11, 2.5.12, 2.6.3)
+
+Hermes gave [Heracles](../heroes/heracles.md) a sword among his divine weapons.[^apd-herm-sword] In the underworld during the Cerberus labour, Hermes informed Heracles that the Gorgon Medusa "was an empty phantom."[^apd-herm-phantom] After the oracle decreed Heracles must be sold for three years, "Hermes sold Hercules, and he was bought by Omphale."[^apd-herm-sold]
+
+[^apd-herm-argus]: "Zeus ordered Hermes to steal the cow, and as Hermes could not do it secretly because Hierax had blabbed, he killed Argus by the cast of a stone; whence he was called Argiphontes" (Bibliotheca 2.1.3, trans. J.G. Frazer)
+[^apd-herm-danaids]: "Athena and Hermes purified them at the command of Zeus" (Bibliotheca 2.1.5)
+[^apd-herm-sickle]: "having received also from Hermes an adamantine sickle he flew to the ocean and caught the Gorgons asleep" (Bibliotheca 2.4.2)
+[^apd-herm-restore]: "Hermes restored the aforesaid things to the nymphs" (Bibliotheca 2.4.3)
+[^apd-herm-sword]: "Having first learned from Eurytus the art of archery, Hercules received a sword from Hermes" (Bibliotheca 2.4.11)
+[^apd-herm-phantom]: "he learned from Hermes that she was an empty phantom" (Bibliotheca 2.5.12)
+[^apd-herm-sold]: "Hermes sold Hercules, and he was bought by Omphale, daughter of Iardanes, queen of Lydia" (Bibliotheca 2.6.3)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** I: Sent by Zeus to warn Aegisthus (past event recalled); Athena proposes sending him to Calypso
@@ -220,3 +240,10 @@ During the [Gigantomachy](../creatures/giants.md), "Hermes, wearing the helmet o
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Rescued Ares from the Aloads by stealth
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.1: Gave Nephele the golden ram that carried Phrixus and Helle
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Father of Autolycus (Argonaut)
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Killed Argus by the cast of a stone — origin of the epithet "Argiphontes"
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.5: Purified the Danaids with Athena at Zeus's command
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.2: Gave Perseus an adamantine sickle; accompanied him to the Gorgons
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.3: Restored the nymphs' items (sandals, kibisis, cap) on Perseus's behalf
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.11: Gave Heracles a sword
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.12: Told Heracles the Gorgon in Hades was "an empty phantom"
+- **[Bibliotheca](../sources/apollodorus.md)** 2.6.3: Sold Heracles to Omphale

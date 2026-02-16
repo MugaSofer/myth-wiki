@@ -170,6 +170,29 @@ During the [Gigantomachy](../creatures/giants.md), "Ephialtes was shot by Apollo
 [^apd-marsyas]: "Apollo was judged the victor and despatched Marsyas by hanging him on a tall pine tree and stripping off his skin." (Bibliotheca 1.4.2, trans. Frazer)
 [^apd-ephialtes]: "Ephialtes was shot by Apollo with an arrow in his left eye and by Hercules in his right" (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the Bibliotheca (Book 2)
+
+### Gifts to Heracles (2.4.11)
+
+Apollo is one of the gods who armed [Heracles](../heroes/heracles.md): "Hercules received a sword from [Hermes](hermes.md), a bow and arrows from Apollo, a golden breastplate from [Hephaestus](hephaestus.md), and a robe from [Athena](athena.md)."[^apd-apo-bow]
+
+### The Cerynitian Hind (2.5.3)
+
+When Heracles caught the Cerynitian hind, "Artemis with Apollo met him, and would have wrested the hind from him, and rebuked him for attempting to kill her sacred animal."[^apd-apo-hind] Heracles appeased them by pleading necessity.
+
+### Pestilence on Troy (2.5.9)
+
+Apollo and [Poseidon](poseidon.md), "desiring to put the wantonness of Laomedon to the proof, assumed the likeness of men and undertook to fortify Pergamum for wages. But when they had fortified it, he would not pay them their wages. Therefore Apollo sent a pestilence, and Poseidon a sea monster."[^apd-apo-troy]
+
+### The Fight over the Tripod (2.6.2)
+
+After Heracles murdered Iphitus and sought purification at Delphi, "the Pythian priestess answered him not by oracles." In frustration, Heracles attempted to plunder the temple and carry off the tripod. "But Apollo fought him, and [Zeus](zeus.md) threw a thunderbolt between them."[^apd-apo-tripod] They were thus parted, and Heracles received an oracle commanding his servitude.
+
+[^apd-apo-bow]: "Hercules received a sword from Hermes, a bow and arrows from Apollo, a golden breastplate from Hephaestus, and a robe from Athena" (Bibliotheca 2.4.11, trans. J.G. Frazer)
+[^apd-apo-hind]: "Artemis with Apollo met him, and would have wrested the hind from him, and rebuked him for attempting to kill her sacred animal" (Bibliotheca 2.5.3, trans. J.G. Frazer)
+[^apd-apo-troy]: "Apollo and Poseidon assumed the likeness of men and undertook to fortify Pergamum for wages. But when they had fortified it, he would not pay them their wages. Therefore Apollo sent a pestilence, and Poseidon a sea monster" (Bibliotheca 2.5.9, trans. J.G. Frazer)
+[^apd-apo-tripod]: "Apollo fought him, and Zeus threw a thunderbolt between them" (Bibliotheca 2.6.2, trans. J.G. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
@@ -183,6 +206,10 @@ During the [Gigantomachy](../creatures/giants.md), "Ephialtes was shot by Apollo
 - **[Odyssey](../sources/odyssey.md)** XI: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" — slew Otos and Ephialtes before they reached manhood, who had tried to pile Ossa on Olympus and Pelion on Ossa[^od11-aloadae]
 - **[Odyssey](../sources/odyssey.md)** XV: [Zeus](zeus.md) and Apollo "loved [Amphiaraus] with all manner of love" but he died in Thebes "by reason of a woman's gifts" ([Eriphyle](../mortals/eriphyle.md)'s bribery)[^od15-amphiaraus]; Apollo "made the high-souled Polypheides a seer, far the chief of human kind, Amphiaraus being now dead"[^od15-polypheides]; with [Artemis](artemis.md), "slays them with the visitation of his gentle shafts" — the gentle death of old age on the isle of Syria[^od15-syria]; a hawk described as "the swift messenger of Apollo"[^od15-hawk]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.1-1.4.2, 1.6.2: Learned prophecy from [Pan](pan.md); killed Python at Delphi; slew Tityus; slew Marsyas; shot Ephialtes in the [Gigantomachy](../creatures/giants.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.11: Gave [Heracles](../heroes/heracles.md) "a bow and arrows" before his labours
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.3: Met [Heracles](../heroes/heracles.md) with [Artemis](artemis.md) when he caught the Cerynitian hind; would have wrested it from him
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.9: With [Poseidon](poseidon.md), tested Laomedon by building Troy's walls for wages; "Apollo sent a pestilence" when Laomedon refused to pay
+- **[Bibliotheca](../sources/apollodorus.md)** 2.6.2: Fought [Heracles](../heroes/heracles.md) over the Delphic tripod; "[Zeus](zeus.md) threw a thunderbolt between them" to part them
 
 - **[Iliad](../sources/iliad.md)** I: Sends plague on the Greeks; "descended like to night"; sends favourable wind after sacrifice
 - **[Iliad](../sources/iliad.md)** IV: Rallies the Trojans from Pergamos; notes Achilles' absence

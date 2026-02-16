@@ -46,6 +46,22 @@ This is separate from the Gorgon head on [Athena](../deities/athena.md)'s aegis 
 
 [^il11-shield]: "thereon was embossed the Gorgon fell of aspect glaring terribly, and about her were Dread and Terror" (Iliad XI.6189-6190, trans. Lang, Leaf, and Myers)
 
+## In the Bibliotheca (2.4.2)
+
+The [Bibliotheca](../sources/apollodorus.md) provides by far the most detailed physical description of the Gorgons. [Perseus](../heroes/perseus.md), guided by [Hermes](../deities/hermes.md) and [Athena](../deities/athena.md), "flew to the ocean and caught the Gorgons asleep. They were Stheno, Euryale, and Medusa. Now Medusa alone was mortal; for that reason Perseus was sent to fetch her head."[^apd-gorgons-names]
+
+Their appearance is described in vivid detail: "the Gorgons had heads twined about with the scales of dragons, and great tusks like swine's, and brazen hands, and golden wings, by which they flew; and they turned to stone such as beheld them."[^apd-gorgons-desc]
+
+Perseus beheaded Medusa while [Athena](../deities/athena.md) guided his hand and he looked at a brazen shield to avoid her gaze. "When her head was cut off, there sprang from the Gorgon the winged horse [Pegasus](pegasus.md) and Chrysaor, the father of Geryon; these she had by [Poseidon](../deities/poseidon.md)."[^apd-gorgons-offspring] The surviving Gorgons "started up from their slumber and pursued Perseus: but they could not see him on account of the cap, for he was hidden by it."[^apd-gorgons-pursuit]
+
+Perseus gave the Gorgon's head to [Athena](../deities/athena.md), who "inserted the Gorgon's head in the middle of her shield."[^apd-gorgons-shield]
+
+[^apd-gorgons-names]: "flew to the ocean and caught the Gorgons asleep. They were Stheno, Euryale, and Medusa. Now Medusa alone was mortal; for that reason Perseus was sent to fetch her head." (Bibliotheca 2.4.2, trans. J.G. Frazer)
+[^apd-gorgons-desc]: "the Gorgons had heads twined about with the scales of dragons, and great tusks like swine's, and brazen hands, and golden wings, by which they flew; and they turned to stone such as beheld them" (Bibliotheca 2.4.2, trans. J.G. Frazer)
+[^apd-gorgons-offspring]: "When her head was cut off, there sprang from the Gorgon the winged horse Pegasus and Chrysaor, the father of Geryon; these she had by Poseidon." (Bibliotheca 2.4.2)
+[^apd-gorgons-pursuit]: "the Gorgons started up from their slumber and pursued Perseus: but they could not see him on account of the cap, for he was hidden by it." (Bibliotheca 2.4.3)
+[^apd-gorgons-shield]: "the Gorgon's head he gave to Athena... Athena inserted the Gorgon's head in the middle of her shield." (Bibliotheca 2.4.3)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 274-294: Origin, Medusa's offspring
@@ -53,5 +69,6 @@ This is separate from the Gorgon head on [Athena](../deities/athena.md)'s aegis 
 - **[Iliad](../sources/iliad.md)** V: Gorgon head on [Athena](../deities/athena.md)'s aegis
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.6: Daughters of Phorcus and Ceto (deferred to the Perseus narrative)
 - **[Iliad](../sources/iliad.md)** XI: "The Gorgon fell of aspect" on Agamemnon's shield, flanked by Dread and Terror
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.2-2.4.3: Full physical description — dragon-scaled heads, swine tusks, brazen hands, golden wings, petrifying gaze; three named (Stheno, Euryale, Medusa); only Medusa mortal; beheaded by Perseus; Pegasus and Chrysaor sprang forth; head given to Athena for her shield
 
 [^cyp-gorgons]: "By him she conceived and bare the Gorgons, fearful monsters who lived in Sarpedon, a rocky island in deep-eddying Oceanus" (Cypria, Fragment 21, trans. H.G. Evelyn-White)

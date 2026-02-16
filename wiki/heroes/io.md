@@ -1,0 +1,59 @@
+# Io
+
+| | |
+|---|---|
+| **Parentage** | Iasus (or Inachus, or Piren -- variants given) |
+| **Consort** | [Zeus](../deities/zeus.md); later Telegonus |
+| **Children** | Epaphus |
+| **Homeland** | Argos |
+| **Known for** | Priestess of [Hera](../deities/hera.md); transformed into a cow; wandered across Europe and Asia |
+| **First appearance** | [Bibliotheca](../sources/apollodorus.md) 2.1.3 |
+
+## Overview
+
+**Io** was a mortal woman of Argos who served as priestess of [Hera](../deities/hera.md). After [Zeus](../deities/zeus.md) seduced her, she was transformed into a white cow and driven by [Hera](../deities/hera.md)'s persecution to wander across much of the known world, ultimately recovering her human form in Egypt.
+
+## In the [Bibliotheca](../sources/apollodorus.md)
+
+### Parentage
+
+Apollodorus presents multiple traditions for Io's parentage. In his own narrative, she is the daughter of Iasus, son of Argus and Ismene.[^apd-io-iasus] However, "the annalist Castor and many of the tragedians allege that Io was a daughter of Inachus; and Hesiod and Acusilaus say that she was a daughter of Piren."[^apd-io-variants]
+
+### Seduction and Transformation
+
+[Zeus](../deities/zeus.md) seduced Io while she held the priesthood of [Hera](../deities/hera.md). When detected by [Hera](../deities/hera.md), Zeus "by a touch turned Io into a white cow and swore that he had not known her; wherefore Hesiod remarks that lover's oaths do not draw down the anger of the gods."[^apd-io-cow] Hera was not deceived, however, and requested the cow for herself. She set Argus the All-seeing to guard the animal, and "he tethered her to the olive tree which was in the grove of the Mycenaeans."[^apd-io-argus]
+
+### Hermes and Argus
+
+[Zeus](../deities/zeus.md) ordered [Hermes](../deities/hermes.md) to steal the cow. When Hermes could not do it secretly "because Hierax had blabbed, he killed Argus by the cast of a stone; whence he was called Argiphontes."[^apd-io-hermes] This passage provides the etymology of Hermes' epithet Argiphontes ("Argus-slayer").
+
+### Wanderings
+
+[Hera](../deities/hera.md) then sent a gadfly to torment the cow. Io's wanderings traced a vast geographical path: she came first to the gulf named after her (the Ionian gulf), then journeyed through Illyria, traversed Mount Haemus, and crossed what "was then called the Thracian Straits but is now called after her the Bosphorus."[^apd-io-wanderings] Apollodorus thus attributes the name of the Bosphorus ("cow-crossing") to Io. She continued through Scythia and Cimmeria, "wandered over great tracts of land and swam wide stretches of sea both in Europe and Asia until at last she came to Egypt."[^apd-io-egypt]
+
+### Recovery and Epaphus
+
+In Egypt, Io "recovered her original form and gave birth to a son Epaphus beside the river Nile."[^apd-io-epaphus] But Hera's persecution continued: she "besought the Curetes to make away with" the child, and they did. When Zeus learned of it, he slew the Curetes. Io searched for her son through Syria, discovered he was being nursed by the wife of the king of Byblus, and recovered him.[^apd-io-search]
+
+Io then settled in Egypt, married Telegonus who reigned there, and "set up an image of [Demeter](../deities/demeter.md), whom the Egyptians called Isis, and Io likewise they called by the name of Isis."[^apd-io-isis]
+
+### Legacy
+
+Through Epaphus, Io became ancestress of a great line. Epaphus married Memphis, founded the city of Memphis, and fathered Libya -- from whom came Agenor and Belus, and through them the royal houses of Phoenicia and Egypt, including Danaus and Egyptus.[^apd-io-legacy]
+
+[^apd-io-iasus]: "Argus and Ismene, daughter of Asopus, had a son Iasus, who is said to have been the father of Io" (Bibliotheca 2.1.3, trans. J.G. Frazer)
+[^apd-io-variants]: "the annalist Castor and many of the tragedians allege that Io was a daughter of Inachus; and Hesiod and Acusilaus say that she was a daughter of Piren" (Bibliotheca 2.1.3)
+[^apd-io-cow]: "Zeus seduced her while she held the priesthood of Hera, but being detected by Hera he by a touch turned Io into a white cow and swore that he had not known her; wherefore Hesiod remarks that lover's oaths do not draw down the anger of the gods" (Bibliotheca 2.1.3)
+[^apd-io-argus]: "Hera requested the cow from Zeus for herself and set Argus the All-seeing to guard it ... He tethered her to the olive tree which was in the grove of the Mycenaeans" (Bibliotheca 2.1.3)
+[^apd-io-hermes]: "Zeus ordered Hermes to steal the cow, and as Hermes could not do it secretly because Hierax had blabbed, he killed Argus by the cast of a stone; whence he was called Argiphontes" (Bibliotheca 2.1.3)
+[^apd-io-wanderings]: "she journeyed through Illyria and having traversed Mount Haemus she crossed what was then called the Thracian Straits but is now called after her the Bosphorus" (Bibliotheca 2.1.3)
+[^apd-io-egypt]: "she wandered over great tracts of land and swam wide stretches of sea both in Europe and Asia until at last she came to Egypt" (Bibliotheca 2.1.3)
+[^apd-io-epaphus]: "she recovered her original form and gave birth to a son Epaphus beside the river Nile" (Bibliotheca 2.1.3)
+[^apd-io-search]: "Io set out in search of the child. She roamed all over Syria, because there it was revealed to her that the wife of the king of Byblus was nursing her son; and having found Epaphus she came to Egypt" (Bibliotheca 2.1.3)
+[^apd-io-isis]: "she set up an image of Demeter, whom the Egyptians called Isis, and Io likewise they called by the name of Isis" (Bibliotheca 2.1.3)
+[^apd-io-legacy]: "Reigning over the Egyptians Epaphus married Memphis, daughter of Nile, founded and named the city of Memphis after her, and begat a daughter Libya, after whom the region of Libya was called" (Bibliotheca 2.1.4)
+
+## Appearances
+
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Priestess of Hera; seduced by Zeus; transformed into white cow; guarded by Argus; Hermes killed Argus; gadfly sent by Hera; wandered through Europe and Asia; recovered form in Egypt; bore Epaphus; identified with Isis
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.4: Through Epaphus, ancestress of Libya, Agenor, Belus, Danaus, and Egyptus

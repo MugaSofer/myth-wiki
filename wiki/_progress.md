@@ -576,8 +576,20 @@ Created dedicated pages for major entities across all previously processed sourc
 
 ## Bibliotheca Book 1 — COMPLETE
 
+### Apollodorus, Bibliotheca Book 2 (2.1.1-2.8.5)
+
+**Book 2 processed.** Covers: Argive genealogy, Io, Danaus and the fifty daughters, Bellerophon, Perseus, and the complete Heracles cycle (birth, twelve labours, later adventures, death, apotheosis, Heraclids).
+
+**Pages updated:** heracles.md (massive expansion — 464 lines, full Bibliotheca narrative), perseus.md (major expansion), bellerophon.md (Apollodorus section), zeus.md, hera.md, athena.md, hermes.md, poseidon.md, apollo.md, ares.md, artemis.md, demeter.md, dionysus.md, hephaestus.md, chimaera.md, gorgons.md, pegasus.md, cerberus.md, hydra.md, nemean-lion.md, echidna.md, chiron.md, helm-of-hades.md
+
+**New pages created:** io.md, andromeda.md, danae.md, deianira.md
+
+**Updated:** index.md (sources list current), apollodorus.md (Book 2 marked complete)
+
+## Bibliotheca Book 2 — COMPLETE
+
 ## Next
 
-Continue processing Apollodorus: Book 2 (Perseus, Heracles), Book 3 (Europa, Cadmus, Thebes, Crete), Epitome (Theseus, Trojan War, Returns).
+Continue processing Apollodorus: Book 3 (Europa, Cadmus, Thebes, Crete), Epitome (Theseus, Trojan War, Returns).
 
 Also consider: Catalogues of Women fragments (genealogical), Great Eoiae fragments, Melampodia fragments.

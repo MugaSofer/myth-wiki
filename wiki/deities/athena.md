@@ -300,6 +300,38 @@ The [Bibliotheca](../sources/apollodorus.md) assigns Athena a major role in the 
 [^apd-ath-alcyoneus]: "at Athena's advice Hercules dragged him outside Pallene, and so the giant died." (Bibliotheca 1.6.1, trans. Frazer)
 [^apd-ath-pallas]: "Enceladus fled, but Athena threw on him in his flight the island of Sicily; and she flayed Pallas and used his skin to shield her own body in the fight." (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the Bibliotheca (Book 2)
+
+### Danaus and the Danaids
+
+Athena advised Danaus to build a ship when he fled the sons of Egyptus — "by the advice of Athena he built a ship, being the first to do so."[^apd-ath-danaus] After the Danaids murdered their bridegrooms, "Athena and [Hermes](hermes.md) purified them at the command of [Zeus](zeus.md)."[^apd-ath-purify]
+
+### Guiding Perseus
+
+Athena guided [Perseus](../heroes/perseus.md) in his quest to slay Medusa. She accompanied him alongside [Hermes](hermes.md) to the daughters of Phorcus. During the slaying itself, "Athena guided his hand and he looked with averted gaze on a brazen shield, in which he beheld the image of the Gorgon."[^apd-ath-perseus]
+
+After Perseus returned, "the Gorgon's head he gave to Athena." She "inserted the Gorgon's head in the middle of her shield."[^apd-ath-gorgon-shield] A variant tradition states "that Medusa was beheaded for Athena's sake; and they say that the Gorgon was fain to match herself with the goddess even in beauty."[^apd-ath-gorgon-beauty]
+
+### Aiding Heracles
+
+Athena continued her role as [Heracles](../heroes/heracles.md)' protector:
+- Gave him weapons before the battle with Erginus: "Hercules, having received weapons from Athena and taken the command, killed Erginus."[^apd-ath-erginus]
+- For the Stymphalian Birds, "Athena gave him brazen castanets, which she had received from [Hephaestus](hephaestus.md)."[^apd-ath-castanets]
+- Brought him to Phlegra to fight in the [Gigantomachy](../creatures/giants.md): "he came through Athena's agency to Phlegra, and sided with the gods."[^apd-ath-phlegra]
+- Gave him "a lock of the Gorgon's hair in a bronze jar" to use as a weapon against enemies.[^apd-ath-gorgon-lock]
+- Returned the golden apples to the [Hesperides](../creatures/echidna.md): "[Athena](athena.md) got them and conveyed them back again; for it was not lawful that they should be laid down anywhere."[^apd-ath-apples]
+
+[^apd-ath-danaus]: "by the advice of Athena he built a ship, being the first to do so" (Bibliotheca 2.1.4, trans. J.G. Frazer)
+[^apd-ath-purify]: "Athena and Hermes purified them at the command of Zeus" (Bibliotheca 2.1.5)
+[^apd-ath-perseus]: "Athena guided his hand and he looked with averted gaze on a brazen shield, in which he beheld the image of the Gorgon, he beheaded her" (Bibliotheca 2.4.2)
+[^apd-ath-gorgon-shield]: "the Gorgon's head he gave to Athena... Athena inserted the Gorgon's head in the middle of her shield" (Bibliotheca 2.4.3)
+[^apd-ath-gorgon-beauty]: "it is alleged by some that Medusa was beheaded for Athena's sake; and they say that the Gorgon was fain to match herself with the goddess even in beauty" (Bibliotheca 2.4.3)
+[^apd-ath-erginus]: "Hercules, having received weapons from Athena and taken the command, killed Erginus, put the Minyans to flight" (Bibliotheca 2.4.11)
+[^apd-ath-castanets]: "Athena gave him brazen castanets, which she had received from Hephaestus" (Bibliotheca 2.5.6)
+[^apd-ath-phlegra]: "he came through Athena's agency to Phlegra, and sided with the gods in their victorious war on the giants" (Bibliotheca 2.7.1)
+[^apd-ath-gorgon-lock]: "Hercules had received from Athena a lock of the Gorgon's hair in a bronze jar and gave it to Sterope, daughter of Cepheus" (Bibliotheca 2.7.3)
+[^apd-ath-apples]: "Athena got them and conveyed them back again; for it was not lawful that they should be laid down anywhere" (Bibliotheca 2.5.11)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 13, 318, 573-578, 886-900, 924-929t: Invocation; aids Heracles; dresses the first woman; birth from Zeus's head
@@ -349,6 +381,15 @@ The [Bibliotheca](../sources/apollodorus.md) assigns Athena a major role in the 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.1-1.6.2: Summoned Heracles for the Gigantomachy; advised dragging Alcyoneus outside Pallene; threw Sicily on Enceladus; flayed Pallas and used his skin as a shield
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Fitted a speaking timber from the oak of Dodona into the Argo's prow — "at the prow Athena fitted in a speaking timber from the oak of Dodona"[^apd-argo-timber]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: Gave half of the dragon's teeth to Aeetes — "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes"[^apd-dragon-teeth]
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.4: Advised Danaus to build a ship — "the first to do so"
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.5: Purified the Danaids with Hermes at Zeus's command
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.2: Guided Perseus's hand in beheading Medusa; accompanied him with Hermes
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.3: Received the Gorgon's head; inserted it in her shield; variant — Medusa "was fain to match herself with the goddess even in beauty"
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.11: Gave weapons to Heracles; gave him a robe
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.6: Gave Heracles brazen castanets from Hephaestus for the Stymphalian Birds
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.11: Returned the golden apples to the Hesperides
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.1: Brought Heracles to Phlegra for the Gigantomachy
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.3: Gave Heracles a lock of the Gorgon's hair in a bronze jar
 
 [^apd-argo-timber]: "at the prow Athena fitted in a speaking timber from the oak of Dodona" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-dragon-teeth]: "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes" (Bibliotheca 1.9.23, trans. Frazer)

@@ -32,9 +32,17 @@ In the [Bibliotheca](../sources/apollodorus.md), the helm is used by a third fig
 
 [^apd-helm-hermes]: "Hermes, wearing the helmet of Hades, slew Hippolytus in the fight" (Bibliotheca 1.6.2, trans. Frazer)
 
+### Perseus and the Cap of Hades (Bibliotheca 2.4.2)
+
+In the [Bibliotheca](../sources/apollodorus.md), the cap plays a central role in [Perseus](../heroes/perseus.md)'s quest for the [Gorgon](../creatures/gorgons.md)'s head. The nymphs possessed "the cap of Hades" along with winged sandals and the kibisis (wallet). After obtaining them, Perseus "put the cap on his head. Wearing it, he saw whom he pleased, but was not seen by others."[^apd-helm-perseus] After beheading [Medusa](../creatures/gorgons.md), the surviving Gorgons "could not see him on account of the cap, for he was hidden by it."[^apd-helm-escape]
+
+[^apd-helm-perseus]: "put the cap on his head. Wearing it, he saw whom he pleased, but was not seen by others." (Bibliotheca 2.4.2, trans. J.G. Frazer)
+[^apd-helm-escape]: "they could not see him on account of the cap, for he was hidden by it." (Bibliotheca 2.4.3)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** V.3205-3206: Worn by [Athena](../deities/athena.md) to hide from [Ares](../deities/ares.md)
 - **[Shield of Heracles](../sources/shield-of-heracles.md)** 226-227: Worn by Perseus on the shield, called "the dread cap of Hades which had the awful gloom of night"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Worn by [Hermes](../deities/hermes.md) to slay the giant Hippolytus in the [Gigantomachy](../creatures/giants.md)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.1: "on Pluto they bestowed a helmet" — made by the [Cyclopes](../creatures/cyclopes.md) alongside Zeus's thunderbolt and Poseidon's trident
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.2-2.4.3: Worn by Perseus during the Gorgon quest — obtained from the nymphs; rendered him invisible to pursue and escape the Gorgons

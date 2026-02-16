@@ -95,6 +95,15 @@ During the [Gigantomachy](../creatures/giants.md), "Artemis slew Gration."[^apd-
 [^apd-art-orion]: "Orion was killed, as some say, for challenging Artemis to a match at quoits, but some say he was shot by Artemis for offering violence to Opis, one of the maidens who had come from the Hyperboreans." (Bibliotheca 1.4.5, trans. Frazer)
 [^apd-art-gration]: "Artemis slew Gration" (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the Bibliotheca (2.5.3)
+
+### The Cerynitian Hind
+
+The [Bibliotheca](../sources/apollodorus.md) describes the Cerynitian hind, the object of [Heracles](../heroes/heracles.md)' third labour, as sacred to Artemis: "the hind was at Oenoe; it had golden horns and was sacred to Artemis."[^apd-art-hind-desc] Heracles hunted it for a full year without killing or wounding it. When he finally shot it crossing the river Ladon, "Artemis with [Apollo](apollo.md) met him, and would have wrested the hind from him, and rebuked him for attempting to kill her sacred animal."[^apd-art-hind] Heracles "appeased the anger of the goddess" by pleading necessity and blaming Eurystheus.
+
+[^apd-art-hind-desc]: "the hind was at Oenoe; it had golden horns and was sacred to Artemis" (Bibliotheca 2.5.3, trans. J.G. Frazer)
+[^apd-art-hind]: "Artemis with Apollo met him, and would have wrested the hind from him, and rebuked him for attempting to kill her sacred animal" (Bibliotheca 2.5.3, trans. J.G. Frazer)
+
 ## In the Odyssey
 
 ### Slaying Orion (Book V)
@@ -129,6 +138,7 @@ Meleager slew the boar "having gathered together from many cities huntsmen and h
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Angry at Agamemnon's boast that he surpassed her, sends stormy winds to prevent sailing; when told to sacrifice Iphigeneia, "snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"[^cyp-iphigeneia]
 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.1, 1.4.3-1.4.5, 1.6.2: Born first on Delos, served as midwife for Apollo's birth; devoted to the chase and remained a maid; slew Orion in Delos (two variant causes); slew Gration in the Gigantomachy
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.3: The Cerynitian hind "had golden horns and was sacred to Artemis"; when [Heracles](../heroes/heracles.md) shot it crossing a stream, "Artemis with [Apollo](apollo.md) met him, and would have wrested the hind from him, and rebuked him for attempting to kill her sacred animal"[^apd-art-hind]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Killed the Aloads by a ruse — changed into a deer and leapt between them; they killed each other throwing darts at the quarry
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.2: Sent the Calydonian Boar because Oeneus forgot her in sacrifice
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Admetus forgot to sacrifice to her at his marriage; chamber filled with snakes

@@ -2,10 +2,11 @@
 
 | | |
 |---|---|
-| **Also known as** | Mighty Heracles, Heracles the Theban-born |
+| **Also known as** | Mighty Heracles, Heracles the Theban-born, Alcides (birth name) |
 | **Roman equivalent** | Hercules |
 | **Parentage** | [Zeus](../deities/zeus.md) and Alcmena |
-| **Known for** | Labours, slaying monsters |
+| **Consorts** | Megara, [Deianira](deianira.md), Omphale, [Hebe](../deities/hebe.md) |
+| **Known for** | Twelve Labours, slaying monsters, apotheosis |
 | **First appearance** | [Theogony](../sources/theogony.md) 289 |
 
 ## Overview
@@ -116,6 +117,299 @@ After the individual combats, "all of them Hercules shot with arrows as they wer
 [^apd-herc-ephialtes]: "Ephialtes was shot by Apollo with an arrow in his left eye and by Hercules in his right" (Bibliotheca 1.6.2, trans. Frazer)
 [^apd-herc-finish]: "all of them Hercules shot with arrows as they were dying" (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the Bibliotheca (2.4.5-2.8.5)
+
+The [Bibliotheca](../sources/apollodorus.md) provides the most comprehensive continuous narrative of Heracles' life in the ancient corpus, covering his genealogical background, birth, youth, the Twelve Labours, later adventures, death, apotheosis, and the fate of his descendants.
+
+### Appearance and Physical Description
+
+Heracles' physical nature was extraordinary: "his body measured four cubits, and he flashed a gleam of fire from his eyes; and he did not miss, neither with the bow nor with the javelin."[^apd-herc-body] After slaying the lion of Cithaeron, "he dressed himself in the skin and wore the scalp as a helmet."[^apd-herc-lionskin]
+
+[^apd-herc-body]: "his body measured four cubits, and he flashed a gleam of fire from his eyes; and he did not miss, neither with the bow nor with the javelin" (Bibliotheca 2.4.9, trans. J.G. Frazer)
+[^apd-herc-lionskin]: "he dressed himself in the skin and wore the scalp as a helmet" (Bibliotheca 2.4.10)
+
+### Weapons and Equipment
+
+Heracles received divine arms from the gods and fashioned one weapon himself: "a sword from [Hermes](../deities/hermes.md), a bow and arrows from [Apollo](../deities/apollo.md), a golden breastplate from [Hephaestus](../deities/hephaestus.md), and a robe from [Athena](../deities/athena.md); for he had himself cut a club at Nemea."[^apd-herc-arms]
+
+[^apd-herc-arms]: "a sword from Hermes, a bow and arrows from Apollo, a golden breastplate from Hephaestus, and a robe from Athena; for he had himself cut a club at Nemea" (Bibliotheca 2.4.11)
+
+### Birth and Youth
+
+#### Hera's Interference and the Birth of Eurystheus
+
+[Zeus](../deities/zeus.md) declared that "the descendant of Perseus then about to be born would reign over Mycenae," but [Hera](../deities/hera.md) "out of jealousy persuaded the Ilithyias to retard Alcmena's delivery, and contrived that Eurystheus, son of Sthenelus, should be born a seven-month child."[^apd-herc-eurystheus] This secured Eurystheus the throne that should have been Heracles'.
+
+[^apd-herc-eurystheus]: "Zeus declared among the gods that the descendant of Perseus then about to be born would reign over Mycenae, and Hera out of jealousy persuaded the Ilithyias to retard Alcmena's delivery, and contrived that Eurystheus, son of Sthenelus, should be born a seven-month child" (Bibliotheca 2.4.5, trans. J.G. Frazer)
+
+#### Amphitryon and Alcmena
+
+Before Heracles' conception, [Amphitryon](amphitryon.md) had been exiled from Mycenae after accidentally killing his father-in-law Electryon with a rebounding club. He fled to [Thebes](../places/thebes.md) with Alcmena, who refused to marry him until he avenged her brothers' deaths at the hands of the Teleboans. Amphitryon waged a successful campaign against them, aided by Creon, Cephalus, and others.[^apd-herc-amphitryon]
+
+[^apd-herc-amphitryon]: "Amphitryon went with Alcmena and Licymnius to Thebes and was purified by Creon... Alcmena said she would marry him when he had avenged her brothers' death" (Bibliotheca 2.4.6)
+
+#### Conception and Twin Birth
+
+"Before Amphitryon reached Thebes, Zeus came by night and prolonging the one night threefold he assumed the likeness of Amphitryon and bedded with Alcmena."[^apd-herc-zeus-night] When Amphitryon returned and found his wife unsurprised to see him, "he learned from Tiresias how Zeus had enjoyed her." Alcmena bore twins: "Hercules, whom she had by Zeus and who was the elder by one night, and Iphicles, whom she had by Amphitryon."[^apd-herc-twins]
+
+[^apd-herc-zeus-night]: "before Amphitryon reached Thebes, Zeus came by night and prolonging the one night threefold he assumed the likeness of Amphitryon and bedded with Alcmena and related what had happened concerning the Teleboans" (Bibliotheca 2.4.8)
+[^apd-herc-twins]: "Alcmena bore two sons, to wit, Hercules, whom she had by Zeus and who was the elder by one night, and Iphicles, whom she had by Amphitryon" (Bibliotheca 2.4.8)
+
+#### The Serpent Episode
+
+"When the child was eight months old, Hera desired the destruction of the babe and sent two huge serpents to the bed. Alcmena called Amphitryon to her help, but Hercules arose and killed the serpents by strangling them with both his hands."[^apd-herc-serpents] A variant tradition attributed to Pherecydes says that Amphitryon himself put the serpents in the bed to determine which child was his; when Iphicles fled and Heracles stood his ground, Amphitryon knew Iphicles was his son.
+
+[^apd-herc-serpents]: "When the child was eight months old, Hera desired the destruction of the babe and sent two huge serpents to the bed. Alcmena called Amphitryon to her help, but Hercules arose and killed the serpents by strangling them with both his hands" (Bibliotheca 2.4.8)
+
+#### Education and Teachers
+
+Heracles' teachers are listed in detail: "Hercules was taught to drive a chariot by Amphitryon, to wrestle by Autolycus, to shoot with the bow by Eurytus, to fence by Castor, and to play the lyre by Linus."[^apd-herc-teachers] Linus, a brother of Orpheus, was killed by Heracles when the boy, "being struck by him, flew into a rage and slew him" with a blow of the lyre. Heracles was tried for murder but acquitted by citing a law of Rhadamanthys that permitted self-defence against wrongful aggressors.[^apd-herc-linus]
+
+Amphitryon, fearing the boy might kill again, sent him to tend cattle. There "he was nurtured and outdid all in stature and strength. Even by the look of him it was plain that he was a son of Zeus."[^apd-herc-cattle]
+
+[^apd-herc-teachers]: "Hercules was taught to drive a chariot by Amphitryon, to wrestle by Autolycus, to shoot with the bow by Eurytus, to fence by Castor, and to play the lyre by Linus" (Bibliotheca 2.4.9)
+[^apd-herc-linus]: "This Linus was a brother of Orpheus; he came to Thebes and became a Theban, but was killed by Hercules with a blow of the lyre; for being struck by him, Hercules flew into a rage and slew him" (Bibliotheca 2.4.9)
+[^apd-herc-cattle]: "he was nurtured and outdid all in stature and strength. Even by the look of him it was plain that he was a son of Zeus" (Bibliotheca 2.4.9)
+
+#### The Lion of Cithaeron and Thespius's Daughters
+
+At eighteen, Heracles slew the lion of Cithaeron that harried the cattle of Amphitryon and Thespius. Thespius, king of Thespiae, entertained him for fifty days; "each night, as Hercules went forth to the hunt, Thespius bedded one of his daughters with him (fifty daughters having been borne to him by Megamede, daughter of Arneus); for he was anxious that all of them should have children by Hercules."[^apd-herc-thespius]
+
+[^apd-herc-thespius]: "each night, as Hercules went forth to the hunt, Thespius bedded one of his daughters with him (fifty daughters having been borne to him by Megamede, daughter of Arneus); for he was anxious that all of them should have children by Hercules. Thus Hercules, though he thought that his bed-fellow was always the same, had intercourse with them all" (Bibliotheca 2.4.10)
+
+#### Erginus and the Minyans
+
+Returning from the lion hunt, Heracles met heralds from Erginus demanding tribute from the Thebans. He "cut off their ears and noses and hands, and having fastened them by ropes from their necks, he told them to carry that tribute to Erginus and the Minyans."[^apd-herc-erginus] When Erginus marched against [Thebes](../places/thebes.md), Heracles "having received weapons from [Athena](../deities/athena.md) and taken the command, killed Erginus, put the Minyans to flight, and compelled them to pay double the tribute to the Thebans."[^apd-herc-minyans] Amphitryon fell in this battle. Heracles received Creon's eldest daughter Megara as a prize of valour and had three sons by her: Therimachus, Creontiades, and Deicoon.
+
+[^apd-herc-erginus]: "he cut off their ears and noses and hands, and having fastened them by ropes from their necks, he told them to carry that tribute to Erginus and the Minyans" (Bibliotheca 2.4.11)
+[^apd-herc-minyans]: "Hercules, having received weapons from Athena and taken the command, killed Erginus, put the Minyans to flight, and compelled them to pay double the tribute to the Thebans" (Bibliotheca 2.4.11)
+
+#### Madness and the Oracle
+
+"After the battle with the Minyans Hercules was driven mad through the jealousy of Hera and flung his own children, whom he had by Megara, and two children of Iphicles into the fire."[^apd-herc-madness] He condemned himself to exile, was purified by Thespius, and went to [Delphi](../places/delphi.md). "The Pythian priestess then first called him Hercules, for hitherto he was called Alcides."[^apd-herc-name] She told him to dwell in Tiryns, serve Eurystheus for twelve years, perform ten labours, and "when the tasks were accomplished, he would be immortal."
+
+[^apd-herc-madness]: "after the battle with the Minyans Hercules was driven mad through the jealousy of Hera and flung his own children, whom he had by Megara, and two children of Iphicles into the fire" (Bibliotheca 2.4.12)
+[^apd-herc-name]: "The Pythian priestess then first called him Hercules, for hitherto he was called Alcides" (Bibliotheca 2.4.12)
+
+### The Twelve Labours
+
+Eurystheus prescribed ten labours, but refused to count two of them (the Hydra, because Iolaus helped, and the Augean Stables, because Heracles did it for hire), making the total twelve. The labours were performed "in eight years and a month."[^apd-herc-duration]
+
+[^apd-herc-duration]: "When the labours had been performed in eight years and a month, Eurystheus ordered Hercules, as an eleventh labour, to fetch golden apples from the Hesperides, for he did not acknowledge the labour of the cattle of Augeas nor that of the hydra" (Bibliotheca 2.5.11)
+
+#### 1. The Nemean Lion
+
+The [Nemean Lion](../creatures/nemean-lion.md) was "an invulnerable beast begotten by Typhon."[^apd-herc-lion1] On the way, Heracles lodged with the day-labourer Molorchus and told him to wait thirty days: if Heracles returned, to sacrifice to Saviour [Zeus](../deities/zeus.md); if not, to sacrifice to Heracles as a hero. Finding the lion invulnerable to arrows, Heracles "heaved up his club and made after him." When the lion fled into a two-mouthed cave, Heracles blocked one entrance, entered the other, "and putting his arm round its neck held it tight till he had choked it."[^apd-herc-lion2] He returned on the thirtieth day. Eurystheus, "amazed at his manhood," forbade him to enter the city and thereafter "sent his commands for the labours through a herald, Copreus." Eurystheus also "had a bronze jar made for himself to hide in under the earth."[^apd-herc-lion3]
+
+[^apd-herc-lion1]: "an invulnerable beast begotten by Typhon" (Bibliotheca 2.5.1)
+[^apd-herc-lion2]: "putting his arm round its neck held it tight till he had choked it; so laying it on his shoulders he carried it to Cleonae" (Bibliotheca 2.5.1)
+[^apd-herc-lion3]: "Amazed at his manhood, Eurystheus forbade him thenceforth to enter the city, but ordered him to exhibit the fruits of his labours before the gates. They say, too, that in his fear he had a bronze jar made for himself to hide in under the earth, and that he sent his commands for the labours through a herald, Copreus" (Bibliotheca 2.5.1)
+
+#### 2. The Lernaean Hydra
+
+The [Hydra](../creatures/hydra.md) of Lerna "had a huge body, with nine heads, eight mortal, but the middle one immortal."[^apd-herc-hydra1] Heracles drove it out with fiery shafts but could not destroy it by smashing heads, "for as fast as one head was smashed there grew up two." A huge crab also attacked him. Heracles called on Iolaus, who "by setting fire to a piece of the neighboring wood and burning the roots of the heads with the brands, prevented them from sprouting."[^apd-herc-hydra2] Heracles then "chopped off the immortal head, and buried it, and put a heavy rock on it." He dipped his arrows in the hydra's gall. Eurystheus refused to count this labour "because he had not got the better of the hydra by himself, but with the help of Iolaus."[^apd-herc-hydra3]
+
+[^apd-herc-hydra1]: "the hydra had a huge body, with nine heads, eight mortal, but the middle one immortal" (Bibliotheca 2.5.2)
+[^apd-herc-hydra2]: "Iolaus who, by setting fire to a piece of the neighboring wood and burning the roots of the heads with the brands, prevented them from sprouting" (Bibliotheca 2.5.2)
+[^apd-herc-hydra3]: "Eurystheus said that this labour should not be reckoned among the ten because he had not got the better of the hydra by himself, but with the help of Iolaus" (Bibliotheca 2.5.2)
+
+#### 3. The Cerynitian Hind
+
+The hind "had golden horns and was sacred to [Artemis](../deities/artemis.md)." Heracles "hunted it a whole year" without killing or wounding it. Finally he shot it as it crossed the river Ladon. [Artemis](../deities/artemis.md) with [Apollo](../deities/apollo.md) met him and "would have wrested the hind from him, and rebuked him for attempting to kill her sacred animal." But "by pleading necessity and laying the blame on Eurystheus, he appeased the anger of the goddess and carried the beast alive to Mycenae."[^apd-herc-hind]
+
+[^apd-herc-hind]: "Artemis with Apollo met him, and would have wrested the hind from him, and rebuked him for attempting to kill her sacred animal. Howbeit, by pleading necessity and laying the blame on Eurystheus, he appeased the anger of the goddess and carried the beast alive to Mycenae" (Bibliotheca 2.5.3)
+
+#### 4. The Erymanthian Boar and the Centaurs
+
+On the way to capture the Erymanthian boar, Heracles was entertained by the centaur Pholus, who opened a jar of wine belonging to the centaurs in common. The scent drew the other centaurs, who attacked; Heracles repelled them, pursuing them to Malea. There, an arrow meant for the centaurs passed through the arm of Elatus and struck [Chiron](../creatures/chiron.md) in the knee. The wound proved incurable, and though immortal, Chiron "wished to die" — [Prometheus](../deities/prometheus.md) offered to become immortal in his stead, and Chiron died.[^apd-herc-chiron] Pholus also died accidentally, when an arrow slipped from his hand and struck his foot.[^apd-herc-pholus] Heracles then "chased the boar with shouts from a certain thicket, drove the exhausted animal into deep snow, trapped it, and brought it to Mycenae."[^apd-herc-boar]
+
+[^apd-herc-chiron]: "the hurt proving incurable, Chiron retired to the cave and there he wished to die, but he could not, for he was immortal. However, Prometheus offered himself to Zeus to be immortal in his stead, and so Chiron died" (Bibliotheca 2.5.4)
+[^apd-herc-pholus]: "Pholus, drawing the arrow from a corpse, wondered that so little a thing could kill such big fellows; howbeit, it slipped from his hand and lighting on his foot killed him on the spot" (Bibliotheca 2.5.4)
+[^apd-herc-boar]: "when he had chased the boar with shouts from a certain thicket, he drove the exhausted animal into deep snow, trapped it, and brought it to Mycenae" (Bibliotheca 2.5.4)
+
+#### 5. The Augean Stables
+
+Heracles was ordered to clean out the dung of the cattle of Augeas, king of Elis, in a single day. Without revealing Eurystheus's command, he offered to do it if Augeas would give him a tithe of the cattle. He "made a breach in the foundations of the cattle-yard, and then, diverting the courses of the Alpheus and Peneus, which flowed near each other, he turned them into the yard."[^apd-herc-augeas1] When Augeas learned it was done at Eurystheus's command, he refused to pay. Augeas's own son Phyleus "bore witness against his father, affirming that he had agreed to give him a reward." In a rage, Augeas expelled both Phyleus and Heracles from Elis.[^apd-herc-augeas2] Eurystheus refused to count this labour "alleging that it had been performed for hire."
+
+[^apd-herc-augeas1]: "diverting the courses of the Alpheus and Peneus, which flowed near each other, he turned them into the yard, having first made an outlet for the water through another opening" (Bibliotheca 2.5.5)
+[^apd-herc-augeas2]: "Phyleus was called by Hercules and bore witness against his father, affirming that he had agreed to give him a reward. In a rage Augeas, before the voting took place, ordered both Phyleus and Hercules to pack out of Elis" (Bibliotheca 2.5.5)
+
+#### 6. The Stymphalian Birds
+
+At the lake of Stymphalus in Arcadia, countless birds had gathered. [Athena](../deities/athena.md) "gave him brazen castanets, which she had received from [Hephaestus](../deities/hephaestus.md). By clashing these on a certain mountain that overhung the lake, he scared the birds. They could not abide the sound, but fluttered up in a fright, and in that way Hercules shot them."[^apd-herc-birds]
+
+[^apd-herc-birds]: "Athena gave him brazen castanets, which she had received from Hephaestus. By clashing these on a certain mountain that overhung the lake, he scared the birds. They could not abide the sound, but fluttered up in a fright, and in that way Hercules shot them" (Bibliotheca 2.5.6)
+
+#### 7. The Cretan Bull
+
+The seventh labour was to bring the Cretan bull, which some identified as the bull that carried Europa for [Zeus](../deities/zeus.md), and others as the bull [Poseidon](../deities/poseidon.md) sent from the sea when Minos broke his vow. When Minos told Heracles to "fight and catch the bull for himself, he caught it and brought it to Eurystheus, and having shown it to him he let it afterwards go free." The bull eventually roamed to Marathon in Attica.[^apd-herc-bull]
+
+[^apd-herc-bull]: "he caught it and brought it to Eurystheus, and having shown it to him he let it afterwards go free. But the bull roamed to Sparta and all Arcadia, and traversing the Isthmus arrived at Marathon in Attica and harried the inhabitants" (Bibliotheca 2.5.7)
+
+#### 8. The Mares of Diomedes
+
+Diomedes, son of [Ares](../deities/ares.md), king of the warlike Bistones, "owned man-eating mares." Heracles overpowered the grooms and drove the mares to the sea. He entrusted them to Abderus, "a son of [Hermes](../deities/hermes.md), a native of Opus in Locris, and a minion of Hercules; but the mares killed him by dragging him after them."[^apd-herc-mares] Heracles slew Diomedes, routed the Bistones, and "founded a city Abdera beside the grave of Abderus." Eurystheus released the mares, which were destroyed by wild beasts on Mount Olympus.
+
+[^apd-herc-mares]: "Abderus, who was a son of Hermes, a native of Opus in Locris, and a minion of Hercules; but the mares killed him by dragging him after them" (Bibliotheca 2.5.8)
+
+#### 9. The Belt of Hippolyte
+
+Hippolyte, queen of the Amazons, "had the belt of [Ares](../deities/ares.md) in token of her superiority to all the rest."[^apd-herc-belt1] Hippolyte visited Heracles at the harbour of Themiscyra and promised to give him the belt. "But [Hera](../deities/hera.md) in the likeness of an Amazon went up and down the multitude saying that the strangers who had arrived were carrying off the queen." The Amazons charged; Heracles, suspecting treachery, "killing Hippolyte stripped her of her belt."[^apd-herc-belt2]
+
+During the return voyage, Heracles touched at [Troy](../places/troy.md) and found the city afflicted by [Apollo](../deities/apollo.md) and [Poseidon](../deities/poseidon.md) (who had fortified Pergamum and been cheated of their wages by Laomedon). Heracles promised to save Hesione from a sea monster in exchange for the mares [Zeus](../deities/zeus.md) had given as compensation for Ganymede. He killed the monster and saved Hesione, but Laomedon refused to pay. Heracles "put to sea after threatening to make war on Troy."[^apd-herc-troy1]
+
+[^apd-herc-belt1]: "Hippolyte had the belt of Ares in token of her superiority to all the rest" (Bibliotheca 2.5.9)
+[^apd-herc-belt2]: "Hera in the likeness of an Amazon went up and down the multitude saying that the strangers who had arrived were carrying off the queen. So the Amazons in arms charged on horseback down on the ship. But when Hercules saw them in arms, he suspected treachery, and killing Hippolyte stripped her of her belt" (Bibliotheca 2.5.9)
+[^apd-herc-troy1]: "Hercules promised to save her on condition of receiving from Laomedon the mares which Zeus had given in compensation for the rape of Ganymede... Hercules killed the monster and saved Hesione. But when Laomedon would not give the stipulated reward, Hercules put to sea after threatening to make war on Troy" (Bibliotheca 2.5.9)
+
+#### 10. The Cattle of Geryon
+
+Geryon of Erythia "had the body of three men grown together and joined in one at the waist, but parted in three from the flanks and thighs."[^apd-herc-geryon1] Journeying west, Heracles "erected as tokens of his journey two pillars over against each other at the boundaries of Europe and Libya." When the Sun heated him on his journey, "he bent his bow at the god, who in admiration of his hardihood, gave him a golden goblet in which he crossed the ocean."[^apd-herc-geryon2] On Erythia he slew the two-headed hound Orthus, the herdsman Eurytion, and Geryon himself. He sailed back in the golden goblet and returned it to the Sun.
+
+The return journey was long and eventful. In Italy, a bull broke free and swam to Sicily, where Eryx mingled it with his herds; Heracles wrestled Eryx three times and killed him. [Hera](../deities/hera.md) afflicted the cattle with a gadfly in Thrace, scattering them. Heracles blamed the river Strymon and "made it unnavigable by filling it with rocks."[^apd-herc-geryon3] He finally delivered the cattle to Eurystheus, who sacrificed them to [Hera](../deities/hera.md).
+
+[^apd-herc-geryon1]: "He had the body of three men grown together and joined in one at the waist, but parted in three from the flanks and thighs" (Bibliotheca 2.5.10)
+[^apd-herc-geryon2]: "being heated by the Sun on his journey, he bent his bow at the god, who in admiration of his hardihood, gave him a golden goblet in which he crossed the ocean" (Bibliotheca 2.5.10)
+[^apd-herc-geryon3]: "Hercules blamed the river Strymon, and whereas it had been navigable before, he made it unnavigable by filling it with rocks; and he conveyed the kine and gave them to Eurystheus, who sacrificed them to Hera" (Bibliotheca 2.5.10)
+
+#### 11. The Apples of the Hesperides
+
+The golden apples were guarded by "an immortal dragon with a hundred heads, offspring of Typhon and [Echidna](../creatures/echidna.md), which spoke with many and divers sorts of voices."[^apd-herc-hesp1] On the long journey, Heracles encountered and defeated several foes:
+
+- **Antaeus** in Libya, son of [Poseidon](../deities/poseidon.md): "when he touched earth so it was that he waxed stronger." Heracles "hugged him, lifted him aloft, broke and killed him."[^apd-herc-antaeus]
+- **Busiris** in Egypt, who sacrificed strangers on an altar of [Zeus](../deities/zeus.md): "Hercules also was seized and haled to the altars, but he burst his bonds and slew both Busiris and his son Amphidamas."[^apd-herc-busiris]
+- **[Prometheus](../deities/prometheus.md)** on the Caucasus: Heracles "shot on the Caucasus the eagle, offspring of [Echidna](../creatures/echidna.md) and Typhon, that was devouring the liver of Prometheus, and he released Prometheus."[^apd-herc-prometheus2]
+
+On Prometheus's advice, Heracles sent [Atlas](../deities/atlas.md) to fetch the apples rather than going himself, relieving Atlas of the celestial sphere. When Atlas returned with three apples and refused to take back the sky, Heracles tricked him: "at the advice of Prometheus he begged Atlas to hold up the sky till he should put a pad on his head. When Atlas heard that, he laid the apples down on the ground and took the sphere from Hercules."[^apd-herc-atlas] [Athena](../deities/athena.md) eventually returned the apples to the Hesperides, "for it was not lawful that they should be laid down anywhere."
+
+[^apd-herc-hesp1]: "an immortal dragon with a hundred heads, offspring of Typhon and Echidna, which spoke with many and divers sorts of voices" (Bibliotheca 2.5.11)
+[^apd-herc-antaeus]: "Hercules hugged him, lifted him aloft, broke and killed him; for when he touched earth so it was that he waxed stronger, wherefore some said that he was a son of Earth" (Bibliotheca 2.5.11)
+[^apd-herc-busiris]: "Hercules also was seized and haled to the altars, but he burst his bonds and slew both Busiris and his son Amphidamas" (Bibliotheca 2.5.11)
+[^apd-herc-prometheus2]: "he shot on the Caucasus the eagle, offspring of Echidna and Typhon, that was devouring the liver of Prometheus, and he released Prometheus" (Bibliotheca 2.5.11)
+[^apd-herc-atlas]: "at the advice of Prometheus he begged Atlas to hold up the sky till he should put a pad on his head. When Atlas heard that, he laid the apples down on the ground and took the sphere from Hercules. And so Hercules picked up the apples and departed" (Bibliotheca 2.5.11)
+
+#### 12. Cerberus
+
+The final labour was to bring [Cerberus](../creatures/cerberus.md) from [Hades](../deities/hades.md). Cerberus "had three heads of dogs, the tail of a dragon, and on his back the heads of all sorts of snakes."[^apd-herc-cerb1] Before descending, Heracles was initiated into the Eleusinian mysteries by Eumolpus (after being cleansed of the slaughter of the centaurs).
+
+Entering through Taenarum, Heracles encountered the souls of the dead: "when the souls saw him, they fled, save Meleager and the Gorgon Medusa." He drew his sword against the Gorgon but "learned from [Hermes](../deities/hermes.md) that she was an empty phantom."[^apd-herc-cerb2] He found Theseus and Pirithous bound near the gates; "Theseus, indeed, he took by the hand and raised up, but when he would have brought up Pirithous, the earth quaked and he let go."[^apd-herc-cerb3]
+
+He wrestled the herdsman Menoetes, breaking his ribs, but released him at [Persephone](../deities/persephone.md)'s request. "[Hades](../deities/hades.md) ordered him to take the animal provided he mastered him without the use of the weapons which he carried." Heracles, "cased in his cuirass and covered by the lion's skin, flung his arms round the head of the brute, and though the dragon in its tail bit him, he never relaxed his grip and pressure till it yielded."[^apd-herc-cerb4] He carried Cerberus up through Troezen, showed it to Eurystheus, and returned it to Hades.
+
+[^apd-herc-cerb1]: "this Cerberus had three heads of dogs, the tail of a dragon, and on his back the heads of all sorts of snakes" (Bibliotheca 2.5.12)
+[^apd-herc-cerb2]: "when the souls saw him, they fled, save Meleager and the Gorgon Medusa. And Hercules drew his sword against the Gorgon, as if she were alive, but he learned from Hermes that she was an empty phantom" (Bibliotheca 2.5.12)
+[^apd-herc-cerb3]: "Theseus, indeed, he took by the hand and raised up, but when he would have brought up Pirithous, the earth quaked and he let go" (Bibliotheca 2.5.12)
+[^apd-herc-cerb4]: "Hades ordered him to take the animal provided he mastered him without the use of the weapons which he carried. Hercules found him at the gates of Acheron, and, cased in his cuirass and covered by the lion's skin, he flung his arms round the head of the brute, and though the dragon in its tail bit him, he never relaxed his grip and pressure till it yielded" (Bibliotheca 2.5.12)
+
+### Later Adventures
+
+#### Eurytus and Iole
+
+After the labours, Heracles sought to marry Iole, daughter of Eurytus of Oechalia. He "proved himself better than them at archery," but Eurytus refused, fearing "that, if he got children, he would again kill his offspring."[^apd-herc-eurytus]
+
+[^apd-herc-eurytus]: "though he proved himself better than them at archery, yet he did not get the bride; for while Iphitus, the elder of Eurytus's sons, said that Iole should be given to Hercules, Eurytus and the others refused, and said they feared that, if he got children, he would again kill his offspring" (Bibliotheca 2.6.1)
+
+#### Murder of Iphitus
+
+When cattle were stolen from Euboea, Eurytus blamed Heracles; but Iphitus, trusting Heracles, invited him to search for the cattle together. "Hercules promised to do so and entertained him; but going mad again he threw him from the walls of Tiryns."[^apd-herc-iphitus2] Seeking purification, Heracles was refused by Neleus of Pylos and eventually purified by Deiphobus at Amyclae. Afflicted by disease for the murder, he went to [Delphi](../places/delphi.md), and when the priestess would not answer, "he was fain to plunder the temple, and, carrying off the tripod, to institute an oracle of his own. But [Apollo](../deities/apollo.md) fought him, and [Zeus](../deities/zeus.md) threw a thunderbolt between them."[^apd-herc-tripod] The oracle declared he must be sold into slavery for three years.
+
+[^apd-herc-iphitus2]: "going mad again he threw him from the walls of Tiryns" (Bibliotheca 2.6.2)
+[^apd-herc-tripod]: "he was fain to plunder the temple, and, carrying off the tripod, to institute an oracle of his own. But Apollo fought him, and Zeus threw a thunderbolt between them" (Bibliotheca 2.6.2)
+
+#### Servitude to Omphale
+
+[Hermes](../deities/hermes.md) sold Heracles to Omphale, queen of Lydia. During his servitude he captured the Cercopes at Ephesus, killed Syleus who forced strangers to dig, and buried the body of Icarus on the island thereafter called Icaria. "During the time of his servitude with Omphale it is said that the voyage to Colchis and the hunt of the Calydonian boar took place."[^apd-herc-omphale]
+
+[^apd-herc-omphale]: "during the time of his servitude with Omphale it is said that the voyage to Colchis and the hunt of the Calydonian boar took place, and that Theseus on his way from Troezen cleared the Isthmus of malefactors" (Bibliotheca 2.6.3)
+
+#### The Sack of Troy
+
+After his servitude, Heracles mustered an army and "sailed for Ilium with eighteen ships of fifty oars each."[^apd-herc-troy2] Laomedon killed Oicles in a sortie against the ships, but was driven back. "Telamon was the first to breach the wall and enter the city, and after him Hercules." Heracles nearly killed Telamon in jealous rage, but Telamon saved himself by saying he was building an altar to "Hercules the Glorious Victor."[^apd-herc-telamon]
+
+Heracles shot Laomedon and his sons (except Podarces) and gave Hesione to Telamon. When she ransomed her brother Podarces with her veil, "hence Podarces was called Priam."[^apd-herc-priam]
+
+[^apd-herc-troy2]: "he mustered an army of noble volunteers and sailed for Ilium with eighteen ships of fifty oars each" (Bibliotheca 2.6.4)
+[^apd-herc-telamon]: "Telamon was the first to breach the wall and enter the city, and after him Hercules. But when he saw that Telamon had entered it first, he drew his sword and rushed at him... Telamon collected stones that lay to hand, and when Hercules asked him what he did, he said he was building an altar to Hercules the Glorious Victor" (Bibliotheca 2.6.4)
+[^apd-herc-priam]: "when she chose her brother Podarces, Hercules said that he must first be a slave and then be ransomed by her. So when he was being sold she took the veil from her head and gave it as a ransom; hence Podarces was called Priam" (Bibliotheca 2.6.4)
+
+### Wars and Later Campaigns
+
+#### War on Augeas
+
+When [Hera](../deities/hera.md) sent storms against Heracles as he sailed from [Troy](../places/troy.md), [Zeus](../deities/zeus.md) punished her by hanging her from [Olympus](../places/olympus.md).[^apd-herc-hera-storms] Heracles landed on Cos, fought the inhabitants, slew King Eurypylus, and then came through [Athena](../deities/athena.md)'s agency to Phlegra to fight alongside the gods in the [Gigantomachy](../creatures/giants.md).
+
+He later collected an army against Augeas, appointing Eurytus and Cteatus (the Molionides, "two men joined in one") as generals.[^apd-herc-molionides] Heracles fell ill and was forced to retreat, but later ambushed and killed the Molionides at Cleonae during the Isthmian festival. He took Elis, killed Augeas, restored Phyleus, and "celebrated the Olympian games and founded an altar of Pelops."[^apd-herc-olympia]
+
+[^apd-herc-hera-storms]: "When Hercules was sailing from Troy, Hera sent grievous storms, which so vexed Zeus that he hung her from Olympus" (Bibliotheca 2.7.1)
+[^apd-herc-molionides]: "Eurytus and Cteatus... were two men joined in one, who surpassed all of that generation in strength" (Bibliotheca 2.7.2)
+[^apd-herc-olympia]: "He also celebrated the Olympian games and founded an altar of Pelops, and built six altars of the twelve gods" (Bibliotheca 2.7.2)
+
+#### War on Pylos
+
+Heracles took Pylos and "slew Periclymenus, the most valiant of the sons of Neleus, who used to change his shape in battle." He killed Neleus and all his sons "except Nestor; for he was a youth and was being brought up among the Gerenians." Remarkably, "in the fight he also wounded [Hades](../deities/hades.md), who was siding with the Pylians."[^apd-herc-pylos]
+
+[^apd-herc-pylos]: "having taken the city he slew Periclymenus, the most valiant of the sons of Neleus, who used to change his shape in battle. And he slew Neleus and his sons, except Nestor; for he was a youth and was being brought up among the Gerenians. In the fight he also wounded Hades, who was siding with the Pylians" (Bibliotheca 2.7.3)
+
+#### War on Lacedaemon
+
+Heracles marched against the sons of Hippocoon in Lacedaemon, who had killed the son of Licymnius. He persuaded Cepheus of Tegea to join with his twenty sons by giving his daughter Sterope a lock of the Gorgon's hair in a bronze jar (a gift from [Athena](../deities/athena.md)): if held up from the walls three times, it would turn enemies to flight.[^apd-herc-gorgon-hair] In the battle, Cepheus and his sons perished, as did Iphicles, Heracles' brother. Heracles killed Hippocoon and his sons, "subjugated the city," and "restored Tyndareus and entrusted the kingdom to him."[^apd-herc-lacedaemon]
+
+[^apd-herc-gorgon-hair]: "Hercules had received from Athena a lock of the Gorgon's hair in a bronze jar and gave it to Sterope, daughter of Cepheus, saying that if an army advanced against the city, she was to hold up the lock of hair thrice from the walls, and that, provided she did not look before her, the enemy would be turned to flight" (Bibliotheca 2.7.3)
+[^apd-herc-lacedaemon]: "Having killed Hippocoon and his sons and subjugated the city, Hercules restored Tyndareus and entrusted the kingdom to him" (Bibliotheca 2.7.3)
+
+#### Auge and Telephus
+
+Passing through Tegea, Heracles unknowingly seduced Auge, daughter of Aleus. She bore a son secretly and deposited it in the precinct of [Athena](../deities/athena.md). When a pestilence followed, Aleus discovered the child and exposed it on Mount Parthenius, "and by the providence of the gods it was preserved: for a doe that had just cast her fawn gave it suck, and shepherds took up the babe and called it Telephus."[^apd-herc-telephus]
+
+[^apd-herc-telephus]: "by the providence of the gods it was preserved: for a doe that had just cast her fawn gave it suck, and shepherds took up the babe and called it Telephus" (Bibliotheca 2.7.4)
+
+### Death and Apotheosis
+
+#### Wooing Deianira and Wrestling Achelous
+
+At Calydon, Heracles "wooed [Deianira](deianira.md), daughter of Oeneus. He wrestled for her hand with Achelous, who assumed the likeness of a bull; but Hercules broke off one of his horns."[^apd-herc-achelous] Achelous recovered the horn by exchanging it for the horn of Amalthea, which "had the power of supplying meat or drink in abundance, whatever one might wish."
+
+[^apd-herc-achelous]: "Hercules wooed Deianira, daughter of Oeneus. He wrestled for her hand with Achelous, who assumed the likeness of a bull; but Hercules broke off one of his horns" (Bibliotheca 2.7.5)
+
+#### Nessus and the Poisoned Shirt
+
+While travelling with [Deianira](deianira.md), Heracles came to the river Evenus, where the centaur Nessus "sat and ferried passengers across for hire." Heracles crossed by himself but entrusted Deianira to Nessus, who "in ferrying her across, attempted to violate her. She cried out, Hercules heard her, and shot Nessus to the heart when he emerged from the river."[^apd-herc-nessus] Dying, Nessus told Deianira to mix his spilt seed with the blood from his wound as a love charm; she kept this mixture.
+
+[^apd-herc-nessus]: "he, in ferrying her across, attempted to violate her. She cried out, Hercules heard her, and shot Nessus to the heart when he emerged from the river" (Bibliotheca 2.7.6)
+
+#### Later Campaigns Before Death
+
+At Trachis, Heracles conquered the Dryopes, aided Aegimius the Dorian king against the Lapiths (slaying their leader Coronus), and killed King Laogoras "as he was banqueting in a precinct of [Apollo](../deities/apollo.md)." He also slew Cycnus (a son of [Ares](../deities/ares.md)), and King Amyntor who blocked his passage at Ormenium.[^apd-herc-later-campaigns]
+
+Finally, he mustered an army against Oechalia to punish Eurytus for refusing Iole. He "slew Eurytus and his sons and took the city" and "led Iole captive."[^apd-herc-oechalia]
+
+[^apd-herc-later-campaigns]: "He slew also Laogoras, king of the Dryopes, with his children, as he was banqueting in a precinct of Apollo; for the king was a wanton fellow and an ally of the Lapiths" (Bibliotheca 2.7.7)
+[^apd-herc-oechalia]: "he slew Eurytus and his sons and took the city. After burying those of his own side who had fallen... he pillaged the city and led Iole captive" (Bibliotheca 2.7.7)
+
+#### The Shirt of Nessus and Death on Mount Oeta
+
+Building an altar of Cenaean [Zeus](../deities/zeus.md) on Euboea, Heracles sent the herald Lichas for fine raiment. [Deianira](deianira.md), learning of Iole and fearing Heracles might love the girl more, "supposed that the spilt blood of Nessus was in truth a love-charm, and with it she smeared the tunic."[^apd-herc-shirt1] When Heracles put it on, "no sooner was the tunic warmed than the poison of the hydra began to corrode his skin." He "lifted Lichas by the feet, hurled him down from the headland, and tore off the tunic, which clung to his body, so that his flesh was torn away with it."[^apd-herc-shirt2] Deianira hanged herself on learning what she had done.
+
+[^apd-herc-shirt1]: "Deianira learned about Iole, and fearing that Hercules might love that damsel more than herself, she supposed that the spilt blood of Nessus was in truth a love-charm, and with it she smeared the tunic" (Bibliotheca 2.7.7)
+[^apd-herc-shirt2]: "no sooner was the tunic warmed than the poison of the hydra began to corrode his skin; and on that he lifted Lichas by the feet, hurled him down from the headland, and tore off the tunic, which clung to his body, so that his flesh was torn away with it" (Bibliotheca 2.7.7)
+
+#### Immolation and Apotheosis
+
+Heracles charged his eldest son Hyllus to marry Iole when he came of age. He then "proceeded to Mount Oeta, in the Trachinian territory, and there constructed a pyre, mounted it, and gave orders to kindle it. When no one would do so, Poeas, passing by to look for his flocks, set a light to it. On him Hercules bestowed his bow."[^apd-herc-pyre] "While the pyre was burning, it is said that a cloud passed under Hercules and with a peal of thunder wafted him up to heaven. Thereafter he obtained immortality, and being reconciled to [Hera](../deities/hera.md) he married her daughter [Hebe](../deities/hebe.md), by whom he had sons, Alexiares and Anicetus."[^apd-herc-apotheosis2]
+
+[^apd-herc-pyre]: "he proceeded to Mount Oeta, in the Trachinian territory, and there constructed a pyre, mounted it, and gave orders to kindle it. When no one would do so, Poeas, passing by to look for his flocks, set a light to it. On him Hercules bestowed his bow" (Bibliotheca 2.7.7)
+[^apd-herc-apotheosis2]: "while the pyre was burning, it is said that a cloud passed under Hercules and with a peal of thunder wafted him up to heaven. Thereafter he obtained immortality, and being reconciled to Hera he married her daughter Hebe, by whom he had sons, Alexiares and Anicetus" (Bibliotheca 2.7.7)
+
+### The Heraclids
+
+After Heracles' apotheosis, his sons fled Eurystheus and eventually took refuge in Athens, sitting on the altar of Mercy. The Athenians defended them and "slew his sons, Alexander, Iphimedon, Eurybius, Mentor and Perimedes. Eurystheus himself fled in a chariot, but was pursued and slain by Hyllus just as he was driving past the Scironian cliffs."[^apd-herc-eurystheus-death] Alcmena "gouged out his eyes with weaving-pins."
+
+The Heraclids initially captured all the cities of the Peloponnese, but a plague drove them out within a year; an oracle declared they had returned before the proper time. Hyllus married Iole as his father had commanded and consulted [Delphi](../places/delphi.md) about when to return. The god said to "await the third crop" — Hyllus took this to mean three years, but it meant three generations.[^apd-herc-third-crop] The Heraclids' final successful return came under Temenus, Cresphontes, and the sons of Aristodemus. They divided the Peloponnese by lot: Temenus received Argos, the sons of Aristodemus received Lacedaemon, and Cresphontes (by a trick with a clod of earth dissolved in water) obtained Messene.[^apd-herc-lots]
+
+[^apd-herc-eurystheus-death]: "the Athenians bore the brunt of war with Eurystheus, and slew his sons, Alexander, Iphimedon, Eurybius, Mentor and Perimedes. Eurystheus himself fled in a chariot, but was pursued and slain by Hyllus just as he was driving past the Scironian cliffs; and Hyllus cut off his head and gave it to Alcmena; and she gouged out his eyes with weaving-pins" (Bibliotheca 2.8.1)
+[^apd-herc-third-crop]: "the god said that they should await the third crop before returning. But Hyllus supposed that the third crop signified three years... the god retorted that they were themselves to blame for their misfortunes, for they did not understand the oracles, seeing that by 'the third crop' he meant, not a crop of the earth, but a crop of a generation" (Bibliotheca 2.8.2)
+[^apd-herc-lots]: "the first drawing was for Argos, the second for Lacedaemon, and the third for Messene... Cresphontes, wishing to have Messene allotted to him, threw in a clod of earth. As the clod was dissolved in the water, it could not be but that the other two lots should turn up" (Bibliotheca 2.8.4)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 289-292, 316-318, 332, 526-532, 943-944, 950-955: Slaying monsters; freeing Prometheus; birth; marriage to Hebe and apotheosis
@@ -132,6 +426,37 @@ After the individual combats, "all of them Hercules shot with arrows as they wer
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Listed as an Argonaut — "Hercules, son of Zeus"[^apd-argonaut]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.19: Left behind at Mysia when Hylas was ravished by nymphs — "while the two were seeking for Hylas, the ship put to sea. So Polyphemus founded a city Cius in Mysia and reigned as king; but Hercules returned to Argos"[^apd-hylas]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Variant — "Hercules fought with Hades and brought her [Alcestis] up to him"[^apd-alcestis]
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.5: Hera's interference at birth — persuaded Ilithyias to delay Alcmena's delivery so Eurystheus would be born first and rule Mycenae
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.6-2.4.7: Background of Amphitryon — exile from Mycenae, campaign against the Teleboans
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.8: Conception and twin birth — Zeus prolonged the night threefold, assumed Amphitryon's likeness; serpent episode at eight months
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.9: Youth — teachers (chariot, wrestling, archery, fencing, lyre); killing Linus; physical description (four cubits, fire from eyes); lion of Cithaeron at age eighteen
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.10: Thespius's fifty daughters; wore lion skin as helmet
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.11: Defeat of Erginus and the Minyans; divine weapons (sword from Hermes, bow from Apollo, breastplate from Hephaestus, robe from Athena, self-cut club); marriage to Megara; death of Amphitryon
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.12: Madness — killed his children by Megara; oracle at Delphi; renamed from Alcides to Heracles; ordered to serve Eurystheus for twelve years
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.1: First Labour — Nemean Lion; strangled it in its cave; Eurystheus hid in bronze jar; Copreus as herald
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.2: Second Labour — Lernaean Hydra (nine heads, one immortal); Iolaus cauterised stumps; dipped arrows in gall; labour rejected (had help)
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.3: Third Labour — Cerynitian Hind (golden horns, sacred to Artemis); hunted one year; appeased Artemis and Apollo
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.4: Fourth Labour — Erymanthian Boar; centaur battle; accidental wounding of Chiron; death of Pholus; drove boar into snow
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.5: Fifth Labour — Augean Stables; diverted Alpheus and Peneus rivers; labour rejected (done for hire)
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.6: Sixth Labour — Stymphalian Birds; Athena's brazen castanets from Hephaestus
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.7: Seventh Labour — Cretan Bull; caught it alone; released, roamed to Marathon
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.8: Eighth Labour — Mares of Diomedes; death of Abderus; founded city Abdera
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.9: Ninth Labour — Belt of Hippolyte; Hera's deception; killed Hippolyte; Troy digression (saved Hesione from sea monster, Laomedon's broken promise)
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.10: Tenth Labour — Cattle of Geryon; Pillars of Hercules; Sun's golden goblet; slew three-bodied Geryon; long return through Italy, Sicily, Thrace
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.11: Eleventh Labour — Apples of Hesperides; defeated Antaeus, Busiris; freed Prometheus; tricked Atlas
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.12: Twelfth Labour — Cerberus; initiated at Eleusis; rescued Theseus; wrestled Menoetes; mastered Cerberus barehanded
+- **[Bibliotheca](../sources/apollodorus.md)** 2.6.1-2.6.2: Won archery contest for Iole but denied her; murdered Iphitus in madness; fought Apollo for the Delphic tripod
+- **[Bibliotheca](../sources/apollodorus.md)** 2.6.3: Servitude to Omphale in Lydia; captured Cercopes; killed Syleus; buried Icarus
+- **[Bibliotheca](../sources/apollodorus.md)** 2.6.4: Sack of Troy with eighteen ships; Telamon first over the wall; Hesione given to Telamon; Priam's naming
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.1: Storms from Hera after Troy; conquered Cos; fought in Gigantomachy at Phlegra
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.2: War on Augeas; killed Molionides at Cleonae; founded Olympic games
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.3: War on Pylos — slew Neleus and sons (except Nestor), wounded Hades; war on Lacedaemon — killed Hippocoon, restored Tyndareus; death of Iphicles
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.4: Seduced Auge at Tegea; birth of Telephus, suckled by a doe
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.5: Wooed Deianira; wrestled Achelous, broke off his horn
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.6: Nessus's attempted violation of Deianira; shot Nessus; the poisoned love-charm
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Campaigns against Dryopes, Lapiths, Cycnus, Amyntor; sack of Oechalia; shirt of Nessus; death on Mount Oeta; apotheosis; married Hebe; sons Alexiares and Anicetus
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.8: Exhaustive list of sons by Thespius's daughters and other women (Deianira, Megara, Omphale, Chalciope, Epicaste, Auge, and others)
+- **[Bibliotheca](../sources/apollodorus.md)** 2.8.1-2.8.5: The Heraclids — fled Eurystheus to Athens; Hyllus slew Eurystheus; Alcmena's revenge; return to Peloponnese; "third crop" oracle; lot-casting for Argos, Lacedaemon, and Messene
 
 [^apd-argonaut]: "Hercules, son of Zeus" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-hylas]: "Hylas, son of Thiodamas, a minion of Hercules, had been sent to draw water and was ravished away by nymphs on account of his beauty... while the two were seeking for Hylas, the ship put to sea... Hercules returned to Argos" (Bibliotheca 1.9.19, trans. Frazer)

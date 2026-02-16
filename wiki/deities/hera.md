@@ -144,6 +144,43 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 [^il8-stopped]: "queen Hera had indignation, and stirred her upon her throne and made high Olympus quake" (Iliad VIII.4605-4606)
 [^il8-yield]: "Well know we, even we, that thy might is no wise puny; yet still have we pity for the Danaan spearmen, that now shall perish and fill up the measure of grievous fate. Yet will we refrain from battle, if thou biddest us" (Iliad VIII.4851-4856)
 
+## In the Bibliotheca (Book 2)
+
+### Persecution of Io
+
+When [Zeus](zeus.md) seduced [Io](../heroes/io.md), Hera "requested the cow from Zeus for herself and set Argus the All-seeing to guard it."[^apd-hera-io1] After [Hermes](hermes.md) killed Argus, "Hera next sent a gadfly to infest the cow," driving Io to wander across Europe and Asia.[^apd-hera-io2] When Io bore Epaphus in Egypt, "Hera besought the Curetes to make away with" the child.[^apd-hera-io3]
+
+### The Mad Daughters of Proetus
+
+The daughters of Proetus went mad — "according to Hesiod, because they would not accept the rites of [Dionysus](dionysus.md), but according to Acusilaus, because they disparaged the wooden image of Hera."[^apd-hera-proetids]
+
+### Persecution of Heracles
+
+Hera's enmity towards [Heracles](../heroes/heracles.md) ran from before his birth to his death:
+
+- **Birth interference:** "Out of jealousy persuaded the Ilithyias to retard Alcmena's delivery, and contrived that Eurystheus, son of Sthenelus, should be born a seven-month child."[^apd-hera-birth]
+- **Serpent attack:** "When the child was eight months old, Hera desired the destruction of the babe and sent two huge serpents to the bed."[^apd-hera-serpents]
+- **Madness:** Heracles "was driven mad through the jealousy of Hera and flung his own children... into the fire."[^apd-hera-madness]
+- **Amazon deception:** "Hera in the likeness of an Amazon went up and down the multitude saying that the strangers who had arrived were carrying off the queen," provoking the Amazons to attack Heracles and causing Hippolyte's death.[^apd-hera-amazon]
+- **Gadfly on Geryon's cattle:** During the return from Erythia, "Hera afflicted the cows with a gadfly, and they dispersed among the skirts of the mountains of Thrace."[^apd-hera-gadfly]
+- **Storms after Troy:** "Hera sent grievous storms" against Heracles sailing from Troy, "which so vexed Zeus that he hung her from Olympus."[^apd-hera-storms]
+
+### Reconciliation
+
+After Heracles' apotheosis, Hera was reconciled to him: "being reconciled to Hera he married her daughter [Hebe](hebe.md)."[^apd-hera-reconciled]
+
+[^apd-hera-io1]: "Hera requested the cow from Zeus for herself and set Argus the All-seeing to guard it" (Bibliotheca 2.1.3, trans. J.G. Frazer)
+[^apd-hera-io2]: "Hera next sent a gadfly to infest the cow, and the animal came first to what is called after her the Ionian gulf" (Bibliotheca 2.1.3)
+[^apd-hera-io3]: "Him Hera besought the Curetes to make away with, and make away with him they did" (Bibliotheca 2.1.3)
+[^apd-hera-proetids]: "they went mad, according to Hesiod, because they would not accept the rites of Dionysus, but according to Acusilaus, because they disparaged the wooden image of Hera" (Bibliotheca 2.2.2)
+[^apd-hera-birth]: "Hera out of jealousy persuaded the Ilithyias to retard Alcmena's delivery, and contrived that Eurystheus, son of Sthenelus, should be born a seven-month child" (Bibliotheca 2.4.5)
+[^apd-hera-serpents]: "When the child was eight months old, Hera desired the destruction of the babe and sent two huge serpents to the bed" (Bibliotheca 2.4.8)
+[^apd-hera-madness]: "after the battle with the Minyans Hercules was driven mad through the jealousy of Hera and flung his own children, whom he had by Megara, and two children of Iphicles into the fire" (Bibliotheca 2.4.12)
+[^apd-hera-amazon]: "Hera in the likeness of an Amazon went up and down the multitude saying that the strangers who had arrived were carrying off the queen" (Bibliotheca 2.5.9)
+[^apd-hera-gadfly]: "Hera afflicted the cows with a gadfly, and they dispersed among the skirts of the mountains of Thrace" (Bibliotheca 2.5.10)
+[^apd-hera-storms]: "When Hercules was sailing from Troy, Hera sent grievous storms, which so vexed Zeus that he hung her from Olympus" (Bibliotheca 2.7.1)
+[^apd-hera-reconciled]: "being reconciled to Hera he married her daughter Hebe, by whom he had sons, Alexiares and Anicetus" (Bibliotheca 2.7.7)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 11-12, 314-315, 328-329, 454, 921-929: Invocation; nourishes monsters against Heracles; bears children
@@ -171,6 +208,15 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Jason answered Pelias "instigated by the angry Hera in order that Medea should prove a curse to Pelias, who did not honor Hera"[^apd-hera-jason]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.22: Helped the Argonauts through the Clashing Rocks — "with hard rowing and the help of Hera, they passed through"[^apd-clashing]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Summoned [Thetis](thetis.md) and the Nereids to steer the Argo through the Wandering Rocks[^apd-wandering]
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Io persecution — requested the cow, set Argus to guard, sent gadfly, had Curetes make away with Epaphus
+- **[Bibliotheca](../sources/apollodorus.md)** 2.2.2: Mad daughters of Proetus variant — "because they disparaged the wooden image of Hera"
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.5: Persuaded Ilithyias to delay Heracles' birth; contrived Eurystheus born first
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.8: Sent two huge serpents to kill the infant Heracles
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.12: Drove Heracles mad; he killed his children by Megara
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.9: Disguised as an Amazon, provoked attack on Heracles; caused Hippolyte's death
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.10: Sent gadfly against Geryon's cattle during Heracles' return
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.1: Sent storms against Heracles after Troy; Zeus hung her from Olympus
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Reconciled with Heracles; he married her daughter Hebe
 
 [^apd-ephialtes]: "Ephialtes wooed Hera, and Otus wooed Artemis" (Bibliotheca 1.7.4, trans. Frazer)
 [^apd-athamas]: "afterwards Athamas was bereft also of the children of Ino through the wrath of Hera; for he went mad and shot Learchus with an arrow, and Ino cast herself and Melicertes into the sea" (Bibliotheca 1.9.2, trans. Frazer)

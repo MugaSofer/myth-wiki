@@ -85,6 +85,18 @@ During the battle with the [Giants](../creatures/giants.md), "Eurytus was killed
 
 [^apd-dion-eurytus]: "Eurytus was killed by Dionysus with a thyrsus" (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the Bibliotheca (2.2.2)
+
+### Proetus's Daughters Go Mad
+
+The [Bibliotheca](../sources/apollodorus.md) attributes the madness of Proetus's daughters to Dionysus: "When these damsels were grown up, they went mad, according to Hesiod, because they would not accept the rites of Dionysus."[^apd-dion-proetus] A variant cause is also given: "according to Acusilaus, because they disparaged the wooden image of [Hera](hera.md)."[^apd-dion-proetus-var]
+
+In their madness, "they roamed over the whole Argive land, and afterwards, passing through Arcadia and the Peloponnese, they ran through the desert in the most disorderly fashion." The seer Melampus offered to cure them in exchange for a third of the sovereignty, and when Proetus refused the price, "the maidens raved more than ever, and besides that, the other women raved with them; for they also abandoned their houses, destroyed their own children, and flocked to the desert."[^apd-dion-madness] After Melampus's eventual cure, the eldest daughter Iphinoe perished in the pursuit, but the others recovered.
+
+[^apd-dion-proetus]: "When these damsels were grown up, they went mad, according to Hesiod, because they would not accept the rites of Dionysus" (Bibliotheca 2.2.2, trans. J.G. Frazer)
+[^apd-dion-proetus-var]: "according to Acusilaus, because they disparaged the wooden image of Hera" (Bibliotheca 2.2.2, trans. J.G. Frazer)
+[^apd-dion-madness]: "the maidens raved more than ever, and besides that, the other women raved with them; for they also abandoned their houses, destroyed their own children, and flocked to the desert" (Bibliotheca 2.2.2, trans. J.G. Frazer)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** XI: "Artemis slew her [Ariadne] ere that in sea-girt Dia, by reason of the witness of Dionysus" — his testimony led to Ariadne's death at Artemis's hand[^od11-ariadne]
@@ -97,6 +109,7 @@ During the battle with the [Giants](../creatures/giants.md), "Eurytus was killed
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.1: Gave Oeneus a vine-plant — "Oeneus was the first who received a vine-plant from Dionysus"[^apd-vine]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.1: Deianira "is said to have been begotten on Althaea by Dionysus"[^apd-deianira]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.12: Drove the women of Argos mad; Melampus "healed them on condition of receiving part of the kingdom"[^apd-argos]
+- **[Bibliotheca](../sources/apollodorus.md)** 2.2.2: Proetus's daughters went mad "because they would not accept the rites of Dionysus"; the madness spread to all Argive women; Melampus cured them
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Sons Phanus and Staphylus listed as Argonauts[^apd-argonauts-dion]
 
 [^apd-vine]: "Reigning over Calydon, Oeneus was the first who received a vine-plant from Dionysus" (Bibliotheca 1.8.1, trans. Frazer)

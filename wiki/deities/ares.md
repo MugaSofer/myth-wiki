@@ -109,10 +109,33 @@ The [Bibliotheca](../sources/apollodorus.md) mentions that [Eos](eos.md) (Dawn) 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Imprisoned by the Aloads; freed by Hermes by stealth
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.2: Possibly father of Meleager
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Father of Ascalaphus and Ialmenus (Argonauts)
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.8: Son Diomedes of Thrace "was a son of Ares and Cyrene"; owned man-eating mares; slain by [Heracles](../heroes/heracles.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.9: Hippolyte "had the belt of Ares in token of her superiority to all the rest"; Heracles took it as ninth labour
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.11: Cycnus (son of Ares and Pyrene) challenged Heracles; Ares championed him; a thunderbolt parted them
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Cycnus (son of Ares and Pelopia) challenged and was slain by Heracles at Itonus
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Penthesileia, the Amazon, is his daughter; comes to aid Troy and is killed by Achilles[^aeth-penth]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Routs the army of Odysseus; Athena engages with him in battle until Apollo separates them[^tel-ares]
 
-## In the Bibliotheca
+## In the Bibliotheca (Book 2)
+
+### The Belt of Hippolyte (2.5.9)
+
+The [Bibliotheca](../sources/apollodorus.md) connects Ares to the Amazons through the belt of Hippolyte: "Hippolyte had the belt of Ares in token of her superiority to all the rest."[^apd-ares-belt] This belt was the object of [Heracles](../heroes/heracles.md)' ninth labour — Admete, daughter of Eurystheus, desired it.
+
+### Diomedes of Thrace and the Man-Eating Mares (2.5.8)
+
+The eighth labour involved the mares of "Diomedes the Thracian," who "was a son of Ares and Cyrene, and he was king of the Bistones, a very warlike Thracian people, and he owned man-eating mares."[^apd-ares-diomedes] Heracles slew Diomedes and compelled the Bistones to flee.
+
+### Cycnus Challenges Heracles (2.5.11, 2.7.7)
+
+During the quest for the golden apples, "Cycnus, son of Ares and Pyrene, challenged him to single combat. Ares championed the cause of Cycnus and marshalled the combat, but a thunderbolt was hurled between the two and parted the combatants."[^apd-ares-cycnus-apples] Later, at Itonus, [Heracles](../heroes/heracles.md) was again "challenged to single combat by Cycnus a son of Ares and Pelopia; and closing with him Hercules slew him also."[^apd-ares-cycnus-itonus]
+
+[^apd-ares-belt]: "Hippolyte had the belt of Ares in token of her superiority to all the rest" (Bibliotheca 2.5.9, trans. J.G. Frazer)
+[^apd-ares-diomedes]: "Diomedes was a son of Ares and Cyrene, and he was king of the Bistones, a very warlike Thracian people, and he owned man-eating mares" (Bibliotheca 2.5.8, trans. J.G. Frazer)
+[^apd-ares-cycnus-apples]: "Cycnus, son of Ares and Pyrene, challenged him to single combat. Ares championed the cause of Cycnus and marshalled the combat, but a thunderbolt was hurled between the two and parted the combatants" (Bibliotheca 2.5.11, trans. J.G. Frazer)
+[^apd-ares-cycnus-itonus]: "he was challenged to single combat by Cycnus a son of Ares and Pelopia; and closing with him Hercules slew him also" (Bibliotheca 2.7.7, trans. J.G. Frazer)
+
+## In the Bibliotheca (Book 1)
 
 The [Bibliotheca](../sources/apollodorus.md) confirms the Aloads' imprisonment of Ares and adds that "they put Ares in bonds" and that "[Hermes](hermes.md) rescued Ares by stealth."[^apd-ares-bonds] The Iliad V version says he was imprisoned thirteen months in a bronze vessel and was already "pining" when freed.
 

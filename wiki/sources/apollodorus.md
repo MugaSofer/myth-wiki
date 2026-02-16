@@ -33,7 +33,7 @@ Citations use the standard section numbering: e.g., Bibliotheca 1.6.2, Epitome 1
 
 ## Books Processed
 
-- [ ] Book 1 (1.1.1-1.6.3, 1.7.1-1.9.28 done — Book 1 complete)
-- [ ] Book 2
+- [x] Book 1 (1.1.1-1.9.28)
+- [x] Book 2 (2.1.1-2.8.5)
 - [ ] Book 3
 - [ ] Epitome

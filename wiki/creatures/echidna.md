@@ -51,6 +51,15 @@ She is "half a nymph with glancing eyes and fair cheeks, and half again a huge s
 [^theog-sphinx]: "but Echidna was subject in love to Orthus and brought forth the deadly Sphinx which destroyed the Cadmeans" (Theogony 326-327)
 [^theog-lion]: "and the Nemean lion, which Hera, the good wife of Zeus, brought up and made to haunt the hills of Nemea, a plague to men." ... "yet the strength of stout Heracles overcame him." (Theogony 327-332)
 
+## In the Bibliotheca (2.1.2)
+
+The [Bibliotheca](../sources/apollodorus.md) provides a distinct account of Echidna's parentage and death. She is called "daughter of Tartarus and Earth" — a parentage not given in the [Theogony](../sources/theogony.md), which does not specify her parents. The text notes that she "used to carry off passers-by" and "was caught asleep and slain by Argus."[^apd-echidna-death]
+
+> **VARIANT:** In the [Theogony](../sources/theogony.md), Echidna is explicitly immortal — "a nymph who dies not nor grows old all her days." The Bibliotheca contradicts this by having her killed by Argus Panoptes. The Theogony also does not assign her specific parents, while the Bibliotheca names Tartarus and Earth (Gaia).
+
+[^apd-echidna-death]: "Echidna, daughter of Tartarus and Earth, who used to carry off passers-by, was caught asleep and slain by Argus." (Bibliotheca 2.1.2, trans. J.G. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 295-332: Description, dwelling, offspring
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.2: "Daughter of Tartarus and Earth"; carried off passers-by; slain by Argus while asleep

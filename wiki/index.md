@@ -16,8 +16,12 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 - [Theogony](sources/theogony.md) - Hesiod (c. 700 BCE)
 - [Works and Days](sources/works-and-days.md) - Hesiod (c. 700 BCE)
+- [Shield of Heracles](sources/shield-of-heracles.md) - Attributed to Hesiod (c. 6th century BCE)
 - [Homeric Hymns](sources/homeric-hymns.md) - Anonymous (c. 7th-6th century BCE)
-- [Iliad](sources/iliad.md) - Homer (c. 750-700 BCE) — in progress
+- [Epic Cycle](sources/epic-cycle.md) - Various (c. 8th-6th century BCE), surviving in fragments and summaries
+- [Iliad](sources/iliad.md) - Homer (c. 750-700 BCE)
+- [Odyssey](sources/odyssey.md) - Homer (c. 725-675 BCE)
+- [Bibliotheca](sources/apollodorus.md) - Apollodorus (c. 1st-2nd century CE) — in progress
 
 ## Progress
 

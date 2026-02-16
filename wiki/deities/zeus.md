@@ -320,6 +320,38 @@ Zeus attacked [Typhoeus](../creatures/typhoeus.md) with thunderbolts at a distan
 [^apd-zeus-sinews]: "Typhon twined about him and gripped him in his coils, and wresting the sickle from him severed the sinews of his hands and feet, and lifting him on his shoulders carried him through the sea to Cilicia and deposited him on arrival in the Corycian cave." (Bibliotheca 1.6.3, trans. Frazer)
 [^apd-zeus-etna]: "when he started to flee through the Sicilian sea, Zeus cast Mount Etna in Sicily upon him." (Bibliotheca 1.6.3, trans. Frazer)
 
+## In the Bibliotheca (Book 2)
+
+### Seductions and Offspring
+
+Niobe, daughter of Phoroneus, "was the first mortal woman with whom Zeus cohabited," bearing him a son Argus.[^apd-zeus-niobe]
+
+Zeus seduced [Io](../heroes/io.md) "while she held the priesthood of [Hera](hera.md), but being detected by Hera he by a touch turned Io into a white cow and swore that he had not known her; wherefore Hesiod remarks that lover's oaths do not draw down the anger of the gods."[^apd-zeus-io] When Hera set Argus the All-seeing to guard the cow, "Zeus ordered [Hermes](hermes.md) to steal the cow." When Hera later had Io's son Epaphus spirited away by the Curetes, "Zeus learned of it" and "slew the Curetes."[^apd-zeus-curetes]
+
+Zeus fathered [Perseus](../heroes/perseus.md) on [Danae](../heroes/danae.md): "some say that Zeus had intercourse with her in the shape of a stream of gold which poured through the roof into Danae's lap."[^apd-zeus-danae]
+
+### Heracles' Birth
+
+Zeus declared "that the descendant of Perseus then about to be born would reign over Mycenae," but [Hera](hera.md) exploited this oath by hastening Eurystheus's birth and delaying [Heracles](../heroes/heracles.md)' delivery.[^apd-zeus-oath] Later, "Zeus came by night and prolonging the one night threefold he assumed the likeness of Amphitryon and bedded with Alcmena."[^apd-zeus-alcmena]
+
+### Other Interventions
+
+When the Teumessian vixen (fated to be uncatchable) was pursued by Cephalus's hound (fated to catch whatever it pursued), "Zeus turned both of them into stone" — resolving the paradox.[^apd-zeus-stone]
+
+When [Heracles](../heroes/heracles.md) and [Apollo](apollo.md) fought over the Delphic tripod, "Zeus threw a thunderbolt between them" to separate them.[^apd-zeus-tripod]
+
+After Hera sent storms against Heracles as he sailed from [Troy](../places/troy.md), Zeus punished her: "Hera sent grievous storms, which so vexed Zeus that he hung her from Olympus."[^apd-zeus-hung-hera]
+
+[^apd-zeus-niobe]: "Niobe had by Zeus (and she was the first mortal woman with whom Zeus cohabited) a son Argus" (Bibliotheca 2.1.1, trans. J.G. Frazer)
+[^apd-zeus-io]: "Zeus seduced her while she held the priesthood of Hera, but being detected by Hera he by a touch turned Io into a white cow and swore that he had not known her; wherefore Hesiod remarks that lover's oaths do not draw down the anger of the gods" (Bibliotheca 2.1.3)
+[^apd-zeus-curetes]: "Him Hera besought the Curetes to make away with, and make away with him they did. When Zeus learned of it, he slew the Curetes" (Bibliotheca 2.1.3)
+[^apd-zeus-danae]: "some say that Zeus had intercourse with her in the shape of a stream of gold which poured through the roof into Danae's lap" (Bibliotheca 2.4.1)
+[^apd-zeus-oath]: "Zeus declared among the gods that the descendant of Perseus then about to be born would reign over Mycenae, and Hera out of jealousy persuaded the Ilithyias to retard Alcmena's delivery, and contrived that Eurystheus, son of Sthenelus, should be born a seven-month child" (Bibliotheca 2.4.5)
+[^apd-zeus-alcmena]: "before Amphitryon reached Thebes, Zeus came by night and prolonging the one night threefold he assumed the likeness of Amphitryon and bedded with Alcmena and related what had happened concerning the Teleboans" (Bibliotheca 2.4.8)
+[^apd-zeus-stone]: "when the vixen was chased by the dog, Zeus turned both of them into stone" (Bibliotheca 2.4.7)
+[^apd-zeus-tripod]: "Apollo fought him, and Zeus threw a thunderbolt between them" (Bibliotheca 2.6.2)
+[^apd-zeus-hung-hera]: "When Hercules was sailing from Troy, Hera sent grievous storms, which so vexed Zeus that he hung her from Olympus" (Bibliotheca 2.7.1)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 4-96, 141, 389-401, 453-506, 617-735, 820-885, 886-944: Pervasive throughout
@@ -361,6 +393,14 @@ Zeus attacked [Typhoeus](../creatures/typhoeus.md) with thunderbolts at a distan
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.9: Arbitrated between [Apollo](apollo.md) and Idas over Marpessa — "Zeus parted them and allowed the maiden herself to choose which of the two she would marry"[^apd-marpessa]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.7: Struck Salmoneus with a thunderbolt — "Zeus struck him with a thunderbolt, and wiped out the city he had founded with all its inhabitants"[^apd-salmoneus]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.24: Sent a storm against the Argonauts for the murder of Apsyrtus — "Zeus sent a furious storm upon them, and drove them out of their course, because he was angry at the murder of Apsyrtus"[^apd-storm]
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.1: Niobe was "the first mortal woman with whom Zeus cohabited"
+- **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Seduced Io; turned her into a white cow; ordered Hermes to steal her; slew the Curetes for spiriting away Epaphus
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.1: Fathered Perseus on Danae "in the shape of a stream of gold"
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.5: Declared that day's descendant of Perseus would rule Mycenae; Hera exploited the oath
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.7: Turned the uncatchable vixen and the all-catching hound both to stone
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.8: Prolonged the night threefold; assumed Amphitryon's likeness to beget Heracles
+- **[Bibliotheca](../sources/apollodorus.md)** 2.6.2: Threw a thunderbolt between Heracles and Apollo fighting over the Delphic tripod
+- **[Bibliotheca](../sources/apollodorus.md)** 2.7.1: Hung Hera from Olympus for sending storms against Heracles
 
 [^apd-flood]: "Zeus by pouring heavy rain from heaven flooded the greater part of Greece, so that all men were destroyed, except a few who fled to the high mountains in the neighborhood" (Bibliotheca 1.7.2, trans. Frazer)
 [^apd-alcyone]: "he said that his wife was Hera, and she said that her husband was Zeus. But Zeus turned them into birds; her he made a kingfisher and him a gannet" (Bibliotheca 1.7.4, trans. Frazer)

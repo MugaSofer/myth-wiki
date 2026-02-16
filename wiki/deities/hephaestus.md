@@ -151,6 +151,19 @@ During the battle with the [Giants](../creatures/giants.md), "Mimas [was killed]
 [^apd-heph-house]: "for him Poseidon had made ready a house under the earth constructed by Hephaestus" (Bibliotheca 1.4.4, trans. Frazer)
 [^apd-heph-mimas]: "Mimas by Hephaestus with missiles of red-hot metal" (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the Bibliotheca (2.4.11, 2.5.6)
+
+### Gifts to Heracles
+
+The [Bibliotheca](../sources/apollodorus.md) lists Hephaestus among the gods who armed [Heracles](../heroes/heracles.md) before his labours: Heracles "received a sword from [Hermes](hermes.md), a bow and arrows from [Apollo](apollo.md), a golden breastplate from Hephaestus, and a robe from [Athena](athena.md)."[^apd-heph-breastplate]
+
+### Brazen Castanets for Athena
+
+For the sixth labour (the Stymphalian birds), "[Athena](athena.md) gave him brazen castanets, which she had received from Hephaestus."[^apd-heph-castanets] By clashing them on a mountain that overhung the lake, Heracles scared the birds into flight and shot them.
+
+[^apd-heph-breastplate]: "Hercules received a sword from Hermes, a bow and arrows from Apollo, a golden breastplate from Hephaestus, and a robe from Athena" (Bibliotheca 2.4.11, trans. J.G. Frazer)
+[^apd-heph-castanets]: "Athena gave him brazen castanets, which she had received from Hephaestus" (Bibliotheca 2.5.6, trans. J.G. Frazer)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea
@@ -175,6 +188,8 @@ During the battle with the [Giants](../creatures/giants.md), "Mimas [was killed]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.1: Nailed [Prometheus](prometheus.md) to Mount Caucasus — "[Zeus](zeus.md) ordered Hephaestus to nail his body to Mount Caucasus"[^apd-prometheus]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: Made brazen-footed fire-breathing bulls, a gift to Aeetes — "two wild bulls that he had, of enormous size, a gift of Hephaestus; they had brazen feet and puffed fire from their mouths"[^apd-bulls]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.26: Talos the brazen man — "some say that he was given to Minos by Hephaestus; he was a brazen man"[^apd-talos]
+- **[Bibliotheca](../sources/apollodorus.md)** 2.4.11: Gave [Heracles](../heroes/heracles.md) a golden breastplate before his labours
+- **[Bibliotheca](../sources/apollodorus.md)** 2.5.6: Made brazen castanets for [Athena](athena.md), used by Heracles to scare the Stymphalian birds
 
 [^apd-prometheus]: "Zeus ordered Hephaestus to nail his body to Mount Caucasus" (Bibliotheca 1.7.1, trans. Frazer)
 [^apd-bulls]: "two wild bulls that he had, of enormous size, a gift of Hephaestus; they had brazen feet and puffed fire from their mouths" (Bibliotheca 1.9.23, trans. Frazer)
