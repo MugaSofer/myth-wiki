@@ -274,6 +274,38 @@ The fable ends with an aetiology: "From Circe and Telemachus Latinus was born, w
 [^hyg-127-marriages]: "Telegonus on discovering who he was, with Telemachus and Penelope returned to his home on the island of Aeaea by Minerva's instructions. They brought the body of Ulysses to Circe, and buried it there. By the advice of Minerva again, Telegonus married Penelope, and Telemachus married Circe" (Fabulae §127, trans. Mary Grant)
 [^hyg-127-aetiology]: "From Circe and Telemachus Latinus was born, who gave his name to the Latin language; from Penelope and Telegonus Italus was born, who called the country Italy from his own name" (Fabulae §127, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Contest of Arms (13.128-381)
+
+After [Ajax](ajax.md) claims [Achilles](achilles.md)' arms by kinship and battlefield valour, Odysseus rises to make his counter-speech. He first matches Ajax's genealogy — "the founder of my family, you know, is Jupiter; by birth I am just the same degree removed from Jupiter as he" — and dismisses blood-claims entirely: "Let personal merit weigh the cause alone."[^met-od-birth]
+
+Odysseus argues that he, not Ajax, brought Achilles to the war: "Achilles' Nereid mother, who foresaw his death, concealed her son by change of dress. By that disguise Ajax, among the rest, was well deceived. I showed with women's wares arms that might win the spirit of a man."[^met-od-achilles] He claims credit for persuading Agamemnon to sacrifice Iphigenia at Aulis ("I turned, by tactful words, a father's tender heart to the great issue of the public weal"), for the embassy to Troy demanding Helen's return, and for rallying the fleeing Greeks when Agamemnon tested their resolve.[^met-od-aulis]
+
+He recounts the night raid with [Diomedes](diomedes.md) — slaying Dolon and Rhesus — and catalogues warriors he killed in open battle, showing his chest wounds: "Here is a breast that bled for you! But Ajax never shed a drop of blood to aid his friends, in all these many years."[^met-od-wounds] His most powerful claim is carrying Achilles' body from the field: "I carried his dead body from the ground, uplifted on these shoulders... I have the strength to walk beneath their weight, I have a mind to understand their worth."[^met-od-body]
+
+He concludes by invoking the theft of the Palladium: "In spite of hostile swords, he goes within not only the strong walls of Troy but even the citadel, lifts up the goddess from her shrine, and takes her through the enemy!" He closes by pointing to [Athena](../deities/athena.md)'s statue: "if you do not give these arms to me, then give them all to her!"[^met-od-palladium]
+
+The assembled chiefs are swayed, and the arms go to Odysseus.[^met-od-verdict]
+
+### Fetching Philoctetes and the Fall of Troy (13.399-403)
+
+After Ajax's suicide, Odysseus "set sail, for Lemnos" to bring back Philoctetes and the arrows of [Heracles](heracles.md). "When these were given back to the Greeks, their lord with them, a final hand at last prevailed to end that long fought war."[^met-od-lemnos]
+
+### Hecuba as Prize (13.399-568)
+
+In the aftermath of Troy's fall, Odysseus claimed Hecuba as his prize "only because she had brought Hector forth." He dragged her from among the tombs of her sons, where she embraced their urns; "Ulysses came with ruthless hands and bore her off."[^met-od-hecuba]
+
+[^met-od-birth]: "the founder of my family, you know, is Jupiter; by birth I am just the same degree removed from Jupiter as he... Let personal merit weigh the cause alone" (Metamorphoses 13.140-149, trans. Brookes More)
+[^met-od-achilles]: "Achilles' Nereid mother, who foresaw his death, concealed her son by change of dress. By that disguise Ajax, among the rest, was well deceived. I showed with women's wares arms that might win the spirit of a man" (Metamorphoses 13.162-167, trans. Brookes More)
+[^met-od-aulis]: "I turned, by tactful words, a father's tender heart to the great issue of the public weal" (Metamorphoses 13.189-192, trans. Brookes More)
+[^met-od-wounds]: "Here is a breast that bled for you! But Ajax never shed a drop of blood to aid his friends, in all these many years, and has a body free of any wound" (Metamorphoses 13.262-267, trans. Brookes More)
+[^met-od-body]: "I carried his dead body from the ground, uplifted on these shoulders, I repeat, upon these shoulders from that ground I bore off dead Achilles, and those arms which now I want to bear away again. I have the strength to walk beneath their weight, I have a mind to understand their worth" (Metamorphoses 13.284-294, trans. Brookes More)
+[^met-od-palladium]: "In spite of hostile swords, he goes within not only the strong walls of Troy but even the citadel, lifts up the goddess from her shrine, and takes her through the enemy!... if you do not give these arms to me, then give them all to her!" (Metamorphoses 13.338-367, trans. Brookes More)
+[^met-od-verdict]: "The assembled body of the chiefs was moved; and then, appeared the power of eloquence: the fluent man received, amid applause, the arms of the brave man" (Metamorphoses 13.382-385, trans. Brookes More)
+[^met-od-lemnos]: "The conqueror, Ulysses, now set sail, for Lemnos... that he might capture and bring back with him the arrows of brave Hercules. When these were given back to the Greeks, their lord with them, a final hand at last prevailed to end that long fought war" (Metamorphoses 13.399-403, trans. Brookes More)
+[^met-od-hecuba]: "The conquering Ulysses only claimed her his because she had brought Hector forth... Ulysses came with ruthless hands and bore her off, his prize" (Metamorphoses 13.481-497, trans. Brookes More)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Rallies the army at [Athena](../deities/athena.md)'s urging; his ship in the centre of the fleet; "Odysseus of many devices"
@@ -301,4 +333,6 @@ The fable ends with an aetiology: "From Circe and Telemachus Latinus was born, w
 - **[Fabulae](../sources/hyginus.md)** §95: Oracle warned if he went to Troy he'd return "alone and in need, with his comrades lost, after twenty years"; put on cap, feigned madness, yoked horse and ox to plow; Palamedes placed Telemachus before plow; Odysseus dropped pretense, hostile to Palamedes thereafter
 - **[Fabulae](../sources/hyginus.md)** §105: Plotted to kill Palamedes; sent false dream warning, camp moved for one day; hid gold in Palamedes' tent location; gave forged letter to Phrygian (killed en route); letter found saying Priam promised gold for betrayal; gold discovered in tent; Palamedes executed by army though innocent
 - **[Fabulae](../sources/hyginus.md)** §125: Full Odyssey summary — Cicones (Ismarus sacked); Lotus-eaters; Polyphemus (prophecy from Telemus, called himself "Noman," Cyclopes thought he joked); Aeolus; Laestrygonians; Circe (Eurylochus with 22 men, turned to beasts; Mercury gave charm); Underworld (Elpenor); Sirens; Scylla and Charybdis (six men devoured); cattle of Sun (flesh lowed in kettle); Zeus's thunderbolt; Calypso; Neptune shattered raft; Phaeacians; Ithaca (recognized by nurse Euryclia); slew suitors with arrows; punished handmaids
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.128-403: Speech claiming Achilles' arms — matched Ajax's genealogy, claimed credit for bringing Achilles to war, persuading Agamemnon at Aulis, rallying fleeing Greeks, night raid with Diomedes, carrying Achilles' body, stealing the Palladium; pointed to Athena's statue; won the arms by eloquence; sailed to Lemnos to fetch Philoctetes and Heracles' arrows, ending the war
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.481-497: Claimed Hecuba as prize after Troy's fall; dragged her from her sons' tombs
 - **[Fabulae](../sources/hyginus.md)** §127: Telegonus (son by Circe) came to Ithaca seeking father; ravaged fields; Odysseus and Telemachus fought him unknowing; Telegonus killed Odysseus (oracle: beware death at son's hands); Telegonus married Penelope, Telemachus married Circe (Minerva's advice); Latinus born (from Circe/Telemachus, named Latin language); Italus born (from Penelope/Telegonus, named Italy)

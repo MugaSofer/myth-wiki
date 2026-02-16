@@ -81,6 +81,40 @@ But the uncles objected: "Ideus, Plexippus, Lynceus... brothers of Althaea, wish
 [^hyg-meleager]: "When she asked the help of Meleager, he intervened, and putting love before family relationship, killed his uncles" (Fabulae §174, trans. Mary Grant)
 [^hyg-brand]: "When Althaea, the mother, heard that her son had dared to commit such a crime, remembering the warning of the Parcae, she brought out the brand from the chest and threw it on the fire. Thus, in desiring to avenge the death of her brothers, she killed her son" (Fabulae §174, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Oracle and the Race (10.560-680)
+
+The Metamorphoses tells the footrace as a tale within a tale — [Venus](../deities/aphrodite.md) narrates it to Adonis as a warning against recklessness. Atalanta, daughter of Schoeneus, is described as supernaturally swift: "you could not have said whether her swift speed or her beauty was more worthy of your praise."[^met-atal-beauty] An oracle warned her: "You, Atalanta, never will have need of husband, who will only be your harm... while yet living you will lose yourself."[^met-atal-oracle]
+
+She sets the fatal terms: "I will not be won till I am conquered first in speed... A wife and couch shall both be given to reward the swift, but death must recompense the one who lags behind."[^met-atal-terms]
+
+### Hippomenes (10.575-638)
+
+Hippomenes, grandson of [Poseidon](../deities/poseidon.md), comes to mock the suitors but is instantly smitten. Atalanta running is described vividly: "The breeze bore back the streamers on her flying ankles, while her hair was tossed back over her white shoulders; the bright trimmed ribbons at her knees were fluttering, and over her white girlish body came a pink flush."[^met-atal-running]
+
+Atalanta herself is moved by Hippomenes, debating inwardly: "Oh how dear how lovable is his young girlish face! -- ah, doomed Hippomenes, I only wish mischance had never let you see me! You are truly worthy of a life on earth." She loves without knowing she loves: "she loves and does not know she is in love."[^met-atal-love]
+
+### Venus's Golden Apples (10.638-680)
+
+Hippomenes prays directly to Venus, who gives him three golden apples from her sacred field of Tamasus in Cyprus: "I had three golden apples in my hand, which I had plucked. Since I was coming from there, by some chance... while quite invisible to all but him, I taught him how to use those golden apples."[^met-atal-venus]
+
+During the race, Atalanta deliberately slows: "how often, when she could have passed him, she delayed her speed; and after gazing long upon his face reluctantly again would pass him!"[^met-atal-delay] Hippomenes throws the three apples in succession, the last at an oblique angle so pursuit would mean a slow return. Venus admits she forced the final pick-up: "I forced her to turn for it; take it up; and, adding weight to the gold fruit, she held, impeded her with weight and loss of time."[^met-atal-weight]
+
+### Transformation into Lions (10.681-707)
+
+Hippomenes forgot to thank Venus with incense, and the goddess punished them. Seized by uncontrollable lust near a temple of Cybele (Rhea, Mother of the Gods), they desecrated the sacred cave. Cybele "at first prepared to plunge the guilty pair beneath the waves of Styx, but such a punishment seemed light." Instead she transformed them: "their necks, that had been smooth, were covered instantly with tawny manes; their fingers bent to claws; their arms were changed to fore-legs." They became lions, "terrible to all of life; except to Cybele; whose harness has subdued their champing jaws."[^met-atal-lions]
+
+[^met-atal-beauty]: "you could not have said whether her swift speed or her beauty was more worthy of your praise" (Metamorphoses 10.565-566, trans. Brookes More)
+[^met-atal-oracle]: "You, Atalanta, never will have need of husband, who will only be your harm. For your best good you should avoid the tie; but surely you will not avoid your harm; and while yet living you will lose yourself" (Metamorphoses 10.567-572, trans. Brookes More)
+[^met-atal-terms]: "I will not be won till I am conquered first in speed. Contest the race with me. A wife and couch shall both be given to reward the swift, but death must recompense the one who lags behind" (Metamorphoses 10.577-581, trans. Brookes More)
+[^met-atal-running]: "The breeze bore back the streamers on her flying ankles, while her hair was tossed back over her white shoulders; the bright trimmed ribbons at her knees were fluttering, and over her white girlish body came a pink flush" (Metamorphoses 10.591-598, trans. Brookes More)
+[^met-atal-love]: "she loves and does not know she is in love" (Metamorphoses 10.635, trans. Brookes More)
+[^met-atal-venus]: "I had three golden apples in my hand, which I had plucked... while quite invisible to all but him, I taught him how to use those golden apples for his benefit" (Metamorphoses 10.650-656, trans. Brookes More)
+[^met-atal-delay]: "how often, when she could have passed him, she delayed her speed; and after gazing long upon his face reluctantly again would pass him!" (Metamorphoses 10.667-670, trans. Brookes More)
+[^met-atal-weight]: "I forced her to turn for it; take it up; and, adding weight to the gold fruit, she held, impeded her with weight and loss of time" (Metamorphoses 10.687-689, trans. Brookes More)
+[^met-atal-lions]: "their necks, that had been smooth, were covered instantly with tawny manes; their fingers bent to claws; their arms were changed to fore-legs... And now fierce lions they are terrible to all of life; except to Cybele; whose harness has subdued their champing jaws" (Metamorphoses 10.698-707, trans. Brookes More)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 14: Full footrace with Hippomenes; "the beaming eyes of the Graces"; golden apples of [Aphrodite](../deities/aphrodite.md); snatches them "swiftly as a Harpy"
@@ -92,6 +126,7 @@ But the uncles objected: "Ideus, Plexippus, Lynceus... brothers of Althaea, wish
 - **[Fabulae](../sources/hyginus.md)** §99: Exposed son Parthenopaeus by Meleager on Mount Parthenius; doe suckled Telephus (variant tradition linking Atalanta's child with Auge's)
 - **[Fabulae](../sources/hyginus.md)** §173: Listed among Calydonian boar hunters — "Atalanta, daughter of Schoeneus"
 - **[Fabulae](../sources/hyginus.md)** §174: Meleager gave hide to "virgin Atalanta because of her valor"; uncles tried to take it; Meleager killed them; Althaea burned the brand
+- **[Metamorphoses](../sources/metamorphoses.md)** 10.560-707: Venus narrates to Adonis — oracle warned against marriage; death-race for suitors; Hippomenes (grandson of Poseidon) smitten; Venus gives three golden apples from Tamasus; Atalanta delays for him; "she loves and does not know she is in love"; golden apples win the race; desecrate Cybele's temple; transformed into lions
 
 [^apd-birth]: "This Atalanta was exposed by her father, because he desired male children; and a she bear came often and gave her suck, till hunters found her and brought her up among themselves" (Bibliotheca 3.9.2, trans. J.G. Frazer)
 [^apd-centaurs]: "Grown to womanhood, Atalanta kept herself a virgin, and hunting in the wilderness she remained always under arms. The centaurs Rhoecus and Hylaeus tried to force her, but were shot down and killed by her" (Bibliotheca 3.9.2, trans. J.G. Frazer)

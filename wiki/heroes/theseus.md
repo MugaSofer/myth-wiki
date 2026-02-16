@@ -110,6 +110,22 @@ The black sails follow: "when Theseus left, he forgot to change the black sails,
 [^hyg-43-dionysus]: "Liber, falling in love with her, took her from there as his wife" (Fabulae §43, trans. Mary Grant)
 [^hyg-43-aegeus]: "when Theseus left, he forgot to change the black sails, and so his father Aegeus judged that he had been devoured by the Minotaur. He threw himself into the sea, which was called Aegean from this. But Theseus married Phaedra, Ariadne's sister" (Fabulae §43, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Medea's Attempted Poisoning (7.404-424)
+
+Theseus arrived at Athens unknown to his father Aegeus. [Medea](medea.md), who had married Aegeus, "seeking his destruction, brewed the juice of aconite" — a poison grown from the frothing of [Cerberus](../creatures/cerberus.md) when [Heracles](heracles.md) dragged him from the underworld. She "worked on Aegeus to present his own son, Theseus, with a deadly cup of aconite; prevailing by her art so that he deemed his son an enemy."[^met-thes-poison]
+
+"Theseus unwittingly received the cup, but just before he touched it to his lips, his father recognized the sword he wore, for, graven on its ivory hilt was wrought a known device — the token of his race. Astonished, Aegeus struck the poison-cup from his devoted son's confiding lips." Medea escaped "in a dark whirlwind her witch-singing raised."[^met-thes-rescue]
+
+### The Song of His Deeds (7.425-452)
+
+The Athenians celebrated Theseus with a song cataloguing his labours: "Did you not slaughter the huge bull of Crete?... And Periphetes, wielder of the club, was worsted when he struggled with your strength; And fierce Procrustes... met his death; And even Cercyon, in Eleusis lost his wicked life... And Sinis, a monstrosity of strength, who bent the trunks of trees... Even the road to Megara is safe, For you did hurl the robber Scyron, — sheer — over the cliff."[^met-thes-song]
+
+[^met-thes-poison]: "Medea, seeking his destruction, brewed the juice of aconite... she worked on Aegeus to present his own son, Theseus, with a deadly cup of aconite; prevailing by her art so that he deemed his son an enemy" (Metamorphoses 7.404-419, trans. Brookes More)
+[^met-thes-rescue]: "Theseus unwittingly received the cup, but just before he touched it to his lips, his father recognized the sword he wore, for, graven on its ivory hilt was wrought a known device — the token of his race. Astonished, Aegeus struck the poison-cup from his devoted son's confiding lips" (Metamorphoses 7.419-425, trans. Brookes More)
+[^met-thes-song]: "Did you not slaughter the huge bull of Crete?... And Periphetes, wielder of the club, was worsted when he struggled with your strength; And fierce Procrustes, matched with you beside the rapid river, met his death" (Metamorphoses 7.433-443, trans. Brookes More)
+
 ## Footnotes
 
 [^apd-theseus-birth]: "Pittheus, son of Pelops, who, understanding the oracle, made him drunk and caused him to lie with his daughter Aethra. But in the same night Poseidon also had connexion with her" (Bibliotheca 3.15.7, trans. J.G. Frazer)
@@ -157,3 +173,4 @@ The black sails follow: "when Theseus left, he forgot to change the black sails,
 - **[Fabulae](../sources/hyginus.md)** §38: Six labours in detail — slew Corynetes (son of Neptune); killed Pityocamptes (pine-bender); killed Procrustes (son of Neptune, bed-fitter with anvils); cast Sciron into sea (Scironian rocks); killed Cercyon (son of Vulcan); killed Crommyonian boar; killed Marathonian bull; killed Minotaur at Cnossus
 - **[Fabulae](../sources/hyginus.md)** §42: Ariadne loved him, betrayed her brother (Minotaur), showed way out of Labyrinth; Theseus killed Minotaur, escaped by thread; took Ariadne to marry her
 - **[Fabulae](../sources/hyginus.md)** §43: Detained by storm on Dia; thought it reproach to bring Ariadne to Athens, left her asleep; Dionysus took her as wife; Theseus forgot black sails; Aegeus threw himself into sea (called Aegean); married Phaedra
+- **[Metamorphoses](../sources/metamorphoses.md)** 7.404-452: Medea brewed aconite poison (from Cerberus's froth); Aegeus offered it to Theseus unknowing; recognized ivory-hilted sword; struck cup away; Medea escaped in whirlwind; Athenians sang catalogue of his deeds (Cretan bull, Periphetes, Procrustes, Cercyon, Sinis, Sciron)

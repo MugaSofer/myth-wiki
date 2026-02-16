@@ -278,6 +278,33 @@ Ajax's madness and suicide: "Ajax, harbouring rage, in madness slaughtered his f
 [^hyg-107-ulysses]: "Through the anger of Minerva they were denied him by Agamemnon and Menelaus, and given to Ulysses" (Fabulae §107, trans. Mary Grant)
 [^hyg-107-suicide]: "Ajax, harbouring rage, in madness slaughtered his flocks, and killed himself with that sword he had received from Hector as a gift when the two met in battle line" (Fabulae §107, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Battle with Cygnus (12.64-145)
+
+In the Metamorphoses, Achilles' arrival at Troy is marked by his duel with Cygnus, son of [Poseidon](../deities/poseidon.md), who had already slain a thousand Greeks. Achilles drove his chariot straight through the Trojan army, "making a lane with his great spear, shaped from a Pelion tree," and challenged Cygnus directly.[^met-ach-charge]
+
+Cygnus proved invulnerable to weapons. Achilles' spear struck true but "only bruised, as with a blunted stroke, the breast of Cygnus." Cygnus mocked him: "This helmet crowned, great with its tawny horse-hair, and this shield, broad-hollowed, on my left arm, are not held for help in war: they are but ornament... It is a privilege that I was born not as you, of a Nereid but of him whose powerful rule is over Nereus, his daughters and their ocean."[^met-ach-cygnus]
+
+After multiple spears failed, Achilles tested his weapon on a Lycian soldier, Menoetes, and confirmed the spear was still deadly. Enraged, he leaped from his chariot and attacked Cygnus hand-to-hand: "with his sword-hilt and his shield he battered wildly the uncovered face and hollow-temples of his Trojan foe." He forced Cygnus backward over a stone, strangled him with his own helmet thongs, and rose "eager to strip his conquered foe but found his empty armor, for the god of ocean had changed the victim into that white bird whose name he lately bore."[^met-ach-strangle]
+
+### The Banquet and Tales (12.146-628)
+
+After the Cygnus battle, during a truce, Achilles hosted a feast for the Greek chiefs. They "talked of their own deeds and valor, all that thrilling night," and the conversation turned to the invulnerability of Cygnus, which led the old warrior Nestor to tell the long story of Caeneus and the battle of the Lapiths and Centaurs.[^met-ach-feast]
+
+### The Ghost at Thrace (13.440-467)
+
+After Troy's fall, when the Greek fleet was moored on the Thracian shore, Achilles' ghost rose from the earth, "as large as when he lived, with look as fierce, as when his sword once threatened Agamemnon." He demanded the sacrifice of Polyxena: "Forgetting me do you depart, O Greeks? And is your grateful memory of all my worth interred with my bones? Do not do so. And that my sepulchre may have due worship, let Polyxena be immolated to appease the ghost of dead Achilles."[^met-ach-ghost]
+
+"The old friends of Achilles all obeyed his unforgiving shade." Polyxena was led to the altar where she met her death with extraordinary courage, declaring: "Do not delay my generous gift of blood... Polyxena would never wish to live in slavery."[^met-ach-polyxena]
+
+[^met-ach-charge]: "Achilles pressed his rapid chariot straight through the Trojan army; making a lane with his great spear, shaped from a Pelion tree" (Metamorphoses 12.72-74, trans. Brookes More)
+[^met-ach-cygnus]: "This helmet crowned, great with its tawny horse-hair, and this shield, broad-hollowed, on my left arm, are not held for help in war: they are but ornament, as Mars wears armor... It is a privilege that I was born not as you, of a Nereid but of him whose powerful rule is over Nereus, his daughters and their ocean" (Metamorphoses 12.93-103, trans. Brookes More)
+[^met-ach-strangle]: "with his sword-hilt and his shield he battered wildly the uncovered face and hollow-temples of his Trojan foe... eager to strip his conquered foe but found his empty armor, for the god of ocean had changed the victim into that white bird whose name he lately bore" (Metamorphoses 12.134-145, trans. Brookes More)
+[^met-ach-feast]: "They talked of their own deeds and valor, all that thrilling night: and even the strength of enemies whom they had met and overcome" (Metamorphoses 12.159-163, trans. Brookes More)
+[^met-ach-ghost]: "from wide gaping earth, Achilles rose, as large as when he lived, with look as fierce, as when his sword once threatened Agamemnon. 'Forgetting me do you depart, O Greeks?' He said, 'And is your grateful memory of all my worth interred with my bones?... let Polyxena be immolated to appease the ghost of dead Achilles'" (Metamorphoses 13.440-456, trans. Brookes More)
+[^met-ach-polyxena]: "Do not delay my generous gift of blood, with no resistance thrust the ready steel into my throat or breast!... Polyxena would never wish to live in slavery" (Metamorphoses 13.457-473, trans. Brookes More)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I: Quarrel with Agamemnon; [Athena](../deities/athena.md) restrains him ("terribly shone her eyes"); weeps by the sea; [Thetis](../deities/thetis.md) rises "like a mist"; supplicates [Zeus](../deities/zeus.md) on his behalf
@@ -297,6 +324,9 @@ Ajax's madness and suicide: "Ajax, harbouring rage, in madness slaughtered his f
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Ghost appears to Neoptolemus
 - **[Epic Cycle](../sources/epic-cycle.md)** (Returns): Ghost warns the departing fleet
 - **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): Polyxena sacrificed at his tomb
+- **[Metamorphoses](../sources/metamorphoses.md)** 12.64-145: Duel with Cygnus (son of Neptune) — spears useless; Cygnus claimed invulnerability from his father; Achilles strangled him with helmet thongs; Cygnus transformed to white bird
+- **[Metamorphoses](../sources/metamorphoses.md)** 12.146-628: Hosted feast during truce; story of Cygnus's invulnerability led to Nestor's tale of Caeneus and the centauromachy
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.440-467: Ghost rose from earth at Thrace, "as large as when he lived"; demanded sacrifice of Polyxena; obeyed by Greeks; Polyxena died with courage, refusing slavery
 - **[Fabulae](../sources/hyginus.md)** §96: Thetis sent him to Scyros to King Lycomedes (would die if went to Troy); kept among virgin daughters in woman's attire; called "Pyrrha" (tawny-haired, pyrrhos = redhead); Achaeans sent spokesmen; Lycomedes denied, gave permission to search; Odysseus put women's trinkets with shield and spear in forecourt; trumpet blast and war-cries; Achilles seized weapons, revealed; promised aid and Myrmidons
 - **[Fabulae](../sources/hyginus.md)** §106: Agamemnon took Briseis (Moesian captive, daughter of priest Brisa); Achilles withdrew, "amused himself with cithara in tent"; Patroclus wore armor, slew Sarpedon, killed by Hector; Thetis got armor from Vulcan, Nereids brought it over sea; Achilles slew Hector, dragged body round walls; refused burial; Zeus commanded; Priam came with Mercury as guide, ransomed body for equal weight of gold
 - **[Fabulae](../sources/hyginus.md)** §107: After Hector's burial, wandering ramparts saying he alone reduced Troy; Apollo in anger (as Paris) shot heel, killed him; Ajax demanded arms (cousin on father's side); through Minerva's anger, Agamemnon and Menelaus gave them to Odysseus; Ajax in madness slaughtered flocks, killed himself with sword from Hector (gift from battle-line meeting)

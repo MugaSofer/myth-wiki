@@ -51,6 +51,36 @@ On the second encounter, after the destruction of his ship by [Zeus](../deities/
 [^od-bat]: Odysseus clings to the fig-tree above Charybdis "like a bat," waiting for her to spew back the timbers of his ship (Odyssey XII.6951-6958, trans. Butcher and Lang)
 [^od-escape]: Charybdis disgorges the mast and keel; Odysseus drops down, straddles the timbers, and paddles away (Odyssey XII.6958-6965, trans. Butcher and Lang)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### Scylla the Maiden (13.730-749)
+
+Before her transformation, Scylla was a beautiful maiden courted by many suitors, "but she repulsed them." Because she was "so much beloved by all the Nereids," she confided in the sea-nymphs, telling them "how she escaped from the love-stricken youths."[^met-scy-maiden] It was during one such conversation that Galatea told her the story of [Polyphemus](cyclopes.md) and Acis.
+
+### Glaucus's Pursuit (13.898-968)
+
+The sea-god Glaucus, newly transformed from a mortal fisherman, saw Scylla on the shore and swam toward her. She fled and "climbed to a mountain top above the sea," standing there "quite secure" and "doubtful whether he might be a god or monster." She "wondered at his flowing hair which covered his broad shoulders and his back — and marvelled at the color of his skin and at his waist merged into a twisted fish."[^met-scy-glaucus]
+
+Glaucus pleaded his case — he was "no monster" but "a god of waters" — telling how he had been transformed by eating a magical herb. But Scylla "arose and left the god," and Glaucus, "provoked at his repulse — enraged, he hastened to the marvellous court of [Circe](../deities/circe.md), well known daughter of the Sun."[^met-scy-rejected]
+
+### Circe's Poison (14.1-74)
+
+[Circe](../deities/circe.md) offered herself to Glaucus instead, but he refused: "The trees will sooner grow in ocean waves, the sea-weed sooner grow on mountain tops, than I shall change my love for graceful Scylla." Circe, unable to harm the god she loved, "turned her wrath upon the one preferred."[^met-scy-circe]
+
+She "bruised immediately the many herbs most infamous for horrid juices," mixed them with incantations from [Hecate](../deities/hecate.md), then walked across the sea to Scylla's favorite bathing inlet. There she "infected it before that hour, polluting it with monster-breeding drugs. She sprinkled juices over it, distilled from an obnoxious root, and thrice times nine she muttered over it with magic lips."[^met-scy-poison]
+
+"Scylla came there and waded in waist deep, then saw her loins defiled with barking shapes. Believing they could be no part of her, she ran and tried to drive them back and feared the boisterous canine jaws. But what she fled she carried with her." She found "Cerberian jaws instead" of her legs and feet: "She rises from a rage of dogs, and shaggy backs encircle her shortened loins."[^met-scy-transform]
+
+Glaucus "wept" and "fled the embrace of Circe and her hostile power of herbs." Scylla, "for hate of Circe, she robbed Ulysses of his men" when his ship passed. She was eventually "changed beforehand to a rock which to this day reveals a craggy rim. And even the rock awakes the sailors' dread."[^met-scy-rock]
+
+[^met-scy-maiden]: "she repulsed them; and, because she was so much beloved by all the Nereids, she sought these nymphs and used to tell how she escaped from the love-stricken youths" (Metamorphoses 13.740-744, trans. Brookes More)
+[^met-scy-glaucus]: "doubtful whether he might be a god or monster, wondered at his flowing hair which covered his broad shoulders and his back — and marvelled at the color of his skin and at his waist merged into a twisted fish" (Metamorphoses 13.910-914, trans. Brookes More)
+[^met-scy-rejected]: "provoked at his repulse — enraged, he hastened to the marvellous court of Circe, well known daughter of the Sun" (Metamorphoses 13.966-968, trans. Brookes More)
+[^met-scy-circe]: "The trees will sooner grow in ocean waves, the sea-weed sooner grow on mountain tops, than I shall change my love for graceful Scylla" (Metamorphoses 14.37-39, trans. Brookes More)
+[^met-scy-poison]: "She sprinkled juices over it, distilled from an obnoxious root, and thrice times nine she muttered over it with magic lips, her most mysterious charm involved in words of strangest import and of dubious thought" (Metamorphoses 14.56-62, trans. Brookes More)
+[^met-scy-transform]: "Scylla came there and waded in waist deep, then saw her loins defiled with barking shapes. Believing they could be no part of her, she ran and tried to drive them back and feared the boisterous canine jaws. But what she fled she carried with her... She rises from a rage of dogs, and shaggy backs encircle her shortened loins" (Metamorphoses 14.59-70, trans. Brookes More)
+[^met-scy-rock]: "she would have wrecked the Trojan ships, if she had not been changed beforehand to a rock which to this day reveals a craggy rim. And even the rock awakes the sailors' dread" (Metamorphoses 14.72-74, trans. Brookes More)
+
 ## Variant Parentage (Great Eoiae)
 
 The Great Eoiae preserves a strikingly different parentage: "in the Great Eoiae Scylla is the daughter of Phoebus and Hecate."[^ge-parentage] This would make her the offspring of [Apollo](../deities/apollo.md) and [Hecate](../deities/hecate.md) — a child of the sun-god and the goddess of crossroads and sorcery — rather than the daughter of the obscure Crataiis named in the [Odyssey](../sources/odyssey.md).
@@ -61,6 +91,9 @@ The Great Eoiae preserves a strikingly different parentage: "in the Great Eoiae 
 
 - **Great Eoiae** Fragment 13: Variant parentage — daughter of [Apollo](../deities/apollo.md) and [Hecate](../deities/hecate.md)
 - **[Odyssey](../sources/odyssey.md)** XII: [Circe](../deities/circe.md)'s warning describing Scylla's form (twelve feet, six heads, three rows of teeth), her immortality, and her mother Crataiis; the paired threat of Charybdis ("thrice a day she sucks it down"); Scylla snatches six men (the fishing simile; "the most pitiful thing... mine eyes have seen"); Odysseus's return to Charybdis, clinging to the fig-tree "like a bat"
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.730-749: A maiden courted by many suitors; beloved of the Nereids; confided in Galatea
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.898-968: Glaucus (newly transformed sea-god) pursued her; she fled to a mountaintop; he told his story; rejected, he went to Circe
+- **[Metamorphoses](../sources/metamorphoses.md)** 14.1-74: Circe poisoned her bathing pool with herbs and Hecate's incantations; waded in waist-deep; loins transformed with barking dog-shapes; "Cerberian jaws" instead of legs; Glaucus wept; for hate of Circe she attacked Odysseus's men; eventually changed to rock
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: The Argo passed through the strait of Scylla and the Wandering Rocks — "[Thetis](../deities/thetis.md) with the Nereids steered the ship through them at the summons of [Hera](../deities/hera.md)"[^apd-argo]
 
 [^apd-argo]: "the ship encountered Charybdis and Scylla and the Wandering Rocks, above which a great flame and smoke were seen rising. But Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)

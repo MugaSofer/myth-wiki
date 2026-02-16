@@ -110,6 +110,42 @@ As they depart, Circe sends them on their way with a favorable wind: "in the wak
 [^od-teiresias]: "first must ye perform another journey, and reach the dwelling of Hades and of dread Persephone, to seek to the spirit of Theban Teiresias, the blind soothsayer, whose wits abide steadfast. To him Persephone hath given judgment, even in death, that he alone should have understanding; but the other souls sweep shadow-like around" (Odyssey X.5809-5818, trans. Butcher and Lang)
 [^od-geography]: "when thou hast now sailed in thy ship across the stream Oceanus, where is a waste shore and the groves of Persephone, even tall poplar trees and willows that shed their fruit before the season... Thereby into Acheron flows Pyriphlegethon, and Cocytus, a branch of the water of the Styx" (Odyssey X.5835-5854, trans. Butcher and Lang)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Transformation of Scylla (13.898-14.74)
+
+The sea-god Glaucus came to Circe seeking a love charm to win [Scylla](../creatures/scylla.md). Circe's "halls" were "filled with men in guise of animals." When Glaucus asked for her help, Circe propositioned him instead: "I am a goddess, and I am the daughter also, of the radiant Sun! And I who am so potent with my charms, and I who am so potent with my herbs, wish only to be yours."[^met-cir-offer]
+
+But Glaucus refused: "The trees will sooner grow in ocean waves, the sea-weed sooner grow on mountain tops, than I shall change my love for graceful Scylla." Circe "could not and would not injure him, whom she still loved, but turned her wrath upon the one preferred."[^met-cir-jealousy]
+
+She prepared herbs "most infamous for horrid juices," mixed with "incantations given by [Hecate](hecate.md)," then "clothed in azure vestments, she passed through her troop of fawning savage animals." Walking dry-shod across the surface of the sea, she poisoned Scylla's bathing pool, transforming the maiden into the dog-girt monster.[^met-cir-poison]
+
+### Macareus's Account of Odysseus and Circe (14.223-313)
+
+The [Metamorphoses](../sources/metamorphoses.md) retells the Circe-[Odysseus](../heroes/odysseus.md) story through Macareus, one of Odysseus's crew, who encounters Aeneas at Cumae. In this version, Circe sat on her throne "clad richly in a shining purple robe, and over it she wore a golden veil." Her Nereids and nymphs were "setting potent herbs in proper order and arranging them in baskets — a confusing wealth of flowers were scattered among leaves of every hue." She personally examined "every herb as it was weighed," knowing "the natural use of every leaf and combinations of their virtues."[^met-cir-throne]
+
+The transformation is described from the victim's perspective: "stiff bristles quickly grew out over me, and I could speak no more. Instead of words I uttered hoarse murmurs and towards the ground began to bend and gaze with all my face. I felt my mouth take on a hardened skin with a long crooked snout."[^met-cir-swine]
+
+Odysseus resisted her by [Hermes](hermes.md)' gift of moly — "a white flower from a black root" — and "with his quick drawn sword" drove her back. After the restoration, the men "raise ourselves erect, the bristles fall off and the fissures leave our cloven feet, our shoulders overcome their lost shape and our arms become attached."[^met-cir-restore]
+
+### Picus and Canens (14.320-415)
+
+During the year at Aia, one of Circe's handmaids showed Macareus a marble statue of a youth with a woodpecker on his head. The handmaid told the story: Picus, king of Ausonia and "offspring of Saturn," was a youth of extraordinary beauty — "dryads born on Latin hills, Naiads would pine for him." But he loved only Canens, a nymph whose singing voice "would move the woods and rocks and tame wild beasts, and stay long rivers."[^met-cir-picus]
+
+Circe spotted Picus hunting in Laurentian fields. She created an illusory boar to lure him from his guards into the forest, then confessed her desire. When Picus rejected her for Canens, Circe "struck with her magic wand" and transformed him into a woodpecker — "his purple cloak became bright plumage, and the golden brooch... became bright feathers."[^met-cir-woodpecker]
+
+When Picus's companions threatened Circe, she sprinkled them with poisonous herbs and "called on Night and on the gods of Night," transforming them into various beasts. Canens, searching desperately for Picus, wasted away with grief and "melted and vanished slowly in thin air."[^met-cir-canens]
+
+[^met-cir-offer]: "I am a goddess, and I am the daughter also, of the radiant Sun! And I who am so potent with my charms, and I who am so potent with my herbs, wish only to be yours" (Metamorphoses 14.33-36, trans. Brookes More)
+[^met-cir-jealousy]: "The trees will sooner grow in ocean waves, the sea-weed sooner grow on mountain tops, than I shall change my love for graceful Scylla" (Metamorphoses 14.37-39, trans. Brookes More)
+[^met-cir-poison]: "clothed in azure vestments, she passed through her troop of fawning savage animals, and issued from the center of her hall" (Metamorphoses 14.43-45, trans. Brookes More)
+[^met-cir-throne]: "in a beautiful recess, sat on her throne, clad richly in a shining purple robe, and over it she wore a golden veil. Nereids and nymphs, who never carded fleece... were setting potent herbs in proper order and arranging them in baskets" (Metamorphoses 14.261-268, trans. Brookes More)
+[^met-cir-swine]: "stiff bristles quickly grew out over me, and I could speak no more. Instead of words I uttered hoarse murmurs and towards the ground began to bend and gaze with all my face. I felt my mouth take on a hardened skin with a long crooked snout" (Metamorphoses 14.276-281, trans. Brookes More)
+[^met-cir-restore]: "more and yet more we raise ourselves erect, the bristles fall off and the fissures leave our cloven feet, our shoulders overcome their lost shape and our arms become attached" (Metamorphoses 14.305-309, trans. Brookes More)
+[^met-cir-picus]: "His good looks had charmed the dryads born on Latin hills, Naiads would pine for him... The fascination of her voice would move the woods and rocks and tame wild beasts, and stay long rivers" (Metamorphoses 14.339-358, trans. Brookes More)
+[^met-cir-woodpecker]: Circe transformed Picus into a woodpecker — "his purple cloak became bright plumage" (Metamorphoses 14.386-396, trans. Brookes More)
+[^met-cir-canens]: Canens wasted away searching for Picus and "melted and vanished slowly in thin air" (Metamorphoses 14.426-434, trans. Brookes More)
+
 ## Parentage
 
 "Perseis, the daughter of Ocean, bare to unwearying Helios Circe and Aeetes the king."[^theog-parentage]
@@ -130,6 +166,9 @@ According to the [Telegony](../sources/epic-cycle.md) (attributed to Eugammon), 
 - **[Odyssey](../sources/odyssey.md)** X: Major role — island of Aia; enchanted beasts; transformation of crew into swine; Hermes gives Odysseus moly; recognises Odysseus; restores the men; a year of feasting; instructions for the Nekuia and the geography of the underworld
 - **[Odyssey](../sources/odyssey.md)** XII: Returns after the Nekuia; greets the crew as "men overbold"; delivers prophecies about the Sirens, Scylla, Charybdis, and the cattle of [Helius](helius.md); sends a favouring wind
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Makes Telemachus, Penelope, and Telegonus immortal; variant tradition of marriage to Telemachus
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.898-14.74: Glaucus came seeking love charm for Scylla; Circe offered herself; rejected; "clothed in azure vestments" walked across the sea; poisoned Scylla's pool with herbs and Hecate's incantations; transformed Scylla into dog-girt monster
+- **[Metamorphoses](../sources/metamorphoses.md)** 14.223-313: Retold through Macareus; on purple-robed throne with golden veil; nymphs sorting herbs; examined every leaf; transformed crew to swine (first-person account); Odysseus with moly and sword; restoration
+- **[Metamorphoses](../sources/metamorphoses.md)** 14.320-434: Picus story (told by handmaid); saw him hunting in Laurentian fields; created illusory boar; confessed desire; rejected; transformed Picus to woodpecker; transformed his companions to beasts; Canens wasted away
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.1: Sister of Aeetes and Pasiphae; daughter of [Helius](helius.md) and Perseis[^apd-sister]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.24: Purified the Argonauts of the murder of Apsyrtus at Aeaea — "they skirted Tyrrhenia and came to Aeaea, where they supplicated Circe and were purified"[^apd-purify]
 
