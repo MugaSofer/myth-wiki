@@ -73,6 +73,64 @@ Finally, "Medea came unknown to Colchis, and finding that Aeetes had been depose
 [^apd-athens]: "Medea came to Athens, and being there married to Aegeus bore him a son Medus. Afterwards, however, plotting against Theseus, she was driven a fugitive from Athens with her son. But he conquered many barbarians and called the whole country under him Media" (Bibliotheca 1.9.28, trans. Frazer)
 [^apd-colchis]: "Medea came unknown to Colchis, and finding that Aeetes had been deposed by his brother Perses, she killed Perses and restored the kingdom to her father" (Bibliotheca 1.9.28, trans. Frazer)
 
+## In the Fabulae
+
+### Helping Jason (§22)
+
+The Fabulae attributes Medea's love to divine intervention: "[Juno](../deities/hera.md), however, wished to save [Jason](jason.md), because once when she had come to a river and wished to test the minds of men, she assumed an old woman's form, and asked to be carried across. He had carried her across when others who had passed over despised her. And so since she knew that Jason could not perform the commands without help of Medea, she asked [Venus](../deities/aphrodite.md) to inspire Medea with love."[^hyg22-love]
+
+After Jason completed the tasks, "When the dragon was lulled to sleep with drugs he took the fleece from the shrine, and set off for his country with Medea."[^hyg22-fleece]
+
+[^hyg22-love]: "Juno, however, wished to save Jason, because once when she had come to a river and wished to test the minds of men, she assumed an old woman's form, and asked to be carried across. He had carried her across when others who had passed over despised her. And so since she knew that Jason could not perform the commands without help of Medea, she asked Venus to inspire Medea with love. At Venus' instigation, Jason was loved by Medea" (Fabulae §22, trans. Mary Grant)
+[^hyg22-fleece]: "When the dragon was lulled to sleep with drugs he took the fleece from the shrine, and set off for his country with Medea" (Fabulae §22, trans. Mary Grant)
+
+### Absyrtus (§23)
+
+Hyginus names her brother as "Absyrtus" and locates the pursuit at "the Adriatic Sea in Histria at King Alcinous' court."[^hyg23-location] The arbitration differs from other accounts: "When he [Absyrtus] had caught up with her in the Adriatic Sea in Histria at King Alcinous' court, and would fight for her, Alcinous intervened to prevent their fighting. They took him as arbiter, and he put them off till the next day."[^hyg23-arbiter]
+
+Arete warned [Jason](jason.md) of her husband's planned judgment: "When Arete asked him what judgment he would give, Alcinous replied that if Medea were a virgin, he would give her to her father, but if not, to her husband. When Arete heard this from her husband, she sent word to Jason, and he lay with Medea by night in a cave."[^hyg23-arete] After the judgment favored Jason, "Absyrtus, fearing his father's commands, pursued them to the island of [Minerva](../deities/athena.md). When Jason was sacrificing there to Minerva, and Absyrtus came upon him, he was killed by Jason."[^hyg23-death]
+
+[^hyg23-location]: "When Aeetes knew that Medea had fled with Jason, he made ready a ship and sent Absyrtus, his son, with armed guards after her. When he had caught up with her in the Adriatic Sea in Histria at King Alcinous' court" (Fabulae §23, trans. Mary Grant)
+[^hyg23-arbiter]: "and would fight for her, Alcinous intervened to prevent their fighting. They took him as arbiter, and he put them off till the next day" (Fabulae §23, trans. Mary Grant)
+[^hyg23-arete]: "When Arete asked him what judgment he would give, Alcinous replied that if Medea were a virgin, he would give her to her father, but if not, to her husband. When Arete heard this from her husband, she sent word to Jason, and he lay with Medea by night in a cave" (Fabulae §23, trans. Mary Grant)
+[^hyg23-death]: "Nevertheless, when they had left, Absyrtus, fearing his father's commands, pursued them to the island of Minerva. When Jason was sacrificing there to Minerva, and Absyrtus came upon him, he was killed by Jason. Medea gave him burial" (Fabulae §23, trans. Mary Grant)
+
+### The Daughters of Pelias (§24-25)
+
+Medea's revenge on Pelias is described with the detail that she disguised herself "in the guise of a priestess of [Diana](../deities/artemis.md)" and promised to rejuvenate Pelias.[^hyg24-priestess] She demonstrated with "an old ram in a brazen vessel, from which a very fine young lamb seemed to spring."[^hyg24-demonstration]
+
+The daughters are named: "Alcestis, Pelopia, Medusa, Pisidice, and Hippothoe."[^hyg24-daughters] After they killed their father, Jason "handed over the rule to Acastus, son of Pelias, brother of the Peliades, because he had gone with him to Colchis. He himself with Medea departed for Corinth."[^hyg24-corinth]
+
+At Corinth, the Fabulae names their sons as "Mermerus and Pheres" and explains Jason's remarriage: "it was cast in his teeth that a man so brave and handsome and noble should have as wife a foreigner and sorceress. To him, Creon, son of Menoeceus, King of Corinth, gave his younger daughter Glauce as wife."[^hyg25-glauce] Medea's revenge was swift: "she made a golden crown, and she bade her sons give it as a gift to their stepmother. Creusa took the gift, and was burned to death along with Jason and Creon."[^hyg25-crown] This account uniquely claims Jason himself died in the fire, contradicting other traditions. "When Medea saw that the palace was on fire, she slew Mermerus and Pheres, her sons by Jason, and fled from Corinth."[^hyg25-infanticide]
+
+[^hyg24-priestess]: "And so, when they were now far from Colchis, she bade the ship be hidden in a secret place, and she herself in the guise of a priestess of Diana came to the daughters of Pelias" (Fabulae §24, trans. Mary Grant)
+[^hyg24-demonstration]: "In order more easily to bend her to her will, Medea cast mist before them, and by means of drugs formed many strange things which seemed to be like reality, putting an old ram in a brazen vessel, from which a very fine young lamb seemed to spring" (Fabulae §24, trans. Mary Grant)
+[^hyg24-daughters]: "So in the same way the daughters of Pelias — namely, Alcestis, Pelopia, Medusa, Pisidice, and Hippothoe — at Medea's instigation slew their father and cooked him in a brazen caldron" (Fabulae §24, trans. Mary Grant)
+[^hyg24-corinth]: "But Jason, at a given signal of Medea, made himself the master of the palace, and handed over the rule to Acastus, son of Pelias, brother of the Peliades, because he had gone with him to Colchis. He himself with Medea departed for Corinth" (Fabulae §24, trans. Mary Grant)
+[^hyg25-glauce]: "When Medea, daughter of Aeetes and Idyia, had already borne to Jason sons — Mermerus and Pheres — and they were living in great harmony, it was cast in his teeth that a man so brave and handsome and noble should have as wife a foreigner and sorceress. To him, Creon, son of Menoeceus, King of Corinth, gave his younger daughter Glauce as wife" (Fabulae §25, trans. Mary Grant)
+[^hyg25-crown]: "When Medea saw that she, who had been Jason's benefactress, was treated with scorn, with the help of poisonous drugs she made a golden crown, and she bade her sons give it as a gift to their stepmother. Creusa took the gift, and was burned to death along with Jason and Creon" (Fabulae §25, trans. Mary Grant)
+[^hyg25-infanticide]: "When Medea saw that the palace was on fire, she slew Mermerus and Pheres, her sons by Jason, and fled from Corinth" (Fabulae §25, trans. Mary Grant)
+
+### Exile to Athens (§26)
+
+The Fabulae gives a different reason for Medea's exile from Athens: "Medea, an exile from Corinth, came to Athens to the hospitality of Aegeus, son of Pandion, and married him; to him Medus was born. Later the priestess of [Diana](../deities/artemis.md) began to censure Medea, and tell the king that she could not perform sacrifices piously because there was a woman in that state who was a sorceress and criminal. She was exiled then for the second time."[^hyg26-exile]
+
+On her journey back to Colchis, she stopped "at Absoros where her brother Absyrtus was buried. There the people of Absoros could not cope with a great number of snakes. At their entreaties Medea gathered them up and put them in her brother's tomb. They still remain there, and if any goes outside the tomb, it pays the debt to nature."[^hyg26-snakes]
+
+[^hyg26-exile]: "Medea, an exile from Corinth, came to Athens to the hospitality of Aegeus, son of Pandion, and married him; to him Medus was born. Later the priestess of Diana began to censure Medea, and tell the king that she could not perform sacrifices piously because there was a woman in that state who was a sorceress and criminal. She was exiled then for the second time" (Fabulae §26, trans. Mary Grant)
+[^hyg26-snakes]: "Medea, however, with her yoked dragons, returned to Colchis from Athens. On the way she came to Absoros where her brother Absyrtus was buried. There the people of Absoros could not cope with a great number of snakes. At their entreaties Medea gathered them up and put them in her brother's tomb. They still remain there, and if any goes outside the tomb, it pays the debt to nature" (Fabulae §26, trans. Mary Grant)
+
+### Medus (§27)
+
+The story of Medus in Colchis involves elaborate deception. When Medus was brought by storm to King Perses (who had an oracle warning "to beware of death from Aeetes' descendants"), he "falsely asserted he was Hippotes, son of Creon."[^hyg27-false] Medea arrived separately "in her chariot with the yoked dragons" claiming to be "a priestess of [Diana](../deities/artemis.md)."[^hyg27-priestess]
+
+Not recognizing her own son, she "persuaded the king that he was not Hippotes, but Medus, son of Aegeus, sent by his father to dispatch the king, and begged that he be handed over to her to kill, convinced that he was Hippotes."[^hyg27-mistake] When she discovered the truth, "she gave him a sword, and bade him avenge the wrongs of his grandfather. Medus, at this news, killed Perses, and gained his grandfather's kingdom; from his name he called the country Media."[^hyg27-revenge]
+
+[^hyg27-false]: "Medus, following his mother, was brought to him by a storm, and guards seized him and brought him to King Perses. When Medus, son of Aegeus and Medea, saw that he had come into the power of his enemy, he falsely asserted he was Hippotes, son of Creon" (Fabulae §27, trans. Mary Grant)
+[^hyg27-priestess]: "When Medea had come there in her chariot with the yoked dragons, she falsely claimed before the king to be a priestess of Diana. She said she could make atonement for the sterility" (Fabulae §27, trans. Mary Grant)
+[^hyg27-mistake]: "And so when Medus was brought out to pay for his deceit by death, when she saw that things were otherwise than she had thought, she said she wished to talk with him, and gave him a sword, and bade him avenge the wrongs of his grandfather" (Fabulae §27, trans. Mary Grant)
+[^hyg27-revenge]: "Medus, at this news, killed Perses, and gained his grandfather's kingdom; from his name he called the country Media" (Fabulae §27, trans. Mary Grant)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: "A witch, daughter of Aeetes and Idyia"; conceived a passion for [Jason](jason.md); gave him a drug against fire and iron; lulled the dragon to sleep; won the Golden Fleece
@@ -81,3 +139,9 @@ Finally, "Medea came unknown to Colchis, and finding that Aeetes had been depose
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.26: Defeated Talos on Crete by wiles (drugs or drawing out the nail); twelve handmaids (gift of Arete) jested at the sacrifice on Anaphe
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.27: Devised the death of Pelias — persuaded his daughters to cut him up and boil him, demonstrating with a ram made into a lamb
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.28: Sent a poisoned robe to Glauce; killed her own children Mermerus and Pheres (variant: left them as suppliants on Hera's altar, Corinthians killed them); fled to Athens on [Helius](../deities/helius.md)'s dragon chariot; married Aegeus; bore Medus; plotted against Theseus; returned to Colchis; killed Perses; restored the kingdom to Aeetes
+- **[Fabulae](../sources/hyginus.md)** §22: Love inspired by [Venus](../deities/aphrodite.md) at [Juno](../deities/hera.md)'s request; aids Jason with drugs against the dragon
+- **[Fabulae](../sources/hyginus.md)** §23: Brother named Absyrtus; pursued to Histria; Alcinous arbitrates; Arete warns Jason; he lies with Medea in a cave to forestall judgment; Absyrtus pursues to island of [Minerva](../deities/athena.md); killed by Jason; Medea buries him
+- **[Fabulae](../sources/hyginus.md)** §24: Disguised as priestess of [Diana](../deities/artemis.md); demonstrates rejuvenation with ram-to-lamb transformation; daughters Alcestis, Pelopia, Medusa, Pisidice, Hippothoe kill Pelias; Jason gives kingdom to Acastus
+- **[Fabulae](../sources/hyginus.md)** §25: At Corinth with sons Mermerus and Pheres; Jason taunted for having foreign sorceress wife; Creon gives daughter Glauce to Jason; Medea sends poisoned golden crown; Creusa/Glauce, Jason, and Creon all burned (variant account); Medea kills her sons
+- **[Fabulae](../sources/hyginus.md)** §26: Exiled from Athens by priestess of [Diana](../deities/artemis.md)'s censure; travels to Colchis; stops at Absoros; gathers snakes into Absyrtus's tomb
+- **[Fabulae](../sources/hyginus.md)** §27: Medus claims to be Hippotes; Medea arrives as priestess claiming to cure sterility; nearly kills her own son unknowingly; recognizes him; gives him sword; Medus kills Perses; gains kingdom; names country Media

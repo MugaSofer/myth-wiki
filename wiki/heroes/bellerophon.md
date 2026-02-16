@@ -113,6 +113,36 @@ Unlike the Iliad, Apollodorus's account ends here -- there is no mention of Bell
 [^apd-bel-quests]: "when he had killed them also, he picked out the reputed bravest of the Lycians and bade them lay an ambush and slay him. But when Bellerophon had killed them also to a man" (Bibliotheca 2.3.2)
 [^apd-bel-reward]: "Iobates, in admiration of his prowess, showed him the letter and begged him to stay with him; moreover he gave him his daughter Philonoe, and dying bequeathed to him the kingdom" (Bibliotheca 2.3.2)
 
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) gives a compact account with one significant variant detail about Bellerophon's end.
+
+### Stheneboea's Accusation (§57)
+
+"When Bellerophon had come as an exile to the court of King Proetus, Stheneboea, the King's wife, fell in love with him. On his refusal to lie with her, she falsely told her husband she had been forced by him."[^hyg-57-accusation] The Fabulae uses the name Stheneboea (like Apollodorus and the tragedians) rather than the Iliad's Anteia.
+
+"Proetus, hearing this, wrote a letter about it, and sent him to Iobates, Stheneboea's father."[^hyg-57-letter] This makes Iobates Stheneboea's father rather than Proetus's father-in-law, differing from the usual tradition.
+
+### The Chimaera
+
+"After reading the letter, Iobates was reluctant to kill such a hero, but sent him to kill the Chimaera, a three-formed creature said to breathe forth fire. [Likewise: forepart lion, rearpart snake, middle she-goat.] This he slew, riding on Pegasus."[^hyg-57-chimaera]
+
+### The Fall in the Aleian Plain
+
+The Fabulae provides a detail about Bellerophon's downfall absent from other sources: "he is said to have fallen in the Aleian plains and have dislocated his hip."[^hyg-57-fall] This gives a physical explanation for his wandering — an injury sustained from a fall (presumably from Pegasus).
+
+### Stheneboea's Suicide
+
+Unlike the Iliad (which doesn't mention Stheneboea's fate) or Apollodorus, the Fabulae adds: "But the king, praising his valor, gave him his other daughter in marriage, and Stheneboea, hearing of it, killed herself."[^hyg-57-suicide]
+
+> **NEW DETAIL:** Stheneboea's suicide upon hearing of Bellerophon's marriage is unique to the Fabulae. The dislocated hip from a fall in the Aleian plain is also distinctive, providing a physical cause for the wandering that the Iliad presents as purely divine rejection.
+
+[^hyg-57-accusation]: "When Bellerophon had come as an exile to the court of King Proetus, Stheneboea, the King's wife, fell in love with him. On his refusal to lie with her, she falsely told her husband she had been forced by him" (Fabulae §57, trans. Mary Grant)
+[^hyg-57-letter]: "Proetus, hearing this, wrote a letter about it, and sent him to Iobates, Stheneboea's father" (Fabulae §57, trans. Mary Grant)
+[^hyg-57-chimaera]: "After reading the letter, Iobates was reluctant to kill such a hero, but sent him to kill the Chimaera, a three-formed creature said to breathe forth fire. [Likewise: forepart lion, rearpart snake, middle she-goat.] This he slew, riding on Pegasus" (Fabulae §57, trans. Mary Grant)
+[^hyg-57-fall]: "he is said to have fallen in the Aleian plains and have dislocated his hip" (Fabulae §57, trans. Mary Grant)
+[^hyg-57-suicide]: "the king, praising his valor, gave him his other daughter in marriage, and Stheneboea, hearing of it, killed herself" (Fabulae §57, trans. Mary Grant)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 325: "Her did Pegasus and noble Bellerophon slay" (the Chimaera)
@@ -121,6 +151,7 @@ Unlike the Iliad, Apollodorus's account ends here -- there is no mention of Bell
 - **[Iliad](../sources/iliad.md)** VI: Full story told by Glaukos — son of Glaukos son of Sisyphos; Proitos and Anteia's false accusation; the deadly tokens; slaying the [Chimaera](../creatures/chimaera.md); fighting the Solymi and the Amazons; defeating the ambush; marriage and kingdom in Lykia; children (Isandros, Hippolochos, Laodameia); Laodameia bore Sarpedon to [Zeus](../deities/zeus.md); wandering alone "devouring his own soul"; children slain by [Ares](../deities/ares.md) and [Artemis](../deities/artemis.md); guest-friendship with Oineus
 - **[Bibliotheca](../sources/apollodorus.md)** 2.3.1: Son of Glaucus son of Sisyphus; accidentally killed brother (Deliades/Piren/Alcimenes); purified by Proetus; Stheneboea's false accusation; letter to Iobates; Chimaera described
 - **[Bibliotheca](../sources/apollodorus.md)** 2.3.2: Slew Chimaera from [Pegasus](../creatures/pegasus.md)'s back; fought Solymi and Amazons; survived ambush; given daughter Philonoe and the kingdom
+- **[Fabulae](../sources/hyginus.md)** §57: Came as exile to Proetus; Stheneboea's false accusation; Iobates (called Stheneboea's father); reluctant to kill "such a hero"; sent to slay Chimaera riding Pegasus; fell in Aleian plains and dislocated hip; given "other daughter" in marriage; Stheneboea killed herself hearing of the marriage
 
 [^il6-lineage]: "There is a city Ephyre in the heart of Argos, pasture land of horses, and there dwelt Sisyphos that was craftiest of men, Sisyphos son of Aiolos; and he begat a son, even Glaukos, and Glaukos begat noble Bellerophon" (Iliad VI.3600-3603, trans. Lang, Leaf, and Myers)
 [^hes-parentage]: "So she lay in the arms of Poseidon and bare in the house of Glaucus blameless Bellerophon, surpassing all men" (Hesiodic Catalogue of Women, Fragment 7, trans. H.G. Evelyn-White)

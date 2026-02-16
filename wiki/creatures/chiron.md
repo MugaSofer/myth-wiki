@@ -104,6 +104,26 @@ The resolution came through an exchange: "Prometheus offered himself to Zeus to 
 [^apd-prometheus]: "Prometheus offered himself to Zeus to be immortal in his stead, and so Chiron died" (Bibliotheca 2.5.4, trans. Frazer)
 [^apd-death2]: "to Zeus he presented Chiron, who, though immortal, consented to die in his stead" (Bibliotheca 2.5.11, trans. Frazer)
 
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) provides details about Chiron's birth and the aftermath for his mother Philyra.
+
+### The Horse-Form Birth
+
+"When Saturn was hunting Jove throughout the earth, assuming the form of a steed he lay with Philyra, daughter of Ocean."[^hyg-138-conception] This confirms the horse-form tradition but adds specific context — [Cronos](../deities/cronos.md) (Saturn) was pursuing [Zeus](../deities/zeus.md) (Jove) at the time.
+
+"By him she bore Chiron the Centaur, who is said to have been the first to invent the art of healing."[^hyg-138-birth] The Fabulae credits Chiron with inventing medicine itself, making him not just a teacher but the originator of the medical art.
+
+### Philyra's Transformation
+
+A unique detail: "After Philyra saw that she had borne a strange species, she asked Jove to change her into another form, and she was transformed into the tree which is called the linden."[^hyg-138-linden] This explains the mother's fate — horrified by giving birth to a centaur, she begged to become a tree.
+
+> **NEW DETAIL:** Philyra's transformation into a linden tree is found only in the Fabulae among these sources. The transformation is explicitly caused by her distress at bearing a "strange species."
+
+[^hyg-138-conception]: "When Saturn was hunting Jove throughout the earth, assuming the form of a steed he lay with Philyra, daughter of Ocean" (Fabulae §138, trans. Mary Grant)
+[^hyg-138-birth]: "By him she bore Chiron the Centaur, who is said to have been the first to invent the art of healing" (Fabulae §138, trans. Mary Grant)
+[^hyg-138-linden]: "After Philyra saw that she had borne a strange species, she asked Jove to change her into another form, and she was transformed into the tree which is called the linden" (Fabulae §138, trans. Mary Grant)
+
 ## Appearances
 
 - **[Epic Cycle](../sources/epic-cycle.md)** (War of the Titans, Fragment 6): Origin — Cronos as horse with Philyra; Chariclo his wife
@@ -120,3 +140,4 @@ The resolution came through an exchange: "Prometheus offered himself to Zeus to 
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.5: Advised Peleus on capturing [Thetis](../deities/thetis.md); gave ashen spear at wedding
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.6: Raised Achilles; fed him on lion, boar, and bear; named him Achilles
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.8: Restored Phoenix's sight
+- **[Fabulae](../sources/hyginus.md)** §138: Saturn in horse-form lay with Philyra while hunting Jove; bore Chiron; "first to invent the art of healing"; Philyra horrified at "strange species," transformed into linden tree

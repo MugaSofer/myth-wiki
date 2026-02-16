@@ -51,6 +51,20 @@ The Catalogue preserves the speech of the people who witnessed Peleus's good for
 
 [^cat-peleus-praise]: "Thrice, yea, four times blessed son of Aeacus, happy Peleus! For far-seeing Olympian Zeus has given you a wife with many gifts and the blessed gods have brought your marriage fully to pass, and in these halls you go up to the holy bed of a daughter of Nereus" (Catalogue of Women, Fragment 58, trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### The Prophecy and Marriage to Thetis (§54)
+
+The [Fabulae](../sources/hyginus.md) preserves the crucial prophecy about [Thetis](../deities/thetis.md) and her son: "A prediction about Thetis, the Nereid, was that her son would be greater than his father."[^hyg-prophecy] Only [Prometheus](../titans/prometheus.md) knew this secret, and when [Zeus](../deities/zeus.md) wished to lie with Thetis, Prometheus struck a bargain: "Prometheus promised [Zeus](../deities/zeus.md) that he would give him timely warning if he would free him from his chains."[^hyg-bargain]
+
+The warning was stark: "he advised [Zeus](../deities/zeus.md) not to lie with Thetis, for if one greater than he were born he might drive [Zeus](../deities/zeus.md) from his kingdom, as he himself had done to Saturn."[^hyg-warning] Thus Thetis avoided Zeus and was "given in marriage to Peleus, son of Aeacus."[^hyg-marriage] As part of this exchange, "[Heracles](heracles.md) was sent to kill the eagle which was eating out Prometheus' heart. When it was killed, Prometheus after thirty thousand years was freed from Mount Caucasus."[^hyg-prometheus]
+
+[^hyg-prophecy]: "A prediction about Thetis, the Nereid, was that her son would be greater than his father" (Fabulae §54, trans. Mary Grant)
+[^hyg-bargain]: "Prometheus promised Jove that he would give him timely warning if he would free him from his chains" (Fabulae §54, trans. Mary Grant)
+[^hyg-warning]: "he advised Jove not to lie with Thetis, for if one greater than he were born he might drive Jove from his kingdom, as he himself had done to Saturn" (Fabulae §54, trans. Mary Grant)
+[^hyg-marriage]: "Thetis was given in marriage to Peleus, son of Aeacus" (Fabulae §54, trans. Mary Grant)
+[^hyg-prometheus]: "Hercules was sent to kill the eagle which was eating out Prometheus' heart. When it was killed, Prometheus after thirty thousand years was freed from Mount Caucasus" (Fabulae §54, trans. Mary Grant)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 53: Origin of the Myrmidons — [Zeus](../deities/zeus.md) turned ants into men for Aeacus (Peleus's father); first seafarers
@@ -65,6 +79,7 @@ The Catalogue preserves the speech of the people who witnessed Peleus's good for
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.6: Interrupts Thetis's fire immortality attempt; brings Achilles to Chiron
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.7: Takes revenge on Acastus and Astydamia
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.13: "Peleus was expelled from Phthia by the sons of Acastus and died"
+- **[Fabulae](../sources/hyginus.md)** §54: Thetis prophecy — "her son would be greater than his father"; Prometheus's bargain with Zeus; marriage to Peleus; Heracles frees Prometheus
 
 [^apd-exile]: "As Phocus excelled in athletic sports, his brothers Peleus and Telamon plotted against him, and the lot falling on Telamon, he killed his brother in a match by throwing a quoit at his head, and with the help of Peleus carried the body and hid it in a wood" (Bibliotheca 3.12.6, trans. J.G. Frazer)
 [^apd-phthia]: "Peleus fled to Phthia to the court of Eurytion, son of Actor, and was purified by him, and he received from him his daughter Antigone and the third part of the country" (Bibliotheca 3.13.1, trans. J.G. Frazer)

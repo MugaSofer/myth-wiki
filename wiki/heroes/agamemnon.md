@@ -34,6 +34,33 @@ At Aulis, [Artemis](../deities/artemis.md) demanded the sacrifice of his daughte
 
 His daughter Electra "smuggled away her brother Orestes and gave him to Strophius, the Phocian, to bring up." When grown, Orestes consulted [Apollo](../deities/apollo.md) at Delphi and received permission to avenge his father, killing "both his mother and Aegisthus." Pursued by the [Furies](../creatures/erinyes.md), Orestes "was tried in the Areopagus" and "the votes at his trial being equal he was acquitted."[^apd-orestes]
 
+## In the Fabulae
+
+### Iphigenia at Aulis (§98)
+
+The Fabulae provides a detailed account of the sacrifice at Aulis. The reason for [Diana](../deities/artemis.md)'s anger: "a storm kept them at Aulis because of the anger of Diana. Agamemnon had wounded a deer of hers in hunting, and had spoken rather haughtily against Diana."[^hyg98-anger]
+
+When Calchas declared that only the sacrifice of Iphigenia could expiate the offense, "Agamemnon at first refused. Then [Ulysses](odysseus.md) by his advice won him over to a fine scheme."[^hyg98-ulysses] The deception was elaborate: "The same Ulysses along with Diomede was sent to get Iphigenia, and when he came to Clytemnestra her mother, he falsely said she was to be given in marriage to [Achilles](achilles.md)."[^hyg98-deception]
+
+The substitution: "When she was brought to Aulis, and her father was about to sacrifice her, Diana pitied the girl, cast mist about her, and substituted a deer in her place. She bore Iphigenia through the clouds to the Tauric land, and there made her a priestess of her temple."[^hyg98-substitution]
+
+[^hyg98-anger]: "When Agamemnon with his brother Menelaus and chosen leaders of Asia were going to Troy to recover Helen, wife of Menelaus, whom Alexander Paris had carried off, a storm kept them at Aulis because of the anger of Diana. Agamemnon had wounded a deer of hers in hunting, and had spoken rather haughtily against Diana" (Fabulae §98, trans. Mary Grant)
+[^hyg98-ulysses]: "When he had called together the soothsayers, and Calchas had declared that he could expiate in no other way than by sacrificing his daughter, Iphigenia, Agamemnon at first refused. Then Ulysses by his advice won him over to a fine scheme" (Fabulae §98, trans. Mary Grant)
+[^hyg98-deception]: "The same Ulysses along with Diomede was sent to get Iphigenia, and when he came to Clytemnestra her mother, he falsely said she was to be given in marriage to Achilles" (Fabulae §98, trans. Mary Grant)
+[^hyg98-substitution]: "When she was brought to Aulis, and her father was about to sacrifice her, Diana pitied the girl, cast mist about her, and substituted a deer in her place. She bore Iphigenia through the clouds to the Tauric land, and there made her a priestess of her temple" (Fabulae §98, trans. Mary Grant)
+
+### Clytemnestra's Murder (§117)
+
+Hyginus attributes a different motivation to Clytemnestra's crime. "Clytemnestra, daughter of Tyndareus and wife of Agamemnon, heard from Oiax, brother of Palamedes, that Cassandra was being brought as a concubine to her house, a false statement Oiax made in order to avenge the wrong done to his brother."[^hyg117-oiax]
+
+The murder weapon differs from Apollodorus: "Then Clytemnestra, together with Aegisthus, son of Thyestes, planned to kill Agamemnon and Cassandra. They killed him with an axe as he was sacrificing, and Cassandra, too."[^hyg117-axe]
+
+Electra's rescue of [Orestes](orestes.md) follows: "But Electra, Agamemnon's daughter, rescued her brother, the infant Orestes, and sent him to Strophius in Phocis. Strophius had married Agamemnon's sister, Astyoche."[^hyg117-rescue]
+
+[^hyg117-oiax]: "Clytemnestra, daughter of Tyndareus and wife of Agamemnon, heard from Oiax, brother of Palamedes, that Cassandra was being brought as a concubine to her house, a false statement Oiax made in order to avenge the wrong done to his brother" (Fabulae §117, trans. Mary Grant)
+[^hyg117-axe]: "Then Clytemnestra, together with Aegisthus, son of Thyestes, planned to kill Agamemnon and Cassandra. They killed him with an axe as he was sacrificing, and Cassandra, too" (Fabulae §117, trans. Mary Grant)
+[^hyg117-rescue]: "But Electra, Agamemnon's daughter, rescued her brother, the infant Orestes, and sent him to Strophius in Phocis. Strophius had married Agamemnon's sister, Astyoche" (Fabulae §117, trans. Mary Grant)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I-XXIV: Commander of the Greek army; quarrel with [Achilles](achilles.md) over Briseis; wounded in battle; carries the sceptre wrought by [Hephaestus](../deities/hephaestus.md)
@@ -44,6 +71,8 @@ His daughter Electra "smuggled away her brother Orestes and gave him to Strophiu
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.23: Receives Cassandra as a prize after the fall of Troy
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.23: Murdered at Mycenae — "she gave him a shirt without sleeves and without a neck"
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Leader of the expedition; sacrifice at Aulis
+- **[Fabulae](../sources/hyginus.md)** §98: Storm at Aulis from [Diana](../deities/artemis.md)'s anger; wounded her deer and spoke haughtily; Calchas demands Iphigenia's sacrifice; Agamemnon refuses then agrees; [Ulysses](odysseus.md) and Diomede fetch her with false promise of marriage to [Achilles](achilles.md); Diana substitutes deer and takes Iphigenia to Taurica
+- **[Fabulae](../sources/hyginus.md)** §117: Clytemnestra hears from Oiax (brother of Palamedes) false report about Cassandra; plots with Aegisthus; kills Agamemnon with axe as he sacrifices; kills Cassandra; Electra rescues infant Orestes and sends to Strophius
 
 [^apd-parentage]: "Aerope became the wife of Plisthenes, who begat Agamemnon and Menelaus" (Bibliotheca 3.2.2, trans. J.G. Frazer)
 [^apd-sun]: "Zeus sent Hermes to Atreus and told him to stipulate with Thyestes that Atreus should be king if the sun should go backward; and when Thyestes agreed, the sun set in the east" (Bibliotheca E.2.12, trans. J.G. Frazer)

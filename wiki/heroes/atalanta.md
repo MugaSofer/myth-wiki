@@ -50,6 +50,37 @@ The race itself is vividly told: "she, even fair, swift-footed Atalanta, ran sco
 [^cat-beauty]: "fair Atalanta, swift of foot, the daughter of Schoeneus, who had the beaming eyes of the Graces, though she was ripe for wedlock rejected the company of her equals and sought to avoid marriage with men who eat bread" (Catalogue of Women, Fragment 14, trans. H.G. Evelyn-White)
 [^cat-race]: "she, even fair, swift-footed Atalanta, ran scorning the gifts of golden Aphrodite; but with him the race was for his life, either to find his doom, or to escape it... But he, following lightly on his feet, cast the first apple: and, swiftly as a Harpy, she turned back and snatched it" (Catalogue of Women, Fragment 14, trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### Auge and the Doe-Suckled Child (§99)
+
+The [Fabulae](../sources/hyginus.md) recounts a variant tradition about Atalanta's motherhood. The text describes how "Auge, daughter of Aleus, ravished by [Heracles](../heroes/heracles.md), when her time was near, gave birth to a child on Mount Parthenius, and there exposed him."[^hyg-auge] Remarkably, two exposed children were saved by the same animal: "At the same time Atalanta, daughter of Iasius, exposed a son by Meleager. A doe, however, sucked the child of [Heracles](../heroes/heracles.md)."[^hyg-doe]
+
+The shepherds who found both infants gave them names reflecting their circumstances: "Shepherds found these boys and took them away and reared them, giving the name Telephus to the son of [Heracles](../heroes/heracles.md) because a doe had suckled him, and to Atalanta's child the name Parthenopaeus, because she had exposed him on Mount Parthenius pretending to be virgin."[^hyg-names]
+
+This passage provides a rare variant: Parthenopaeus as son of Atalanta and Meleager (rather than by Melanion or [Ares](../deities/ares.md) as in other sources).
+
+[^hyg-auge]: "Auge, daughter of Aleus, ravished by Hercules, when her time was near, gave birth to a child on Mount Parthenius, and there exposed him" (Fabulae §99, trans. Mary Grant)
+[^hyg-doe]: "At the same time Atalanta, daughter of Iasius, exposed a son by Meleager. A doe, however, sucked the child of Hercules" (Fabulae §99, trans. Mary Grant)
+[^hyg-names]: "Shepherds found these boys and took them away and reared them, giving the name Telephus to the son of Hercules because a doe had suckled him, and to Atalanta's child the name Parthenopaeus, because she had exposed him on Mount Parthenius pretending to be virgin" (Fabulae §99, trans. Mary Grant)
+
+### The Calydonian Hunters (§173)
+
+The Fabulae preserves a catalog of those who hunted the Calydonian Boar, listing Atalanta among an illustrious company of heroes: "Castor and Pollux, sons of Jove. Eurytus son of Mercury... Aesculapius, son of Apollo. Jason, son of Aeson... Peleus, son of Aeacus. Telamon, son of Aeacus... Theseus, son of Aegeus... Meleager, son of Oineus... Atalanta, daughter of Schoeneus."[^hyg-hunters] The list demonstrates Atalanta's participation as the sole woman among Greece's greatest heroes.
+
+[^hyg-hunters]: "Castor and Pollux, sons of Jove. Eurytus son of Mercury... Aesculapius, son of Apollo. Jason, son of Aeson... Peleus, son of Aeacus. Telamon, son of Aeacus... Theseus, son of Aegeus... Meleager, son of Oineus... Atalanta, daughter of Schoeneus" (Fabulae §173, trans. Mary Grant)
+
+### Meleager Awards the Hide (§174)
+
+The Fabulae recounts the aftermath of the hunt and Meleager's fatal decision. After the boar was killed, "Meleager, with the help of chosen youths of Greece, killed it, and gave the hide to the virgin Atalanta because of her valor."[^hyg-hide]
+
+But the uncles objected: "Ideus, Plexippus, Lynceus... brothers of Althaea, wished to take if from her."[^hyg-uncles] When Atalanta "asked the help of Meleager, he intervened, and putting love before family relationship, killed his uncles."[^hyg-meleager] This act triggered the tragic conclusion: Althaea, "remembering the warning of the Parcae, she brought out the brand from the chest and threw it on the fire. Thus, in desiring to avenge the death of her brothers, she killed her son."[^hyg-brand]
+
+[^hyg-hide]: "Meleager, with the help of chosen youths of Greece, killed it, and gave the hide to the virgin Atalanta because of her valor" (Fabulae §174, trans. Mary Grant)
+[^hyg-uncles]: "Ideus, Plexippus, Lynceus... brothers of Althaea, wished to take if from her" (Fabulae §174, trans. Mary Grant)
+[^hyg-meleager]: "When she asked the help of Meleager, he intervened, and putting love before family relationship, killed his uncles" (Fabulae §174, trans. Mary Grant)
+[^hyg-brand]: "When Althaea, the mother, heard that her son had dared to commit such a crime, remembering the warning of the Parcae, she brought out the brand from the chest and threw it on the fire. Thus, in desiring to avenge the death of her brothers, she killed her son" (Fabulae §174, trans. Mary Grant)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 14: Full footrace with Hippomenes; "the beaming eyes of the Graces"; golden apples of [Aphrodite](../deities/aphrodite.md); snatches them "swiftly as a Harpy"
@@ -58,6 +89,9 @@ The race itself is vividly told: "she, even fair, swift-footed Atalanta, ran sco
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Listed among the Argonauts
 - **[Bibliotheca](../sources/apollodorus.md)** 3.9.2: Full narrative — birth, bear, centaurs, wrestling Peleus, the footrace, golden apples, transformation into lions
 - **[Bibliotheca](../sources/apollodorus.md)** 3.6.3: Son Parthenopaeus among the Seven Against Thebes
+- **[Fabulae](../sources/hyginus.md)** §99: Exposed son Parthenopaeus by Meleager on Mount Parthenius; doe suckled Telephus (variant tradition linking Atalanta's child with Auge's)
+- **[Fabulae](../sources/hyginus.md)** §173: Listed among Calydonian boar hunters — "Atalanta, daughter of Schoeneus"
+- **[Fabulae](../sources/hyginus.md)** §174: Meleager gave hide to "virgin Atalanta because of her valor"; uncles tried to take it; Meleager killed them; Althaea burned the brand
 
 [^apd-birth]: "This Atalanta was exposed by her father, because he desired male children; and a she bear came often and gave her suck, till hunters found her and brought her up among themselves" (Bibliotheca 3.9.2, trans. J.G. Frazer)
 [^apd-centaurs]: "Grown to womanhood, Atalanta kept herself a virgin, and hunting in the wilderness she remained always under arms. The centaurs Rhoecus and Hylaeus tried to force her, but were shot down and killed by her" (Bibliotheca 3.9.2, trans. J.G. Frazer)

@@ -124,6 +124,45 @@ By the time of the Iliad's narrative present, "golden-haired Meleagros was dead,
 [^il9-moral]: "be not thine heart thus minded, neither let heaven so guide thee, dear son; that were a hard thing, to save the ships already burning. Nay, come for the gifts" (Iliad IX.5456-5458, trans. Lang, Leaf, and Myers)
 [^il2-dead]: "golden-haired Meleagros was dead, to whose hands all had been committed, for him to be king of the Aitolians" (Iliad II.1376-1377, trans. Lang, Leaf, and Myers)
 
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) presents the story across four consecutive sections, emphasizing different aspects.
+
+### The Brand Prophecy (§171, §174)
+
+At Meleager's birth, "the Fates, Clotho, Lachesis, and Atropos, appeared" and "sang his fate: Clotho said that he would be noble, Lachesis that he would be brave, but Atropos looking at a brand burning on the hearth and said, 'He will live only as long as this brand remains unconsumed.'"[^hyg-171] When Althaea heard this, "she leaped from the bed, put out the fatal brand, and buried it in the midst of the palace."[^hyg-171-save]
+
+The Fabulae notes unusual parentage: "Oineus and Mars both slept one night with Althaea, daughter of Thestius."[^hyg-171-parents]
+
+### Oeneus's Omission (§172)
+
+"Oineus, son of Porthaon, king of Aitolia, had made sacrifices yearly to all the gods, but had omitted Diana." In response, "she, in anger, sent a boar of immense size to lay waste the district of Calydon."[^hyg-172]
+
+### The Hunters (§173)
+
+The Fabulae provides an extensive catalogue of hunters who came to Calydon, listing 31 named heroes including notable figures not in Apollodorus's list, such as [Heracles](../heroes/heracles.md) (as Iolaus's companion), Phoenix, Laertes, and Deucalion. The list concludes with "Atalanta, daughter of Schoeneus."[^hyg-173-atalanta]
+
+A separate section (§173A) lists the states that sent help: "Ternerdos, Iolcos, Sparta, Pleurone, Messene, Perrhaebia, Phthia, Magnesia, Salamin, Calydon, Thessalia, Oichalia, Ithaca, Tegea, Crete, Dolopia, Athens, [Magnesia], and Arcadia."[^hyg-173a]
+
+### Meleager's Death (§174)
+
+After Meleager "killed" the boar "with the help of chosen youths of Greece," he "gave the hide to the virgin Atalanta because of her valor."[^hyg-174-hide] When Althaea's brothers — "Ideus, Plexippus, Lynceus" — "wished to take if from her," Meleager "putting love before family relationship, killed his uncles."[^hyg-174-uncles]
+
+"When Althaea, the mother, heard that her son had dared to commit such a crime, remembering the warning of the Parcae, she brought out the brand from the chest and threw it on the fire."[^hyg-174-burn]
+
+The Fabulae adds details about the aftermath: Meleager's sisters "because of their weeping, were by the will of the gods changed into birds. These are called Meleagrides, 'guinea hens.'" Only "Gorge and Deianeira" were excepted. "And Alcyone, wife of Meleager, died from grief in mourning for him."[^hyg-174-birds]
+
+[^hyg-171]: "the Fates, Clotho, Lachesis, and Atropos, appeared. They thus sang his fate: Clotho said that he would be noble, Lachesis that he would be brave, but Atropos looking at a brand burning on the hearth and said, 'He will live only as long as this brand remains unconsumed'" (Fabulae §171, trans. Mary Grant)
+[^hyg-171-save]: "she leaped from the bed, put out the fatal brand, and buried it in the midst of the palace, so that it shouldn't be destroyed by fire" (Fabulae §171, trans. Mary Grant)
+[^hyg-171-parents]: "Oineus and Mars both slept one night with Althaea, daughter of Thestius" (Fabulae §171, trans. Mary Grant)
+[^hyg-172]: "Oineus, son of Porthaon, king of Aitolia, had made sacrifices yearly to all the gods, but had omitted Diana, she, in anger, sent a boar of immense size to lay waste the district of Calydon" (Fabulae §172, trans. Mary Grant)
+[^hyg-173-atalanta]: "Atalanta, daughter of Schoeneus" (Fabulae §173, trans. Mary Grant)
+[^hyg-173a]: "Ternerdos, Iolcos, Sparta, Pleurone, Messene, Perrhaebia, Phthia, Magnesia, Salamin, Calydon, Thessalia, Oichalia, Ithaca, Tegea, Crete, Dolopia, Athens, [Magnesia], and Arcadia" (Fabulae §173A, trans. Mary Grant)
+[^hyg-174-hide]: "killed it, and gave the hide to the virgin Atalanta because of her valor" (Fabulae §174, trans. Mary Grant)
+[^hyg-174-uncles]: "Ideus, Plexippus, Lynceus . . . brothers of Althaea, wished to take if from her. When she asked the help of Meleager, he intervened, and putting love before family relationship, killed his uncles" (Fabulae §174, trans. Mary Grant)
+[^hyg-174-burn]: "When Althaea, the mother, heard that her son had dared to commit such a crime, remembering the warning of the Parcae, she brought out the brand from the chest and threw it on the fire" (Fabulae §174, trans. Mary Grant)
+[^hyg-174-birds]: "his sisters, all except Gorge and Deianeira, because of their weeping, were by the will of the gods changed into birds. These are called Meleagrides, 'guinea hens.' And Alcyone, wife of Meleager, died from grief in mourning for him" (Fabulae §174, trans. Mary Grant)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Meleager noted as dead; Aetolian leadership passed to Thoas
@@ -131,3 +170,7 @@ By the time of the Iliad's narrative present, "golden-haired Meleagros was dead,
 - **[Catalogue of Women](../sources/theogony.md)**: Meleager "loved of [Ares](../deities/ares.md)," slew "the destroying beast"; killed by [Apollo](../deities/apollo.md) while fighting Curetes
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.1-1.8.3: Full account — Oeneus forgets [Artemis](../deities/artemis.md); Fates' brand prophecy; catalogue of hunters; Atalanta first to wound; Meleager kills boar and gives skin to Atalanta; sons of Thestius seize it; Meleager kills them; Althaea burns the brand; alternate war version; mourning women turned to birds
 - **[Bibliotheca](../sources/apollodorus.md)** 2.5.12: Meleager's shade meets [Heracles](../heroes/heracles.md) in Hades
+- **[Fabulae](../sources/hyginus.md)** §171: Fates prophesy at birth; Oeneus and Mars both slept with Althaea; brand hidden
+- **[Fabulae](../sources/hyginus.md)** §172: Oeneus omitted Diana yearly; boar sent
+- **[Fabulae](../sources/hyginus.md)** §173-173A: Extensive hunter catalogue (31 heroes including Phoenix, Laertes, Deucalion); 18 states that sent help
+- **[Fabulae](../sources/hyginus.md)** §174: Hide given to Atalanta; Althaea's brothers (Ideus, Plexippus, Lynceus) try to seize it; Meleager kills them; Althaea burns brand; sisters transformed to guinea hens except Gorge and Deianeira; Alcyone dies of grief

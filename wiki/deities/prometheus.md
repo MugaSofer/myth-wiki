@@ -90,6 +90,39 @@ The first woman is here **named**: "he called this woman Pandora, because all th
 [^theog-menoetius]: "Menoetius was outrageous, and far-seeing Zeus struck him with a lurid thunderbolt and sent him down to Erebus because of his mad presumption and exceeding pride" (Theogony 514-516)
 [^theog-epimetheus]: "scatter-brained Epimetheus who from the first was a mischief to men who eat bread; for it was he who first took of Zeus the woman, the maiden whom he had formed" (Theogony 511-514)
 
+## In the Fabulae
+
+### Pandora (§142)
+
+The [Fabulae](../sources/hyginus.md) gives a variant tradition about the creation of humans and the first woman. "Prometheus, son of Iapetus, first fashioned men from clay."[^hyg-142-men] The creation of woman came later: "Later Vulcan [[Hephaestus](hephaestus.md)], at Jove's [[Zeus](zeus.md)'s] command, made a woman's form from clay."[^hyg-142-woman]
+
+The gods each contributed: "Minerva [[Athena](athena.md)] gave it life, and the rest of the gods each gave come other gift. Because of this they named her Pandora."[^hyg-142-pandora] The etymology reflects her divine gifts: Pandora means "all-gifted."
+
+She married into Prometheus's family: "She was given in marriage to Prometheus' brother Epimetheus."[^hyg-142-marriage] From this union came humanity's progenitor: "Pyrrha was her daughter, and was said to be the first mortal born."[^hyg-142-pyrrha]
+
+> **NEW DETAIL:** The Fabulae specifies that Prometheus created the first men himself from clay, and names Pyrrha (married to Deucalion in the flood story) as Pandora's daughter.
+
+[^hyg-142-men]: "Prometheus, son of Iapetus, first fashioned men from clay." (Fabulae §142, trans. Mary Grant)
+[^hyg-142-woman]: "Later Vulcan, at Jove's command, made a woman's form from clay." (Fabulae §142, trans. Mary Grant)
+[^hyg-142-pandora]: "Minerva gave it life, and the rest of the gods each gave come other gift. Because of this they named her Pandora." (Fabulae §142, trans. Mary Grant)
+[^hyg-142-marriage]: "She was given in marriage to Prometheus' brother Epimetheus." (Fabulae §142, trans. Mary Grant)
+[^hyg-142-pyrrha]: "Pyrrha was her daughter, and was said to be the first mortal born." (Fabulae §142, trans. Mary Grant)
+
+### Fire and Punishment (§144)
+
+The Fabulae tells of the fire theft and its consequences. "Men in early times sought fire from the gods, and did not know how to keep it alive."[^hyg-144-seeking] Prometheus provided the solution: "Later Prometheus brought it to earth in a fennel-stalk, and showed men how to keep it covered over with ashes."[^hyg-144-fire]
+
+The punishment was brutal and enduring: "Because of this, Mercury [[Hermes](hermes.md)], at Jove's command, bound him with iron spikes to a cliff on Mount Caucasus, and set an eagle to eat out his heart; as much as it devoured in the day, so much grew again at night."[^hyg-144-punishment]
+
+The duration was immense: "After 30,000 years Hercules [[Heracles](../heroes/heracles.md)] killed this eagle and freed Prometheus."[^hyg-144-freed]
+
+> **NEW DETAIL:** The Fabulae specifies 30,000 years for Prometheus's torment, a precise duration not given in the [Theogony](../sources/theogony.md).
+
+[^hyg-144-seeking]: "Men in early times sought fire from the gods, and did not know how to keep it alive." (Fabulae §144, trans. Mary Grant)
+[^hyg-144-fire]: "Later Prometheus brought it to earth in a fennel-stalk, and showed men how to keep it covered over with ashes." (Fabulae §144, trans. Mary Grant)
+[^hyg-144-punishment]: "Because of this, Mercury, at Jove's command, bound him with iron spikes to a cliff on Mount Caucasus, and set an eagle to eat out his heart; as much as it devoured in the day, so much grew again at night." (Fabulae §144, trans. Mary Grant)
+[^hyg-144-freed]: "After 30,000 years Hercules killed this eagle and freed Prometheus." (Fabulae §144, trans. Mary Grant)
+
 ## In the Bibliotheca
 
 The [Bibliotheca](../sources/apollodorus.md) adds that Prometheus "moulded men out of water and earth" — making him humanity's creator, not merely their benefactor.[^apd-mould] He gave them fire "which, unknown to Zeus, he had hidden in a stalk of fennel," and [Zeus](zeus.md) ordered [Hephaestus](hephaestus.md) to nail him to Mount Caucasus in punishment.[^apd-fire] The account of his torment matches the Theogony: "Every day an eagle swooped on him and devoured the lobes of his liver, which grew by night."[^apd-eagle]
@@ -110,3 +143,5 @@ Prometheus's son was Deucalion, who "by the advice of Prometheus constructed a c
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.3: Son of Iapetus and Asia (variant: Clymene in Theogony)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.6: Named as one who split Zeus's head for Athena's birth (variant: Hephaestus)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.1-1.7.2: Moulded men from water and earth; fire in fennel stalk; nailed to Caucasus by Hephaestus; eagle and liver; son Deucalion and the flood
+- **[Fabulae](../sources/hyginus.md)** §142: First fashioned men from clay; Vulcan made woman's form at Jove's command; Minerva gave it life; gods each gave gift; named Pandora; given in marriage to Epimetheus; Pyrrha her daughter, first mortal born
+- **[Fabulae](../sources/hyginus.md)** §144: Men sought fire but didn't know how to keep it alive; brought fire in fennel-stalk; showed how to keep covered with ashes; Mercury bound him with iron spikes on Caucasus at Jove's command; eagle ate his heart; regrew at night; after 30,000 years Hercules killed eagle and freed him

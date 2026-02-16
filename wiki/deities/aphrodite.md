@@ -130,6 +130,47 @@ After Poseidon guaranteed the fine, "laughter-loving Aphrodite went to Paphos of
 [^od8-hermes]: "So might thrice as many bonds innumerable encompass me about, and all ye gods be looking on and all the goddesses, yet would I lie by golden Aphrodite" (Odyssey VIII.4480-4481)
 [^od8-paphos]: "laughter-loving Aphrodite went to Paphos of Cyprus, where is her precinct and fragrant altar. There the Graces bathed and anointed her with oil imperishable, such as is laid upon the everlasting gods. And they clad her in lovely raiment, a wonder to see" (Odyssey VIII.4505-4508)
 
+## In the Fabulae
+
+### Smyrna and Adonis (§58)
+
+The [Fabulae](../sources/hyginus.md) tells the story of Adonis's birth. "Smyrna was the daughter of Cinyras, King of the Assyrians, and Cenchreis."[^hyg-58-smyrna] Aphrodite (Venus) punished the mother's boast: "Her mother Cenchreis boasted proudly that her daughter excelled Venus in beauty. Venus, to punish the mother, sent forbidden love to Smyrna so that she loved her own father."[^hyg-58-curse]
+
+The nurse facilitated the incestuous union: "The nurse prevented her from hanging herself, and without knowledge of her father, helped her lie with him. She conceived."[^hyg-58-conception] When shame overwhelmed her, "goaded by shame, in order not to reveal her fault, hid in the woods."[^hyg-58-hide]
+
+Aphrodite showed mercy through transformation: "Venus later pitied her, and changed her into a kind of tree from which myrrh flows; Adonis, born from it, exacted punishment for his mother's sake from Venus."[^hyg-58-tree]
+
+[^hyg-58-smyrna]: "Smyrna was the daughter of Cinyras, King of the Assyrians, and Cenchreis." (Fabulae §58, trans. Mary Grant)
+[^hyg-58-curse]: "Her mother Cenchreis boasted proudly that her daughter excelled Venus in beauty. Venus, to punish the mother, sent forbidden love to Smyrna so that she loved her own father." (Fabulae §58, trans. Mary Grant)
+[^hyg-58-conception]: "The nurse prevented her from hanging herself, and without knowledge of her father, helped her lie with him. She conceived" (Fabulae §58, trans. Mary Grant)
+[^hyg-58-hide]: "and goaded by shame, in order not to reveal her fault, hid in the woods." (Fabulae §58, trans. Mary Grant)
+[^hyg-58-tree]: "Venus later pitied her, and changed her into a kind of tree from which myrrh flows; Adonis, born from it, exacted punishment for his mother's sake from Venus." (Fabulae §58, trans. Mary Grant)
+
+### Judgment of Paris (§92)
+
+The Fabulae gives the complete story of the contest that led to the Trojan War. "[Zeus](zeus.md) (Jove) is said to have invited to the wedding of Peleus and Thetis all the gods except Eris, or Discordia."[^hyg-92-eris] She took revenge: "When she came later and was not admitted to the banquet, she threw an apple through the door, saying that the fairest should take it."[^hyg-92-apple]
+
+The dispute arose: "Juno [[Hera](hera.md)], Venus, and Minerva [[Athena](athena.md)] claimed the beauty prize for themselves. A huge argument broke out among them."[^hyg-92-dispute] Zeus delegated judgment: "Jupiter ordered Mercury [[Hermes](hermes.md)] to take them to Mt Ida to Paris Alexander, and bid him judge."[^hyg-92-judge]
+
+Each goddess offered a bribe: "Juno promised him, if he should judge in her favour, that he would rule over all the lands and be pre-eminent in wealth. Minerva promised that if she should come out victorious, he would be bravest of mortals and skilled in every craft. Venus, however, promised to give him in marriage Helen, daughter of Tyndareus, most beautiful of all women."[^hyg-92-bribes]
+
+The verdict determined history: "Paris preferred the last give to the former ones, and judges Venus the most lovely."[^hyg-92-verdict] The consequence: "On account of this, Juno and Minerva were hostile to the Trojans."[^hyg-92-hostility]
+
+[^hyg-92-eris]: "Jove is said to have invited to the wedding of Peleus and Thetis all the gods except Eris, or Discordia." (Fabulae §92, trans. Mary Grant)
+[^hyg-92-apple]: "When she came later and was not admitted to the banquet, she threw an apple through the door, saying that the fairest should take it." (Fabulae §92, trans. Mary Grant)
+[^hyg-92-dispute]: "Juno, Venus, and Minerva claimed the beauty prize for themselves. A huge argument broke out among them." (Fabulae §92, trans. Mary Grant)
+[^hyg-92-judge]: "Jupiter ordered Mercury to take them to Mt Ida to Paris Alexander, and bid him judge." (Fabulae §92, trans. Mary Grant)
+[^hyg-92-bribes]: "Juno promised him, if he should judge in her favour, that he would rule over all the lands and be pre-eminent wealth. Minerva promised that if she should come out victorious, he would be bravest of mortals and skilled in every craft. Venus, however, promised to give him in marriage Helen, daughter of Tyndareus, most beautiful of all women." (Fabulae §92, trans. Mary Grant)
+[^hyg-92-verdict]: "Paris preferred the last give to the former ones, and judges Venus the most lovely." (Fabulae §92, trans. Mary Grant)
+[^hyg-92-hostility]: "On account of this, Juno and Minerva were hostile to the Trojans." (Fabulae §92, trans. Mary Grant)
+
+### Caught with Mars (§148)
+
+See [Hephaestus](hephaestus.md) §148. When Vulcan ([[Hephaestus](hephaestus.md)]) "knew that Venus was secretly lying with Mars [[Ares](ares.md)]," he trapped them in adamant chains. Sol ([[Helius](helius.md)]) reported it, and Vulcan "saw them lying there naked, and summoned all the gods." The result: "shame frightened Mars so that he did not do this" again. "From their embrace Harmonia was born."[^hyg-148-ref] Aphrodite's response to Sol's disclosure: "To Sol's progeny, however, Venus, because of his disclosure, was always hostile."[^hyg-148-hostile]
+
+[^hyg-148-ref]: (Fabulae §148, trans. Mary Grant)
+[^hyg-148-hostile]: "To Sol's progeny, however, Venus, because of his disclosure, was always hostile." (Fabulae §148, trans. Mary Grant)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 16, 188-206: Mentioned in invocation; birth from sea-foam
@@ -150,6 +191,9 @@ After Poseidon guaranteed the fine, "laughter-loving Aphrodite went to Paphos of
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.17: Cursed the Lemnian women with a noisome smell — "she visited them with a noisome smell; therefore their spouses took captive women from the neighboring country of Thrace and bedded with them"[^apd-lemnos]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Rescued Butes from the Sirens — "Butes alone swam off to the Sirens, but Aphrodite carried him away and settled him in Lilybaeum"[^apd-butes]
 - **[Bibliotheca](../sources/apollodorus.md)** 3.4.2: Bore Harmonia by [Ares](ares.md); Harmonia married [Cadmus](../heroes/cadmus.md) at the wedding attended by all the gods
+- **[Fabulae](../sources/hyginus.md)** §58: Smyrna's mother boasted daughter excelled Venus in beauty; Venus sent forbidden love so Smyrna loved her own father; nurse helped her lie with him; conceived; hid in woods from shame; Venus pitied her and changed her into myrrh tree; Adonis born from it
+- **[Fabulae](../sources/hyginus.md)** §92: Wedding of Peleus and Thetis — all gods invited except Eris; she threw apple saying fairest should take it; Venus, Juno, Minerva claimed it; Mercury took them to Paris on Mt Ida; each offered bribe; Venus promised Helen; Paris judged Venus most lovely; Juno and Minerva hostile to Trojans
+- **[Fabulae](../sources/hyginus.md)** §148: Venus secretly lying with Mars; trapped in Vulcan's adamant chains; Sol reported it; Vulcan summoned all gods; shame frightened Mars; Harmonia born from their embrace; Venus always hostile to Sol's progeny for disclosure
 - **[Bibliotheca](../sources/apollodorus.md)** 3.9.2: Gave Melanion golden apples to defeat Atalanta in the footrace — "Melanion came to run for love of her, bringing golden apples from Aphrodite"
 - **[Bibliotheca](../sources/apollodorus.md)** 3.12.2: Met Anchises in love's dalliance and bore [Aeneas](../heroes/aeneas.md) and Lyrus
 - **[Bibliotheca](../sources/apollodorus.md)** 3.14.3: Her daughters by Cinyras cohabited with foreigners "by reason of the wrath of Aphrodite"

@@ -170,6 +170,32 @@ Poseidon is also moved by family grief: "Poseidon wroth at heart, when his son's
 [^il13-brothers]: "the two mighty sons of Kronos, with contending will, were contriving sorrow and anguish for the heroes. Zeus desired victory for the Trojans and Hector, giving glory to swift-footed Achilles; yet he did not wish the Achaian host to perish utterly before Ilios... But Poseidon went among the Argives and stirred them to war, stealing secretly forth from the grey salt sea... Verily both were of the same lineage and the same place of birth, but Zeus was the elder and the wiser. Therefore also Poseidon avoided to give open aid" (Iliad XIII.7737-7747)
 [^il13-grandson]: "Then verily was Poseidon wroth at heart, when his son's son fell in the terrible fray" (Iliad XIII.7601)
 
+## In the Fabulae
+
+### Laomedon and Troy's Walls (§89)
+
+The [Fabulae](../sources/hyginus.md) tells how Poseidon (Neptune) and [Apollo](apollo.md) built Troy's walls. "Neptune and Apollo are said to have built a wall around Troy."[^hyg-89-wall] King Laomedon made a vow: "he would sacrifice to them from his flocks whatever should be born that year in his kingdom."[^hyg-89-vow]
+
+Laomedon broke his promise: "This vow he defaulted on through avarice. Other writers say that he promised too little."[^hyg-89-default] Poseidon's punishment was severe: "Neptune sent a sea-monster to plague Troy, and for this reason the king sent to Apollo for advice."[^hyg-89-monster]
+
+Apollo's oracle demanded human sacrifice: "Apollo angrily replied that if Trojan maidens were bound and offered to the monster, there would be an end to the plague. When many girls had been devoured, and the lot fell on Hesione, and she was bound to the rocks," [Heracles](../heroes/heracles.md) came and killed the monster.[^hyg-89-oracle] Heracles demanded Laomedon's horses "which walk over water standing ears of grain" as payment, but "Laomedon defaulted in this, too, and refused to give up Hesione."[^hyg-89-second]
+
+The outcome was Troy's first sack: "Hercules, assembling ships to attack Troy, came and slew Laomedon, and gave the kingdom to his infant son Podarces, who was afterward called apo tou priasthai, 'from being redeemed,' Priam."[^hyg-89-priam]
+
+[^hyg-89-wall]: "Neptune and Apollo are said to have built a wall around Troy." (Fabulae §89, trans. Mary Grant)
+[^hyg-89-vow]: "King Laomedon vowed that he would sacrifice to them from his flocks whatever should be born that year in his kingdom." (Fabulae §89, trans. Mary Grant)
+[^hyg-89-default]: "This vow he defaulted on through avarice. Other writers say that he promised too little." (Fabulae §89, trans. Mary Grant)
+[^hyg-89-monster]: "Because of this Neptune sent a sea-monster to plague Troy, and for this reason the king sent to Apollo for advice." (Fabulae §89, trans. Mary Grant)
+[^hyg-89-oracle]: "Apollo angrily replied that if Trojan maidens were bound and offered to the monster, there would be an end to the plague. When many girls had been devoured, and the lot fell on Hesione, and she was bound to the rocks" (Fabulae §89, trans. Mary Grant)
+[^hyg-89-second]: "Laomedon defaulted in this, too, and refused to give up Hesione." (Fabulae §89, trans. Mary Grant)
+[^hyg-89-priam]: "And so Hercules, assembling ships to attack Troy, came and slew Laomedon, and gave the kingdom to his infant son Podarces, who was afterward called apo tou priasthai, 'from being redeemed,' Priam." (Fabulae §89, trans. Mary Grant)
+
+### Contest for Athens (§164)
+
+See [Athena](athena.md) §164. Poseidon contested with Athena for patronage of Athens before [Zeus](zeus.md) as judge. Athena won by planting the olive. Poseidon "in anger, wanted to have the sea flood that land" but was forbidden by [Hermes](hermes.md) at Zeus's command.[^hyg-164-ref]
+
+[^hyg-164-ref]: (Fabulae §164, trans. Mary Grant)
+
 ## In the Bibliotheca (1.4.3-1.4.5, 1.6.2)
 
 ### Orion (1.4.3-1.4.4)
@@ -273,3 +299,5 @@ During [Heracles](../heroes/heracles.md)' pursuit of the centaurs, "the rest of 
 - **[Bibliotheca](../sources/apollodorus.md)** E.2.3: Gave Pelops a winged chariot "such that even when it ran through the sea the axles were not wet"
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.6: Smote the rock with his trident and split it; Ajax fell into the sea and perished; Athena had wrecked his ship
 - **[Bibliotheca](../sources/apollodorus.md)** E.7.9: Wrathful at Odysseus from the Cyclops incident onward; turned the Phaeacian ship to stone and enveloped the city with a mountain
+- **[Fabulae](../sources/hyginus.md)** §89: Built wall around Troy with Apollo; Laomedon vowed sacrifice from his flocks; defaulted on vow through avarice; sent sea-monster to plague Troy; Apollo demanded Trojan maidens be offered; Hesione bound to rocks; Heracles killed monster; Laomedon defaulted again; Heracles slew Laomedon and gave kingdom to Priam
+- **[Fabulae](../sources/hyginus.md)** §164: Contested with Athena for Athens before Zeus as judge; Athena won by planting olive; in anger wanted to flood the land; forbidden by Hermes at Zeus's command

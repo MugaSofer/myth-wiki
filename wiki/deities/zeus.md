@@ -134,6 +134,41 @@ After the [Titanomachy](../events/titanomachy.md), [Gaia](gaia.md) bore [Typhoeu
 
 [^theog-divide]: "when the blessed gods had finished their toil, and settled by force their struggle for honours with the Titans, they pressed far-seeing Olympian Zeus to reign and to rule over them, by Earth's prompting. So he divided their dignities amongst them" (Theogony 881-885)
 
+## In the Fabulae
+
+### Infant Zeus and the Curetes (§139)
+
+The [Fabulae](../sources/hyginus.md) tells how [Rhea](rhea.md) (called Opis in this version) saved the infant Zeus from [Cronos](cronos.md) (Saturn). When Cronos "asked Opis for what she had borne, in order to devour it, Opis showed him a stone wrapped up like a baby; Saturn devoured it."[^hyg-139-stone] After realizing the deception, Cronos "started to hunt for Jove throughout the earth."[^hyg-139-hunt]
+
+The nurse Amalthea "hung him in a cradle from a tree, so that he could be found neither in heaven nor on earth nor in the sea."[^hyg-139-cradle] To conceal the infant's cries, she summoned youths called the Curetes: "she gave them small brazen shields and spears, and bade them go around the tree making a noise."[^hyg-139-curetes]
+
+[^hyg-139-stone]: "When he had asked Opis for what she had borne, in order to devour it, Opis showed him a stone wrapped up like a baby; Saturn devoured it." (Fabulae §139, trans. Mary Grant)
+[^hyg-139-hunt]: "When he realized what he had done, he started to hunt for Jove throughout the earth." (Fabulae §139, trans. Mary Grant)
+[^hyg-139-cradle]: "Juno, however, took Jove to the island of Crete, and Amalthea, the child's nurse, hung him in a cradle from a tree, so that he could be found neither in heaven nor on earth nor in the sea." (Fabulae §139, trans. Mary Grant)
+[^hyg-139-curetes]: "And lest the cries of the baby be heard, she summoned youths and gave them small brazen shields and spears, and bade them go around the tree making a noise." (Fabulae §139, trans. Mary Grant)
+
+### War with the Titans (§150)
+
+The Fabulae gives [Hera](hera.md) (Juno) an active role in instigating the [Titanomachy](../events/titanomachy.md). After seeing "that Epaphus, born of a concubine, ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titans to drive Jove from the kingdom and restore it to Saturn."[^hyg-150-juno] When the [Titans](titans.md) "tried to mount heaven, Jove with the help of Minerva [[Athena](athena.md)], Apollo, and Diana [[Artemis](artemis.md)], cast them headlong into Tartarus."[^hyg-150-war]
+
+The punishment of [Atlas](atlas.md) is specified: "On Atlas, who had been their leader, he put the vault of the sky; even now he is said to hold up the sky on his shoulders."[^hyg-150-atlas]
+
+[^hyg-150-juno]: "After Juno saw that Epaphus, born of a concubine, ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titans to drive Jove from the kingdom and restore it to Saturn." (Fabulae §150, trans. Mary Grant)
+[^hyg-150-war]: "When they tried to mount heaven, Jove with the help of Minerva, Apollo, and Diana, cast them headlong into Tartarus." (Fabulae §150, trans. Mary Grant)
+[^hyg-150-atlas]: "On Atlas, who had been their leader, he put the vault of the sky; even now he is said to hold up the sky on his shoulders." (Fabulae §150, trans. Mary Grant)
+
+### Testing Lycaon (§176)
+
+Zeus came "as guest to Lycaon, son of Pelasgus, and to have seduced his daughter Callisto."[^hyg-176-callisto] Lycaon's sons wanted "to test Jove, to see whether he was a god or not; they mixed human flesh with the other meat, and set it before him at a banquet."[^hyg-176-test] Zeus's response was swift: "When he realized it, in anger he overturned the table, and slew the sons of Lycaon with a thunderbolt."[^hyg-176-table] He transformed Lycaon himself "into the form lykon, that is, the form of a wolf."[^hyg-176-wolf]
+
+The overturned table gave its name to a city: "At that place Arcas later fortified a town which he called Trapezus."[^hyg-176-trapezus]
+
+[^hyg-176-callisto]: "Jove is said to have come as guest to Lycaon, son of Pelasgus, and to have seduced his daughter Callisto." (Fabulae §176, trans. Mary Grant)
+[^hyg-176-test]: "But the son of Lycaon wanted to test Jove, to see whether he was a god or not; they mixed human flesh with the other meat, and set it before him at a banquet." (Fabulae §176, trans. Mary Grant)
+[^hyg-176-table]: "When he realized it, in anger he overturned the table, and slew the sons of Lycaon with a thunderolt." (Fabulae §176, trans. Mary Grant)
+[^hyg-176-wolf]: "But for Lycaon, their father, Jupiter changed into the form lykon, that is, the form of a wolf." (Fabulae §176, trans. Mary Grant)
+[^hyg-176-trapezus]: "At that place Arcas later fortified a town which he called Trapezus." (Fabulae §176, trans. Mary Grant)
+
 ## In the Catalogue of Women
 
 ### Dodona (Fragment 97)
@@ -440,6 +475,9 @@ After Hera sent storms against Heracles as he sailed from [Troy](../places/troy.
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.2: Commanded Hermes to lead Hera, Athena, and Aphrodite to Paris for the Judgment
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.15: The Wooden Horse inscribed "For their return home, the Greeks dedicate this thank-offering to Athena"
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.5: Sent a tempest against the Greeks at Athena's entreaty
+- **[Fabulae](../sources/hyginus.md)** §139: Saved by Rhea (Opis) with stone substitution; hidden in cradle hung from tree by Amalthea; Curetes made noise with shields and spears to conceal cries
+- **[Fabulae](../sources/hyginus.md)** §150: War with Titans instigated by Juno; cast Titans into Tartarus with help of Minerva, Apollo, and Diana; placed vault of sky on Atlas
+- **[Fabulae](../sources/hyginus.md)** §176: Came as guest to Lycaon; seduced Callisto; tested with human flesh at banquet; overturned table; slew Lycaon's sons with thunderbolt; transformed Lycaon into wolf
 
 [^apd-flood]: "Zeus by pouring heavy rain from heaven flooded the greater part of Greece, so that all men were destroyed, except a few who fled to the high mountains in the neighborhood" (Bibliotheca 1.7.2, trans. Frazer)
 [^apd-alcyone]: "he said that his wife was Hera, and she said that her husband was Zeus. But Zeus turned them into birds; her he made a kingfisher and him a gannet" (Bibliotheca 1.7.4, trans. Frazer)

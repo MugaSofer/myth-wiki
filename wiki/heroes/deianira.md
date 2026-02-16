@@ -38,8 +38,47 @@ Years later, when Heracles captured Oechalia and led Iole captive, Deianira lear
 [^apd-dei-shirt]: "Deianira learned about Iole, and fearing that Hercules might love that damsel more than herself, she supposed that the spilt blood of Nessus was in truth a love-charm, and with it she smeared the tunic" (Bibliotheca 2.7.7)
 [^apd-dei-death]: "Deianira, on learning what had happened, hanged herself" (Bibliotheca 2.7.7)
 
+## In the Fabulae
+
+### Marriage Contest with the Centaur (§33)
+
+The [Fabulae](../sources/hyginus.md) tells how [Heracles](heracles.md) won Deianira from a centaur rival: "When [Heracles](heracles.md) had come to the court of King Dexamenus and had violated his daughter Deianira, promising he would marry her, Eurytion a centaur, son of Ixion and Nubes, after his departure sought Deianira as a wife."[^hyg-eurytion] King Dexamenus, "fearing violence, promised her to him. On the appointed day he came with his brothers to the wedding. [Heracles](heracles.md) intervened, and killed the Centaur, and led home his betrothed."[^hyg-wedding]
+
+[^hyg-eurytion]: "When Hercules had come to the court of King Dexamenus and had violated his daughter Deianira, promising he would marry her, Eurytion a centaur, son of Ixion and Nubes, after his departure sought Deianira as a wife" (Fabulae §33, trans. Mary Grant)
+[^hyg-wedding]: "Her father, fearing violence, promised her to him. On the appointed day he came with his brothers to the wedding. Hercules intervened, and killed the Centaur, and led home his betrothed" (Fabulae §33, trans. Mary Grant)
+
+### Nessus and the Poisoned Blood (§34)
+
+At the river Evenus, "Nessus, son of Ixion and Nubes, a centaur, was asked by Deianira to carry her across the river Evenus, but as he was carrying her, in the very river he tried to ravish her."[^hyg-nessus-attack] When Heracles shot him with his arrows, Nessus, "knowing how poisonous the arrows were, since they had been dipped in the gall of the Lernaean Hydra, drew out some of his blood and gave it to Deianira, telling her it was a love-charm."[^hyg-blood] The deception was complete: "If she wanted her husband not to desert her, she should have his garments smeared with this blood. Deianira, believing him, kept it carefully preserved."[^hyg-charm]
+
+[^hyg-nessus-attack]: "Nessus, son of Ixion and Nubes, a centaur, was asked by Deianira to carry her across the river Evenus, but as he was carrying her, in the very river he tried to ravish her" (Fabulae §34, trans. Mary Grant)
+[^hyg-blood]: "Nessus, knowing how poisonous the arrows were, since they had been dipped in the gall of the Lernaean Hydra, drew out some of his blood and gave it to Deianira, telling her it was a love-charm" (Fabulae §34, trans. Mary Grant)
+[^hyg-charm]: "If she wanted her husband not to desert her, she should have his garments smeared with this blood. Deianira, believing him, kept it carefully preserved" (Fabulae §34, trans. Mary Grant)
+
+### Iole and the Poisoned Robe (§35-36)
+
+Years later, "[Heracles](heracles.md), when he had sought in marriage Iole, daughter of Eurytus, and had been refused, attacked Oichalia."[^hyg-oichalia] When Eurytus would not yield, Heracles "threatened to kill her relatives in her presence. She, with resolute mind, suffered them to be slain before her eyes. When he had killed them all, he sent Iole as captive before him to Deianira."[^hyg-iole]
+
+When Deianira saw Iole's beauty, she feared losing her husband and "mindful of the instructions of Nessus, she sent a servant named Lichas to take to [Heracles](heracles.md) a robe dipped in the blood of the centaur."[^hyg-robe] But before Lichas departed, "a little of it fell to the earth, and when the sun touched it, it began to burn. When Deianira saw this, she knew that Nessus had spoken falsely."[^hyg-test] She sent word to recall the messenger, but it was too late.
+
+When Heracles put on the robe, "it started at once to blaze; when he leaped into a stream to put out the blaze, still greater flames burst forth; when he tried to take off the garment the flesh came with it."[^hyg-burning] In his agony, "[Heracles](heracles.md), whirling Lichas, who had brought the garment, round and round, threw him into the sea, and at the place where he fell a rock appeared which is called Lichas."[^hyg-lichas]
+
+[Philoctetes](philoctetes.md) built a pyre for Heracles on Mount Oeta, and Heracles "mounted it... and cast off his mortality." For this service Heracles "gave [Philoctetes](philoctetes.md) his bow and arrows. But Deianira, because of what had happened to [Heracles](heracles.md), killed herself."[^hyg-death]
+
+[^hyg-oichalia]: "Hercules, when he had sought in marriage Iole, daughter of Eurytus, and had been refused, attacked Oichalia" (Fabulae §35, trans. Mary Grant)
+[^hyg-iole]: "In order to bend the girl to his will, he threatened to kill her relatives in her presence. She, with resolute mind, suffered them to be slain before her eyes. When he had killed them all, he sent Iole as captive before him to Dejanira" (Fabulae §35, trans. Mary Grant)
+[^hyg-robe]: "mindful of the instructions of Nessus, she sent a servant named Lichas to take to Hercules a robe dipped in the blood of the centaur" (Fabulae §36, trans. Mary Grant)
+[^hyg-test]: "A little of it fell to the earth, and when the sun touched it, it began to burn. When Dejanira saw this, she knew that Nessus had spoken falsely" (Fabulae §36, trans. Mary Grant)
+[^hyg-burning]: "it started at once to blaze; when he leaped into a stream to put out the blaze, still greater flames burst forth; when he tried to take off the garment the flesh came with it" (Fabulae §36, trans. Mary Grant)
+[^hyg-lichas]: "Hercules, whirling Lichas, who had brought the garment, round and round, threw him into the sea, and at the place where he fell a rock appeared which is called Lichas" (Fabulae §36, trans. Mary Grant)
+[^hyg-death]: "Then Philoctetes, son of Poeas, is said to have built a pyre for Hercules on Mount Oita, and he mounted it... and cast off his mortality. For this service he gave Philoctetes his bow and arrows. But Dejanira, because of what had happened to Hercules, killed herself" (Fabulae §36, trans. Mary Grant)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.5: Won by Heracles after he wrestled Achelous
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.6: Attempted violation by Nessus; receives the poisoned love charm
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Sends the poisoned shirt to Heracles; hangs herself on learning the result
+- **[Fabulae](../sources/hyginus.md)** §33: Sought by centaur Eurytion; Heracles kills the centaur at the wedding
+- **[Fabulae](../sources/hyginus.md)** §34: Nessus carries her across river Evenus; attempts to ravish her; shot by Heracles; gives her blood as false love-charm
+- **[Fabulae](../sources/hyginus.md)** §35: Heracles sends Iole captive to her after sacking Oichalia
+- **[Fabulae](../sources/hyginus.md)** §36: Sends poisoned robe via Lichas; realizes deception when blood burns in sunlight; kills herself after Heracles' death

@@ -97,6 +97,40 @@ The birth itself is more specific than in the Theogony: "[Prometheus](prometheus
 
 [^hh28-birth]: "From his awful head wise Zeus himself bare her arrayed in warlike arms of flashing gold, and awe seized all the gods as they gazed. But Athena sprang quickly from the immortal head and stood before Zeus who holds the aegis, shaking a sharp spear: great Olympus began to reel horribly at the might of the bright-eyed goddess, and earth round about cried fearfully, and the sea was moved and tossed with dark waves, while foam burst forth suddenly: the bright Son of Hyperion stopped his swift-footed horses a long while, until the maiden Pallas Athene had stripped the heavenly armour from her immortal shoulders. And wise Zeus was glad." (Homeric Hymn XXVIII to Athena 4-16, trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### Contest for Athens (§164)
+
+The [Fabulae](../sources/hyginus.md) recounts the contest between [Poseidon](poseidon.md) (Neptune) and Athena (Minerva) for patronage of Athens. "When there was a contest between Neptune and Minerva as to who should be the first to found a town in the Attic land, they took Jove [[Zeus](zeus.md)] as judge."[^hyg-164-contest]
+
+Athena won by demonstrating her gift: "Minerva won because she first planted the olive in that land, said to be there to this day."[^hyg-164-olive] The account emphasizes Athens' priority: "Minerva in her own name founded Athens, a town said to be the first established in the world."[^hyg-164-first]
+
+Poseidon's reaction was destructive: "Neptune, in anger, wanted to have the sea flood that land."[^hyg-164-anger] But [Zeus](zeus.md) intervened through [Hermes](hermes.md): "Mercury, at Jove's command, forbade his doing that."[^hyg-164-mercury]
+
+[^hyg-164-contest]: "When there was a contest between Neptune and Minerva as to who should be the first to found a town in the Attic land, they took Jove as judge." (Fabulae §164, trans. Mary Grant)
+[^hyg-164-olive]: "Minerva won because she first planted the olive in that land, said to be there to this day." (Fabulae §164, trans. Mary Grant)
+[^hyg-164-first]: "And so Minerva in her own name founded Athens, a town said to be the first established in the world." (Fabulae §164, trans. Mary Grant)
+[^hyg-164-anger]: "But Neptune, in anger, wanted to have the sea flood that land." (Fabulae §164, trans. Mary Grant)
+[^hyg-164-mercury]: "Mercury, at Jove's command, forbade his doing that." (Fabulae §164, trans. Mary Grant)
+
+### Erichthonius (§166)
+
+The Fabulae provides a detailed account of Erichthonius's birth. When [Hephaestus](hephaestus.md) (Vulcan) made divine items for the gods and bound [Hera](hera.md) (Juno) in a hanging chair, he was granted "freedom of choice from Jove, to gain whatever he sought from them."[^hyg-166-choice]
+
+[Poseidon](poseidon.md) (Neptune), "because he was hostile to Minerva, urged Vulcan to ask for Minerva in marriage. This was granted."[^hyg-166-marriage] Athena defended her virginity by force: "When Vulcan had made... he entered her chamber, but Minerva defended her virginity with arms."[^hyg-166-defense]
+
+During the struggle, "some of his seed fell to earth, and from it a boy was born, the lower part of whose body was snake-formed."[^hyg-166-birth] The name carries etymological meaning: "They named him Erichthonius, because eris in Greek means 'strife', and khthon means 'earth'."[^hyg-166-name]
+
+Athena entrusted the infant to the daughters of Cecrops — Aglaurus, Pandrosus, and Herse — "to guard" in a chest.[^hyg-166-chest] When "a crow gave the secret away when the girls opened the chest," the consequence was divine madness: "they, driven mad by Minerva, threw themselves into the sea."[^hyg-166-mad]
+
+[^hyg-166-choice]: "Then he obtained freedom of choice from Jove, to gain whatever he sought from them." (Fabulae §166, trans. Mary Grant)
+[^hyg-166-marriage]: "Therefore Neptune, because he was hostile to Minerva, urged Vulcan to ask for Minerva in marriage. This was granted" (Fabulae §166, trans. Mary Grant)
+[^hyg-166-defense]: "but Minerva, when he entered her chamber, defended her virginity with arms." (Fabulae §166, trans. Mary Grant)
+[^hyg-166-birth]: "As they struggled, some of his seed fell to earth, and from it a boy was born, the lower part of whose body was snake-formed." (Fabulae §166, trans. Mary Grant)
+[^hyg-166-name]: "They named him Erichthonius, because eris in Greek means 'strife', and khthon means 'earth'." (Fabulae §166, trans. Mary Grant)
+[^hyg-166-chest]: "When Minerva was secretly caring for him, she gave him in a chest to Aglaurus, Pandrosus, and Herse, daughters of Cecrops, to guard." (Fabulae §166, trans. Mary Grant)
+[^hyg-166-mad]: "A crow gave the secret away when the girls opened the chest, and they, driven mad by Minerva, threw themselves into the sea." (Fabulae §166, trans. Mary Grant)
+
 ## In the Odyssey
 
 ### Advocate for Odysseus (Book I)
@@ -402,6 +436,8 @@ Athena continued her role as [Heracles](../heroes/heracles.md)' protector:
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.22: Ajax violated Cassandra clinging to Athena's wooden image; "the image looks to heaven"
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.23: Angry with the Greeks for Ajax's impiety; detained them from sailing
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.5: Entreated Zeus to send a tempest against the Greeks; threw a thunderbolt at Ajax's ship; Ajax was wrecked
+- **[Fabulae](../sources/hyginus.md)** §164: Contest with Neptune for Athens; Zeus as judge; won by planting the olive; founded Athens "said to be the first established in the world"; Neptune wanted to flood land in anger; Mercury forbade it at Zeus's command
+- **[Fabulae](../sources/hyginus.md)** §166: Vulcan granted choice from gods; Neptune urged him to ask for Minerva in marriage; defended virginity with arms in struggle; Vulcan's seed fell to earth producing Erichthonius (snake-formed below); gave him in chest to Cecrops's daughters; crow revealed secret; drove daughters mad; they threw themselves into sea
 
 [^apd-argo-timber]: "at the prow Athena fitted in a speaking timber from the oak of Dodona" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-dragon-teeth]: "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes" (Bibliotheca 1.9.23, trans. Frazer)

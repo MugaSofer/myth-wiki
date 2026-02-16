@@ -47,3 +47,57 @@ When Cadmus and Harmonia later quit Thebes, they went to the Encheleans, who wer
 [^apd-cadmus-children]: "to Cadmus were born daughters, Autonoe, Ino, Semele, Agave, and a son Polydorus" (Bibliotheca 3.4.2, trans. J.G. Frazer)
 
 [^apd-cadmus-serpent]: "afterwards he was, along with Harmonia, turned into a serpent and sent away by Zeus to the Elysian Fields" (Bibliotheca 3.5.4, trans. J.G. Frazer)
+
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) provides two accounts of Cadmus — one emphasizing his transformation, the other the founding of Thebes.
+
+### Transformation into Serpents (§6)
+
+"Cadmus, son of Agenor and Argiope, along with Harmonia his wife, daughter of Venus and Mars, after their children had been killed, were turned into snakes in the region of Illyria by the wrath of Mars, because Cadmus had slain the dragon, guardian of the fountain of Castalia."[^hyg-6-serpents]
+
+The Fabulae attributes the serpent transformation specifically to [Ares](../deities/ares.md)' (Mars') wrath over the dragon's death, connecting it to the fountain of Castalia. This differs from the Bibliotheca, which presents the transformation neutrally and says they were "sent by Zeus to the Elysian Fields."
+
+### The Founding of Thebes (§178)
+
+In a longer section on Europa, the Fabulae narrates Cadmus's quest and the founding of Thebes.
+
+#### The Search for Europa
+
+"Europa was the daughter of Argiope and Agenor, a Sidonian. Jupiter, changing his form to that of a bull, carried her from Sidon to Crete, and begat by her Minos, Sarpedon, and Rhadamanthus."[^hyg-178-europa]
+
+"Her father Agenor sent his sons to bring their sister back, or else not to return to his sight."[^hyg-178-search] The brothers dispersed: "Phoenix set out for Africa, and there remained. From this the Africans are called Phoenicians. Cilix from his own name gave the name to Cilicia."[^hyg-178-brothers]
+
+#### The Oracle and the Cow
+
+"Cadmus in his wanderings came to Delphi. There the oracle told him to buy from farmers an ox which had a moon-shaped mark on its side, and to drive it before him. Where it lay down it was fated that he found a town and rule."[^hyg-178-oracle] The moon-shaped mark is a detail not in the Bibliotheca.
+
+"When Cadmus heard the oracle, he did as he was told."[^hyg-178-obey]
+
+#### The Dragon of Castalia
+
+"While seeking water he came to the fountain of Castalia, which a dragon, the offspring of Mars, was guarding. It killed the comrades of Cadmus, but was killed by Cadmus with a stone."[^hyg-178-dragon] This specifies the weapon (a stone) and names the spring as Castalia.
+
+#### The Sparti
+
+"Under Minerva's instructions he sowed the teeth and ploughed them under. From them sprang the Sparti. These fought themselves, but from them five survived, namely, Chthonius, Udaeus, Hyperenor, Pelorus, and Echion."[^hyg-178-sparti]
+
+#### Etymology
+
+"Moreover, Boeotia was named from the ox Cadmus followed."[^hyg-178-boeotia] This provides the folk etymology connecting Boeotia to the Greek word for ox (bous).
+
+[^hyg-6-serpents]: "Cadmus, son of Agenor and Argiope, along with Harmonia his wife, daughter of Venus and Mars, after their children had been killed, were turned into snakes in the region of Illyria by the wrath of Mars, because Cadmus had slain the dragon, guardian of the fountain of Castalia" (Fabulae §6, trans. Mary Grant)
+[^hyg-178-europa]: "Europa was the daughter of Argiope and Agenor, a Sidonian. Jupiter, changing his form to that of a bull, carried her from Sidon to Crete, and begat by her Minos, Sarpedon, and Rhadamanthus" (Fabulae §178, trans. Mary Grant)
+[^hyg-178-search]: "Her father Agenor sent his sons to bring their sister back, or else not to return to his sight" (Fabulae §178, trans. Mary Grant)
+[^hyg-178-brothers]: "Phoenix set out for Africa, and there remained. From this the Africans are called Phoenicians. Cilix from his own name gave the name to Cilicia" (Fabulae §178, trans. Mary Grant)
+[^hyg-178-oracle]: "Cadmus in his wanderings came to Delphi. There the oracle told him to buy from farmers an ox which had a moon-shaped mark on its side, and to drive it before him. Where it lay down it was fated that he found a town and rule" (Fabulae §178, trans. Mary Grant)
+[^hyg-178-obey]: "When Cadmus heard the oracle, he did as he was told" (Fabulae §178, trans. Mary Grant)
+[^hyg-178-dragon]: "While seeking water he came to the fountain of Castalia, which a dragon, the offspring of Mars, was guarding. It killed the comrades of Cadmus, but was killed by Cadmus with a stone" (Fabulae §178, trans. Mary Grant)
+[^hyg-178-sparti]: "Under Minerva's instructions he sowed the teeth and ploughed them under. From them sprang the Sparti. These fought themselves, but from them five survived, namely, Chthonius, Udaeus, Hyperenor, Pelorus, and Echion" (Fabulae §178, trans. Mary Grant)
+[^hyg-178-boeotia]: "Moreover, Boeotia was named from the ox Cadmus followed" (Fabulae §178, trans. Mary Grant)
+
+## Appearances
+
+- **[Bibliotheca](../sources/apollodorus.md)** 3.1.1-3.5.4: Search for Europa; oracle's cow; dragon at spring of Ares; sowing dragon's teeth; Sparti; servitude to Ares; marriage to Harmonia with gods attending; children; transformation to serpents in Illyria; sent to Elysian Fields
+- **[Fabulae](../sources/hyginus.md)** §6: Turned to snakes in Illyria by Mars' wrath for slaying dragon of Castalia; after children killed
+- **[Fabulae](../sources/hyginus.md)** §178: Europa abducted; Agenor sends sons; Phoenix to Africa (Phoenicians), Cilix to Cilicia; oracle tells Cadmus to follow ox with moon-mark; dragon at Castalia killed with stone; sowed teeth under Minerva's instruction; five Sparti survive; Boeotia named from ox

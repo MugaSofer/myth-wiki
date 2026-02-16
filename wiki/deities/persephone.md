@@ -105,6 +105,18 @@ Apollodorus records a striking variant: "by [Styx](styx.md) he had Persephone."[
 
 [^apd-persephone-styx]: "by Styx he had Persephone" (Bibliotheca 1.3.1, trans. Frazer)
 
+## In the Fabulae
+
+### The Abduction on Mount Etna (§146)
+
+The [Fabulae](../sources/hyginus.md) gives a strikingly different setting for Persephone's abduction. "[Pluto](hades.md) asked from [Jove](zeus.md) that he give him in marriage [Ceres](demeter.md)' daughter and his own."[^hyg-146-request] This detail — that Pluto explicitly requested permission from Zeus — appears in some traditions but is made explicit here.
+
+"Jove said that Ceres would not permit her daughter to live in gloomy [Tartarus](../places/tartarus.md), but bade him seize her as she was gathering flowers on Mount Etna, which is in Sicily."[^hyg-146-etna] The location of **Mount Etna** is a significant variant — the [Homeric Hymn](../sources/homeric-hymns.md) places the abduction "in the plain of Nysa," while Hyginus specifies the volcanic mountain in Sicily.
+
+Even more striking is the detail of who accompanied her: "While Proserpina was gathering flowers with [Venus](../deities/aphrodite.md), [Diana](../deities/artemis.md), and [Minerva](athena.md), [Pluto](hades.md) came in his four-horse chariot, and seized her."[^hyg-146-companions] This is radically different from the Homeric version, where Persephone gathered flowers "with the deep-bosomed daughters of Oceanus." Here, three major Olympian goddesses — Aphrodite, Artemis, and Athena — are present at the moment of abduction, yet unable (or unwilling) to prevent it.
+
+The resolution follows the standard pattern: "Afterwards Ceres obtained from Jove permission for her to stay half of the year with her, and half with Pluto."[^hyg-146-division] This differs from the usual one-third/two-thirds division and matches the seasonal symbolism more precisely (six months above, six below).
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 768, 913-914: Named in the underworld; abducted by Hades
@@ -112,3 +124,9 @@ Apollodorus records a striking variant: "by [Styx](styx.md) he had Persephone."[
 - **[Odyssey](../sources/odyssey.md)** X-XI: "Dread Persephone" in Circe's instructions; "Persephone hath given judgment" to Teiresias alone; "the daughter of Zeus, doth in no wise deceive thee" (Anticleia); "holy Persephone had scattered this way and that the spirits of the women folk" — sends forth the catalogue of heroines; Odysseus fears she may send the Gorgon's head
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.1: Daughter of [Zeus](zeus.md) and [Styx](styx.md) — variant from the standard tradition of Zeus and [Demeter](demeter.md)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.5.1-1.5.3: Carried off by Hades with Zeus's help; pomegranate seed; Ascalaphus bears witness; one-third year with Hades
+- **[Fabulae](../sources/hyginus.md)** §146: Pluto asks Zeus for permission; Zeus tells him to seize her on Mount Etna; gathering flowers with Venus, Diana, and Minerva; Pluto seizes her in four-horse chariot; half-year arrangement
+
+[^hyg-146-request]: "Pluto asked from Jove that he give him in marriage Ceres' daughter and his own" (Fabulae §146, trans. Mary Grant)
+[^hyg-146-etna]: "Jove said that Ceres would not permit her daughter to live in gloomy Tartarus, but bade him seize her as she was gathering flowers on Mount Etna, which is in Sicily" (Fabulae §146, trans. Mary Grant)
+[^hyg-146-companions]: "While Proserpina was gathering flowers with Venus, Diana, and Minerva, Pluto came in his four-horse chariot, and seized her" (Fabulae §146, trans. Mary Grant)
+[^hyg-146-division]: "Afterwards Ceres obtained from Jove permission for her to stay half of the year with her, and half with Pluto" (Fabulae §146, trans. Mary Grant)

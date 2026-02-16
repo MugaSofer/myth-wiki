@@ -42,6 +42,22 @@ After the fall of Troy, Menelaus quarrelled with [Agamemnon](agamemnon.md) — "
 
 In [Odyssey](../sources/odyssey.md) Book IV, Menelaus tells Telemachus of his wanderings and encounter with Proteus in Egypt. Proteus prophesied: "thou shalt not die and meet thy fate in Argos... but the deathless gods will convey thee to the Elysian plain... where life is easiest for men... for thou hast Helen to wife, and thereby they deem thee to be son of Zeus."
 
+## In the Fabulae
+
+### Marriage to Helen (§78)
+
+[Tyndareus](tyndareus.md) feared that discord might arise among [Helen](helen.md)'s suitors, and "at the advice of [Ulysses](odysseus.md) bound himself by an oath, and gave Helen leave to put a wreath on whomever she wished to marry. She put it on Menelaus, and Tyndareus gave her to him in marriage and at his death left him his kingdom."[^hyg-78]
+
+### The Abduction (§92)
+
+[Paris](paris.md), at the prompting of [Aphrodite](../deities/aphrodite.md), "took Helen from his host Menelaus from Lacedemon to Troy, and married her."[^hyg-92] Helen took with her "two handmaids, Aethra and Thisiadie, captives, but once queens, whom [Castor and Pollux](../heroes/dioscuri.md) had assigned to her."[^hyg-92-maids]
+
+### Proteus in Egypt (§118)
+
+After Troy's fall, Menelaus reached Egypt and encountered [Proteus](../beings/proteus.md), "the prophetic Old Man of the Sea... who used to change himself into all sorts of shapes. By the advice of his daughter Idothea, Menelaus bound him with a chain, so that he would tell him when he would reach home."[^hyg-118-proteus]
+
+Proteus revealed that "the gods were angry because Troy had been taken, and on that account an offering should be made which the Greeks call hekatombe, a hundred animals being slain. And so Menelaus offered a hekatombe. Then at length, the eighth year after he left Troy, he returned home with Helen."[^hyg-118-hekatombe]
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Single combat with Paris; nearly kills him; [Aphrodite](../deities/aphrodite.md) rescues Paris
@@ -56,6 +72,9 @@ In [Odyssey](../sources/odyssey.md) Book IV, Menelaus tells Telemachus of his wa
 - **[Bibliotheca](../sources/apollodorus.md)** E.4.1: Single combat with Paris; [Aphrodite](../deities/aphrodite.md) rescues Paris
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.22: Slays Deiphobus; leads Helen to the ships
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.29: Wanders eight years; Helen phantom variant; made immortal by [Hera](../deities/hera.md); Elysian Fields
+- **[Fabulae](../sources/hyginus.md)** §78: Tyndareus gives Helen to Menelaus; receives kingdom at Tyndareus's death
+- **[Fabulae](../sources/hyginus.md)** §92: Paris takes Helen from Menelaus
+- **[Fabulae](../sources/hyginus.md)** §118: Menelaus binds Proteus in Egypt; offers hekatombe; returns home after eight years
 
 [^apd-marriage]: "Tyndareus put the suitors on their oath, and while he chose Menelaus to be the bridegroom of Helen, he solicited Icarius to bestow Penelope on Ulysses" (Bibliotheca 3.10.9, trans. J.G. Frazer)
 [^apd-hermione]: "Menelaus had by Helen a daughter Hermione" (Bibliotheca 3.11.1, trans. J.G. Frazer)
@@ -67,3 +86,8 @@ In [Odyssey](../sources/odyssey.md) Book IV, Menelaus tells Telemachus of his wa
 [^apd-storm]: "Menelaus was overtaken by a storm, and after losing the rest of his vessels, arrived with five ships in Egypt" (Bibliotheca E.6.1, trans. J.G. Frazer)
 [^apd-return]: "being made immortal by Hera he went to the Elysian Fields with Helen" (Bibliotheca E.6.29, trans. J.G. Frazer)
 [^apd-phantom]: "according to some, he discovered Helen at the court of Proteus, king of Egypt; for till then Menelaus had only a phantom of her made of clouds" (Bibliotheca E.6.29, trans. J.G. Frazer)
+[^hyg-78]: "at the advice of Ulysses bound himself by an oath, and gave Helen leave to put a wreath on whomever she wished to marry. She put it on Menelaus, and Tyndareus gave her to him in marriage and at his death left him his kingdom" (Fabulae §78, trans. Mary Grant)
+[^hyg-92]: "Alexander, at the prompting of Venus, took Helen from his host Menelaus from Lacedemon to Troy, and married her" (Fabulae §92, trans. Mary Grant)
+[^hyg-92-maids]: "She took with her two handmaids, Aethra and Thisiadie, captives, but once queens, whom Castor and Pollux had assigned to her" (Fabulae §92, trans. Mary Grant)
+[^hyg-118-proteus]: "By the advice of his daughter Idothea, Menelaus bound him with a chain, so that he would tell him when he would reach home" (Fabulae §118, trans. Mary Grant)
+[^hyg-118-hekatombe]: "Proteus told him that the gods were angry because Troy had been taken, and on that account an offering should be made which the Greeks call hekatombe, a hundred animals being slain. And so Menelaus offered a hekatombe. Then at length, the eighth year after he left Troy, he returned home with Helen" (Fabulae §118, trans. Mary Grant)

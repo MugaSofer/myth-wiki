@@ -62,6 +62,78 @@ Dionysus revealed himself: "I am loud-crying Dionysus whom Cadmus' daughter Seme
 [^hh7-miracles]: "sweet, fragrant wine ran streaming throughout all the black ship... a vine spread out both ways along the top of the sail with many clusters hanging down from it, and a dark ivy-plant twined about the mast... the god changed into a dreadful lion there on the ship... the sailors fled into the stern... they leapt out overboard one and all into the bright sea, escaping from a miserable fate, and were changed into dolphins" (Homeric Hymn VII to Dionysus 35-53)
 [^hh7-reveal]: "I am loud-crying Dionysus whom Cadmus' daughter Semele bare of union with Zeus" (Homeric Hymn VII to Dionysus 56-57)
 
+## In the Fabulae
+
+### Nysus (§131)
+
+The [Fabulae](../sources/hyginus.md) tells of Dionysus's (Liber's) recovery of his Theban kingdom. "When Liber was leading his army into India, he gave the authority over his Theban kingdom to his nurse Nysus until he should come back."[^hyg-131-nysus] Upon return, "Nysus was unwilling to yield the kingdom."[^hyg-131-unwilling]
+
+Dionysus used cunning: "Since Liber didn't want to quarrel with his nurse he permitted him to keep the kingdom until an opportunity should come to recover it."[^hyg-131-cunning] Three years later, "he made up the quarrel with him, and pretended he wanted to celebrate in the state the sacred rites termed Trieteric, because he performed them after the third year."[^hyg-131-trieteric]
+
+The stratagem succeeded: "He introduced soldiers as Bacchanals in women's dress, captured Nysus, and recovered his kingdom."[^hyg-131-soldiers]
+
+[^hyg-131-nysus]: "When Liber was leading his army into India, he gave the authority over his Theban kingdom to his nurse Nysus until he should come back." (Fabulae §131, trans. Mary Grant)
+[^hyg-131-unwilling]: "But after Liber returned from there, Nysus was unwilling to yield the kingdom." (Fabulae §131, trans. Mary Grant)
+[^hyg-131-cunning]: "Since Liber didn't want to quarrel with his nurse he permitted him to keep the kingdom until an opportunity should come to recover it." (Fabulae §131, trans. Mary Grant)
+[^hyg-131-trieteric]: "And so, three years later, he made up the quarrel with him, and pretended he wanted to celebrate in the state the sacred rites termed Trieteric, because he performed them after the third year." (Fabulae §131, trans. Mary Grant)
+[^hyg-131-soldiers]: "He introduced soldiers as Bacchanals in women's dress, captured Nysus, and recovered his kingdom." (Fabulae §131, trans. Mary Grant)
+
+### Lycurgus (§132)
+
+Lycurgus challenged Dionysus's divinity. "Lycurgus, son of Dryas, drove Liber from his kingdom."[^hyg-132-drove] His blasphemy was deliberate: "When he denied that Liber was a god, and had drunk wine, and in drunkenness tried to violate his mother, he then tried to cut down the vines, because he said wine was a bad medicine in that it affected the mind."[^hyg-132-deny]
+
+Punishment came through madness: "Under madness sent by Liber he killed his wife and son."[^hyg-132-madness] His death was violent: "Liber threw Lycurgus himself to his panthers on Rhodope, a mountain of Thrace, over which he ruled."[^hyg-132-panthers] The madness persisted: "He is said to have cut off one foot thinking it was a vine."[^hyg-132-foot]
+
+[^hyg-132-drove]: "Lycurgus, son of Dryas, drove Liber from his kingdom." (Fabulae §132, trans. Mary Grant)
+[^hyg-132-deny]: "When he denied that Liber was a god, and had drunk wine, and in drunkenness tried to violate his mother, he then tried to cut down the vines, because he said wine was a bad medicine in that it affected the mind." (Fabulae §132, trans. Mary Grant)
+[^hyg-132-madness]: "Under madness sent by Liber he killed his wife and son." (Fabulae §132, trans. Mary Grant)
+[^hyg-132-panthers]: "Liber threw Lycurgus himself to his panthers on Rhodope, a mountain of Thrace, over which he ruled." (Fabulae §132, trans. Mary Grant)
+[^hyg-132-foot]: "He is said to have cut off one foot thinking it was a vine." (Fabulae §132, trans. Mary Grant)
+
+### Tyrrhenian Pirates (§134)
+
+The Fabulae recounts Dionysus's encounter with pirates. "When the Tyrrhenians, later called Tuscans, were on a piratical expedition, Father Liber, then a youth, came on their ship and asked them to take him to Naxos."[^hyg-134-youth] The pirates had evil intent: "When they had taken him on and wished to debauch him because of his beauty, Acoetes, the pilot, restrained them, and suffered at their hands."[^hyg-134-acoetes]
+
+Dionysus revealed his power: "Liber, seeing that their purpose remained the same, changed the oars to thyrsi, the sails to vine-leaves, the ropes to ivy; then lions and panthers leapt out."[^hyg-134-changed]
+
+The transformation was complete: "When they saw them, in fear they cast themselves into the sea, and even in the sea he changed them to a sort of beast. For whoever leaped overboard was changed into dolphin shape, and from this dolphins are called Tyrrhenians, and the sea Tyrrhenian."[^hyg-134-dolphins]
+
+The crew numbered twelve, with only Acoetes saved: "The last was the pilot, whom Liber saved out of kindness."[^hyg-134-saved]
+
+[^hyg-134-youth]: "When the Tyrrhenians, later called Tuscans, were on a piratical expedition, Father Liber, then a youth, came on their ship and asked them to take him to Naxos." (Fabulae §134, trans. Mary Grant)
+[^hyg-134-acoetes]: "When they had taken him on and wished to debauch him because of his beauty, Acoetes, the pilot, restrained them, and suffered at their hands." (Fabulae §134, trans. Mary Grant)
+[^hyg-134-changed]: "Liber, seeing that their purpose remained the same, changed the oars to thyrsi, the sails to vine-leaves, the ropes to ivy; then lions and panthers leapt out." (Fabulae §134, trans. Mary Grant)
+[^hyg-134-dolphins]: "When they saw them, in fear they cast themselves into the sea, and even in the sea he changed them to a sort of beast. For whoever leaped overboard was changed into dolphin shape, and from this dolphins are called Tyrrhenians, and the sea Tyrrhenian." (Fabulae §134, trans. Mary Grant)
+[^hyg-134-saved]: "They were twelve in number with the following names... The last was the pilot, whom Liber saved out of kindness." (Fabulae §134, trans. Mary Grant)
+
+### Birth from Semele (§167)
+
+The Fabulae preserves a unique variant of Dionysus's birth. "Liber, son of Jove [[Zeus](zeus.md)] and Proserpine [[Persephone](persephone.md)], was dismembered by the Titans, and Jove gave his heart, torn to bits, to Semele in a drink."[^hyg-167-heart] This led to conception: "When she was made pregnant by this, Juno [[Hera](hera.md)], changing herself to look like Semele's nurse, Beroe, said to her: 'Daughter, ask Jove to come to you as he comes to Juno, so you may know what pleasure it is to sleep with a god.'"[^hyg-167-beroe]
+
+The fatal request: "At her suggestion Semele made this request of Jove, and was smitten by a thunderbolt."[^hyg-167-thunderbolt] Zeus saved the child: "He took Liber from her womb, and gave him to Nysus to be cared for."[^hyg-167-nysus]
+
+The dual nature of the god: "For this reason he is called Dionysus, and also 'the one with two mothers.'"[^hyg-167-mothers]
+
+> **VARIANT:** This is radically different from standard tradition. Dionysus is usually Zeus and Semele's son from the beginning, not a resurrected Titan-slain son of Zeus and Persephone whose heart was given to Semele.
+
+[^hyg-167-heart]: "Liber, son of Jove and Proserpine, was dismembered by the Titans, and Jove gave his heart, torn to bits, to Semele in a drink." (Fabulae §167, trans. Mary Grant)
+[^hyg-167-beroe]: "When she was made pregnant by this, Juno, changing herself to look like Semele's nurse, Beroe, said to her: 'Daughter, ask Jove to come to you as he comes to Juno, so you may know what pleasure it is to sleep with a god.'" (Fabulae §167, trans. Mary Grant)
+[^hyg-167-thunderbolt]: "At her suggestion Semele made this request of Jove, and was smitten by a thunderbolt." (Fabulae §167, trans. Mary Grant)
+[^hyg-167-nysus]: "He took Liber from her womb, and gave him to Nysus to be cared for." (Fabulae §167, trans. Mary Grant)
+[^hyg-167-mothers]: "For this reason he is called Dionysus, and also 'the one with two mothers.'" (Fabulae §167, trans. Mary Grant)
+
+### Semele (§179)
+
+The Fabulae also gives the more standard version. "[Zeus](zeus.md) (Jove) desired to lie with Semele, and when Juno [[Hera](hera.md)] found out, she changed her form to that of the nurse Beroe, came to Semele, and suggested that she ask Jove to come to her as he came to Juno."[^hyg-179-suggestion]
+
+The request and result: "'that you may know', she said, 'what pleasure it is to lie with a god.' And so Semele asked Jove to come to her in this way. Her request was granted, and Jove, coming with lightning and thunder, burned Semele to death."[^hyg-179-burned]
+
+Zeus saved the child: "From her womb Liber was born. Mercury [[Hermes](hermes.md)] snatched him from the fire and gave him to Nysus to be reared. In Greek he is called Dionysus."[^hyg-179-greek]
+
+[^hyg-179-suggestion]: "Jove desired to lie with Semele, and when Juno found out, she changed her form to that of the nurse Beroe, came to Semele, and suggested that she ask Jove to come to her as he came to Juno." (Fabulae §179, trans. Mary Grant)
+[^hyg-179-burned]: "'that you may know', she said, 'what pleasure it is to lie with a god.' And so Semele asked Jove to come to her in this way. Her request was granted, and Jove, coming with lightning and thunder, burned Semele to death." (Fabulae §179, trans. Mary Grant)
+[^hyg-179-greek]: "From her womb Liber was born. Mercury snatched him from the fire and gave him to Nysus to be reared. In Greek he is called Dionysus." (Fabulae §179, trans. Mary Grant)
+
 ## In the Catalogue of Women
 
 ### The Gift of Wine (Fragment 87)
@@ -176,6 +248,11 @@ When [Theseus](../heroes/theseus.md) arrived at Naxos with [Ariadne](../heroes/a
 - **[Bibliotheca](../sources/apollodorus.md)** 3.5.3: Turns pirates' mast and oars into snakes; fills ship with ivy and flute-music; pirates become dolphins
 - **[Bibliotheca](../sources/apollodorus.md)** 3.5.3: Brings Semele up from Hades, names her Thyone, ascends to heaven with her
 - **[Bibliotheca](../sources/apollodorus.md)** E.1.9: Falls in love with Ariadne at Naxos; carries her off; fathers Thoas, Staphylus, Oenopion, and Peparethus
+- **[Fabulae](../sources/hyginus.md)** §131: Led army to India; gave Theban kingdom to nurse Nysus; Nysus unwilling to yield on return; pretended to make peace; introduced Trieter festival; soldiers disguised as Bacchanals in women's dress; captured Nysus; recovered kingdom
+- **[Fabulae](../sources/hyginus.md)** §132: Lycurgus drove Liber from kingdom; denied he was god; in drunkenness tried to violate mother and cut vines; madness sent by Liber; killed wife and son; thrown to panthers on Rhodope; cut off own foot thinking it a vine
+- **[Fabulae](../sources/hyginus.md)** §134: Tyrrhenian pirates took him aboard to Naxos; wished to debauch him; pilot Acoetes restrained them; changed oars to thyrsi, sails to vine-leaves, ropes to ivy; lions and panthers appeared; pirates cast themselves into sea; changed to dolphins; sea called Tyrrhenian; saved Acoetes
+- **[Fabulae](../sources/hyginus.md)** §167: Son of Jove and Proserpine (variant); dismembered by Titans; heart given to Semele in drink; Juno disguised as nurse Beroe; suggested she ask Jove to come as to Juno; smitten by thunderbolt; Jove took Liber from womb; gave to Nysus; called "the one with two mothers"
+- **[Fabulae](../sources/hyginus.md)** §179: Jove desired Semele; Juno disguised as Beroe; suggested she ask Jove to come with lightning and thunder; Semele burned to death; Mercury snatched Liber from fire; gave to Nysus to be reared
 
 [^apd-vine]: "Reigning over Calydon, Oeneus was the first who received a vine-plant from Dionysus" (Bibliotheca 1.8.1, trans. Frazer)
 [^apd-deianira]: "Deianira, who is said to have been begotten on Althaea by Dionysus" (Bibliotheca 1.8.1, trans. Frazer)

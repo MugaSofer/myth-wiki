@@ -65,6 +65,31 @@ Apollodorus names the Sirens' parents: "Melpomene had by Achelous the Sirens."[^
 
 [^apd-sirens-parents]: "Melpomene had by Achelous the Sirens" (Bibliotheca 1.3.4, trans. Frazer)
 
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) gives a unique origin story for the Sirens' nature and a prophecy about their fate.
+
+### Origin and Transformation
+
+"The Sirens, daughter of the River Achelous and the Muse Melpomene, wandering away after the rape of Proserpina, came to the land of Apollo, and there were made flying creatures by the will of Ceres because they had not brought help to her daughter."[^hyg-141-origin]
+
+This presents them as originally companions of [Persephone](../deities/persephone.md) (Proserpina) who failed to prevent her abduction by [Hades](../deities/hades.md) (Pluto). [Demeter](../deities/demeter.md) (Ceres) punished them by transforming them into "flying creatures" — presumably birds or bird-women.
+
+### The Prophecy
+
+"It was predicted that they would live only until someone who heard their singing would pass by."[^hyg-141-prophecy] This prophecy explains their vulnerability: they are fated to die when a listener escapes.
+
+### Death
+
+"Ulysses proved fatal to them, for when by his cleverness he passed by the rocks where they dwelt, they threw themselves into the sea."[^hyg-141-death] The Fabulae thus records the Sirens' death following Odysseus's (Ulysses') passage — they committed suicide by drowning.
+
+"This place is called Sirenides from them, and is between Sicily and Italy."[^hyg-141-place]
+
+[^hyg-141-origin]: "The Sirens, daughter of the River Achelous and the Muse Melpomene, wandering away after the rape of Proserpina, came to the land of Apollo, and there were made flying creatures by the will of Ceres because they had not brought help to her daughter" (Fabulae §141, trans. Mary Grant)
+[^hyg-141-prophecy]: "It was predicted that they would live only until someone who heard their singing would pass by" (Fabulae §141, trans. Mary Grant)
+[^hyg-141-death]: "Ulysses proved fatal to them, for when by his cleverness he passed by the rocks where they dwelt, they threw themselves into the sea" (Fabulae §141, trans. Mary Grant)
+[^hyg-141-place]: "This place is called Sirenides from them, and is between Sicily and Italy" (Fabulae §141, trans. Mary Grant)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 47: Island named Anthemoessa ("Flowery"); individual names (Thelxiope/Thelxinoe, Molpe, Aglaophonus); "charmed even the winds"
@@ -72,6 +97,7 @@ Apollodorus names the Sirens' parents: "Melpomene had by Achelous the Sirens."[^
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.4: Parentage — daughters of Melpomene and Achelous
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.10: Variant parentage — Sterope (daughter of Porthaon) "is said to have been the mother of the Sirens by Achelous"[^apd-sterope]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Orpheus countered their song — "Orpheus restrained the Argonauts by chanting a counter-melody. Butes alone swam off to the Sirens, but [Aphrodite](../deities/aphrodite.md) carried him away"[^apd-orpheus]
+- **[Fabulae](../sources/hyginus.md)** §141: Daughters of Achelous and Melpomene; companions of Proserpina; transformed to flying creatures by Ceres for failing to prevent rape; prophecy they'd live only until someone passed who heard their song; threw themselves into sea after Ulysses passed; place called Sirenides between Sicily and Italy
 
 [^apd-sterope]: "Sterope, who is said to have been the mother of the Sirens by Achelous" (Bibliotheca 1.7.10, trans. Frazer)
 [^apd-orpheus]: "Orpheus restrained the Argonauts by chanting a counter-melody. Butes alone swam off to the Sirens, but Aphrodite carried him away and settled him in Lilybaeum" (Bibliotheca 1.9.25, trans. Frazer)

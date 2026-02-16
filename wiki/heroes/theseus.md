@@ -56,6 +56,60 @@ Meanwhile the Dioscuri captured Athens, recovered Helen, and gave the sovereignt
 | Bibliotheca E.1.9 | Kills the Minotaur by smiting it with his fists — no weapon needed |
 | Bibliotheca E.1.16 | A warrior who campaigns alongside Heracles |
 
+## In the Fabulae
+
+### The Tokens Under the Stone (§37)
+
+The [Fabulae](../sources/hyginus.md) provides a clean account of Theseus's dual paternity. "Neptune and Aegeus, son of Pandion, one night in the shrine of Minerva both lay with Aethra, daughter of Pittheus. Neptune conceded the child to Aegeus."[^hyg-37-dual] Before returning to Athens, Aegeus "put his sword under a stone, and told Aethra that when the boy could lift the stone and take his father's sword, she should send him to him. He would recognize his son by that."[^hyg-37-token]
+
+"When he had reached young manhood, his mother told him Aegeus' instructions, showed him the stone so that he could get the sword, and bade him set out for Athens to Aegeus... and he killed all those who made the road unsafe."[^hyg-37-labors]
+
+> **NEW DETAIL:** [Poseidon](../deities/poseidon.md) "conceded the child to Aegeus" — a striking acknowledgment of divine precedence yielding to mortal paternity.
+
+[^hyg-37-dual]: "Neptune and Aegeus, son of Pandion, one night in the shrine of Minerva both lay with Aethra, daughter of Pittheus. Neptune conceded the child to Aegeus" (Fabulae §37, trans. Mary Grant)
+[^hyg-37-token]: "put his sword under a stone, and told Aethra that when the boy could lift the stone and take his father's sword, she should send him to him. He would recognize his son by that" (Fabulae §37, trans. Mary Grant)
+[^hyg-37-labors]: "When he had reached young manhood, his mother told him Aegeus' instructions, showed him the stone so that he could get the sword, and bade him set out for Athens to Aegeus... and he killed all those who made the road unsafe" (Fabulae §37, trans. Mary Grant)
+
+### The Six Labours (§38)
+
+Hyginus catalogues Theseus's road-clearing exploits with vivid detail:
+
+1. **Corynetes**: "He slew Corynetes, son of Neptune, by force of arms."[^hyg-38-corynetes]
+2. **Pityocamptes** (the Pine-bender): "He killed Pityocamptes, who forced travellers to help him bend a pine tree to the ground. When they had taken hold of it with him, he let it rebound suddenly with force. Thus they were dashed violently to the ground and died."[^hyg-38-pityocamptes]
+3. **Procrustes**: "He killed Procrustes, son of Neptune. When a guest came to visit him, if he was rather tall, he brought a shorter bed, and cut off the rest of his body; if rather short, he gave him a longer bed, and by hanging anvils to him stretched him to match the length of the bed."[^hyg-38-procrustes]
+4. **Sciron**: "Sciron used to sit near the sea at a certain point, and compel those who passed by to wash his feet; then he kicked them into the sea. Theseus cast him into the sea by a similar death, and from this the rocks are called those of Sciron."[^hyg-38-sciron]
+5. **Cercyon**: "He killed by force of arms Cercyon, son of Vulcan."[^hyg-38-cercyon]
+6. **The Crommyonian Boar**: "He killed the boar which was at Cremyon."[^hyg-38-boar]
+
+Additionally: "He killed the bull at Marathon, which Hercules had brought to Eurystheus from Crete. He killed the Minotaur in the town of Cnossus."[^hyg-38-minotaur]
+
+[^hyg-38-corynetes]: "He slew Corynetes, son of Neptune, by force of arms" (Fabulae §38, trans. Mary Grant)
+[^hyg-38-pityocamptes]: "He killed Pityocamptes, who forced travellers to help him bend a pine tree to the ground. When they had taken hold of it with him, he let it rebound suddenly with force. Thus they were dashed violently to the ground and died" (Fabulae §38, trans. Mary Grant)
+[^hyg-38-procrustes]: "He killed Procrustes, son of Neptune. When a guest came to visit him, if he was rather tall, he brought a shorter bed, and cut off the rest of his body; if rather short, he gave him a longer bed, and by hanging anvils to him stretched him to match the length of the bed" (Fabulae §38, trans. Mary Grant)
+[^hyg-38-sciron]: "Sciron used to sit near the sea at a certain point, and compel those who passed by to wash his feet; then he kicked them into the sea. Theseus cast him into the sea by a similar death, and from this the rocks are called those of Sciron" (Fabulae §38, trans. Mary Grant)
+[^hyg-38-cercyon]: "He killed by force of arms Cercyon, son of Vulcan" (Fabulae §38, trans. Mary Grant)
+[^hyg-38-boar]: "He killed the boar which was at Cremyon" (Fabulae §38, trans. Mary Grant)
+[^hyg-38-minotaur]: "He killed the bull at Marathon, which Hercules had brought to Eurystheus from Crete. He killed the Minotaur in the town of Cnossus" (Fabulae §38, trans. Mary Grant)
+
+### Ariadne and the Labyrinth (§42)
+
+The Minotaur episode is told briefly. "When Theseus came to Crete, Ariadne, Minos' daughter, loved him so much that she betrayed her brother and saved the stranger, or she showed Theseus the way out of the Labyrinth."[^hyg-42-ariadne] Theseus "entered and killed the Minotaur, by Ariadne's advise he got out by unwinding the thread. Ariadne, because she had been loyal to him, he took away, intending to marry her."[^hyg-42-thread]
+
+[^hyg-42-ariadne]: "When Theseus came to Crete, Ariadne, Minos' daughter, loved him so much that she betrayed her brother and saved the stranger, or she showed Theseus the way out of the Labyrinth" (Fabulae §42, trans. Mary Grant)
+[^hyg-42-thread]: "When Theseus had entered and killed the Minotaur, by Ariadne's advise he got out by unwinding the thread. Ariadne, because she had been loyal to him, he took away, intending to marry her" (Fabulae §42, trans. Mary Grant)
+
+### Abandonment on Dia (§43)
+
+The abandonment is presented as deliberate shame-avoidance. "Theseus, detained by a storm on the island of Dia, though it would be a reproach to him if he brought Ariadne to Athens, and so he left her asleep on the island of Dia."[^hyg-43-abandon] [Dionysus](../deities/dionysus.md) "falling in love with her, took her from there as his wife."[^hyg-43-dionysus]
+
+The black sails follow: "when Theseus left, he forgot to change the black sails, and so his father Aegeus judged that he had been devoured by the Minotaur. He threw himself into the sea, which was called Aegean from this."[^hyg-43-aegeus]
+
+> **VARIANT:** Hyginus says Theseus deliberately abandoned Ariadne to avoid reproach, not that he was ordered by [Dionysus](../deities/dionysus.md) or [Athena](../deities/athena.md).
+
+[^hyg-43-abandon]: "Theseus, detained by a storm on the island of Dia, though it would be a reproach to him if he brought Ariadne to Athens, and so he left her asleep on the island of Dia" (Fabulae §43, trans. Mary Grant)
+[^hyg-43-dionysus]: "Liber, falling in love with her, took her from there as his wife" (Fabulae §43, trans. Mary Grant)
+[^hyg-43-aegeus]: "when Theseus left, he forgot to change the black sails, and so his father Aegeus judged that he had been devoured by the Minotaur. He threw himself into the sea, which was called Aegean from this. But Theseus married Phaedra, Ariadne's sister" (Fabulae §43, trans. Mary Grant)
+
 ## Footnotes
 
 [^apd-theseus-birth]: "Pittheus, son of Pelops, who, understanding the oracle, made him drunk and caused him to lie with his daughter Aethra. But in the same night Poseidon also had connexion with her" (Bibliotheca 3.15.7, trans. J.G. Frazer)
@@ -91,3 +145,15 @@ Meanwhile the Dioscuri captured Athens, recovered Helen, and gave the sovereignt
 [^apd-theseus-hades]: "Hades bade them first be seated on the Chair of Forgetfulness, to which they grew and were held fast by coils of serpents. Pirithous, therefore, remained bound for ever, but Hercules brought Theseus up" (Epitome 1.24, trans. J.G. Frazer)
 
 [^apd-theseus-death]: "Thence he was driven by Menestheus and went to Lycomedes, who threw him down an abyss and killed him" (Epitome 1.24, trans. J.G. Frazer)
+
+## Appearances
+
+- **[Bibliotheca](../sources/apollodorus.md)** 3.15.7: Aegeus and Poseidon both lay with Aethra; dual paternity
+- **[Bibliotheca](../sources/apollodorus.md)** 3.16.1-3.16.2: Lifted rock, took sword and sandals; six labours clearing the road to Athens
+- **[Bibliotheca](../sources/apollodorus.md)** E.1.1-E.1.10: Medea's plot; Marathonian bull; Minotaur slain with fists; Ariadne's thread; Dionysus carried off Ariadne; Aegeus's death
+- **[Bibliotheca](../sources/apollodorus.md)** E.1.16-E.1.24: Amazon campaign with Heracles; Hippolytus and Phaedra; descent to Hades; Chair of Forgetfulness; rescued by Heracles; death by Lycomedes
+- **[Catalogue of Women](../sources/catalogue-of-women.md)** Fragment 76: Abandoned Ariadne for Aegle, daughter of Panopeus; wedded Hippe and Aegle
+- **[Fabulae](../sources/hyginus.md)** §37: Neptune and Aegeus both lay with Aethra in Minerva's shrine; Neptune conceded child to Aegeus; Aegeus put sword under stone as token; Theseus lifted it in young manhood, cleared road to Athens
+- **[Fabulae](../sources/hyginus.md)** §38: Six labours in detail — slew Corynetes (son of Neptune); killed Pityocamptes (pine-bender); killed Procrustes (son of Neptune, bed-fitter with anvils); cast Sciron into sea (Scironian rocks); killed Cercyon (son of Vulcan); killed Crommyonian boar; killed Marathonian bull; killed Minotaur at Cnossus
+- **[Fabulae](../sources/hyginus.md)** §42: Ariadne loved him, betrayed her brother (Minotaur), showed way out of Labyrinth; Theseus killed Minotaur, escaped by thread; took Ariadne to marry her
+- **[Fabulae](../sources/hyginus.md)** §43: Detained by storm on Dia; thought it reproach to bring Ariadne to Athens, left her asleep; Dionysus took her as wife; Theseus forgot black sails; Aegeus threw himself into sea (called Aegean); married Phaedra

@@ -102,6 +102,16 @@ In a fragment of the Little Iliad, Neoptolemus "put Aeneas, the famous son of ho
 
 <!-- NOTE: Apollodorus content is currently being processed by other agents and will be added later. -->
 
+## In the Fabulae
+
+### The Union of Venus and Anchises (§94)
+
+In the [Fabulae](../sources/hyginus.md), the story of Aeneas's conception is told with emphasis on the consequence of revelation. "[Aphrodite](../deities/aphrodite.md) is said to have loved Anchises and to have lain with him."[^hyg-94-union] By their union "she conceived Aeneas, but she warned him not to reveal it to anyone."[^hyg-94-warning]
+
+The prohibition was absolute, yet "Anchises, however, told it over the wine to his companions."[^hyg-94-reveal] This is a significant variant: where the [Homeric Hymn](../sources/homeric-hymns.md) only warns of the punishment, Hyginus states that Anchises actually violated the taboo.
+
+"And for this was struck by the thunderbolt of [Jove](../deities/zeus.md). Some say that he died by his own hand."[^hyg-94-punishment] This detail -- whether Anchises was struck by lightning or took his own life -- appears nowhere else in the tradition and represents a darker ending than the Homeric version.
+
 ## Appearances
 
 - **[Homeric Hymn V](../sources/homeric-hymns.md)** (to Aphrodite): Conception prophesied; name etymologized from *ainos* ("awful grief"); mountain nymphs to raise him; Anchises warned never to reveal his divine mother
@@ -113,6 +123,7 @@ In a fragment of the Little Iliad, Neoptolemus "put Aeneas, the famous son of ho
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Ordered by [Aphrodite](../deities/aphrodite.md) to sail with Alexandros; cattle driven off by Achilles
 - **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): His followers withdraw to Ida when serpents destroy Laocoon
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Taken captive by Neoptolemus, "a prize surpassing those of all the Danaans"
+- **[Fabulae](../sources/hyginus.md)** §94: Venus loved Anchises and conceived Aeneas; warned him not to reveal it; Anchises told it over the wine; struck by thunderbolt (or died by his own hand)
 
 [^il20-genealogy]: "First Zeus the cloud-gatherer begat Dardanos, and he stablished Dardania... Then Dardanos begat a son, king Erichthonios, who became richest of mortal men... Then Erichthonios begat Tros to be lord over the Trojans, and to Tros three noble sons were born, Ilos and Assarakos and godlike Ganymedes... And Assarakos begat Kapys, and Kapys Anchises, and Anchises me; but Priam begat the goodly Hector" (Iliad XX.11491-11509, trans. Lang, Leaf, and Myers)
 [^hh5-desire]: "And so he put in her heart sweet desire for Anchises who was tending cattle at that time among the steep hills of many-fountained Ida, and in shape was like the immortal gods" (Homeric Hymn V to Aphrodite 53-55, trans. H.G. Evelyn-White)
@@ -145,3 +156,7 @@ In a fragment of the Little Iliad, Neoptolemus "put Aeneas, the famous son of ho
 [^cyp-cattle]: "Achilles drives off the cattle of Aeneas, and sacks Lyrnessus and Pedasus" (Cypria, summary by Proclus, trans. H.G. Evelyn-White)
 [^sack-ida]: "two serpents appeared and destroyed Laocoon and one of his two sons, a portent which so alarmed the followers of Aeneas that they withdrew to Ida" (Sack of Ilium, summary by Proclus, trans. H.G. Evelyn-White)
 [^liliad-captive]: "he put Aeneas, the famous son of horse-taming Anchises, on board his sea-faring ships, a prize surpassing those of all the Danaans" (Little Iliad, Fragment 11, trans. H.G. Evelyn-White)
+[^hyg-94-union]: "Venus is said to have loved Anchises and to have lain with him" (Fabulae §94, trans. Mary Grant)
+[^hyg-94-warning]: "By him she conceived Aeneas, but she warned him not to reveal it to anyone" (Fabulae §94, trans. Mary Grant)
+[^hyg-94-reveal]: "Anchises, however, told it over the wine to his companions" (Fabulae §94, trans. Mary Grant)
+[^hyg-94-punishment]: "and for this was struck by the thunderbolt of Jove. Some say that he died by his own hand" (Fabulae §94, trans. Mary Grant)

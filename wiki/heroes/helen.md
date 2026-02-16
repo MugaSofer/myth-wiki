@@ -168,6 +168,55 @@ The Cypria also contains the Nemesis variant of Helen's birth (see Parentage abo
 
 [^cyp-judgment]: "Alexandrus, lured by his promised marriage with Helen, decides in favour of Aphrodite" (Cypria, summary by Proclus, trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### Birth from Leda (§77)
+
+The Fabulae gives the traditional account: "Jupiter, changed into a swan, had intercourse with Leda near the river Eurotas, and from that embrace she bore Pollux and Helen; to Tyndareus she bore Castor and Clytemnestra."[^hyg77-leda]
+
+[^hyg77-leda]: "Jupiter, changed into a swan, had intercourse with Leda near the river Eurotas, and from that embrace she bore Pollux and Helen; to Tyndareus she bore Castor and Clytemnestra" (Fabulae §77, trans. Mary Grant)
+
+### Tyndareus and the Suitors (§78)
+
+Hyginus explains that Tyndareus delayed the suitor decision out of fear: "Because of her exceeding beauty many suitors from many states sought Helen in marriage. Tyndareus, since he feared that Agamemnon might divorce his daughter Clytemnestra, and that discord might arise from this, at the advice of [Ulysses](odysseus.md) bound himself by an oath."[^hyg78-oath] The oath came from Odysseus's counsel, and in exchange Tyndareus "gave Helen leave to put a wreath on whomever she wished to marry. She put it on Menelaus, and Tyndareus gave her to him in marriage and at his death left him his kingdom."[^hyg78-choice]
+
+[^hyg78-oath]: "Because of her exceeding beauty many suitors from many states sought Helen in marriage. Tyndareus, since he feared that Agamemnon might divorce his daughter Clytemnestra, and that discord might arise from this, at the advice of Ulysses bound himself by an oath" (Fabulae §78, trans. Mary Grant)
+[^hyg78-choice]: "and gave Helen leave to put a wreath on whomever she wished to marry. She put it on Menelaus, and Tyndareus gave her to him in marriage and at his death left him his kingdom" (Fabulae §78, trans. Mary Grant)
+
+### Abduction by Theseus (§79)
+
+The account of Theseus's abduction adds theological motivation: "[Theseus](theseus.md), son of Aegeus and Aethra, daughter of Pittheus, along with Pirithous, son of Ixion, carried off the maiden Helen, daughter of Tyndareus and Leda, from the shrine of [Diana](../deities/artemis.md) while she was sacrificing, and took her to Athens, to a district of the Attic region."[^hyg79-abduction]
+
+[Zeus](../deities/zeus.md) punished this hubris by sending them to [Hades](../deities/hades.md): "When [Jove](../deities/zeus.md) saw that they had such audacity as to expose themselves to danger, he bade them in a dream both go and ask [Pluto](../deities/hades.md) on Pirithous' part for [Proserpine](../deities/persephone.md) in marriage."[^hyg79-dream] When they descended, "they were stretched out and tortured for a long time by the Furies."[^hyg79-torture] [Heracles](heracles.md) "obtained the favour from Pluto, and brought them out unharmed."[^hyg79-rescue]
+
+The consequence for Theseus's family: "Castor and Pollux, Helen's brothers, fought for her sake, and took Aethra, Theseus' mother, and Phisadie, Pirithous' sister, and gave them in servitude to their sister."[^hyg79-revenge]
+
+[^hyg79-abduction]: "Theseus, son of Aegeus and Aethra, daughter of Pittheus, along with Pirithous, son of Ixion, carried off the maiden Helen, daughter of Tyndareus and Leda, from the shrine of Diana while she was sacrificing, and took her to Athens, to a district of the Attic region" (Fabulae §79, trans. Mary Grant)
+[^hyg79-dream]: "When Jove saw that they had such audacity as to expose themselves to danger, he bade them in a dream both go and ask Pluto on Pirithous' part for Proserpine in marriage" (Fabulae §79, trans. Mary Grant)
+[^hyg79-torture]: "When they had descended to the Land of the Dead through the peninsula Taenarus, and had informed Pluto why they had come, they were stretched out and tortured for a long time by the Furies" (Fabulae §79, trans. Mary Grant)
+[^hyg79-rescue]: "When Hercules came to lead out the three-headed dog, they begged his promise of protection. He obtained the favour from Pluto, and brought them out unharmed" (Fabulae §79, trans. Mary Grant)
+[^hyg79-revenge]: "Castor and Pollux, Helen's brothers, fought for her sake, and took Aethra, Theseus' mother, and Phisadie, Pirithous' sister, and gave them in servitude to their sister" (Fabulae §79, trans. Mary Grant)
+
+### List of Suitors (§81)
+
+The Fabulae provides a full catalog of Helen's suitors: "Antilochus, Ascalaphus, Ajax, son of Oileus, Amphimachus, [Ancaeus], Blanirus, Agapenor, Ajax, son of Telamon, Clytius the Cyanean, Menelaus, Patroclus, Diomedes, Peneleus, Phemius, Nireus, Polypoetes, Elephenor, Eumelus, Sthenelus, Tlepolemus, Protesilaus, Podalirius, Eurypylus, Idomeneus, Leonteus, Thalpius, Polyxenus, Prothous, Menestheus, Machaon, Thoas, [Ulysses](odysseus.md), Phidippus, Meriones, Meges, Philoctetes. Older writers mention others."[^hyg81-suitors]
+
+[^hyg81-suitors]: "Antilochus, Ascalaphus, Ajax, son of Oileus, Amphimachus, [Ancaeus], Blanirus, Agapenor, Ajax, son of Telamon, Clytius the Cyanean, Menelaus, Patroclus, Diomedes, Peneleus, Phemius, Nireus, Polypoetes, Elephenor, Eumelus, Sthenelus, Tlepolemus, Protesilaus, Podalirius, Eurypylus, Idomeneus, Leonteus, Thalpius, Polyxenus, Prothous, Menestheus, Machaon, Thoas, Ulysses, Phidippus, Meriones, Meges, Philoctetes. Older writers mention others" (Fabulae §81, trans. Mary Grant)
+
+### The Judgment of Paris (§92)
+
+Hyginus narrates the Judgment in detail. [Jove](../deities/zeus.md) "invited to the wedding of Peleus and [Thetis](../deities/thetis.md) all the gods except Eris, or Discordia."[^hyg92-eris] The goddess of discord "threw an apple through the door, saying that the fairest should take it. [Juno](../deities/hera.md), [Venus](../deities/aphrodite.md), and [Minerva](../deities/athena.md) claimed the beauty prize for themselves."[^hyg92-apple]
+
+The bribes are detailed: "Juno promised him, if he should judge in her favour, that he would rule over all the lands and be pre-eminent wealth. Minerva promised that if she should come out victorious, he would be bravest of mortals and skilled in every craft. Venus, however, promised to give him in marriage Helen, daughter of Tyndareus, most beautiful of all women."[^hyg92-bribes]
+
+After Paris judged Venus the winner, "On account of this, Juno and Minerva were hostile to the Trojans."[^hyg92-consequence] Paris "took Helen from his host Menelaus from Lacedemon to [Troy](../places/troy.md), and married her. She took with her two handmaids, Aethra and Thisiadie, captives, but once queens, whom Castor and Pollux had assigned to her."[^hyg92-handmaids]
+
+[^hyg92-eris]: "Jove is said to have invited to the wedding of Peleus and Thetis all the gods except Eris, or Discordia" (Fabulae §92, trans. Mary Grant)
+[^hyg92-apple]: "When she came later and was not admitted to the banquet, she threw an apple through the door, saying that the fairest should take it. Juno, Venus, and Minerva claimed the beauty prize for themselves" (Fabulae §92, trans. Mary Grant)
+[^hyg92-bribes]: "Juno promised him, if he should judge in her favour, that he would rule over all the lands and be pre-eminent wealth. Minerva promised that if she should come out victorious, he would be bravest of mortals and skilled in every craft. Venus, however, promised to give him in marriage Helen, daughter of Tyndareus, most beautiful of all women" (Fabulae §92, trans. Mary Grant)
+[^hyg92-consequence]: "Paris preferred the last gift to the former ones, and judges Venus the most lovely. On account of this, Juno and Minerva were hostile to the Trojans" (Fabulae §92, trans. Mary Grant)
+[^hyg92-handmaids]: "Alexander, at the prompting of Venus, took Helen from his host Menelaus from Lacedemon to Troy, and married her. She took with her two handmaids, Aethra and Thisiadie, captives, but once queens, whom Castor and Pollux had assigned to her" (Fabulae §92, trans. Mary Grant)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: [Iris](../deities/iris.md) summons her (disguised as Laodike); weaves tapestry of the war; elders compare her to "the immortal goddesses"; Priam holds her blameless; identifies Achaian heroes; [Aphrodite](../deities/aphrodite.md) disguised as old woman summons her; Helen sees through disguise ("fair neck and lovely breast and sparkling eyes"); defies Aphrodite; Aphrodite threatens her ("lest in mine anger I desert thee"); Helen obeys in fear; chides Paris
@@ -182,3 +231,8 @@ The Cypria also contains the Nemesis variant of Helen's birth (see Parentage abo
 - **Catalogue of Women** Fragment 67: [Aphrodite](../deities/aphrodite.md)'s curse on Tyndareus's daughters — Helen, Clytaemnestra, and Timandra all desert their husbands
 - **Catalogue of Women** Fragment 68: Full list of suitors with gifts; Menelaus wins by giving the greatest gifts; Achilles too young to compete
 - **[Bibliotheca](../sources/apollodorus.md)** 3.10.7: Born of [Zeus](../deities/zeus.md) and Leda; or of [Zeus](../deities/zeus.md) and Nemesis (egg variant)
+- **[Fabulae](../sources/hyginus.md)** §77: [Jove](../deities/zeus.md) as swan with Leda near river Eurotas; bore Pollux and Helen; Tyndareus father of Castor and Clytemnestra
+- **[Fabulae](../sources/hyginus.md)** §78: Many suitors from many states; Tyndareus fears consequences; takes oath on [Ulysses](odysseus.md)' advice; Helen places wreath on Menelaus; Tyndareus gives kingdom at death
+- **[Fabulae](../sources/hyginus.md)** §79: Abducted from shrine of [Diana](../deities/artemis.md) while sacrificing by [Theseus](theseus.md) and Pirithous; [Jove](../deities/zeus.md) punishes them by sending to underworld; tortured by Furies; rescued by [Heracles](heracles.md); Castor and Pollux take Aethra and Phisadie as slaves for Helen
+- **[Fabulae](../sources/hyginus.md)** §81: Full list of suitors (37 named)
+- **[Fabulae](../sources/hyginus.md)** §92: The apple of Discord at wedding of Peleus and [Thetis](../deities/thetis.md); Judgment of Paris; bribes from [Juno](../deities/hera.md) (lands and wealth), [Minerva](../deities/athena.md) (bravery and skill), and [Venus](../deities/aphrodite.md) (Helen); Paris chooses Venus; takes Helen from Menelaus; brings handmaids Aethra and Thisiadie

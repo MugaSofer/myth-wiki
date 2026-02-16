@@ -92,8 +92,23 @@ Typhon came to Thrace, "and in fighting at Mount Haemus he heaved whole mountain
 [^apd-typh-haemus]: "in fighting at Mount Haemus he heaved whole mountains. But when these recoiled on him through the force of the thunderbolt, a stream of blood gushed out on the mountain, and they say that from that circumstance the mountain was called Haemus." (Bibliotheca 1.6.3, trans. Frazer)
 [^apd-typh-etna]: "when he started to flee through the Sicilian sea, Zeus cast Mount Etna in Sicily upon him. That is a huge mountain, from which down to this day they say that blasts of fire issue from the thunderbolts that were thrown." (Bibliotheca 1.6.3, trans. Frazer)
 
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) gives a brief account emphasizing Typhoeus's parentage and final location.
+
+"Tartarus begat by Tartara, Typhon, a creature of immense size and fearful shape, who had a hundred dragon heads springing from his shoulders."[^hyg-152-desc] This differs from the Theogony (which names [Gaia](../deities/gaia.md) as mother) and presents both parents as forms of [Tartarus](../places/tartarus.md) itself.
+
+"He challenged Jove to see if Jove would content with him for the rule."[^hyg-152-challenge] The battle was decisive: "Jove struck his breast with a flaming thunderbolt. When it was burning him he put Mount Etna, which is in Sicily, over him. From this it is said to burn still."[^hyg-152-etna]
+
+> **VARIANT:** Like the Bibliotheca but unlike the Theogony, the Fabulae places Typhoeus under Mount Etna rather than in Tartarus, explaining the volcano's eternal fires.
+
+[^hyg-152-desc]: "Tartarus begat by Tartara, Typhon, a creature of immense size and fearful shape, who had a hundred dragon heads springing from his shoulders" (Fabulae §152, trans. Mary Grant)
+[^hyg-152-challenge]: "He challenged Jove to see if Jove would content with him for the rule" (Fabulae §152, trans. Mary Grant)
+[^hyg-152-etna]: "Jove struck his breast with a flaming thunderbolt. When it was burning him he put Mount Etna, which is in Sicily, over him. From this it is said to burn still" (Fabulae §152, trans. Mary Grant)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 306 (as Typhaon), 820-880: Father of monsters; battle with Zeus
 - **[Iliad](../sources/iliad.md)** II: "Typhoeus' couch" in the country of the Arimoi, where Zeus lashes the earth
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.3: Expanded narrative — birth in Cilicia, detailed description, gods flee to Egypt as animals, Zeus defeated and sinews stolen, recovery via Hermes and Aegipan, pursuit through Nysa/Haemus/Sicily, Mt. Etna cast upon him
+- **[Fabulae](../sources/hyginus.md)** §152: Tartarus begat by Tartara; hundred dragon heads from shoulders; challenged Zeus for rule; struck by thunderbolt and buried under Mt. Etna; volcano still burns

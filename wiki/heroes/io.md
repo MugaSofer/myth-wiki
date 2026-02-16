@@ -64,8 +64,26 @@ The Aegimius also preserves the theological principle that Zeus established afte
 [^aeg-slayer]: "According to Hesiod's tale he (Hermes) slew (Argus) the herdsman of Io" (Aegimius, Fragment 6, trans. H.G. Evelyn-White)
 [^aeg-oath]: "thereafter he ordained that an oath concerning the secret deeds of the Cyprian should be without penalty for men" (Aegimius, Fragment 3, trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### Transformation and Wanderings (§145)
+
+The [Fabulae](../sources/hyginus.md) gives a compressed account of Io's genealogy and transformation. The text traces her descent from Phoroneus and lists the Argive royal line down to "Inachus and Argia" who produced "Io."[^hyg-genealogy] The story then moves swiftly to the divine encounter: "[Zeus](../deities/zeus.md) loved and embraced Io, and changed her to heifer form so that [Hera](../deities/hera.md) would not recognize her."[^hyg-heifer]
+
+When [Hera](../deities/hera.md) discovered the deception, "she sent Argus, who had gleaming eyes all around to guard her."[^hyg-argus] [Hermes](../deities/hermes.md), at Zeus's command, killed him. But [Hera](../deities/hera.md)'s persecution continued: she "sent a fearful shape to plague her, and out of terror of it she was driven wildly and compelled to cast herself into the sea, which is called Ionian."[^hyg-gadfly] Io's wanderings gave their names to the geography: "Thence she swam to Scythia, and the Bosporus is named from that; thence she went to Egypt where she bore Epaphus."[^hyg-egypt]
+
+The Fabulae concludes with Io's transformation into an Egyptian goddess: "When [Zeus](../deities/zeus.md) realized that for his sake she had borne such suffering, he restored her to her own form, and made her a goddess of the Egyptians, called Isis."[^hyg-isis]
+
+[^hyg-genealogy]: "from Triops and Oreaside, Xanthus and Inachus; from Pelasgus, Larisa, from Inachus and Argia, Io" (Fabulae §145, trans. Mary Grant)
+[^hyg-heifer]: "Jupiter loved and embraced Io, and changed her to heifer form so that Juno would not recognize her" (Fabulae §145, trans. Mary Grant)
+[^hyg-argus]: "When Juno found out, she sent Argus, who had gleaming eyes all around to guard her" (Fabulae §145, trans. Mary Grant)
+[^hyg-gadfly]: "But Juno sent a fearful shape to plague her, and out of terror of it she was driven wildly and compelled to cast herself into the sea, which is called Ionian" (Fabulae §145, trans. Mary Grant)
+[^hyg-egypt]: "Thence she swam to Scythia, and the Bosporus is named from that; thence she went to Egypt where she bore Epaphus" (Fabulae §145, trans. Mary Grant)
+[^hyg-isis]: "When Jove realized that for his sake she had borne such suffering, he restored her to her own form, and made her a goddess of the Egyptians, called Isis" (Fabulae §145, trans. Mary Grant)
+
 ## Appearances
 
 - **Aegimius** Fragments 3-6: Io daughter of Peiren; Argus described as having "four eyes" and unwearying strength; [Hermes](../deities/hermes.md) slew Argus; Zeus ordained that love-oaths be without penalty
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Priestess of Hera; seduced by Zeus; transformed into white cow; guarded by Argus; Hermes killed Argus; gadfly sent by Hera; wandered through Europe and Asia; recovered form in Egypt; bore Epaphus; identified with Isis
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.4: Through Epaphus, ancestress of Libya, Agenor, Belus, Danaus, and Egyptus
+- **[Fabulae](../sources/hyginus.md)** §145: Argive genealogy; loved by Zeus and changed to heifer; guarded by Argus with gleaming eyes; Hermes killed Argus; driven by Hera with fearful shape; cast herself into Ionian sea; swam to Scythia (Bosporus named); bore Epaphus in Egypt; became Isis

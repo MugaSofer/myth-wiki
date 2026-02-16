@@ -56,6 +56,32 @@ In [Odyssey](../sources/odyssey.md) Book XI, [Odysseus](odysseus.md) sails to th
 
 The Bibliotheca summarises: Odysseus "offered sacrifices to the souls, and by [Circe](circe.md)'s advice consulted the soothsayer Tiresias."[^apd-odyssey]
 
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) combines elements from the Hesiodic tradition with unique details about the method of transformation and Zeus's gifts.
+
+### The Snake Transformation (§75)
+
+"On Mount Cyllene Tiresias, son of Everes, a shepherd, is said to have struck with his staff, or trampled on, snakes which were coupling."[^hyg-75-snakes] The Fabulae gives two methods — striking or trampling — and identifies him as a shepherd.
+
+"Because of this he was changed to a woman. Later, advised by an oracle, he trampled on the snakes in the same place, and returned to his former sex."[^hyg-75-return] The return transformation is specifically prompted by an oracle.
+
+### The Judgment of Zeus and Hera
+
+"At this same time there was a joking dispute between Jove and Juno as to whether man or woman derived more pleasure from the act of love. They took Tiresias as judge, since he had been both man and woman."[^hyg-75-dispute] The Fabulae characterizes it as a "joking dispute" (Latin: iocans).
+
+"When he decided in Jove's favour, Juno with the back of her hand angrily blinded him."[^hyg-75-blind] The detail of striking "with the back of her hand" is unique to the Fabulae.
+
+### Zeus's Compensation
+
+"But Jove because of this gave him seven lives to live, and made him a seer wiser than other mortals."[^hyg-75-gifts] The Fabulae specifies "seven lives" rather than "seven generations" and emphasizes Tiresias as "wiser than other mortals" rather than merely possessing the art of soothsaying.
+
+[^hyg-75-snakes]: "On Mount Cyllene Tiresias, son of Everes, a shepherd, is said to have struck with his staff, or trampled on, snakes which were coupling" (Fabulae §75, trans. Mary Grant)
+[^hyg-75-return]: "Because of this he was changed to a woman. Later, advised by an oracle, he trampled on the snakes in the same place, and returned to his former sex" (Fabulae §75, trans. Mary Grant)
+[^hyg-75-dispute]: "At this same time there was a joking dispute between Jove and Juno as to whether man or woman derived more pleasure from the act of love. They took Tiresias as judge, since he had been both man and woman" (Fabulae §75, trans. Mary Grant)
+[^hyg-75-blind]: "When he decided in Jove's favour, Juno with the back of her hand angrily blinded him" (Fabulae §75, trans. Mary Grant)
+[^hyg-75-gifts]: "Jove because of this gave him seven lives to live, and made him a seer wiser than other mortals" (Fabulae §75, trans. Mary Grant)
+
 ## Appearances
 
 - **Melampodia** Fragment 1: Contest between Calchas and Mopsus (Tiresias's grandson through Manto); Calchas dies of vexation
@@ -66,6 +92,7 @@ The Bibliotheca summarises: Odysseus "offered sacrifices to the souls, and by [C
 - **[Bibliotheca](../sources/apollodorus.md)** 3.6.7: Advises Thebes in the Seven Against Thebes — sacrifice of Menoeceus
 - **[Bibliotheca](../sources/apollodorus.md)** 3.7.3: Advises Theban flight from the Epigoni; dies at the spring of Tilphussa
 - **[Bibliotheca](../sources/apollodorus.md)** E.7.17: Odysseus consults him among the dead
+- **[Fabulae](../sources/hyginus.md)** §75: Shepherd on Cyllene; struck/trampled coupling snakes; changed to woman; oracle advised return transformation at same place; "joking dispute" between Zeus and Hera; judged in Zeus's favor; Hera struck him blind "with the back of her hand"; Zeus gave him "seven lives" and made him "seer wiser than other mortals"
 
 [^apd-secrets]: "some say that he was blinded by the gods because he revealed their secrets to men" (Bibliotheca 3.6.7, trans. J.G. Frazer)
 [^apd-athena]: "Pherecydes says that he was blinded by Athena; for Chariclo was dear to Athena... and Tiresias saw the goddess stark naked, and she covered his eyes with her hands, and so rendered him sightless. And when Chariclo asked her to restore his sight, she could not do so, but by cleansing his ears she caused him to understand every note of birds; and she gave him a staff of cornel-wood, wherewith he walked like those who see" (Bibliotheca 3.6.7, trans. J.G. Frazer)

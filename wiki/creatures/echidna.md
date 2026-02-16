@@ -59,7 +59,34 @@ The [Bibliotheca](../sources/apollodorus.md) provides a distinct account of Echi
 
 [^apd-echidna-death]: "Echidna, daughter of Tartarus and Earth, who used to carry off passers-by, was caught asleep and slain by Argus." (Bibliotheca 2.1.2, trans. J.G. Frazer)
 
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) gives an expanded list of Echidna's offspring.
+
+### Children with Typhoeus (§151)
+
+"From Typhon the giant and Echidna were born" an extensive brood:[^hyg-151-intro]
+
+- **Gorgon** — listed as offspring here, though usually Gorgons are separate from Echidna's line
+- **Cerberus** — "the three-headed dog"
+- **The dragon which guarded the apples of the Hesperides across the ocean** — Ladon
+- **The Hydra which Hercules killed by the spring of Lerna**
+- **The dragon which guarded the ram's fleece at Colchis** — the Colchian dragon
+- **Scylla** — "who was woman above but dog below, with six dog-forms sprung from her body"
+- **The Sphinx which was in Boeotia**
+- **The Chimaera in Lycia** — "which had the fore part of a lion, the hind part of a snake, while the she-goat itself formed the middle"
+
+### Extended Progeny
+
+The Fabulae continues the genealogy: "From Medusa, daughter of Gorgon, and Neptune, were born Chrysaor and horse Pegasus; from Chrysaor and Callirhoe, three-formed Geryon."[^hyg-151-extended]
+
+> **VARIANT:** The Fabulae attributes many monsters to Echidna and Typhon that other sources give different parentages. Most notably, it makes Scylla and the Ladon (Hesperian dragon) their children, and it calls Gorgon their offspring while also making Medusa Gorgon's daughter — creating a nested relationship.
+
+[^hyg-151-intro]: "From Typhon the giant and Echidna were born" (Fabulae §151, trans. Mary Grant)
+[^hyg-151-extended]: "From Medusa, daughter of Gorgon, and Neptune, were born Chrysaor and horse Pegasus; from Chrysaor and Callirhoe, three-formed Geryon" (Fabulae §151, trans. Mary Grant)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 295-332: Description, dwelling, offspring
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.2: "Daughter of Tartarus and Earth"; carried off passers-by; slain by Argus while asleep
+- **[Fabulae](../sources/hyginus.md)** §151: With Typhon bore Gorgon, three-headed Cerberus, Hesperian dragon, Lernaean Hydra, Colchian dragon, Scylla (woman above, six dogs below), Sphinx, Chimaera (lion fore, snake hind, goat middle); extended genealogy through Medusa to Chrysaor and Geryon

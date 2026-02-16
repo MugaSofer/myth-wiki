@@ -99,6 +99,28 @@ The [Bibliotheca](../sources/apollodorus.md) adds that "Latona for her intrigue 
 
 [^apd-leto]: "Latona for her intrigue with Zeus was hunted by Hera over the whole earth, till she came to Delos and brought forth first Artemis, by the help of whose midwifery she afterwards gave birth to Apollo." (Bibliotheca 1.4.1, trans. Frazer)
 
+## In the Fabulae
+
+### Python's Pursuit and Neptune's Protection (§140)
+
+The [Fabulae](../sources/hyginus.md) gives a dramatically different version of Leto's wandering, centered on the prophecy and the role of [Python](../creatures/python.md).
+
+"Python, offspring of Terra, was a huge dragon who, before the time of [Apollo](apollo.md), used to give oracular responses on Mount Parnassus."[^hyg-140-python] Crucially, "Death was fated to come to him from the offspring of Latona."[^hyg-140-fate]
+
+"At that time [Jove](zeus.md) lay with Latona, daughter of Polus. When [Juno](hera.md) found this out, she decreed that Latona should give birth at a place where the sun did not shine."[^hyg-140-decree] This is different from Hera keeping Eileithyia away — here Hera directly decrees a condition for the birth.
+
+"When Python knew that Latona was pregnant by Jove, he followed her to kill her."[^hyg-140-pursuit] Python's motive is clear: preventing the birth of the one fated to kill him. This transforms Leto's wandering from a search for a willing birthplace into a flight from death.
+
+"But by order of Jove the wind Aquilo carried Latona away, and bore her to [Neptune](poseidon.md). He protected her, but in order not to make void Juno's decree, he took her to the island Ortygia, and covered the island with waves."[^hyg-140-neptune] Neptune (Poseidon) becomes Leto's divine protector, using the waves to create a place where "the sun did not shine" — technically fulfilling Hera's decree while still allowing the birth.
+
+"When Python did not find her, he returned to Parnassus."[^hyg-140-return] Neptune then "brought the island of Ortygia up to a higher position; it was later called the island of Delos."[^hyg-140-delos]
+
+"There Latona, clinging to an olive tree, bore [Apollo](apollo.md) and [Diana](artemis.md), to whom [Vulcan](hephaestus.md) gave arrows as gifts."[^hyg-140-birth] The detail that Hephaestus gave them arrows immediately after birth is striking and unique to this version.
+
+"Four days after they were born, Apollo exacted vengeance for his mother. For he went to Parnassus and slew Python with his arrows."[^hyg-140-vengeance] The four-day timing is a specific variant — most traditions don't give such a precise interval.
+
+Apollo then "put Python's bones in a cauldron, deposited them in his temple, and instituted funeral games for him which are called Pythian."[^hyg-140-games] This detail — that the Pythian Games were funeral games for Python — is remarkable and appears nowhere else in the tradition.
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 918-920: Sixth consort of Zeus; bore Apollo and Artemis
@@ -112,3 +134,15 @@ The [Bibliotheca](../sources/apollodorus.md) adds that "Latona for her intrigue 
 - **[Iliad](../sources/iliad.md)** XXIV: The Niobe story — her children slain for rivalling Leto
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.2: Daughter of [Coeus](coeus.md) and [Phoebe](phoebe.md) (as "Latona")
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.1: Hunted by Hera over the whole earth; bore Artemis first on Delos, then Apollo
+- **[Fabulae](../sources/hyginus.md)** §140: Python prophesied to die by her offspring; Juno decreed she give birth where sun didn't shine; Python pursued pregnant Latona; Aquilo bore her to Neptune; Neptune covered Ortygia with waves; Python returned to Parnassus; Delos raised up; bore Apollo and Diana clinging to olive tree; Vulcan gave them arrows; four days later Apollo slew Python; instituted Pythian Games as funeral games for Python
+
+[^hyg-140-python]: "Python, offspring of Terra, was a huge dragon who, before the time of Apollo, used to give oracular responses on Mount Parnassus" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-fate]: "Death was fated to come to him from the offspring of Latona" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-decree]: "At that time Jove lay with Latona, daughter of Polus. When Juno found this out, she decreed that Latona should give birth at a place where the sun did not shine" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-pursuit]: "When Python knew that Latona was pregnant by Jove, he followed her to kill her" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-neptune]: "But by order of Jove the wind Aquilo carried Latona away, and bore her to Neptune. He protected her, but in order not to make void Juno's decree, he took her to the island Ortygia, and covered the island with waves" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-return]: "When Python did not find her, he returned to Parnassus" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-delos]: "But Neptune brought the island of Ortygia up to a higher position; it was later called the island of Delos" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-birth]: "There Latona, clinging to an olive tree, bore Apollo and Diana, to whom Vulcan gave arrows as gifts" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-vengeance]: "Four days after they were born, Apollo exacted vengeance for his mother. For he went to Parnassus and slew Python with his arrows" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-games]: "He put Python's bones in a cauldron, deposited them in his temple, and instituted funeral games for him which are called Pythian" (Fabulae §140, trans. Mary Grant)

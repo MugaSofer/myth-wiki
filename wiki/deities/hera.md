@@ -78,6 +78,34 @@ During Leto's labour on Delos, Hera "sat in the halls of cloud-gathering [Zeus](
 [^hh3-typhaon]: "she bare one neither like the gods nor mortal men, fell, cruel Typhaon, to be a plague to men. Straightway large-eyed queenly Hera took him and bringing one evil thing to another such, gave him to the dragoness; and she received him" (Homeric Hymn III to Apollo 351-355)
 [^hh3-envy]: "Only Eilithyia, goddess of sore travail, had not heard of Leto's trouble, for she sat on the top of Olympus beneath golden clouds by white-armed Hera's contriving, who kept her close through envy" (Homeric Hymn III to Apollo 97-100)
 
+## In the Fabulae
+
+### Ixion and the Cloud (§62)
+
+The [Fabulae](../sources/hyginus.md) tells the story of [Zeus](zeus.md)'s (Jove's) test of Ixion. "Ixion, son of Leonteus, attempted to embrace Juno [[Hera](hera.md)]."[^hyg-62-attempt] Zeus devised a trick: "Juno, by Jove's instructions, substituted a cloud, which Ixion believed to be the likeness of Juno."[^hyg-62-cloud]
+
+The union had consequences: "From this the Centaurs were born."[^hyg-62-centaurs] The punishment was eternal: "But Mercury [[Hermes](hermes.md)], by Jove's instructions, bound Ixion in the Land of the Dead to a wheel, which is said to be still turning there."[^hyg-62-wheel]
+
+[^hyg-62-attempt]: "Ixion, son of Leonteus, attempted to embrace Juno." (Fabulae §62, trans. Mary Grant)
+[^hyg-62-cloud]: "Juno, by Jove's instructions, substituted a cloud, which Ixion believed to be the likeness of Juno." (Fabulae §62, trans. Mary Grant)
+[^hyg-62-centaurs]: "From this the Centaurs were born." (Fabulae §62, trans. Mary Grant)
+[^hyg-62-wheel]: "But Mercury, by Jove's instructions, bound Ixion in the Land of the Dead to a wheel, which is said to be still turning there." (Fabulae §62, trans. Mary Grant)
+
+### Tiresias's Judgment (§75)
+
+The Fabulae preserves the story of Tiresias's sex change and his role as judge in a divine dispute. Tiresias "is said to have struck with his staff, or trampled on, snakes which were coupling" on Mount Cyllene, and "because of this he was changed to a woman."[^hyg-75-woman] Later, "advised by an oracle, he trampled on the snakes in the same place, and returned to his former sex."[^hyg-75-return]
+
+The dispute arose from this unique experience: "At this same time there was a joking dispute between Jove and Juno as to whether man or woman derived more pleasure from the act of love."[^hyg-75-dispute] They took Tiresias as judge "since he had been both man and woman."[^hyg-75-judge]
+
+The verdict had consequences: "When he decided in Jove's favour, Juno with the back of her hand angrily blinded him."[^hyg-75-blind] But Zeus compensated: "Jove because of this gave him seven lives to live, and made him a seer wiser than other mortals."[^hyg-75-seer]
+
+[^hyg-75-woman]: "On Mount Cyllene Tiresias, son of Everes, a shepherd, is said to have struck with his staff, or trampled on, snakes which were coupling. Because of this he was changed to a woman." (Fabulae §75, trans. Mary Grant)
+[^hyg-75-return]: "Later, advised by an oracle, he trampled on the snakes in the same place, and returned to his former sex." (Fabulae §75, trans. Mary Grant)
+[^hyg-75-dispute]: "At this same time there was a joking dispute between Jove and Juno as to whether man or woman derived more pleasure from the act of love." (Fabulae §75, trans. Mary Grant)
+[^hyg-75-judge]: "They took Tiresias as judge, since he had been both man and woman." (Fabulae §75, trans. Mary Grant)
+[^hyg-75-blind]: "When he decided in Jove's favour, Juno with the back of her hand angrily blinded him" (Fabulae §75, trans. Mary Grant)
+[^hyg-75-seer]: "but Jove because of this gave him seven lives to live, and made him a seer wiser than other mortals." (Fabulae §75, trans. Mary Grant)
+
 ## In the Iliad
 
 ### Book I
@@ -224,6 +252,8 @@ After Heracles' apotheosis, Hera was reconciled to him: "being reconciled to Her
 - **[Bibliotheca](../sources/apollodorus.md)** 3.8.2: Persuaded Artemis to shoot down Callisto as a wild beast (to punish Zeus's affair)
 - **[Bibliotheca](../sources/apollodorus.md)** E.1.20: Ixion attempted to force her; she reported it to Zeus; Zeus made a cloud in her likeness to test him
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.29: Made Menelaus immortal — "being made immortal by Hera he went to the Elysian Fields with Helen"
+- **[Fabulae](../sources/hyginus.md)** §62: Ixion attempted to embrace Juno; she substituted a cloud by Jove's instructions; Ixion believed it Juno's likeness; Centaurs born from this; Mercury bound Ixion to wheel in Land of the Dead
+- **[Fabulae](../sources/hyginus.md)** §75: Joking dispute with Jove about pleasure in love; took Tiresias as judge since he'd been both sexes; when he decided in Jove's favour, blinded him angrily; Jove gave him seven lives and made him a seer
 
 [^apd-ephialtes]: "Ephialtes wooed Hera, and Otus wooed Artemis" (Bibliotheca 1.7.4, trans. Frazer)
 [^apd-athamas]: "afterwards Athamas was bereft also of the children of Ino through the wrath of Hera; for he went mad and shot Learchus with an arrow, and Ino cast herself and Melicertes into the sea" (Bibliotheca 1.9.2, trans. Frazer)

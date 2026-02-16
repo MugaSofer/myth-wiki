@@ -22,11 +22,42 @@ When Theseus came to Crete as tribute for the Minotaur, "Ariadne, daughter of Mi
 
 She gave Theseus the thread when he entered the Labyrinth. He fastened it to the door, found and killed the Minotaur, then drew the thread to find his way out. By night Theseus sailed with Ariadne and the tribute children to Naxos, but "there Dionysus fell in love with Ariadne and carried her off; and having brought her to Lemnos he enjoyed her, and begat Thoas, Staphylus, Oenopion, and Peparethus."[^apd-ariadne-naxos]
 
+## In the Fabulae
+
+### Helping Theseus (§42)
+
+Hyginus explains Ariadne's motivation: "When Theseus came to Crete, Ariadne, [Minos](minos.md)' daughter, loved him so much that she betrayed her brother and saved the stranger, or she showed Theseus the way out of the Labyrinth."[^hyg42-love] The alternative phrasing suggests either she actively betrayed the Minotaur or simply aided Theseus's escape. "When Theseus had entered and killed the Minotaur, by Ariadne's advice he got out by unwinding the thread. Ariadne, because she had been loyal to him, he took away, intending to marry her."[^hyg42-escape]
+
+[^hyg42-love]: "When Theseus came to Crete, Ariadne, Minos' daughter, loved him so much that she betrayed her brother and saved the stranger, or she showed Theseus the way out of the Labyrinth" (Fabulae §42, trans. Mary Grant)
+[^hyg42-escape]: "When Theseus had entered and killed the Minotaur, by Ariadne's advice he got out by unwinding the thread. Ariadne, because she had been loyal to him, he took away, intending to marry her" (Fabulae §42, trans. Mary Grant)
+
+### Abandoned on Dia (§43)
+
+The reason for abandonment differs from divine intervention: "Theseus, detained by a storm on the island of Dia, thought it would be a reproach to him if he brought Ariadne to Athens, and so he left her asleep on the island of Dia."[^hyg43-reproach] This suggests Theseus's own choice rather than divine command.
+
+[Liber](../deities/dionysus.md) (Dionysus) then intervened: "Liber, falling in love with her, took her from there as his wife."[^hyg43-liber] A tragic detail follows about Theseus: "However, when Theseus left, he forgot to change the black sails, and so his father Aegeus judged that he had been devoured by the Minotaur. He threw himself into the sea, which was called Aegean from this."[^hyg43-sails]
+
+The Fabulae adds that "Theseus married Phaedra, Ariadne's sister."[^hyg43-phaedra]
+
+[^hyg43-reproach]: "Theseus, detained by a storm on the island of Dia, thought it would be a reproach to him if he brought Ariadne to Athens, and so he left her asleep on the island of Dia" (Fabulae §43, trans. Mary Grant)
+[^hyg43-liber]: "Liber, falling in love with her, took her from there as his wife" (Fabulae §43, trans. Mary Grant)
+[^hyg43-sails]: "However, when Theseus left, he forgot to change the black sails, and so his father Aegeus judged that he had been devoured by the Minotaur. He threw himself into the sea, which was called Aegean from this" (Fabulae §43, trans. Mary Grant)
+[^hyg43-phaedra]: "But Theseus married Phaedra, Ariadne's sister" (Fabulae §43, trans. Mary Grant)
+
 ## Appearance
 
 | Source | Description |
 |---|---|
 | Theogony 947 | "Brown-haired Ariadne" |
+
+## Appearances
+
+- **Theogony** 947-949: "Brown-haired Ariadne"; made wife of [Dionysus](../deities/dionysus.md); made "deathless and unageing"
+- **[Odyssey](../sources/odyssey.md)** XI: Killed by [Artemis](../deities/artemis.md) "by reason of the witness of Dionysus"
+- **Catalogue of Women** Fragment 76: [Theseus](theseus.md) abandoned her for "strong love for Aegle the daughter of Panopeus"
+- **[Bibliotheca](../sources/apollodorus.md)** E.1.8-9: Offered to help Theseus for promise of marriage; gave him thread from Daedalus's advice; sailed to Naxos; [Dionysus](../deities/dionysus.md) carried her off to Lemnos; bore Thoas, Staphylus, Oenopion, Peparethus
+- **[Fabulae](../sources/hyginus.md)** §42: Loved Theseus; "betrayed her brother and saved the stranger"; showed way out of Labyrinth; Theseus took her intending marriage
+- **[Fabulae](../sources/hyginus.md)** §43: Theseus detained by storm on Dia; thought it reproach to bring her to Athens; left her asleep; [Liber](../deities/dionysus.md) took her as wife; Theseus forgot to change black sails; Aegeus's suicide; Theseus married Phaedra
 
 ## Footnotes
 

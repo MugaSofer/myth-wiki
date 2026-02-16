@@ -91,6 +91,39 @@ Perseus went to Argos to see Acrisius, but Acrisius, "learning of this and dread
 [^apd-exchange]: "being ashamed to return to Argos to claim the inheritance of him who had died by his hand, he went to Megapenthes, son of Proetus, at Tiryns and effected an exchange with him, surrendering Argos into his hands" (Bibliotheca 2.4.4)
 [^apd-mycenae]: "Perseus reigned over Tiryns, after fortifying also Midea and Mycenae" (Bibliotheca 2.4.4)
 
+## In the Fabulae
+
+### Danae and the Prophecy (§63)
+
+Hyginus provides the fullest account of Perseus's birth and Acrisius's delayed recognition. "Danae was the daughter of Acrisius and Aganippe. A prophecy about her said that the child she bore would kill Acrisius, and Acrisius, fearing this, shut her in a stone-walled prison."[^hyg-63-prison] But [Zeus](../deities/zeus.md) "changing into a shower of gold, lay with Danae, and from this embrace Perseus was born."[^hyg-63-gold]
+
+"Because of her sin her father shut her up in a chest with Perseus and cast it into the sea. By Jove's will it was borne to the island of Seriphos, and when the fisherman Dictys found it and broke it open, he discovered the mother and child. He took them to King Polydectes, who married Danae and brought up Perseus in the temple of Minerva."[^hyg-63-seriphos]
+
+> **NEW DETAIL:** Polydectes *marries* Danae in Hyginus, not merely desires her. Perseus is raised in [Athena](../deities/athena.md)'s temple, explaining the goddess's special protection.
+
+Years later, "when Acrisius discovered they were staying at Polydectes' court, he started out to get them, but at his arrival Polydectes interceded for them, and Perseus swore an oath to his grandfather that he would never kill him."[^hyg-63-oath] Then "when Acrisius was detained there by a storm, Polydectes died, and at his funeral games the wind blew a discus from Perseus' hand at Acrisius' head which killed him. Thus what he did not do of his own will was accomplished by the gods."[^hyg-63-fulfilment] The oracle is fulfilled at Polydectes' funeral games, not at Larissa as in [Bibliotheca](../sources/apollodorus.md).
+
+[^hyg-63-prison]: "Danae was the daughter of Acrisius and Aganippe. A prophecy about her said that the child she bore would kill Acrisius, and Acrisius, fearing this, shut her in a stone-walled prison" (Fabulae §63, trans. Mary Grant)
+[^hyg-63-gold]: "Jove, changing into a shower of gold, lay with Danae, and from this embrace Perseus was born" (Fabulae §63, trans. Mary Grant)
+[^hyg-63-seriphos]: "Because of her sin her father shut her up in a chest with Perseus and cast it into the sea. By Jove's will it was borne to the island of Seriphos, and when the fisherman Dictys found it and broke it open, he discovered the mother and child. He took them to King Polydectes, who married Danae and brought up Perseus in the temple of Minerva" (Fabulae §63, trans. Mary Grant)
+[^hyg-63-oath]: "When Acrisius discovered they were staying at Polydectes' court, he started out to get them, but at his arrival Polydectes interceded for them, and Perseus swore an oath to his grandfather that he would never kill him" (Fabulae §63, trans. Mary Grant)
+[^hyg-63-fulfilment]: "When Acrisius was detained there by a storm, Polydectes died, and at his funeral games the wind blew a discus from Perseus' hand at Acrisius' head which killed him. Thus what he did not do of his own will was accomplished by the gods. When Polydectes was buried, Perseus set out for Argos and took possession of his grandfather's kingdom" (Fabulae §63, trans. Mary Grant)
+
+### Andromeda (§64)
+
+The [Andromeda](andromeda.md) rescue is told with vivid detail. "Cassiope claimed that her daughter Andromeda's beauty excelled the Nereids'. Because of this, Neptune demanded that Andromeda, Cepheus' daughter, be offered to a sea-monster."[^hyg-64-cassiope]
+
+Perseus arrived "flying on Mercury's winged sandals" and "freed her from danger."[^hyg-64-rescue] But "when he wanted to marry her, Cepheus, her father, along with Agenor, her betrothed, planned to kill him. Perseus, discovering the plot, showed them the head of the Gorgon, and all were changed from human form into stone."[^hyg-64-stone]
+
+The variant continues: "Perseus with Andromeda returned to his country. When Polydectes saw that Perseus was so courageous, he feared him and tried to kill him be treachery, but when Perseus discovered this he showed him the Gorgon's head, and he was changed from human form into stone."[^hyg-64-polydectes]
+
+> **VARIANT:** In Hyginus, Polydectes dies *twice* — first at the funeral games where Acrisius is killed (§63), then petrified by the Gorgon's head (§64). This suggests conflicting traditions preserved in different sections of the Fabulae.
+
+[^hyg-64-cassiope]: "Cassiope claimed that her daughter Andromeda's beauty excelled the Nereids'. Because of this, Neptune demanded that Andromeda, Cepheus' daughter, be offered to a sea-monster" (Fabulae §64, trans. Mary Grant)
+[^hyg-64-rescue]: "When she was offered, Perseus, flying on Mercury's winged sandals, is said to have come there and freed her from danger" (Fabulae §64, trans. Mary Grant)
+[^hyg-64-stone]: "When he wanted to marry her, Cepheus, her father, along with Agenor, her betrothed, planned to kill him. Perseus, discovering the plot, showed them the head of the Gorgon, and all were changed from human form into stone" (Fabulae §64, trans. Mary Grant)
+[^hyg-64-polydectes]: "Perseus with Andromeda returned to his country. When Polydectes saw that Perseus was so courageous, he feared him and tried to kill him be treachery, but when Perseus discovered this he showed him the Gorgon's head, and he was changed from human form into stone" (Fabulae §64, trans. Mary Grant)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 280-283: Beheading Medusa
@@ -98,3 +131,5 @@ Perseus went to Argos to see Acrisius, but Acrisius, "learning of this and dread
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.2: Polydectes' scheme; quest to the Phorcides and nymphs; Gorgon slaying with averted gaze in brazen shield
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.3: Rescue of Andromeda; Phineus turned to stone; Polydectes turned to stone; Gorgon head given to Athena
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.4: Acrisius killed by discus at Larissa; kingdom exchange with Megapenthes; fortified Mycenae
+- **[Fabulae](../sources/hyginus.md)** §63: Danae daughter of Acrisius and Aganippe; shut in stone-walled prison; Zeus as gold shower; chest cast to sea, washed to Seriphos; Dictys found them; Polydectes married Danae, raised Perseus in Athena's temple; Acrisius came to Seriphos, Perseus swore oath never to kill him; at Polydectes' funeral games, wind blew discus from Perseus's hand, killed Acrisius; "what he did not do of his own will was accomplished by the gods"; took Argos
+- **[Fabulae](../sources/hyginus.md)** §64: Cassiope claimed Andromeda excelled Nereids; Neptune demanded she be offered to sea-monster; Perseus flying on Mercury's winged sandals freed her; Cepheus and Agenor (betrothed) plotted to kill Perseus; showed Gorgon head, turned them to stone; returned to Seriphos; Polydectes feared him, tried treachery; Perseus petrified him with Gorgon head

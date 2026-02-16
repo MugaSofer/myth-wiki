@@ -211,6 +211,69 @@ Telegonus, learning from Circe that he was Odysseus's son, sailed to Ithaca. Whe
 
 [^apd-od-death]: "Telegonus wounded him with the spear he had in his hands, which was barbed with the spine of a sting-ray, and Ulysses died of the wound" (Epitome 7.36, trans. J.G. Frazer)
 
+## In the Fabulae
+
+### Feigned Madness (§95)
+
+The [Fabulae](../sources/hyginus.md) provides the fullest account of Odysseus's attempt to avoid the Trojan War. "When Agamemnon and Menelaus, son of Atreus, were assembling the leaders who had pledged themselves to attack Troy, they came to the island of Ithaca to Ulysses, son of Laertes. He had been warned by an oracle that if he went to Troy he would return home alone and in need, with his comrades lost, after twenty years."[^hyg-95-oracle]
+
+The deception is vivid: "when he learned that spokesmen would come to him, he put on a cap, pretending madness, and yoked a horse and an ox to the plow."[^hyg-95-plow] Palamedes saw through it: "taking his son Telemachus from the cradle, put him in front of the plow with the words: 'Give up your pretense and come and join the allies.' Then Ulysses promised that he would come; from that time he was hostile to Palamedes."[^hyg-95-palamedes]
+
+> **NEW DETAIL:** Odysseus knew from an oracle he would return "alone and in need, with his comrades lost, after twenty years" — the exact summary of the Odyssey's plot.
+
+[^hyg-95-oracle]: "He had been warned by an oracle that if he went to Troy he would return home alone and in need, with his comrades lost, after twenty years" (Fabulae §95, trans. Mary Grant)
+[^hyg-95-plow]: "when he learned that spokesmen would come to him, he put on a cap, pretending madness, and yoked a horse and an ox to the plow" (Fabulae §95, trans. Mary Grant)
+[^hyg-95-palamedes]: "Palamedes felt he was pretending when he saw this, and taking his son Telemachus from the cradle, put him in front of the plow with the words: 'Give up your pretense and come and join the allies.' Then Ulysses promised that he would come; from that time he was hostile to Palamedes" (Fabulae §95, trans. Mary Grant)
+
+### The Murder of Palamedes (§105)
+
+Odysseus's revenge is told with clinical detail. "Ulysses, because he had been tricked by Palamedes, son of Nauplius, kept plotting day by day how to kill him."[^hyg-105-plotting] The scheme was elaborate:
+
+"He sent a soldier of his to Agamemnon to say that in a dream he had been warned that the camp should be moved for one day. Agamemnon, believing the warning true, gave orders that the camp be moved for one day."[^hyg-105-camp] While the camp was relocated, "Ulysses, then, secretly by night hid a great quantity of gold in the place where the tent of Palamedes had been."[^hyg-105-gold]
+
+Simultaneously, "he also gave to a Phrygian captive a letter to be carried to Priam, and sent a soldier of his ahead to kill him not far from the camp."[^hyg-105-letter] The forged letter was found: "Written on it were the words: 'Sent to Palamedes from Priam,' and it promised him as much gold as Ulysses had hidden in the tent, if he would betray the camp of Agamemnon according to agreement."[^hyg-105-contents]
+
+"When Palamedes was brought before the king, and so denied the deed, they went to his tent and dug up the gold. Agamemnon believed the charge was true when he saw the gold. In this way Palamedes was tricked by the scheme of Ulysses, and though innocent, was put to death by the entire army."[^hyg-105-death]
+
+[^hyg-105-plotting]: "Ulysses, because he had been tricked by Palamedes, son of Nauplius, kept plotting day by day how to kill him" (Fabulae §105, trans. Mary Grant)
+[^hyg-105-camp]: "He sent a soldier of his to Agamemnon to say that in a dream he had been warned that the camp should be moved for one day. Agamemnon, believing the warning true, gave orders that the camp be moved for one day" (Fabulae §105, trans. Mary Grant)
+[^hyg-105-gold]: "Ulysses, then, secretly by night hid a great quantity of gold in the place where the tent of Palamedes had been" (Fabulae §105, trans. Mary Grant)
+[^hyg-105-letter]: "He also gave to a Phrygian captive a letter to be carried to Priam, and sent a soldier of his ahead to kill him not far from the camp" (Fabulae §105, trans. Mary Grant)
+[^hyg-105-contents]: "Written on it were the words: 'Sent to Palamedes from Priam,' and it promised him as much gold as Ulysses had hidden in the tent, if he would betray the camp of Agamemnon according to agreement" (Fabulae §105, trans. Mary Grant)
+[^hyg-105-death]: "when Palamedes was brought before the king, and so denied the deed, they went to his tent and dug up the gold. Agamemnon believed the charge was true when he saw the gold. In this way Palamedes was tricked by the scheme of Ulysses, and though innocent, was put to death by the entire army" (Fabulae §105, trans. Mary Grant)
+
+### The Odyssey Compressed (§125)
+
+Hyginus provides a remarkable summary of the entire [Odyssey](../sources/odyssey.md), including unique details. After leaving Troy, Odysseus was "carried by a storm to the Cicones. He attacked their town, Ismarus, and distributed the spoils among his comrades."[^hyg-125-cicones]
+
+Key episodes with variants:
+
+- **Polyphemus**: The prophecy is preserved: "a prophecy had been given by the augur Telemus, son of Eurymus, that he should beware of being blinded by Ulysses."[^hyg-125-prophecy] When Odysseus gave wine to Polyphemus, "he said that he was called Noman. And so, when Ulysses was burning out his eye with a glowing stake, he summoned the other Cyclopes with is cries, and called to them from the closed cave, 'Noman in blinding me!' They thought he was speaking in sport, and did not heed."[^hyg-125-noman]
+- **Circe**: "When he sent Eurylochus to her with twenty-two of his men, she changed them from human form; but Eurylochus in fear did not enter, but fled and reported to Ulysses."[^hyg-125-eurylochus] Mercury's intervention: "Ulysses himself alone went to her, but on the way Mercury gave him a charm, and showed him how to deceive Circe."[^hyg-125-mercury]
+- **The Cattle of the Sun**: "There flesh lowed when his comrades cooked it in a brazen kettle."[^hyg-125-flesh] The detail is repeated twice in the fable for emphasis.
+- **Recognition**: "When a raft had been made there, Calypso sent him off with an abundance of provisions, but Neptune shattered the raft with his waves because he had blinded his son, the Cyclops."[^hyg-125-neptune]
+
+[^hyg-125-cicones]: "When Ulysses was returning from Troy to his country Ithaca, he was carried by a storm to the Cicones. He attacked their town, Ismarus, and distributed the spoils among his comrades" (Fabulae §125, trans. Mary Grant)
+[^hyg-125-prophecy]: "a prophecy had been given by the augur Telemus, son of Eurymus, that he should beware of being blinded by Ulysses" (Fabulae §125, trans. Mary Grant)
+[^hyg-125-noman]: "he said that he was called Noman. And so, when Ulysses was burning out his eye with a glowing stake, he summoned the other Cyclopes with is cries, and called to them from the closed cave, 'Noman in blinding me!' They thought he was speaking in sport, and did not heed" (Fabulae §125, trans. Mary Grant)
+[^hyg-125-eurylochus]: "When he sent Eurylochus to her with twenty-two of his men, she changed them from human form; but Eurylochus in fear did not enter, but fled and reported to Ulysses" (Fabulae §125, trans. Mary Grant)
+[^hyg-125-mercury]: "Ulysses himself alone went to her, but on the way Mercury gave him a charm, and showed him how to deceive Circe" (Fabulae §125, trans. Mary Grant)
+[^hyg-125-flesh]: "their flesh lowed when his comrades cooked it in a brazen kettle" (Fabulae §125, trans. Mary Grant)
+[^hyg-125-neptune]: "When a raft had been made there, Calypso sent him off with an abundance of provisions, but Neptune shattered the raft with his waves because he had blinded his son, the Cyclops" (Fabulae §125, trans. Mary Grant)
+
+### Death by Telegonus (§127)
+
+The [Fabulae](../sources/hyginus.md) preserves the Telegony's ending. "Telegonus, son of Ulysses and Circe, sent by his mother to find his father, by a storm was carried to Ithaca, and there, driven by hunger, began to lay waste the fields."[^hyg-127-arrival] Odysseus and Telemachus, "not knowing who he was, took up arms against him. Ulysses was killed by his son Telegonus; it had been told him by an oracle to beware of death at his son's hands."[^hyg-127-death]
+
+The aftermath mirrors the tangled genealogies of the [Epic Cycle](../sources/epic-cycle.md): "Telegonus on discovering who he was, with Telemachus and Penelope returned to his home on the island of Aeaea by Minerva's instructions. They brought the body of Ulysses to Circe, and buried it there. By the advice of Minerva again, Telegonus married Penelope, and Telemachus married Circe."[^hyg-127-marriages]
+
+The fable ends with an aetiology: "From Circe and Telemachus Latinus was born, who gave his name to the Latin language; from Penelope and Telegonus Italus was born, who called the country Italy from his own name."[^hyg-127-aetiology]
+
+[^hyg-127-arrival]: "Telegonus, son of Ulysses and Circe, sent by his mother to find his father, by a storm was carried to Ithaca, and there, driven by hunger, began to lay waste the fields" (Fabulae §127, trans. Mary Grant)
+[^hyg-127-death]: "Ulysses and Telemachus, not knowing who he was, took up arms against him. Ulysses was killed by his son Telegonus; it had been told him by an oracle to beware of death at his son's hands" (Fabulae §127, trans. Mary Grant)
+[^hyg-127-marriages]: "Telegonus on discovering who he was, with Telemachus and Penelope returned to his home on the island of Aeaea by Minerva's instructions. They brought the body of Ulysses to Circe, and buried it there. By the advice of Minerva again, Telegonus married Penelope, and Telemachus married Circe" (Fabulae §127, trans. Mary Grant)
+[^hyg-127-aetiology]: "From Circe and Telemachus Latinus was born, who gave his name to the Latin language; from Penelope and Telegonus Italus was born, who called the country Italy from his own name" (Fabulae §127, trans. Mary Grant)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Rallies the army at [Athena](../deities/athena.md)'s urging; his ship in the centre of the fleet; "Odysseus of many devices"
@@ -235,3 +298,7 @@ Telegonus, learning from Circe that he was Odysseus's son, sailed to Ithaca. Whe
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Wins Achilles' arms by [Athena](../deities/athena.md)'s contriving; the Wooden Horse
 - **[Epic Cycle](../sources/epic-cycle.md)** (Returns): Ghost of Achilles warns the departing fleet
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Wars among the Thesprotians; [Ares](../deities/ares.md) and [Athena](../deities/athena.md) battle on his account; killed by Telegonus unwittingly; [Circe](../deities/circe.md) makes Penelope and Telemachus immortal
+- **[Fabulae](../sources/hyginus.md)** §95: Oracle warned if he went to Troy he'd return "alone and in need, with his comrades lost, after twenty years"; put on cap, feigned madness, yoked horse and ox to plow; Palamedes placed Telemachus before plow; Odysseus dropped pretense, hostile to Palamedes thereafter
+- **[Fabulae](../sources/hyginus.md)** §105: Plotted to kill Palamedes; sent false dream warning, camp moved for one day; hid gold in Palamedes' tent location; gave forged letter to Phrygian (killed en route); letter found saying Priam promised gold for betrayal; gold discovered in tent; Palamedes executed by army though innocent
+- **[Fabulae](../sources/hyginus.md)** §125: Full Odyssey summary — Cicones (Ismarus sacked); Lotus-eaters; Polyphemus (prophecy from Telemus, called himself "Noman," Cyclopes thought he joked); Aeolus; Laestrygonians; Circe (Eurylochus with 22 men, turned to beasts; Mercury gave charm); Underworld (Elpenor); Sirens; Scylla and Charybdis (six men devoured); cattle of Sun (flesh lowed in kettle); Zeus's thunderbolt; Calypso; Neptune shattered raft; Phaeacians; Ithaca (recognized by nurse Euryclia); slew suitors with arrows; punished handmaids
+- **[Fabulae](../sources/hyginus.md)** §127: Telegonus (son by Circe) came to Ithaca seeking father; ravaged fields; Odysseus and Telemachus fought him unknowing; Telegonus killed Odysseus (oracle: beware death at son's hands); Telegonus married Penelope, Telemachus married Circe (Minerva's advice); Latinus born (from Circe/Telemachus, named Latin language); Italus born (from Penelope/Telegonus, named Italy)

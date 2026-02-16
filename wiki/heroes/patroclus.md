@@ -130,6 +130,14 @@ In the Cypria, Patroclus is mentioned as having killed "Sarpedon's son" during t
 
 [^cyp-patroclus]: Cypria, summary by Proclus (trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### The Death of Patroclus (§106)
+
+In Hyginus's account, when [Agamemnon](agamemnon.md) took [Briseis](../figures/briseis.md) from [Achilles](achilles.md), "Achilles, at Patroclus' pleading, gave him his armor."[^hyg-106-armor] Wearing Achilles' equipment, Patroclus "put the Trojans to flight, since they thought he was Achilles, and he slew [Sarpedon](../figures/sarpedon.md), son of [Jove](../deities/zeus.md) and [Europa](../figures/europa.md)."[^hyg-106-sarpedon]
+
+"Later Patroclus himself was killed by [Hector](hector.md) and the armor taken from his body."[^hyg-106-death] This prompted Achilles to reconcile with Agamemnon; [Thetis](../deities/thetis.md) then secured new armor from [Vulcan](../deities/hephaestus.md), and "the Nereids brought it to him over the sea."[^hyg-106-armor-new]
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I: Leads Briseis from Achilles' hut to the heralds
@@ -143,3 +151,9 @@ In the Cypria, Patroclus is mentioned as having killed "Sarpedon's son" during t
 - **[Iliad](../sources/iliad.md)** XXIII: Ghost appears to Achilles -- "a spirit and phantom of the dead, albeit the life be not anywise therein"; requests burial to pass the gates of Hades; asks for their bones to be placed together; vanishes "like a vapour... with a faint shriek"; funeral pyre and games held in his honour
 - **[Iliad](../sources/iliad.md)** XXIV: Achilles drags Hector's body around Patroclus's tomb
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Killed Sarpedon's son
+- **[Fabulae](../sources/hyginus.md)** §106: Pleads with Achilles; wears Achilles' armor; kills Sarpedon; killed by Hector
+
+[^hyg-106-armor]: "Achilles, at Patroclus' pleading, gave him his armor" (Fabulae §106, trans. Mary Grant)
+[^hyg-106-sarpedon]: "Wearing this, he put the Trojans to flight, since they thought he was Achilles, and he slew Sarpedon, son of Jove and Europa" (Fabulae §106, trans. Mary Grant)
+[^hyg-106-death]: "Later Patroclus himself was killed by Hector and the armor taken from his body" (Fabulae §106, trans. Mary Grant)
+[^hyg-106-armor-new]: "Thetis his mother secured armor for him from Vulcan, and the Nereids brought it to him over the sea" (Fabulae §106, trans. Mary Grant)

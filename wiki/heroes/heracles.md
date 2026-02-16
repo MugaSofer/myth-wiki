@@ -410,6 +410,97 @@ The Heraclids initially captured all the cities of the Peloponnese, but a plague
 [^apd-herc-third-crop]: "the god said that they should await the third crop before returning. But Hyllus supposed that the third crop signified three years... the god retorted that they were themselves to blame for their misfortunes, for they did not understand the oracles, seeing that by 'the third crop' he meant, not a crop of the earth, but a crop of a generation" (Bibliotheca 2.8.2)
 [^apd-herc-lots]: "the first drawing was for Argos, the second for Lacedaemon, and the third for Messene... Cresphontes, wishing to have Messene allotted to him, threw in a clod of earth. As the clod was dissolved in the water, it could not be but that the other two lots should turn up" (Bibliotheca 2.8.4)
 
+## In the Fabulae
+
+### Birth and Divine Conception (§29)
+
+The [Fabulae](../sources/hyginus.md) preserves a distinctive account of [Zeus](../deities/zeus.md)'s night with Alcmena. When Amphitryon was away subduing Oichalia, "Alcimena, thinking Jove was her husband, received him in her chamber. When he had entered her room, and told her what he had done in Oichalia, she lay with him, thinking he was her husband."[^hyg-29-conception] [Zeus](../deities/zeus.md) prolonged the night itself: "He lay with her with so much pleasure that he spent one day and doubled two nights, so that Alcimena wondered at such a long night."[^hyg-29-night]
+
+When Amphitryon returned and Alcmena showed no surprise, "he began to wonder and to complain that she did not welcome him when he appeared. Alcimena replied: You already came and lay with me, and told me what you had done in Oichalia."[^hyg-29-return] Amphitryon realized "that some divinity had assumed his form, and from that day did not lie with her. But she, from the embrace of Jove, bore Hercules."[^hyg-29-birth]
+
+[^hyg-29-conception]: "Alcimena, thinking Jove was her husband, received him in her chamber. When he had entered her room, and told her what he had done in Oichalia, she lay with him, thinking he was her husband" (Fabulae §29, trans. Mary Grant)
+[^hyg-29-night]: "He lay with her with so much pleasure that he spent one day and doubled two nights, so that Alcimena wondered at such a long night" (Fabulae §29, trans. Mary Grant)
+[^hyg-29-return]: "Alcimena replied: You already came and lay with me, and told me what you had done in Oichalia. When she had given him all the evidence, Amphitryon realized that some divinity had assumed his form" (Fabulae §29, trans. Mary Grant)
+[^hyg-29-birth]: "from that day did not lie with her. But she, from the embrace of Jove, bore Hercules" (Fabulae §29, trans. Mary Grant)
+
+### The Twelve Labours (§30)
+
+Hyginus provides a compressed catalogue of Heracles' twelve labours with unique variants. As an infant, "he strangled with his two hands the two snakes which Juno had sent — whence his name, Primigenius."[^hyg-30-infant] The labours themselves include several distinctive details:
+
+- The Nemean Lion was "an invulnerable monster, which Luna had nourished in a two-mouthed cave."[^hyg-30-lion]
+- The Hydra "was so poisonous that she killed men with her breath, and if anyone passed by when she was sleeping, he breathed her tracks and died in the greatest torment."[^hyg-30-hydra] Heracles "dipped his arrows in her gall; and so whatever later he hit with his arrows did not escape death, and later he himself perished in Phrygia from the same cause."[^hyg-30-poison]
+- The Augean Stables: "He cleaned in one day the ox dung of King Augeas, Jove helping him for the most part. By letting in a river he washed away all the dung."[^hyg-30-augeas]
+- Diomedes' horses were named "Podargus, Lampon, Xanthus, and Dinus," and Heracles "killed [Diomedes] along with the slave Abderus."[^hyg-30-diomedes]
+- Hippolyte: Heracles "slew Hippolyte, daughter of Mars and Queen Otrera, and took from her the belt of the Amazon Queen; then he presented Antiopa as captive to Theseus."[^hyg-30-hippolyte]
+
+[^hyg-30-infant]: "When he was an infant, he strangled with his two hands the two snakes which Juno had sent — whence his name, Primigenius" (Fabulae §30, trans. Mary Grant)
+[^hyg-30-lion]: "The Nemean Lion, an invulnerable monster, which Luna had nourished in a two-mouthed cave, he slew and took the pelt for defensive covering" (Fabulae §30, trans. Mary Grant)
+[^hyg-30-hydra]: "The nine-headed Lernaean Hydra, offspring of Typhon. This monster was so poisonous that she killed men with her breath, and if anyone passed by when she was sleeping, he breathed her tracks and died in the greatest torment" (Fabulae §30, trans. Mary Grant)
+[^hyg-30-poison]: "dipped his arrows in her gall; and so whatever later he hit with his arrows did not escape death, and later he himself perished in Phrygia from the same cause" (Fabulae §30, trans. Mary Grant)
+[^hyg-30-augeas]: "He cleaned in one day the ox dung of King Augeas, Jove helping him for the most part. By letting in a river he washed away all the dung" (Fabulae §30, trans. Mary Grant)
+[^hyg-30-diomedes]: "Diomedes, King of Thrace, and his four horses which fed on human flesh he killed along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus" (Fabulae §30, trans. Mary Grant)
+[^hyg-30-hippolyte]: "Hippolyte, daughter of Mars and Queen Otrera, and took from her the belt of the Amazon Queen; then he presented Antiopa as captive to Theseus" (Fabulae §30, trans. Mary Grant)
+
+### The Madness and Death of Megara (§32)
+
+After Heracles returned from fetching Cerberus, "Lycus, son of Neptune... planned to kill his wife Megara, daughter of Creon, and his sons, Therimachus and Ophites, and seize the kingdom. Hercules prevented him and killed Lycus."[^hyg-32-lycus] Then [Hera](../deities/hera.md) sent madness: "when madness was sent upon him by Juno, he killed Megara and his sons Therimachus and Ophites."[^hyg-32-madness]
+
+Seeking purification, "he begged [Apollo](../deities/apollo.md) to give him an oracular reply on how to expiate his crime. Because Apollo was unwilling, Hercules wrathfully carried off the tripod from his shrine."[^hyg-32-tripod] This is the same quarrel mentioned in the [Bibliotheca](../sources/apollodorus.md), but Hyginus specifies the servitude's cause: "at the command of Jove, he returned it, and bade him give the reply, though unwilling. Hercules because of this offence was given in servitude to Queen Omphale by Mercury."[^hyg-32-omphale]
+
+[^hyg-32-lycus]: "Lycus, son of Neptune, though he had perished, he planned to kill his wife Megara, daughter of Creon, and his sons, Therimachus and Ophites, and seize the kingdom. Hercules prevented him and killed Lycus" (Fabulae §32, trans. Mary Grant)
+[^hyg-32-madness]: "when madness was sent upon him by Juno, he killed Megara and his sons Therimachus and Ophites" (Fabulae §32, trans. Mary Grant)
+[^hyg-32-tripod]: "he begged Apollo to give him an oracular reply on how to expiate his crime. Because Apollo was unwilling, Hercules wrathfully carried off the tripod from his shrine" (Fabulae §32, trans. Mary Grant)
+[^hyg-32-omphale]: "at the command of Jove, he returned it, and bade him give the reply, though unwilling. Hercules because of this offence was given in servitude to Queen Omphale by Mercury" (Fabulae §32, trans. Mary Grant)
+
+### The Centaurs and Deianira (§33)
+
+When Heracles "had violated" Deianira and "promising he would marry her, Eurytion a centaur, son of Ixion and Nubes, after his departure sought Dejanira as a wife. Her father, fearing violence, promised her to him."[^hyg-33-betrothal] On the wedding day Eurytion came "with his brothers to the wedding. Hercules intervened, and killed the Centaur, and led home his betrothed."[^hyg-33-rescue]
+
+[^hyg-33-betrothal]: "Eurytion a centaur, son of Ixion and Nubes, after his departure sought Dejanira as a wife. Her father, fearing violence, promised her to him" (Fabulae §33, trans. Mary Grant)
+[^hyg-33-rescue]: "On the appointed day he came with his brothers to the wedding. Hercules intervened, and killed the Centaur, and led home his betrothed" (Fabulae §33, trans. Mary Grant)
+
+### Nessus and the Poisoned Blood (§34)
+
+At the river Evenus, "Nessus, son of Ixion and Nubes, a centaur, was asked by Dejanira to carry her across the river... but as he was carrying her, in the very river he tried to ravish her. When Hercules came there, and Dejanira implored his aid, he pierced Nessus with his arrows."[^hyg-34-nessus]
+
+The centaur's dying treachery is explicit: "As he died, Nessus, knowing how poisonous the arrows were, since they had been dipped in the gall of the Lernaean Hydra, drew out some of his blood and gave it to Dejanira, telling her it was a love-charm. If she wanted her husband not to desert her, she should have his garments smeared with this blood. Dejanira, believing him, kept it carefully preserved."[^hyg-34-blood]
+
+[^hyg-34-nessus]: "Nessus, son of Ixion and Nubes, a centaur, was asked by Dejanira to carry her across the river Evenus, but as he was carrying her, in the very river he tried to ravish her. When Hercules came there, and Dejanira implored his aid, he pierced Nessus with his arrows" (Fabulae §34, trans. Mary Grant)
+[^hyg-34-blood]: "As he died, Nessus, knowing how poisonous the arrows were, since they had been dipped in the gall of the Lernaean Hydra, drew out some of his blood and gave it to Dejanira, telling her it was a love-charm. If she wanted her husband not to desert her, she should have his garments smeared with this blood. Dejanira, believing him, kept it carefully preserved" (Fabulae §34, trans. Mary Grant)
+
+### Iole and the Sack of Oechalia (§35)
+
+Heracles' assault on Oechalia was brutal. After being refused Iole's hand, he "attacked Oichalia. In order to bend the girl to his will, he threatened to kill her relatives in her presence. She, with resolute mind, suffered them to be slain before her eyes. When he had killed them all, he sent Iole as captive before him to Dejanira."[^hyg-35-iole]
+
+> **NEW DETAIL:** Hyginus alone emphasizes Iole's steadfastness — she refused to yield even as her family was slaughtered before her.
+
+[^hyg-35-iole]: "In order to bend the girl to his will, he threatened to kill her relatives in her presence. She, with resolute mind, suffered them to be slain before her eyes. When he had killed them all, he sent Iole as captive before him to Dejanira" (Fabulae §35, trans. Mary Grant)
+
+### Death by the Poisoned Robe (§36)
+
+When Iole arrived, Deianira "feared that she would steal her marriage. So mindful of the instructions of Nessus, she sent a servant named Lichas to take to Hercules a robe dipped in the blood of the centaur."[^hyg-36-robe] Deianira discovered the truth when "a little of it fell to the earth, and when the sun touched it, it began to burn."[^hyg-36-test]
+
+Heracles' death is vividly told: "when he leaped into a stream to put out the blaze, still greater flames burst forth; when he tried to take off the garment the flesh came with it. Then Hercules, whirling Lichas, who had brought the garment, round and round, threw him into the sea, and at the place where he fell a rock appeared which is called Lichas."[^hyg-36-death]
+
+"Philoctetes, son of Poeas, is said to have built a pyre for Hercules on Mount Oita, and he mounted it... For this service he gave Philoctetes his bow and arrows. But Dejanira, because of what had happened to Hercules, killed herself."[^hyg-36-pyre]
+
+[^hyg-36-robe]: "feared that she would steal her marriage. So mindful of the instructions of Nessus, she sent a servant named Lichas to take to Hercules a robe dipped in the blood of the centaur" (Fabulae §36, trans. Mary Grant)
+[^hyg-36-test]: "A little of it fell to the earth, and when the sun touched it, it began to burn. When Dejanira saw this, she knew that Nessus had spoken falsely" (Fabulae §36, trans. Mary Grant)
+[^hyg-36-death]: "when he leaped into a stream to put out the blaze, still greater flames burst forth; when he tried to take off the garment the flesh came with it. Then Hercules, whirling Lichas, who had brought the garment, round and round, threw him into the sea, and at the place where he fell a rock appeared which is called Lichas" (Fabulae §36, trans. Mary Grant)
+[^hyg-36-pyre]: "Philoctetes, son of Poeas, is said to have built a pyre for Hercules on Mount Oita, and he mounted it... For this service he gave Philoctetes his bow and arrows. But Dejanira, because of what had happened to Hercules, killed herself" (Fabulae §36, trans. Mary Grant)
+
+### Incidental Labours (§31)
+
+Hyginus catalogues additional exploits beyond the canonical twelve. Notable variants include:
+
+- **Neleus and sons**: "He killed Neleus and his ten sons for refusing to cleanse him or purify him at the time when he had killed his wife Megara, daughter of Creon, and his sons Therimachus and Ophites."[^hyg-31-neleus] This places Neleus's death after Heracles' madness, not before it as in the [Bibliotheca](../sources/apollodorus.md).
+- **Nessus**: "He killed the centaur Nessus because he tried to violate Dejanira."[^hyg-31-nessus-simple]
+- **Achelous**: "The River Achelous used to change himself into all sorts of shapes. When he fought with Hercules to win Dejanira in marriage, he changed himself into a bull. Hercules tore of his horn, presenting it to the Hesperides or the Nymphs, and the goddesses filled it with fruits and called it Cornucopia."[^hyg-31-achelous]
+
+[^hyg-31-neleus]: "He killed Neleus and his ten sons for refusing to cleanse him or purify him at the time when he had killed his wife Megara, daughter of Creon, and his sons Therimachus and Ophites" (Fabulae §31, trans. Mary Grant)
+[^hyg-31-nessus-simple]: "He killed the centaur Nessus because he tried to violate Dejanira" (Fabulae §31, trans. Mary Grant)
+[^hyg-31-achelous]: "The River Achelous used to change himself into all sorts of shapes. When he fought with Hercules to win Dejanira in marriage, he changed himself into a bull. Hercules tore of his horn, presenting it to the Hesperides or the Nymphs, and the goddesses filled it with fruits and called it Cornucopia" (Fabulae §31, trans. Mary Grant)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 289-292, 316-318, 332, 526-532, 943-944, 950-955: Slaying monsters; freeing Prometheus; birth; marriage to Hebe and apotheosis
@@ -457,6 +548,14 @@ The Heraclids initially captured all the cities of the Peloponnese, but a plague
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Campaigns against Dryopes, Lapiths, Cycnus, Amyntor; sack of Oechalia; shirt of Nessus; death on Mount Oeta; apotheosis; married Hebe; sons Alexiares and Anicetus
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.8: Exhaustive list of sons by Thespius's daughters and other women (Deianira, Megara, Omphale, Chalciope, Epicaste, Auge, and others)
 - **[Bibliotheca](../sources/apollodorus.md)** 2.8.1-2.8.5: The Heraclids — fled Eurystheus to Athens; Hyllus slew Eurystheus; Alcmena's revenge; return to Peloponnese; "third crop" oracle; lot-casting for Argos, Lacedaemon, and Messene
+- **[Fabulae](../sources/hyginus.md)** §29: Zeus prolongs the night, spends "one day and doubled two nights" with Alcmena; tells her of Oichalia; Amphitryon realizes a divinity assumed his form
+- **[Fabulae](../sources/hyginus.md)** §30: Twelve labours — infant strangled snakes (name Primigenius); Nemean Lion nourished by Luna in two-mouthed cave; Hydra poisonous breath; arrows dipped in gall; Augean stables with Zeus's help; Diomedes' horses named (Podargus, Lampon, Xanthus, Dinus); slew Hippolyte and gave Antiopa to Theseus; Cerberus from Lower World
+- **[Fabulae](../sources/hyginus.md)** §31: Incidental labours — killed Neleus and ten sons for refusing purification after Megara's murder; killed Nessus for attempting to violate Deianira; wrestled Achelous (bull-form), tore off horn (became Cornucopia)
+- **[Fabulae](../sources/hyginus.md)** §32: Lycus (son of Neptune) tried to kill Megara and sons (Therimachus, Ophites); Heracles killed Lycus; then Hera sent madness, Heracles killed Megara and sons; wrathfully carried off Apollo's tripod when denied oracle; Zeus commanded return; given to Omphale by Mercury
+- **[Fabulae](../sources/hyginus.md)** §33: Violated Deianira, promised marriage; Eurytion (son of Ixion and Nubes) sought her; Dexamenus promised her to centaur from fear; Heracles killed Eurytion at wedding, led home betrothed
+- **[Fabulae](../sources/hyginus.md)** §34: Nessus (son of Ixion and Nubes) carried Deianira across Evenus, tried to ravish her in river; Heracles pierced him with arrows; dying Nessus gave blood as false love-charm (knowing arrow poison from Hydra's gall); Deianira preserved it
+- **[Fabulae](../sources/hyginus.md)** §35: Refused Iole by Eurytus; attacked Oechalia; threatened to kill her relatives before her eyes; Iole "with resolute mind, suffered them to be slain before her eyes"; sent her as captive to Deianira
+- **[Fabulae](../sources/hyginus.md)** §36: Deianira sent robe dipped in Nessus's blood via Lichas; tested it, saw it burn in sunlight; Heracles wore it, leaped in stream (flames increased), flesh came off with garment; whirled Lichas into sea (rock called Lichas appeared); Philoctetes built pyre on Oita; gave Philoctetes bow and arrows; Deianira killed herself
 
 [^apd-argonaut]: "Hercules, son of Zeus" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-hylas]: "Hylas, son of Thiodamas, a minion of Hercules, had been sent to draw water and was ravished away by nymphs on account of his beauty... while the two were seeking for Hylas, the ship put to sea... Hercules returned to Argos" (Bibliotheca 1.9.19, trans. Frazer)

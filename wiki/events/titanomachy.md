@@ -80,7 +80,30 @@ After the victory, "they themselves cast lots for the sovereignty, and to [Zeus]
 [^apd-titan-campe]: "So he slew their jailoress Campe, and loosed their bonds" (Bibliotheca 1.2.1, trans. Frazer)
 [^apd-titan-lots]: "they themselves cast lots for the sovereignty, and to Zeus was allotted the dominion of the sky, to Poseidon the dominion of the sea, and to Pluto the dominion in Hades" (Bibliotheca 1.2.1, trans. Frazer)
 
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) presents a unique version of the Titanomachy, placing it in a later mythological context.
+
+### The Io-Epaphus Connection (§150)
+
+Unlike the Theogony and Bibliotheca, which place the war immediately after Zeus's liberation from Cronos, the Fabulae connects it to [Hera](../deities/hera.md)'s jealousy of Io and Epaphus. "After Juno saw that Epaphus, born of a concubine, ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titans to drive Jove from the kingdom and restore it to Saturn."[^hyg-150-juno]
+
+This presents the war not as an inevitable succession conflict but as [Hera](../deities/hera.md)'s political retaliation — using the [Titans](../deities/titans.md) to depose [Zeus](../deities/zeus.md) (Jove) in favor of [Cronos](../deities/cronos.md) (Saturn).
+
+### The Battle
+
+"When they tried to mount heaven, Jove with the help of Minerva, Apollo, and Diana, cast them headlong into Tartarus."[^hyg-150-battle] This specifies three divine allies — [Athena](../deities/athena.md) (Minerva), [Apollo](../deities/apollo.md), and [Artemis](../deities/artemis.md) (Diana) — rather than the [Hundred-Handers](../creatures/hundred-handers.md) and [Cyclopes](../creatures/cyclopes.md) of earlier traditions.
+
+### Atlas's Punishment
+
+"On Atlas, who had been their leader, he put the vault of the sky; even now he is said to hold up the sky on his shoulders."[^hyg-150-atlas] The Fabulae uniquely identifies Atlas as the leader of the Titans in this war, explaining his cosmic punishment.
+
+[^hyg-150-juno]: "After Juno saw that Epaphus, born of a concubine, ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titans to drive Jove from the kingdom and restore it to Saturn" (Fabulae §150, trans. Mary Grant)
+[^hyg-150-battle]: "When they tried to mount heaven, Jove with the help of Minerva, Apollo, and Diana, cast them headlong into Tartarus" (Fabulae §150, trans. Mary Grant)
+[^hyg-150-atlas]: "On Atlas, who had been their leader, he put the vault of the sky; even now he is said to hold up the sky on his shoulders" (Fabulae §150, trans. Mary Grant)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 617-735: Full account
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.1: Metis gives Cronos emetic; ten-year war; jailoress Campe slain; Cyclopes arm the gods; Three Lots divide the cosmos
+- **[Fabulae](../sources/hyginus.md)** §150: Hera incites Titans to restore Saturn after Epaphus killed; Zeus aided by Athena, Apollo, Artemis; Atlas identified as leader and punished with sky-burden

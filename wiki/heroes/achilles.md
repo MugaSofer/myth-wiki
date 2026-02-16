@@ -231,6 +231,53 @@ After killing Penthesilea (and falling in love with her after death), Achilles "
 
 [^apd-ach-burial]: "they buried him with Patroclus in the White Isle, mixing the bones of the two together" (Epitome 5.5, trans. J.G. Frazer)
 
+## In the Fabulae
+
+### Disguised on Scyros (§96)
+
+The [Fabulae](../sources/hyginus.md) provides the fullest account of Achilles' concealment among Lycomedes' daughters. "When Thetis the Nereid knew that Achilles, the son she had borne to Peleus, would die if he went to attack Troy, she sent him to island of Scyros, entrusting him to King Lycomedes."[^hyg-96-concealment]
+
+The disguise is detailed: "He kept him among his virgin daughters in woman's attire under an assumed name. The girls called him Pyrrha, since he had tawny hair, and in Greek a redhead is called pyrrhos."[^hyg-96-pyrrha]
+
+Odysseus's stratagem exposed him. "When the Achaeans discovered that he was hidden there, they sent spokesmen to King Lycomedes to beg that he be sent to help the Danaan. The King denied that he was there, but gave them permission to search the palace."[^hyg-96-search] Unable to identify him among the girls, "Ulysses put women's trinkets in the fore-court of the palace, and among them a shield and a spear. He bade the trumpeter blow the trumpet all of a sudden, and called for clash of arms and shouting."[^hyg-96-trick]
+
+"Achilles, thinking the enemy was at hand, stripped off his woman's garb and seized shield and spear. In this way he was recognized and promised to the Argives his aid and his soldiers, the Myrmidons."[^hyg-96-revealed]
+
+[^hyg-96-concealment]: "When Thetis the Nereid knew that Achilles, the son she had borne to Peleus, would die if he went to attack Troy, she sent him to island of Scyros, entrusting him to King Lycomedes" (Fabulae §96, trans. Mary Grant)
+[^hyg-96-pyrrha]: "He kept him among his virgin daughters in woman's attire under an assumed name. The girls called him Pyrrha, since he had tawny hair, and in Greek a redhead is called pyrrhos" (Fabulae §96, trans. Mary Grant)
+[^hyg-96-search]: "When the Achaeans discovered that he was hidden there, they sent spokesmen to King Lycomedes to beg that he be sent to help the Danaan. The King denied that he was there, but gave them permission to search the palace" (Fabulae §96, trans. Mary Grant)
+[^hyg-96-trick]: "When they couldn't discover which one he was. Ulysses put women's trinkets in the fore-court of the palace, and among them a shield and a spear. He bade the trumpeter blow the trumpet all of a sudden, and called for clash of arms and shouting" (Fabulae §96, trans. Mary Grant)
+[^hyg-96-revealed]: "Achilles, thinking the enemy was at hand, stripped off his woman's garb and seized shield and spear. In this way he was recognized and promised to the Argives his aid and his soldiers, the Myrmidons" (Fabulae §96, trans. Mary Grant)
+
+### Ransom of Hector (§106)
+
+Hyginus compresses the Briseis quarrel and its aftermath into one paragraph. "Agamemnon, at the time when he returned Chryseis to Chryses, priest of Apollo Smintheus, took from Achilles because of her exceeding beauty Briseis, the Moesian captive, daughter of the priest Brisa, whom Achilles had won."[^hyg-106-briseis]
+
+"In wrath over this Achilles did not go to battle but amused himself with the cithara in his tent."[^hyg-106-cithara] When Patroclus wore Achilles' armor and was killed by Hector, "Achilles, at Patroclus' pleading, gave him his armor. Wearing this, he put the Trojans to flight, since they thought he was Achilles, and he slew Sarpedon, son of Jove and Europa."[^hyg-106-sarpedon]
+
+[Thetis](../deities/thetis.md) secured new armor from [Hephaestus](../deities/hephaestus.md), "and the Nereids brought it to him over the sea. Wearing this, he slew Hector, tied his body to his chariot, and dragged it round the walls of the Trojans."[^hyg-106-hector] The ransom follows: "On his refusal to give the body to his father for burial, at Jove's command Priam, with Mercury as guide, came into the camp of the Danaans, received the body for an equal weight of gold, and gave it burial."[^hyg-106-ransom]
+
+[^hyg-106-briseis]: "Agamemnon, at the time when he returned Chryseis to Chryses, priest of Apollo Smintheus, took from Achilles because of her exceeding beauty Briseis, the Moesian captive, daughter of the priest Brisa, whom Achilles had won" (Fabulae §106, trans. Mary Grant)
+[^hyg-106-cithara]: "In wrath over this Achilles did not go to battle but amused himself with the cithara in his tent" (Fabulae §106, trans. Mary Grant)
+[^hyg-106-sarpedon]: "Achilles, at Patroclus' pleading, gave him his armor. Wearing this, he put the Trojans to flight, since they thought he was Achilles, and he slew Sarpedon, son of Jove and Europa" (Fabulae §106, trans. Mary Grant)
+[^hyg-106-hector]: "Thetis his mother secured armor for him from Vulcan, and the Nereids brought it to him over the sea. Wearing this, he slew Hector, tied his body to his chariot, and dragged it round the walls of the Trojans" (Fabulae §106, trans. Mary Grant)
+[^hyg-106-ransom]: "On his refusal to give the body to his father for burial, at Jove's command Priam, with Mercury as guide, came into the camp of the Danaans, received the body for an equal weight of gold, and gave it burial" (Fabulae §106, trans. Mary Grant)
+
+### Contest of Arms (§107)
+
+The aftermath of Achilles' death is told with bitter clarity. "After Hector's burial, when Achilles was wandering along the ramparts of the Trojans and saying that he alone had reduced Troy, Apollo in anger, taking the form of Alexander Paris, struck him with an arrows on the heel which was said to be vulnerable, and killed him."[^hyg-107-death]
+
+The contest for his armor follows: "When Achilles was killed and given burial, Telamonian Ajax demanded from the Danaans the arms of Achilles, on the grounds that he was cousin on his father's side."[^hyg-107-ajax] But "through the anger of Minerva they were denied him by Agamemnon and Menelaus, and given to Ulysses."[^hyg-107-ulysses]
+
+Ajax's madness and suicide: "Ajax, harbouring rage, in madness slaughtered his flocks, and killed himself with that sword he had received from Hector as a gift when the two met in battle line."[^hyg-107-suicide]
+
+> **NEW DETAIL:** [Athena](../deities/athena.md)'s anger against Ajax is explicit — she arranged for the arms to go to Odysseus.
+
+[^hyg-107-death]: "After Hector's burial, when Achilles was wandering along the ramparts of the Trojans and saying that he alone had reduced Troy, Apollo in anger, taking the form of Alexander Paris, struck him with an arrows on the heel which was said to be vulnerable, and killed him" (Fabulae §107, trans. Mary Grant)
+[^hyg-107-ajax]: "When Achilles was killed and given burial, Telamonian Ajax demanded from the Danaans the arms of Achilles, on the grounds that he was cousin on his father's side" (Fabulae §107, trans. Mary Grant)
+[^hyg-107-ulysses]: "Through the anger of Minerva they were denied him by Agamemnon and Menelaus, and given to Ulysses" (Fabulae §107, trans. Mary Grant)
+[^hyg-107-suicide]: "Ajax, harbouring rage, in madness slaughtered his flocks, and killed himself with that sword he had received from Hector as a gift when the two met in battle line" (Fabulae §107, trans. Mary Grant)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I: Quarrel with Agamemnon; [Athena](../deities/athena.md) restrains him ("terribly shone her eyes"); weeps by the sea; [Thetis](../deities/thetis.md) rises "like a mist"; supplicates [Zeus](../deities/zeus.md) on his behalf
@@ -250,3 +297,6 @@ After killing Penthesilea (and falling in love with her after death), Achilles "
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Ghost appears to Neoptolemus
 - **[Epic Cycle](../sources/epic-cycle.md)** (Returns): Ghost warns the departing fleet
 - **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): Polyxena sacrificed at his tomb
+- **[Fabulae](../sources/hyginus.md)** §96: Thetis sent him to Scyros to King Lycomedes (would die if went to Troy); kept among virgin daughters in woman's attire; called "Pyrrha" (tawny-haired, pyrrhos = redhead); Achaeans sent spokesmen; Lycomedes denied, gave permission to search; Odysseus put women's trinkets with shield and spear in forecourt; trumpet blast and war-cries; Achilles seized weapons, revealed; promised aid and Myrmidons
+- **[Fabulae](../sources/hyginus.md)** §106: Agamemnon took Briseis (Moesian captive, daughter of priest Brisa); Achilles withdrew, "amused himself with cithara in tent"; Patroclus wore armor, slew Sarpedon, killed by Hector; Thetis got armor from Vulcan, Nereids brought it over sea; Achilles slew Hector, dragged body round walls; refused burial; Zeus commanded; Priam came with Mercury as guide, ransomed body for equal weight of gold
+- **[Fabulae](../sources/hyginus.md)** §107: After Hector's burial, wandering ramparts saying he alone reduced Troy; Apollo in anger (as Paris) shot heel, killed him; Ajax demanded arms (cousin on father's side); through Minerva's anger, Agamemnon and Menelaus gave them to Odysseus; Ajax in madness slaughtered flocks, killed himself with sword from Hector (gift from battle-line meeting)

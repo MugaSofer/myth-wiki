@@ -170,6 +170,50 @@ During the [Gigantomachy](../creatures/giants.md), "Ephialtes was shot by Apollo
 [^apd-marsyas]: "Apollo was judged the victor and despatched Marsyas by hanging him on a tall pine tree and stripping off his skin." (Bibliotheca 1.4.2, trans. Frazer)
 [^apd-ephialtes]: "Ephialtes was shot by Apollo with an arrow in his left eye and by Hercules in his right" (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the Fabulae
+
+### Aesculapius and the Cyclopes (§49)
+
+The [Fabulae](../sources/hyginus.md) tells how Apollo's son Aesculapius "is said to have restored life either to Glaucus, son of Minos, or to Hippolytus, and Jupiter [[Zeus](zeus.md)] because of this struck him with a thunderbolt."[^hyg-49-aesc] Apollo's response was deadly: "not being able to injure Jupiter, killed the ones who had made the thunderbolt, that is, the Cyclopes."[^hyg-49-cyclopes] The punishment was servitude: "On account of this deed Apollo was given in servitude to Admetus, King in Thessaly."[^hyg-49-admetus]
+
+> **VARIANT:** The Fabulae gives uncertainty about whom Asclepius raised — "either to Glaucus, son of Minos, or to Hippolytus." The [Catalogue of Women](../sources/hesiod.md) names no specific mortal.
+
+[^hyg-49-aesc]: "Aesculapius, son of Apollo, is said to have restored life either to Glaucus, son of Minos, or to Hippolytus, and Jupiter because of this struck him with a thunderbolt." (Fabulae §49, trans. Mary Grant)
+[^hyg-49-cyclopes]: "Apollo, not being able to injure Jupiter, killed the ones who had made the thunderbolt, that is, the Cyclopes." (Fabulae §49, trans. Mary Grant)
+[^hyg-49-admetus]: "On account of this deed Apollo was given in servitude to Admetus, King in Thessaly." (Fabulae §49, trans. Mary Grant)
+
+### Python (§140)
+
+The Fabulae expands the Python story. "Python, offspring of Terra, was a huge dragon who, before the time of Apollo, used to give oracular responses on Mount Parnassus."[^hyg-140-python] [Zeus](zeus.md) lay with Leto, and "[Hera](hera.md) found this out, she decreed (?) that Leto should give birth at a place where the sun did not shine."[^hyg-140-juno] Python pursued Leto "to kill her. But by order of Jove the wind Aquilo carried Latona away, and bore her to Neptune [[Poseidon](poseidon.md)]."[^hyg-140-neptune]
+
+Poseidon "took her to the island Ortygia, and covered the island with waves."[^hyg-140-waves] When Python returned to Parnassus, "Neptune brought the island of Ortygia up to a higher position; it was later called the island of Delos."[^hyg-140-delos]
+
+After his birth, Apollo took vengeance: "Four days after they were born, Apollo exacted vengeance for his mother. For he went to Parnassus and slew Python with his arrows. (Because of this deed he is called Pythian.)"[^hyg-140-vengeance] Apollo established funeral rites: "He put Python's bones in a cauldron, deposited them in his temple, and instituted funeral games for him which are called Pythian."[^hyg-140-games]
+
+[^hyg-140-python]: "Python, offspring of Terra, was a huge dragon who, before the time of Apollo, used to give oracular responses on Mount Parnassus." (Fabulae §140, trans. Mary Grant)
+[^hyg-140-juno]: "When Juno found this out, she decreed (?) that Latona should give birth at a place where the sun did not shine." (Fabulae §140, trans. Mary Grant)
+[^hyg-140-neptune]: "When Python knew that Latona was pregnant by Jove, he followed her to kill her. But by order of Jove the wind Aquilo carried Latona away, and bore her to Neptune." (Fabulae §140, trans. Mary Grant)
+[^hyg-140-waves]: "He protected her, but in order not to make voice Juno's decree, he took her to the island Ortygia, and covered the island with waves." (Fabulae §140, trans. Mary Grant)
+[^hyg-140-delos]: "But Neptune brought the island of Ortygia up to a higher position; it was later called the island of Delos." (Fabulae §140, trans. Mary Grant)
+[^hyg-140-vengeance]: "Four days after they were born, Apollo exacted vengeance for his mother. For he went to Parnassus and slew Python with his arrows. (Because of this deed he is called Pythian.)" (Fabulae §140, trans. Mary Grant)
+[^hyg-140-games]: "He put Python's bones in a cauldron, deposited them in his temple, and instituted funeral games for him which are called Pythian." (Fabulae §140, trans. Mary Grant)
+
+### Marsyas (§165)
+
+The Fabulae provides the full story of the musical contest. [Athena](athena.md) (Minerva) "is said to have been the first to make pipes from deer bones and to have come to the banquet of the gods to play."[^hyg-165-pipes] But "[Hera](hera.md) (Juno) and [Aphrodite](aphrodite.md) (Venus) made fun of her because she was grey-eyed and puffed out her cheeks."[^hyg-165-mocked] At a spring in Ida's forest, she "viewed herself in the water, and saw that she was rightly mocked. Because of this she threw away the pipes and vowed that whoever picked them up would be punished severely."[^hyg-165-vow]
+
+Marsyas "found them, and by practicing assiduously kept making sweeter sounds day by day, so that he challenged Apollo to play the lure in a contest with him."[^hyg-165-challenge] The [Muses](muses.md) served as judges. When "Marsyas was departing as victor, when Apollo turned his lyre upside down, and played the same tune — a thing which Marsyas couldn't do with the pipes. And so Apollo defeated Marsyas."[^hyg-165-trick]
+
+The punishment was brutal: "bound him to a tree, and turned him over to a Scythian who stripped his skin off him limb by limb."[^hyg-165-skin] The river took his name: "From his blood the river Marsyas took its name."[^hyg-165-river]
+
+[^hyg-165-pipes]: "Minerva is said to have been the first to make pipes from deer bones and to have come to the banquet of the gods to play." (Fabulae §165, trans. Mary Grant)
+[^hyg-165-mocked]: "Juno and Venus made fun of her because she was grey-eyed and puffed out her cheeks, so when mocked in her playing and called ugly she came to the forest of Ida to a spring" (Fabulae §165, trans. Mary Grant)
+[^hyg-165-vow]: "as she played she viewed herself in the water, and saw that she was rightly mocked. Because of this she threw away the pipes and vowed that whoever picked them up would be punished severely." (Fabulae §165, trans. Mary Grant)
+[^hyg-165-challenge]: "Marsyas, a shepherd, son of Oiagrus, one of the satyrs, found them, and by practicing assiduously kept making sweeter sounds day by day, so that he challenged Apollo to play the lure in a contest with him." (Fabulae §165, trans. Mary Grant)
+[^hyg-165-trick]: "Marsyas was departing as victor, when Apollo turned his lyre upside down, and played the same tune — a thing which Marsyas couldn't do with the pipes. And so Apollo defeated Marsyas" (Fabulae §165, trans. Mary Grant)
+[^hyg-165-skin]: "bound him to a tree, and turned him over to a Scythian who stripped his skin off him limb by limb." (Fabulae §165, trans. Mary Grant)
+[^hyg-165-river]: "From his blood the river Marsyas took its name." (Fabulae §165, trans. Mary Grant)
+
 ## In the Catalogue of Women
 
 ### Coronis and the Crow (Fragment 89)
@@ -262,6 +306,9 @@ After Heracles murdered Iphitus and sought purification at Delphi, "the Pythian 
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.26: Thetis warned Achilles not to kill Tenes "because he himself would die by the hand of Apollo if he slew Tenes"
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.3: Shot Achilles in the ankle at the Scaean gate — "he was shot with an arrow in the ankle by Alexander and Apollo"
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.18: Sent serpents from the sea that devoured the sons of Laocoon
+- **[Fabulae](../sources/hyginus.md)** §49: Aesculapius restored life to Glaucus or Hippolytus; Zeus struck him with thunderbolt; Apollo killed the Cyclopes in revenge; given in servitude to Admetus
+- **[Fabulae](../sources/hyginus.md)** §140: Python gave oracles on Parnassus before Apollo; pursued Leto; four days after birth Apollo slew Python with arrows; put bones in cauldron; instituted Pythian games
+- **[Fabulae](../sources/hyginus.md)** §165: Marsyas contest — Apollo turned lyre upside down; Marsyas couldn't do the same with pipes; Apollo defeated him; bound to tree; Scythian stripped his skin limb by limb
 
 [^od11-aloadae]: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" (Odyssey XI.6201-6203, trans. Butcher and Lang)
 [^od15-amphiaraus]: "Zeus and Apollo loved him with all manner of love; yet he reached not the threshold of old age, but died in Thebes by reason of a woman's gifts" (Odyssey XV.8207-8210, trans. Butcher and Lang)

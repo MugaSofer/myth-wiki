@@ -51,6 +51,30 @@ In the [Homeric Hymn to Aphrodite](../sources/homeric-hymns.md) (V), Artemis is 
 
 [^hh5-immune]: "Nor does laughter-loving Aphrodite ever tame in love Artemis, the huntress with shafts of gold; for she loves archery and the slaying of wild beasts in the mountains" (Homeric Hymn V to Aphrodite 16-20, trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### Iphigenia Substituted (§98)
+
+The [Fabulae](../sources/hyginus.md) tells the story of Artemis's (Diana's) intervention at Aulis. Agamemnon had "wounded a deer of hers in hunting, and had spoken rather haughtily against Diana."[^hyg-98-offense] Her response: "a storm kept them at Aulis because of the anger of Diana."[^hyg-98-storm]
+
+The oracle demanded sacrifice: "When he had called together the soothsayers, and Calchas had declared that he could expiate in no other way than by sacrificing his daughter, Iphigenia, Agamemnon at first refused."[^hyg-98-calchas] Odysseus convinced him: "Then Ulysses by his advice won him over to a fine scheme. The same Ulysses along with Diomede was sent to get Iphigenia, and when he came to Clytemnestra her mother, he falsely said she was to be given in marriage to Achilles."[^hyg-98-ulysses]
+
+At the moment of sacrifice, Artemis intervened: "When she was brought to Aulis, and her father was about to sacrifice her, Diana pitied the girl, cast mist about her, and substituted a deer in her place."[^hyg-98-substitution] The transport was divine: "She bore Iphigenia through the clouds to the Tauric land, and there made her a priestess of her temple."[^hyg-98-priestess]
+
+[^hyg-98-offense]: "Agamemnon had wounded a deer of hers in hunting, and had spoken rather haughtily against Diana." (Fabulae §98, trans. Mary Grant)
+[^hyg-98-storm]: "a storm kept them at Aulis because of the anger of Diana." (Fabulae §98, trans. Mary Grant)
+[^hyg-98-calchas]: "When he had called together the soothsayers, and Calchas had declared that he could expiate in no other way than by sacrificing his daughter, Iphigenia, Agamemnon at first refused." (Fabulae §98, trans. Mary Grant)
+[^hyg-98-ulysses]: "Then Ulysses by his advice won him over to a fine scheme. The same Ulysses along with Diomede was sent to get Iphigenia, and when he came to Clytemnestra her mother, he falsely said she was to be given in marriage to Achilles." (Fabulae §98, trans. Mary Grant)
+[^hyg-98-substitution]: "When she was brought to Aulis, and her father was about to sacrifice her, Diana pitied the girl, cast mist about her, and substituted a deer in her place." (Fabulae §98, trans. Mary Grant)
+[^hyg-98-priestess]: "She bore Iphigenia through the clouds to the Tauric land, and there made her a priestess of her temple." (Fabulae §98, trans. Mary Grant)
+
+### Actaeon (§180)
+
+The Fabulae gives a brief account of Actaeon's punishment. "Actaeon, son of Aristaeus and Autonoe, a shepherd, saw Diana bathing and desired to ravish her."[^hyg-180-saw] The punishment was transformation: "Angry at this, Diana made horns grow on his head, and he was devoured by his own dogs."[^hyg-180-punishment]
+
+[^hyg-180-saw]: "Actaeon, son of Aristaeus and Autonoe, a shepherd, saw Diana bathing and desired to ravish her." (Fabulae §180, trans. Mary Grant)
+[^hyg-180-punishment]: "Angry at this, Diana made horns grow on his head, and he was devoured by his own dogs." (Fabulae §180, trans. Mary Grant)
+
 ## In the Iliad
 
 ### Slayer of Mortals (Book VI)
@@ -148,5 +172,7 @@ Meleager slew the boar "having gathered together from many cities huntsmen and h
 - **[Bibliotheca](../sources/apollodorus.md)** 3.10.6: Made Tyndareus's daughter Phylonoe immortal
 - **[Bibliotheca](../sources/apollodorus.md)** E.2.10: Atreus vowed to sacrifice his finest to Artemis but kept the golden lamb
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.21-3.22: Angry at Agamemnon for his boast and Atreus's broken vow; demanded Iphigenia as sacrifice; "carried her off to the Taurians and appointed her to be her priestess, substituting a deer for her at the altar" (variant: made her immortal)
+- **[Fabulae](../sources/hyginus.md)** §98: Storm kept Greeks at Aulis due to Diana's anger; Agamemnon wounded her deer and spoke haughtily; Calchas declared only sacrifice of Iphigenia would expiate; Ulysses brought her with false promise of marriage to Achilles; Diana pitied girl; cast mist and substituted deer; bore Iphigenia to Tauric land; made her priestess
+- **[Fabulae](../sources/hyginus.md)** §180: Actaeon saw Diana bathing and desired to ravish her; Diana made horns grow on his head; devoured by own dogs
 
 [^cyp-iphigeneia]: Cypria, summary by Proclus: "Artemis, however, snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"

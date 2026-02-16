@@ -24,6 +24,35 @@ Oedipus succeeded to the kingdom and unknowingly married his mother, begetting s
 
 When the secret came to light, Jocasta hanged herself. Oedipus put out his eyes and cursed his sons, "who saw him cast out of the city without lifting a hand to help him." With Antigone he came to Colonus in Attica, where the precinct of the Eumenides stands, sat as a suppliant, was kindly received by **[Theseus](../heroes/theseus.md)**, and died not long afterwards.[^apd-oedipus-end]
 
+## In the Fabulae
+
+### Laius and the Exposure (§66)
+
+Hyginus gives a streamlined account of Oedipus's birth: "The oracle of Apollo warned Laius, son of Labdacus, that he should beware of death at his son's hands, and so when his wife Jocasta bore a son, he ordered him to be exposed."[^hyg66-oracle] The infant was found not by herdsmen on the mountain but by "Periboea, wife of King Polybus" who "found the child as she was washing garments at the shore, and rescued him."[^hyg66-found] The name Oedipus comes from his injury: "because he had pierced feet they named him Oidipus."[^hyg66-name]
+
+[^hyg66-oracle]: "The oracle of Apollo warned Laius, son of Labdacus, that he should beware of death at his son's hands, and so when his wife Jocasta bore a son, he ordered him to be exposed" (Fabulae §66, trans. Mary Grant)
+[^hyg66-found]: "Periboea, wife of King Polybus, found the child as she was washing garments at the shore, and rescued him. With Polybus' consent, since they were childless, they brought him up as their son" (Fabulae §66, trans. Mary Grant)
+[^hyg66-name]: "and because he had pierced feet they named him Oidipus" (Fabulae §66, trans. Mary Grant)
+
+### The Full Story (§67)
+
+The Fabulae provides extensive narrative detail. Oedipus's discovery of the truth came through taunts: "After Oidipus, son of Laeius and Jocasta, had come to manhood, he was courageous beyond the rest, and through envy his companions taunted him with not being Polybus' son, since Polybus was so mild, and he so assertive. Oidipus felt that the taunt was true."[^hyg67-taunt]
+
+The parricide occurred differently than in Apollodorus: "When he was going to Delphi, Oidipus met him, and when servants bade him give way to the King, he refused. The King urged on his horses, and a wheel grazed Oidipus' foot. Enraged, he dragged his father from the chariot, not knowing who he was, and killed him."[^hyg67-murder]
+
+The Sphinx's riddle is given verbatim: "She proposed a contest to Creon, that if anyone interpreted the riddle which she gave, she would depart, but that she would destroy whoever failed."[^hyg67-contest] Creon's proclamation promised "that he would give the kingdom and his sister Jocasta in marriage to the person solving the riddle of the Sphinx."[^hyg67-prize]
+
+A unique detail involves Menoeceus: "Meanwhile barrenness of crops and want fell on [Thebes](../places/thebes.md) because of the crimes of Oidipus, and Tiresias, questioned as to why Thebes was so harassed, replied that if anyone from the dragon's blood survived and died for his country, he would free Thebes from plague. Then Menoeceus [father of Jocasta] threw himself from the walls."[^hyg67-menoeceus]
+
+The revelation comes through combined sources: "But Periboea revealed his adoption, and Menoetes, too, the old man who had exposed him, recognized him as the son of Laius by the scars on his feet and ankles."[^hyg67-recognition]
+
+[^hyg67-taunt]: "After Oidipus, son of Laeius and Jocasta, had come to manhood, he was courageous beyond the rest, and through envy his companions taunted him with not being Polybus' son, since Polybus was so mild, and he so assertive. Oidipus felt that the taunt was true" (Fabulae §67, trans. Mary Grant)
+[^hyg67-murder]: "When he was going to Delphi, Oidipus met him, and when servants bade him give way to the King, he refused. The King urged on his horses, and a wheel grazed Oidipus' foot. Enraged, he dragged his father from the chariot, not knowing who he was, and killed him" (Fabulae §67, trans. Mary Grant)
+[^hyg67-contest]: "She proposed a contest to Creon, that if anyone interpreted the riddle which she gave, she would depart, but that she would destroy whoever failed, and under no other circumstances would she leave the country" (Fabulae §67, trans. Mary Grant)
+[^hyg67-prize]: "When the king heard this, he made a proclamation throughout Greece. He promised that he would give the kingdom and his sister Jocasta in marriage to the person solving the riddle of the Sphinx" (Fabulae §67, trans. Mary Grant)
+[^hyg67-menoeceus]: "Meanwhile barrenness of crops and want fell on Thebes because of the crimes of Oidipus, and Tiresias, questioned as to why Thebes was so harassed, replied that if anyone from the dragon's blood survived and died for his country, he would free Thebes from plague. Then Menoeceus [father of Jocasta] threw himself from the walls" (Fabulae §67, trans. Mary Grant)
+[^hyg67-recognition]: "But Periboea revealed his adoption, and Menoetes, too, the old man who had exposed him, recognized him as the son of Laius by the scars on his feet and ankles. When Oidipus heard this and realized he had committed such atrocious crimes, he tore the brooches from his mother's garment and blinded himself" (Fabulae §67, trans. Mary Grant)
+
 ## Appearance
 
 | Source | Description |
@@ -31,8 +60,17 @@ When the secret came to light, Jocasta hanged herself. Oedipus put out his eyes 
 | Bibliotheca 3.5.7 | Swollen feet from being pierced with brooches as an infant |
 | Bibliotheca 3.5.7 | Excels his fellows in strength as a young man |
 | Bibliotheca 3.5.9 | Blinds himself; led by Antigone as a suppliant |
+| Fabulae §67 | "Courageous beyond the rest"; "so assertive" in contrast to Polybus's mildness |
+
+## Appearances
+
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.7-9: Full narrative — exposed on Cithaeron; found and raised by Polybus and Periboea in Corinth; oracle warns against returning home; kills Laius at crossroads; solves Sphinx's riddle; marries Jocasta; begets four children; truth revealed; Jocasta hangs herself; blinds himself; exiled with Antigone; dies at Colonus
+- **[Fabulae](../sources/hyginus.md)** §66: Oracle to Laius; Periboea finds infant at shore while washing garments; raised in Corinth; named for pierced feet
+- **[Fabulae](../sources/hyginus.md)** §67: Taunted for not resembling Polybus; goes to Delphi; meets Laius on road; servants demand he give way; wheel grazes his foot; kills Laius in rage; Sphinx's contest with Creon; solves riddle; receives kingdom and Jocasta; Menoeceus (Jocasta's father) throws himself from walls; Periboea and Menoetes reveal truth; blinds himself with brooches; gives kingdom to sons for alternate years; exiled with Antigone
 
 ## Footnotes
+
+[^apd-oedipus-oracle]: "The oracle had warned him not to beget a son, for the son that should be begotten would kill his father; nevertheless, flushed with wine, he had intercourse with his wife" (Bibliotheca 3.5.7, trans. J.G. Frazer)
 
 [^apd-oedipus-oracle]: "The oracle had warned him not to beget a son, for the son that should be begotten would kill his father; nevertheless, flushed with wine, he had intercourse with his wife" (Bibliotheca 3.5.7, trans. J.G. Frazer)
 

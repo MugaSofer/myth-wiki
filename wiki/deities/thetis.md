@@ -149,6 +149,20 @@ In the Returns, Thetis warned Neoptolemus (Achilles' son), who heeded her counse
 
 [^ret-neoptolemus]: Returns, summary by Proclus: "Neoptolemus, warned by Thetis, journeys overland"
 
+## In the Fabulae
+
+### The Prophecy and Marriage to Peleus (§54)
+
+The [Fabulae](../sources/hyginus.md) preserves a crucial variant on the Thetis tradition, centering on [Prometheus](../titans/prometheus.md)'s knowledge and his bargain with [Zeus](zeus.md).
+
+"A prediction about Thetis, the Nereid, was that her son would be greater than his father."[^hyg-54-prophecy] This is the same prophecy known from the [Bibliotheca](../sources/apollodorus.md) and [Epic Cycle](../sources/epic-cycle.md), but Hyginus adds a significant detail: "Since no one but Prometheus knew this, and [Jove](zeus.md) wished to lie with her, Prometheus promised Jove that he would give him timely warning if he would free him from his chains."[^hyg-54-bargain]
+
+This makes Prometheus's release conditional on revealing the secret. "And so when the promise was given he advised Jove not to lie with Thetis, for if one greater than he were born he might drive Jove from his kingdom, as he himself had done to Saturn."[^hyg-54-warning]
+
+"And so Thetis was given in marriage to Peleus, son of Aeacus."[^hyg-54-marriage] This forced marriage to a mortal becomes the direct consequence of the prophecy.
+
+The bargain is completed: "[Heracles](../heroes/heracles.md) was sent to kill the eagle which was eating out Prometheus' heart. When it was killed, Prometheus after thirty thousand years was freed from Mount Caucasus."[^hyg-54-release] The specific detail of "thirty thousand years" appears nowhere else in the tradition and gives the duration of Prometheus's torment.
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** XXIV: Achilles' funeral — rises from the sea with the deathless maidens; the Nereids clad Achilles in incorruptible raiment; the nine Muses sang the dirge; seventeen days of mourning; gave a golden urn (gift of [Dionysus](dionysus.md), work of [Hephaestus](hephaestus.md)); asked the gods for prizes in the funeral games; "very dear wert thou to the gods"
@@ -165,8 +179,14 @@ In the Returns, Thetis warned Neoptolemus (Achilles' son), who heeded her counse
 - **[Iliad](../sources/iliad.md)** XXIV: Summoned by Iris from the sea (wailing among the Nereids); goes to Olympus; Athena gives her place, Hera gives her a golden cup; Zeus sends her to bid Achilles accept ransom; "not long shalt thou be left alive to me"; Hera: "I myself bred up and reared [Thetis] and gave [her] to a man to be his wife, even to Peleus who was dearest of all men to the Immortals' heart"
 - **Catalogue of Women** Fragment 57: Hesiod confirms the Cypria tradition that Thetis avoided [Zeus](zeus.md) to please [Hera](hera.md), and Zeus swore she should mate with a mortal
 - **Aegimius** Fragment 2: Threw her children by Peleus into a cauldron of water to test their mortality; many perished before Peleus stopped her from throwing Achilles in
+- **[Fabulae](../sources/hyginus.md)** §54: Prophecy that her son would be greater than his father; Prometheus alone knew this; bargained with Zeus for his freedom; warned Zeus not to lie with her; Thetis given to Peleus; Heracles killed the eagle; Prometheus freed after thirty thousand years
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.7: Listed among the Nereids, daughters of [Nereus](nereus.md) and Doris
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.5: Saved [Hephaestus](hephaestus.md) after [Zeus](zeus.md) cast him from heaven and he fell on Lemnos
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Steered the Argo through the Wandering Rocks with the Nereids — "Thetis with the Nereids steered the ship through them at the summons of [Hera](hera.md)"[^apd-wandering]
 
 [^apd-wandering]: "Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)
+[^hyg-54-prophecy]: "A prediction about Thetis, the Nereid, was that her son would be greater than his father" (Fabulae §54, trans. Mary Grant)
+[^hyg-54-bargain]: "Since no one but Prometheus knew this, and Jove wished to lie with her, Prometheus promised Jove that he would give him timely warning if he would free him from his chains" (Fabulae §54, trans. Mary Grant)
+[^hyg-54-warning]: "And so when the promise was given he advised Jove not to lie with Thetis, for if one greater than he were born he might drive Jove from his kingdom, as he himself had done to Saturn" (Fabulae §54, trans. Mary Grant)
+[^hyg-54-marriage]: "And so Thetis was given in marriage to Peleus, son of Aeacus" (Fabulae §54, trans. Mary Grant)
+[^hyg-54-release]: "Hercules was sent to kill the eagle which was eating out Prometheus' heart. When it was killed, Prometheus after thirty thousand years was freed from Mount Caucasus" (Fabulae §54, trans. Mary Grant)

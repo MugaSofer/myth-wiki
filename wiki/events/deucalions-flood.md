@@ -88,6 +88,31 @@ In the [Odyssey](../sources/odyssey.md), a different Deucalion (son of Minos) ap
 [^apd-cranaus]: "it was in his time that the flood in the age of Deucalion is said to have taken place" (Bibliotheca 3.14.5, trans. Frazer)
 [^od19-deucalion]: "Deucalion, high of heart. Now Deucalion begat me and Idomeneus the prince" (Odyssey XIX.10347, trans. Butcher and Lang)
 
+## In the Fabulae
+
+The [Fabulae](../sources/hyginus.md) gives two accounts related to the flood.
+
+### The Flood and the Stones (§153)
+
+"When the cataclysm which we call the flood or deluge occurred, all the human race perished except Deucalion and Pyrrha, who fled to Mount Etna, which is said to be the highest mountain in Sicily."[^hyg-153-etna] This location (Mount Etna in Sicily) differs notably from the Bibliotheca's Mount Parnassus.
+
+After they survived, "when they could not live on account of loneliness, they begged Jove either to give men, or to afflict them with a similar disaster."[^hyg-153-beg] This presents their petition as a choice between two extremes — either give us companions or kill us too.
+
+"Then Jove bade them cast stones behind them; those Deucalion threw he ordered to become men, and those Pyrrha threw, to be women."[^hyg-153-stones] The Fabulae preserves the same etymology as the Bibliotheca: "Because of this they are called laos, 'people', for stone in Greek is called las."[^hyg-153-etymology]
+
+### The Phaethon Variant (§152A)
+
+The Fabulae also preserves an alternate tradition linking the flood to Phaethon's fall. After "Phaethon, son of Sol and Clymene, who had secretly mounted his father's car, and had been borne too high above the earth, from fear fell into the river Eridanus," and "Jupiter struck him with a thunderbolt, everything started to burn."[^hyg-152a-burn]
+
+"In order to have a reason for destroying the whole race of mortals, Jove pretended he wanted to put out the fire; he let loose the rivers everywhere, and all the human race perished except Deucalion and Pyrrha."[^hyg-152a-flood] This presents [Zeus](../deities/zeus.md) (Jove) as using Phaethon's disaster as a pretext for the flood he already desired to send.
+
+[^hyg-153-etna]: "When the cataclysm which we call the flood or deluge occurred, all the human race perished except Deucalion and Pyrrha, who fled to Mount Etna, which is said to be the highest mountain in Sicily" (Fabulae §153, trans. Mary Grant)
+[^hyg-153-beg]: "when they could not live on account of loneliness, they begged Jove either to give men, or to afflict them with a similar disaster" (Fabulae §153, trans. Mary Grant)
+[^hyg-153-stones]: "Jove bade them cast stones behind them; those Deucalion threw he ordered to become men, and those Pyrrha threw, to be women" (Fabulae §153, trans. Mary Grant)
+[^hyg-153-etymology]: "Because of this they are called laos, 'people', for stone in Greek is called las" (Fabulae §153, trans. Mary Grant)
+[^hyg-152a-burn]: "Phaethon, son of Sol and Clymene, who had secretly mounted his father's car, and had been borne too high above the earth, from fear fell into the river Eridanus. When Jupiter struck him with a thunderbolt, everything started to burn" (Fabulae §152A, trans. Mary Grant)
+[^hyg-152a-flood]: "In order to have a reason for destroying the whole race of mortals, Jove pretended he wanted to put out the fire; he let loose the rivers everywhere, and all the human race perished except Deucalion and Pyrrha" (Fabulae §152A, trans. Mary Grant)
+
 ## Appearances
 
 - **[Catalogue of Women](../sources/theogony.md)** (Fragments 1-5): Deucalion son of Prometheus and Pronoea; Hellen son of Deucalion and Pyrrha; descendants rule Thessaly; daughters Thyia and Pandora bear sons to [Zeus](../deities/zeus.md); stones become people (laas/laos wordplay)
@@ -96,3 +121,5 @@ In the [Odyssey](../sources/odyssey.md), a different Deucalion (son of Minos) ap
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.2: Full account — Deucalion and Pyrrha's lineage; Prometheus's advice; the chest; nine days afloat; landing on Parnassus; sacrifice to "Zeus the god of Escape"; [Hermes](../deities/hermes.md) sent; stones become men and women; children: Hellen, Amphictyon, Protogenia
 - **[Bibliotheca](../sources/apollodorus.md)** 3.8.2: Flood also attributed to impiety of Lycaon's sons
 - **[Bibliotheca](../sources/apollodorus.md)** 3.14.5: Dated to reign of Cranaus of Athens
+- **[Fabulae](../sources/hyginus.md)** §152A: Phaethon variant — Zeus uses Phaethon's fiery fall as pretext to flood the earth; "all the human race perished except Deucalion and Pyrrha"
+- **[Fabulae](../sources/hyginus.md)** §153: Fled to Mount Etna (not Parnassus); begged Zeus for companions "or to afflict them with a similar disaster"; stones cast behind become men/women; laos/las etymology

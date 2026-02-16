@@ -79,9 +79,64 @@ The Catalogue confirms Jason's parentage and adds his upbringing by [Chiron](../
 
 [^cat-jason]: "Aeson, who begot a son Iason, shepherd of the people, whom Chiron brought up in woody Pelion" (Catalogue of Women, Fragment 13, trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### Pelias and the Oracle (§12)
+
+Hyginus gives an oracle to Pelias different from the Bibliotheca's version: "An oracle bade Pelias, son of Cretheus and Tyro, sacrifice to [Neptune](../deities/poseidon.md), and told him his death was drawing near if a monocrepis, that is, a man wearing only one sandal, arrived."[^hyg12-oracle]
+
+Jason arrived at the sacrifice having lost one sandal crossing "the river Evenus" (not Anaurus as in the Bibliotheca), and Pelias, "remembering the warning of the oracle, he bade him procure from King Aeetes, his enemy, the Golden Fleece of the ram which Phrixus had dedicated to Mars at Colchis."[^hyg12-task]
+
+[^hyg12-oracle]: "An oracle bade Pelias, son of Cretheus and Tyro, sacrifice to Neptune, and told him his death was drawing near if a monocrepis, that is, a man wearing only one sandal, arrived" (Fabulae §12, trans. Mary Grant)
+[^hyg12-task]: "When Pelias noticed this, remembering the warning of the oracle, he bade him procure from King Aeetes, his enemy, the Golden Fleece of the ram which Phrixus had dedicated to Mars at Colchis" (Fabulae §12, trans. Mary Grant)
+
+### Juno at the River (§13)
+
+The Fabulae preserves a fuller account of [Hera](../deities/hera.md)'s involvement: "When [Juno](../deities/hera.md), near the river Evenus, had changed her form to that of an old woman, and was waiting to test men's minds to see if they would carry her across the river Evenus, no one offered till Jason, son of Aeson and Alcimede, took her across."[^hyg13-juno] Her favor toward Jason was earned through this act of kindness, and "angry at Pelias for failing to sacrifice to her, she caused Jason to leave one sandal in the mud."[^hyg13-sandal]
+
+[^hyg13-juno]: "When Juno, near the river Evenus, had changed her form to that of an old woman, and was waiting to test men's minds to see if they would carry her across the river Evenus, no one offered till Jason, son of Aeson and Alcimede, took her across" (Fabulae §13, trans. Mary Grant)
+[^hyg13-sandal]: "But, angry at Pelias for failing to sacrifice to her, she caused Jason to leave one sandal in the mud" (Fabulae §13, trans. Mary Grant)
+
+### The Argonauts Assembled (§14-14.5)
+
+The Fabulae provides an extensive catalog of the Argonauts with genealogies and home cities. Jason is listed as "Jason, son of Aeson and Alcimede, Clymene's daughter, leader of the Thessalians."[^hyg14-jason] The list includes detailed information about each hero, their parentage, and their cities of origin, totaling "all these were called Minyae, either because daughters of Minyas bore most of them, or because Jason's mother was a daughter of Clymene, daughter of Minyas."[^hyg14-minyae]
+
+The Fabulae also records the positions on the ship: "Jason, therefore, directed them. Argus, son of Danaus, was shipbuilder; Tiphys was pilot. After his death Ancaeus, son of Neptune, steered. Lynceus, son of Aphareus, who had keen sight, was the lookout man at the prow."[^hyg14-5-positions]
+
+[^hyg14-jason]: "Jason, son of Aeson and Alcimede, Clymene's daughter, leader of the Thessalians" (Fabulae §14, trans. Mary Grant)
+[^hyg14-minyae]: "Moreover, all these were called Minyae, either because daughters of Minyas bore most of them, or because Jason's mother was a daughter of Clymene, daughter of Minyas" (Fabulae §14.4, trans. Mary Grant)
+[^hyg14-5-positions]: "Jason, therefore, directed them. Argus, son of Danaus, was shipbuilder; Tiphys was pilot. After his death Ancaeus, son of Neptune, steered. Lynceus, son of Aphareus, who had keen sight, was the lookout man at the prow" (Fabulae §14.5, trans. Mary Grant)
+
+### Aeetes' Tasks (§22)
+
+In Hyginus's account, Aeetes sets the tasks because "An oracle told Aeetes, son of [Sol](../deities/helius.md), that he would keep his kingdom as long as the fleece which Phrixus had dedicated should remain in the shrine of Mars."[^hyg22-oracle] The tasks are similar to other accounts: "to yoke with yoke of adamant the bronze-footed bulls which breathed flames from their nostrils, and plow, and sow from a helmet the dragon's teeth, from which a tribe of armed men should arise and slay each other."[^hyg22-tasks]
+
+[Juno](../deities/hera.md)'s involvement is explained through Jason's earlier kindness: "Juno, however, wished to save Jason, because once when she had come to a river and wished to test the minds of men, she assumed an old woman's form, and asked to be carried across. He had carried her across when others who had passed over despised her."[^hyg22-juno] She arranged for [Venus](../deities/aphrodite.md) to inspire [Medea](medea.md) with love, "and so since she knew that Jason could not perform the commands without help of Medea, she asked Venus to inspire Medea with love."[^hyg22-venus]
+
+[^hyg22-oracle]: "An oracle told Aeetes, son of Sol, that he would keep his kingdom as long as the fleece which Phrixus had dedicated should remain in the shrine of Mars" (Fabulae §22, trans. Mary Grant)
+[^hyg22-tasks]: "to yoke with yoke of adamant the bronze-footed bulls which breathed flames from their nostrils, and plow, and sow from a helmet the dragon's teeth, from which a tribe of armed men should arise and slay each other" (Fabulae §22, trans. Mary Grant)
+[^hyg22-juno]: "Juno, however, wished to save Jason, because once when she had come to a river and wished to test the minds of men, she assumed an old woman's form, and asked to be carried across. He had carried her across when others who had passed over despised her" (Fabulae §22, trans. Mary Grant)
+[^hyg22-venus]: "And so since she knew that Jason could not perform the commands without help of Medea, she asked Venus to inspire Medea with love. At Venus' instigation, Jason was loved by Medea" (Fabulae §22, trans. Mary Grant)
+
+### The Daughters of Pelias (§24)
+
+After the quest, Jason's revenge on Pelias is described in detail. [Medea](medea.md) disguised herself "in the guise of a priestess of [Diana](../deities/artemis.md)" and promised to make Pelias young again.[^hyg24-disguise] When Pelias's eldest daughter Alcestis doubted, "Medea cast mist before them, and by means of drugs formed many strange things which seemed to be like reality, putting an old ram in a brazen vessel, from which a very fine young lamb seemed to spring."[^hyg24-ram]
+
+Convinced by this demonstration, "the daughters of Pelias — namely, Alcestis, Pelopia, Medusa, Pisidice, and Hippothoe — at Medea's instigation slew their father and cooked him in a brazen caldron."[^hyg24-murder] After they realized the deception, "Jason, at a given signal of Medea, made himself the master of the palace, and handed over the rule to Acastus, son of Pelias, brother of the Peliades, because he had gone with him to Colchis."[^hyg24-acastus]
+
+[^hyg24-disguise]: "And so, when they were now far from Colchis, she bade the ship be hidden in a secret place, and she herself in the guise of a priestess of Diana came to the daughters of Pelias" (Fabulae §24, trans. Mary Grant)
+[^hyg24-ram]: "In order more easily to bend her to her will, Medea cast mist before them, and by means of drugs formed many strange things which seemed to be like reality, putting an old ram in a brazen vessel, from which a very fine young lamb seemed to spring" (Fabulae §24, trans. Mary Grant)
+[^hyg24-murder]: "So in the same way the daughters of Pelias — namely, Alcestis, Pelopia, Medusa, Pisidice, and Hippothoe — at Medea's instigation slew their father and cooked him in a brazen caldron" (Fabulae §24, trans. Mary Grant)
+[^hyg24-acastus]: "But Jason, at a given signal of Medea, made himself the master of the palace, and handed over the rule to Acastus, son of Pelias, brother of the Peliades, because he had gone with him to Colchis. He himself with Medea departed for Corinth" (Fabulae §24, trans. Mary Grant)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 13: Son of Aeson; raised by [Chiron](../creatures/chiron.md) on Pelion
 - **[Odyssey](../sources/odyssey.md)** XII: The Argo "that is in all men's minds" — [Hera](../deities/hera.md) sent her past the Wandering Rocks "for love of Jason"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.2: Listed among the hunters of the Calydonian Boar — "Jason, son of Aeson, from Iolcus"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16-1.9.28: Full narrative — son of Aeson and Polymede; the oracle and single sandal; commissioned the Argo; led the Argonauts to Colchis; yoked the brazen bulls with Medea's help; won the Golden Fleece; returned via Circe, the Sirens, the Wandering Rocks, Crete; punished Pelias through Medea; expelled to Corinth; divorced Medea for Glauce; Medea's vengeance
+- **[Fabulae](../sources/hyginus.md)** §12: Oracle warns Pelias of "a man wearing only one sandal"; Jason loses sandal crossing river Evenus; Pelias commands him to fetch the Golden Fleece
+- **[Fabulae](../sources/hyginus.md)** §13: Carries [Juno](../deities/hera.md) (disguised as old woman) across the river; she causes him to lose one sandal
+- **[Fabulae](../sources/hyginus.md)** §14-14.5: Leader of the Argonauts; son of Aeson and Alcimede; extensive catalog of Argonauts; ship positions
+- **[Fabulae](../sources/hyginus.md)** §22: Oracle to Aeetes about the fleece; tasks with bronze-footed bulls and dragon's teeth; [Juno](../deities/hera.md) arranges for [Venus](../deities/aphrodite.md) to inspire Medea with love; wins fleece with Medea's aid
+- **[Fabulae](../sources/hyginus.md)** §24: Medea disguised as priestess of [Diana](../deities/artemis.md); tricks Pelias's daughters (Alcestis, Pelopia, Medusa, Pisidice, Hippothoe) into killing their father; hands kingdom to Acastus; departs for Corinth

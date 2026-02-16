@@ -38,6 +38,20 @@ After Achilles' death, "his arms were offered as a prize to the bravest, and Aja
 
 "Afterwards he came to his senses and slew also himself. And Agamemnon forbade his body to be burnt; and he alone of all who fell at Ilium is buried, in a coffin. His grave is at Rhoeteum."[^apd-death]
 
+## In the Fabulae
+
+### The Contest of Arms (§107)
+
+The [Fabulae](../sources/hyginus.md) gives a terse account of the contest that ended Ajax's life. After [Achilles](achilles.md) was killed, "Telamonian Ajax demanded from the Danaans the arms of [Achilles](achilles.md), on the grounds that he was cousin on his father's side."[^hyg-demand] The claim was based on kinship: Telamon and Peleus were brothers, making Ajax and Achilles cousins.
+
+But the judgment went against him: "Through the anger of Minerva they were denied him by Agamemnon and Menelaus, and given to Ulysses."[^hyg-denial] The Fabulae attributes [Athena](../deities/athena.md)'s hostility as the decisive factor in the outcome.
+
+The result was tragic: "Ajax, harbouring rage, in madness slaughtered his flocks, and killed himself with that sword he had received from Hector as a gift when the two met in battle line."[^hyg-suicide] The reference to Hector's sword recalls their famous duel, where the two heroes exchanged gifts after fighting to a draw.
+
+[^hyg-demand]: "After Hector's burial, when Achilles was wandering along the ramparts of the Trojans and saying that he alone had reduced Troy, Apollo in anger, taking the form of Alexander Paris, struck him with an arrows on the heel which was said to be vulnerable, and killed him. When Achilles was killed and given burial, Telamonian Ajax demanded from the Danaans the arms of Achilles, on the grounds that he was cousin on his father's side" (Fabulae §107, trans. Mary Grant)
+[^hyg-denial]: "Through the anger of Minerva they were denied him by Agamemnon and Menelaus, and given to Ulysses" (Fabulae §107, trans. Mary Grant)
+[^hyg-suicide]: "Ajax, harbouring rage, in madness slaughtered his flocks, and killed himself with that sword he had received from Hector as a gift when the two met in battle line" (Fabulae §107, trans. Mary Grant)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** VII: Single combat with Hector; nearly defeats him; parted by heralds
@@ -52,6 +66,7 @@ After Achilles' death, "his arms were offered as a prize to the bravest, and Aja
 - **[Bibliotheca](../sources/apollodorus.md)** E.4.7: Rescues Patroclus's body "by performing feats of valor"
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.4: Carries Achilles' body through a shower of darts; kills Glaucus
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.6-7: Arms contest lost to Odysseus; driven mad by Athena; slaughters cattle; suicide; buried in a coffin at Rhoeteum
+- **[Fabulae](../sources/hyginus.md)** §107: Demanded Achilles' arms as cousin; denied by Agamemnon and Menelaus through Athena's anger; given to Odysseus; killed himself with sword from Hector
 
 [^apd-birth]: "when Hercules had prayed that he might have a male child, an eagle appeared after the prayer" (Bibliotheca 3.12.7, trans. J.G. Frazer)
 [^apd-ships]: "Of the Salaminians, Telamonian Ajax: he brought twelve ships" (Bibliotheca E.3.11, trans. J.G. Frazer)

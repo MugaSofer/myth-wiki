@@ -101,6 +101,38 @@ Demeter then "showed the conduct of her rites and taught them all her mysteries,
 [^hd-return]: "rich-crowned Demeter did not refuse but straightway made fruit to spring up from the rich lands, so that the whole wide earth was laden with leaves and flowers" (Homeric Hymn to Demeter 470-473)
 [^hd-mysteries]: "she showed the conduct of her rites and taught them all her mysteries, to Triptolemus and Polyxeinus and Diocles also,—awful mysteries which no one may in any way transgress or pry into or utter, for deep awe of the gods checks the voice. Happy is he among men upon earth who has seen these mysteries" (Homeric Hymn to Demeter 473-480)
 
+## In the Fabulae
+
+### Proserpina Seized (§146)
+
+The [Fabulae](../sources/hyginus.md) gives a concise account of [Persephone](persephone.md)'s (Proserpina) abduction. "[Hades](hades.md) (Pluto) asked from [Zeus](zeus.md) (Jove) that he give him in marriage Ceres' [[Demeter](demeter.md)'s] daughter and his own."[^hyg-146-request] Zeus facilitated the abduction rather than give open consent: "Jove said that Ceres would not permit her daughter to live in gloomy Tartarus, but bade him seize her as she was gathering flowers on Mount Etna, which is in Sicily."[^hyg-146-command]
+
+The abduction took place as planned: "While Proserpina was gathering flowers with Venus [[Aphrodite](aphrodite.md)], Diana [[Artemis](artemis.md)], and Minerva [[Athena](athena.md)], Pluto came in his four-horse chariot, and seized her."[^hyg-146-seized]
+
+Zeus later arranged the compromise: "Afterwards Ceres obtained from Jove permission for her to stay half of the year with her, and half with Pluto."[^hyg-146-compromise]
+
+[^hyg-146-request]: "Pluto asked from Jove that he give him in marriage Ceres' daughter and his own." (Fabulae §146, trans. Mary Grant)
+[^hyg-146-command]: "Jove said that Ceres would not permit her daughter to live in gloomy Tartarus, but bade him seize her as she was gathering flowers on Mount Etna, which is in Sicily." (Fabulae §146, trans. Mary Grant)
+[^hyg-146-seized]: "While Proserpina was gathering flowers with Venus, Diana, and Minerva, Pluto came in his four-horse chariot, and seized her." (Fabulae §146, trans. Mary Grant)
+[^hyg-146-compromise]: "Afterwards Ceres obtained from Jove permission for her to stay half of the year with her, and half with Pluto." (Fabulae §146, trans. Mary Grant)
+
+### Triptolemus (§147)
+
+The Fabulae tells the story of Demeter's gift of agriculture. During her search for her daughter, Demeter "came to King Eleusinus, whose wife Cothonea had borne the boy Triptolemus, and pretended she was a wet nurse."[^hyg-147-nurse]
+
+Demeter attempted to make the child immortal: "Since Ceres wanted to make her charge immortal, she fed him by day with divine milk, but by night secretly hid him in the fire."[^hyg-147-immortal] The result was miraculous: "In this way he grew more than mortals are wont to grow."[^hyg-147-growth]
+
+When discovered, the goddess responded with power: "When the parents wondered at it, they watched her. When Ceres was about to put him in the fire, the father was terrified. In her anger, she struck down Eleusinus."[^hyg-147-anger]
+
+The gift to Triptolemus was transformative: "but on Triptolemus, her foster-son, she conferred everlasting honour, for she gave him her chariot yoked with Serpents to spread the cultivation of grain. Riding in it he sowed grain throughout the earth."[^hyg-147-gift] Triptolemus established cult: "He also established sacred rites in honour of Ceres, which are called in Greek Thesmophoria."[^hyg-147-rites]
+
+[^hyg-147-nurse]: "When Ceres was hunting for her daughter, she came to King Eleusinus, whose wife Cothonea had borne the boy Triptolemus, and pretended she was a wet nurse." (Fabulae §147, trans. Mary Grant)
+[^hyg-147-immortal]: "Since Ceres wanted to make her charge immortal, she fed him by day with divine milk, but by night secretly hid him in the fire." (Fabulae §147, trans. Mary Grant)
+[^hyg-147-growth]: "In this way he grew more than mortals are wont to grow, and so, when the parents wondered at it, they watched her." (Fabulae §147, trans. Mary Grant)
+[^hyg-147-anger]: "When Ceres was about to put him in the fire, the father was terrified. In her anger, she struck down Eleusinus" (Fabulae §147, trans. Mary Grant)
+[^hyg-147-gift]: "but on Triptolemus, her foster-son, she conferred everlasting honour, for she gave him her chariot yoked with Serpents to spread the cultivation of grain. Riding in it he sowed grain throughout the earth." (Fabulae §147, trans. Mary Grant)
+[^hyg-147-rites]: "He also established sacred rites in honour of Ceres, which are called in Greek Thesmophoria." (Fabulae §147, trans. Mary Grant)
+
 ## In the Odyssey
 
 ### Demeter and Iasion (Book V)
@@ -182,3 +214,5 @@ During [Heracles](../heroes/heracles.md)' descent to [Hades](hades.md) for [Cerb
 - **[Bibliotheca](../sources/apollodorus.md)** 3.6.8: Consorted with [Poseidon](poseidon.md) — "Poseidon begot on Demeter" the horse Arion, "when in the likeness of a Fury she consorted with him"[^apd-dem-arion]
 - **[Bibliotheca](../sources/apollodorus.md)** 3.12.1: Iasion "loved Demeter, and in an attempt to defile the goddess he was killed by a thunderbolt"[^apd-dem-iasion]
 - **[Bibliotheca](../sources/apollodorus.md)** 3.14.7: "Demeter was welcomed by Celeus at Eleusis" — arrival in Attica during the reign of Pandion[^apd-dem-eleusis2]
+- **[Fabulae](../sources/hyginus.md)** §146: Pluto asked Zeus for Ceres' daughter in marriage; Zeus bade him seize her gathering flowers on Mount Etna; Proserpina gathering with Venus, Diana, Minerva; Pluto seized her in four-horse chariot; Ceres obtained permission for half-year arrangement
+- **[Fabulae](../sources/hyginus.md)** §147: Came to King Eleusinus; pretended to be wet nurse for Triptolemus; fed him divine milk by day, hid him in fire by night; he grew beyond mortals; parents watched; father terrified; struck down Eleusinus in anger; gave Triptolemus serpent-yoked chariot to spread grain cultivation; established Thesmophoria rites

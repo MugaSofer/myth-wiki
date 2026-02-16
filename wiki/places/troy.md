@@ -47,6 +47,51 @@ The Palladium was an image of [Athena](../deities/athena.md)'s childhood friend 
 
 Paris later judged the beauty contest between [Hera](../deities/hera.md), [Athena](../deities/athena.md), and [Aphrodite](../deities/aphrodite.md) (see [Judgment of Paris](../events/judgment-of-paris.md)), choosing Aphrodite's offer of [Helen](../heroes/helen.md), and so brought about the war.
 
+## In the Fabulae
+
+### The Walls of Troy (§89)
+
+The [Fabulae](../sources/hyginus.md) recounts how the gods built Troy's walls and Laomedon's subsequent betrayal. "[Poseidon](../deities/poseidon.md) and [Apollo](../deities/apollo.md) are said to have built a wall around Troy."[^hyg-wall] King Laomedon made a vow: "he would sacrifice to them from his flocks whatever should be born that year in his kingdom."[^hyg-vow] But "this vow he defaulted on through avarice. Other writers say that he promised too little."[^hyg-default]
+
+The divine punishment was swift: "Because of this [Poseidon](../deities/poseidon.md) sent a sea-monster to plague Troy, and for this reason the king sent to [Apollo](../deities/apollo.md) for advice."[^hyg-monster] Apollo's response was harsh: he "angrily replied that if Trojan maidens were bound and offered to the monster, there would be an end to the plague. When many girls had been devoured, and the lot fell on Hesione, and she was bound to the rocks, [Heracles](../heroes/heracles.md) and Telamon came there."[^hyg-hesione]
+
+Heracles "killed the monster" and "delivered Hesione to her father on condition that when they returned they should take her with them to their country, as well as the horses which walk over water standing ears of grain."[^hyg-rescue] But Laomedon betrayed them again: "Laomedon defaulted in this, too, and refused to give up Hesione."[^hyg-betrayal2]
+
+Heracles returned with force: "assembling ships to attack Troy, came and slew Laomedon, and gave the kingdom to his infant son Podarces, who was afterward called apo tou priasthai, 'from being redeemed,' Priam. He recovered Hesione and gave her in marriage to Telamon."[^hyg-sack]
+
+[^hyg-wall]: "Neptune and Apollo are said to have built a wall around Troy" (Fabulae §89, trans. Mary Grant)
+[^hyg-vow]: "King Laomedon vowed that he would sacrifice to them from his flocks whatever should be born that year in his kingdom" (Fabulae §89, trans. Mary Grant)
+[^hyg-default]: "This vow he defaulted on through avarice. Other writers say that he promised too little" (Fabulae §89, trans. Mary Grant)
+[^hyg-monster]: "Because of this Neptune sent a sea-monster to plague Troy, and for this reason the king sent to Apollo for advice" (Fabulae §89, trans. Mary Grant)
+[^hyg-hesione]: "Apollo angrily replied that if Trojan maidens were bound and offered to the monster, there would be an end to the plague. When many girls had been devoured, and the lot fell on Hesione, and she was bound to the rocks, Hercules and Telamon came there" (Fabulae §89, trans. Mary Grant)
+[^hyg-rescue]: "killed the monster. They delivered Hesione to her father on condition that when they returned they should take her with them to their country, as well as the horses which walk over water standing ears of grain" (Fabulae §89, trans. Mary Grant)
+[^hyg-betrayal2]: "Laomedon defaulted in this, too, and refused to give up Hesione" (Fabulae §89, trans. Mary Grant)
+[^hyg-sack]: "Hercules, assembling ships to attack Troy, came and slew Laomedon, and gave the kingdom to his infant son Podarces, who was afterward called apo tou priasthai, 'from being redeemed,' Priam. He recovered Hesione and gave her in marriage to Telamon" (Fabulae §89, trans. Mary Grant)
+
+### Paris's Firebrand Dream (§91)
+
+The Fabulae recounts the ominous portent surrounding Paris's birth. After [Priam](../heroes/priam.md) "had had many children by Hecuba, daughter of Cisseus or of Dymas, his wife, again pregnant, in a dream saw herself giving birth to a glowing firebrand from which many serpents issued."[^hyg-firebrand] The seers interpreted this clearly: "When this vision was reported to all the seers, they bade her slay whatever child she should bear to avoid its being the ruin of the country."[^hyg-prophecy]
+
+After Hecuba gave birth to Paris (called Alexander in the text), "he was handed over to be killed, but the servants out of pity exposed him. Shepherds found the child, raised him as their own, and named him Paris."[^hyg-exposure] The boy grew to manhood among the shepherds until a remarkable recognition scene reunited him with his family. At funeral games held in Paris's own honor (the family believing him dead), he competed and won: "He, out of fondness for the bull, went down and won everything, even over his own brothers."[^hyg-games] When "Deiphobus drew his sword against him" in anger, Paris "leaped to the altar of Zeus Herceus. When Cassandra prophetically declared he was her brother, [Priam](../heroes/priam.md) acknowledged him and received him into the palace."[^hyg-recognition]
+
+[^hyg-firebrand]: "after Priam, son of Laomedon, had had many children by Hecuba, daughter of Cisseus or of Dymas, his wife, again pregnant, in a dream saw herself giving birth to a glowing firebrand from which many serpents issued" (Fabulae §91, trans. Mary Grant)
+[^hyg-prophecy]: "When this vision was reported to all the seers, they bade her slay whatever child she should bear to avoid its being the ruin of the country" (Fabulae §91, trans. Mary Grant)
+[^hyg-exposure]: "After Hecuba gave birth to Alexander, he was handed over to be killed, but the servants out of pity exposed him. Shepherds found the child, raised him as their own, and named him Paris" (Fabulae §91, trans. Mary Grant)
+[^hyg-games]: "servants sent by Priam to bring a bull to be given as prize in funeral games in Paris' honor, came and started to lead off the bull of Paris. He followed them and asked them where they were leading him... He, out of fondness for the bull, went down and won everything, even over his own brothers" (Fabulae §91, trans. Mary Grant)
+[^hyg-recognition]: "In anger Deiphobus drew his sword against him, but he leaped to the altar of Zeus Herceus. When Cassandra prophetically declared he was her brother, Priam acknowledged him and received him into the palace" (Fabulae §91, trans. Mary Grant)
+
+### The Trojan Horse (§108)
+
+The Fabulae gives a terse account of Troy's final fall. "Since the Achaeans during ten years were not able to take Troy, Epeus at Minerva's suggestion made a Wooden Horse of remarkable size."[^hyg-horse] The greatest heroes hid within: "in it were gathered Menelaus, Ulysses, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. On the horse they wrote: 'The Danaans give it as a gift to Minerva', and moved camp to Tenedos."[^hyg-inscription]
+
+When the Trojans discovered it, "[Priam](../heroes/priam.md) ordered he horse to be brought to the citadel of Minerva, and gave a proclamation that they celebrate magnificently."[^hyg-celebration] Despite Cassandra's warnings — "the prophetess Cassandra kept insisting that there were enemies within" — "they did not believe her."[^hyg-cassandra] The Trojans' fatal choice: "They put it in the citadel, and at night when they slept, overcome by sport and wine, the Achaeans came out of the horse which had been opened by Sinon, killed the guards at the gates, and at a given signal admitted their friends. Thus they gained possession of Troy."[^hyg-fall]
+
+[^hyg-horse]: "Since the Achaeans during ten years were not able to take Troy, Epeus at Minerva's suggestion made a Wooden Horse of remarkable size" (Fabulae §108, trans. Mary Grant)
+[^hyg-inscription]: "in it were gathered Menelaus, Ulysses, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. On the horse they wrote: 'The Danaans give it as a gift to Minerva', and moved camp to Tenedos" (Fabulae §108, trans. Mary Grant)
+[^hyg-celebration]: "Priam ordered he horse to be brought to the citadel of Minerva, and gave a proclamation that they celebrate magnificently" (Fabulae §108, trans. Mary Grant)
+[^hyg-cassandra]: "When the prophetess Cassandra kept insisting that there were enemies within, they did not believe her" (Fabulae §108, trans. Mary Grant)
+[^hyg-fall]: "They put it in the citadel, and at night when they slept, overcome by sport and wine, the Achaeans came out of the horse which had been opened by Sinon, killed the guards at the gates, and at a given signal admitted their friends. Thus they gained possession of Troy" (Fabulae §108, trans. Mary Grant)
+
 ## The Fall of Troy
 
 After ten years of siege, [Odysseus](../heroes/odysseus.md) "invented the construction of the [Wooden Horse](../objects/wooden-horse.md) and suggested it to Epeus." The Greeks hid warriors inside and feigned departure. The Trojans "with great joy dragged the horse, and stationing it beside the palace of [Priam](../heroes/priam.md) deliberated what they should do." Cassandra and Laocoon warned them, but "most were in favour of sparing it as a votive offering sacred to a divinity."[^apd-horse]
@@ -93,3 +138,6 @@ The [Epic Cycle](../sources/epic-cycle.md) fragments describe the final fall of 
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.21-23: Fall of Troy — Priam slain at altar; city burned; spoils divided
 - **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): The wooden horse; final destruction
 - **[Works and Days](../sources/works-and-days.md)** 163: Heroes of the Fourth Age perished at Troy for Helen's sake
+- **[Fabulae](../sources/hyginus.md)** §89: Poseidon and Apollo built walls for Laomedon; he defaulted on vow; sea-monster sent; Hesione offered; Heracles killed monster; Laomedon refused payment; Heracles sacked Troy; Priam renamed
+- **[Fabulae](../sources/hyginus.md)** §91: Hecuba's firebrand dream; Paris exposed; raised by shepherds; won funeral games in his own honor; recognized by Cassandra; received into palace
+- **[Fabulae](../sources/hyginus.md)** §108: Wooden Horse built by Epeus; heroes hidden inside; "The Danaans give it as a gift to Minerva"; Cassandra warned but not believed; Greeks emerged at night; Troy taken

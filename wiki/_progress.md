@@ -2,7 +2,7 @@
 
 ## Current Source
 
-**Hesiod, Theogony** (trans. H.G. Evelyn-White, 1914) — COMPLETE
+**Hyginus, Fabulae** (trans. Mary Grant, 1960) — COMPLETE
 
 ## Progress
 
@@ -664,6 +664,53 @@ Created dedicated pages for major entities across all previously processed sourc
 
 ## Hesiodic Fragment Collections — COMPLETE
 
+### Hyginus, Fabulae — Full Pass
+
+**Source text:** Mary Grant translation (1960), University of Kansas Press. Public domain. Downloaded from topostext.org.
+**Source page created:** hyginus.md
+**Source file:** sources/hyginus-grant.txt (263 sections, §0.2–§277, 225K chars)
+
+**Scope:** All 277 fabulae (including preface genealogies, narrative fables, and thematic catalogue lists). Latin names throughout (Jove=Zeus, Juno=Hera, Minerva=Athena, Venus=Aphrodite, Mars=Ares, Mercury=Hermes, Diana=Artemis, Vulcan=Hephaestus, Neptune=Poseidon, Ceres=Demeter, Liber=Dionysus, etc.)
+
+**54 wiki pages updated with "In the Fabulae" sections:**
+
+**Deities (15 pages):** zeus.md (§139 Curetes, §150 Titans, §176 Lycaon), apollo.md (§49 Aesculapius, §140 Python, §165 Marsyas), athena.md (§164 Athens contest, §166 Erichthonius), poseidon.md (§89 Laomedon, §164 Athens), hera.md (§62 Ixion, §75 Tiresias), aphrodite.md (§58 Smyrna/Adonis, §92 Judgment, §148 Mars/Venus), hephaestus.md (§148 Mars/Venus, §166 Erichthonius), demeter.md (§146 Proserpina, §147 Triptolemus), dionysus.md (§131 Nysus, §132 Lycurgus, §134 pirates, §167/§179 birth), hermes.md (§143 Phoroneus, §201 Autolycus), artemis.md (§98 Iphigenia, §180 Actaeon), prometheus.md (§142 Pandora, §144 fire), thetis.md (§54 prophecy), persephone.md (§146), leto.md (§140 Python/birth)
+
+**Heroes (30 pages):** heracles.md (§29-36 labors, death, Nessus), perseus.md (§63-64), theseus.md (§37-43), odysseus.md (§95 madness, §105 Palamedes, §125 Odyssey, §127 Telegonus), achilles.md (§96 Scyros, §106-107), jason.md (§12-14, §22, §24), medea.md (§22-27), oedipus.md (§66-67), helen.md (§77-79, §81, §92), agamemnon.md (§98, §117), orestes.md (§119-122), ariadne.md (§42-43), minos.md (§40-41, §136), cadmus.md (§6, §178), io.md (§145), tiresias.md (§75), peleus.md (§54), bellerophon.md (§57), danae.md (§63), deianira.md (§33-36), daedalus.md (§39-40, §44), priam.md (§89-91), atalanta.md (§99, §173-174), ajax.md (§107), menelaus.md (§78, §92, §118), patroclus.md (§106), aeneas.md (§94), diomedes.md (§175), penelope.md (§125-126)
+
+**Creatures (5 pages):** typhoeus.md (§152), sphinx.md (§67), sirens.md (§141), chiron.md (§138), echidna.md (§151)
+
+**Events (5 pages):** judgment-of-paris.md (§92), calydonian-boar.md (§171-174), seven-against-thebes.md (§68-74), deucalions-flood.md (§152A, §153), titanomachy.md (§150)
+
+**Places (1 page):** troy.md (§89, §91, §108)
+
+**Key variant traditions added by Hyginus:**
+- Odysseus warned by oracle of 20-year return (§95)
+- Palamedes murder — full frame-up with planted gold and forged letter (§105)
+- Achilles disguised as "Pyrrha" on Scyros, unmasked by trumpet (§96)
+- Thetis prophecy: Prometheus bargained his freedom for the secret (§54)
+- Curetes hid infant Zeus in a tree cradle (§139)
+- Python pursued pregnant Leto; Aquilo and Neptune protected her (§140)
+- Erichthonius — Vulcan's pursuit of Minerva; snake-child in chest; Cecrops's daughters (§166)
+- Athens contest: Neptune wanted to flood the land; Mercury forbade it (§164)
+- Tiresias changed sex by trampling snakes; Juno blinded him for siding with Zeus (§75)
+- Medea's full exile arc: Corinth → Athens → Absoros → Colchis; son Medus kills Perses (§25-27)
+- Orestes cycle: revenge, Taurica, Chryses the Younger, Aletes, Erigone (§119-122)
+- Seven Against Thebes: three variant versions of the same events (§68)
+- Calydonian Boar: Fates appear at Meleager's birth; brand prophecy (§171-174)
+- Sirens: wandered after Proserpina's rape; made winged by Ceres; died when Odysseus passed (§141)
+
+## Hyginus, Fabulae — COMPLETE
+
 ## Next
 
-Consider: Athenian king cycle (Cecrops, Erichthonius, Erechtheus, Pandion). Crete and Athens place pages. Or begin processing a new primary source.
+### New Sources (in priority order)
+
+1. **Ovid, Metamorphoses** — 15 books, creation to Caesar. Enormous coverage with many unique myths (Narcissus, Pygmalion, Philemon & Baucis, etc.) and variant traditions for existing entries. Roman perspective throughout. Candidate translation: Brookes More (1922).
+2. **Virgil, Aeneid** — Essential for Aeneas, the underworld (Book VI), and Roman foundation myth. More focused than Ovid.
+3. **Pindar, Odes** — Rich mythological digressions scattered across Olympian, Pythian, Nemean, and Isthmian odes. Harder to process systematically but high-quality material.
+
+### Minor Expansions
+
+- Athenian king cycle (Cecrops, Erichthonius, Erechtheus, Pandion) — material already in Apollodorus, just needs dedicated pages
+- Crete and Athens as place pages

@@ -70,6 +70,31 @@ This adds detail not found in the [Theogony](../sources/theogony.md) — the cas
 
 [^hh3-cast]: "my son Hephaestus whom I bare was weakly among all the blessed gods and shrivelled of foot, a shame and disgrace to me in heaven, whom I myself took in my hands and cast out so that he fell in the great sea. But silver-shod Thetis the daughter of Nereus took and cared for him with her sisters" (Homeric Hymn III to Apollo 316-321, trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### Mars and Venus Trapped (§148)
+
+The [Fabulae](../sources/hyginus.md) tells the story of [Aphrodite](aphrodite.md)'s (Venus) adultery with [Ares](ares.md) (Mars). "When Vulcan knew that Venus was secretly lying with Mars, and that he could not oppose his strength, he made a chain of adamant and put it around the bed to catch Mars by cleverness."[^hyg-148-trap]
+
+The trap was sprung: "When Mars came to the rendezvous, the together with Venus fell into the snare so that he could not extricate himself."[^hyg-148-caught] [Helius](helius.md) (Sol) played the informer: "When Sol reported this to Vulcan, he saw them lying there naked, and summoned all the gods."[^hyg-148-gods]
+
+The public humiliation worked: "As a result, shame frightened Mars so that he did not do this."[^hyg-148-shame] From the union came a daughter: "From their embrace Harmonia was born, and to her Minerva [[Athena](athena.md)] and Vulcan gave a robe 'dipped in crimes' as a gift. Because of this, their descendants are clearly marked as ill-fated."[^hyg-148-harmonia]
+
+Aphrodite took revenge on the informer: "To Sol's progeny, however, Venus, because of his disclosure, was always hostile."[^hyg-148-hostile]
+
+[^hyg-148-trap]: "When Vulcanus knew that Venus was secretly lying with Mars, and that he could not oppose his strength, he made a chain of adamant and put it around the bed to catch Mars by cleverness." (Fabulae §148, trans. Mary Grant)
+[^hyg-148-caught]: "When Mars came to the rendezvous, the together with Venus fell into the snare so that he could not extricate himself." (Fabulae §148, trans. Mary Grant)
+[^hyg-148-gods]: "When Sol reported this to Vulcan, he saw them lying there naked, and summoned all the gods" (Fabulae §148, trans. Mary Grant)
+[^hyg-148-shame]: "As a result, shame frightened Mars so that he did not do this." (Fabulae §148, trans. Mary Grant)
+[^hyg-148-harmonia]: "From their embrace Harmonia was born, and to her Minerva and Vulcan gave a robe 'dipped in crimes' as a gift. Because of this, their descendants are clearly marked as ill-fated." (Fabulae §148, trans. Mary Grant)
+[^hyg-148-hostile]: "To Sol's progeny, however, Venus, because of his disclosure, was always hostile." (Fabulae §148, trans. Mary Grant)
+
+### Erichthonius (§166)
+
+See [Athena](athena.md) §166. After freeing [Hera](hera.md) from the hanging chair he had made, Hephaestus "obtained freedom of choice from Jove [[Zeus](zeus.md)], to gain whatever he sought from them." [Poseidon](poseidon.md), "hostile to Minerva, urged Vulcan to ask for Minerva in marriage." Athena defended her virginity with arms; in the struggle, Hephaestus's seed fell to earth, producing Erichthonius.[^hyg-166-ref]
+
+[^hyg-166-ref]: (Fabulae §166, trans. Mary Grant)
+
 ## In the Iliad
 
 ### Peacemaker on Olympus (Book I)
@@ -194,6 +219,8 @@ For the sixth labour (the Stymphalian birds), "[Athena](athena.md) gave him braz
 - **[Bibliotheca](../sources/apollodorus.md)** 3.14.6: Father of Erichthonius — pursued [Athena](athena.md) who "came to Hephaestus, desirous of fashioning arms," but "being forsaken by [Aphrodite](aphrodite.md), fell in love with Athena"; his seed fell on the ground and produced Erichthonius[^apd-heph-erichthonius]
 - **[Bibliotheca](../sources/apollodorus.md)** 3.16.1: Father of Periphetes the Clubman, first of the brigands slain by [Theseus](../heroes/theseus.md) — "Periphetes, son of Hephaestus and Anticlia"[^apd-heph-periphetes]
 - **[Bibliotheca](../sources/apollodorus.md)** E.2.9: Purified Pelops — "when Pelops had reached the Ocean and been cleansed by Hephaestus"[^apd-heph-pelops]
+- **[Fabulae](../sources/hyginus.md)** §148: Knew Venus secretly lying with Mars; made adamant chain around bed to catch Mars; they fell into snare; Sol reported it; Vulcan saw them naked and summoned all gods; shame frightened Mars; Harmonia born from their embrace; gave Harmonia robe "dipped in crimes" with Minerva
+- **[Fabulae](../sources/hyginus.md)** §166: Freed Hera from hanging chair; obtained freedom of choice from Zeus; Neptune urged him to ask for Minerva in marriage; granted; Minerva defended virginity with arms; his seed fell to earth producing Erichthonius
 - **[Bibliotheca](../sources/apollodorus.md)** E.4.7: Brought armour to [Achilles](../heroes/achilles.md) and dried up the river Scamander — "a suit of armour having been brought him from Hephaestus" and "Hephaestus dried up the streams of the river, after chasing them with a mighty flame"[^apd-heph-trojan]
 
 [^apd-prometheus]: "Zeus ordered Hephaestus to nail his body to Mount Caucasus" (Bibliotheca 1.7.1, trans. Frazer)

@@ -86,6 +86,36 @@ Apollo gave Hermes a golden staff "of riches and wealth" but denied him prophecy
 [^hh4-exchange]: "Phoebus Apollo took it, and readily put his shining whip in Hermes' hand, and ordained him keeper of herds. The son of Maia received it joyfully" (Homeric Hymn IV to Hermes 497-499)
 [^hh4-domains]: "from heaven father Zeus himself gave confirmation to his words, and commanded that glorious Hermes should be lord over all birds of omen and grim-eyed lions, and boars with gleaming tusks, and over dogs and all flocks that the wide earth nourishes, and over all sheep; also that he only should be the appointed messenger to Hades" (Homeric Hymn IV to Hermes 568a-573)
 
+## In the Fabulae
+
+### The Interpreter (§143)
+
+The [Fabulae](../sources/hyginus.md) tells of Hermes's (Mercury's) role in creating language diversity. "Inachus, son of Oceanus, begat Phoroneus by his sister Argia, and he is said to have been the first of mortals to rule."[^hyg-143-phoroneus] Before this time, unity prevailed: "Men for many centuries before lived without town or laws, speaking one tongue under the rule of Jove [[Zeus](zeus.md)]."[^hyg-143-unity]
+
+Hermes created division: "But after Mercury had explained the languages of men (when he is called ermeneutes, 'interpreter,' for Mercury in Greek is called Hermes; he too, divided the nations), then discord arose among mortals, which was not pleasing to Jove."[^hyg-143-division]
+
+The consequence was the first human kingdom: "And so he gave over the first rule to Phoroneus, because hew as first to make offerings to Juno [[Hera](hera.md)]."[^hyg-143-first]
+
+[^hyg-143-phoroneus]: "Inachus, son of Oceanus, begat Phoroneus by his sister Argia, and he is said to have been the first of mortals to rule." (Fabulae §143, trans. Mary Grant)
+[^hyg-143-unity]: "Men for many centuries before lived without town or laws, speaking one tongue under the rule of Jove." (Fabulae §143, trans. Mary Grant)
+[^hyg-143-division]: "But after Mercury had explained the languages of men (when he is called ermeneutes, 'interpreter,' for Mercury in Greek is called Hermes; he too, divided the nations), then discord arose among mortals, which was not pleasing to Jove." (Fabulae §143, trans. Mary Grant)
+[^hyg-143-first]: "And so he gave over the first rule to Phoroneus, because hew as first to make offerings to Juno." (Fabulae §143, trans. Mary Grant)
+
+### Autolycus (§201)
+
+Hermes gave his son Autolycus remarkable powers. "Mercury gave to Autolycus, whom he begat by Chione, the gift of being such a skilful thief that he could not be caught, making him able to change whatever he stole into some other form — from white to black, or from black to white, from a hornless animal to a horned one, or from horned one to a hornless."[^hyg-201-gift]
+
+Sisyphus detected the theft through cleverness: "When he kept continually stealing from the herds of Sisyphus and couldn't be caught, Sisyphus was convinced he was stealing because Autolycus' number was increasing while his was growing smaller. In order to catch him, he put a mark on the hooves of his cattle."[^hyg-201-mark]
+
+The confrontation led to seduction: "When Autolycus had stolen in his usual way, Sisyphus came to him and identified the cattle he had stolen by their hooves, and took them away. While he was delaying there, he seduced Anticleia, the daughter of Autolycus."[^hyg-201-anticleia]
+
+This union had consequences for [Odysseus](../heroes/odysseus.md): "She was later given in marriage to Laertes, and bore Ulysses. Some writers accordingly call him Sisyphean; because of this parentage he was shrewd."[^hyg-201-odysseus]
+
+[^hyg-201-gift]: "Mercury gave to Autolycus, whom he begat by Chione, the gift of being such a skilful thief that he could not be caught, making him able to change whatever he stole into some other form — from white to black, or from black to white, from a hornless animal to a horned one, or from horned one to a hornless." (Fabulae §201, trans. Mary Grant)
+[^hyg-201-mark]: "When he kept continually stealing from the herds of Sisyphus and couldn't be caught, Sisyphus was convinced he was stealing because Autolycus' number was increasing while his was growing smaller. In order to catch him, he put a mark on the hooves of his cattle." (Fabulae §201, trans. Mary Grant)
+[^hyg-201-anticleia]: "When Autolycus had stolen in his usual way, Sisyphus came to him and identified the cattle he had stolen by their hooves, and took them away. While he was delaying there, he seduced Anticleia, the daughter of Autolycus." (Fabulae §201, trans. Mary Grant)
+[^hyg-201-odysseus]: "She was later given in marriage to Laertes, and bore Ulysses. Some writers accordingly call him Sisyphean; because of this parentage he was shrewd." (Fabulae §201, trans. Mary Grant)
+
 ## In the Hymn to Demeter
 
 [Zeus](zeus.md) sent Hermes to retrieve [Persephone](persephone.md) from the underworld: "all-seeing Zeus the loud-thunderer... sent the Slayer of Argus whose wand is of gold to [Erebus](erebus.md), so that having won over [Hades](hades.md) with soft words, he might lead forth chaste Persephone to the light from the misty gloom."[^hd-mission]
@@ -270,3 +300,5 @@ He drove the cattle through vast distances — through the lands of the Pelasgi,
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.5: Variant — stole Helen by Zeus's will and carried her to Egypt
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.30: Brought Protesilaus up from Hades for his grieving wife Laodamia
 - **[Bibliotheca](../sources/apollodorus.md)** E.7.38: Variant — Pan born to Hermes by Penelope
+- **[Fabulae](../sources/hyginus.md)** §143: Men lived under Jove speaking one tongue; Mercury explained languages and divided nations; called "ermeneutes" (interpreter); discord arose; Jove gave first rule to Phoroneus
+- **[Fabulae](../sources/hyginus.md)** §201: Gave Autolycus gift of theft and shapeshifting stolen goods; Sisyphus marked cattle hooves to catch him; Sisyphus seduced Anticleia while there; she married Laertes and bore Ulysses; some call Ulysses "Sisyphean" for this reason

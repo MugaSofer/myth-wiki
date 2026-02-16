@@ -160,6 +160,16 @@ In the Returns, Diomedes is among the heroes who reach home safely. After [Athen
 
 [^ret-diomedes]: "Diomedes and Nestor put out to sea and get safely home" (Returns, summary by Proclus, trans. H.G. Evelyn-White)
 
+## In the Fabulae
+
+### Restoration of Oeneus (§175)
+
+After Troy's fall, Diomedes returned to find his grandfather in distress. "When Agrius, son of Parthaon, saw his brother [Oeneus](../figures/oeneus.md) bereft of children and in need, he drove him out of his kingdom, and took it over himself."[^hyg-175-usurp]
+
+"In the meantime, after the fall of Troy, Diomede, son of Tydeus and Deipyle, hearing that his grandfather had been driven from his kingdom came to Aitolia with [Sthenelus](sthenelus.md), son of [Capaneus](capaneus.md), and fought with Agrius' son, Lycopeus. He killed him, and expelled the needy Agrius from the kingdom, and restored it to his grandfather Oineus."[^hyg-175-restore]
+
+"Afterwards Agrius, expelled from the kingdom, killed himself."[^hyg-175-death] This variant adds a post-Trojan action not mentioned in the Homeric poems, showing Diomedes fulfilling his family obligations upon return.
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Named in the Catalogue of Ships as leader of the Argives from Argos, Tiryns, and nearby cities
@@ -176,3 +186,8 @@ In the Returns, Diomedes is among the heroes who reach home safely. After [Athen
 - **[Odyssey](../sources/odyssey.md)** IV: Recalled in the Wooden Horse episode alongside Odysseus
 - **[Epic Cycle](../sources/epic-cycle.md)** (Returns): Gets safely home with Nestor
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.5: Parentage -- Tydeus and Deipyle, daughter of Adrastus
+- **[Fabulae](../sources/hyginus.md)** §175: After Troy, returns to find Oeneus driven out by Agrius; comes to Aitolia with Sthenelus; kills Lycopeus; restores Oeneus's kingdom
+
+[^hyg-175-usurp]: "When Agrius, son of Parthaon, saw his brother Oineus bereft of children and in need, he drove him out of his kingdom, and took it over himself" (Fabulae §175, trans. Mary Grant)
+[^hyg-175-restore]: "In the meantime, after the fall of Troy, Diomede, son of Tydeus and Deipyle, hearing that his grandfather had been driven from his kingdom came to Aitolia with Sthenelus, son of Capaneus, and fought with Agrius' son, Lycopeus. He killed him, and expelled the needy Agrius from the kingdom, and restored it to his grandfather Oineus" (Fabulae §175, trans. Mary Grant)
+[^hyg-175-death]: "Afterwards Agrius, expelled from the kingdom, killed himself" (Fabulae §175, trans. Mary Grant)
