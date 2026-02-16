@@ -6,7 +6,14 @@ King of **[Crete](../places/crete.md)**, son of **[Zeus](../deities/zeus.md)** a
 
 ### Birth and the Kingdom
 
-Europa bore three sons to Zeus in Crete: Minos, Sarpedon, and Rhadamanthys.[^apd-europa-sons] Asterius, prince of the Cretans, married Europa and raised her children. When the brothers grew up they quarrelled over a boy called Miletus, son of **[Apollo](../deities/apollo.md)**, and Minos prevailed in the resulting war.[^apd-minos-quarrel]
+Europa bore three sons to Zeus in Crete: Minos, Sarpedon, and Rhadamanthys.[^apd-europa-sons] The Catalogue of Women gives a fuller account of Zeus's abduction: "she crossed the briny water from afar to Crete, beguiled by the wiles of Zeus. Secretly did the Father snatch her away and gave her a gift, the golden necklace, the toy which [Hephaestus](../deities/hephaestus.md) the famed craftsman once made." Of the three sons, the Catalogue adds that Minos was "the ruler" and "most kingly of mortal kings... holding the sceptre of Zeus wherewith he ruled many," while Sarpedon "reigned mightily over wide Lycia" and Zeus "ordained that he should live for three generations of mortal men."[^cat-europa]
+
+A shorter fragment gives additional detail: "Zeus saw Europa the daughter of Phoenix gathering flowers in a meadow with some nymphs and fell in love with her. So he came down and changed himself into a bull and breathed from his mouth a crocus." He "deceived Europa, carried her off and crossed the sea to Crete where he had intercourse with her."[^cat-crocus]
+
+[^cat-europa]: "she crossed the briny water from afar to Crete, beguiled by the wiles of Zeus. Secretly did the Father snatch her away and gave her a gift, the golden necklace, the toy which Hephaestus the famed craftsman once made... Minos the ruler, and just Rhadamanthys and noble Sarpedon the blameless and strong" (Catalogue of Women, Fragment 19A, trans. H.G. Evelyn-White)
+[^cat-crocus]: "Zeus saw Europa the daughter of Phoenix gathering flowers in a meadow with some nymphs and fell in love with her. So he came down and changed himself into a bull and breathed from his mouth a crocus" (Catalogue of Women, Fragment 19, trans. H.G. Evelyn-White)
+
+Asterius, prince of the Cretans, married Europa and raised her children. When the brothers grew up they quarrelled over a boy called Miletus, son of **[Apollo](../deities/apollo.md)**, and Minos prevailed in the resulting war.[^apd-minos-quarrel]
 
 When Asterius died childless, Minos claimed the throne but was opposed. He alleged divine right and prayed to **[Poseidon](../deities/poseidon.md)** to send a bull from the sea, promising to sacrifice it. Poseidon sent up a fine bull and Minos obtained the kingdom — but he kept the bull and sacrificed another in its place.[^apd-minos-bull]
 

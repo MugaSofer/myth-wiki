@@ -55,10 +55,17 @@ This is the earliest surviving prose account of the Endymion myth and is the fir
 
 [^apd-endymion]: "As he was of surpassing beauty, the Moon fell in love with him, and Zeus allowed him to choose what he would, and he chose to sleep for ever, remaining deathless and ageless" (Bibliotheca 1.7.5, trans. Frazer)
 
+## In the Great Eoiae
+
+The Great Eoiae preserves a striking variant of the Endymion myth quite different from the Bibliotheca's romantic story. In this version, "Endymion was transported by [Zeus](zeus.md) into heaven, but when he fell in love with [Hera](hera.md), was befooled with a shape of cloud, and was cast out and went down into Hades."[^ge-endymion] This parallels the Ixion myth (also punished for desiring Hera with a cloud-phantom) and makes Endymion's eternal sleep a punishment rather than a freely chosen gift.
+
+[^ge-endymion]: "Endymion was transported by Zeus into heaven, but when he fell in love with Hera, was befooled with a shape of cloud, and was cast out and went down into Hades" (Great Eoiae, Fragment 11, trans. H.G. Evelyn-White)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 19, 371-374: Named in invocation; birth
 - **[Homeric Hymn XXXI](../sources/homeric-hymns.md)**: Mother named Euryphaessa
 - **[Homeric Hymn XXXII](../sources/homeric-hymns.md)**: Daughter Pandia by Zeus
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.2: Born of [Hyperion](hyperion.md) and [Theia](theia.md) (as "Moon")
+- **Great Eoiae** Fragment 11: Variant — Endymion transported to heaven by Zeus; fell in love with [Hera](hera.md); befooled with a cloud; cast down to Hades
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.5: Fell in love with Endymion; Zeus allowed him to choose eternal sleep, deathless and ageless

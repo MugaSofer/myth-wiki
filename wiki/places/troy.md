@@ -78,6 +78,7 @@ The [Epic Cycle](../sources/epic-cycle.md) fragments describe the final fall of 
 
 ## Appearances
 
+- **Catalogue of Women** Fragment 102: Dardanus and Trojan genealogy — Electra bore Dardanus and Eetion to [Zeus](../deities/zeus.md); from Dardanus came Erichthonius, Tros, Ilus, Assaracus, and Ganymede
 - **[Iliad](../sources/iliad.md)** passim: The central location of the poem; "holy Ilios"
 - **[Iliad](../sources/iliad.md)** IV: Zeus declares Troy most honoured of his heart
 - **[Iliad](../sources/iliad.md)** V: Tlepolemus and Sarpedon recall Heracles's earlier sacking

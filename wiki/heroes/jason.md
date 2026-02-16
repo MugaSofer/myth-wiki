@@ -73,8 +73,15 @@ Acastus buried his father and expelled Jason and Medea from Iolcus. They went to
 
 [^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason." (Odyssey XII.6597-6600, trans. Butcher and Lang)
 
+## In the Catalogue of Women
+
+The Catalogue confirms Jason's parentage and adds his upbringing by [Chiron](../creatures/chiron.md): "Aeson, who begot a son Iason, shepherd of the people, whom Chiron brought up in woody Pelion."[^cat-jason]
+
+[^cat-jason]: "Aeson, who begot a son Iason, shepherd of the people, whom Chiron brought up in woody Pelion" (Catalogue of Women, Fragment 13, trans. H.G. Evelyn-White)
+
 ## Appearances
 
+- **Catalogue of Women** Fragment 13: Son of Aeson; raised by [Chiron](../creatures/chiron.md) on Pelion
 - **[Odyssey](../sources/odyssey.md)** XII: The Argo "that is in all men's minds" — [Hera](../deities/hera.md) sent her past the Wandering Rocks "for love of Jason"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.2: Listed among the hunters of the Calydonian Boar — "Jason, son of Aeson, from Iolcus"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16-1.9.28: Full narrative — son of Aeson and Polymede; the oracle and single sandal; commissioned the Argo; led the Argonauts to Colchis; yoked the brazen bulls with Medea's help; won the Golden Fleece; returned via Circe, the Sirens, the Wandering Rocks, Crete; punished Pelias through Medea; expelled to Corinth; divorced Medea for Glauce; Medea's vengeance

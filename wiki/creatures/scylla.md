@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Also known as** | Yelping terribly |
-| **Parents** | Crataiis |
+| **Parents** | Crataiis (Odyssey); or [Apollo](../deities/apollo.md) and [Hecate](../deities/hecate.md) (Great Eoiae) |
 | **Dwelling** | Cliff in the strait (opposite Charybdis) |
 | **First appearance** | [Odyssey](../sources/odyssey.md) XII |
 
@@ -51,8 +51,15 @@ On the second encounter, after the destruction of his ship by [Zeus](../deities/
 [^od-bat]: Odysseus clings to the fig-tree above Charybdis "like a bat," waiting for her to spew back the timbers of his ship (Odyssey XII.6951-6958, trans. Butcher and Lang)
 [^od-escape]: Charybdis disgorges the mast and keel; Odysseus drops down, straddles the timbers, and paddles away (Odyssey XII.6958-6965, trans. Butcher and Lang)
 
+## Variant Parentage (Great Eoiae)
+
+The Great Eoiae preserves a strikingly different parentage: "in the Great Eoiae Scylla is the daughter of Phoebus and Hecate."[^ge-parentage] This would make her the offspring of [Apollo](../deities/apollo.md) and [Hecate](../deities/hecate.md) — a child of the sun-god and the goddess of crossroads and sorcery — rather than the daughter of the obscure Crataiis named in the [Odyssey](../sources/odyssey.md).
+
+[^ge-parentage]: "in the Great Eoiae Scylla is the daughter of Phoebus and Hecate" (Great Eoiae, Fragment 13, trans. H.G. Evelyn-White)
+
 ## Appearances
 
+- **Great Eoiae** Fragment 13: Variant parentage — daughter of [Apollo](../deities/apollo.md) and [Hecate](../deities/hecate.md)
 - **[Odyssey](../sources/odyssey.md)** XII: [Circe](../deities/circe.md)'s warning describing Scylla's form (twelve feet, six heads, three rows of teeth), her immortality, and her mother Crataiis; the paired threat of Charybdis ("thrice a day she sucks it down"); Scylla snatches six men (the fishing simile; "the most pitiful thing... mine eyes have seen"); Odysseus's return to Charybdis, clinging to the fig-tree "like a bat"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: The Argo passed through the strait of Scylla and the Wandering Rocks — "[Thetis](../deities/thetis.md) with the Nereids steered the ship through them at the summons of [Hera](../deities/hera.md)"[^apd-argo]
 

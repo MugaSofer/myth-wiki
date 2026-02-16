@@ -622,6 +622,48 @@ Created dedicated pages for major entities across all previously processed sourc
 
 ## Bibliotheca Book 3 & Epitome — COMPLETE
 
+### Hesiodic Fragment Collections — Full Pass
+
+**Source text:** Catalogue of Women fragments (3407-4777), Great Eoiae (4778-4895), Melampodia (4900-4969), Aegimius (4973-5018), all in hesiod-evelyn-white.txt
+
+**Catalogue of Women fragments processed (~30 significant fragments):**
+
+- Fragment 1-5: Deucalion/Pyrrha lineage, Hellen's descendants (Dorus, Xuthus, Aeolus, sons of Aeolus) → deucalions-flood.md
+- Fragment 7: Bellerophon as son of Poseidon; Pegasus; Chimaera → bellerophon.md (already had)
+- Fragment 13: Jason son of Aeson, raised by Chiron → jason.md
+- Fragment 14: Atalanta's beauty, footrace with Hippomenes → atalanta.md
+- Fragment 19/19A: Europa abduction (bull/crocus, golden necklace); Minos "most kingly"; Sarpedon three generations → minos.md
+- Fragment 47: Sirens' island Anthemoessa, individual names → sirens.md
+- Fragment 53: Myrmidons — Zeus turned ants into men for Aeacus → peleus.md
+- Fragment 57: Thetis avoided Zeus (confirming Cypria) → thetis.md
+- Fragment 58: Peleus wedding praise → peleus.md
+- Fragment 59: Common banquets of gods and mortals → deucalions-flood.md
+- Fragment 61: Menoetius brother of Peleus (Patroclus/Achilles as cousins) → patroclus.md
+- Fragment 66-68: Helen — Ocean parentage variant, Aphrodite's curse on Tyndareus's daughters, suitors, Achilles too young → helen.md
+- Fragment 76: Theseus deserted Ariadne for Aegle → theseus.md, ariadne.md
+- Fragment 87: Dionysus wine saying ("a joy and a sorrow both") → dionysus.md
+- Fragment 89-91: Coronis and the crow; Zeus kills Asclepius; Apollo nearly sent to Tartarus → apollo.md
+- Fragment 97: Dodona oracle → zeus.md
+- Fragment 98: Calydonian boar (already present) → calydonian-boar.md
+- Fragment 102: Dardanus and the Trojan line → zeus.md, troy.md
+
+**Great Eoiae fragments processed:**
+- Fragment 3: Ajax eagle naming → ajax.md (already had)
+- Fragment 11: Endymion loved Hera, cast to Hades → selene.md
+- Fragment 13: Scylla daughter of Apollo and Hecate → scylla.md, hecate.md (already had)
+- Fragment 16: Hermes cattle theft variant, Battus turned to stone → hermes.md
+
+**Melampodia fragments processed:**
+- Fragment 1: Calchas vs Mopsus seer contest → tiresias.md
+- Fragment 2: Tiresias's lifespan speech → tiresias.md
+- Fragment 3: Tiresias sex-change story → tiresias.md
+
+**Aegimius fragments processed:**
+- Fragment 2: Thetis threw children in cauldron → thetis.md
+- Fragment 3, 5-6: Io daughter of Peiren; four-eyed Argus; Hermes slew Argus; love-oaths without penalty → io.md
+
+## Hesiodic Fragment Collections — COMPLETE
+
 ## Next
 
-Consider future sources: Catalogues of Women fragments, Great Eoiae fragments, Melampodia fragments. Or expand existing coverage with Athenian king cycle, Crete/Athens place pages.
+Consider: Athenian king cycle (Cecrops, Erichthonius, Erechtheus, Pandion). Crete and Athens place pages. Or begin processing a new primary source.

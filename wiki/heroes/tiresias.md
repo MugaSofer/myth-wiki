@@ -36,6 +36,20 @@ When the Epigoni conquered Thebes, Tiresias told the Thebans "to send a herald t
 
 His daughter Manto was sent to Delphi as part of the spoils dedicated to [Apollo](../deities/apollo.md).[^apd-manto]
 
+## In the Melampodia
+
+The Hesiodic Melampodia preserves a different version of Tiresias's sex-change pronouncement and adds details about his extraordinary lifespan:
+
+"Father Zeus, would that you had given me a shorter span of life to be mine and wisdom of heart like that of mortal men! But now you have honoured me not even a little, though you ordained me to have a long span of life, and to live through seven generations of mortal kind."[^mel-lifespan]
+
+The sex-change story appears with a fuller version of his judgment: "They say that Teiresias saw two snakes mating on Cithaeron and that, when he killed the female, he was changed into a woman, and again, when he killed the male, took again his own nature. This same Teiresias was chosen by Zeus and Hera to decide the question whether the male or the female has most pleasure in intercourse. And he said: 'Of ten parts a man enjoys only one; but a woman's sense enjoys all ten in full.' For this Hera was angry and blinded him, but Zeus gave him the seer's power."[^mel-snakes]
+
+The Melampodia also records the contest of seers between Calchas and Mopsus (son of Manto, Tiresias's granddaughter) at Clarus after the Trojan War. Calchas set the riddle of counting figs on a wild fig-tree; Mopsus answered correctly ("ten thousand is their number, and their measure is a bushel: one fig is left over"), and "then did the end of death shroud Calchas."[^mel-calchas]
+
+[^mel-lifespan]: "Father Zeus, would that you had given me a shorter span of life to be mine and wisdom of heart like that of mortal men! But now you have honoured me not even a little, though you ordained me to have a long span of life, and to live through seven generations of mortal kind" (Melampodia, Fragment 2, trans. H.G. Evelyn-White)
+[^mel-snakes]: "They say that Teiresias saw two snakes mating on Cithaeron and that, when he killed the female, he was changed into a woman, and again, when he killed the male, took again his own nature... And he said: 'Of ten parts a man enjoys only one; but a woman's sense enjoys all ten in full.' For this Hera was angry and blinded him, but Zeus gave him the seer's power" (Melampodia, Fragment 3, trans. H.G. Evelyn-White)
+[^mel-calchas]: "Calchas set Mopsus the following problem: 'I am filled with wonder at the quantity of figs this wild fig-tree bears though it is so small. Can you tell their number?' And Mopsus answered: 'Ten thousand is their number, and their measure is a bushel: one fig is left over, which you would not be able to put into the measure.' So said he; and they found the reckoning of the measure true. Then did the end of death shroud Calchas." (Melampodia, Fragment 1, trans. H.G. Evelyn-White)
+
 ## In the Odyssey
 
 In [Odyssey](../sources/odyssey.md) Book XI, [Odysseus](odysseus.md) sails to the land of the dead on [Circe](circe.md)'s instructions to consult Tiresias. In the underworld, Tiresias prophesies Odysseus's difficult return, [Poseidon](../deities/poseidon.md)'s wrath over Polyphemus, the cattle of [Helius](../deities/helius.md), the slaying of the suitors, and a final journey inland carrying an oar until someone mistakes it for a winnowing-fan.
@@ -44,6 +58,9 @@ The Bibliotheca summarises: Odysseus "offered sacrifices to the souls, and by [C
 
 ## Appearances
 
+- **Melampodia** Fragment 1: Contest between Calchas and Mopsus (Tiresias's grandson through Manto); Calchas dies of vexation
+- **Melampodia** Fragment 2: Tiresias speaks of living seven generations
+- **Melampodia** Fragment 3: Sex-change on Cithaeron; judgment between [Zeus](../deities/zeus.md) and [Hera](../deities/hera.md); "Of ten parts a man enjoys only one"
 - **[Odyssey](../sources/odyssey.md)** X-XI: Circe sends Odysseus to consult him; prophecy of the return
 - **[Bibliotheca](../sources/apollodorus.md)** 3.6.7: Three traditions for his blindness (divine secrets; Athena and Chariclo; Hera/Zeus snakes); great age
 - **[Bibliotheca](../sources/apollodorus.md)** 3.6.7: Advises Thebes in the Seven Against Thebes — sacrifice of Menoeceus

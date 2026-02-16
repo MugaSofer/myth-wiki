@@ -53,7 +53,19 @@ Through Epaphus, Io became ancestress of a great line. Epaphus married Memphis, 
 [^apd-io-isis]: "she set up an image of Demeter, whom the Egyptians called Isis, and Io likewise they called by the name of Isis" (Bibliotheca 2.1.3)
 [^apd-io-legacy]: "Reigning over the Egyptians Epaphus married Memphis, daughter of Nile, founded and named the city of Memphis after her, and begat a daughter Libya, after whom the region of Libya was called" (Bibliotheca 2.1.4)
 
+## In the Aegimius
+
+The Aegimius gives additional details about Io's story. It confirms the Hesiodic parentage: Io was "the daughter of Peiren."[^aeg-peiren] It provides a vivid description of her watcher: [Hera](../deities/hera.md) "set a watcher upon her, great and strong Argus, who with four eyes looks every way. And the goddess stirred in him unwearying strength: sleep never fell upon his eyes; but he kept sure watch always."[^aeg-argus] [Hermes](../deities/hermes.md) then slew Argus, earning his epithet "Slayer of Argus."[^aeg-slayer]
+
+The Aegimius also preserves the theological principle that Zeus established after his false oath about Io: "thereafter he ordained that an oath concerning the secret deeds of the Cyprian should be without penalty for men."[^aeg-oath]
+
+[^aeg-peiren]: "Hesiod and Acusilaus say that she was a daughter of Peiren" (Aegimius, Fragment 3, trans. H.G. Evelyn-White)
+[^aeg-argus]: "she set a watcher upon her, great and strong Argus, who with four eyes looks every way. And the goddess stirred in him unwearying strength: sleep never fell upon his eyes; but he kept sure watch always" (Aegimius, Fragment 5, trans. H.G. Evelyn-White)
+[^aeg-slayer]: "According to Hesiod's tale he (Hermes) slew (Argus) the herdsman of Io" (Aegimius, Fragment 6, trans. H.G. Evelyn-White)
+[^aeg-oath]: "thereafter he ordained that an oath concerning the secret deeds of the Cyprian should be without penalty for men" (Aegimius, Fragment 3, trans. H.G. Evelyn-White)
+
 ## Appearances
 
+- **Aegimius** Fragments 3-6: Io daughter of Peiren; Argus described as having "four eyes" and unwearying strength; [Hermes](../deities/hermes.md) slew Argus; Zeus ordained that love-oaths be without penalty
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Priestess of Hera; seduced by Zeus; transformed into white cow; guarded by Argus; Hermes killed Argus; gadfly sent by Hera; wandered through Europe and Asia; recovered form in Egypt; bore Epaphus; identified with Isis
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.4: Through Epaphus, ancestress of Libya, Agenor, Belus, Danaus, and Egyptus

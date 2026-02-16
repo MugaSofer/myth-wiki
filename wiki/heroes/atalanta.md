@@ -41,8 +41,18 @@ The [Bibliotheca](../sources/apollodorus.md) notes multiple variants: "Hesiod an
 
 Her son Parthenopaeus fought in the [Seven Against Thebes](../sources/apollodorus.md) and was slain — "by Melanion, or [Ares](../deities/ares.md), Atalanta had a son Parthenopaeus, who went to the war against Thebes."[^apd-parth]
 
+## In the Catalogue of Women
+
+The Hesiodic Catalogue preserves a poetic version of the footrace between Atalanta and Hippomenes (the name used here instead of Melanion). Atalanta is described as "fair Atalanta, swift of foot, the daughter of Schoeneus, who had the beaming eyes of the Graces, though she was ripe for wedlock rejected the company of her equals and sought to avoid marriage with men who eat bread."[^cat-beauty]
+
+The race itself is vividly told: "she, even fair, swift-footed Atalanta, ran scorning the gifts of golden [Aphrodite](../deities/aphrodite.md); but with him the race was for his life, either to find his doom, or to escape it." Hippomenes cast the golden apples one by one, and "swiftly as a Harpy, she turned back and snatched it." After he cast the third apple, "therewith escaped death and black fate."[^cat-race]
+
+[^cat-beauty]: "fair Atalanta, swift of foot, the daughter of Schoeneus, who had the beaming eyes of the Graces, though she was ripe for wedlock rejected the company of her equals and sought to avoid marriage with men who eat bread" (Catalogue of Women, Fragment 14, trans. H.G. Evelyn-White)
+[^cat-race]: "she, even fair, swift-footed Atalanta, ran scorning the gifts of golden Aphrodite; but with him the race was for his life, either to find his doom, or to escape it... But he, following lightly on his feet, cast the first apple: and, swiftly as a Harpy, she turned back and snatched it" (Catalogue of Women, Fragment 14, trans. H.G. Evelyn-White)
+
 ## Appearances
 
+- **Catalogue of Women** Fragment 14: Full footrace with Hippomenes; "the beaming eyes of the Graces"; golden apples of [Aphrodite](../deities/aphrodite.md); snatches them "swiftly as a Harpy"
 - **[Iliad](../sources/iliad.md)** IX: The Calydonian Boar story (told by Phoenix) — Atalanta not named but the hunt is described
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.2-3: First to wound the Calydonian Boar; awarded the hide by Meleager
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Listed among the Argonauts

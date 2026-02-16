@@ -134,6 +134,21 @@ After the [Titanomachy](../events/titanomachy.md), [Gaia](gaia.md) bore [Typhoeu
 
 [^theog-divide]: "when the blessed gods had finished their toil, and settled by force their struggle for honours with the Titans, they pressed far-seeing Olympian Zeus to reign and to rule over them, by Earth's prompting. So he divided their dignities amongst them" (Theogony 881-885)
 
+## In the Catalogue of Women
+
+### Dodona (Fragment 97)
+
+The Catalogue describes Zeus's oracle at Dodona in the land of Ellopia: "Zeus loved it and appointed it to be his oracle, reverenced by men." The doves who lived in the hollow of an oak delivered prophecy: "From them men of earth carry away all kinds of prophecy — whosoever fares to that spot and questions the deathless god, and comes bringing gifts with good omens."[^cat-dodona]
+
+[^cat-dodona]: "Zeus loved it and appointed it to be his oracle, reverenced by men... And they (the doves) lived in the hollow of an oak. From them men of earth carry away all kinds of prophecy,—whosoever fares to that spot and questions the deathless god, and comes bringing gifts with good omens" (Catalogue of Women, Fragment 97, trans. H.G. Evelyn-White)
+
+### Dardanus and the Trojan Line (Fragment 102)
+
+The Catalogue gives the founding of the Trojan dynasty. Electra bore to Zeus two sons: Dardanus and Eetion. "Eetion, who once greatly loved rich-haired [Demeter](demeter.md). And cloud-gathering Zeus was wroth and smote him, Eetion, and laid him low with a flaming thunderbolt, because he sought to lay hands upon rich-haired Demeter."[^cat-dardanus] Dardanus "came to the coast of the mainland" from Samothrace, and from him descended the Trojan kings: "Erichthonius and thereafter Tros were sprung, and Ilus, and Assaracus, and godlike Ganymede." The fragment adds that "an eagle caught up Ganymede for Zeus because he vied with the immortals in beauty."[^cat-ganymede]
+
+[^cat-dardanus]: "Electra... was subject to the dark-clouded Son of Cronos and bare Dardanus... and Eetion... who once greatly loved rich-haired Demeter. And cloud-gathering Zeus was wroth and smote him, Eetion, and laid him low with a flaming thunderbolt, because he sought to lay hands upon rich-haired Demeter" (Catalogue of Women, Fragment 102, trans. H.G. Evelyn-White)
+[^cat-ganymede]: "Dardanus came to the coast of the mainland—from him Erichthonius and thereafter Tros were sprung, and Ilus, and Assaracus, and godlike Ganymede... an eagle caught up Ganymede for Zeus because he vied with the immortals in beauty" (Catalogue of Women, Fragment 102, trans. H.G. Evelyn-White)
+
 ## In the Odyssey
 
 ### Mortal Responsibility (Book I)
@@ -382,6 +397,8 @@ After Hera sent storms against Heracles as he sailed from [Troy](../places/troy.
 - **[Odyssey](../sources/odyssey.md)** XX: Thunders from shining [Olympus](../places/olympus.md) as omen for Odysseus — "from on high from the place of clouds; and goodly Odysseus was glad"
 - **[Odyssey](../sources/odyssey.md)** XXI: Thunders again when Odysseus strings the bow — "Zeus thundered loud showing forth his tokens"
 - **[Odyssey](../sources/odyssey.md)** XXIV: Final divine council — [Athena](athena.md) asks his counsel; decrees peace, oblivion of bloodshed, and Odysseus as king forever ("let peace and wealth abundant be their portion"); casts flaming bolt at [Athena](athena.md)'s feet as signal for the final covenant
+- **Catalogue of Women** Fragment 97: Dodona — "Zeus loved it and appointed it to be his oracle"; doves in the hollow of an oak deliver prophecy
+- **Catalogue of Women** Fragment 102: Dardanus and the Trojan line — Electra bore Dardanus and Eetion to Zeus; Eetion smitten for touching [Demeter](demeter.md); Dardanus founds Troy's dynasty; eagle catches up Ganymede
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Plans the Trojan War with Themis to depopulate the earth;[^cyp-zeus-plan] pursues Nemesis to beget Helen (she flees in various forms);[^cyp-nemesis] swears Thetis shall marry a mortal;[^cyp-thetis-mortal] gives Castor and Polydeuces immortality every other day[^cyp-dioscuri]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Gave Laomedon a golden vine (wrought by Hephaestus) as price for Ganymedes[^liliad-vine]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Eos obtains immortality from Zeus for her son Memnon[^aeth-memnon-immortal]

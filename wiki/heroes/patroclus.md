@@ -25,7 +25,11 @@
 
 ## Parentage and Early Life
 
-Patroclus is the son of Menoitios. His ghost reveals his early history: Menoitios brought him as a child from Opoeis to Achilles' household "by reason of a grievous man-slaying, on the day when I slew Amphidamas' son, not willing it, in childish wrath over the dice. Then took me the knight Peleus into his house and reared me kindly and named me thy squire."[^il23-childhood]
+Patroclus is the son of Menoitios. The Catalogue of Women makes Menoitios the brother of Peleus, which would make Patroclus and [Achilles](achilles.md) first cousins: "Hesiod says that Menoethius the father of Patroclus, was a brother of Peleus, so that in that case they were first cousins."[^cat-cousin] This kinship is not stated in the [Iliad](../sources/iliad.md) but deepens their bond beyond mere companionship.
+
+His ghost reveals his early history: Menoitios brought him as a child from Opoeis to Achilles' household "by reason of a grievous man-slaying, on the day when I slew Amphidamas' son, not willing it, in childish wrath over the dice. Then took me the knight Peleus into his house and reared me kindly and named me thy squire."[^il23-childhood]
+
+[^cat-cousin]: "Hesiod says that Menoethius the father of Patroclus, was a brother of Peleus, so that in that case they were first cousins" (Catalogue of Women, Fragment 61, cited by Eustathius, trans. H.G. Evelyn-White)
 
 [^il23-childhood]: "Menoitios brought me yet a little one from Opoeis to your country by reason of a grievous man-slaying, on the day when I slew Amphidamas' son, not willing it, in childish wrath over the dice. Then took me the knight Peleus into his house and reared me kindly and named me thy squire" (Iliad XXIII.12837-12841, trans. Lang, Leaf, and Myers)
 

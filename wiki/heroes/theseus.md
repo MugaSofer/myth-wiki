@@ -31,6 +31,13 @@ In Crete, **[Ariadne](../heroes/ariadne.md)**, daughter of **[Minos](../heroes/m
 
 By night they sailed to Naxos, where **[Dionysus](../deities/dionysus.md)** fell in love with Ariadne and carried her off.[^apd-theseus-naxos] In his grief, Theseus forgot to spread white sails. Aegeus, seeing the black sail, threw himself from the acropolis and died.[^apd-theseus-aegeus]
 
+### Ariadne and Aegle (Catalogue of Women)
+
+The Catalogue preserves a variant tradition about why Theseus abandoned [Ariadne](../heroes/ariadne.md): "strong love for Aegle the daughter of Panopeus overpowered him."[^cat-aegle] Hereas of Megara claimed that Peisistratus removed this verse from the works of Hesiod. Another fragment adds that "Theseus wedded both Hippe and Aegle lawfully."[^cat-hippe]
+
+[^cat-aegle]: "For strong love for Aegle the daughter of Panopeus overpowered him" (Catalogue of Women, Fragment 76, trans. H.G. Evelyn-White)
+[^cat-hippe]: "Theseus wedded both Hippe and Aegle lawfully" (Catalogue of Women, Fragment 76, from Athenaeus, trans. H.G. Evelyn-White)
+
 ### Later Adventures
 
 Theseus joined **[Heracles](../heroes/heracles.md)** against the Amazons and carried off Antiope (or Hippolyte). By the Amazon he had a son Hippolytus.[^apd-theseus-amazon] He later married Phaedra, daughter of Minos. Phaedra fell in love with Hippolytus, who rejected her; she falsely accused him to Theseus, who prayed to Poseidon. A bull rose from the surf and frightened Hippolytus's horses, dragging him to death. When the truth emerged, Phaedra hanged herself.[^apd-theseus-phaedra]

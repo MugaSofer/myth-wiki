@@ -37,8 +37,24 @@ When [Thetis](../deities/thetis.md) tried to make [Achilles](achilles.md) immort
 
 Later, "Peleus, with Jason and the Dioscuri, laid waste Iolcus; and he slaughtered Astydamia, wife of Acastus, and, having divided her limb from limb, he led the army through her into the city."[^apd-revenge]
 
+## In the Catalogue of Women
+
+### The Myrmidons (Fragment 53)
+
+The Catalogue gives the origin of the Myrmidons through Peleus's father Aeacus. When Aeacus "came to the full measure of desired youth, he chafed at being alone. And the father of men and gods made all the ants that were in the lovely isle into men and wide-girdled women." These became the first seafarers: "the first who fitted with thwarts ships with curved sides, and the first who used sails, the wings of a sea-going ship."[^cat-myrmidons]
+
+[^cat-myrmidons]: "the father of men and gods made all the ants that were in the lovely isle into men and wide-girdled women. These were the first who fitted with thwarts ships with curved sides, and the first who used sails, the wings of a sea-going ship" (Catalogue of Women, Fragment 53, trans. H.G. Evelyn-White)
+
+### Wedding Praise (Fragment 58)
+
+The Catalogue preserves the speech of the people who witnessed Peleus's good fortune: "Thrice, yea, four times blessed son of Aeacus, happy Peleus! For far-seeing Olympian [Zeus](../deities/zeus.md) has given you a wife with many gifts and the blessed gods have brought your marriage fully to pass, and in these halls you go up to the holy bed of a daughter of [Nereus](../deities/nereus.md)."[^cat-peleus-praise]
+
+[^cat-peleus-praise]: "Thrice, yea, four times blessed son of Aeacus, happy Peleus! For far-seeing Olympian Zeus has given you a wife with many gifts and the blessed gods have brought your marriage fully to pass, and in these halls you go up to the holy bed of a daughter of Nereus" (Catalogue of Women, Fragment 58, trans. H.G. Evelyn-White)
+
 ## Appearances
 
+- **Catalogue of Women** Fragment 53: Origin of the Myrmidons — [Zeus](../deities/zeus.md) turned ants into men for Aeacus (Peleus's father); first seafarers
+- **Catalogue of Women** Fragment 58: Wedding praise — "Thrice, yea, four times blessed son of Aeacus, happy Peleus!"
 - **[Iliad](../sources/iliad.md)** IX: Achilles recalls his father's advice; two fates from [Thetis](../deities/thetis.md)
 - **[Iliad](../sources/iliad.md)** XVIII: [Thetis](../deities/thetis.md) laments her marriage — "forced" to submit to a mortal; wedding gifts recalled
 - **[Iliad](../sources/iliad.md)** XXIV: [Hera](../deities/hera.md) recalls raising Thetis and giving her to Peleus

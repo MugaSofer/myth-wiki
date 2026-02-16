@@ -48,9 +48,14 @@ Nemesis took the form of fish and "dread creatures" to escape Zeus, "but Zeus ev
 
 The Bibliotheca preserves the variant too: "some say that Helen was a daughter of Nemesis and Zeus; for that she, flying from the arms of Zeus, changed herself into a goose, but Zeus in his turn took the likeness of a swan and so enjoyed her; and as the fruit of their loves she laid an egg."[^apd-nemesis]
 
+### Daughter of Ocean (Catalogue of Women)
+
+A third tradition, preserved only in a scholiast citing the Catalogue of Women, makes Helen neither the daughter of Leda nor of Nemesis: "Hesiod, however, makes Helen the child neither of Leda nor Nemesis, but daughter of Ocean and Zeus."[^cat-ocean] This would make her not merely a mortal woman favoured by Zeus, but herself an Oceanid — a radically different genealogy with no other surviving elaboration.
+
 [^cyp-nemesis]: "Rich-tressed Nemesis once gave her birth when she had been joined in love with Zeus the king of the gods by harsh violence. For Nemesis tried to escape him and liked not to lie in love with her father Zeus the Son of Cronos; for shame and indignation vexed her heart: therefore she fled him over the land and fruitless dark water" (Cypria, Fragment 8, trans. H.G. Evelyn-White)
 [^cyp-nemesis-flight]: "But Zeus ever pursued and longed in his heart to catch her. Now she took the form of a fish and sped over the waves of the loud-roaring sea, and now over Ocean's stream and the furthest bounds of Earth, and now she sped over the furrowed land, always turning into such dread creatures as the dry land nurtures, that she might escape him" (Cypria, Fragment 8, trans. H.G. Evelyn-White)
 [^apd-nemesis]: "some say that Helen was a daughter of Nemesis and Zeus; for that she, flying from the arms of Zeus, changed herself into a goose, but Zeus in his turn took the likeness of a swan and so enjoyed her; and as the fruit of their loves she laid an egg" (Bibliotheca 3.10.7, trans. Frazer)
+[^cat-ocean]: "Hesiod, however, makes Helen the child neither of Leda nor Nemesis, but daughter of Ocean and Zeus" (Catalogue of Women, Fragment 66, cited by scholiast, trans. H.G. Evelyn-White)
 
 ## Appearance
 
@@ -137,6 +142,22 @@ In a striking passage, Penelope invokes Helen to explain her own caution with th
 
 [^od23-penelope]: "Nay even Argive Helen, daughter of Zeus, would not have lain with a stranger, and taken him for a lover, had she known that the warlike sons of the Achaeans would bring her home again to her own dear country. Howsoever, it was the god that set her upon this shameful deed" (Odyssey XXIII.12400-12403, trans. Butcher and Lang)
 
+## In the Catalogue of Women
+
+### Aphrodite's Curse on Tyndareus's Daughters
+
+The Catalogue preserves a tradition explaining Helen's role through [Aphrodite](../deities/aphrodite.md)'s anger at Tyndareus for neglecting her in sacrifice: "laughter-loving Aphrodite felt jealous when she looked on them and cast them into evil report. Then Timandra deserted Echemus and went and came to Phyleus, dear to the deathless gods; and even so Clytaemnestra deserted god-like Agamemnon and lay with Aegisthus and chose a worse mate; and even so Helen dishonoured the couch of golden-haired Menelaus."[^cat-aphrodite-curse] All three daughters of Tyndareus were cursed to desert their husbands — Helen's faithlessness is thus part of a divine pattern, not an isolated choice.
+
+### The Suitors
+
+The Catalogue contains the fullest surviving account of Helen's suitors, listing them individually with their gifts and home cities. Among them: Odysseus from Ithaca ("he never sent gifts for the sake of the neat-ankled maid, for he knew in his heart that golden-haired Menelaus would win"), Ajax from Salamis (who offered to drive together all the cattle of Troezen and Epidaurus), Idomeneus from Crete, and many others. "But of all who came for the maid's sake, the lord Tyndareus sent none away, nor yet received the gift of any, but asked of all the suitors sure oaths." In the end "warlike Menelaus, the son of Atreus, prevailed against them all together, because he gave the greatest gifts."[^cat-suitors]
+
+The Catalogue adds that Achilles was not among the suitors only because of his age: "neither warlike Menelaus nor any other of men on earth would have prevailed in suit for Helen, if fleet Achilles had found her unwed."[^cat-achilles]
+
+[^cat-aphrodite-curse]: "laughter-loving Aphrodite felt jealous when she looked on them and cast them into evil report. Then Timandra deserted Echemus... and even so Clytaemnestra deserted god-like Agamemnon and lay with Aegisthus and chose a worse mate; and even so Helen dishonoured the couch of golden-haired Menelaus" (Catalogue of Women, Fragment 67, trans. H.G. Evelyn-White)
+[^cat-suitors]: "But of all who came for the maid's sake, the lord Tyndareus sent none away, nor yet received the gift of any, but asked of all the suitors sure oaths... But warlike Menelaus, the son of Atreus, prevailed against them all together, because he gave the greatest gifts" (Catalogue of Women, Fragment 68, trans. H.G. Evelyn-White)
+[^cat-achilles]: "neither warlike Menelaus nor any other of men on earth would have prevailed in suit for Helen, if fleet Achilles had found her unwed. But, as it was, warlike Menelaus won her before" (Catalogue of Women, Fragment 68, trans. H.G. Evelyn-White)
+
 ## In the [Epic Cycle](../sources/epic-cycle.md)
 
 ### The Cypria
@@ -157,4 +178,7 @@ The Cypria also contains the Nemesis variant of Helen's birth (see Parentage abo
 - **[Odyssey](../sources/odyssey.md)** XXII: Named by [Athena](../deities/athena.md) in her rebuke to Odysseus: "for nine whole years continually thou didst battle with the Trojans for high born Helen, of the white arms"
 - **[Odyssey](../sources/odyssey.md)** XXIII: Penelope cites her as an example of divine delusion: "it was the god that set her upon this shameful deed"
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Born of [Zeus](../deities/zeus.md) and Nemesis (variant); "Rich-tressed Nemesis once gave her birth"; the Judgment of Paris; abduction by Paris
+- **Catalogue of Women** Fragment 66: Third parentage variant — daughter of Ocean and [Zeus](../deities/zeus.md) (not Leda, not Nemesis)
+- **Catalogue of Women** Fragment 67: [Aphrodite](../deities/aphrodite.md)'s curse on Tyndareus's daughters — Helen, Clytaemnestra, and Timandra all desert their husbands
+- **Catalogue of Women** Fragment 68: Full list of suitors with gifts; Menelaus wins by giving the greatest gifts; Achilles too young to compete
 - **[Bibliotheca](../sources/apollodorus.md)** 3.10.7: Born of [Zeus](../deities/zeus.md) and Leda; or of [Zeus](../deities/zeus.md) and Nemesis (egg variant)

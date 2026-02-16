@@ -4,7 +4,7 @@
 |---|---|
 | **Also known as** | The Sirens twain |
 | **Domain** | Enchantment, song |
-| **Dwelling** | Their island, in a meadow |
+| **Dwelling** | The island Anthemoessa ("Flowery"), in a meadow |
 | **First appearance** | [Odyssey](../sources/odyssey.md) XII |
 
 ## Overview
@@ -52,6 +52,13 @@ Odysseus hears the Sirens' song bound to the mast while his crew, their ears sto
 
 [^od-passage]: Odysseus hears the Sirens bound to the mast; his crew rows with waxed ears; when he begs to be freed they bind him tighter; they pass safely (Odyssey XII.6688-6720, trans. Butcher and Lang)
 
+## In the Catalogue of Women
+
+The Catalogue names the Sirens' island and gives their individual names: "To the island Anthemoessa (Flowery) which the son of Cronos gave them." Their names are given as Thelxiope (or Thelxinoe), Molpe, and Aglaophonus.[^cat-island] The Catalogue also says "they charmed even the winds."[^cat-winds]
+
+[^cat-island]: "To the island Anthemoessa (Flowery) which the son of Cronos gave them. And their names are Thelxiope or Thelxinoe, Molpe and Aglaophonus" (Catalogue of Women, Fragment 47, trans. H.G. Evelyn-White)
+[^cat-winds]: "Hesiod said that they charmed even the winds" (Catalogue of Women, Fragment 47, cited by scholiast, trans. H.G. Evelyn-White)
+
 ## Parentage (Bibliotheca)
 
 Apollodorus names the Sirens' parents: "Melpomene had by Achelous the Sirens."[^apd-sirens-parents] This gives them a specific genealogy not found in the [Odyssey](../sources/odyssey.md), where they are unnamed as to parentage. Their mother is Melpomene (the [Muse](../deities/muses.md) of tragedy), and their father is Achelous (the river god).
@@ -60,6 +67,7 @@ Apollodorus names the Sirens' parents: "Melpomene had by Achelous the Sirens."[^
 
 ## Appearances
 
+- **Catalogue of Women** Fragment 47: Island named Anthemoessa ("Flowery"); individual names (Thelxiope/Thelxinoe, Molpe, Aglaophonus); "charmed even the winds"
 - **[Odyssey](../sources/odyssey.md)** XII: [Circe](../deities/circe.md)'s warning about the Sirens and their meadow of bones; instructions for safe passage (wax and the mast); the Sirens' song to Odysseus, appealing to his fame and claiming omniscience; Odysseus hears them bound to the mast and passes safely
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.4: Parentage — daughters of Melpomene and Achelous
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.10: Variant parentage — Sterope (daughter of Porthaon) "is said to have been the mother of the Sirens by Achelous"[^apd-sterope]

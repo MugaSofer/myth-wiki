@@ -76,6 +76,8 @@ During the battle with the [Giants](../creatures/giants.md), "Clytius [was kille
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)** 24-27, 51-58, 438-440: Hears Persephone's cry; aids Demeter's search; becomes Persephone's companion
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.4: "to Perses and Asteria was born Hecate" — confirms Theogonic parentage
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Killed the giant Clytius with torches in the [Gigantomachy](../creatures/giants.md)
+- **Catalogue of Women** Fragment 71: Iphigenia "was not killed but, by the will of [Artemis](artemis.md), became Hecate" — an extraordinary identification of the sacrificed princess with the goddess
+- **Great Eoiae** Fragment 13: Named as mother of [Scylla](../creatures/scylla.md) (with [Apollo](apollo.md) as father)
 
 ## Notes
 

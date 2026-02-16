@@ -62,6 +62,14 @@ Dionysus revealed himself: "I am loud-crying Dionysus whom Cadmus' daughter Seme
 [^hh7-miracles]: "sweet, fragrant wine ran streaming throughout all the black ship... a vine spread out both ways along the top of the sail with many clusters hanging down from it, and a dark ivy-plant twined about the mast... the god changed into a dreadful lion there on the ship... the sailors fled into the stern... they leapt out overboard one and all into the bright sea, escaping from a miserable fate, and were changed into dolphins" (Homeric Hymn VII to Dionysus 35-53)
 [^hh7-reveal]: "I am loud-crying Dionysus whom Cadmus' daughter Semele bare of union with Zeus" (Homeric Hymn VII to Dionysus 56-57)
 
+## In the Catalogue of Women
+
+### The Gift of Wine (Fragment 87)
+
+The Catalogue includes a striking saying about the double nature of Dionysus's gift: "Such gifts as Dionysus gave to men, a joy and a sorrow both. Who ever drinks to fullness, in him wine becomes violent and binds together his hands and feet, his tongue also and his wits with fetters unspeakable: and soft sleep embraces him."[^cat-wine]
+
+[^cat-wine]: "Such gifts as Dionysus gave to men, a joy and a sorrow both. Who ever drinks to fullness, in him wine becomes violent and binds together his hands and feet, his tongue also and his wits with fetters unspeakable: and soft sleep embraces him" (Catalogue of Women, Fragment 87, trans. H.G. Evelyn-White)
+
 ## In the Iliad
 
 ### Dionysus and Lykurgos (Book VI)
@@ -149,6 +157,7 @@ When [Theseus](../heroes/theseus.md) arrived at Naxos with [Ariadne](../heroes/a
 
 ## Appearances
 
+- **Catalogue of Women** Fragment 87: "Such gifts as Dionysus gave to men, a joy and a sorrow both" — wine binds hands, feet, tongue, and wits "with fetters unspeakable"
 - **[Odyssey](../sources/odyssey.md)** XI: "Artemis slew her [Ariadne] ere that in sea-girt Dia, by reason of the witness of Dionysus" — his testimony led to Ariadne's death at Artemis's hand[^od11-ariadne]
 - **[Odyssey](../sources/odyssey.md)** XXIV: At Achilles' funeral — "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned [Hephaestus](hephaestus.md)" — the urn that held Achilles' bones[^od24-urn]
 - **[Theogony](../sources/theogony.md)** 940-942, 947-949: Birth; marriage to Ariadne

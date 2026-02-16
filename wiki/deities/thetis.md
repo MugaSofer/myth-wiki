@@ -108,6 +108,20 @@ Finally, Thetis organised funeral games: "Then thy mother asked the gods for glo
 [^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey XXIV.12627-12629, trans. Butcher and Lang)
 [^od24-games]: "Then thy mother asked the gods for glorious prizes in the games, and set them in the midst of the lists for the champions of the Achaeans... such glorious prizes did the goddess set there to honour thee, even Thetis, the silver-footed; for very dear wert thou to the gods" (Odyssey XXIV.12636-12643, trans. Butcher and Lang)
 
+## In the Hesiodic Fragments
+
+### Avoiding Zeus (Catalogue of Women)
+
+The Catalogue of Women confirms the tradition found also in the [Cypria](../sources/epic-cycle.md): "Thetis avoided wedlock with [Zeus](zeus.md) to please [Hera](hera.md); but that Zeus was angry and swore that she should mate with a mortal. Hesiod also has the like account."[^cat-thetis] The [Bibliotheca](../sources/apollodorus.md) gives the theological reason more explicitly: [Themis](themis.md) prophesied that Thetis's son would be mightier than his father.
+
+[^cat-thetis]: "the author of the Cypria says that Thetis avoided wedlock with Zeus to please Hera; but that Zeus was angry and swore that she should mate with a mortal. Hesiod also has the like account" (Catalogue of Women, Fragment 57, trans. H.G. Evelyn-White)
+
+### Testing Her Children (Aegimius)
+
+The Aegimius gives a striking variant of Thetis's attempt to immortalise her children — different from both the Bibliotheca's fire version and the later tradition of dipping in the Styx. "Thetis used to throw the children she had by Peleus into a cauldron of water, because she wished to learn where they were mortal." After many children perished, "Peleus was annoyed, and prevented her from throwing Achilles into the cauldron."[^aeg-cauldron]
+
+[^aeg-cauldron]: "Thetis used to throw the children she had by Peleus into a cauldron of water, because she wished to learn where they were mortal... And that after many had perished Peleus was annoyed, and prevented her from throwing Achilles into the cauldron" (Aegimius, Fragment 2, trans. H.G. Evelyn-White)
+
 ## In the Epic Cycle
 
 ### Marriage to Peleus (Cypria)
@@ -149,6 +163,8 @@ In the Returns, Thetis warned Neoptolemus (Achilles' son), who heeded her counse
 - **[Iliad](../sources/iliad.md)** XVIII: Laments among the Nereids; confirms Achilles' impending death; describes her forced marriage to Peleus; commissions armour from [Hephaestus](hephaestus.md) on Olympus
 - **[Iliad](../sources/iliad.md)** XXIII: "Thetis stirred among them desire of wailing" at Patroklos's funeral
 - **[Iliad](../sources/iliad.md)** XXIV: Summoned by Iris from the sea (wailing among the Nereids); goes to Olympus; Athena gives her place, Hera gives her a golden cup; Zeus sends her to bid Achilles accept ransom; "not long shalt thou be left alive to me"; Hera: "I myself bred up and reared [Thetis] and gave [her] to a man to be his wife, even to Peleus who was dearest of all men to the Immortals' heart"
+- **Catalogue of Women** Fragment 57: Hesiod confirms the Cypria tradition that Thetis avoided [Zeus](zeus.md) to please [Hera](hera.md), and Zeus swore she should mate with a mortal
+- **Aegimius** Fragment 2: Threw her children by Peleus into a cauldron of water to test their mortality; many perished before Peleus stopped her from throwing Achilles in
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.7: Listed among the Nereids, daughters of [Nereus](nereus.md) and Doris
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.5: Saved [Hephaestus](hephaestus.md) after [Zeus](zeus.md) cast him from heaven and he fell on Lemnos
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Steered the Argo through the Wandering Rocks with the Nereids — "Thetis with the Nereids steered the ship through them at the summons of [Hera](hera.md)"[^apd-wandering]

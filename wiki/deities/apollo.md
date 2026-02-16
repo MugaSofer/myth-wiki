@@ -170,6 +170,24 @@ During the [Gigantomachy](../creatures/giants.md), "Ephialtes was shot by Apollo
 [^apd-marsyas]: "Apollo was judged the victor and despatched Marsyas by hanging him on a tall pine tree and stripping off his skin." (Bibliotheca 1.4.2, trans. Frazer)
 [^apd-ephialtes]: "Ephialtes was shot by Apollo with an arrow in his left eye and by Hercules in his right" (Bibliotheca 1.6.2, trans. Frazer)
 
+## In the Catalogue of Women
+
+### Coronis and the Crow (Fragment 89)
+
+The Catalogue gives the earliest version of the Coronis story. A crow brought the news of her infidelity to Apollo at Delphi: "there came a messenger from the sacred feast to goodly Pytho, a crow, and he told unshorn Phoebus of secret deeds, that Ischys son of Elatus had wedded Coronis the daughter of Phlegyas of birth divine."[^cat-coronis]
+
+### Death of Asclepius (Fragment 90)
+
+[Zeus](zeus.md) killed Asclepius for raising the dead: "the father of men and gods was wrath, and from Olympus he smote the son of Leto with a lurid thunderbolt and killed him, arousing the anger of Phoebus."[^cat-asclepius]
+
+### Apollo's Punishment (Fragment 91)
+
+In his rage over Asclepius's death, Apollo would have suffered the ultimate divine punishment: "Apollo would have been cast by Zeus into Tartarus; but Leto interceded for him, and he became bondman to a mortal."[^cat-bondman] This is the Catalogue's version of Apollo's servitude to Admetus.
+
+[^cat-coronis]: "there came a messenger from the sacred feast to goodly Pytho, a crow, and he told unshorn Phoebus of secret deeds, that Ischys son of Elatus had wedded Coronis the daughter of Phlegyas of birth divine" (Catalogue of Women, Fragment 89, trans. H.G. Evelyn-White)
+[^cat-asclepius]: "the father of men and gods was wrath, and from Olympus he smote the son of Leto with a lurid thunderbolt and killed him, arousing the anger of Phoebus" (Catalogue of Women, Fragment 90, trans. H.G. Evelyn-White)
+[^cat-bondman]: "Apollo would have been cast by Zeus into Tartarus; but Leto interceded for him, and he became bondman to a mortal" (Catalogue of Women, Fragment 91, trans. H.G. Evelyn-White)
+
 ## In the Bibliotheca (Book 2)
 
 ### Gifts to Heracles (2.4.11)
@@ -196,6 +214,9 @@ After Heracles murdered Iphitus and sought purification at Delphi, "the Pythian 
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
+- **Catalogue of Women** Fragment 89: Crow brings news of Coronis's infidelity to "unshorn Phoebus" at Pytho
+- **Catalogue of Women** Fragment 90: [Zeus](zeus.md) smites Asclepius "with a lurid thunderbolt," arousing Apollo's anger
+- **Catalogue of Women** Fragment 91: Apollo would have been cast into Tartarus; Leto interceded; he became bondman to a mortal
 - **[Homeric Hymn III](../sources/homeric-hymns.md)**: Birth on Delos; first words; the dragon at Pytho; founding of the Delphic oracle; the Cretan priests
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Kills Achilles alongside Paris
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Separates [Ares](ares.md) and [Athena](athena.md) in battle

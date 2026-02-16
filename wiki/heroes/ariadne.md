@@ -10,6 +10,12 @@ Daughter of **[Minos](minos.md)** and Pasiphae. Ariadne helped **[Theseus](these
 
 Homer gives a darker account. In the catalogue of heroines: "[Artemis](../deities/artemis.md) slew her ere that in sea-girt Dia, by reason of the witness of Dionysus."[^od11-ariadne]
 
+## In the Catalogue of Women
+
+Hesiod gives a different reason for Ariadne's abandonment: "strong love for Aegle the daughter of Panopeus overpowered him," suggesting [Theseus](theseus.md) left Ariadne not because of divine intervention but for another woman.[^cat-aegle] Hereas of Megara claimed Peisistratus removed this verse from Hesiod's works.
+
+[^cat-aegle]: "For strong love for Aegle the daughter of Panopeus overpowered him" (Catalogue of Women, Fragment 76, trans. H.G. Evelyn-White)
+
 ## In the Bibliotheca (E.1.8-1.9)
 
 When Theseus came to Crete as tribute for the Minotaur, "Ariadne, daughter of Minos, being amorously disposed to him, offered to help him if he would agree to carry her away to Athens and have her to wife."[^apd-ariadne-offer] Theseus agreed on oath, and she consulted Daedalus, who suggested the clue of thread.

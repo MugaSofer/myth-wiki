@@ -51,12 +51,22 @@ This gave rise to an etymology: "Hence people were called metaphorically people 
 
 Hellen became the ancestor of the Hellenic peoples. The Hesiodic Catalogue confirms that "those who were descended from Deucalion used to rule over Thessaly."[^hes-thessaly] Deucalion's daughter Thyia bore to [Zeus](../deities/zeus.md) "two sons, Magnes and Macedon, rejoicing in horses, who dwell round about Pieria and Olympus."[^hes-thyia]
 
+The Catalogue also gives Hellen's descendants: "from Hellen the war-loving king sprang Dorus and Xuthus and Aeolus delighting in horses. And the sons of Aeolus, kings dealing justice, were Cretheus, and Athamas, and clever Sisyphus, and wicked Salmoneus and overbold Perieres."[^hes-hellen]
+
 Another tradition gives Deucalion a daughter Pandora, "joined in love with father Zeus, leader of all the gods," who "bare Graecus, staunch in battle."[^hes-graecus]
+
+[^hes-hellen]: "from Hellen the war-loving king sprang Dorus and Xuthus and Aeolus delighting in horses. And the sons of Aeolus, kings dealing justice, were Cretheus, and Athamas, and clever Sisyphus, and wicked Salmoneus and overbold Perieres" (Catalogue of Women, Fragment 4, trans. H.G. Evelyn-White)
 
 [^apd-children]: "Deucalion had children by Pyrrha, first Hellen, whose father some say was Zeus, and second Amphictyon, who reigned over Attica after Cranaus; and third a daughter Protogenia, who became the mother of Aethlius by Zeus" (Bibliotheca 1.7.2, trans. Frazer)
 [^hes-thessaly]: "Those who were descended from Deucalion used to rule over Thessaly" (Catalogue of Women, Fragment 5, trans. H.G. Evelyn-White)
 [^hes-thyia]: "she conceived and bare to Zeus who delights in the thunderbolt two sons, Magnes and Macedon, rejoicing in horses, who dwell round about Pieria and Olympus" (Catalogue of Women, Fragment 3, trans. H.G. Evelyn-White)
 [^hes-graecus]: "in the palace Pandora the daughter of noble Deucalion was joined in love with father Zeus, leader of all the gods, and bare Graecus, staunch in battle" (Catalogue of Women, Fragment 2, trans. H.G. Evelyn-White)
+
+## Gods and Mortals Together (Fragment 59)
+
+The Catalogue preserves a memory of a time before the separation of gods and mortals: "For in common then were the banquets, and in common the seats of deathless gods and mortal men."[^cat-common] This fragment reflects the theological backdrop against which the Flood and the Trojan War both operate — [Zeus](../deities/zeus.md)'s plan to end the age when gods and mortals mingled freely.
+
+[^cat-common]: "For in common then were the banquets, and in common the seats of deathless gods and mortal men" (Catalogue of Women, Fragment 59, trans. H.G. Evelyn-White)
 
 ## Connection to the Five Ages
 
@@ -81,6 +91,7 @@ In the [Odyssey](../sources/odyssey.md), a different Deucalion (son of Minos) ap
 ## Appearances
 
 - **[Catalogue of Women](../sources/theogony.md)** (Fragments 1-5): Deucalion son of Prometheus and Pronoea; Hellen son of Deucalion and Pyrrha; descendants rule Thessaly; daughters Thyia and Pandora bear sons to [Zeus](../deities/zeus.md); stones become people (laas/laos wordplay)
+- **[Catalogue of Women](../sources/theogony.md)** (Fragment 59): "In common then were the banquets, and in common the seats of deathless gods and mortal men" — the era before divine-mortal separation
 - **[Catalogue of Women](../sources/theogony.md)** (Fragment 82): "Stones gathered out of the earth... out of stones mortal men were made, and they were called people"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.2: Full account — Deucalion and Pyrrha's lineage; Prometheus's advice; the chest; nine days afloat; landing on Parnassus; sacrifice to "Zeus the god of Escape"; [Hermes](../deities/hermes.md) sent; stones become men and women; children: Hellen, Amphictyon, Protogenia
 - **[Bibliotheca](../sources/apollodorus.md)** 3.8.2: Flood also attributed to impiety of Lycaon's sons

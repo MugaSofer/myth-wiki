@@ -218,8 +218,20 @@ Hermes gave [Heracles](../heroes/heracles.md) a sword among his divine weapons.[
 [^apd-herm-phantom]: "he learned from Hermes that she was an empty phantom" (Bibliotheca 2.5.12)
 [^apd-herm-sold]: "Hermes sold Hercules, and he was bought by Omphale, daughter of Iardanes, queen of Lydia" (Bibliotheca 2.6.3)
 
+## In the Great Eoiae
+
+### The Cattle Theft and Battus (Fragment 16)
+
+The Great Eoiae gives a variant of the cattle-theft more elaborate than the [Homeric Hymn](../sources/homeric-hymns.md). While [Apollo](apollo.md) was distracted by love for the boy Hymenaeus at the house of Magnes, Hermes "cast upon the dogs which were guarding them a stupor and strangles" and drove away twelve heifers, a hundred cows, and the bull, "fastening to the tail of each one brushwood to wipe out the footmarks."[^ge-cattle]
+
+He drove the cattle through vast distances — through the lands of the Pelasgi, Achaea, Locris, Boeotia, and into the Peloponnese. A man named Battus, living on a hilltop, heard the heifers pass and recognised they were stolen. Hermes promised him a reward to tell no one, and Battus swore silence. But Hermes, disguised, returned and offered Battus a robe to reveal what he knew. Battus broke his oath and told. "Hermes was angry because he was double-tongued, and struck him with his staff and changed him into a rock. And either frost or heat never leaves him."[^ge-battus]
+
+[^ge-cattle]: "he cast upon the dogs which were guarding them a stupor and strangles, so that the dogs forgot the cows and lost the power of barking... fastening to the tail of each one brushwood to wipe out the footmarks of the cows" (Great Eoiae, Fragment 16, trans. H.G. Evelyn-White)
+[^ge-battus]: "Hermes was angry because he was double-tongued, and struck him with his staff and changed him into a rock. And either frost or heat never leaves him" (Great Eoiae, Fragment 16, trans. H.G. Evelyn-White)
+
 ## Appearances
 
+- **Great Eoiae** Fragment 16: Cattle theft variant — cast stupor on dogs; drove cattle across Greece; tested Battus's oath; turned him to stone for breaking it
 - **[Odyssey](../sources/odyssey.md)** I: Sent by Zeus to warn Aegisthus (past event recalled); Athena proposes sending him to Calypso
 - **[Odyssey](../sources/odyssey.md)** V: Embassy to Calypso — golden sandals, wand, flies "like the cormorant" over the waves; delivers Zeus's command to release Odysseus; eats ambrosia and drinks nectar at Calypso's table
 - **[Odyssey](../sources/odyssey.md)** VIII: In the Song of Ares and Aphrodite — "the bringer of luck"; asked by Apollo if he'd lie with Aphrodite despite the bonds; declares he'd endure thrice the bonds; "laughter rose among the deathless gods"

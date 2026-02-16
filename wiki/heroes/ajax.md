@@ -15,7 +15,9 @@
 
 ### Birth (3.12.7)
 
-Telamon settled in Salamis and married Periboea. Ajax was named after an eagle: "when [Heracles](heracles.md) had prayed that he might have a male child, an eagle appeared after the prayer."[^apd-birth] (The Greek word for eagle, *aietos*, was linked to *Aias*.)
+Telamon settled in Salamis and married Periboea. Ajax was named after an eagle: "when [Heracles](heracles.md) had prayed that he might have a male child, an eagle appeared after the prayer."[^apd-birth] (The Greek word for eagle, *aietos*, was linked to *Aias*.) The Great Eoiae preserves the same tradition: "Heracles entertained by Telamon, standing dressed in his lion-skin and praying, and there also we find the eagle sent by Zeus, from which Aias took his name."[^ge-eagle]
+
+[^ge-eagle]: "Heracles entertained by Telamon, standing dressed in his lion-skin and praying, and there also we find the eagle sent by Zeus, from which Aias took his name" (Great Eoiae, Fragment 3, trans. H.G. Evelyn-White)
 
 Telamon also had a son Teucer by Hesione, daughter of Laomedon, whom he received as a prize when he accompanied Heracles against [Troy](../places/troy.md).
 
