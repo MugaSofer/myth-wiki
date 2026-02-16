@@ -190,6 +190,11 @@ For the sixth labour (the Stymphalian birds), "[Athena](athena.md) gave him braz
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.26: Talos the brazen man — "some say that he was given to Minos by Hephaestus; he was a brazen man"[^apd-talos]
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.11: Gave [Heracles](../heroes/heracles.md) a golden breastplate before his labours
 - **[Bibliotheca](../sources/apollodorus.md)** 2.5.6: Made brazen castanets for [Athena](athena.md), used by Heracles to scare the Stymphalian birds
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.2: Wrought the necklace given to Harmonia at her wedding to [Cadmus](../heroes/cadmus.md) — "the necklace wrought by Hephaestus, which some say was given to Cadmus by Hephaestus"[^apd-heph-necklace]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.6: Father of Erichthonius — pursued [Athena](athena.md) who "came to Hephaestus, desirous of fashioning arms," but "being forsaken by [Aphrodite](aphrodite.md), fell in love with Athena"; his seed fell on the ground and produced Erichthonius[^apd-heph-erichthonius]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.16.1: Father of Periphetes the Clubman, first of the brigands slain by [Theseus](../heroes/theseus.md) — "Periphetes, son of Hephaestus and Anticlia"[^apd-heph-periphetes]
+- **[Bibliotheca](../sources/apollodorus.md)** E.2.9: Purified Pelops — "when Pelops had reached the Ocean and been cleansed by Hephaestus"[^apd-heph-pelops]
+- **[Bibliotheca](../sources/apollodorus.md)** E.4.7: Brought armour to [Achilles](../heroes/achilles.md) and dried up the river Scamander — "a suit of armour having been brought him from Hephaestus" and "Hephaestus dried up the streams of the river, after chasing them with a mighty flame"[^apd-heph-trojan]
 
 [^apd-prometheus]: "Zeus ordered Hephaestus to nail his body to Mount Caucasus" (Bibliotheca 1.7.1, trans. Frazer)
 [^apd-bulls]: "two wild bulls that he had, of enormous size, a gift of Hephaestus; they had brazen feet and puffed fire from their mouths" (Bibliotheca 1.9.23, trans. Frazer)
@@ -200,3 +205,8 @@ For the sixth labour (the Stymphalian birds), "[Athena](athena.md) gave him braz
 [^cyp-heph-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5)
 [^aeth-heph-armour]: Aethiopis, summary by Proclus: "Memnon, the son of Eos, wearing armour made by Hephaestus, comes to help the Trojans"
 [^liliad-heph-vine]: "the vine which the son of Cronos gave him as a recompense for his son. It bloomed richly with soft leaves of gold and grape clusters; Hephaestus wrought it and gave it to his father Zeus: and he bestowed it on Laomedon as a price for Ganymedes" (Little Iliad, Fragment 7)
+[^apd-heph-necklace]: "the necklace wrought by Hephaestus, which some say was given to Cadmus by Hephaestus, but Pherecydes says that it was given by Europa, who had received it from Zeus" (Bibliotheca 3.4.2, trans. J.G. Frazer)
+[^apd-heph-erichthonius]: "Athena came to Hephaestus, desirous of fashioning arms. But he, being forsaken by Aphrodite, fell in love with Athena, and began to pursue her; but she fled. When he got near her with much ado (for he was lame), he attempted to embrace her; but she, being a chaste virgin, would not submit to him, and he dropped his seed on the leg of the goddess" (Bibliotheca 3.14.6, trans. J.G. Frazer)
+[^apd-heph-periphetes]: "in Epidaurus he slew Periphetes, son of Hephaestus and Anticlia, who was surnamed the Clubman from the club which he carried" (Bibliotheca 3.16.1, trans. J.G. Frazer)
+[^apd-heph-pelops]: "when Pelops had reached the Ocean and been cleansed by Hephaestus, he returned to Pisa in Elis" (Bibliotheca E.2.9, trans. J.G. Frazer)
+[^apd-heph-trojan]: "a suit of armour having been brought him from Hephaestus, he donned the armour and went forth to the war" ... "Hephaestus dried up the streams of the river, after chasing them with a mighty flame" (Bibliotheca E.4.7, trans. J.G. Frazer)

@@ -390,6 +390,18 @@ Athena continued her role as [Heracles](../heroes/heracles.md)' protector:
 - **[Bibliotheca](../sources/apollodorus.md)** 2.5.11: Returned the golden apples to the Hesperides
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.1: Brought Heracles to Phlegra for the Gigantomachy
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.3: Gave Heracles a lock of the Gorgon's hair in a bronze jar
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.1: Advised [Cadmus](../heroes/cadmus.md) to sow the dragon's teeth, producing the Sparti
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.2: Procured the kingdom for Cadmus after his service to Ares
+- **[Bibliotheca](../sources/apollodorus.md)** 3.6.7: Pherecydes says Tiresias was blinded by Athena — "Chariclo was dear to Athena... Tiresias saw the goddess stark naked, and she covered his eyes with her hands, and so rendered him sightless"; gave him a cornel-wood staff and ability to understand birdsong
+- **[Bibliotheca](../sources/apollodorus.md)** 3.6.8: Brought medicine from Zeus to make Tydeus immortal, but withheld it in disgust when he gulped up Melanippus's brains
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.3: Gave Asclepius Gorgon blood from the veins — left side for bane, right side for salvation; he raised the dead with it
+- **[Bibliotheca](../sources/apollodorus.md)** 3.12.3: As a girl, raised with Triton's daughter Pallas; accidentally killed Pallas when Zeus interposed the aegis; made the Palladium in Pallas's likeness; wrapped the aegis about it
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.1: Planted an olive tree on the Acropolis; won Athens from Poseidon by the verdict of the twelve gods; called the city Athens after herself
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.6: Hephaestus pursued her; she fled; his seed fell on the ground producing Erichthonius; she put him in a chest and entrusted it to Pandrosus; brought Erichthonius up herself; set up the wooden image on the Acropolis
+- **[Bibliotheca](../sources/apollodorus.md)** E.5.6: Drove Ajax mad after the arms judgment — "he slaughtered the cattle with the herdsmen, taking them for the Achaeans"
+- **[Bibliotheca](../sources/apollodorus.md)** E.5.22: Ajax violated Cassandra clinging to Athena's wooden image; "the image looks to heaven"
+- **[Bibliotheca](../sources/apollodorus.md)** E.5.23: Angry with the Greeks for Ajax's impiety; detained them from sailing
+- **[Bibliotheca](../sources/apollodorus.md)** E.6.5: Entreated Zeus to send a tempest against the Greeks; threw a thunderbolt at Ajax's ship; Ajax was wrecked
 
 [^apd-argo-timber]: "at the prow Athena fitted in a speaking timber from the oak of Dodona" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-dragon-teeth]: "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes" (Bibliotheca 1.9.23, trans. Frazer)

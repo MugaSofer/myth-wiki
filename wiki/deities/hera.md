@@ -217,6 +217,13 @@ After Heracles' apotheosis, Hera was reconciled to him: "being reconciled to Her
 - **[Bibliotheca](../sources/apollodorus.md)** 2.5.10: Sent gadfly against Geryon's cattle during Heracles' return
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.1: Sent storms against Heracles after Troy; Zeus hung her from Olympus
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Reconciled with Heracles; he married her daughter Hebe
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.3: Deceived Semele into asking Zeus to appear in his true form; indignantly drove Ino and Athamas mad when they reared Dionysus; Athamas killed his son, Ino threw Melicertes into a cauldron
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.1: Drove Dionysus mad; he roamed Egypt and Syria before being purified by Rhea
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.8: Sent the [Sphinx](../creatures/sphinx.md) to [Thebes](../places/thebes.md) — "Hera sent the Sphinx, whose mother was Echidna and her father Typhon"
+- **[Bibliotheca](../sources/apollodorus.md)** 3.6.7: Variant — blinded Tiresias for saying women enjoy nine parts of love's pleasure and men only one; Zeus then gave him the art of soothsaying
+- **[Bibliotheca](../sources/apollodorus.md)** 3.8.2: Persuaded Artemis to shoot down Callisto as a wild beast (to punish Zeus's affair)
+- **[Bibliotheca](../sources/apollodorus.md)** E.1.20: Ixion attempted to force her; she reported it to Zeus; Zeus made a cloud in her likeness to test him
+- **[Bibliotheca](../sources/apollodorus.md)** E.6.29: Made Menelaus immortal — "being made immortal by Hera he went to the Elysian Fields with Helen"
 
 [^apd-ephialtes]: "Ephialtes wooed Hera, and Otus wooed Artemis" (Bibliotheca 1.7.4, trans. Frazer)
 [^apd-athamas]: "afterwards Athamas was bereft also of the children of Ino through the wrath of Hera; for he went mad and shot Learchus with an arrow, and Ino cast herself and Melicertes into the sea" (Bibliotheca 1.9.2, trans. Frazer)

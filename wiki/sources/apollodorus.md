@@ -35,5 +35,5 @@ Citations use the standard section numbering: e.g., Bibliotheca 1.6.2, Epitome 1
 
 - [x] Book 1 (1.1.1-1.9.28)
 - [x] Book 2 (2.1.1-2.8.5)
-- [ ] Book 3
-- [ ] Epitome
+- [x] Book 3 (3.1.1-3.16.2)
+- [x] Epitome (E.1.1-E.7.40)

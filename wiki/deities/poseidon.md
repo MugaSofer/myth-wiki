@@ -258,3 +258,18 @@ During [Heracles](../heroes/heracles.md)' pursuit of the centaurs, "the rest of 
 - **[Bibliotheca](../sources/apollodorus.md)** 2.5.4: Received fleeing centaurs at Eleusis and hid them in a mountain
 - **[Bibliotheca](../sources/apollodorus.md)** 2.5.7: Sent the Cretan bull from the sea; made it savage when Minos cheated
 - **[Bibliotheca](../sources/apollodorus.md)** 2.5.9: With Apollo, fortified Troy for Laomedon; cheated of wages; sent sea monster
+- **[Bibliotheca](../sources/apollodorus.md)** 3.1.1: Thasus was a son of Poseidon (variant)
+- **[Bibliotheca](../sources/apollodorus.md)** 3.1.3: Sent a fine bull from the sea when [Minos](../heroes/minos.md) prayed; angered when Minos kept it; made the bull savage and contrived Pasiphae's passion for it, leading to the Minotaur's birth
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.1: Fathered Lycus and Aethusa by daughters of Atlas (the Pleiades); made Lycus dwell in the Islands of the Blest
+- **[Bibliotheca](../sources/apollodorus.md)** 3.12.7: Cychreus, son of Poseidon and Salamis, became king of Salamis
+- **[Bibliotheca](../sources/apollodorus.md)** 3.13.5: Rival with Zeus for Thetis; withdrew after the prophecy; gave Peleus immortal horses Balius and Xanthus at the wedding
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.1: Struck the Acropolis with his trident, producing a sea (Erechtheis); lost Athens to Athena by the verdict of the twelve gods; "in hot anger flooded the Thriasian plain and laid Attica under the sea"
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.2: Halirrhothius his son tried to violate Alcippe; Ares killed him; Poseidon brought the case to trial at the Areopagus
+- **[Bibliotheca](../sources/apollodorus.md)** 3.15.4: Picked up his son Eumolpus from the sea when Chione threw him in; gave him to Benthesicyme to raise
+- **[Bibliotheca](../sources/apollodorus.md)** 3.15.4: Destroyed Erechtheus and his house after Erechtheus killed Eumolpus
+- **[Bibliotheca](../sources/apollodorus.md)** 3.15.7: Had connexion with Aethra the same night as Aegeus — [Theseus](../heroes/theseus.md) may be his son
+- **[Bibliotheca](../sources/apollodorus.md)** E.1.19: Sent a bull from the surf at Theseus's prayer, killing Hippolytus
+- **[Bibliotheca](../sources/apollodorus.md)** E.1.22: Caeneus — after intercourse with her, she asked to become an invulnerable man
+- **[Bibliotheca](../sources/apollodorus.md)** E.2.3: Gave Pelops a winged chariot "such that even when it ran through the sea the axles were not wet"
+- **[Bibliotheca](../sources/apollodorus.md)** E.6.6: Smote the rock with his trident and split it; Ajax fell into the sea and perished; Athena had wrecked his ship
+- **[Bibliotheca](../sources/apollodorus.md)** E.7.9: Wrathful at Odysseus from the Cyclops incident onward; turned the Phaeacian ship to stone and enveloped the city with a mountain

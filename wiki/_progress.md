@@ -588,8 +588,32 @@ Created dedicated pages for major entities across all previously processed sourc
 
 ## Bibliotheca Book 2 — COMPLETE
 
+### Apollodorus, Bibliotheca Book 3 (3.1.1-3.16.2) & Epitome (E.1.1-E.7.40)
+
+**Book 3 and Epitome processed (first pass — deity pages and major heroes).** Covers: Europa and the Cretan cycle, Cadmus and Thebes, Dionysus's birth and wanderings, Oedipus, Seven Against Thebes, Tiresias, Arcadian myths (Callisto, Atalanta), Pleiades, Hermes' birth, Hyacinth and Asclepius, Trojan royal line, Peleus/Thetis/Achilles, Athenian kings, Theseus, House of Atreus, Judgment of Paris, entire Trojan War, all Returns, and Odysseus's death.
+
+**New pages created:** minos.md, oedipus.md, cadmus.md, theseus.md, ariadne.md
+
+**Pages updated (deity):** zeus.md, hera.md, athena.md, hermes.md, poseidon.md, apollo.md, artemis.md, dionysus.md (major expansion — full birth and wanderings narrative)
+
+**Pages updated (creatures):** sphinx.md (full riddle, Bibliotheca parentage, description)
+
+**Pages updated (heroes):** achilles.md (birth, youth, Bibliotheca war narrative), odysseus.md (oath, feigned madness, Wooden Horse, death)
+
+**Second pass — remaining deity pages and new hero/event/object pages:**
+
+**Deity pages updated:** hephaestus.md (Necklace of Harmonia, Erichthonius, Periphetes, Pelops cleansing, Trojan War armour/river), ares.md (spring at Thebes, Cadmus's servitude, Menoeceus sacrifice, Alcippe/Areopagus, Tereus, Oenomaus, Penthesilea), demeter.md (Arion by Poseidon, Iasion, Eleusis)
+
+**New hero pages created:** agamemnon.md, peleus.md, ajax.md, atalanta.md, tiresias.md, priam.md
+
+**New event pages created:** judgment-of-paris.md, seven-against-thebes.md
+
+**New object pages created:** necklace-of-harmonia.md, palladium.md, wooden-horse.md
+
+**Still to do in future passes:** More hero pages (Menelaus, Orestes, Daedalus/Icarus, Penelope). Places (Crete, Athens). Update Thebes and Troy place pages.
+
+## Bibliotheca Book 3 & Epitome — COMPLETE
+
 ## Next
 
-Continue processing Apollodorus: Book 3 (Europa, Cadmus, Thebes, Crete), Epitome (Theseus, Trojan War, Returns).
-
-Also consider: Catalogues of Women fragments (genealogical), Great Eoiae fragments, Melampodia fragments.
+Continue expanding wiki coverage from Book 3/Epitome: create remaining hero, place, and object pages. Consider future sources: Catalogues of Women fragments, Great Eoiae fragments, Melampodia fragments.

@@ -149,6 +149,13 @@ After Poseidon guaranteed the fine, "laughter-loving Aphrodite went to Paphos of
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.1: Daughter of [Zeus](zeus.md) and [Dione](dione.md) (variant from the Theogony's birth from Uranus)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.17: Cursed the Lemnian women with a noisome smell — "she visited them with a noisome smell; therefore their spouses took captive women from the neighboring country of Thrace and bedded with them"[^apd-lemnos]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Rescued Butes from the Sirens — "Butes alone swam off to the Sirens, but Aphrodite carried him away and settled him in Lilybaeum"[^apd-butes]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.2: Bore Harmonia by [Ares](ares.md); Harmonia married [Cadmus](../heroes/cadmus.md) at the wedding attended by all the gods
+- **[Bibliotheca](../sources/apollodorus.md)** 3.9.2: Gave Melanion golden apples to defeat Atalanta in the footrace — "Melanion came to run for love of her, bringing golden apples from Aphrodite"
+- **[Bibliotheca](../sources/apollodorus.md)** 3.12.2: Met Anchises in love's dalliance and bore [Aeneas](../heroes/aeneas.md) and Lyrus
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.3: Her daughters by Cinyras cohabited with foreigners "by reason of the wrath of Aphrodite"
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.4: Adonis — hid the infant in a chest and entrusted him to [Persephone](persephone.md); both refused to give him up; Zeus divided the year in three (one part with Persephone, one with Aphrodite, one his own — "Adonis made over to Aphrodite his own share in addition"); he was later gored by a boar
+- **[Bibliotheca](../sources/apollodorus.md)** E.3.2: The Judgment of Paris — promised the hand of [Helen](../heroes/helen.md); Paris chose her over Hera (kingship) and [Athena](athena.md) (victory in war)
+- **[Bibliotheca](../sources/apollodorus.md)** E.4.1-4.2: Carried Paris off when he was losing to Menelaus; wounded by [Diomedes](../heroes/diomedes.md) when she came to help Aeneas
 
 [^apd-lemnos]: "The Lemnian women did not honor Aphrodite, and she visited them with a noisome smell; therefore their spouses took captive women from the neighboring country of Thrace and bedded with them" (Bibliotheca 1.9.17, trans. Frazer)
 [^apd-butes]: "Butes alone swam off to the Sirens, but Aphrodite carried him away and settled him in Lilybaeum" (Bibliotheca 1.9.25, trans. Frazer)

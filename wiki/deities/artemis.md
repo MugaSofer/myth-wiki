@@ -142,5 +142,11 @@ Meleager slew the boar "having gathered together from many cities huntsmen and h
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Killed the Aloads by a ruse — changed into a deer and leapt between them; they killed each other throwing darts at the quarry
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.2: Sent the Calydonian Boar because Oeneus forgot her in sacrifice
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Admetus forgot to sacrifice to her at his marriage; chamber filled with snakes
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.4: Actaeon saw her bathing; "the goddess at once transformed him into a deer, and drove mad the fifty dogs in his pack, which devoured him unwittingly" (variant: Zeus angry at him for wooing Semele)
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.6: Shot down Niobe's daughters in the house while Apollo killed the sons on Cithaeron
+- **[Bibliotheca](../sources/apollodorus.md)** 3.8.2: Shot down Callisto at Hera's persuasion (variant: shot her for not keeping her maidenhood)
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.6: Made Tyndareus's daughter Phylonoe immortal
+- **[Bibliotheca](../sources/apollodorus.md)** E.2.10: Atreus vowed to sacrifice his finest to Artemis but kept the golden lamb
+- **[Bibliotheca](../sources/apollodorus.md)** E.3.21-3.22: Angry at Agamemnon for his boast and Atreus's broken vow; demanded Iphigenia as sacrifice; "carried her off to the Taurians and appointed her to be her priestess, substituting a deer for her at the altar" (variant: made her immortal)
 
 [^cyp-iphigeneia]: Cypria, summary by Proclus: "Artemis, however, snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"

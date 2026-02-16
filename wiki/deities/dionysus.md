@@ -97,6 +97,56 @@ In their madness, "they roamed over the whole Argive land, and afterwards, passi
 [^apd-dion-proetus-var]: "according to Acusilaus, because they disparaged the wooden image of Hera" (Bibliotheca 2.2.2, trans. J.G. Frazer)
 [^apd-dion-madness]: "the maidens raved more than ever, and besides that, the other women raved with them; for they also abandoned their houses, destroyed their own children, and flocked to the desert" (Bibliotheca 2.2.2, trans. J.G. Frazer)
 
+## In the Bibliotheca (Book 3)
+
+### Birth (3.4.3)
+
+Zeus loved Semele and bedded with her secretly from [Hera](hera.md). He agreed to do whatever she asked, and Hera deceived her into asking that Zeus come to her as he came when wooing Hera. Unable to refuse, "Zeus came to her bridal chamber in a chariot, with lightnings and thunderings, and launched a thunderbolt. But Semele expired of fright."[^apd-semele-death] Zeus snatched the sixth-month child from the fire and sewed it in his thigh, and at the proper time "undid the stitches and gave birth to Dionysus, and entrusted him to [Hermes](hermes.md)."[^apd-dion-thigh]
+
+Hermes conveyed the infant to Ino and Athamas, persuading them to rear him as a girl. But Hera drove them mad — Athamas hunted his son Learchus as a deer and killed him, and Ino threw her son Melicertes into a boiling cauldron, then sprang into the sea with the dead child (becoming Leucothea; the boy became Palaemon). Zeus eluded Hera's wrath by turning Dionysus into a kid, and Hermes brought him to the nymphs at Nysa in Asia, whom Zeus later changed into stars — the Hyades.[^apd-dion-ino]
+
+### Wanderings (3.5.1-3.5.3)
+
+Dionysus discovered the vine but was driven mad by Hera and roamed Egypt and Syria. He was purified by Rhea in Phrygia and learned the rites of initiation, then received the costume and set out through Thrace against the Indians.[^apd-dion-wander]
+
+**Lycurgus**, king of the Edonians, was the first to insult and expel him. Dionysus took refuge in the sea with [Thetis](thetis.md), and the Bacchanals were captured along with his Satyrs. But the Bacchanals were suddenly released, and Dionysus drove Lycurgus mad: "in his madness he struck his son Dryas dead with an axe, imagining that he was lopping a branch of a vine." When the land remained barren, an oracle declared it would bear fruit only if Lycurgus died. The Edonians bound him on Mount Pangaeum, where "by the will of Dionysus he died, destroyed by horses."[^apd-dion-lycurgus]
+
+At **[Thebes](../places/thebes.md)**, he forced the women to abandon their houses and rave in Bacchic frenzy on Cithaeron. **Pentheus**, who had succeeded [Cadmus](../heroes/cadmus.md) in the kingdom, tried to stop them and went to Cithaeron to spy. He was torn limb from limb by his own mother Agave, who thought he was a wild beast.[^apd-dion-pentheus]
+
+At Argos, because they did not honor him, he again drove the women mad — "they on the mountains devoured the flesh of the infants whom they carried at their breasts."[^apd-dion-argos-book3]
+
+### The Pirates (3.5.3)
+
+Wishing to cross from Icaria to Naxos, Dionysus hired a pirate ship of Tyrrhenians. They sailed past Naxos intending to sell him, but "he turned the mast and oars into snakes, and filled the vessel with ivy and the sound of flutes. And the pirates went mad, and leaped into the sea, and were turned into dolphins."[^apd-dion-pirates]
+
+### Rescuing Semele (3.5.3)
+
+Having been recognized as a god, Dionysus brought his mother up from Hades, named her Thyone, and "ascended up with her to heaven."[^apd-dion-semele-rescue]
+
+### Ariadne at Naxos (E.1.9)
+
+When [Theseus](../heroes/theseus.md) arrived at Naxos with [Ariadne](../heroes/ariadne.md), "Dionysus fell in love with Ariadne and carried her off; and having brought her to Lemnos he enjoyed her, and begat Thoas, Staphylus, Oenopion, and Peparethus."[^apd-dion-ariadne]
+
+[^apd-semele-death]: "Zeus came to her bridal chamber in a chariot, with lightnings and thunderings, and launched a thunderbolt. But Semele expired of fright" (Bibliotheca 3.4.3, trans. J.G. Frazer)
+
+[^apd-dion-thigh]: "Zeus, snatching the sixth-month abortive child from the fire, sewed it in his thigh. On the death of Semele... at the proper time Zeus undid the stitches and gave birth to Dionysus, and entrusted him to Hermes" (Bibliotheca 3.4.3, trans. J.G. Frazer)
+
+[^apd-dion-ino]: "Hera indignantly drove them mad, and Athamas hunted his elder son Learchus as a deer and killed him, and Ino threw Melicertes into a boiling cauldron... Zeus eluded the wrath of Hera by turning Dionysus into a kid, and Hermes took him and brought him to the nymphs who dwelt at Nysa in Asia, whom Zeus afterwards changed into stars and named them the Hyades" (Bibliotheca 3.4.3, trans. J.G. Frazer)
+
+[^apd-dion-wander]: "Dionysus discovered the vine, and being driven mad by Hera he roamed about Egypt and Syria. At first he was received by Proteus, king of Egypt, but afterwards he arrived at Cybela in Phrygia. And there, after he had been purified by Rhea and learned the rites of initiation, he received from her the costume" (Bibliotheca 3.5.1, trans. J.G. Frazer)
+
+[^apd-dion-lycurgus]: "in his madness he struck his son Dryas dead with an axe, imagining that he was lopping a branch of a vine, and when he had cut off his son's extremities, he recovered his senses... by the will of Dionysus he died, destroyed by horses" (Bibliotheca 3.5.1, trans. J.G. Frazer)
+
+[^apd-dion-pentheus]: "coming to Cithaeron to spy on the Bacchanals, he was torn limb from limb by his mother Agave in a fit of madness; for she thought he was a wild beast" (Bibliotheca 3.5.2, trans. J.G. Frazer)
+
+[^apd-dion-argos-book3]: "because they did not honor him, he drove the women mad, and they on the mountains devoured the flesh of the infants whom they carried at their breasts" (Bibliotheca 3.5.2, trans. J.G. Frazer)
+
+[^apd-dion-pirates]: "he turned the mast and oars into snakes, and filled the vessel with ivy and the sound of flutes. And the pirates went mad, and leaped into the sea, and were turned into dolphins" (Bibliotheca 3.5.3, trans. J.G. Frazer)
+
+[^apd-dion-semele-rescue]: "having brought up his mother from Hades and named her Thyone, he ascended up with her to heaven" (Bibliotheca 3.5.3, trans. J.G. Frazer)
+
+[^apd-dion-ariadne]: "Dionysus fell in love with Ariadne and carried her off; and having brought her to Lemnos he enjoyed her, and begat Thoas, Staphylus, Oenopion, and Peparethus" (Epitome 1.9, trans. J.G. Frazer)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** XI: "Artemis slew her [Ariadne] ere that in sea-girt Dia, by reason of the witness of Dionysus" — his testimony led to Ariadne's death at Artemis's hand[^od11-ariadne]
@@ -111,6 +161,12 @@ In their madness, "they roamed over the whole Argive land, and afterwards, passi
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.12: Drove the women of Argos mad; Melampus "healed them on condition of receiving part of the kingdom"[^apd-argos]
 - **[Bibliotheca](../sources/apollodorus.md)** 2.2.2: Proetus's daughters went mad "because they would not accept the rites of Dionysus"; the madness spread to all Argive women; Melampus cured them
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Sons Phanus and Staphylus listed as Argonauts[^apd-argonauts-dion]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.3: Birth — Zeus sews him in his thigh after Semele's death; entrusted to Hermes; reared as a girl by Ino and Athamas; turned into a kid to escape Hera; brought to nymphs at Nysa
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.1: Discovers the vine; driven mad by Hera; purified by Rhea in Phrygia; drives Lycurgus mad (kills own son with axe); Lycurgus destroyed by horses
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.2: Forces Theban women into Bacchic frenzy; Pentheus torn apart by his mother Agave; at Argos, mad women devour their own infants
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.3: Turns pirates' mast and oars into snakes; fills ship with ivy and flute-music; pirates become dolphins
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.3: Brings Semele up from Hades, names her Thyone, ascends to heaven with her
+- **[Bibliotheca](../sources/apollodorus.md)** E.1.9: Falls in love with Ariadne at Naxos; carries her off; fathers Thoas, Staphylus, Oenopion, and Peparethus
 
 [^apd-vine]: "Reigning over Calydon, Oeneus was the first who received a vine-plant from Dionysus" (Bibliotheca 1.8.1, trans. Frazer)
 [^apd-deianira]: "Deianira, who is said to have been begotten on Althaea by Dionysus" (Bibliotheca 1.8.1, trans. Frazer)

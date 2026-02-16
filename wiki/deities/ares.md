@@ -115,6 +115,14 @@ The [Bibliotheca](../sources/apollodorus.md) mentions that [Eos](eos.md) (Dawn) 
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Cycnus (son of Ares and Pelopia) challenged and was slain by Heracles at Itonus
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Penthesileia, the Amazon, is his daughter; comes to aid Troy and is killed by Achilles[^aeth-penth]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Telegony): Routs the army of Odysseus; Athena engages with him in battle until Apollo separates them[^tel-ares]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.1: A dragon guarding the spring of Ares at Thebes "was the offspring of Ares"; [Cadmus](../heroes/cadmus.md) slew it[^apd-ares-spring]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.2: [Cadmus](../heroes/cadmus.md) "served Ares for an eternal year" to atone for slaying the dragon; father of Harmonia with [Aphrodite](aphrodite.md), given in marriage to Cadmus by [Zeus](zeus.md)[^apd-ares-servitude]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.6.7: Menoeceus, son of Creon, "slew himself before the gates" as a sacrifice to Ares to ensure Theban victory in the Seven Against Thebes[^apd-ares-menoeceus]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.9.2: Possibly father of Parthenopaeus by [Atalanta](../heroes/atalanta.md) — "by Melanion, or Ares, Atalanta had a son Parthenopaeus"[^apd-ares-parth]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.2: Killed Halirrhothius, son of [Poseidon](poseidon.md), for attempting to violate his daughter Alcippe — "impeached by Poseidon, Ares was tried in the Areopagus before the twelve gods, and was acquitted"[^apd-ares-areopagus]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.8: Father of Tereus the Thracian, who married Procne and was turned into a hoopoe[^apd-ares-tereus]
+- **[Bibliotheca](../sources/apollodorus.md)** E.2.5: Gave [Oenomaus](../sources/apollodorus.md) "arms and horses" for his deadly chariot races against suitors of Hippodamia[^apd-ares-oenomaus]
+- **[Bibliotheca](../sources/apollodorus.md)** E.5.1: Penthesilea "daughter of Otrere and Ares" came to Troy, slew many including Machaon, was killed by [Achilles](../heroes/achilles.md)[^apd-ares-penthesilea]
 
 ## In the Bibliotheca (Book 2)
 
@@ -147,3 +155,11 @@ The Bibliotheca also names Ares as a possible father of Meleager: "Althaea had a
 
 [^aeth-penth]: Aethiopis, summary by Proclus: "The Amazon Penthesileia, the daughter of Ares and of Thracian race, comes to aid the Trojans, and after showing great prowess, is killed by Achilles"
 [^tel-ares]: Telegony, summary by Proclus: "Ares routs the army of Odysseus and Athena engages with Ares, until Apollo separates them"
+[^apd-ares-spring]: "he sent some of his companions to draw water from the spring of Ares. But a dragon, which some said was the offspring of Ares, guarded the spring and destroyed most of those that were sent" (Bibliotheca 3.4.1, trans. J.G. Frazer)
+[^apd-ares-servitude]: "Cadmus, to atone for the slaughter, served Ares for an eternal year; and the year was then equivalent to eight years of our reckoning" (Bibliotheca 3.4.2, trans. J.G. Frazer)
+[^apd-ares-menoeceus]: "Tiresias said that they should be victorious if Menoeceus, son of Creon, would offer himself freely as a sacrifice to Ares. On hearing that, Menoeceus, son of Creon, slew himself before the gates" (Bibliotheca 3.6.7, trans. J.G. Frazer)
+[^apd-ares-parth]: "by Melanion, or Ares, Atalanta had a son Parthenopaeus, who went to the war against Thebes" (Bibliotheca 3.9.2, trans. J.G. Frazer)
+[^apd-ares-areopagus]: "In attempting to violate Alcippe, Halirrhothius, son of Poseidon and a nymph Euryte, was detected and killed by Ares. Impeached by Poseidon, Ares was tried in the Areopagus before the twelve gods, and was acquitted" (Bibliotheca 3.14.2, trans. J.G. Frazer)
+[^apd-ares-tereus]: "he called in the help of Tereus, son of Ares, from Thrace" (Bibliotheca 3.14.8, trans. J.G. Frazer)
+[^apd-ares-oenomaus]: "he had arms and horses given him by Ares" (Bibliotheca E.2.5, trans. J.G. Frazer)
+[^apd-ares-penthesilea]: "Penthesilia, daughter of Otrere and Ares, accidentally killed Hippolyte and was purified by Priam. In battle she slew many, and amongst them Machaon, and was afterwards herself killed by Achilles" (Bibliotheca E.5.1, trans. J.G. Frazer)

@@ -167,6 +167,9 @@ During [Heracles](../heroes/heracles.md)' descent to [Hades](hades.md) for [Cerb
 
 [^apd-dem-isis]: "she set up an image of Demeter, whom the Egyptians called Isis, and Io likewise they called by the name of Isis" (Bibliotheca 2.1.3, trans. J.G. Frazer)
 [^apd-dem-owl]: "Demeter turned Ascalaphus into a short-eared owl" (Bibliotheca 2.5.12, trans. J.G. Frazer)
+[^apd-dem-arion]: "Adrastus alone was saved by his horse Arion. That horse Poseidon begot on Demeter, when in the likeness of a Fury she consorted with him" (Bibliotheca 3.6.8, trans. J.G. Frazer)
+[^apd-dem-iasion]: "Iasion loved Demeter, and in an attempt to defile the goddess he was killed by a thunderbolt" (Bibliotheca 3.12.1, trans. J.G. Frazer)
+[^apd-dem-eleusis2]: "Demeter was welcomed by Celeus at Eleusis" (Bibliotheca 3.14.7, trans. J.G. Frazer)
 
 ## Appearances
 
@@ -176,3 +179,6 @@ During [Heracles](../heroes/heracles.md)' descent to [Hades](hades.md) for [Cerb
 - **[Bibliotheca](../sources/apollodorus.md)** 1.5.1-1.5.3: Search with torches; Laughless Rock and Well of Fair Dances at Eleusis; Iambe's jest and the Thesmophoria; Demophon consumed in the fire (variant: Praxithea watches, not Metanira); Triptolemus given winged dragon chariot to sow wheat; pomegranate; Ascalaphus bears witness; one-third year with Hades
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Identified with Isis — "the Egyptians called Isis"
 - **[Bibliotheca](../sources/apollodorus.md)** 2.5.12: Turned Ascalaphus into a short-eared owl (variant of the rock punishment in 1.5.3)
+- **[Bibliotheca](../sources/apollodorus.md)** 3.6.8: Consorted with [Poseidon](poseidon.md) — "Poseidon begot on Demeter" the horse Arion, "when in the likeness of a Fury she consorted with him"[^apd-dem-arion]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.12.1: Iasion "loved Demeter, and in an attempt to defile the goddess he was killed by a thunderbolt"[^apd-dem-iasion]
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.7: "Demeter was welcomed by Celeus at Eleusis" — arrival in Attica during the reign of Pandion[^apd-dem-eleusis2]

@@ -231,6 +231,16 @@ After Heracles murdered Iphitus and sought purification at Delphi, "the Pythian 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.11: Taught Melampus divination at the Alpheus
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Served Admetus as thrall; yoked lion and boar; obtained favour of the [Fates](fates.md) for Admetus
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.26: Flashed lightning from the Melantian ridges, guiding the Argonauts to the island of Anaphe
+- **[Bibliotheca](../sources/apollodorus.md)** 3.1.2: Miletus, son of Apollo by Aria, at the centre of the quarrel between Minos, Sarpedon, and Rhadamanthys
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.6: Shot down Niobe's sons on Cithaeron while [Artemis](artemis.md) killed the daughters; Chloris the elder was saved (variant: Amyclas and Meliboea saved per Telesilla)
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.2: Hermes stole his cattle at Pieria; exchanged them for the lyre; then exchanged the shepherd's pipe for his golden wand and the art of divination
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.3: Killed Hyacinth involuntarily with the cast of a quoit — "Hyacinth was beloved of Apollo and killed by him involuntarily"
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.3: Cursed the raven and made him black instead of white for reporting Coronis's infidelity; killed Coronis; snatched the babe (Asclepius) from the funeral pyre and brought him to [Chiron](../creatures/chiron.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.4: [Zeus](zeus.md) smote Asclepius with a thunderbolt; Apollo slew the [Cyclopes](../creatures/cyclopes.md) in anger; Zeus would have sent him to Tartarus but at Leto's intercession ordered him to serve Admetus at Pherae for a year; "he caused all the cows to drop twins"
+- **[Bibliotheca](../sources/apollodorus.md)** 3.12.5: Cassandra — "Wishing to gain Cassandra's favours, Apollo promised to teach her the art of prophecy; she learned the art but refused her favours; hence Apollo deprived her prophecy of power to persuade"
+- **[Bibliotheca](../sources/apollodorus.md)** E.3.26: Thetis warned Achilles not to kill Tenes "because he himself would die by the hand of Apollo if he slew Tenes"
+- **[Bibliotheca](../sources/apollodorus.md)** E.5.3: Shot Achilles in the ankle at the Scaean gate — "he was shot with an arrow in the ankle by Alexander and Apollo"
+- **[Bibliotheca](../sources/apollodorus.md)** E.5.18: Sent serpents from the sea that devoured the sons of Laocoon
 
 [^od11-aloadae]: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" (Odyssey XI.6201-6203, trans. Butcher and Lang)
 [^od15-amphiaraus]: "Zeus and Apollo loved him with all manner of love; yet he reached not the threshold of old age, but died in Thebes by reason of a woman's gifts" (Odyssey XV.8207-8210, trans. Butcher and Lang)

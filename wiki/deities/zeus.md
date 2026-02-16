@@ -401,6 +401,28 @@ After Hera sent storms against Heracles as he sailed from [Troy](../places/troy.
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.8: Prolonged the night threefold; assumed Amphitryon's likeness to beget Heracles
 - **[Bibliotheca](../sources/apollodorus.md)** 2.6.2: Threw a thunderbolt between Heracles and Apollo fighting over the Delphic tripod
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.1: Hung Hera from Olympus for sending storms against Heracles
+- **[Bibliotheca](../sources/apollodorus.md)** 3.1.1: Turned into a tame bull, mounted Europa on his back, conveyed her through the sea to Crete; fathered Minos, Sarpedon, and Rhadamanthys
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.2: Gave Harmonia to [Cadmus](../heroes/cadmus.md) as wife; all gods attended the wedding
+- **[Bibliotheca](../sources/apollodorus.md)** 3.4.3: Bedded Semele secretly from Hera; launched thunderbolt that killed her; sewed the unborn Dionysus in his thigh; gave birth to him at the proper time; turned infant Dionysus into a kid to escape Hera
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.4: Sent Cadmus and Harmonia to the Elysian Fields after transforming them into serpents
+- **[Bibliotheca](../sources/apollodorus.md)** 3.5.5: Fathered Zethus and Amphion on Antiope, daughter of Nycteus
+- **[Bibliotheca](../sources/apollodorus.md)** 3.6.7: Smote Capaneus with a thunderbolt as he scaled the walls of Thebes; cleft the earth for Amphiaraus to vanish with his chariot; smote Idas with a thunderbolt
+- **[Bibliotheca](../sources/apollodorus.md)** 3.8.1: Came to Lycaon's sons as a day-labourer to test their impiety; upset the table at Trapezus; blasted Lycaon and all his sons except Nyctimus
+- **[Bibliotheca](../sources/apollodorus.md)** 3.8.2: Loved Callisto; assumed the likeness of Artemis (or Apollo); snatched the babe Arcas and gave it to Maia; turned Callisto into the constellation Bear
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.1-3.10.2: Consorted with all daughters of Atlas (the Pleiades); fathered Hermes on Maia; fathered Lacedaemon on Taygete
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.4: Smote Asclepius with a thunderbolt for raising the dead
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.7: In the form of a swan consorted with Leda; fathered Pollux and [Helen](../heroes/helen.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 3.11.2: Smote Idas with a thunderbolt in the Dioscuri quarrel; permitted Pollux and Castor to be every other day among gods and mortals
+- **[Bibliotheca](../sources/apollodorus.md)** 3.12.1: Killed Iasion with a thunderbolt for attempting to defile [Demeter](demeter.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 3.12.2: Caught up Ganymede for his beauty and made him cupbearer in heaven
+- **[Bibliotheca](../sources/apollodorus.md)** 3.12.3: Threw the Palladium from heaven into Ilium along with Ate; interposed the aegis to protect Athena's companion Pallas
+- **[Bibliotheca](../sources/apollodorus.md)** 3.13.5: Withdrew from rivalry for Thetis after prophecy that her son would be mightier than his father
+- **[Bibliotheca](../sources/apollodorus.md)** 3.14.1: Parted Poseidon and Athena's contest for Athens; appointed the twelve gods as arbiters
+- **[Bibliotheca](../sources/apollodorus.md)** E.1.20: Made a cloud in likeness of Hera to test Ixion; bound Ixion to a wheel of winds
+- **[Bibliotheca](../sources/apollodorus.md)** E.2.12: Sent Hermes to Atreus; made the sun set in the east to expose Thyestes' usurpation
+- **[Bibliotheca](../sources/apollodorus.md)** E.3.2: Commanded Hermes to lead Hera, Athena, and Aphrodite to Paris for the Judgment
+- **[Bibliotheca](../sources/apollodorus.md)** E.5.15: The Wooden Horse inscribed "For their return home, the Greeks dedicate this thank-offering to Athena"
+- **[Bibliotheca](../sources/apollodorus.md)** E.6.5: Sent a tempest against the Greeks at Athena's entreaty
 
 [^apd-flood]: "Zeus by pouring heavy rain from heaven flooded the greater part of Greece, so that all men were destroyed, except a few who fled to the high mountains in the neighborhood" (Bibliotheca 1.7.2, trans. Frazer)
 [^apd-alcyone]: "he said that his wife was Hera, and she said that her husband was Zeus. But Zeus turned them into birds; her he made a kingfisher and him a gannet" (Bibliotheca 1.7.4, trans. Frazer)

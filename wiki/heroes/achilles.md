@@ -189,6 +189,48 @@ At the wedding of Peleus and [Thetis](../deities/thetis.md) -- the occasion wher
 
 [^cyp-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5, trans. H.G. Evelyn-White)
 
+## In the Bibliotheca (3.13.5-3.13.8, E.3-E.5)
+
+### Birth and Youth
+
+[Zeus](../deities/zeus.md) and [Poseidon](../deities/poseidon.md) had been rivals for [Thetis](../deities/thetis.md), but withdrew when Themis prophesied that her son would be mightier than his father. [Chiron](../creatures/chiron.md) advised Peleus to seize her despite her shape-shifting — "she turned, now into fire, now into water, and now into a beast" — and he held fast until she resumed her form.[^apd-ach-thetis] At the wedding on Pelion, "the gods celebrated the marriage with feast and song," and Chiron gave Peleus an ashen spear, while Poseidon gave him the immortal horses Balius and Xanthus.[^apd-ach-wedding]
+
+Thetis tried to make the infant immortal by hiding him in fire at night and anointing him with ambrosia by day. Peleus saw the child writhing in the fire and cried out; "Thetis, thus prevented from accomplishing her purpose, forsook her infant son and departed to the Nereids."[^apd-ach-fire] Peleus brought the child to Chiron, who "fed him on the inwards of lions and wild swine and the marrows of bears, and named him Achilles, because he had not put his lips to the breast."[^apd-ach-name]
+
+### Disguise and Discovery
+
+When Achilles was nine, Calchas declared Troy could not be taken without him. Thetis, foreseeing his death, disguised him in female garb and entrusted him to Lycomedes on Scyros, where he had an intrigue with Deidamia and fathered Pyrrhus (later called Neoptolemus). Odysseus discovered him "by the blast of a trumpet" and Achilles went to Troy.[^apd-ach-scyros]
+
+### The Trojan War
+
+Achilles was admiral of the fleet at fifteen.[^apd-ach-admiral] At Mysia, Telephus fled before Achilles' charge and was wounded in the thigh; later Achilles healed him "by scraping off the rust of his Pelian spear."[^apd-ach-telephus]
+
+In the war itself, Achilles withdrew in anger over Briseis. When the ships burned, he sent [Patroclus](patroclus.md) in his armour, who killed Sarpedon but was killed by Hector. Achilles received new armour from [Hephaestus](../deities/hephaestus.md), slew Hector in single combat, and "fastening his ankles to his chariot dragged him to the ships."[^apd-ach-hector]
+
+### Death
+
+After killing Penthesilea (and falling in love with her after death), Achilles "was shot with an arrow in the ankle by Alexander and Apollo at the Scaean gate."[^apd-ach-death] He was buried with Patroclus on the White Isle, "mixing the bones of the two together."[^apd-ach-burial]
+
+[^apd-ach-thetis]: "she turned, now into fire, now into water, and now into a beast, he did not let her go till he saw that she had resumed her former shape" (Bibliotheca 3.13.5, trans. J.G. Frazer)
+
+[^apd-ach-wedding]: "the gods celebrated the marriage with feast and song. And Chiron gave Peleus an ashen spear, and Poseidon gave him horses, Balius and Xanthus, and these were immortal" (Bibliotheca 3.13.5, trans. J.G. Frazer)
+
+[^apd-ach-fire]: "Thetis, thus prevented from accomplishing her purpose, forsook her infant son and departed to the Nereids" (Bibliotheca 3.13.6, trans. J.G. Frazer)
+
+[^apd-ach-name]: "Chiron... fed him on the inwards of lions and wild swine and the marrows of bears, and named him Achilles, because he had not put his lips to the breast; but before that time his name was Ligyron" (Bibliotheca 3.13.6, trans. J.G. Frazer)
+
+[^apd-ach-scyros]: "the secret of Achilles was betrayed, and Ulysses, seeking him at the court of Lycomedes, discovered him by the blast of a trumpet" (Bibliotheca 3.13.8, trans. J.G. Frazer)
+
+[^apd-ach-admiral]: "Achilles was admiral, being fifteen years old" (Epitome 3.16, trans. J.G. Frazer)
+
+[^apd-ach-telephus]: "Achilles healed him by scraping off the rust of his Pelian spear" (Epitome 3.20, trans. J.G. Frazer)
+
+[^apd-ach-hector]: "Achilles slew Hector in single combat, and fastening his ankles to his chariot dragged him to the ships" (Epitome 4.7, trans. J.G. Frazer)
+
+[^apd-ach-death]: "he was shot with an arrow in the ankle by Alexander and Apollo at the Scaean gate" (Epitome 5.3, trans. J.G. Frazer)
+
+[^apd-ach-burial]: "they buried him with Patroclus in the White Isle, mixing the bones of the two together" (Epitome 5.5, trans. J.G. Frazer)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I: Quarrel with Agamemnon; [Athena](../deities/athena.md) restrains him ("terribly shone her eyes"); weeps by the sea; [Thetis](../deities/thetis.md) rises "like a mist"; supplicates [Zeus](../deities/zeus.md) on his behalf

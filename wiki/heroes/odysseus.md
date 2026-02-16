@@ -175,6 +175,42 @@ Telegonus, son of Odysseus and [Circe](../deities/circe.md), searching for his f
 [^tel-death]: Telegony, summary by Proclus: "Odysseus comes out to defend his country, but is killed by his son unwittingly" (trans. H.G. Evelyn-White)
 [^tel-end]: Telegony, summary by Proclus: "Circe makes them immortal, and Telegonus marries Penelope, and Telemachus Circe" (trans. H.G. Evelyn-White)
 
+## In the Bibliotheca (3.10.8-3.10.9, E.3-E.7)
+
+### The Oath of the Suitors
+
+When the kings of Greece came to woo [Helen](helen.md), Odysseus proposed the oath that all suitors would defend whichever man was chosen. In return, Tyndareus helped him win Penelope.[^apd-od-oath]
+
+### Feigned Madness
+
+When the Greeks mustered for Troy, Odysseus feigned madness to avoid the war. Palamedes proved the deception by snatching Telemachus from Penelope's arms and drawing his sword as if to kill the boy — "in his fear for the child Ulysses confessed that his madness was pretended, and he went to the war."[^apd-od-madness] Odysseus later took revenge by framing Palamedes for treason.[^apd-od-palamedes]
+
+### The War and the Fall
+
+Odysseus stole the Palladium from Troy with [Diomedes](diomedes.md).[^apd-od-palladium] He invented the Wooden Horse and persuaded the bravest to enter it; at the inscription he wrote: "For their return home, the Greeks dedicate this thank-offering to [Athena](../deities/athena.md)." When Helen circled the horse imitating the voices of the Greek wives, "Anticlus would have answered" but Odysseus held his mouth shut.[^apd-od-horse]
+
+### The Return
+
+The Epitome summarizes the whole Odyssey: the Cicones, Lotus-eaters, Polyphemus (origin of [Poseidon](../deities/poseidon.md)'s wrath), Aeolus, the Laestrygones, [Circe](../deities/circe.md) (fathered Telegonus), the Underworld, [Sirens](../creatures/sirens.md), [Scylla](../creatures/scylla.md) and Charybdis, the cattle of the Sun, Calypso, the Phaeacians, and the slaughter of the suitors.[^apd-od-return]
+
+### Death
+
+Telegonus, learning from Circe that he was Odysseus's son, sailed to Ithaca. When he drove off some cattle and Odysseus defended them, "Telegonus wounded him with the spear he had in his hands, which was barbed with the spine of a sting-ray, and Ulysses died of the wound." Telegonus then married Penelope, and Circe sent them both to the Islands of the Blest.[^apd-od-death]
+
+[^apd-od-oath]: "Ulysses told him to exact an oath from all the suitors that they would defend the favoured bridegroom against any wrong" (Bibliotheca 3.10.9, trans. J.G. Frazer)
+
+[^apd-od-madness]: "in his fear for the child Ulysses confessed that his madness was pretended, and he went to the war" (Epitome 3.7, trans. J.G. Frazer)
+
+[^apd-od-palamedes]: "Ulysses compelled him to write a letter of treasonable purport ostensibly sent by Priam to Palamedes; and having buried gold in the quarters of Palamedes, he dropped the letter in the camp" (Epitome 3.8, trans. J.G. Frazer)
+
+[^apd-od-palladium]: "Ulysses went with Diomedes by night to the city... he with her help stole away the Palladium" (Epitome 5.13, trans. J.G. Frazer)
+
+[^apd-od-horse]: "he invented the construction of the Wooden Horse and suggested it to Epeus" (Epitome 5.14, trans. J.G. Frazer)
+
+[^apd-od-return]: "Ulysses, as some say, wandered about Libya, or, as some say, about Sicily, or, as others say, about the ocean or about the Tyrrhenian Sea" (Epitome 7.1, trans. J.G. Frazer)
+
+[^apd-od-death]: "Telegonus wounded him with the spear he had in his hands, which was barbed with the spine of a sting-ray, and Ulysses died of the wound" (Epitome 7.36, trans. J.G. Frazer)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Rallies the army at [Athena](../deities/athena.md)'s urging; his ship in the centre of the fleet; "Odysseus of many devices"
