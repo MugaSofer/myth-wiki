@@ -218,6 +218,16 @@ To ensure Dido's protection of Aeneas, Venus devised a plan to inflame the queen
 [^aen-aph-jupiter]: "Smiling on her with that look which clears sky and storms, the parent of men and gods lightly kissed his daughter's lips" (Aeneid 1.254-256); Jupiter prophesies: "Spare thy fear, Cytherean; thy people's destiny abides unshaken"
 [^aen-aph-cupid]: "when in festal cheer, amid royal dainties and Bacchic juice, Dido shall take thee to her lap, shall fold thee in her clasp and kiss thee close and sweet, thou mayest imbreathe a hidden fire and unsuspected poison" (Aeneid 1.685-688)
 
+### True Divine Form at Troy's Fall (2.589-623)
+
+During the sack of Troy, Venus revealed herself to [Aeneas](../heroes/aeneas.md) in her full divine radiance — the only time in the *Aeneid* she appears undisguised: "my mother came visibly before me, clear to sight as never till then, and shone forth in pure radiance through the night, gracious, evident in godhead, in shape and stature such as she is wont to appear to the heavenly people."[^aen-aph-trueform] She caught him by the hand and restrained him from killing [Helen](../heroes/helen.md), speaking "with roseate lips."
+
+She then lifted the veil from his mortal sight to reveal the gods destroying [Troy](../places/troy.md): "[Neptune](../deities/poseidon.md) with his great trident shakes wall and foundation out of their places... Here [Juno](../deities/hera.md) in all her terror holds the Scaean gates... Tritonian [Pallas](../deities/athena.md) is planted in glittering halo and Gorgonian terror."[^aen-aph-revelation] She urged him to flee: "Haste away, O son, and put an end to the struggle. I will never desert thee; I will set thee safe in the courts of thy father's house."[^aen-aph-promise]
+
+[^aen-aph-trueform]: "my mother came visibly before me, clear to sight as never till then, and shone forth in pure radiance through the night, gracious, evident in godhead, in shape and stature such as she is wont to appear to the heavenly people" (Aeneid 2.589-593, trans. J.W. Mackail)
+[^aen-aph-revelation]: "Neptune with his great trident shakes wall and foundation out of their places, and upturns all the city from her base. Here Juno in all her terror holds the Scaean gates... Tritonian Pallas is planted in glittering halo and Gorgonian terror" (Aeneid 2.610-616)
+[^aen-aph-promise]: "Haste away, O son, and put an end to the struggle. I will never desert thee; I will set thee safe in the courts of thy father's house" (Aeneid 2.619-620)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 16, 188-206: Mentioned in invocation; birth from sea-foam
@@ -235,6 +245,7 @@ To ensure Dido's protection of Aeneas, Venus devised a plan to inflame the queen
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Her garments "which the Graces and Hours had made for her and dyed in flowers of spring — such flowers as the Seasons wear — in crocus and hyacinth and flourishing violet and the rose's lovely bloom";[^cyp-garments] competes with Hera and Athena in the Judgment of Paris; Paris chooses her and she promises him Helen[^cyp-judgment]
 - **[Metamorphoses](../sources/metamorphoses.md)** 10.519-739: Wounded by Cupid's arrow; loved Adonis; abandoned heaven to hunt with him; warned against fierce beasts; told tale of Atalanta/Hippomenes and golden apples; Adonis gored by boar; tore her garments in grief; sprinkled nectar on his blood; transformed him to anemone
 - **[Aeneid](../sources/aeneid.md)** I: Weeps before Jupiter for Aeneas's fate; disguises herself as a huntress; divine appearance when she turns away ("her neck shone roseate, her immortal tresses breathed the fragrance of deity"); wraps Aeneas in cloud of invisibility; sends Cupid disguised as Ascanius to inflame Dido with love
+- **[Aeneid](../sources/aeneid.md)** II: Appears in true divine form ("clear to sight as never till then... in shape and stature such as she is wont to appear to the heavenly people"); restrains Aeneas from killing Helen; reveals gods destroying Troy; promises to guide him home
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.4: Cursed [Eos](eos.md) (Dawn) with perpetual love for mortals, because Eos had bedded with [Ares](ares.md)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.1: Daughter of [Zeus](zeus.md) and [Dione](dione.md) (variant from the Theogony's birth from Uranus)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.17: Cursed the Lemnian women with a noisome smell — "she visited them with a noisome smell; therefore their spouses took captive women from the neighboring country of Thrace and bedded with them"[^apd-lemnos]

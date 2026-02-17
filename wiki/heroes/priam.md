@@ -66,6 +66,21 @@ The victory sparked conflict: "In anger Deiphobus drew his sword against him, bu
 [^hyg-altar]: "In anger Deiphobus drew his sword against him, but he leaped to the altar of Zeus Herceus" (Fabulae §91, trans. Mary Grant)
 [^hyg-return]: "When Cassandra prophetically declared he was her brother, Priam acknowledged him and received him into the palace" (Fabulae §91, trans. Mary Grant)
 
+## In the [Aeneid](../sources/aeneid.md)
+
+### The Death of Priam (2.506-558)
+
+The [Aeneid](../sources/aeneid.md) gives the most detailed account of Priam's death. As Troy fell, Priam donned his armour despite his age: "the old man idly fastens round his aged trembling shoulders his long disused armour, girds on the unavailing sword, and advances on his death among the thronging foe."[^aen-pr-armour] [Hecuba](hecuba.md) tried to dissuade him, drawing him to the altar: "this altar will protect us all, or thou wilt share our death."[^aen-pr-hecuba]
+
+Neoptolemus (Pyrrhus) killed Priam's son Polites before his eyes. Priam hurled a weak spear and rebuked him: "Ah, for thy crime, for this thy hardihood, may the gods, if there is goodness in heaven to care for aught such, pay thee in full thy worthy meed... not such to a foe was the Achilles whose parentage thou beliest; but he revered a suppliant's right and trust, restored to the tomb Hector's pallid corpse, and sent me back to my realm."[^aen-pr-rebuke]
+
+Neoptolemus dragged him "quivering to the very altar, slipping in the pool of his child's blood, and wound his left hand in his hair, while in his right the sword flashed out and plunged to the hilt in his side." Aeneas reflects: "This was the end of Priam's fortunes... once magnificent lord over so many peoples and lands of Asia. The great corpse lies along the shore, a head severed from the shoulders and a body without a name."[^aen-pr-death]
+
+[^aen-pr-armour]: "the old man idly fastens round his aged trembling shoulders his long disused armour, girds on the unavailing sword, and advances on his death among the thronging foe" (Aeneid 2.509-511, trans. J.W. Mackail)
+[^aen-pr-hecuba]: "this altar will protect us all, or thou wilt share our death" (Aeneid 2.524)
+[^aen-pr-rebuke]: "not such to a foe was the Achilles whose parentage thou beliest; but he revered a suppliant's right and trust, restored to the tomb Hector's pallid corpse, and sent me back to my realm" (Aeneid 2.540-543)
+[^aen-pr-death]: "drew him quivering to the very altar, slipping in the pool of his child's blood, and wound his left hand in his hair, while in his right the sword flashed out and plunged to the hilt in his side. This was the end of Priam's fortunes... once magnificent lord over so many peoples and lands of Asia. The great corpse lies along the shore, a head severed from the shoulders and a body without a name" (Aeneid 2.550-558)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Watches the duel from the walls; swears the oath
@@ -79,6 +94,7 @@ The victory sparked conflict: "In anger Deiphobus drew his sword against him, bu
 - **[Fabulae](../sources/hyginus.md)** §89: Heracles slew Laomedon after betrayal; gave kingdom to infant son Podarces; renamed Priam "from being redeemed"
 - **[Fabulae](../sources/hyginus.md)** §90: List of fifty-five children including Hector, Deiphobus, Alexander (Paris), Cassandra, Polites, Troilus, Creusa
 - **[Fabulae](../sources/hyginus.md)** §91: Hecuba's firebrand dream; Paris exposed and raised by shepherds; won funeral games held in his own honor; recognized by Cassandra; received into palace
+- **[Aeneid](../sources/aeneid.md)** II: Dons armour despite old age; Hecuba draws him to the altar; watches Polites killed by Neoptolemus; hurls a feeble spear and rebukes Neoptolemus ("not such to a foe was the Achilles whose parentage thou beliest"); dragged to the altar and killed; "a head severed from the shoulders and a body without a name"
 
 [^apd-line]: "Tros called the country Troy after himself, and marrying Callirrhoe, daughter of Scamander, he begat a daughter Cleopatra, and sons, Ilus, Assaracus, and Ganymede" (Bibliotheca 3.12.2, trans. J.G. Frazer)
 [^apd-name]: "after that Ilium was captured by Hercules, as we have related a little before, Podarces, who was called Priam, came to the throne" (Bibliotheca 3.12.5, trans. J.G. Frazer)

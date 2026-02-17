@@ -127,6 +127,23 @@ Aeneas is characterised by a tension between outward composure and inner anguish
 [^aen-ae-rally]: "Through chequered fortunes, through many perilous ways, we steer for Latium, where destiny points us a quiet home" (Aeneid 1.204-205)
 [^aen-ae-godlike]: "Aeneas stood discovered in sheen of brilliant light, like a god in face and shoulders; for his mother's self had shed on her son the grace of clustered locks, the radiant light of youth, and the lustre of joyous eyes" (Aeneid 1.588-591)
 
+### The Fall of Troy (Book II)
+
+Aeneas narrates the destruction of Troy to Dido's court. The Greeks left the wooden horse, "ribbed with sawn fir," built by "Pallas' divine craft," while feigning departure. Laocoön warned against it — "I fear the Grecians even when they offer gifts" — but was killed along with his sons by two monstrous serpents sent from the sea, which afterwards "seek the fierce Tritonian's citadel, and take shelter under the goddess' feet."[^aen-ae-laocoon]
+
+[Venus](../deities/aphrodite.md) appeared to Aeneas in her full divine radiance during the sack, the one time she revealed her true form directly: "my mother came visibly before me, clear to sight as never till then, and shone forth in pure radiance through the night, gracious, evident in godhead, in shape and stature such as she is wont to appear to the heavenly people."[^aen-ae-venus-true] She restrained him from killing [Helen](helen.md) and revealed the gods destroying Troy: "[Neptune](../deities/poseidon.md) with his great trident shakes wall and foundation out of their places... Juno in all her terror holds the Scaean gates... Tritonian Pallas is planted in glittering halo and Gorgonian terror."[^aen-ae-gods-destroy]
+
+The death of Priam at Neoptolemus's hands is recounted in vivid detail. Priam, seeing his son Polites killed before him, hurled a feeble spear and rebuked Neoptolemus: "not such to a foe was the Achilles whose parentage thou beliest; but he revered a suppliant's right and trust."[^aen-ae-priam]
+
+The flight from Troy defines Aeneas's character. He carried his aged father Anchises on his shoulders and led his son Iülus by the hand: "beloved father, lean on my neck; these shoulders of mine will sustain thee, nor will so dear a burden weigh me down."[^aen-ae-burden] His wife Creusa was lost in the confusion. Her ghost appeared to him and prophesied his future in Italy: "there prosperity awaits thee, and a kingdom, and a king's daughter for thy wife."[^aen-ae-creusa]
+
+[^aen-ae-laocoon]: "I fear the Grecians even when they offer gifts" (Aeneid 2.49); the serpents "seek the fierce Tritonian's citadel, and take shelter under the goddess' feet beneath the circle of her shield" (Aeneid 2.226-227, trans. J.W. Mackail)
+[^aen-ae-venus-true]: "my mother came visibly before me, clear to sight as never till then, and shone forth in pure radiance through the night, gracious, evident in godhead, in shape and stature such as she is wont to appear to the heavenly people" (Aeneid 2.589-593)
+[^aen-ae-gods-destroy]: "Neptune with his great trident shakes wall and foundation out of their places, and upturns all the city from her base. Here Juno in all her terror holds the Scaean gates... Tritonian Pallas is planted in glittering halo and Gorgonian terror" (Aeneid 2.610-616)
+[^aen-ae-priam]: "not such to a foe was the Achilles whose parentage thou beliest; but he revered a suppliant's right and trust, restored to the tomb Hector's pallid corpse, and sent me back to my realm" (Aeneid 2.540-543)
+[^aen-ae-burden]: "beloved father, lean on my neck; these shoulders of mine will sustain thee, nor will so dear a burden weigh me down" (Aeneid 2.707-708)
+[^aen-ae-creusa]: "there prosperity awaits thee, and a kingdom, and a king's daughter for thy wife. Dispel these tears for thy beloved Creüsa" (Aeneid 2.781-784)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### The Flight from Troy (13.623-631)
