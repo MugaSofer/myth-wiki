@@ -83,7 +83,7 @@ In [Iliad](../sources/iliad.md) Book V, Dione tells [Aphrodite](aphrodite.md) th
 
 ### Leading the Trojans (Book V)
 
-Ares enters the battle on the Trojan side at [Apollo](apollo.md)'s urging, "in the likeness of fleet Akamas, captain of the Thracians." He leads the Trojans alongside the personified Enyo, "she bringing ruthless turmoil of war, the while Ares wielded in his hands his monstrous spear, and ranged now before Hector's face, and now behind."[^il5-leading]
+Ares enters the battle on the Trojan side at [Apollo](apollo.md)'s urging, "in the likeness of fleet Akamas, captain of the Thracians." He leads the Trojans alongside the personified Enyo, "she bringing ruthless turmoil of war, the while Ares wielded in his hands his monstrous spear, and ranged now before [Hector](../heroes/hector.md)'s face, and now behind."[^il5-leading]
 
 ### Wounded by Diomedes and Athena
 

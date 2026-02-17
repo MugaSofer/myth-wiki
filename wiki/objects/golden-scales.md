@@ -18,7 +18,7 @@ The scales are made of gold, held by their centre, and loaded with "fates of dea
 
 At midday during the general battle, Zeus uses the scales to determine the outcome between Greeks and Trojans: "when the sun bestrode mid-heaven, then did the Father balance his golden scales, and put therein two fates of death that layeth men at their length, one for horse-taming Trojans, one for mail-clad Achaians; and he took the scale-yard by the midst and lifted it, and the Achaians' day of destiny sank down."[^il8-scales]
 
-### Weighing Achilles and Hector (Book XXII)
+### Weighing Achilles and [Hector](../heroes/hector.md) (Book XXII)
 
 Before the final duel, Zeus weighs the fates of the two champions individually: "then the Father hung his golden balances, and set therein two lots of dreary death, one of Achilles, one of horse-taming Hector, and held them by the midst and poised. Then Hector's fated day sank down, and fell to the house of [Hades](../deities/hades.md), and Phoebus [Apollo](../deities/apollo.md) left him."[^il22-scales]
 

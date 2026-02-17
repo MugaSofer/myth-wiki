@@ -25,7 +25,7 @@ Telamon also had a son Teucer by Hesione, daughter of Laomedon, whom he received
 
 Ajax brought twelve ships from Salamis.[^apd-ships] In the fighting, he was a dominant figure:
 
-- When [Hector](../sources/apollodorus.md) "challenged the bravest to single combat, many came forward, but the lot fell on Ajax, and he did doughty deeds; but night coming on, the heralds parted them."[^apd-duel]
+- When [Hector](hector.md) "challenged the bravest to single combat, many came forward, but the lot fell on Ajax, and he did doughty deeds; but night coming on, the heralds parted them."[^apd-duel]
 - "Ajax having retreated, he [Hector] set fire to the ships."[^apd-retreat]
 - After [Patroclus](patroclus.md) fell, "Ajax with difficulty, by performing feats of valor, rescued the body," while [Odysseus](odysseus.md) fought the assailants.[^apd-rescue]
 - At Achilles' death, "Ajax killed Glaucus, and gave the arms to be conveyed to the ships, but the body he carried, in a shower of darts, through the midst of the enemy."[^apd-achilles-body]
