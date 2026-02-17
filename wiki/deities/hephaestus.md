@@ -199,6 +199,29 @@ The [Metamorphoses](../sources/metamorphoses.md) retells [Hephaestus](hephaestus
 [^met-heph-chains]: "he set to file out chains of brass, delicate, fine, from which to fashion nets invisible, filmy of mesh and airy as the thread of insect-web, that from the rafter swings" (Metamorphoses 4.174-179, trans. Brookes More)
 [^met-heph-cuckold]: "the Lemnian cuckold opened wide the folding ivory doors and called the Gods,—to witness. There they lay disgraced and bound" (Metamorphoses 4.184-186, trans. Brookes More)
 
+## In the [Aeneid](../sources/aeneid.md)
+
+### Forging the Arms of Aeneas (8.370-453)
+
+[Venus](aphrodite.md) comes to her husband Vulcan's golden bridal chamber and asks him to forge arms for [Aeneas](../heroes/aeneas.md). She clasps him "in the soft embrace of her snowy arms. He suddenly caught the wonted flame, and the heat known of old pierced him to the heart and overran his melting frame."[^aen-heph-flame] He agrees without hesitation: "whatever charge I can undertake in my craft, in aught that may be made of iron or molten electrum, whatever fire and air can do, cease thou to entreat as doubtful of thy strength."[^aen-heph-promise]
+
+He rises to his smithy on the volcanic island near Sicily: "the vaulted and thunderous Aetnean caverns are hollowed out for Cyclopean forges, the strong strokes on the anvils echo in groans, ore of steel hisses in the vaults, and the fire pants in the furnaces: the house of Vulcan, and Vulcania the land's name."[^aen-heph-smithy] There the [Cyclopes](../creatures/cyclopes.md) — Brontes, Steropes, and Pyracmon — were already at work forging [Zeus](zeus.md)'s thunderbolts ("three coils of frozen rain, three of watery mist... three of ruddy fire and winged south wind"), a chariot for [Ares](ares.md), and the [aegis](../objects/aegis.md) for [Athena](athena.md) ("the golden serpent-scales of the awful aegis... the Gorgon head with severed neck and rolling eyes").[^aen-heph-cyclopes]
+
+Vulcan commands them to stop and turn to the new task: "a warrior's armour must be made. Now must strength, now quickness of hand be tried, now all our art lend her guidance."[^aen-heph-command]
+
+### The Shield of Aeneas (8.608-731)
+
+Venus brings the finished arms to Aeneas: helmet "dread with plumes and spouting flame," smooth greaves of electrum and gold, a spear, and the shield.[^aen-heph-arms] On the shield Vulcan had "fashioned the story of Italy and the triumphs of the Romans, not witless of prophecy or ignorant of the age to be" — depicting the she-wolf and twins of Romulus, the rape of the Sabines, the siege of Porsena, Manlius defending the Capitol, the battle of Actium with Augustus and Agrippa against Antony and Cleopatra, and Augustus's triple triumph.[^aen-heph-shield] Aeneas, "rejoicing in the portraiture of unknown history, lifts on his shoulder the destined glories of his children."[^aen-heph-lifts]
+
+[^aen-heph-flame]: "He suddenly caught the wonted flame, and the heat known of old pierced him to the heart and overran his melting frame: even as when, bursting from the thunder peal, a sparkling cleft of fire shoots through the storm-clouds with dazzling light" (Aeneid 8.389-392, trans. J.W. Mackail)
+[^aen-heph-promise]: "whatever charge I can undertake in my craft, in aught that may be made of iron or molten electrum, whatever fire and air can do, cease thou to entreat as doubtful of thy strength" (Aeneid 8.401-404)
+[^aen-heph-smithy]: "the vaulted and thunderous Aetnean caverns are hollowed out for Cyclopean forges, the strong strokes on the anvils echo in groans, ore of steel hisses in the vaults, and the fire pants in the furnaces: the house of Vulcan, and Vulcania the land's name" (Aeneid 8.419-422)
+[^aen-heph-cyclopes]: "In the vast cavern the Cyclopes were forging iron, Brontes and Steropes and Pyracmon with bared limbs. Shaped in their hands was a thunderbolt, in part already polished, such as the Father of Heaven hurls down on earth in multitudes" (Aeneid 8.424-429)
+[^aen-heph-command]: "a warrior's armour must be made. Now must strength, now quickness of hand be tried, now all our art lend her guidance. Fling off delay" (Aeneid 8.441-443)
+[^aen-heph-arms]: "the helmet, dread with plumes and spouting flame, as when a blue cloud takes fire in the sunbeams and gleams afar; then the smooth greaves of electrum and refined gold, the spear, and the shield's ineffable design" (Aeneid 8.620-625)
+[^aen-heph-shield]: "the Lord of Fire had fashioned the story of Italy and the triumphs of the Romans, not witless of prophecy or ignorant of the age to be; there all the race of Ascanius' future seed, and their wars fought one by one" (Aeneid 8.626-629)
+[^aen-heph-lifts]: "rejoicing in the portraiture of unknown history, lifts on his shoulder the destined glories of his children" (Aeneid 8.730-731)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea
@@ -231,6 +254,7 @@ The [Metamorphoses](../sources/metamorphoses.md) retells [Hephaestus](hephaestus
 - **[Bibliotheca](../sources/apollodorus.md)** E.2.9: Purified Pelops — "when Pelops had reached the Ocean and been cleansed by Hephaestus"[^apd-heph-pelops]
 - **[Fabulae](../sources/hyginus.md)** §148: Knew Venus secretly lying with Mars; made adamant chain around bed to catch Mars; they fell into snare; Sol reported it; Vulcan saw them naked and summoned all gods; shame frightened Mars; Harmonia born from their embrace; gave Harmonia robe "dipped in crimes" with Minerva
 - **[Fabulae](../sources/hyginus.md)** §166: Freed Hera from hanging chair; obtained freedom of choice from Zeus; Neptune urged him to ask for Minerva in marriage; granted; Minerva defended virginity with arms; his seed fell to earth producing Erichthonius
+- **[Aeneid](../sources/aeneid.md)** VIII: Venus seduces him into forging arms for Aeneas; his Aetnean smithy with Cyclopes (Brontes, Steropes, Pyracmon) forging thunderbolts, Mars's chariot, Athena's aegis; commands them to make warrior's armour; fashions the Shield of Aeneas depicting Rome's future history (she-wolf, Sabines, Actium, Augustus's triumph)
 - **[Bibliotheca](../sources/apollodorus.md)** E.4.7: Brought armour to [Achilles](../heroes/achilles.md) and dried up the river Scamander — "a suit of armour having been brought him from Hephaestus" and "Hephaestus dried up the streams of the river, after chasing them with a mighty flame"[^apd-heph-trojan]
 
 [^apd-prometheus]: "Zeus ordered Hephaestus to nail his body to Mount Caucasus" (Bibliotheca 1.7.1, trans. Frazer)

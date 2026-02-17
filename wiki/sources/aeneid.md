@@ -34,6 +34,24 @@ The gods play active roles throughout, with [Juno](../deities/hera.md) opposing 
 ### Book VI: The Underworld
 [Aeneas](../heroes/aeneas.md) reaches Cumae and consults the Sibyl (Deiphobe, priestess of [Apollo](../deities/apollo.md) and [Hecate](../deities/hecate.md)). She prophesies wars in Italy. He requests passage to the underworld; she requires the golden bough, sacred to [Proserpine](../deities/persephone.md). After burying Misenus, they descend. They pass the Vestibule of personified evils, cross the Styx via Charon (subduing Cerberus with drugged cake), enter the Wailing Fields where [Dido](../heroes/dido.md) turns away in silence. They see Tartarus — the Titans, Tityos, Ixion, Rhadamanthus judging, Tisiphone guarding — then enter Elysium. Anchises explains the cycle of reincarnation and shows a parade of future Roman heroes, from Silvius through Augustus. Aeneas departs by the ivory gate of false dreams.
 
+### Book VII: The Landing in Latium
+[Aeneas](../heroes/aeneas.md) lands at the Tiber mouth, fulfilling Celaeno's prophecy when the Trojans "eat their tables" (bread platters). King Latinus, warned by an oracle to wed his daughter Lavinia to a foreigner, welcomes the Trojans. [Juno](../deities/hera.md) delivers a bitter soliloquy ("I am vanquished by Aeneas") and summons Allecto from the underworld. Allecto drives Queen Amata mad with a serpent, rouses Turnus to war by appearing as the priestess Calybe then revealing her Fury-form, and incites the first bloodshed by maddening Iülus's hounds to wound Silvia's sacred stag. Juno dismisses Allecto and herself opens the Gates of War.
+
+### Book VIII: Evander and the Shield
+[Aeneas](../heroes/aeneas.md) visits Evander's settlement on the future site of Rome. Evander tells of Hercules' slaying of the monster Cacus. [Venus](../deities/aphrodite.md) seduces [Vulcan](../deities/hephaestus.md) to forge arms for Aeneas. In the Aetnean caverns, the [Cyclopes](../creatures/cyclopes.md) (Brontes, Steropes, Pyracmon) work at forging thunderbolts, Mars's chariot, and the [aegis](../objects/aegis.md). Venus delivers the finished arms, including the Shield of Aeneas — depicting Rome's future: the she-wolf and twins, the Sabine women, Porsena's siege, the Gauls at the Capitol, the battle of Actium, and Augustus's triple triumph.
+
+### Book IX: The Siege of the Trojan Camp
+With [Aeneas](../heroes/aeneas.md) away seeking allies, Turnus besieges the Trojan camp. [Cybele](../deities/cybele.md)'s ships are transformed into sea-nymphs. Nisus and Euryalus make their doomed night raid. Turnus breaks into the camp but is trapped and escapes by leaping into the Tiber.
+
+### Book X: The Council of Gods
+[Jupiter](../deities/zeus.md) convenes a council on Olympus, declaring he forbids the gods to intervene: "each man's effort shall determine fortune or disaster." [Juno](../deities/hera.md) and [Venus](../deities/aphrodite.md) argue. [Aeneas](../heroes/aeneas.md) returns with Etruscan allies. In the fighting, Turnus kills young Pallas, taking his sword-belt — a trophy that will prove fatal. Aeneas kills Mezentius and his son Lausus.
+
+### Book XI: The Truce and Camilla
+A truce for burial of the dead. Latinus proposes peace. The warrior-maiden Camilla, devotee of [Diana](../deities/artemis.md), leads the Volscian cavalry and is killed by Arruns, whom Diana's agent Opis then slays.
+
+### Book XII: The Final Combat
+Turnus and [Aeneas](../heroes/aeneas.md) agree to single combat. [Juno](../deities/hera.md) sends Juturna (Turnus's immortal sister) to break the truce, restarting general battle. In the climactic divine scene, Juno yields to [Jupiter](../deities/zeus.md) but extracts the concession that the Latins keep their name, language, and identity: "Troy is fallen; let her and her name lie where they fell." Jupiter sends one of the Dirae to signal Turnus's doom; Juturna recognises it and sinks weeping into the river. Turnus falls to Aeneas's spear; seeing Pallas's belt on Turnus, Aeneas kills him in fury.
+
 ## Key Entities Introduced
 
 - **Dido** — Queen of Carthage, widow of Sychaeus, who welcomes Aeneas

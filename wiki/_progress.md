@@ -2,7 +2,7 @@
 
 ## Current Source
 
-**Ovid, Metamorphoses** (trans. Brookes More, 1922) — IN PROGRESS
+**Virgil, Aeneid** (trans. J.W. Mackail, 1885) — IN PROGRESS
 
 ## Progress
 
@@ -760,14 +760,48 @@ Created dedicated pages for major entities across all previously processed sourc
 - Update metamorphoses.md source page with book-by-book contents
 - Minor Book XIV-XV content: Sibyl of Cumae, Vertumnus/Pomona, Romulus apotheosis, Aesculapius serpent
 
+### Virgil, Aeneid — In Progress
+
+**Source text:** J.W. Mackail prose translation (1885), Project Gutenberg #22456
+**Source page created:** aeneid.md
+**Source file:** sources/virgil-aeneid-mackail.txt (9,257 lines, 12 books)
+
+**Roman→Greek name mapping:** Jove/Jupiter=Zeus, Juno=Hera, Minerva=Athena, Venus=Aphrodite, Phoebus/Apollo=Apollo, Diana=Artemis, Mercury=Hermes, Neptune=Poseidon, Vulcan=Hephaestus, Cupid=Eros, Proserpine=Persephone
+
+**Books I-VI processed (the "Odyssean" half):**
+
+- Book I: Venus appeals to Jupiter; disguised as huntress; divine appearance on departure; Cupid scheme inflaming Dido; Juno's storm
+- Book II: Fall of Troy — Sinon, Laocoön, Wooden Horse, Hector's ghost, Priam's death, Venus in true divine form, Creusa's ghost
+- Book III: Wanderings — Polydorus, Apollo's oracle, Harpies (Celaeno's prophecy, physical description), Helenus, Scylla variant, Cyclopes coast
+- Book IV: Dido's love and death — confession to Anna, the cave, Mercury's command, Dido's speeches, curse ("unnamed avenger"), death on the pyre, Iris releases her soul
+- Book V: Funeral games (mostly athletic, limited mythology); Anchises' ghost, Venus appeals to Neptune, Sleep drowns Palinurus, Iris incites ship-burning
+- Book VI: The underworld — Sibyl at Cumae, golden bough, Charon/Cerberus, Dido in the Wailing Fields (silence), Tartarus (triple walls, Phlegethon, Tisiphone, Rhadamanthus, Tityos, Phlegyas), Elysium, Anchises' parade of Roman heroes, ivory gate
+
+**Pages updated (Books I-VI):** aeneas.md, dido.md (major — full Books I/IV/VI narrative), aphrodite.md (huntress, true divine form, Cupid scheme, Vulcan appeal), hera.md, hermes.md (Mercury's embassy), priam.md (death scene), harpies.md (Aeneid description, invulnerability, Celaeno), scylla.md (Helenus variant), tartarus.md (Sibyl's description)
+
+**Books VII-XII processed (the "war" half):**
+
+- Book VII: Juno summons Allecto; Allecto possesses Amata, rouses Turnus, incites war; Juno dismisses Allecto
+- Book VIII: Venus seduces Vulcan; Aetnean smithy with Cyclopes; Shield of Aeneas (Rome's future history); Evander's Hercules/Cacus tale
+- Book IX: Cybele's ships transformed to nymphs; Nisus and Euryalus
+- Book X: Jupiter's council of gods; death of Pallas; Mezentius killed
+- Book XI: Camilla (Diana's devotee); truce and peace debate
+- Book XII: Juno's reconciliation — confesses, yields, but secures Latin identity; Dirae sent against Turnus; Juturna weeps into river; Aeneas kills Turnus over Pallas's belt
+
+**Pages updated (Books VII-XII):** hera.md (major — Allecto summoning, reconciliation), hephaestus.md (Vulcan forging scene, Shield of Aeneas), aphrodite.md (Vulcan appeal, arms delivery), aeneas.md (all 12 books)
+
+**Source page updated:** aeneid.md — all 12 books summarized
+
+## Aeneid — COMPLETE
+
 ## Next
 
 ### New Sources (in priority order)
 
-1. **Virgil, Aeneid** — Essential for Aeneas, the underworld (Book VI), and Roman foundation myth. More focused than Ovid.
-2. **Pindar, Odes** — Rich mythological digressions scattered across Olympian, Pythian, Nemean, and Isthmian odes. Harder to process systematically but high-quality material.
+1. **Pindar, Odes** — Rich mythological digressions scattered across Olympian, Pythian, Nemean, and Isthmian odes. Harder to process systematically but high-quality material.
 
 ### Minor Expansions
 
 - Athenian king cycle (Cecrops, Erichthonius, Erechtheus, Pandion) — material already in Apollodorus, just needs dedicated pages
 - Crete and Athens as place pages
+- Remaining Metamorphoses: deianira.md (Book IX), Sibyl of Cumae (14.120-153), metamorphoses.md source page book-by-book contents

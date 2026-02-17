@@ -233,12 +233,48 @@ Though Hera's hatred of [Heracles](../heroes/heracles.md) drove the plot, Ovid h
 [^met-hera-semele]: "Am I not Juno the supreme of Heaven? Queen of the flashing scepter? Am I not sister and wife of Jove omnipotent?" (Metamorphoses 3.265-268, trans. Brookes More)
 [^met-hera-heracles]: "Come Juno, feast upon my death; feast on me, cruel one, look down from your exalted seat; behold my dreadful end and glut your savage heart!" (Metamorphoses 9.176-180, trans. Brookes More)
 
+## In the [Aeneid](../sources/aeneid.md)
+
+Juno is the primary divine antagonist of the *Aeneid*, opposing [Aeneas](../heroes/aeneas.md) from start to finish. Her motives are stated at the outset: the judgment of Paris, Ganymede's elevation, and her love for Carthage, destined to be destroyed by Rome.
+
+### Summoning Allecto (7.286-571)
+
+When Juno sees the Trojans settled in Italy, she delivers a bitter soliloquy acknowledging her repeated failures: "Against the Teucrians the forces of sky and sea are spent. What hath availed me Syrtes or Scylla, what desolate Charybdis?... But I, Jove's imperial consort, who have borne, ah me! to leave naught undared, who have shifted to every device, I am vanquished by Aeneas."[^aen-hera-soliloquy] She resolves: "If the powers of heaven are inflexible, I will stir up Acheron."[^aen-hera-acheron]
+
+She descends and calls "dolorous Allecto from the home of the Fatal Sisters in nether gloom, whose delight is in woeful wars, in wrath and treachery and evil feuds: hateful to lord Pluto himself, hateful and horrible to her hell-born sisters; into so many faces does she turn, so savage the guise of each, so thick and black bristles she with vipers."[^aen-hera-allecto] She commands Allecto to shatter the peace, "sunder the peace they have joined, and sow seeds of quarrel."[^aen-hera-command]
+
+Allecto obeys in three stages: she flings a serpent into Queen Amata's breast, driving her to Bacchic frenzy; she appears to Turnus disguised as the priestess Calybe, then reveals herself as a Fury ("I am come from the home of the Dread Sisters: war and death are in my hand"); and she drives Iülus's hounds to wound a sacred stag, sparking the first bloodshed.
+
+When Allecto returns to boast, Juno dismisses her: "Terror and harm is wrought abundantly... Our Lord who reigns on Olympus' summit would not have thee stray too freely in heaven's upper air. Withdraw thy presence. Whatsoever future remains in the struggle, that I myself will sway."[^aen-hera-dismiss]
+
+### The Reconciliation (12.791-842)
+
+In the poem's climactic divine scene, Juno yields to [Jupiter](../deities/zeus.md) — but extracts a remarkable concession. She first confesses: "I counselled Juturna, I confess it, to succour her hapless brother, and for his life's sake favoured a greater daring; yet not the arrow-shot, not the bending of the bow, I swear by the merciless well-head of the Stygian spring."[^aen-hera-confess]
+
+She then asks that when the Trojans and Latins unite, the Latin people keep their name, their language, and their identity: "bid thou not the native Latins change their name of old, nor become Trojans and take the Teucrian name, or change their language, or alter their attire: let Latium be, let Alban kings endure through ages, let Italian valour be potent in the race of Rome. Troy is fallen; let her and her name lie where they fell."[^aen-hera-terms]
+
+Jupiter agrees, smiling: "Jove's own sister thou art, and second seed of Saturn, such surge of wrath tosses within thy breast! But come, allay this madness so vainly stirred. I give thee thy will, and yield thee ungrudged victory. Ausonia shall keep her native speech and usage, and as her name is, it shall be. The Trojans shall sink mingling into their blood."[^aen-hera-concession] He promises a mixed race that "shall outdo men and gods in duty; nor shall any nation so observe thy worship." Juno assented "and in gladness withdrew her purpose."
+
+[^aen-hera-soliloquy]: "Against the Teucrians the forces of sky and sea are spent. What hath availed me Syrtes or Scylla, what desolate Charybdis? they find shelter in their desired Tiber-bed, careless of ocean and of me... But I, Jove's imperial consort, who have borne, ah me! to leave naught undared, who have shifted to every device, I am vanquished by Aeneas" (Aeneid 7.302-310, trans. J.W. Mackail)
+[^aen-hera-acheron]: "If the powers of heaven are inflexible, I will stir up Acheron" (Aeneid 7.312)
+[^aen-hera-allecto]: "calls dolorous Allecto from the home of the Fatal Sisters in nether gloom, whose delight is in woeful wars, in wrath and treachery and evil feuds: hateful to lord Pluto himself, hateful and horrible to her hell-born sisters; into so many faces does she turn, so savage the guise of each, so thick and black bristles she with vipers" (Aeneid 7.323-329)
+[^aen-hera-command]: "Sunder the peace they have joined, and sow seeds of quarrel; let all at once desire and demand and seize on arms" (Aeneid 7.339-340)
+[^aen-hera-dismiss]: "Terror and harm is wrought abundantly... Our Lord who reigns on Olympus' summit would not have thee stray too freely in heaven's upper air. Withdraw thy presence. Whatsoever future remains in the struggle, that I myself will sway" (Aeneid 7.552-560)
+[^aen-hera-confess]: "I counselled Juturna, I confess it, to succour her hapless brother, and for his life's sake favoured a greater daring; yet not the arrow-shot, not the bending of the bow, I swear by the merciless well-head of the Stygian spring, the single ordained dread of the gods in heaven" (Aeneid 12.813-816)
+[^aen-hera-terms]: "bid thou not the native Latins change their name of old, nor become Trojans and take the Teucrian name, or change their language, or alter their attire: let Latium be, let Alban kings endure through ages, let Italian valour be potent in the race of Rome. Troy is fallen; let her and her name lie where they fell" (Aeneid 12.823-828)
+[^aen-hera-concession]: "I give thee thy will, and yield thee ungrudged victory. Ausonia shall keep her native speech and usage, and as her name is, it shall be. The Trojans shall sink mingling into their blood; I will add their sacred law and ritual, and make all Latins and of a single speech. Hence shall spring a race of tempered Ausonian blood, whom thou shalt see outdo men and gods in duty; nor shall any nation so observe thy worship" (Aeneid 12.833-840)
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.601-746: Detects Zeus's affair with Io; claims heifer; sets Argus to guard; decorates peacock with Argus's eyes; drives Io with a Fury
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.253-315: Disguised as nurse Beroe, tricks Semele into fatal demand
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.316-338: Blinds Tiresias for siding with Zeus
 - **[Metamorphoses](../sources/metamorphoses.md)** 9.134-272: Target of dying Heracles' bitter address; grudgingly accepts his apotheosis
+- **[Aeneid](../sources/aeneid.md)** I: Enlists Aeolus to raise storm against Trojan fleet; her motives stated (judgment of Paris, Ganymede, Carthage)
+- **[Aeneid](../sources/aeneid.md)** IV: Conspires with Venus to unite Dido and Aeneas in a cave; sends Iris to release Dido's soul at death
+- **[Aeneid](../sources/aeneid.md)** V: Sends Iris disguised as Beroë to incite Trojan women to burn the ships
+- **[Aeneid](../sources/aeneid.md)** VII: Bitter soliloquy ("I am vanquished by Aeneas"); summons Allecto from the underworld; Allecto possesses Amata, rouses Turnus, sparks war; Juno dismisses Allecto and takes control herself
+- **[Aeneid](../sources/aeneid.md)** XII: Confesses to Jupiter; swears by the Styx; requests Latins keep their name, language, and identity; Jupiter agrees; "in gladness withdrew her purpose"
 - **[Theogony](../sources/theogony.md)** 11-12, 314-315, 328-329, 454, 921-929: Invocation; nourishes monsters against Heracles; bears children
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 97-100, 311-355: Opposes Apollo's birth; casts out Hephaestus; births Typhaon
 - **[Odyssey](../sources/odyssey.md)** IV: Saves Agamemnon from the sea

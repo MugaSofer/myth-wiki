@@ -186,7 +186,11 @@ Aphrodite descended to the river Numicius and "willed Numicius should wash perfe
 - **[Aeneid](../sources/aeneid.md)** III: Wanderings
 - **[Aeneid](../sources/aeneid.md)** IV: Dido's love; Mercury commands departure; "Not of my will do I follow Italy"; compared to an oak unmoved by storm; departs at dawn
 - **[Aeneid](../sources/aeneid.md)** V: Funeral games for Anchises; Juno's Iris incites ship-burning; Jupiter sends rain; Anchises' ghost commands visit to underworld
-- **[Aeneid](../sources/aeneid.md)** VI: Consults the Sibyl at Cumae; plucks the golden bough; descends to underworld; meets Dido in the Wailing Fields (she turns away in silence); sees Tartarus; finds Anchises in Elysium; learns cycle of reincarnation; shown parade of future Roman heroes; departs by the ivory gate — Polydorus's bleeding grave in Thrace; Apollo's oracle at Delos; household gods redirect from Crete to Italy; Harpies at the Strophades; Andromache and Helenus at Buthrotum; Helenus prophesies the Sibyl; passes Cyclopes' coast; Anchises dies at Drepanum
+- **[Aeneid](../sources/aeneid.md)** VI: Consults the Sibyl at Cumae; plucks the golden bough; descends to underworld; meets Dido in the Wailing Fields (she turns away in silence); sees Tartarus; finds Anchises in Elysium; learns cycle of reincarnation; shown parade of future Roman heroes; departs by the ivory gate
+- **[Aeneid](../sources/aeneid.md)** VII: Lands at the Tiber; fulfils "eating the tables" prophecy; welcomed by Latinus; war sparked by Juno's Allecto
+- **[Aeneid](../sources/aeneid.md)** VIII: Visits Evander; Venus delivers Vulcan-forged arms; the Shield depicting Rome's future; "lifts on his shoulder the destined glories of his children"
+- **[Aeneid](../sources/aeneid.md)** X: Returns with Etruscan allies; kills Lausus and Mezentius
+- **[Aeneid](../sources/aeneid.md)** XII: Single combat with Turnus; truce broken by Juturna; spears Turnus; seeing Pallas's belt, kills him in fury
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.623-728: Flight from Troy carrying his father and household gods; visits Delos (Anius and his daughters); oracle directs him to ancestral homeland; voyage through Crete, Strophades, Epirus, to Sicily
 - **[Metamorphoses](../sources/metamorphoses.md)** 14.75-608: Sicily to Italy; war with Turnus and the Rutulians; Venus petitions Zeus; mortal part washed away in the Numicius; anointed with nectar and ambrosia; deified as the god Indiges
 
