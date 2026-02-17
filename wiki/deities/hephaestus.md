@@ -37,7 +37,7 @@ His workshop house is "imperishable, starlike, far seen among the dwellings of I
 
 ## Powers
 
-- **Supreme craftsmanship:** "Skilled in crafts more than all the sons of Heaven." His creations include: the first woman's golden crown ("wonderful things, like living beings with voices"), self-moving golden tripods, [Agamemnon's sceptre](../sources/iliad.md), and the [Shield of Achilles](../objects/shield-of-achilles.md) (an entire cosmos in miniature).[^desc-crafts]
+- **Supreme craftsmanship:** "Skilled in crafts more than all the sons of Heaven." His creations include: the first woman's golden crown ("wonderful things, like living beings with voices"), self-moving golden tripods, [Agamemnon's sceptre](../objects/sceptre-of-agamemnon.md), and the [Shield of Achilles](../objects/shield-of-achilles.md) (an entire cosmos in miniature).[^desc-crafts]
 - **Automata:** His golden handmaidens are "the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods." His tripods move "of their own motion" to enter the assembly of the gods.[^desc-automata]
 - **Fire:** He burns the River [Xanthos](../sources/iliad.md) at [Hera](hera.md)'s command — consuming elms, willows, tamarisks, and lotus until the river submits and swears an oath.[^desc-fire]
 
