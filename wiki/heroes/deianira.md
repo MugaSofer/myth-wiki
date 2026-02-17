@@ -73,6 +73,27 @@ When Heracles put on the robe, "it started at once to blaze; when he leaped into
 [^hyg-lichas]: "Hercules, whirling Lichas, who had brought the garment, round and round, threw him into the sea, and at the place where he fell a rock appeared which is called Lichas" (Fabulae §36, trans. Mary Grant)
 [^hyg-death]: "Then Philoctetes, son of Poeas, is said to have built a pyre for Hercules on Mount Oita, and he mounted it... and cast off his mortality. For this service he gave Philoctetes his bow and arrows. But Dejanira, because of what had happened to Hercules, killed herself" (Fabulae §36, trans. Mary Grant)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Contest for Deianira (9.1-100)
+
+[Achelous](../deities/achelous.md) narrates his contest with [Heracles](heracles.md) for Deianira, describing her as "the envied hope of many. She was then a lovely virgin."[^met-dei-beauty] The contest culminated in a wrestling match where Achelous shifted shapes — first to a serpent, then a bull — before Heracles broke off one of his horns.
+
+### Nessus at the River (9.101-133)
+
+At the river Evenus, the centaur Nessus attempted to carry Deianira across but betrayed the trust. Heracles shot him through the back with a poisoned arrow. The dying Nessus "gave his tunic, soaked with blood to Deianira as a gift; and said, 'Keep this to strengthen waning love.'"[^met-dei-tunic]
+
+### The Poisoned Robe (9.134-175)
+
+When Rumor told Deianira that Heracles was in love with Iole, she was at first "dissolved in tears" but then steeled herself. Ovid gives her an extended internal monologue: "Why should I give up to my sorrow while I drown my wretched spirit in weak tears? Let me consider an effectual check... shall I be silent or complain of it? Must I go back to Calydon or stay?"[^met-dei-monologue] She considered violent revenge — "O shade of Meleager, let me prove I am yet worthy to be called your sister" — before deciding to send the tunic: "at last her mind fixed on one thought: — she might still keep his love, could certainly restore it, if she sent to him the tunic soaked in Nessus' blood."[^met-dei-decision]
+
+She gave the tunic to Lichas "unknowingly" — emphasising her innocence in the catastrophe that followed.
+
+[^met-dei-beauty]: "Deianira was the envied hope of many. She was then a lovely virgin" (Metamorphoses 9.9-10, trans. Brookes More)
+[^met-dei-tunic]: "he gave his tunic, soaked with blood to Deianira as a gift; and said, 'Keep this to strengthen waning love'" (Metamorphoses 9.131-133)
+[^met-dei-monologue]: "Why should I give up to my sorrow while I drown my wretched spirit in weak tears? Let me consider an effectual check... shall I be silent or complain of it? Must I go back to Calydon or stay?" (Metamorphoses 9.141-150)
+[^met-dei-decision]: "at last her mind fixed on one thought: — she might still keep his love, could certainly restore it, if she sent to him the tunic soaked in Nessus' blood. Unknowingly, she gave the fatal cause of her own woe to trusting Lichas" (Metamorphoses 9.155-159)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.5: Won by Heracles after he wrestled Achelous
@@ -82,3 +103,4 @@ When Heracles put on the robe, "it started at once to blaze; when he leaped into
 - **[Fabulae](../sources/hyginus.md)** §34: Nessus carries her across river Evenus; attempts to ravish her; shot by Heracles; gives her blood as false love-charm
 - **[Fabulae](../sources/hyginus.md)** §35: Heracles sends Iole captive to her after sacking Oichalia
 - **[Fabulae](../sources/hyginus.md)** §36: Sends poisoned robe via Lichas; realizes deception when blood burns in sunlight; kills herself after Heracles' death
+- **[Metamorphoses](../sources/metamorphoses.md)** 9.1-175: "The envied hope of many"; won by Heracles after wrestling Achelous; Nessus gives her blood-soaked tunic as false love-charm; extended monologue debating revenge vs. silence before sending the robe; "unknowingly, she gave the fatal cause of her own woe"
