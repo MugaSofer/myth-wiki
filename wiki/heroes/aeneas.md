@@ -112,6 +112,31 @@ The prohibition was absolute, yet "Anchises, however, told it over the wine to h
 
 "And for this was struck by the thunderbolt of [Jove](../deities/zeus.md). Some say that he died by his own hand."[^hyg-94-punishment] This detail -- whether Anchises was struck by lightning or took his own life -- appears nowhere else in the tradition and represents a darker ending than the Homeric version.
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Flight from Troy (13.623-631)
+
+After Troy's fall, "Aeneas, the heroic son of Venus, bore on his shoulders holy images and still another holy weight, his sire, a venerable burden. From all his wealth the pious hero chose this for his care together with his child, Ascanius."[^met-ae-flight] He sailed from Antandrus with a fleet of exiles, leaving behind the blood-stained shores of Thrace.
+
+### The Voyage (13.632-728)
+
+Aeneas visited Delos, where King Anius (priest of [Apollo](../deities/apollo.md)) hosted the Trojans and told them the tale of his daughters, who could transform anything they touched into corn, wine, or olive oil — a gift from [Dionysus](../deities/dionysus.md). The oracle of [Apollo](../deities/apollo.md) "counselled them to leave that land and find their ancient mother and their kindred shores."[^met-ae-oracle]
+
+The voyage then proceeded through Crete, past the Strophades (where the harpy Aello frightened them), past Ithaca and the other islands, through Epirus to Buthrotos (a mimic Troy ruled by the Trojan seer Helenus), and on to Sicily.
+
+### The Apotheosis of Aeneas (14.581-608)
+
+After the war in Latium, "the merit of Aeneas now had moved the gods. Even Juno stayed her lasting hate."[^met-ae-merit] [Aphrodite](../deities/aphrodite.md) petitioned [Zeus](../deities/zeus.md) for her son's deification: "grant, dearest, to Aeneas, my own son and also your own grandson, grant to him a godhead power, although of lowest class."[^met-ae-petition] Zeus assented, and all the gods — even [Hera](../deities/hera.md) — approved.
+
+Aphrodite descended to the river Numicius and "willed Numicius should wash perfectly away from her Aeneas every part that might be subject unto death; and bear it far with quiet current into Neptune's realm."[^met-ae-wash] The river obeyed: "with flowing waters washed from her Aeneas every mortal part, and sprinkled him, so that the essential part of immortality remained alone, and she anointed him, thus purified, with heavenly essence, and she touched his face with sweetest nectar and ambrosia mixt, thereby transforming him into a god."[^met-ae-deified] He was thereafter worshipped as the god Indiges.
+
+[^met-ae-flight]: "Aeneas, the heroic son of Venus, bore on his shoulders holy images and still another holy weight, his sire, a venerable burden. From all his wealth the pious hero chose this for his care together with his child, Ascanius" (Metamorphoses 13.623-631, trans. Brookes More)
+[^met-ae-oracle]: "He counselled them to leave that land and find their ancient mother and their kindred shores" (Metamorphoses 13.677-679)
+[^met-ae-merit]: "The merit of Aeneas now had moved the gods. Even Juno stayed her lasting hate" (Metamorphoses 14.581-583)
+[^met-ae-petition]: "grant, dearest, to Aeneas, my own son and also your own grandson, grant to him a godhead power, although of lowest class" (Metamorphoses 14.597-600)
+[^met-ae-wash]: "willed Numicius should wash perfectly away from her Aeneas every part that might be subject unto death; and bear it far with quiet current into Neptune's realm" (Metamorphoses 14.614-617)
+[^met-ae-deified]: "with flowing waters washed from her Aeneas every mortal part, and sprinkled him, so that the essential part of immortality remained alone, and she anointed him, thus purified, with heavenly essence, and she touched his face with sweetest nectar and ambrosia mixt, thereby transforming him into a god" (Metamorphoses 14.618-625)
+
 ## Appearances
 
 - **[Homeric Hymn V](../sources/homeric-hymns.md)** (to Aphrodite): Conception prophesied; name etymologized from *ainos* ("awful grief"); mountain nymphs to raise him; Anchises warned never to reveal his divine mother
@@ -124,6 +149,8 @@ The prohibition was absolute, yet "Anchises, however, told it over the wine to h
 - **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): His followers withdraw to Ida when serpents destroy Laocoon
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Taken captive by Neoptolemus, "a prize surpassing those of all the Danaans"
 - **[Fabulae](../sources/hyginus.md)** §94: Venus loved Anchises and conceived Aeneas; warned him not to reveal it; Anchises told it over the wine; struck by thunderbolt (or died by his own hand)
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.623-728: Flight from Troy carrying his father and household gods; visits Delos (Anius and his daughters); oracle directs him to ancestral homeland; voyage through Crete, Strophades, Epirus, to Sicily
+- **[Metamorphoses](../sources/metamorphoses.md)** 14.75-608: Sicily to Italy; war with Turnus and the Rutulians; Venus petitions Zeus; mortal part washed away in the Numicius; anointed with nectar and ambrosia; deified as the god Indiges
 
 [^il20-genealogy]: "First Zeus the cloud-gatherer begat Dardanos, and he stablished Dardania... Then Dardanos begat a son, king Erichthonios, who became richest of mortal men... Then Erichthonios begat Tros to be lord over the Trojans, and to Tros three noble sons were born, Ilos and Assarakos and godlike Ganymedes... And Assarakos begat Kapys, and Kapys Anchises, and Anchises me; but Priam begat the goodly Hector" (Iliad XX.11491-11509, trans. Lang, Leaf, and Myers)
 [^hh5-desire]: "And so he put in her heart sweet desire for Anchises who was tending cattle at that time among the steep hills of many-fountained Ida, and in shape was like the immortal gods" (Homeric Hymn V to Aphrodite 53-55, trans. H.G. Evelyn-White)

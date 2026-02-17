@@ -67,6 +67,26 @@ The [Bibliotheca](../sources/apollodorus.md) provides an explanation for Eos's p
 
 [^apd-eos-curse]: "Dawn fell in love with Orion and carried him off and brought him to Delos; for Aphrodite caused Dawn to be perpetually in love, because she had bedded with Ares" (Bibliotheca 1.4.4, trans. Frazer)
 
+## In the [Metamorphoses](../sources/metamorphoses.md)
+
+### The Mourning of Memnon (13.576-622)
+
+Although Aurora had supported [Troy](../places/troy.md), "she had no heart nor leisure to be moved by fall of Troy or fate of [Hecuba](../heroes/hecuba.md). At home she bore a greater grief and care; her loss of Memnon is afflicting her."[^met-eos-grief] She had seen her son killed by [Achilles](../heroes/achilles.md): "Aurora, his rose-tinted mother, saw him perish by Achilles' deadly spear, upon the Phrygian plain. She saw his death, and the loved rose that lights the dawning hour turned death-pale, and the sky was veiled in clouds."[^met-eos-pale]
+
+Aurora threw herself at [Zeus](zeus.md)'s feet to beg for some honour for her fallen son. She described herself as the least honoured of the gods: "Beneath all those whom golden heaven sustains; (inferior, for see, through all the world my temples are so few) I have come now a goddess, to you."[^met-eos-plea] She asked not for temples or festivals but only "some honor, some comfort for his death, a little ease his mother's grief."[^met-eos-request]
+
+Zeus nodded assent, and Memnon's funeral pyre collapsed as "volumes of black smoke obscured the day." From the ashes, birds were formed: "Black ashes fly and, rolling up a shape, retain a form and gather heat and life out of the fire. Their lightness gave them wings, first like a bird and then in fact a bird."[^met-eos-birds] These birds, called the Memnonides, divided into two groups and fought each other as a sacrifice, falling back into the ashes. "Always when the Sun has passed the twelve signs of the Zodiac, they war again, to perish as a sacrifice for him."[^met-eos-annual]
+
+Aurora's grief was permanent: "even now, she sheds affectionate tears: and sprinkles them as dew on all the world."[^met-eos-dew]
+
+[^met-eos-grief]: "Although Aurora had given aid to Troy, she had no heart nor leisure to be moved by fall of Troy or fate of Hecuba. At home she bore a greater grief and care; her loss of Memnon is afflicting her" (Metamorphoses 13.576-580, trans. Brookes More)
+[^met-eos-pale]: "Aurora, his rose-tinted mother, saw him perish by Achilles' deadly spear, upon the Phrygian plain. She saw his death, and the loved rose that lights the dawning hour turned death-pale, and the sky was veiled in clouds" (Metamorphoses 13.581-585, trans. Brookes More)
+[^met-eos-plea]: "Beneath all those whom golden heaven sustains; (inferior, for see, through all the world my temples are so few) I have come now a goddess, to you" (Metamorphoses 13.590-593)
+[^met-eos-request]: "Give my son, I pray, O highest ruler of the gods, some honor, some comfort for his death, a little ease his mother's grief" (Metamorphoses 13.606-609)
+[^met-eos-birds]: "Black ashes fly and, rolling up a shape, retain a form and gather heat and life out of the fire. Their lightness gave them wings, first like a bird and then in fact a bird" (Metamorphoses 13.604-608)
+[^met-eos-annual]: "always when the Sun has passed the twelve signs of the Zodiac, they war again, to perish as a sacrifice for him" (Metamorphoses 13.618-620)
+[^met-eos-dew]: "even now, she sheds affectionate tears: and sprinkles them as dew on all the world" (Metamorphoses 13.621-622)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 19, 371-382, 984-991: Named in invocation; birth; children (winds and stars); sons Memnon and Emathion
@@ -77,5 +97,6 @@ The [Bibliotheca](../sources/apollodorus.md) provides an explanation for Eos's p
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.2: Born of [Hyperion](hyperion.md) and [Theia](theia.md) (as "Dawn")
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.4: With Astraeus bore the winds and stars
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Her son Memnon arrives wearing armour made by Hephaestus, is killed by Achilles; "Eos then obtains of Zeus and bestows upon her son immortality"[^aeth-eos]
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.576-622: Mourns Memnon's death at Achilles' hands; the dawn turned pale and sky veiled in clouds; begs Zeus for honour; Memnon's ashes transform into birds (Memnonides) that fight annually; her tears become the morning dew
 
 [^aeth-eos]: Aethiopis, summary by Proclus: "Memnon, the son of Eos, wearing armour made by Hephaestus, comes to help the Trojans... Eos then obtains of Zeus and bestows upon her son immortality"

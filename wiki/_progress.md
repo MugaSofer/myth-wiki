@@ -736,16 +736,29 @@ Created dedicated pages for major entities across all previously processed sourc
 - hades.md (abduction of Proserpina via Cupid's arrow)
 - poseidon.md (flood with trident, walls of Troy)
 
-**New pages created (9):**
+**New pages created (15):**
 - daphne.md, phaethon.md, narcissus.md, orpheus.md, pygmalion.md, pyramus.md (by agents)
 - midas.md, niobe.md, arachne.md (direct)
+- tereus.md, ceyx.md, philemon.md, erysichthon.md, hecuba.md, adonis.md (direct)
+
+*Direct processing, continued (12 more pages):*
+- theseus.md (Minotaur, Ariadne's crown)
+- atalanta.md (Calydonian boar, golden apple race)
+- achilles.md (Cygnus battle, centauromachy banquet, ghost at Thrace)
+- odysseus.md (arms contest, Philoctetes, Hecuba)
+- circe.md (Scylla transformation, Macareus's Circe retelling, Picus/Canens)
+- scylla.md (Glaucus pursuit, Circe's poison, full transformation)
+- aphrodite.md (Venus and Adonis: Cupid's wound, death, anemone)
+- cyclopes.md (Polyphemus/Galatea/Acis, Macareus's account)
+- eos.md (Memnon's death, Memnonides birds, tears as morning dew)
+- aeneas.md (flight from Troy, voyage, apotheosis as Indiges)
+- peleus.md (already had section from agents)
+- thetis.md (already had section from agents)
 
 **Remaining work:**
-- Books VII-IX: theseus.md, atalanta.md (Book VIII boar, Book X race), deianira.md
-- Books X-XII: peleus.md, thetis.md, achilles.md
-- Books XIII-XV: odysseus.md, circe.md, aeneas.md, scylla.md
-- New pages still needed: tereus.md, ceyx.md, philemon.md, erysichthon.md
+- deianira.md (Book IX material)
 - Update metamorphoses.md source page with book-by-book contents
+- Minor Book XIV-XV content: Sibyl of Cumae, Vertumnus/Pomona, Romulus apotheosis, Aesculapius serpent
 
 ## Next
 
