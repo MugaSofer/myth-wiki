@@ -134,9 +134,9 @@ Hermes told Hades: "Dark-haired Hades, ruler over the departed, father Zeus bids
 
 ## In the Odyssey
 
-### Embassy to Calypso (Book V)
+### Embassy to [Calypso](calypso.md) (Book V)
 
-In [Odyssey](../sources/odyssey.md) Book V, [Zeus](zeus.md) sends Hermes to Calypso to command Odysseus's release. His equipment mirrors the [Iliad](../sources/iliad.md) XXIV description: "Straightway he bound beneath his feet his lovely golden sandals, that wax not old, that bare him alike over the wet sea and over the limitless land, swift as the breath of the wind. And he took the [wand](../objects/hermes-wand.md) wherewith he lulls the eyes of whomso he will, while others again he even wakes from out of sleep."[^od5-equip]
+In [Odyssey](../sources/odyssey.md) Book V, [Zeus](zeus.md) sends Hermes to [Calypso](calypso.md) to command Odysseus's release. His equipment mirrors the [Iliad](../sources/iliad.md) XXIV description: "Straightway he bound beneath his feet his lovely golden sandals, that wax not old, that bare him alike over the wet sea and over the limitless land, swift as the breath of the wind. And he took the [wand](../objects/hermes-wand.md) wherewith he lulls the eyes of whomso he will, while others again he even wakes from out of sleep."[^od5-equip]
 
 His flight is described vividly: "Above Pieria he passed and leapt from the upper air into the deep. Then he sped along the wave like the cormorant, that chaseth the fishes through the perilous gulfs of the unharvested sea, and wetteth his thick plumage in the brine."[^od5-flight]
 

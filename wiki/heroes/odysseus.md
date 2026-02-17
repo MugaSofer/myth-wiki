@@ -26,6 +26,7 @@
 - **"godlike Odysseus"** — used by [Poseidon](../deities/poseidon.md) and in narrative[^ep-godlike]
 - **"Heaven-sprung son of Laertes"** — the extended patronymic, used by gods and mortals addressing him formally[^ep-heaven]
 - **"of many wiles"** — variant of "many devices" in the [Iliad](../sources/iliad.md)[^ep-wiles]
+- **"of many counsels"** — used frequently in the [Odyssey](../sources/odyssey.md): "Odysseus of many counsels answered"[^ep-counsels]
 
 [^ep-devices]: "Son of Laertes, of the seed of Zeus, Odysseus of many devices" (Odyssey X.5716, trans. Butcher and Lang)
 [^ep-enduring]: "much-enduring noble Odysseus heard him not" (Iliad XI.4507, trans. Lang, Leaf, and Myers)
@@ -35,6 +36,7 @@
 [^ep-godlike]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus" (Odyssey I.746-748, trans. Butcher and Lang)
 [^ep-heaven]: "Heaven-sprung son of Laertes, Odysseus of many devices" (Iliad II.946, trans. Lang, Leaf, and Myers)
 [^ep-wiles]: "son of Laertes, Odysseus of many wiles, in openness must I now declare" (Iliad IX.5219, trans. Lang, Leaf, and Myers)
+[^ep-counsels]: "And Odysseus of many counsels answered, and spake unto her" (Odyssey V.3194, trans. Butcher and Lang)
 
 ## Appearance
 
@@ -123,7 +125,7 @@ When [Poseidon](../deities/poseidon.md) spots Odysseus near Phaeacia, he unleash
 
 ### Calypso's Island
 
-Odysseus is held for years on the island of Ogygia by the nymph Calypso, "the daughter of the wizard [Atlas](../deities/atlas.md), who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder."[^od1-calypso] When [Zeus](../deities/zeus.md) commands his release, [Hermes](../deities/hermes.md) is sent to Calypso with the message. Hermes binds on his golden sandals, takes his wand, and flies "like the cormorant" over the waves to deliver [Zeus](../deities/zeus.md)'s command: "surely it is in no wise possible for another god to go beyond or to make void the purpose of Zeus, lord of the aegis."[^od5-hermes]
+Odysseus is held for years on the island of Ogygia by the nymph [Calypso](../deities/calypso.md), "the daughter of the wizard [Atlas](../deities/atlas.md), who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder."[^od1-calypso] When [Zeus](../deities/zeus.md) commands his release, [Hermes](../deities/hermes.md) is sent to Calypso with the message. Hermes binds on his golden sandals, takes his wand, and flies "like the cormorant" over the waves to deliver [Zeus](../deities/zeus.md)'s command: "surely it is in no wise possible for another god to go beyond or to make void the purpose of Zeus, lord of the aegis."[^od5-hermes]
 
 [^od1-calypso]: "the daughter of the wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder" (Odyssey I.780-782, trans. Butcher and Lang)
 [^od5-hermes]: "surely it is in no wise possible for another god to go beyond or to make void the purpose of Zeus, lord of the aegis" (Odyssey V.3079-3080, trans. Butcher and Lang)
@@ -147,7 +149,12 @@ He sees the shade of his mother Anticleia, "the daughter of Autolycus the great-
 [^od11-teiresias]: (Odyssey XI, trans. Butcher and Lang)
 [^od11-anticleia]: "Anon came up the soul of my mother dead, Anticleia, the daughter of Autolycus the great-hearted, whom I left alive when I departed for the sacred land of Ilios" (Odyssey XI.5979-5980, trans. Butcher and Lang)
 
-### Zeus's Omens and the Slaying of the Wooers
+### The Bow of Eurytus and the Slaying of the Wooers
+
+The great bow that Odysseus uses to slay the suitors was a gift from Iphitus, son of Eurytus. Odysseus and Iphitus met as young men in Messene: Odysseus had gone to recover sheep stolen by the Messenians, while Iphitus was searching for twelve lost brood mares. Iphitus "gave him the bow, which of old great Eurytus bare and had left at his death to his son in his lofty house. And Odysseus gave Iphitus a sharp sword and a mighty spear, for the beginning of a loving friendship."[^od21-bow] Iphitus was later murdered by [Heracles](heracles.md) despite being his guest. Odysseus never took the bow to war, but kept it at home as a memorial of his friend.[^od21-memorial]
+
+[^od21-bow]: "he gave him the bow, which of old great Eurytus bare and had left at his death to his son in his lofty house. And Odysseus gave Iphitus a sharp sword and a mighty spear, for the beginning of a loving friendship" (Odyssey XXI.11217-11220, trans. Butcher and Lang)
+[^od21-memorial]: "goodly Odysseus would never take it with him on the black ships, as he went to the wars, but the bow was laid by at home in the halls as a memorial of a dear guest" (Odyssey XXI.11223-11225)
 
 [Zeus](../deities/zeus.md) provides direct divine sanction for Odysseus's vengeance. When Odysseus prays for an omen, "Zeus, the counsellor, heard him. Straightway he thundered from shining Olympus."[^od20-thunder] Zeus thunders again when Odysseus strings the great bow: "Zeus thundered loud showing forth his tokens. And the steadfast goodly Odysseus was glad thereat."[^od21-thunder]
 
