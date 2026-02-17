@@ -25,6 +25,9 @@ The gods play active roles throughout, with [Juno](../deities/hera.md) opposing 
 ### Book III: The Wanderings
 [Aeneas](../heroes/aeneas.md) continues his narration. In Thrace, he discovers the bleeding grave of Polydorus, [Priam](../heroes/priam.md)'s son murdered for gold. At Delos, [Apollo](../deities/apollo.md)'s oracle counsels "seek out your ancient mother." Anchises misinterprets this as Crete, but the household gods appear in a vision redirecting them to Italy (Hesperia). At the Strophades, the [Harpies](../creatures/harpies.md) defile their feast; Celaeno prophesies they will eat their tables. At Buthrotum, they find Helenus and Andromache ruling a miniature Troy. Helenus prophesies the route to Italy, warns of [Scylla](../creatures/scylla.md) and Charybdis, and foretells the Sibyl. They pass the [Cyclopes](../creatures/cyclopes.md)' coast and rescue Achemenides, a Greek left behind by Odysseus. Anchises dies at Drepanum.
 
+### Book IV: Dido's Love and Death
+[Dido](../heroes/dido.md) confesses her love for [Aeneas](../heroes/aeneas.md) to her sister Anna. [Juno](../deities/hera.md) and [Venus](../deities/aphrodite.md) conspire to unite them in a cave during a hunt. Rumour (Fama) spreads the news. King Iarbas complains to [Jupiter](../deities/zeus.md), who sends [Mercury](../deities/hermes.md) to command Aeneas to leave. Dido discovers his plans; her speeches of anguish and fury. Aeneas departs. Dido curses Rome and Carthage to eternal enmity ("unnamed avenger"), mounts a funeral pyre, and falls on Aeneas's sword. [Juno](../deities/hera.md) sends Iris to release her soul.
+
 ## Key Entities Introduced
 
 - **Dido** — Queen of Carthage, widow of Sychaeus, who welcomes Aeneas

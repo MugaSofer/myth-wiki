@@ -48,6 +48,48 @@ Dido "wore the night in changing talk, alas! and drank long draughts of love" an
 [^aen-di-sychaeus-effaced]: "he, mindful of his mother the Acidalian, begins touch by touch to efface Sychaeus, and sows the surprise of a living love in the long-since-unstirred spirit and disaccustomed heart" (Aeneid 1.720-722)
 [^aen-di-night]: "Dido wore the night in changing talk, alas! and drank long draughts of love, asking many a thing of Priam, many a thing of Hector" (Aeneid 1.748-750)
 
+### The Confession to Anna (4.1-55)
+
+Dido confesses to her sister Anna the passion consuming her: "I know the prints of the ancient flame."[^aen-di-flame] She vows fidelity to Sychaeus's memory: "He took my love away who made me one with him long ago; he shall keep it with him, and guard it in the tomb."[^aen-di-vow] But Anna encourages the match, arguing both for love and for Carthage's security against hostile neighbours.
+
+Dido is compared to a wounded deer: "Stung to misery, Dido wanders in frenzy all down the city, even as an arrow-stricken deer, whom, far and heedless amid the Cretan woodland, a shepherd archer hath pierced and left the flying steel in her unaware."[^aen-di-deer] The work of building Carthage halts: "No more do the unfinished towers rise, no more do the people exercise in arms... the works hang broken off, vast looming walls and engines towering into the sky."[^aen-di-works]
+
+### The Cave (4.124-172)
+
+[Juno](../deities/hera.md) and [Venus](../deities/aphrodite.md) conspire to unite the lovers. During a hunt, Juno pours down a storm, and "Dido and the Trojan captain take refuge in the same cavern. Primeval Earth and Juno the bridesmaid give the sign; fires flash out high in air, witnessing the union, and Nymphs cry aloud on the mountain-top."[^aen-di-cave] Virgil's judgment is devastating: "That day opened the gate of death and the springs of ill. For now Dido recks not of eye or tongue, nor sets her heart on love in secret: she calls it marriage, and with this name veils her fall."[^aen-di-fall]
+
+### Aeneas's Departure (4.296-392)
+
+When [Jupiter](../deities/zeus.md) sends [Mercury](../deities/hermes.md) to command [Aeneas](aeneas.md) to leave, Dido discovers his preparations. Her first speech is anguished: "And thou didst hope, traitor, to mask the crime, and slip away in silence from my land? Our love holds thee not, nor the hand thou once gavest, nor the bitter death that is left for Dido's portion?"[^aen-di-traitor] She appeals: "if I have done thee any grace, or aught of mine hath once been sweet in thy sight,—pity our sinking house."[^aen-di-pity]
+
+Aeneas replies that he never claimed marriage, that fate and the gods command him to Italy, and that "Not of my will do I follow Italy." Dido's second speech is pure fury: "No goddess was thy mother, nor Dardanus founder of thy line, traitor! but rough Caucasus bore thee on his iron crags, and Hyrcanian tigresses gave thee suck."[^aen-di-tigers] She curses him: "In murky fires I will follow far away, and when chill death hath severed body from soul, my ghost will haunt thee in every region."[^aen-di-curse]
+
+She sends Anna to plead once more, but Aeneas is immovable. He is compared to an oak in a storm: "even as when the eddying blasts of northern Alpine winds are emulous to uproot the secular strength of a mighty oak... the tree clings fast on the rocks, and high as her top soars into heaven, so deep strike her roots to hell; even thus is the hero buffeted with changeful perpetual accents."[^aen-di-oak]
+
+### The Curse and Death (4.584-705)
+
+When she sees the fleet departing at dawn, Dido utters her final curse — the prophecy of eternal enmity between Carthage and Rome: "Arise out of our dust, O unnamed avenger, to pursue the Dardanian settlement with firebrand and steel. Now, then, whensoever strength shall be given, I invoke the enmity of shore to shore, wave to water, sword to sword; let their battles go down to their children's children."[^aen-di-hannibal]
+
+She mounts the funeral pyre, takes up Aeneas's sword, and speaks her last words: "I have lived and fulfilled Fortune's allotted course; and now shall I go a queenly phantom under the earth. I have built a renowned city; I have seen my ramparts rise; by my brother's punishment I have avenged my husband of his enemy; happy, ah me! and over happy, had but the keels of Dardania never touched our shores!"[^aen-di-last] She falls on the sword.
+
+Her death is prolonged and agonising. [Juno](../deities/hera.md), "pitying her long pain and difficult decease, sent Iris down from heaven to unloose the struggling life from the body where it clung." Iris cuts a lock of hair sacred to Dis: "therewith all the warmth ebbed forth from her, and the life passed away upon the winds."[^aen-di-iris]
+
+[^aen-di-flame]: "I know the prints of the ancient flame" (Aeneid 4.23)
+[^aen-di-vow]: "He took my love away who made me one with him long ago; he shall keep it with him, and guard it in the tomb" (Aeneid 4.28-29)
+[^aen-di-deer]: "Stung to misery, Dido wanders in frenzy all down the city, even as an arrow-stricken deer, whom, far and heedless amid the Cretan woodland, a shepherd archer hath pierced and left the flying steel in her unaware" (Aeneid 4.68-73)
+[^aen-di-works]: "No more do the unfinished towers rise, no more do the people exercise in arms, nor work for safety in war on harbour or bastion; the works hang broken off, vast looming walls and engines towering into the sky" (Aeneid 4.86-89)
+[^aen-di-cave]: "Dido and the Trojan captain take refuge in the same cavern. Primeval Earth and Juno the bridesmaid give the sign; fires flash out high in air, witnessing the union, and Nymphs cry aloud on the mountain-top" (Aeneid 4.165-168)
+[^aen-di-fall]: "That day opened the gate of death and the springs of ill. For now Dido recks not of eye or tongue, nor sets her heart on love in secret: she calls it marriage, and with this name veils her fall" (Aeneid 4.169-172)
+[^aen-di-traitor]: "And thou didst hope, traitor, to mask the crime, and slip away in silence from my land? Our love holds thee not, nor the hand thou once gavest, nor the bitter death that is left for Dido's portion?" (Aeneid 4.305-308)
+[^aen-di-pity]: "if I have done thee any grace, or aught of mine hath once been sweet in thy sight,—pity our sinking house, and if there yet be room for prayers, put off this purpose of thine" (Aeneid 4.317-319)
+[^aen-di-tigers]: "No goddess was thy mother, nor Dardanus founder of thy line, traitor! but rough Caucasus bore thee on his iron crags, and Hyrcanian tigresses gave thee suck" (Aeneid 4.365-367)
+[^aen-di-curse]: "In murky fires I will follow far away, and when chill death hath severed body from soul, my ghost will haunt thee in every region. Wretch, thou shalt repay!" (Aeneid 4.384-387)
+[^aen-di-oak]: "even as when the eddying blasts of northern Alpine winds are emulous to uproot the secular strength of a mighty oak... the tree clings fast on the rocks, and high as her top soars into heaven, so deep strike her roots to hell" (Aeneid 4.441-446)
+[^aen-di-hannibal]: "Arise out of our dust, O unnamed avenger, to pursue the Dardanian settlement with firebrand and steel. Now, then, whensoever strength shall be given, I invoke the enmity of shore to shore, wave to water, sword to sword; let their battles go down to their children's children" (Aeneid 4.625-629)
+[^aen-di-last]: "I have lived and fulfilled Fortune's allotted course; and now shall I go a queenly phantom under the earth. I have built a renowned city; I have seen my ramparts rise; by my brother's punishment I have avenged my husband of his enemy; happy, ah me! and over happy, had but the keels of Dardania never touched our shores!" (Aeneid 4.653-658)
+[^aen-di-iris]: "Juno omnipotent, pitying her long pain and difficult decease, sent Iris down from heaven to unloose the struggling life from the body where it clung... 'This hair, sacred to Dis, I take as bidden, and release thee from that body of thine.' So speaks she, and cuts it with her hand. And therewith all the warmth ebbed forth from her, and the life passed away upon the winds" (Aeneid 4.693-705)
+
 ## Appearances
 
 - **[Aeneid](../sources/aeneid.md)** I: Backstory — widowed by Pygmalion's murder of Sychaeus; ghost reveals the crime; leads flight to Libya; founds Carthage ("a woman leads the work"); compared to Diana; welcomes Trojans; inflamed by Cupid disguised as Ascanius; "drank long draughts of love"
+- **[Aeneid](../sources/aeneid.md)** IV: Confesses love to Anna; "I know the prints of the ancient flame"; compared to a wounded deer; Juno and Venus conspire; the cave; "she calls it marriage, and with this name veils her fall"; discovers Aeneas's departure; speeches of anguish and fury; "Hyrcanian tigresses gave thee suck"; curses him to be haunted by her ghost; sends Anna to plead; final curse prophesying eternal enmity (the "unnamed avenger" = Hannibal); mounts the funeral pyre with Aeneas's sword; "I have built a renowned city"; falls on the sword; Iris sent by Juno to release her soul
