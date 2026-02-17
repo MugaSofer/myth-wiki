@@ -81,6 +81,15 @@ Glaucus "wept" and "fled the embrace of Circe and her hostile power of herbs." S
 [^met-scy-transform]: "Scylla came there and waded in waist deep, then saw her loins defiled with barking shapes. Believing they could be no part of her, she ran and tried to drive them back and feared the boisterous canine jaws. But what she fled she carried with her... She rises from a rage of dogs, and shaggy backs encircle her shortened loins" (Metamorphoses 14.59-70, trans. Brookes More)
 [^met-scy-rock]: "she would have wrecked the Trojan ships, if she had not been changed beforehand to a rock which to this day reveals a craggy rim. And even the rock awakes the sailors' dread" (Metamorphoses 14.72-74, trans. Brookes More)
 
+## In the [Aeneid](../sources/aeneid.md)
+
+### Helenus's Warning (3.420-432)
+
+In the [Aeneid](../sources/aeneid.md), the seer Helenus warns [Aeneas](../heroes/aeneas.md) to avoid the strait of Scylla and Charybdis. His description of Scylla differs from the [Odyssey](../sources/odyssey.md)'s six-headed monster: "Scylla lies prisoned in her cavern's blind recesses, thrusting forth her mouth and drawing ships upon the rocks. In front her face is human, and her breast fair as a maiden's to the waist down; behind she is a sea-dragon of monstrous frame, with dolphins' tails joined on her wolf-girt belly."[^aen-scy-desc] Helenus advises taking the long route around Sicily rather than risk her: "Better to track the goal of Trinacrian Pachynus, lingering and wheeling round through long spaces, than once catch sight of misshapen Scylla."[^aen-scy-avoid]
+
+[^aen-scy-desc]: "Scylla lies prisoned in her cavern's blind recesses, thrusting forth her mouth and drawing ships upon the rocks. In front her face is human, and her breast fair as a maiden's to the waist down; behind she is a sea-dragon of monstrous frame, with dolphins' tails joined on her wolf-girt belly" (Aeneid 3.424-428, trans. J.W. Mackail)
+[^aen-scy-avoid]: "Better to track the goal of Trinacrian Pachynus, lingering and wheeling round through long spaces, than once catch sight of misshapen Scylla deep in her dreary cavern" (Aeneid 3.429-432)
+
 ## Variant Parentage (Great Eoiae)
 
 The Great Eoiae preserves a strikingly different parentage: "in the Great Eoiae Scylla is the daughter of Phoebus and Hecate."[^ge-parentage] This would make her the offspring of [Apollo](../deities/apollo.md) and [Hecate](../deities/hecate.md) — a child of the sun-god and the goddess of crossroads and sorcery — rather than the daughter of the obscure Crataiis named in the [Odyssey](../sources/odyssey.md).
@@ -94,6 +103,7 @@ The Great Eoiae preserves a strikingly different parentage: "in the Great Eoiae 
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.730-749: A maiden courted by many suitors; beloved of the Nereids; confided in Galatea
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.898-968: Glaucus (newly transformed sea-god) pursued her; she fled to a mountaintop; he told his story; rejected, he went to Circe
 - **[Metamorphoses](../sources/metamorphoses.md)** 14.1-74: Circe poisoned her bathing pool with herbs and Hecate's incantations; waded in waist-deep; loins transformed with barking dog-shapes; "Cerberian jaws" instead of legs; Glaucus wept; for hate of Circe she attacked Odysseus's men; eventually changed to rock
+- **[Aeneid](../sources/aeneid.md)** III: Helenus warns Aeneas; variant description — "her face is human, and her breast fair as a maiden's to the waist down; behind she is a sea-dragon of monstrous frame, with dolphins' tails joined on her wolf-girt belly"; advises the long route around Sicily
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: The Argo passed through the strait of Scylla and the Wandering Rocks — "[Thetis](../deities/thetis.md) with the Nereids steered the ship through them at the summons of [Hera](../deities/hera.md)"[^apd-argo]
 
 [^apd-argo]: "the ship encountered Charybdis and Scylla and the Wandering Rocks, above which a great flame and smoke were seen rising. But Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)

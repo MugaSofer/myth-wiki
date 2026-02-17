@@ -182,6 +182,8 @@ Aphrodite descended to the river Numicius and "willed Numicius should wash perfe
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Taken captive by Neoptolemus, "a prize surpassing those of all the Danaans"
 - **[Fabulae](../sources/hyginus.md)** §94: Venus loved Anchises and conceived Aeneas; warned him not to reveal it; Anchises told it over the wine; struck by thunderbolt (or died by his own hand)
 - **[Aeneid](../sources/aeneid.md)** I: Storm raised by Juno; "thrice and four times happy" lament; feigns hope while hiding anguish; Venus guides him to Carthage in a cloud; appears godlike when revealed; welcomed by Dido
+- **[Aeneid](../sources/aeneid.md)** II: Narrates Troy's fall; Hector's ghost entrusts household gods; fights through burning city; Venus appears in true divine form; carries Anchises on his shoulders; loses Creusa; her ghost prophesies Italy
+- **[Aeneid](../sources/aeneid.md)** III: Wanderings — Polydorus's bleeding grave in Thrace; Apollo's oracle at Delos; household gods redirect from Crete to Italy; Harpies at the Strophades; Andromache and Helenus at Buthrotum; Helenus prophesies the Sibyl; passes Cyclopes' coast; Anchises dies at Drepanum
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.623-728: Flight from Troy carrying his father and household gods; visits Delos (Anius and his daughters); oracle directs him to ancestral homeland; voyage through Crete, Strophades, Epirus, to Sicily
 - **[Metamorphoses](../sources/metamorphoses.md)** 14.75-608: Sicily to Italy; war with Turnus and the Rutulians; Venus petitions Zeus; mortal part washed away in the Numicius; anointed with nectar and ambrosia; deified as the god Indiges
 

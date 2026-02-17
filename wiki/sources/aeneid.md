@@ -22,6 +22,9 @@ The gods play active roles throughout, with [Juno](../deities/hera.md) opposing 
 ### Book II: The Fall of Troy
 [Aeneas](../heroes/aeneas.md) narrates Troy's destruction to Dido's court. The Greeks leave the wooden horse; Sinon deceives the Trojans with a false story. Laocoön warns against the horse ("I fear the Grecians even when they offer gifts") but is killed with his sons by two sea-serpents. Hector's ghost appears to Aeneas and commends the household gods to his care. Troy falls in the night; Aeneas fights through the burning city. Neoptolemus (Pyrrhus) kills [Priam](../heroes/priam.md) at his own altar. [Venus](../deities/aphrodite.md) appears to Aeneas in her true divine form and reveals the gods destroying Troy. Aeneas carries Anchises on his shoulders, leads Iülus by the hand, but loses his wife Creüsa in the confusion; her ghost prophesies his future in Italy.
 
+### Book III: The Wanderings
+[Aeneas](../heroes/aeneas.md) continues his narration. In Thrace, he discovers the bleeding grave of Polydorus, [Priam](../heroes/priam.md)'s son murdered for gold. At Delos, [Apollo](../deities/apollo.md)'s oracle counsels "seek out your ancient mother." Anchises misinterprets this as Crete, but the household gods appear in a vision redirecting them to Italy (Hesperia). At the Strophades, the [Harpies](../creatures/harpies.md) defile their feast; Celaeno prophesies they will eat their tables. At Buthrotum, they find Helenus and Andromache ruling a miniature Troy. Helenus prophesies the route to Italy, warns of [Scylla](../creatures/scylla.md) and Charybdis, and foretells the Sibyl. They pass the [Cyclopes](../creatures/cyclopes.md)' coast and rescue Achemenides, a Greek left behind by Odysseus. Anchises dies at Drepanum.
+
 ## Key Entities Introduced
 
 - **Dido** — Queen of Carthage, widow of Sychaeus, who welcomes Aeneas
