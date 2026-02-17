@@ -12,6 +12,28 @@
 
 **Aineias** is the son of [Aphrodite](../deities/aphrodite.md) and the mortal Anchises, a prince of the Dardanian line descended from [Zeus](../deities/zeus.md) through Dardanos. He is a major Trojan warrior in the [Iliad](../sources/iliad.md), leader of the Dardanians, and the subject of a divine prophecy that his line will rule the Trojans after the fall of Priam's house. His conception and birth are told in [Homeric Hymn V](../sources/homeric-hymns.md), and he appears throughout the Iliad as a warrior repeatedly saved by the gods.
 
+## Epithets
+
+In the [Iliad](../sources/iliad.md), Aineias is called **"counsellor of the Trojans"** and **"deviser of rout."**[^il-epithets] He is consistently described as **"great of heart"** (*megalētōr*), used notably by [Poseidon](../deities/poseidon.md) when pitying him.[^il20-greatheart] Idomeneus calls him **"right strong to destroy men in battle"** and says he has **"the flower of youth, the greatest avail that may be."**[^il13-strong]
+
+In the [Aeneid](../sources/aeneid.md), his characteristic epithet is **"good Aeneas"** and **"goddess-born"** (*pius Aeneas*).[^aen-pius] In the [Metamorphoses](../sources/metamorphoses.md), he is called **"the heroic son of Venus"** and **"the pious hero."**[^met-pious]
+
+[^il-epithets]: "Aineias counsellor of Trojans" and "Aineias deviser of rout" (Iliad, passim, trans. Lang, Leaf, and Myers)
+[^il20-greatheart]: "Alas, woe is me for Aineias great of heart" (Iliad XX.11552)
+[^il13-strong]: "he is right strong to destroy men in battle, and he hath the flower of youth, the greatest avail that may be" (Iliad XIII.7865-7867)
+[^aen-pius]: "good Aeneas" (Aeneid, passim, trans. J.W. Mackail)
+[^met-pious]: "Aeneas, the heroic son of Venus... the pious hero" (Metamorphoses 13.623-631, trans. Brookes More)
+
+## Appearance
+
+In the [Homeric Hymn to Aphrodite](../sources/homeric-hymns.md), Aineias's father Anchises is described as being "in shape like the immortal gods," which establishes the family's divine beauty.[^hh5-anchises-shape]
+
+In the [Aeneid](../sources/aeneid.md), when [Venus](../deities/aphrodite.md) dispelled the cloud hiding him at Carthage, "Aeneas stood discovered in sheen of brilliant light, like a god in face and shoulders; for his mother's self had shed on her son the grace of clustered locks, the radiant light of youth, and the lustre of joyous eyes."[^aen-ae-godlike-app] This divine beauty is Venus's gift, and it appears whenever Aeneas must present himself before mortals. He characteristically feigns composure: "sick with deep distress he feigns hope on his face, and keeps his anguish hidden deep in his breast."[^aen-ae-feign-app]
+
+[^hh5-anchises-shape]: "Anchises who was tending cattle at that time among the steep hills of many-fountained Ida, and in shape was like the immortal gods" (Homeric Hymn V to Aphrodite 53-55, trans. H.G. Evelyn-White)
+[^aen-ae-godlike-app]: "Aeneas stood discovered in sheen of brilliant light, like a god in face and shoulders; for his mother's self had shed on her son the grace of clustered locks, the radiant light of youth, and the lustre of joyous eyes" (Aeneid 1.588-591, trans. J.W. Mackail)
+[^aen-ae-feign-app]: "sick with deep distress he feigns hope on his face, and keeps his anguish hidden deep in his breast" (Aeneid 1.208-209, trans. J.W. Mackail)
+
 ## Genealogy
 
 The fullest genealogy is given by Aineias himself in [Iliad](../sources/iliad.md) Book XX: "First [Zeus](../deities/zeus.md) the cloud-gatherer begat Dardanos, and he stablished Dardania... Then Dardanos begat a son, king Erichthonios, who became richest of mortal men." Erichthonios begat Tros, "and to Tros three noble sons were born, Ilos and Assarakos and godlike Ganymedes, who became the most beautiful of mortal men. Him the gods caught up to be cupbearer to [Zeus](../deities/zeus.md), for sake of his beauty." The line continues: "Assarakos begat Kapys, and Kapys Anchises, and Anchises me; but Priam begat the goodly Hector."[^il20-genealogy]

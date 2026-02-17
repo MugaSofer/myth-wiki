@@ -12,6 +12,23 @@
 
 **Agamemnon** is the king of Mycenae and commander-in-chief of the Greek expedition against [Troy](../places/troy.md). His house is cursed through the crimes of his ancestors — [Tantalus](../sources/apollodorus.md), [Pelops](../sources/apollodorus.md), and Atreus — and his own story ends in murder at the hands of his wife and her lover.
 
+## Epithets
+
+Agamemnon's most common Homeric epithet is **"king of men"** (*anax andrōn*), used throughout the [Iliad](../sources/iliad.md).[^il1-kingofmen] He is also called **"wide-ruling Agamemnon,"**[^il1-wideruling] **"son of Atreus"** (the standard patronymic),[^il3-atreid] and **"a goodly king and mighty spearman"** — [Helen](helen.md)'s description of him to [Priam](priam.md) from the walls of Troy.[^il3-helen]
+
+[^il1-kingofmen]: "Then Agamemnon king of men made answer to him" (Iliad I.353, trans. Lang, Leaf, and Myers)
+[^il1-wideruling]: "son of Atreus, wide-ruling Agamemnon, sore displeased" (Iliad I.289)
+[^il3-atreid]: "This is Atreides, wide-ruling Agamemnon" (Iliad III.1796)
+[^il3-helen]: "This is Atreides, wide-ruling Agamemnon, one that is both a goodly king and mighty spearman. And he was my husband's brother to me, ah shameless me; if ever such an one there was" (Iliad III.1796-1798)
+
+## Appearance
+
+The [Iliad](../sources/iliad.md) gives Agamemnon the fullest divine comparison of any mortal. As the Greeks assembled for battle, "in their midst lord Agamemnon, his head and eyes like unto Zeus whose joy is in the thunder, and his waist like unto Ares and his breast unto Poseidon. Even as a bull standeth out far foremost amid the herd, for he is pre-eminent amid the pasturing kine, even such did Zeus make Atreides on that day, pre-eminent among many and chief amid heroes."[^il2-appearance]
+
+This is a composite image: Agamemnon has the commanding gaze of [Zeus](../deities/zeus.md), the warrior's build of [Ares](../deities/ares.md), and the powerful chest of [Poseidon](../deities/poseidon.md). The bull simile underscores his physical dominance.
+
+[^il2-appearance]: "in their midst lord Agamemnon, his head and eyes like unto Zeus whose joy is in the thunder, and his waist like unto Ares and his breast unto Poseidon. Even as a bull standeth out far foremost amid the herd, for he is pre-eminent amid the pasturing kine, even such did Zeus make Atreides on that day, pre-eminent among many and chief amid heroes" (Iliad II.1222-1227, trans. Lang, Leaf, and Myers)
+
 ## In the Bibliotheca
 
 ### Parentage and Rise to Power (3.2.1-2, E.2.10-16)

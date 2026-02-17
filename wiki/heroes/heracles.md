@@ -13,6 +13,22 @@
 
 **Heracles** is the son of [Zeus](../deities/zeus.md) and the mortal Alcmena. He appears repeatedly in the [Theogony](../sources/theogony.md) as a slayer of monsters.
 
+## Epithets
+
+- **"mighty Heracles"** — the standard epithet (Theogony 289, 332, 943; Shield of Heracles passim)
+- **"the bold-hearted son of Zeus"** — (Shield of Heracles 443)[^sh-athena]
+- **"the valiant son of neat-ankled Alcmena"** — (Theogony 950)[^theog-apotheosis]
+- **"the child of Zeus, hardy of heart"** — the Odyssey's characterization, in context of his darker deeds (Odyssey XXI)[^od21-iphitus]
+- **"much the mightiest of men on earth"** — (Hymn XV 2)[^hh15-mightiest]
+
+[^hh15-mightiest]: "I will sing of Heracles, the son of Zeus and much the mightiest of men on earth" (Homeric Hymn XV to Heracles 1-2, trans. H.G. Evelyn-White)
+
+## Appearance
+
+In the [Odyssey](../sources/odyssey.md), his phantom appears in [Hades](../deities/hades.md) with terrifying aspect: "like black Night, with bow uncased, and shaft upon the string, fiercely glancing around, like one in the act to shoot."[^od11-appearance]
+
+At his birth he was described as "one terrible and strong" — distinct even from his twin Iphiclus, who was "weaker."[^sh-unlike]
+
 ## Birth
 
 "Alcmena was joined in love with [Zeus](../deities/zeus.md) who drives the clouds and bare mighty Heracles."[^theog-birth]
