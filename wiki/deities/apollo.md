@@ -50,6 +50,8 @@ When he reveals himself to the Cretan sailors at Crisa, his divine radiance is b
 - **Shapeshifting:** He took the form of a dolphin to guide the Cretan priests to Delphi.[^hh3-priests]
 - **Favouring wind:** After proper sacrifice, "Apollo the Far-darter sent them a favouring gale."[^il1-favour]
 - **Divine radiance:** When he reveals himself, "flashes of fire flew from him thick and their brightness reached to heaven."[^desc-star]
+- **Transformation by curse:** When the raven reported Coronis's infidelity, "Apollo cursed the raven that brought the tidings and made him black instead of white, as he had been before."[^apd-raven]
+- **Bestowing fertility:** During his servitude to Admetus, Apollo "caused all the cows to drop twins" — a power of miraculous fecundity over livestock.[^apd-admetus-twins]
 
 ## Birth
 
@@ -105,6 +107,8 @@ The plague continued for nine days until the Greeks returned Chryses's daughter 
 
 [^il1-plague]: "Phoebus Apollo heard him, and came down from the peaks of Olympus wroth at heart, bearing on his shoulders his bow and covered quiver. And the arrows clanged upon his shoulders in wrath, as the god moved; and he descended like to night. Then he sate him aloof from the ships, and let an arrow fly; and there was heard a dread clanging of the silver bow" (Iliad I.43-49, trans. Lang, Leaf, and Myers)
 [^il1-favour]: "Apollo the Far-darter sent them a favouring gale" (Iliad I.479)
+[^apd-raven]: "Apollo cursed the raven that brought the tidings and made him black instead of white, as he had been before; but he killed Coronis" (Bibliotheca 3.10.3, trans. J.G. Frazer)
+[^apd-admetus-twins]: "he went to Admetus, son of Pheres, at Pherae, and served him as a herdsman, and caused all the cows to drop twins" (Bibliotheca 3.10.4, trans. J.G. Frazer)
 
 ### Meeting Athena / Arranging the Duel (Book VII)
 

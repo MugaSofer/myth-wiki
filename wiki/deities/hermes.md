@@ -315,7 +315,7 @@ When Argus finally slumbered, Mercury struck: "he touched the drooping eyelids w
 - **[Bibliotheca](../sources/apollodorus.md)** 3.2.1: Loved Apemosyne; "spread fresh hides on the path, on which, returning from the spring, she slipped and so was deflowered"
 - **[Bibliotheca](../sources/apollodorus.md)** 3.4.3: Received the infant Dionysus from Zeus and conveyed him to Ino and Athamas; later took him as a kid to the nymphs at Nysa
 - **[Bibliotheca](../sources/apollodorus.md)** 3.5.5: Gave Amphion a lyre — "Hermes had given him a lyre"
-- **[Bibliotheca](../sources/apollodorus.md)** 3.10.2: Birth story — born in cave of Cyllene to Maia; stole Apollo's cattle at Pieria; hid them at Pylus; invented the lyre from a tortoise shell; exchanged the lyre for cattle; made a shepherd's pipe; exchanged the pipe for the golden wand and the art of divination; appointed herald to Zeus and to the infernal gods
+- **[Bibliotheca](../sources/apollodorus.md)** 3.10.2: Birth story — born in cave of Cyllene to Maia; stole Apollo's cattle at Pieria; hid them at Pylus; invented the lyre from a tortoise shell; exchanged the lyre for cattle; made a shepherd's pipe; exchanged the pipe for the golden wand and "the art of divining by pebbles" (a different tradition from the Hymn's bee-maiden divination); appointed herald "to himself and to the infernal gods" (dual role)
 - **[Bibliotheca](../sources/apollodorus.md)** 3.14.3: Fathered Cephalus on Herse, daughter of Cecrops
 - **[Bibliotheca](../sources/apollodorus.md)** E.2.6: Myrtilus, son of Hermes, was charioteer to Oenomaus; sabotaged the chariot for Pelops
 - **[Bibliotheca](../sources/apollodorus.md)** E.2.12: Sent by Zeus to Atreus; arranged that the sun would go backward

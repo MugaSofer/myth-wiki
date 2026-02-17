@@ -270,6 +270,7 @@ In Book XI, [Apollo](apollo.md) and Poseidon "assumed a mortal form: and those t
 [^met-pos-trident]: "Neptune with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare" (Metamorphoses 1.283-284)
 [^met-pos-retreat]: "the Ocean ruler laid his trident down and pacified the waves, and called on azure Triton... he bade the Triton blow, blow in his sounding shell, the wandering streams and rivers to recall" (Metamorphoses 1.330-335)
 [^met-pos-troy]: "Neptune, enraged, said, 'You shall not escape your punishment.' And he drove all his waters high upon the shores of Troy... The daughter of the king was soon required as food for a sea-monster" (Metamorphoses 11.207-225)
+[^apd-arion]: "Adrastus alone was saved by his horse Arion. That horse Poseidon begot on Demeter, when in the likeness of a Fury she consorted with him" (Bibliotheca 3.6.8, trans. J.G. Frazer)
 
 ## Appearances
 
@@ -297,6 +298,7 @@ In Book XI, [Apollo](apollo.md) and Poseidon "assumed a mortal form: and those t
 - **[Iliad](../sources/iliad.md)** XXI: Saves Achilles from the River (with Athena, in likeness of men); challenges Apollo — expanded Laomedon account: "I round their city built the Trojans a wall... and thou Phoebus, didst herd shambling crook-horned kine among the spurs of woody many-folded Ida"; Laomedon cheated them of their hire
 - **[Iliad](../sources/iliad.md)** XXIV: Opposes returning Hector's body (with Hera and Athena) — still angry about the Judgment of Paris
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.3-1.4.4: Father of Orion (by Euryale, per Pherecydes); gave Orion power of striding across the sea; hid Oenopion in underground house built by [Hephaestus](hephaestus.md)
+- **[Bibliotheca](../sources/apollodorus.md)** 3.6.8: Begot the horse Arion on [Demeter](demeter.md) — "that horse Poseidon begot on Demeter, when in the likeness of a Fury she consorted with him"[^apd-arion]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.5: Married Amphitrite, daughter of [Oceanus](oceanus.md); fathered Triton and Rhode
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Chased the giant Polybotes through the sea; broke off part of Cos (Nisyrum) and threw it on him
 - **[Bibliotheca](../sources/apollodorus.md)** 1.1.5, 1.2.1: Swallowed by Cronos; Cyclopes bestow a trident on him; allotted dominion of the sea by lot

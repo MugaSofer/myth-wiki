@@ -57,6 +57,7 @@ The [aegis](../objects/aegis.md) is described separately from her arming scenes:
 - **Disguise and deception:** She appears as Laodokos (IV), Deiphobus (XXII), and in vulture form (VII). She tricks Hector into facing Achilles by impersonating his brother, then invisibly retrieves Achilles' thrown spear.[^desc-deception]
 - **Physical combat:** She hurls a boundary stone at Ares so that "seven roods he covered in his fall," and strikes [Aphrodite](aphrodite.md) on the breast with her fist.[^desc-combat]
 - **Motherly patronage of Odysseus:** Aias calls her "the goddess... from of old like a mother standeth by Odysseus' side."[^desc-odysseus]
+- **Gorgon blood (dual-natured):** After [Perseus](../heroes/perseus.md) slew Medusa, Athena possessed the Gorgon's blood, which had opposite powers depending on which vein it came from. She gave it to Asclepius: "he used the blood that flowed from the veins on the left side for the bane of mankind" while "the blood that flowed from the right side" was used "for salvation, and by that means he raised the dead."[^apd-gorgon-blood]
 
 [^desc-fire]: "she kindled from his helm and shield flame unwearying, like to the star of summer that above all stars riseth brightest bathed in the Ocean stream. In such wise kindled she fire from his head and shoulders" (Iliad V.2611-2614, trans. Lang, Leaf, and Myers)
 [^desc-achilles-fire]: "the bright-eyed goddess Athene cast about his mighty shoulders the tasselled aegis, and around his head the divine goddess set a crown of golden cloud, and kindled therefrom a blazing fire... Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" (Iliad XVIII.10553-10562)
@@ -64,6 +65,7 @@ The [aegis](../objects/aegis.md) is described separately from her arming scenes:
 [^desc-deception]: "she left him and came to noble Hector, like unto Deiphobos in shape and in strong voice... Thus saying Athene in her subtlety led him on" (Iliad XXII.12493-12514)
 [^desc-combat]: "she sprang forth and caught up a stone that lay in the plain, black, rugged, huge, that men of old time set to be the boundary of a field: therewith smote she fierce Ares on the neck, and unstrung his limbs" (Iliad XXI.12103-12106)
 [^desc-odysseus]: "the goddess who from of old like a mother standeth by Odysseus' side and helpeth him" (Iliad XXIII.13463-13464)
+[^apd-gorgon-blood]: "he had received from Athena the blood that flowed from the veins of the Gorgon, and while he used the blood that flowed from the veins on the left side for the bane of mankind, he used the blood that flowed from the right side for salvation, and by that means he raised the dead" (Bibliotheca 3.10.3, trans. J.G. Frazer)
 
 ## Birth
 
