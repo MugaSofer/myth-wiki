@@ -56,6 +56,25 @@ The [Hundred-Handers](../creatures/hundred-handers.md) — "Gyes and Cottus and 
 
 [^theog-styx]: "And there dwells the goddess loathed by the deathless gods, terrible Styx, eldest daughter of back-flowing Ocean. She lives apart from the gods in her glorious house vaulted over with great rocks and propped up to heaven all round with silver pillars." (Theogony 775-779)
 
+## In the [Aeneid](../sources/aeneid.md)
+
+### The Sibyl's Description (6.548-627)
+
+In the [Aeneid](../sources/aeneid.md), the Sibyl describes Tartarus to [Aeneas](../heroes/aeneas.md) as he sees it from the outside. It is "a wide city, girt with a triple wall and encircled by a racing river of boiling flame, Tartarean Phlegethon."[^aen-tar-walls] The gate is "huge and pillared with solid adamant, that no warring force of men nor the very habitants of heaven may avail to overthrow; it stands up a tower of iron."[^aen-tar-gate] Tisiphone, one of the Furies, "sitting girt in bloodstained pall keeps sleepless watch at the entry by night and day."[^aen-tar-tisiphone]
+
+Within, Rhadamanthus "holds unrelaxing sway, chastises secret crime revealed, and exacts confession."[^aen-tar-rhadamanthus] The Hydra sits within "with her fifty black yawning throats." Tartarus itself "gapes sheer and strikes into the gloom through twice the space that one looks upward to Olympus and the skyey heaven."[^aen-tar-depth]
+
+The punished include the Titans ("Earth's ancient children... hurled down by the thunderbolt"), the Aloads who tried to overthrow heaven, Salmoneus who mimicked [Jupiter](../deities/zeus.md)'s thunder, and Tityos whose liver is eternally devoured by a vulture across "nine full acres."[^aen-tar-tityos] Others "roll a vast stone, or hang outstretched on the spokes of wheels." Phlegyas cries out the warning: "Learn by this warning to do justly and not to slight the gods."[^aen-tar-phlegyas]
+
+[^aen-tar-walls]: "a wide city, girt with a triple wall and encircled by a racing river of boiling flame, Tartarean Phlegethon, that echoes over its rolling rocks" (Aeneid 6.548-551, trans. J.W. Mackail)
+[^aen-tar-gate]: "the gate, huge and pillared with solid adamant, that no warring force of men nor the very habitants of heaven may avail to overthrow; it stands up a tower of iron" (Aeneid 6.552-554)
+[^aen-tar-tisiphone]: "Tisiphone sitting girt in bloodstained pall keeps sleepless watch at the entry by night and day" (Aeneid 6.555-556)
+[^aen-tar-rhadamanthus]: "Gnosian Rhadamanthus here holds unrelaxing sway, chastises secret crime revealed, and exacts confession" (Aeneid 6.566-567)
+[^aen-tar-depth]: "Tartarus' self gapes sheer and strikes into the gloom through twice the space that one looks upward to Olympus and the skyey heaven" (Aeneid 6.577-579)
+[^aen-tar-tityos]: "Tityos might be seen, fosterling of Earth the mother of all, whose body stretches over nine full acres, and a monstrous vulture with crooked beak eats away the imperishable liver and the entrails that breed in suffering" (Aeneid 6.595-600)
+[^aen-tar-phlegyas]: "Phlegyas in his misery gives counsel to all and witnesses aloud through the gloom, Learn by this warning to do justly and not to slight the gods" (Aeneid 6.618-620)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 119, 682, 720-819: Origin; shaken during Titanomachy; extended description of layout and inhabitants
+- **[Aeneid](../sources/aeneid.md)** VI: Triple-walled city encircled by flaming Phlegethon; adamantine gate and iron tower; Tisiphone guarding; Rhadamanthus judging; the Hydra within; Titans, Aloads, Salmoneus, Tityos (nine acres, vulture), Ixion, Theseus; Phlegyas's warning; "twice the space that one looks upward to Olympus"

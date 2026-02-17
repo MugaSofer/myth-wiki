@@ -28,6 +28,12 @@ The gods play active roles throughout, with [Juno](../deities/hera.md) opposing 
 ### Book IV: Dido's Love and Death
 [Dido](../heroes/dido.md) confesses her love for [Aeneas](../heroes/aeneas.md) to her sister Anna. [Juno](../deities/hera.md) and [Venus](../deities/aphrodite.md) conspire to unite them in a cave during a hunt. Rumour (Fama) spreads the news. King Iarbas complains to [Jupiter](../deities/zeus.md), who sends [Mercury](../deities/hermes.md) to command Aeneas to leave. Dido discovers his plans; her speeches of anguish and fury. Aeneas departs. Dido curses Rome and Carthage to eternal enmity ("unnamed avenger"), mounts a funeral pyre, and falls on Aeneas's sword. [Juno](../deities/hera.md) sends Iris to release her soul.
 
+### Book V: The Funeral Games
+[Aeneas](../heroes/aeneas.md) holds funeral games for Anchises in Sicily: ship race, foot race, boxing, archery, and cavalry display. [Juno](../deities/hera.md) sends Iris disguised as Beroë to incite the Trojan women to burn the ships; [Jupiter](../deities/zeus.md) sends rain to save them, though four are lost. Anchises' ghost appears and commands Aeneas to visit the underworld via the Sibyl. [Venus](../deities/aphrodite.md) appeals to [Neptune](../deities/poseidon.md) for safe passage; Neptune promises it at the cost of one life. Sleep (Somnus) drowns the helmsman Palinurus.
+
+### Book VI: The Underworld
+[Aeneas](../heroes/aeneas.md) reaches Cumae and consults the Sibyl (Deiphobe, priestess of [Apollo](../deities/apollo.md) and [Hecate](../deities/hecate.md)). She prophesies wars in Italy. He requests passage to the underworld; she requires the golden bough, sacred to [Proserpine](../deities/persephone.md). After burying Misenus, they descend. They pass the Vestibule of personified evils, cross the Styx via Charon (subduing Cerberus with drugged cake), enter the Wailing Fields where [Dido](../heroes/dido.md) turns away in silence. They see Tartarus — the Titans, Tityos, Ixion, Rhadamanthus judging, Tisiphone guarding — then enter Elysium. Anchises explains the cycle of reincarnation and shows a parade of future Roman heroes, from Silvius through Augustus. Aeneas departs by the ivory gate of false dreams.
+
 ## Key Entities Introduced
 
 - **Dido** — Queen of Carthage, widow of Sychaeus, who welcomes Aeneas
