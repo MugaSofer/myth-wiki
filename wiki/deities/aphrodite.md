@@ -196,6 +196,28 @@ After departing in her swan-drawn chariot, Adonis ignored her warning and was go
 [^met-aph-warning]: "Dear boy, do not be rash, do not attack the wild beasts which are armed by nature, lest your glory may cost me great sorrow" (Metamorphoses 10.543-549, trans. Brookes More)
 [^met-aph-anemone]: "My sorrow for Adonis will remain, enduring as a lasting monument. Each passing year the memory of his death shall cause an imitation of my grief. Your blood, Adonis, will become a flower perennial... the winds which give the flower its name, Anemone, shake it right down" (Metamorphoses 10.724-739, trans. Brookes More)
 
+## In the [Aeneid](../sources/aeneid.md)
+
+### Guiding Aeneas at Carthage (1.305-417)
+
+Venus appears to [Aeneas](../heroes/aeneas.md) disguised as a young huntress, "wearing the face and raiment of a maiden, the arms of a maiden of Sparta... bared her knee, and knotted together her garments' flowing folds."[^aen-aph-huntress] Aeneas does not recognise her but senses she is divine: "for thy face is not mortal, nor thy voice of human tone; O goddess assuredly!" When she turns to leave, her true nature is revealed: "her neck shone roseate, her immortal tresses breathed the fragrance of deity; her raiment fell flowing down to her feet, and the godhead was manifest in her tread."[^aen-aph-reveal] He recognises her too late: "Thou also merciless! Why mockest thou thy son so often in feigned likeness?"
+
+She then wraps Aeneas and Achates in a divine cloud of invisibility so they can enter Carthage unseen.[^aen-aph-cloud]
+
+### Appealing to Jupiter (1.227-296)
+
+Earlier, Venus had gone to [Jupiter](../deities/zeus.md) in tears, "her bright eyes brimming with tears," to protest Juno's persecution of her son and remind him of the destiny he had promised — that from Aeneas's line the Romans would arise. Jupiter kissed her and confirmed the prophecy in full, prophesying Aeneas's wars, Ascanius's thirty years of rule, the founding of Alba Longa, and the birth of Romulus.[^aen-aph-jupiter]
+
+### The Cupid Scheme (1.657-722)
+
+To ensure Dido's protection of Aeneas, Venus devised a plan to inflame the queen with love. She hid the real Ascanius "deep asleep in my holy habitation, high on Cythera's hills" and sent [Cupid](../deities/eros.md) in the boy's form to the banquet. She instructed him: "when in festal cheer... Dido shall take thee to her lap, shall fold thee in her clasp and kiss thee close and sweet, thou mayest imbreathe a hidden fire and unsuspected poison."[^aen-aph-cupid] Cupid obeyed, and "touch by touch" began to efface Dido's memory of her dead husband Sychaeus.
+
+[^aen-aph-huntress]: "wearing the face and raiment of a maiden, the arms of a maiden of Sparta... bared her knee, and knotted together her garments' flowing folds" (Aeneid 1.315-320, trans. J.W. Mackail)
+[^aen-aph-reveal]: "her neck shone roseate, her immortal tresses breathed the fragrance of deity; her raiment fell flowing down to her feet, and the godhead was manifest in her tread" (Aeneid 1.402-405)
+[^aen-aph-cloud]: "Venus girt them in their going with dull mist, and shed round them a deep divine clothing of cloud, that none might see them, none touch them" (Aeneid 1.411-414)
+[^aen-aph-jupiter]: "Smiling on her with that look which clears sky and storms, the parent of men and gods lightly kissed his daughter's lips" (Aeneid 1.254-256); Jupiter prophesies: "Spare thy fear, Cytherean; thy people's destiny abides unshaken"
+[^aen-aph-cupid]: "when in festal cheer, amid royal dainties and Bacchic juice, Dido shall take thee to her lap, shall fold thee in her clasp and kiss thee close and sweet, thou mayest imbreathe a hidden fire and unsuspected poison" (Aeneid 1.685-688)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 16, 188-206: Mentioned in invocation; birth from sea-foam
@@ -212,6 +234,7 @@ After departing in her swan-drawn chariot, Adonis ignored her warning and was go
 - **[Odyssey](../sources/odyssey.md)** XX: In the myth of the daughters of Pandareus — "fair [Aphrodite](aphrodite.md) cherished them with curds and sweet honey and delicious wine" and later went "wending to high [Olympus](../places/olympus.md), to pray that a glad marriage might be accomplished for the maidens"[^od20-pandareus]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Her garments "which the Graces and Hours had made for her and dyed in flowers of spring — such flowers as the Seasons wear — in crocus and hyacinth and flourishing violet and the rose's lovely bloom";[^cyp-garments] competes with Hera and Athena in the Judgment of Paris; Paris chooses her and she promises him Helen[^cyp-judgment]
 - **[Metamorphoses](../sources/metamorphoses.md)** 10.519-739: Wounded by Cupid's arrow; loved Adonis; abandoned heaven to hunt with him; warned against fierce beasts; told tale of Atalanta/Hippomenes and golden apples; Adonis gored by boar; tore her garments in grief; sprinkled nectar on his blood; transformed him to anemone
+- **[Aeneid](../sources/aeneid.md)** I: Weeps before Jupiter for Aeneas's fate; disguises herself as a huntress; divine appearance when she turns away ("her neck shone roseate, her immortal tresses breathed the fragrance of deity"); wraps Aeneas in cloud of invisibility; sends Cupid disguised as Ascanius to inflame Dido with love
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.4: Cursed [Eos](eos.md) (Dawn) with perpetual love for mortals, because Eos had bedded with [Ares](ares.md)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.1: Daughter of [Zeus](zeus.md) and [Dione](dione.md) (variant from the Theogony's birth from Uranus)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.17: Cursed the Lemnian women with a noisome smell — "she visited them with a noisome smell; therefore their spouses took captive women from the neighboring country of Thrace and bedded with them"[^apd-lemnos]

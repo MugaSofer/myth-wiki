@@ -112,6 +112,21 @@ The prohibition was absolute, yet "Anchises, however, told it over the wine to h
 
 "And for this was struck by the thunderbolt of [Jove](../deities/zeus.md). Some say that he died by his own hand."[^hyg-94-punishment] This detail -- whether Anchises was struck by lightning or took his own life -- appears nowhere else in the tradition and represents a darker ending than the Homeric version.
 
+## In the [Aeneid](../sources/aeneid.md)
+
+### The Storm and Carthage (Book I)
+
+The *Aeneid* opens with [Aeneas](aeneas.md) sailing from Sicily toward Italy when [Juno](../deities/hera.md), still bitter from the judgment of Paris, enlists Aeolus to raise a catastrophic storm. Aeneas cries out in despair: "Ah, thrice and four times happy they who found their doom under high Troy town before their fathers' faces!"[^aen-ae-despair] [Neptune](../deities/poseidon.md) calms the sea, and the fleet makes landfall in Libya.
+
+Aeneas is characterised by a tension between outward composure and inner anguish: "sick with deep distress he feigns hope on his face, and keeps his anguish hidden deep in his breast."[^aen-ae-feign] He rallies his men with a speech: "Through chequered fortunes, through many perilous ways, we steer for Latium, where destiny points us a quiet home."[^aen-ae-rally]
+
+[Venus](../deities/aphrodite.md), disguised as a huntress, tells him of [Dido](dido.md) and Carthage, then wraps him in a cloud so he can enter the city unseen. When the cloud parts, "Aeneas stood discovered in sheen of brilliant light, like a god in face and shoulders; for his mother's self had shed on her son the grace of clustered locks, the radiant light of youth, and the lustre of joyous eyes."[^aen-ae-godlike] He is described throughout as "good Aeneas" and "goddess-born" (*pius Aeneas*).
+
+[^aen-ae-despair]: "Ah, thrice and four times happy they who found their doom under high Troy town before their fathers' faces!" (Aeneid 1.94-96, trans. J.W. Mackail)
+[^aen-ae-feign]: "sick with deep distress he feigns hope on his face, and keeps his anguish hidden deep in his breast" (Aeneid 1.208-209)
+[^aen-ae-rally]: "Through chequered fortunes, through many perilous ways, we steer for Latium, where destiny points us a quiet home" (Aeneid 1.204-205)
+[^aen-ae-godlike]: "Aeneas stood discovered in sheen of brilliant light, like a god in face and shoulders; for his mother's self had shed on her son the grace of clustered locks, the radiant light of youth, and the lustre of joyous eyes" (Aeneid 1.588-591)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### The Flight from Troy (13.623-631)
@@ -149,6 +164,7 @@ Aphrodite descended to the river Numicius and "willed Numicius should wash perfe
 - **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): His followers withdraw to Ida when serpents destroy Laocoon
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Taken captive by Neoptolemus, "a prize surpassing those of all the Danaans"
 - **[Fabulae](../sources/hyginus.md)** §94: Venus loved Anchises and conceived Aeneas; warned him not to reveal it; Anchises told it over the wine; struck by thunderbolt (or died by his own hand)
+- **[Aeneid](../sources/aeneid.md)** I: Storm raised by Juno; "thrice and four times happy" lament; feigns hope while hiding anguish; Venus guides him to Carthage in a cloud; appears godlike when revealed; welcomed by Dido
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.623-728: Flight from Troy carrying his father and household gods; visits Delos (Anius and his daughters); oracle directs him to ancestral homeland; voyage through Crete, Strophades, Epirus, to Sicily
 - **[Metamorphoses](../sources/metamorphoses.md)** 14.75-608: Sicily to Italy; war with Turnus and the Rutulians; Venus petitions Zeus; mortal part washed away in the Numicius; anointed with nectar and ambrosia; deified as the god Indiges
 
