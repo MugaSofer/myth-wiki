@@ -230,6 +230,7 @@ Demeter appealed to [Zeus](zeus.md) as both mother and father of Proserpina: "If
 - **[Metamorphoses](../sources/metamorphoses.md)** 5.341-571: Search for Proserpina with torches; transforms a mocking boy into a lizard; blights Sicily and the world; appeals to Zeus; year divided equally between Persephone and Hades
 - **[Theogony](../sources/theogony.md)** 454, 912-914, 969-974: Named among Cronos's children; bears Persephone; bears Plutus with Iasion
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Search for Persephone; famine; Eleusinian Mysteries
+- **[Homeric Hymn XIII](../sources/homeric-hymns.md)**: "Rich-haired Demeter, awful goddess"; with "her daughter lovely Persephone"
 - **[Odyssey](../sources/odyssey.md)** V: "Fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field" — Calypso cites as divine jealousy; Zeus slew Iasion with his thunderbolt
 - **[Bibliotheca](../sources/apollodorus.md)** 1.5.1-1.5.3: Search with torches; Laughless Rock and Well of Fair Dances at Eleusis; Iambe's jest and the Thesmophoria; Demophon consumed in the fire (variant: Praxithea watches, not Metanira); Triptolemus given winged dragon chariot to sow wheat; pomegranate; Ascalaphus bears witness; one-third year with Hades
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Identified with Isis — "the Egyptians called Isis"

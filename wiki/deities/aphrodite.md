@@ -49,6 +49,8 @@ At her birth, [Eros](eros.md) and "comely Desire" accompanied her: "with her wen
 
 She is described as "an awful and lovely goddess," and "grass grew up about her beneath her shapely feet."[^theog-desc]
 
+In the shorter [Homeric Hymn to Aphrodite](../sources/homeric-hymns.md) (X): "She gives kindly gifts to men: smiles are ever on her lovely face, and lovely is the brightness that plays over it."[^desc-hymnx]
+
 Additional epithets include **"violet-crowned Cytherea"** and **"sweetly-winning, coy-eyed goddess"** (Hymn VI 18, 19).[^desc-violet]
 
 In the [Iliad](../sources/iliad.md), when Aphrodite disguises herself as an old woman, Helen sees through it by recognising "the fair neck and lovely breast and sparkling eyes of the goddess."[^il3-disguise] Her raiment is described as "ambrosial" and woven by the [Graces](graces.md) themselves.[^il5-wound]
@@ -67,6 +69,7 @@ When she revealed her true form, "her head reached to the well-hewn roof-tree; f
 [^desc-violet]: "Hail, sweetly-winning, coy-eyed goddess!" (Homeric Hymn VI to Aphrodite 19)
 [^desc-anchises]: "she was clad in a robe out-shining the brightness of fire, a splendid robe of gold, enriched with all manner of needlework, which shimmered like the moon over her tender breasts, a marvel to see. Also she wore twisted brooches and shining earrings in the form of flowers; and round her soft throat were lovely necklaces" (Homeric Hymn V to Aphrodite 86-90)
 [^desc-reveal]: "her head reached to the well-hewn roof-tree; from her cheeks shone unearthly beauty such as belongs to rich-crowned Cytherea" (Homeric Hymn V to Aphrodite 173-175)
+[^desc-hymnx]: "She gives kindly gifts to men: smiles are ever on her lovely face, and lovely is the brightness that plays over it" (Homeric Hymn X to Aphrodite 2-3, trans. H.G. Evelyn-White)
 [^desc-adorned]: "on her head they put a fine, well-wrought crown of gold, and in her pierced ears they hung ornaments of orichalc and precious gold, and adorned her with golden necklaces over her soft neck and snow-white breasts, jewels which the gold-filleted Hours wear themselves... so greatly were they amazed at the beauty of violet-crowned Cytherea" (Homeric Hymn VI to Aphrodite 7-18)
 
 ## The Three Immune to Aphrodite (Hymn V)
@@ -242,6 +245,7 @@ She then lifted the veil from his mortal sight to reveal the gods destroying [Tr
 - **[Odyssey](../sources/odyssey.md)** VIII: The Song of Ares and Aphrodite — committed adultery with Ares in Hephaestus's house; "daughter of Zeus"; trapped in Hephaestus's net; goes to "Paphos of Cyprus, where is her precinct and fragrant altar"; the Graces bathe and anoint her
 - **[Odyssey](../sources/odyssey.md)** XVIII: Penelope beautified with "beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the [Graces](graces.md)" — Athena uses Aphrodite's own beauty standard as the measure[^od18-cytherea]
 - **[Odyssey](../sources/odyssey.md)** XX: In the myth of the daughters of Pandareus — "fair [Aphrodite](aphrodite.md) cherished them with curds and sweet honey and delicious wine" and later went "wending to high [Olympus](../places/olympus.md), to pray that a glad marriage might be accomplished for the maidens"[^od20-pandareus]
+- **[Homeric Hymn X](../sources/homeric-hymns.md)**: "Smiles are ever on her lovely face"; "queen of well-built Salamis and sea-girt Cyprus"
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Her garments "which the Graces and Hours had made for her and dyed in flowers of spring — such flowers as the Seasons wear — in crocus and hyacinth and flourishing violet and the rose's lovely bloom";[^cyp-garments] competes with Hera and Athena in the Judgment of Paris; Paris chooses her and she promises him Helen[^cyp-judgment]
 - **[Metamorphoses](../sources/metamorphoses.md)** 10.519-739: Wounded by Cupid's arrow; loved Adonis; abandoned heaven to hunt with him; warned against fierce beasts; told tale of Atalanta/Hippomenes and golden apples; Adonis gored by boar; tore her garments in grief; sprinkled nectar on his blood; transformed him to anemone
 - **[Aeneid](../sources/aeneid.md)** I: Weeps before Jupiter for Aeneas's fate; disguises herself as a huntress; divine appearance when she turns away ("her neck shone roseate, her immortal tresses breathed the fragrance of deity"); wraps Aeneas in cloud of invisibility; sends Cupid disguised as Ascanius to inflame Dido with love

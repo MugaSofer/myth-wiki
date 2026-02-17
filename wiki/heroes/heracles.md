@@ -532,6 +532,7 @@ Heracles built his pyre on Mount Oeta, spread the Nemean lion skin on top, and "
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 9.1-272: Wrestles Achelous; origin of Cornucopia; Nessus's poisoned tunic; agonizing death; lists his labours; builds pyre on Oeta; apotheosis among the stars
+- **[Homeric Hymn XV](../sources/homeric-hymns.md)**: "Son of Zeus and much the mightiest of men on earth"; born in Thebes of Alcmena; "wandered over unmeasured tracts of land and sea at the bidding of King Eurystheus"; now on Olympus with "neat-ankled Hebe for his wife"
 - **[Theogony](../sources/theogony.md)** 289-292, 316-318, 332, 526-532, 943-944, 950-955: Slaying monsters; freeing Prometheus; birth; marriage to Hebe and apotheosis
 - **[Shield of Heracles](../sources/shield-of-heracles.md)**: Conception (Zeus and Alcmena on the same night as Amphitryon); arming with Athena's gifts; the shield ekphrasis; kills Cycnus; wounds Ares in the thigh
 - **[Iliad](../sources/iliad.md)** V: Wounded [Hera](../deities/hera.md) with a three-barbed arrow and [Hades](../deities/hades.md) at Pylos; previously sacked Troy with only six ships for Laomedon's horses (recalled by Dione and Tlepolemos)

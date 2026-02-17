@@ -22,6 +22,11 @@
 - **"the Giver of Spoil"** / **"the spoil-driver"** — (Theogony 318; Iliad X)
 - **"beauteous-haired Athene"** / **"saviour of the city"** — used by the Trojans in prayer (Iliad VI)
 - **"the bright-eyed Maiden"** — (Iliad XXIV)
+- **"guardian of the city"** — (Hymn XI 1)[^desc-guardian]
+- **"inventive"** / **"unbending of heart"** / **"pure virgin"** / **"saviour of cities"** / **"courageous"** — (Hymn XXVIII 2-3)[^desc-xxviii-epi]
+
+[^desc-guardian]: "Of Pallas Athene, guardian of the city, I begin to sing. Dread is she, and with Ares she loves deeds of war, the sack of cities and the shouting and the battle. It is she who saves the people as they go out to war and come back." (Homeric Hymn XI to Athena 1-4, trans. H.G. Evelyn-White)
+[^desc-xxviii-epi]: "I begin to sing of Pallas Athene, the glorious goddess, bright-eyed, inventive, unbending of heart, pure virgin, saviour of cities, courageous, Tritogeneia" (Homeric Hymn XXVIII to Athena 1-3)
 
 [^desc-trito]: "Be of good cheer, Trito-born, dear child" (Iliad XXII.12455-12456, trans. Lang, Leaf, and Myers)
 
@@ -389,6 +394,7 @@ Ovid reveals that Medusa was once "famed for beauty" and "the envious hope of ma
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 4.794-803: Punished Medusa by turning her hair to serpents after Poseidon defiled her temple
 - **[Metamorphoses](../sources/metamorphoses.md)** 6.1-145: Contest with Arachne; weaves scenes of divine justice; destroys Arachne's perfect tapestry; transforms her into a spider
+- **[Homeric Hymn XI](../sources/homeric-hymns.md)**: "Guardian of the city"; "Dread is she"; "saves the people as they go out to war and come back"
 - **[Theogony](../sources/theogony.md)** 13, 318, 573-578, 886-900, 924-929t: Invocation; aids Heracles; dresses the first woman; birth from Zeus's head
 - **[Homeric Hymn XXVIII](../sources/homeric-hymns.md)**: Birth — cosmic reaction; Helius stops his chariot
 - **[Shield of Heracles](../sources/shield-of-heracles.md)**: Gives Heracles his golden breastplate; counsels him in battle; deflects Ares' spear; rebukes Ares; depicted on the shield with spear, golden helm, and aegis

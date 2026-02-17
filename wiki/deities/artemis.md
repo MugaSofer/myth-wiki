@@ -15,7 +15,9 @@
 ## Epithets
 
 - **"Artemis who delights in arrows"** / **"the huntress with shafts of gold"** — her most common epithet ([Theogony](../sources/theogony.md) 14, 918; Hymn V 16)[^desc-arrows]
-- **"Artemis with the golden bow"** — (Hymn XXVII 1)[^desc-goldenbow]
+- **"Artemis with the [golden bow](../objects/artemis-bow.md)"** / **"whose shafts are of gold"** — (Hymn XXVII 1)[^desc-goldenbow]
+- **"the pure maiden, shooter of stags, who delights in archery"** — (Hymn XXVII 1-2)[^desc-goldenbow]
+- **"who cheers on the hounds"** — (Hymn XXVII 1)[^desc-goldenbow]
 
 [^desc-arrows]: "Artemis delighting in arrows, children lovely above all the sons of Heaven" (Theogony 919-920, trans. H.G. Evelyn-White)
 [^desc-goldenbow]: "I sing of Artemis, whose shafts are of gold, who cheers on the hounds, the pure maiden, shooter of stags, who delights in archery, own sister to Apollo with the golden sword" (Homeric Hymn XXVII to Artemis 1-3)
@@ -24,9 +26,12 @@
 
 She is **"tall to look upon and enviable in mien"** — a rare physical description, from the Olympus scene in Hymn III (199).[^desc-tall]
 
-In Hymn XXVII she is described as an active figure in the landscape: "Over the shadowy hills and windy peaks she draws her golden bow, rejoicing in the chase."[^desc-chase] After the hunt, she "hangs up her curved bow and her arrows, and heads and leads the dances, gracefully arrayed."[^desc-dance]
+In Hymn IX she drives an **"all-golden chariot"** through Smyrna to Claros.[^desc-chariot]
+
+In Hymn XXVII she is described as an active figure in the landscape: "Over the shadowy hills and windy peaks she draws her [golden bow](../objects/artemis-bow.md), rejoicing in the chase."[^desc-chase] After the hunt, she "hangs up her curved bow and her arrows, and heads and leads the dances, gracefully arrayed."[^desc-dance]
 
 [^desc-tall]: "among them sings one, not mean nor puny, but tall to look upon and enviable in mien, Artemis who delights in arrows, sister of Apollo" (Homeric Hymn III to Apollo 199-200)
+[^desc-chariot]: "She waters her horses from Meles deep in reeds, and swiftly drives her all-golden chariot through Smyrna to vine-clad Claros" (Homeric Hymn IX to Artemis 3-5, trans. H.G. Evelyn-White)
 [^desc-chase]: "Over the shadowy hills and windy peaks she draws her golden bow, rejoicing in the chase, and sends out grievous shafts" (Homeric Hymn XXVII to Artemis 4-6)
 [^desc-dance]: "she hangs up her curved bow and her arrows, and heads and leads the dances, gracefully arrayed" (Homeric Hymn XXVII to Artemis 16-17)
 

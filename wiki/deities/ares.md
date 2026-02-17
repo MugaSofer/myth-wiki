@@ -16,11 +16,35 @@
 
 ## Epithets
 
-- **"Ares the shield-piercer"** / **"sacker of towns"** — ([Theogony](../sources/theogony.md) 934-936)
+From the [Theogony](../sources/theogony.md):
+- **"Ares the shield-piercer"** / **"sacker of towns"** — (Theogony 934-936)
 
-[Homeric Hymn VIII](../sources/homeric-hymns.md) provides an unusually detailed physical catalogue: "Ares, exceeding in strength, chariot-rider, golden-helmed, doughty in heart, shield-bearer, Saviour of cities, harnessed in bronze, strong of arm, unwearying, mighty with the spear, O defence of [Olympus](../places/olympus.md), father of warlike Victory, ally of [Themis](themis.md), stern governor of the rebellious, leader of righteous men, sceptred King of manliness."[^desc-hymn]
+[Homeric Hymn VIII](../sources/homeric-hymns.md) is the only hymn dedicated to Ares and provides the richest cluster of epithets for any deity:[^desc-hymn]
+- **"exceeding in strength"** / **"strong of arm, unwearying"**
+- **"shield-bearer"** / **"mighty with the spear"**
+- **"chariot-rider"**
+- **"Saviour of cities"** / **"defence of [Olympus](../places/olympus.md)"**
+- **"father of warlike Victory"**
+- **"ally of [Themis](themis.md)"** / **"stern governor of the rebellious"**
+- **"leader of righteous men"** / **"sceptred King of manliness"**
+
+From the [Iliad](../sources/iliad.md):
+- **"furious Ares"** / **"man-slaying Ares"** / **"Ares bane of mortals"** — common Iliad epithets
+- **"most hateful to me... of all gods that hold Olympus"** — [Zeus](zeus.md)'s judgment (Iliad V)[^il5-hateful]
 
 [^desc-hymn]: "Ares, exceeding in strength, chariot-rider, golden-helmed, doughty in heart, shield-bearer, Saviour of cities, harnessed in bronze, strong of arm, unwearying, mighty with the spear, O defence of Olympus, father of warlike Victory, ally of Themis, stern governor of the rebellious, leader of righteous men, sceptred King of manliness" (Homeric Hymn VIII to Ares 1-6, trans. H.G. Evelyn-White)
+[^il5-hateful]: "Most hateful to me art thou of all gods that hold Olympus: for ever is strife dear to thee and wars and battles" (Iliad V.3077-3078, trans. Lang, Leaf, and Myers)
+
+## Appearance
+
+In [Homeric Hymn VIII](../sources/homeric-hymns.md), Ares is **"golden-helmed"** and **"harnessed in bronze."** The hymn also places him uniquely among the celestial bodies: "who whirl your fiery sphere among the planets in their sevenfold courses through the aether wherein your blazing steeds ever bear you above the third firmament of heaven."[^desc-celestial]
+
+On the [Shield of Heracles](../sources/shield-of-heracles.md), he is depicted in his war-chariot: "deadly Ares the spoil-winner himself. He held a spear in his hands and was urging on the footmen: **he was red with blood** as if he were slaying living men."[^sh-shield]
+
+In [Iliad](../sources/iliad.md) V, when wounded by [Diomedes](../heroes/diomedes.md) (guided by [Athena](athena.md)), he "bellowed loud as nine thousand warriors or ten thousand cry in battle."[^il5-bellow]
+
+[^desc-celestial]: "who whirl your fiery sphere among the planets in their sevenfold courses through the aether wherein your blazing steeds ever bear you above the third firmament of heaven" (Homeric Hymn VIII to Ares 7-9)
+[^il5-bellow]: "Then brazen Ares bellowed loud as nine thousand warriors or ten thousand cry in battle as they join in strife and fray" (Iliad V.3060-3061, trans. Lang, Leaf, and Myers)
 
 ## Birth
 

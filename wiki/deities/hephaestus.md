@@ -21,6 +21,9 @@
 - **"skilled in crafts more than all the sons of Heaven"** — (Theogony 929)
 - **"the crook-footed god"** — the most frequent Iliad epithet (Iliad XVIII passim)
 - **"famed Hephaistos the lame god"** — (Iliad II)
+- **"famed for inventions"** — (Hymn XX 1)[^desc-inventions]
+
+[^desc-inventions]: "Sing, clear-voiced Muses, of Hephaestus famed for inventions. With bright-eyed Athene he taught men glorious gifts throughout the world,—men who before used to dwell in caves in the mountains like wild beasts. But now that they have learned crafts through Hephaestus the famed worker, easily they live a peaceful life in their own houses the whole year round." (Homeric Hymn XX to Hephaestus 1-7, trans. H.G. Evelyn-White)
 
 ## Appearance
 
@@ -226,6 +229,7 @@ Venus brings the finished arms to Aeneas: helmet "dread with plumes and spouting
 
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 316-321: Cast out by Hera; rescued by Thetis
+- **[Homeric Hymn XX](../sources/homeric-hymns.md)**: "Famed for inventions"; taught men crafts with Athena; freed them from cave-dwelling
 - **[Iliad](../sources/iliad.md)** I: Peacemaker on Olympus; "laughter unquenchable"; variant tradition of being hurled by Zeus (not Hera), fell on Lemnos
 - **[Iliad](../sources/iliad.md)** II: Crafted Agamemnon's sceptre (passed from Zeus to Hermes to Pelops to Atreus to Agamemnon); "famed Hephaistos the lame god"
 - **[Iliad](../sources/iliad.md)** V: Saves Idaios (his priest's son) "in a veil of darkness, that he might not have his aged priest all broken with sorrow"

@@ -21,6 +21,11 @@
 - **"keen-eyed"** — (Hymn III 201)[^desc-keen]
 - **"bearer of the golden wand"** — (Hymn IV 529; Hymn V 117)[^desc-wand]
 - **"of many shifts, blandly cunning, a robber, a cattle driver, a bringer of dreams, a watcher by night, a thief at the gates"** — the remarkable string of epithets at his birth (Hymn IV 13-15)[^desc-shifts]
+- **"giver of grace, guide, and giver of good things"** — (Hymn XVIII 12)[^desc-grace]
+- **"bearer of the golden rod, giver of good"** — paired with [Hestia](hestia.md) (Hymn XXIX 7-12)[^desc-rod]
+
+[^desc-grace]: "Hail, Hermes, giver of grace, guide, and giver of good things!" (Homeric Hymn XVIII to Hermes 12, trans. H.G. Evelyn-White)
+[^desc-rod]: "And you, slayer of Argus, Son of Zeus and Maia, messenger of the blessed gods, bearer of the golden rod, giver of good, be favourable and help us, you and Hestia, the worshipful and dear" (Homeric Hymn XXIX to Hestia 7-10)
 
 [^desc-luck]: "I sing of Cyllenian Hermes, the Slayer of Argus, lord of Cyllene and Arcadia rich in flocks, luck-bringing messenger of the deathless gods" (Homeric Hymn XVIII to Hermes 1-3, trans. H.G. Evelyn-White)
 [^desc-keen]: "Ares and the keen-eyed Slayer of Argus" (Homeric Hymn III to Apollo 201)
@@ -288,7 +293,9 @@ When Argus finally slumbered, Mercury struck: "he touched the drooping eyelids w
 - **[Odyssey](../sources/odyssey.md)** XXIV: Major role as psychopomp — calls forth the souls of the wooers with his golden wand; the bat simile; leads them past the streams of Oceanus, the White Rock, the gates of the Sun, and the land of dreams, to the mead of asphodel
 - **[Theogony](../sources/theogony.md)** 444, 938-939: Associated with herds; birth
 - **[Homeric Hymn IV](../sources/homeric-hymns.md)**: Birth; invention of the lyre; theft of Apollo's cattle; exchange of lyre for herds; domains assigned
+- **[Homeric Hymn XVIII](../sources/homeric-hymns.md)**: "Cyllenian Hermes, the Slayer of Argus, lord of Cyllene and Arcadia"; "giver of grace, guide, and giver of good things"
 - **[Homeric Hymn XIX](../sources/homeric-hymns.md)**: Father of [Pan](pan.md) by a daughter of Dryops
+- **[Homeric Hymn XXIX](../sources/homeric-hymns.md)**: "Bearer of the golden rod, giver of good"; paired with [Hestia](hestia.md); "well knowing the noble actions of men, aid on their wisdom and their strength"
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)** 334-383: Sent by Zeus to retrieve Persephone from Hades
 - **[Iliad](../sources/iliad.md)** XXI: Matched against Leto in the Theomachy; declines to fight — "a grievous thing it is to come to blows with wives of cloud-gathering Zeus"
 - **[Iliad](../sources/iliad.md)** XXIV: Major role as guide — Zeus sends him to escort Priam; golden sandals ("that bare him over wet sea and over the boundless land"), wand ("wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep"); disguised as a young prince; puts the sentinels to sleep; opens the gates; reveals himself: "I that have come to thee am an immortal god, even Hermes"; drives Priam home before dawn

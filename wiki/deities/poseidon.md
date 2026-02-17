@@ -17,10 +17,17 @@
 
 - **"the earth-holder who shakes the earth"** — (Theogony 15)
 - **"the loud-crashing Earth-Shaker"** / **"the mighty Earthshaker"** — (Theogony 456; Iliad XIII)
-- **"the Dark-haired One"** — used when describing his union with [Medusa](../creatures/gorgons.md) (Theogony 278)
+- **"the Dark-haired One"** / **"dark-haired lord"** — (Theogony 278; Hymn XXII 7)[^desc-darkhaired]
 - **"deep-roaring Earth-Shaker"** — (Theogony 818)
 - **"the girdler of the earth"** — (Odyssey I)
 - **"the Shaker of the earth"** / **"the Enfolder and Shaker of the earth"** — (Iliad XII, XXIII)
+- **"mover of the earth and fruitless sea, god of the deep"** — (Hymn XXII 1-2)[^desc-hymnxxii]
+- **"Holder of the Earth"** — (Hymn XXII 7)[^desc-darkhaired]
+- **"tamer of horses and saviour of ships"** — a "two-fold office the gods allotted" him (Hymn XXII 4-5)[^desc-twofold]
+
+[^desc-darkhaired]: "Hail, Poseidon, Holder of the Earth, dark-haired lord! O blessed one, be kindly in heart and help those who voyage in ships!" (Homeric Hymn XXII to Poseidon 6-7, trans. H.G. Evelyn-White)
+[^desc-hymnxxii]: "I begin to sing about Poseidon, the great god, mover of the earth and fruitless sea, god of the deep who is also lord of Helicon and wide Aegae" (Homeric Hymn XXII to Poseidon 1-3)
+[^desc-twofold]: "A two-fold office the gods allotted you, O Shaker of the Earth, to be a tamer of horses and a saviour of ships!" (Homeric Hymn XXII to Poseidon 4-5)
 
 ## Appearance
 

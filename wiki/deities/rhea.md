@@ -51,4 +51,5 @@ These details — the cave of Dicte specifically (the Theogony says Lyctus/Mount
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 135, 453-491: Named among Titans; bears the Olympians; saves Zeus
+- **[Homeric Hymn XIV](../sources/homeric-hymns.md)**: "Mother of all gods and men"; "well-pleased with the sound of rattles and of timbrels, with the voice of flutes and the outcry of wolves and bright-eyed lions, with echoing hills and wooded coombes"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.1.5-1.1.7: Zeus born in cave of Dicte in Crete; nursed by Adrastia, Ida, and Amalthea; Curetes guard with clashing arms; stone in swaddling clothes

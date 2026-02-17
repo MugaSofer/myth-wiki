@@ -25,6 +25,9 @@ Zeus accumulates more epithets than any other figure across the sources:
 - **"far-seeing Zeus"** / **"far-seeing Olympian Zeus"** — used in council and judgment (Theogony 457, 884; [Works and Days](../sources/theogony.md) 169c, 267)
 - **"the dark-clouded Son of Cronos"** / **"Zeus who drives the clouds"** — (Hymn to Demeter 316, 321; Theogony 558)
 - **"father of men and gods"** — used at moments of supreme authority (Theogony 457, 542, 838, 897)
+- **"all-seeing, the lord of all, the fulfiller"** — (Hymn XXIII 2)[^desc-allseeing]
+
+[^desc-allseeing]: "I will sing of Zeus, chiefest among the gods and greatest, all-seeing, the lord of all, the fulfiller who whispers words of wisdom to Themis as she sits leaning towards him" (Homeric Hymn XXIII to the Son of Cronos 1-3, trans. H.G. Evelyn-White)
 
 In the Hymn to Hermes, when his infant son denies stealing cattle, "Zeus laughed out loud" — one of the few physical responses described.[^desc-laugh]
 
@@ -448,6 +451,8 @@ When [Heracles](../heroes/heracles.md) lies dying on his pyre atop Mount Oeta, t
 - **[Odyssey](../sources/odyssey.md)** XX: Thunders from shining [Olympus](../places/olympus.md) as omen for Odysseus — "from on high from the place of clouds; and goodly Odysseus was glad"
 - **[Odyssey](../sources/odyssey.md)** XXI: Thunders again when Odysseus strings the bow — "Zeus thundered loud showing forth his tokens"
 - **[Odyssey](../sources/odyssey.md)** XXIV: Final divine council — [Athena](athena.md) asks his counsel; decrees peace, oblivion of bloodshed, and Odysseus as king forever ("let peace and wealth abundant be their portion"); casts flaming bolt at [Athena](athena.md)'s feet as signal for the final covenant
+- **[Homeric Hymn XXIII](../sources/homeric-hymns.md)**: "Chiefest among the gods and greatest, all-seeing, the lord of all, the fulfiller"; whispers wisdom to Themis
+- **[Homeric Hymn XXV](../sources/homeric-hymns.md)**: "Through the Muses and Apollo that there are singers... but kings are from Zeus"
 - **Catalogue of Women** Fragment 97: Dodona — "Zeus loved it and appointed it to be his oracle"; doves in the hollow of an oak deliver prophecy
 - **Catalogue of Women** Fragment 102: Dardanus and the Trojan line — Electra bore Dardanus and Eetion to Zeus; Eetion smitten for touching [Demeter](demeter.md); Dardanus founds Troy's dynasty; eagle catches up Ganymede
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Plans the Trojan War with Themis to depopulate the earth;[^cyp-zeus-plan] pursues Nemesis to beget Helen (she flees in various forms);[^cyp-nemesis] swears Thetis shall marry a mortal;[^cyp-thetis-mortal] gives Castor and Polydeuces immortality every other day[^cyp-dioscuri]

@@ -20,6 +20,11 @@
 - **"loud-crying Dionysus"** — his self-identification to the pirates (Hymn VII 56)[^desc-loud]
 - **"the Insewn"** / **"Heaven-born"** — (Hymn I 2)[^desc-insewn]
 - **"Inspirer of frenzied women"** — (Hymn I, title)
+- **"ivy-crowned Dionysus, the loud-crying god"** — (Hymn XXVI 1)[^desc-ivy]
+- **"god of abundant clusters"** — (Hymn XXVI 10)[^desc-clusters]
+
+[^desc-ivy]: "I begin to sing of ivy-crowned Dionysus, the loud-crying god, splendid son of Zeus and glorious Semele" (Homeric Hymn XXVI to Dionysus 1-2, trans. H.G. Evelyn-White)
+[^desc-clusters]: "And so hail to you, Dionysus, god of abundant clusters!" (Homeric Hymn XXVI to Dionysus 10)
 
 [^desc-golden]: "golden-haired Dionysus made brown-haired Ariadne, the daughter of Minos, his buxom wife" (Theogony 947-948, trans. H.G. Evelyn-White)
 [^desc-loud]: "I am loud-crying Dionysus whom Cadmus' daughter Semele bare of union with Zeus" (Homeric Hymn VII to Dionysus 56-57)
@@ -262,6 +267,7 @@ Dionysus punished the Bacchantes by rooting them to the ground as oak trees. He 
 - **[Theogony](../sources/theogony.md)** 940-942, 947-949: Birth; marriage to Ariadne
 - **[Homeric Hymn I](../sources/homeric-hymns.md)**: Variant birth traditions; born at Nysa, secretly from Hera
 - **[Homeric Hymn VII](../sources/homeric-hymns.md)**: The pirates — bonds, miracles, transformation into dolphins
+- **[Homeric Hymn XXVI](../sources/homeric-hymns.md)**: "Ivy-crowned Dionysus, the loud-crying god"; reared in cave at Nysa; wandered wreathed with ivy and laurel; Nymphs followed
 - **[Iliad](../sources/iliad.md)** VI: Lykurgos story — chased from Nysa, fled into the sea, sheltered by Thetis; "frenzied Dionysos"; Zeus blinded Lykurgos
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Killed the giant Eurytus with a thyrsus in the [Gigantomachy](../creatures/giants.md)
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.1: Gave Oeneus a vine-plant — "Oeneus was the first who received a vine-plant from Dionysus"[^apd-vine]

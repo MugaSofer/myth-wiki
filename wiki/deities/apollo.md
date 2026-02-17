@@ -21,20 +21,25 @@ Apollo is described with more epithets than almost any other deity:
 - **"far-shooting Apollo"** / **"who shoots afar"** — the most frequent epithet ([Theogony](../sources/theogony.md) 94; Hymn III 1, etc.)
 - **"Phoebus Apollo"** — used throughout the Hymn to Apollo
 - **"god of the [silver bow](../objects/apollos-bow.md)"** — (Hymn III 140, 215)
-- **"bearer of the golden blade"** — (Hymn III 123)[^desc-blade]
+- **"bearer of the golden blade"** / **"Apollo with the golden sword"** — (Hymn III 123; Hymn XXVII 3)[^desc-blade][^desc-goldsword]
 - **"the long-haired god"** — (Hymn III 134)[^desc-longhaired]
 - **"the Pythian"** — from the rotting (*pythein*) of the dragon he slew (Hymn III 372-374)
 - **"Apollo Delphinius"** — from his dolphin form (Hymn III 496)
 
 [^desc-blade]: "Leto did not give Apollo, bearer of the golden blade, her breast; but Themis duly poured nectar and ambrosia" (Homeric Hymn III to Apollo 123-124, trans. H.G. Evelyn-White)
+[^desc-goldsword]: "own sister to Apollo with the golden sword" (Homeric Hymn XXVII to Artemis 3)
 [^desc-longhaired]: "So said Phoebus, the long-haired god who shoots afar and began to walk upon the wide-pathed earth; and all goddesses were amazed at him" (Homeric Hymn III to Apollo 134-135)
 
 ## Appearance
 
 At his birth he was "swathed... in a white garment of fine texture, new-woven, and fastened a golden band about" him.[^desc-birth] On [Olympus](../places/olympus.md), a vivid physical picture: "Apollo plays his lyre stepping high and featly and a radiance shines around him, the gleaming of his feet and close-woven vest."[^desc-radiance]
 
+When he reveals himself to the Cretan sailors at Crisa, his divine radiance is blinding: "like a star at noonday, the lord, far-working Apollo, leaped from the ship: flashes of fire flew from him thick and their brightness reached to heaven."[^desc-star] In human form he appears "brisk and sturdy, in the prime of his youth, while his broad shoulders were covered with his hair."[^desc-human]
+
 [^desc-birth]: "all the goddesses washed you purely and cleanly with sweet water, and swathed you in a white garment of fine texture, new-woven, and fastened a golden band about you" (Homeric Hymn III to Apollo 120-122)
 [^desc-radiance]: "Apollo plays his lyre stepping high and featly and a radiance shines around him, the gleaming of his feet and close-woven vest" (Homeric Hymn III to Apollo 202-203)
+[^desc-star]: "like a star at noonday, the lord, far-working Apollo, leaped from the ship: flashes of fire flew from him thick and their brightness reached to heaven" (Homeric Hymn III to Apollo 440-443)
+[^desc-human]: "brisk and sturdy, in the prime of his youth, while his broad shoulders were covered with his hair" (Homeric Hymn III to Apollo 449-450)
 
 ## Birth
 

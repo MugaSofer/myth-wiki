@@ -15,6 +15,18 @@
 
 [^theog-gaia]: "wide-bosomed Earth, the ever-sure foundations of all the deathless ones who hold the peaks of snowy Olympus" (Theogony 117-118, trans. H.G. Evelyn-White)
 
+## Epithets
+
+- **"wide-bosomed Earth"** — (Theogony 117)[^theog-gaia]
+- **"mother of all, eldest of all beings"** — (Hymn XXX 1)[^desc-mother]
+- **"wife of starry Heaven"** — (Hymn XXX 17)[^desc-wife]
+
+In [Homeric Hymn XXX](../sources/homeric-hymns.md), her role is universal nurturer: "She feeds all creatures that are in the world, all that go upon the goodly land, and all that are in the paths of the seas, and all that fly: all these are fed of her store. Through you, O queen, men are blessed in their children and blessed in their harvests, and to you it belongs to give means of life to mortal men and to take it away."[^desc-feeds]
+
+[^desc-mother]: "I will sing of well-founded Earth, mother of all, eldest of all beings" (Homeric Hymn XXX to Earth 1, trans. H.G. Evelyn-White)
+[^desc-wife]: "Hail, Mother of the gods, wife of starry Heaven" (Homeric Hymn XXX to Earth 17)
+[^desc-feeds]: "She feeds all creatures that are in the world, all that go upon the goodly land, and all that are in the paths of the seas, and all that fly: all these are fed of her store. Through you, O queen, men are blessed in their children and blessed in their harvests, and to you it belongs to give means of life to mortal men and to take it away." (Homeric Hymn XXX to Earth 2-7)
+
 ## Children
 
 ### Without Union
@@ -50,4 +62,5 @@ She then "lay with Heaven" and bore:[^theog-titans]
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 116-166: Origin, offspring, plot against Uranus
+- **[Homeric Hymn XXX](../sources/homeric-hymns.md)**: "Well-founded Earth, mother of all, eldest of all beings"; feeds all creatures on land, sea, and sky; gives means of life and takes it away; "wife of starry Heaven"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.1.1-1.2.6: Weds Sky (Uranus); bears Hundred-Handers, Cyclopes, Titans; gives Cronos adamantine sickle; prophesies Zeus's victory in the Titanomachy; with Pontus (Sea) bears Phorcus, Thaumas, Nereus, Eurybia, Ceto
