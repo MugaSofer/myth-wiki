@@ -18,6 +18,13 @@
 - **"Artemis with the [golden bow](../objects/artemis-bow.md)"** / **"whose shafts are of gold"** — (Hymn XXVII 1)[^desc-goldenbow]
 - **"the pure maiden, shooter of stags, who delights in archery"** — (Hymn XXVII 1-2)[^desc-goldenbow]
 - **"who cheers on the hounds"** — (Hymn XXVII 1)[^desc-goldenbow]
+- **"the queen of wild beasts, huntress Artemis"** — ([Iliad](../sources/iliad.md) XXI.12164-12165)[^il21-queen]
+- **"the fair-crowned queen of the echoing chase"** — ([Iliad](../sources/iliad.md) XXI.12204)[^il21-faircrown]
+- **"Artemis of the golden throne"** — ([Iliad](../sources/iliad.md) IX.5402; [Odyssey](../sources/odyssey.md) V)[^il9-boar]
+- **"archer Artemis"** / **"the daughters archer Artemis"** — ([Iliad](../sources/iliad.md) XXI.12337; XXIV.14061)
+
+[^il21-queen]: "his sister upbraided him sore, the queen of wild beasts, huntress Artemis, and spake a taunting word" (Iliad XXI.12164-12165, trans. Lang, Leaf, and Myers)
+[^il21-faircrown]: "And to him in answer spake the fair-crowned queen of the echoing chase: 'It was thy wife that buffeted me, father, the white-armed Hera'" (Iliad XXI.12204-12205)
 
 [^desc-arrows]: "Artemis delighting in arrows, children lovely above all the sons of Heaven" (Theogony 919-920, trans. H.G. Evelyn-White)
 [^desc-goldenbow]: "I sing of Artemis, whose shafts are of gold, who cheers on the hounds, the pure maiden, shooter of stags, who delights in archery, own sister to Apollo with the golden sword" (Homeric Hymn XXVII to Artemis 1-3)
@@ -40,8 +47,10 @@ In Hymn XXVII she is described as an active figure in the landscape: "Over the s
 - **Painless death for women:** As [Apollo](apollo.md)'s arrows bring death to men, Artemis's bring death to women. She slew Orion "with the visitation of her gentle shafts."[^od5-orion] Her [bow](../objects/artemis-bow.md) brings "the painless death of women" ([Odyssey](../sources/odyssey.md) XI).[^bow-painless]
 - **Cosmic impact:** Her hunting shakes the earth itself: "The tops of the high mountains tremble and the tangled wood echoes awesomely with the outcry of beasts: earthquakes and the sea also where fishes shoal."[^hh27-hunt]
 - **Transformation:** She turned Actaeon into a stag — "Diana made horns grow on his head, and he was devoured by his own dogs."[^hyg-180-punishment] In the [Metamorphoses](../sources/metamorphoses.md), she transforms Callisto into a bear.[^met-art-callisto]
+- **Slayer of women:** [Hera](hera.md) characterises Artemis's role: "against women [Zeus](zeus.md) made thee a lion, and giveth thee to slay whomso of them thou wilt" ([Iliad](../sources/iliad.md) XXI.12176-12177).[^il21-lion]
 - **Substitution and transport:** At Aulis, she "cast mist about" Iphigenia, "substituted a deer in her place," and "bore Iphigenia through the clouds to the Tauric land."[^hyg-98-substitution][^hyg-98-priestess]
 
+[^il21-lion]: "against women Zeus made thee a lion, and giveth thee to slay whomso of them thou wilt" (Iliad XXI.12176-12177)
 [^bow-painless]: See [Artemis's Bow](../objects/artemis-bow.md) for full citations.
 
 ## Birth

@@ -29,8 +29,11 @@
 
 In the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III), [Hera](hera.md) describes him as "weakly among all the blessed gods and shrivelled of foot, a shame and disgrace to me in heaven."[^desc-shrivelled] In the Iliad, he is "the crook-footed god" who bustles through the palace serving wine, provoking "laughter unquenchable... amid the blessed gods."[^desc-laughter]
 
+In [Iliad](../sources/iliad.md) Book XX, when the gods march to battle, Hephaestus goes "in the greatness of his strength, halting, but his shrunk legs moved nimbly under him."[^il20-legs]
+
 His workshop house is "imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself." When [Thetis](thetis.md) finds him, he is "sweating in toil and busy about his bellows."[^desc-house]
 
+[^il20-legs]: "with these went Hephaistos in the greatness of his strength, halting, but his shrunk legs moved nimbly under him" (Iliad XX.11334-11336, trans. Lang, Leaf, and Myers)
 [^desc-shrivelled]: "my son Hephaestus whom I bare was weakly among all the blessed gods and shrivelled of foot, a shame and disgrace to me in heaven" (Homeric Hymn III to Apollo 316-318, trans. H.G. Evelyn-White)
 [^desc-laughter]: "laughter unquenchable arose amid the blessed gods to see Hephaistos bustling through the palace" (Iliad I.763-764, trans. Lang, Leaf, and Myers)
 [^desc-house]: "she came unto the house of Hephaistos, imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself. Him found she sweating in toil and busy about his bellows" (Iliad XVIII.10712-10715)

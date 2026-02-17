@@ -23,11 +23,13 @@ Apollo is described with more epithets than almost any other deity:
 - **"god of the [silver bow](../objects/apollos-bow.md)"** — (Hymn III 140, 215)
 - **"bearer of the golden blade"** / **"Apollo with the golden sword"** — (Hymn III 123; Hymn XXVII 3)[^desc-blade][^desc-goldsword]
 - **"the long-haired god"** — (Hymn III 134)[^desc-longhaired]
+- **"Phoebus of the unshorn hair"** — ([Iliad](../sources/iliad.md) XX.11337; also "unshorn Phoebus" in Catalogue of Women Fragment 89)[^il20-unshorn]
 - **"the Pythian"** — from the rotting (*pythein*) of the dragon he slew (Hymn III 372-374)
 - **"Apollo Delphinius"** — from his dolphin form (Hymn III 496)
 
 [^desc-blade]: "Leto did not give Apollo, bearer of the golden blade, her breast; but Themis duly poured nectar and ambrosia" (Homeric Hymn III to Apollo 123-124, trans. H.G. Evelyn-White)
 [^desc-goldsword]: "own sister to Apollo with the golden sword" (Homeric Hymn XXVII to Artemis 3)
+[^il20-unshorn]: "to the Trojans went Ares of the glancing helm, and with him Phoebus of the unshorn hair, and archer Artemis" (Iliad XX.11336-11338, trans. Lang, Leaf, and Myers)
 [^desc-longhaired]: "So said Phoebus, the long-haired god who shoots afar and began to walk upon the wide-pathed earth; and all goddesses were amazed at him" (Homeric Hymn III to Apollo 134-135)
 
 ## Appearance

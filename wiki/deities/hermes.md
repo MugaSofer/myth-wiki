@@ -22,11 +22,13 @@
 - **"bearer of the golden wand"** — (Hymn IV 529; Hymn V 117)[^desc-wand]
 - **"of many shifts, blandly cunning, a robber, a cattle driver, a bringer of dreams, a watcher by night, a thief at the gates"** — the remarkable string of epithets at his birth (Hymn IV 13-15)[^desc-shifts]
 - **"giver of grace, guide, and giver of good things"** — (Hymn XVIII 12)[^desc-grace]
+- **"the Helper"** / **"the Helper Hermes, pro-eminent in subtle thoughts"** — ([Iliad](../sources/iliad.md) XX.11334; XXIV passim)[^il20-helper]
 - **"bearer of the golden rod, giver of good"** — paired with [Hestia](hestia.md) (Hymn XXIX 7-12)[^desc-rod]
 
 [^desc-grace]: "Hail, Hermes, giver of grace, guide, and giver of good things!" (Homeric Hymn XVIII to Hermes 12, trans. H.G. Evelyn-White)
 [^desc-rod]: "And you, slayer of Argus, Son of Zeus and Maia, messenger of the blessed gods, bearer of the golden rod, giver of good, be favourable and help us, you and Hestia, the worshipful and dear" (Homeric Hymn XXIX to Hestia 7-10)
 
+[^il20-helper]: "the Helper Hermes, pro-eminent in subtle thoughts" (Iliad XX.11334, trans. Lang, Leaf, and Myers); used repeatedly in XXIV (13835, 13914, 13927, 14129)
 [^desc-luck]: "I sing of Cyllenian Hermes, the Slayer of Argus, lord of Cyllene and Arcadia rich in flocks, luck-bringing messenger of the deathless gods" (Homeric Hymn XVIII to Hermes 1-3, trans. H.G. Evelyn-White)
 [^desc-keen]: "Ares and the keen-eyed Slayer of Argus" (Homeric Hymn III to Apollo 201)
 [^desc-wand]: "he sent the Slayer of Argus whose wand is of gold to Erebus" (Homeric Hymn to Demeter 335)
