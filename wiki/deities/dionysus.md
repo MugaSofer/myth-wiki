@@ -37,6 +37,15 @@ In the pirates' story, he appeared "seeming like a stripling in the first flush 
 [^desc-stripling]: "he seemed like a stripling in the first flush of manhood: his rich, dark hair was waving about him, and on his strong shoulders he wore a purple robe" (Homeric Hymn VII to Dionysus 3-5)
 [^desc-smile]: "the bonds would not hold him, and the withes fell far away from his hands and feet: and he sat with a smile in his dark eyes" (Homeric Hymn VII to Dionysus 12-15)
 
+## Powers
+
+- **Driving mortals mad:** His signature punishment for those who refuse his worship. He drove the women of Argos mad — "they on the mountains devoured the flesh of the infants whom they carried at their breasts."[^apd-dion-argos-book3] He drove Lycurgus mad so that "he struck his son Dryas dead with an axe, imagining that he was lopping a branch of a vine."[^apd-dion-lycurgus] At Thebes, he forced the women to "rave in Bacchic frenzy on Cithaeron."[^apd-dion-pentheus]
+- **Transformation:** He turned the pirate ship's "mast and oars into snakes, and filled the vessel with ivy and the sound of flutes," then turned the sailors into dolphins.[^apd-dion-pirates] In the Hymn, he "changed into a dreadful lion" and created "a shaggy bear."[^hh7-miracles] In the [Fabulae](../sources/hyginus.md), he "changed the oars to thyrsi, the sails to vine-leaves, the ropes to ivy; then lions and panthers leapt out."[^hyg-134-changed]
+- **Immunity to binding:** "The bonds would not hold him, and the withes fell far away from his hands and feet: and he sat with a smile in his dark eyes."[^hh7-bonds]
+- **Summoning vine and ivy:** Wine, vines, and ivy appear spontaneously at his will — "sweet, fragrant wine ran streaming throughout all the black ship... a vine spread out both ways along the top of the sail."[^hh7-miracles]
+- **Descent to the underworld:** He "brought up his mother [Semele] from Hades and named her Thyone, and ascended up with her to heaven."[^apd-dion-semele-rescue]
+- **Rooting mortals:** In the [Metamorphoses](../sources/metamorphoses.md), he punished the Bacchantes who killed [Orpheus](../heroes/orpheus.md) by rooting them to the ground as oak trees.
+
 ## Birth
 
 "Semele, daughter of Cadmus was joined with him [[Zeus](zeus.md)] in love and bare him a splendid son, joyous Dionysus,—a mortal woman an immortal son. And now they both are gods."[^theog-birth]

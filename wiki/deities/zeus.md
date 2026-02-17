@@ -47,6 +47,16 @@ Zeus holds "the lightning and glowing [thunderbolt](../objects/thunderbolt.md),"
 
 It is "through the [Muses](muses.md) and far-shooting [Apollo](apollo.md) that there are singers and harpers upon the earth; but princes are of Zeus."[^theog-princes]
 
+Demonstrated powers across the sources:
+
+- **Thunderbolt:** His primary weapon. He destroys Odysseus's ship,[^od12-bolt] slays Iasion for lying with [Demeter](demeter.md), burns Semele, and threatens the gods with it.
+- **Weighing fates:** He uses [golden scales](../objects/golden-scales.md) to determine outcomes — "he hung his golden balances... two lots of dreary death."[^il22-balances]
+- **Sending dreams and omens:** He sends a deceptive Dream to Agamemnon (Iliad II), eagle omens to Priam (Iliad XXIV) and Telemachus (Odyssey II), and thunders as a sign.
+- **Weather control:** He sends storms, rain, and wind. He "rained blood-dew from heaven" (Iliad XI) and made "a fair golden cloud" to conceal his union with Hera.[^il14-earth]
+- **Transformation:** He turned Alcyone and Ceyx into birds,[^apd-alcyone] and turned [Dionysus](dionysus.md) into a kid to escape [Hera](hera.md). He turned Niobe's people to stones.
+- **Shaking the cosmos:** His nod alone makes Olympus quake — "he bowed his dark brow, and the ambrosial locks waved from the king's immortal head; and he made great Olympus quake."[^il1-nod]
+- **Supreme authority:** "One omen is best, to fight for our own country" — yet even Hector's defiance is within Zeus's plan. He alone determines the ultimate course of events.
+
 [^theog-rule]: "he was reigning in heaven, himself holding the lightning and glowing thunderbolt, when he had overcome by might his father Cronos; and he distributed fairly to the immortals their portions and declared their privileges" (Theogony 71-74, trans. H.G. Evelyn-White)
 [^theog-cyclopes]: "who gave Zeus the thunder and made the thunderbolt" (Theogony 141)
 [^theog-princes]: "For it is through the Muses and far-shooting Apollo that there are singers and harpers upon the earth; but princes are of Zeus" (Theogony 94-96)

@@ -43,6 +43,15 @@ When she revealed her true form at Eleusis, "the goddess changed her stature and
 [^epithets-reveal]: "the goddess changed her stature and her looks, thrusting old age away from her: beauty spread round about her and a lovely fragrance was wafted from her sweet-smelling robes, and from the divine body of the goddess a light shone afar, while golden tresses spread down over her shoulders, so that the strong house was filled with brightness as with lightning" (Homeric Hymn to Demeter 275-280)
 [^epithets-disguise]: "she was like an ancient woman who is cut off from childbearing and the gifts of garland-loving Aphrodite" (Homeric Hymn to Demeter 101-102)
 
+## Powers
+
+- **Famine and blight:** Her most devastating power. She "caused a most dreadful and cruel year for mankind... the ground would not make the seed sprout, for rich-crowned Demeter kept it hid." She "would have destroyed the whole race of man with cruel famine."[^hd-famine] In the [Metamorphoses](../sources/metamorphoses.md), "she broke with savage hand the plows" and "leveled in equal death the peasant and his ox."[^met-dem-blight]
+- **Immortalization by fire:** She attempted to make Demophon immortal by setting "the babe of nights on the fire" to strip "off its mortal flesh."[^apd-dem-demophon]
+- **Transformation:** She sprinkled a mocking boy with barley-drink and turned him into "a body starred with many coloured spots" — a spotted lizard.[^met-dem-lizard] She also turned Ascalaphus into an owl for tattling about [Persephone](persephone.md)'s pomegranate.[^apd-dem-owl]
+- **Divine radiance:** When she revealed her true form, "beauty spread round about her and a lovely fragrance was wafted from her sweet-smelling robes, and from the divine body of the goddess a light shone afar... so that the strong house was filled with brightness as with lightning."[^epithets-reveal]
+
+[^apd-dem-owl]: See [Bibliotheca](../sources/apollodorus.md) 2.5.12.
+
 ## Children
 
 With [Zeus](zeus.md), Demeter bore "white-armed [Persephone](persephone.md) whom Aidoneus [[Hades](hades.md)] carried off from her mother; but wise [Zeus](zeus.md) gave her to him."[^theog-persephone]

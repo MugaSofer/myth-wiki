@@ -41,6 +41,16 @@ When he reveals himself to the Cretan sailors at Crisa, his divine radiance is b
 [^desc-star]: "like a star at noonday, the lord, far-working Apollo, leaped from the ship: flashes of fire flew from him thick and their brightness reached to heaven" (Homeric Hymn III to Apollo 440-443)
 [^desc-human]: "brisk and sturdy, in the prime of his youth, while his broad shoulders were covered with his hair" (Homeric Hymn III to Apollo 449-450)
 
+## Powers
+
+- **Plague and pestilence:** His arrows bring disease. In the [Iliad](../sources/iliad.md), he sends plague on the Greek camp: "he descended like to night... the arrows clanged upon his shoulders in wrath... and there was heard a dread clanging of the silver bow."[^il1-plague] He also sent a pestilence on Troy when Laomedon refused to pay for its walls.[^apd-apo-troy]
+- **Sudden death:** His arrows bring painless death to men, as [Artemis](artemis.md)'s do to women. In the [Odyssey](../sources/odyssey.md), he slays with "the visitation of his gentle shafts."[^od15-syria]
+- **Prophecy:** At birth he declared: "The lyre and the curved bow shall ever be dear to me, and I will declare to men the unfailing will of [Zeus](zeus.md)."[^hh3-words] He founded the oracle at Delphi.[^hh3-pytho]
+- **Music:** "Through the [Muses](muses.md) and far-shooting Apollo... there are singers and harpers upon the earth."[^theog-music] On [Olympus](../places/olympus.md), "the gods tremble before him" when he plays, and "a soft longing" takes hold of all who hear.[^hh3-olympus]
+- **Shapeshifting:** He took the form of a dolphin to guide the Cretan priests to Delphi.[^hh3-priests]
+- **Favouring wind:** After proper sacrifice, "Apollo the Far-darter sent them a favouring gale."[^il1-favour]
+- **Divine radiance:** When he reveals himself, "flashes of fire flew from him thick and their brightness reached to heaven."[^desc-star]
+
 ## Birth
 
 "Leto was joined in love with [Zeus](zeus.md) who holds the aegis, and bare Apollo and [Artemis](artemis.md) delighting in arrows, children lovely above all the sons of Heaven."[^theog-birth]

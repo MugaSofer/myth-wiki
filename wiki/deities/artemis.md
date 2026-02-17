@@ -35,6 +35,15 @@ In Hymn XXVII she is described as an active figure in the landscape: "Over the s
 [^desc-chase]: "Over the shadowy hills and windy peaks she draws her golden bow, rejoicing in the chase, and sends out grievous shafts" (Homeric Hymn XXVII to Artemis 4-6)
 [^desc-dance]: "she hangs up her curved bow and her arrows, and heads and leads the dances, gracefully arrayed" (Homeric Hymn XXVII to Artemis 16-17)
 
+## Powers
+
+- **Painless death for women:** As [Apollo](apollo.md)'s arrows bring death to men, Artemis's bring death to women. She slew Orion "with the visitation of her gentle shafts."[^od5-orion] Her [bow](../objects/artemis-bow.md) brings "the painless death of women" ([Odyssey](../sources/odyssey.md) XI).[^bow-painless]
+- **Cosmic impact:** Her hunting shakes the earth itself: "The tops of the high mountains tremble and the tangled wood echoes awesomely with the outcry of beasts: earthquakes and the sea also where fishes shoal."[^hh27-hunt]
+- **Transformation:** She turned Actaeon into a stag — "Diana made horns grow on his head, and he was devoured by his own dogs."[^hyg-180-punishment] In the [Metamorphoses](../sources/metamorphoses.md), she transforms Callisto into a bear.[^met-art-callisto]
+- **Substitution and transport:** At Aulis, she "cast mist about" Iphigenia, "substituted a deer in her place," and "bore Iphigenia through the clouds to the Tauric land."[^hyg-98-substitution][^hyg-98-priestess]
+
+[^bow-painless]: See [Artemis's Bow](../objects/artemis-bow.md) for full citations.
+
 ## Birth
 
 "Leto was joined in love with [Zeus](zeus.md) who holds the aegis, and bare [Apollo](apollo.md) and Artemis delighting in arrows, children lovely above all the sons of Heaven."[^theog-birth]

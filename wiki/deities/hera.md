@@ -36,6 +36,19 @@ Hera's physical power is also conveyed through action: she "stirred her upon her
 
 [^desc-beauty]: "Queen of the immortals is she, surpassing all in beauty: she is the sister and the wife of loud-thundering Zeus,—the glorious one whom all the blessed throughout high Olympus reverence and honour even as Zeus who delights in thunder" (Homeric Hymn XII to Hera 2-5)
 
+## Powers
+
+- **Driving mortals mad:** Her most frequent weapon. She drove [Heracles](../heroes/heracles.md) mad so that "he flung his own children... into the fire."[^apd-hera-madness] She drove Ino and Athamas mad — "Athamas hunted his elder son Learchus as a deer and killed him."[^apd-dion-ino] She also drove Athamas mad a second time so that "he shot Learchus with an arrow."[^apd-athamas] She drove [Dionysus](dionysus.md) himself mad, sending him roaming through Egypt and Syria.[^apd-dion-wander-hera]
+- **Sending monsters and serpents:** She nourished the [Hydra](../creatures/hydra.md) of Lerna, "being angry beyond measure with the mighty Heracles."[^theog-hydra] She "brought up and made to haunt the hills of Nemea" the Nemean lion.[^theog-lion] She "sent two huge serpents to the bed" of the infant Heracles.[^apd-hera-serpents]
+- **Storms:** She "sent grievous storms" against Heracles sailing from Troy.[^apd-hera-storms] In the [Aeneid](../sources/aeneid.md), she enlists Aeolus to raise a storm against the Trojan fleet.
+- **Summoning infernal powers:** In the Aeneid, she summoned the Fury Allecto from the underworld — "if I cannot bend the gods above, I will rouse hell."[^aen-hera-acheron]
+- **Withholding childbirth:** She kept Eileithyia away from Leto "through envy," preventing Apollo's birth until the other goddesses intervened.[^hh3-envy]
+- **Blinding:** She blinded Tiresias "with the back of her hand" when his judgment displeased her.[^hyg-75-blind]
+- **Granting immortality:** She "made Menelaus immortal... he went to the Elysian Fields with [Helen](../heroes/helen.md)."[^apd-hera-menelaus]
+
+[^apd-dion-wander-hera]: "Dionysus... being driven mad by Hera he roamed about Egypt and Syria" (Bibliotheca 3.5.1, trans. J.G. Frazer)
+[^apd-hera-menelaus]: "being made immortal by Hera he went to the Elysian Fields with Helen" (Bibliotheca E.6.29, trans. J.G. Frazer)
+
 ## Children
 
 ### With Zeus

@@ -58,6 +58,13 @@ In [Iliad](../sources/iliad.md) V, when wounded by [Diomedes](../heroes/diomedes
 
 [^theog-children]: "Also Cytherea bare to Ares the shield-piercer Panic and Fear, terrible gods who drive in disorder the close ranks of men in numbing war, with the help of Ares, sacker of towns: and Harmonia whom high-spirited Cadmus made his wife" (Theogony 933-937)
 
+## Powers
+
+- **Terrifying war-cry:** "Brazen Ares bellowed loud as nine thousand warriors or ten thousand cry in battle... thereat trembling gat hold of Achaians and Trojans for fear."[^il5-bellow]
+- **Shapeshifting:** He entered the Trojan ranks "in the likeness of fleet Akamas, captain of the Thracians."[^il5-leading]
+- **Divine resilience:** Despite severe wounds, he healed rapidly — Paieon "laid assuaging drugs upon the wound and healed him; seeing that verily he was of no mortal substance. Even as fig juice maketh haste to thicken white milk... even so swiftly healed he."[^il5-heal]
+- **Accompanied by personifications:** He fights with Fear (Phobos), Panic (Deimos), Flight, and Enyo at his side. On the [Shield of Heracles](../sources/shield-of-heracles.md), "Beside him stood Fear and Flight, eager to plunge amidst the fighting men."[^sh-shield]
+
 ## In the Shield of Heracles
 
 In the [Shield of Heracles](../sources/shield-of-heracles.md), Ares fights alongside his son Cycnus against [Heracles](../heroes/heracles.md). When Heracles kills Cycnus, Ares charges to avenge him, but [Athena](athena.md) deflects his spear and rebukes him: "Ares, check your fierce anger and matchless hands; for it is not ordained that you should kill Heracles, the bold-hearted son of Zeus."[^sh-athena] But "he uttered a great shout and waving his spears like fire, he rushed headlong at strong Heracles." Heracles then wounded him in the thigh, "and cast him flat upon the ground. And Panic and Dread quickly drove his smooth-wheeled chariot and horses near him and lifted him from the wide-pathed earth into his richly-wrought car."[^sh-wound]

@@ -34,6 +34,14 @@ When ordered to release [Persephone](persephone.md), he "smiled grimly" — a me
 [^desc-golden]: "the strong Slayer of Argos drew near and said: 'Dark-haired Hades, ruler over the departed'" (Homeric Hymn to Demeter 346-347)
 [^desc-smile]: "Aidoneus, ruler over the dead, smiled grimly and obeyed the behest of Zeus the king" (Homeric Hymn to Demeter 357-358)
 
+## Powers
+
+- **Invisibility:** The [Cyclopes](../creatures/cyclopes.md) gave him a [helmet](../objects/helm-of-hades.md) that grants invisibility — "on Pluto they bestowed a helmet."[^apd-hades-helm] [Athena](athena.md) borrows it in the [Iliad](../sources/iliad.md) "that terrible [Ares](ares.md) might not behold her."
+- **Rule over the dead:** [Helius](helius.md) describes his domain: "for honour, he has that third share which he received when division was made at the first, and is appointed lord of those among whom he dwells."[^hd-helius] He promises [Persephone](persephone.md): "while you are here, you shall rule all that lives and moves and shall have the greatest rights among the deathless gods."[^hd-pomegranate]
+- **The pomegranate binding:** He "secretly gave her sweet pomegranate seed to eat, taking care for himself that she might not remain continually" with [Demeter](demeter.md) — a binding that cannot be undone.[^hd-pomegranate]
+
+[^apd-hades-helm]: "on Pluto they bestowed a helmet, and on Poseidon a trident. Armed with these weapons, they overcame the Titans" (Bibliotheca 1.2.1, trans. J.G. Frazer)
+
 ## Dwelling
 
 In [Tartarus](../places/tartarus.md), "the echoing halls of the god of the lower-world, strong Hades, and of awful [Persephone](persephone.md)" are described, guarded by a fearful hound ([Cerberus](../creatures/cerberus.md)).[^theog-halls]
