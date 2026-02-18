@@ -24,11 +24,15 @@
 - **"giver of grace, guide, and giver of good things"** — (Hymn XVIII 12)[^desc-grace]
 - **"the Helper"** / **"the Helper Hermes, pro-eminent in subtle thoughts"** — ([Iliad](../sources/iliad.md) XX.11334; XXIV passim)[^il20-helper]
 - **"bearer of the golden rod, giver of good"** — paired with [Hestia](hestia.md) (Hymn XXIX 7-12)[^desc-rod]
+- **"Caduceus-Bearer"** — in the [Metamorphoses](../sources/metamorphoses.md) (2.708)[^met-caduceus]
+- **"the Wingfoot"** — in the [Metamorphoses](../sources/metamorphoses.md), used repeatedly (4.753, 8.627)[^met-wingfoot]
 
 [^desc-grace]: "Hail, Hermes, giver of grace, guide, and giver of good things!" (Homeric Hymn XVIII to Hermes 12, trans. H.G. Evelyn-White)
 [^desc-rod]: "And you, slayer of Argus, Son of Zeus and Maia, messenger of the blessed gods, bearer of the golden rod, giver of good, be favourable and help us, you and Hestia, the worshipful and dear" (Homeric Hymn XXIX to Hestia 7-10)
 
 [^il20-helper]: "the Helper Hermes, pro-eminent in subtle thoughts" (Iliad XX.11334, trans. Lang, Leaf, and Myers); used repeatedly in XXIV (13835, 13914, 13927, 14129)
+[^met-caduceus]: "Caduceus-Bearer soared on balanced wings" (Metamorphoses 2.708, trans. Brookes More)
+[^met-wingfoot]: "to Mercury, the Wingfoot, and a bull" (Metamorphoses 8.627, trans. Brookes More); also at 4.753: "sped wing-footed through the liquid air"
 [^desc-luck]: "I sing of Cyllenian Hermes, the Slayer of Argus, lord of Cyllene and Arcadia rich in flocks, luck-bringing messenger of the deathless gods" (Homeric Hymn XVIII to Hermes 1-3, trans. H.G. Evelyn-White)
 [^desc-keen]: "Ares and the keen-eyed Slayer of Argus" (Homeric Hymn III to Apollo 201)
 [^desc-wand]: "he sent the Slayer of Argus whose wand is of gold to Erebus" (Homeric Hymn to Demeter 335)
@@ -268,6 +272,12 @@ He drove the cattle through vast distances — through the lands of the Pelasgi,
 
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
+### Appearance in the Metamorphoses
+
+When Mercury descends to court Herse, the [Metamorphoses](../sources/metamorphoses.md) gives his fullest physical description. "Though he knew his face was beautiful, he combed his hair, and fixed his flowing raiment, that the fringe of radiant gold appeared. And in his hand he waved his long smooth wand, with which he gives the wakeful sleep or waketh ridded eyes. He proudly glanced upon his twinkling feet that sparkled with their scintillating wings."[^met-herm-appearance]
+
+[^met-herm-appearance]: "though he knew his face was beautiful, he combed his hair, and fixed his flowing raiment, that the fringe of radiant gold appeared. And in his hand he waved his long smooth wand, with which he gives the wakeful sleep or waketh ridded eyes. He proudly glanced upon his twinkling feet that sparkled with their scintillating wings" (Metamorphoses 2.731-737, trans. Brookes More)
+
 ### Slaying Argus (1.668-730)
 
 When [Zeus](zeus.md) could no longer endure [Io](../heroes/io.md)'s suffering as a heifer under Argus's watch, "he called his son, whom Maia brightest of the Pleiades brought forth, and bade him slay the star eyed guard, Argus."[^met-herm-called] Mercury descended to earth in disguise: "he seized his sleep compelling wand and fastened waving wings on his swift feet, and deftly fixed his brimmed hat on his head" — then "put off his cap and wings, though still retained his wand with which he drove through pathless wilds some stray she goats, and as a shepherd fared, piping on oaten reeds melodious tunes."[^met-herm-disguise]
@@ -326,6 +336,8 @@ When Argus finally slumbered, Mercury struck: "he touched the drooping eyelids w
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.30: Brought Protesilaus up from Hades for his grieving wife Laodamia
 - **[Bibliotheca](../sources/apollodorus.md)** E.7.38: Variant — Pan born to Hermes by Penelope
 - **[Aeneid](../sources/aeneid.md)** IV: Sent by Jupiter to command Aeneas to leave Carthage; laces golden shoes, takes his rod ("wherewith he calls wan souls forth of Orcus... gives sleep and takes it away and unseals dead eyes"); descends via Atlas; compared to a bird skimming the sea; appears again as a dream-phantom urging haste: "Woman is ever a fickle and changing thing"
+- **[Metamorphoses](../sources/metamorphoses.md)** 2.731-737: Full appearance description — combed hair, gold-fringed raiment, smooth wand, scintillating winged feet
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.331: Fled Typhoeus to Egypt; hid in the form of an ibis
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.668-730: Called by Zeus to slay Argus; descended with sleep-compelling wand, wings, and brimmed hat; disguised as shepherd with oaten reeds; told story of Pan and Syrinx to lull Argus's hundred eyes; struck off his head with crescent sword; Hera placed Argus's eyes on peacock's tail
 - **[Fabulae](../sources/hyginus.md)** §143: Men lived under Jove speaking one tongue; Mercury explained languages and divided nations; called "ermeneutes" (interpreter); discord arose; Jove gave first rule to Phoroneus
 - **[Fabulae](../sources/hyginus.md)** §201: Gave Autolycus gift of theft and shapeshifting stolen goods; Sisyphus marked cattle hooves to catch him; Sisyphus seduced Anticleia while there; she married Laertes and bore Ulysses; some call Ulysses "Sisyphean" for this reason

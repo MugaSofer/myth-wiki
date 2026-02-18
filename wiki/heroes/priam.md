@@ -12,6 +12,23 @@
 
 **Priam** is the king of [Troy](../places/troy.md) during the Trojan War and father of fifty sons and many daughters. His original name was Podarces; he was renamed Priam after being ransomed by his sister Hesione when [Heracles](heracles.md) sacked Troy. He is the last king of Troy, killed by Neoptolemus at the altar of Zeus.
 
+## Appearance
+
+Priam is described only in old age, his appearance marked by grief. In his own plea before [Hector](hector.md)'s duel, he speaks of "when dogs defile the hoary head and hoary beard of an old man slain, this is the most piteous thing that cometh upon hapless men."[^il22-hoary]
+
+When he comes to ransom Hector's body, [Achilles](achilles.md) sees the same features and responds with compassion: "he sprang from his seat and raised the old man by his hand, pitying his hoary head and hoary beard."[^il24-pity]
+
+[^il22-hoary]: "when dogs defile the hoary head and hoary beard of an old man slain, this is the most piteous thing that cometh upon hapless men" (Iliad XXII.12365-12367, trans. Lang, Leaf, and Myers)
+[^il24-pity]: "he sprang from his seat and raised the old man by his hand, pitying his hoary head and hoary beard" (Iliad XXIV.13979-13980)
+
+## In the Iliad
+
+### The Ransom of Hector (Book XXIV)
+
+Priam's journey to Achilles' tent, guided by [Hermes](../deities/hermes.md), culminates in one of the most celebrated scenes in the [Iliad](../sources/iliad.md). Achilles marvels at Priam's courage: "Ah hapless! many ill things verily thou hast endured in thy heart. How durst thou come alone to the ships of the Achaians and to meet the eyes of the man who hath slain full many of thy brave sons."[^il24-marvel]
+
+[^il24-marvel]: "Ah hapless! many ill things verily thou hast endured in thy heart. How durst thou come alone to the ships of the Achaians and to meet the eyes of the man who hath slain full many of thy brave sons" (Iliad XXIV.13981-13983)
+
 ## In the Bibliotheca
 
 ### Trojan Royal Line (3.12.1-5)
@@ -84,7 +101,8 @@ Neoptolemus dragged him "quivering to the very altar, slipping in the pool of hi
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Watches the duel from the walls; swears the oath
-- **[Iliad](../sources/iliad.md)** XXIV: Ransoms Hector's body from [Achilles](achilles.md); guided by [Hermes](../deities/hermes.md); [Zeus](../deities/zeus.md) sends the eagle omen
+- **[Iliad](../sources/iliad.md)** XXII: Pleads with Hector not to fight; "hoary head and hoary beard"
+- **[Iliad](../sources/iliad.md)** XXIV: Ransoms Hector's body from [Achilles](achilles.md); guided by [Hermes](../deities/hermes.md); [Zeus](../deities/zeus.md) sends the eagle omen; Achilles pities "his hoary head and hoary beard"; mutual admiration between king and warrior
 - **[Bibliotheca](../sources/apollodorus.md)** 3.12.3-5: Trojan royal genealogy; Palladium; Laomedon; Priam renamed from Podarces
 - **[Bibliotheca](../sources/apollodorus.md)** 3.12.5: Hecuba's firebrand dream; Paris exposed; nursed by a bear; Cassandra and Apollo
 - **[Bibliotheca](../sources/apollodorus.md)** 3.12.5: Full list of children — by Hecuba: Hector, Paris, Creusa, Laodice, Polyxena, Cassandra, Deiphobus, Helenus, and others; by other women: many more sons and daughters

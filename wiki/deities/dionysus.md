@@ -34,6 +34,10 @@
 
 In the pirates' story, he appeared "seeming like a stripling in the first flush of manhood: his rich, dark hair was waving about him, and on his strong shoulders he wore a purple robe."[^desc-stripling] When they tried to bind him, "the bonds would not hold him, and the withes fell far away from his hands and feet: and he sat with a smile in his dark eyes."[^desc-smile]
 
+In the [Metamorphoses](../sources/metamorphoses.md), his divine manifestation aboard the pirate ship includes an entourage of wild beasts: "Bacchus in the midst of all stood crowned with chaplets of grape-leaves, and shook a lance covered with twisted fronds of leafy vines. Around him crouched the visionary forms of tigers, lynxes, and the mottled shapes of panthers."[^met-dion-beasts]
+
+[^met-dion-beasts]: "Bacchus in the midst of all stood crowned with chaplets of grape-leaves, and shook a lance covered with twisted fronds of leafy vines. Around him crouched the visionary forms of tigers, lynxes, and the mottled shapes of panthers" (Metamorphoses 3.664-669, trans. Brookes More)
+
 [^desc-stripling]: "he seemed like a stripling in the first flush of manhood: his rich, dark hair was waving about him, and on his strong shoulders he wore a purple robe" (Homeric Hymn VII to Dionysus 3-5)
 [^desc-smile]: "the bonds would not hold him, and the withes fell far away from his hands and feet: and he sat with a smile in his dark eyes" (Homeric Hymn VII to Dionysus 12-15)
 
@@ -268,6 +272,8 @@ Dionysus punished the Bacchantes by rooting them to the ground as oak trees. He 
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.253-315: Birth from Semele; Hera's trick; Zeus's thunderbolt; rescued from his mother's womb; twice-born
+- **[Metamorphoses](../sources/metamorphoses.md)** 3.664-669: Divine manifestation — grape-leaf crown, vine-covered lance, tigers, lynxes, and panthers
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.329: Fled Typhoeus to Egypt; hid in the form of a goat
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.509-733: Pentheus defies him; pirates turned to dolphins; Pentheus torn apart by his mother and aunts
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.1-193: Bacchantes kill Orpheus; punishes them; rewards Midas with golden touch
 - **Catalogue of Women** Fragment 87: "Such gifts as Dionysus gave to men, a joy and a sorrow both" — wine binds hands, feet, tongue, and wits "with fetters unspeakable"

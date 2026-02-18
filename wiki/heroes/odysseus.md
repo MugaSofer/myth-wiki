@@ -27,6 +27,8 @@
 - **"Heaven-sprung son of Laertes"** — the extended patronymic, used by gods and mortals addressing him formally[^ep-heaven]
 - **"of many wiles"** — variant of "many devices" in the [Iliad](../sources/iliad.md)[^ep-wiles]
 - **"of many counsels"** — used frequently in the [Odyssey](../sources/odyssey.md): "Odysseus of many counsels answered"[^ep-counsels]
+- **"peer of Zeus in counsel"** — used in the [Iliad](../sources/iliad.md) Catalogue of Ships and elsewhere[^ep-peer]
+- **"insatiable of craft and toil"** — used by a Trojan warrior in the [Iliad](../sources/iliad.md)[^ep-insatiable]
 
 [^ep-devices]: "Son of Laertes, of the seed of Zeus, Odysseus of many devices" (Odyssey X.5716, trans. Butcher and Lang)
 [^ep-enduring]: "much-enduring noble Odysseus heard him not" (Iliad XI.4507, trans. Lang, Leaf, and Myers)
@@ -37,6 +39,8 @@
 [^ep-heaven]: "Heaven-sprung son of Laertes, Odysseus of many devices" (Iliad II.946, trans. Lang, Leaf, and Myers)
 [^ep-wiles]: "son of Laertes, Odysseus of many wiles, in openness must I now declare" (Iliad IX.5219, trans. Lang, Leaf, and Myers)
 [^ep-counsels]: "And Odysseus of many counsels answered, and spake unto her" (Odyssey V.3194, trans. Butcher and Lang)
+[^ep-peer]: "Odysseus peer of Zeus in counsel" (Iliad II.1161, trans. Lang, Leaf, and Myers); also at II.1370, X.5714
+[^ep-insatiable]: "Odysseus, insatiable of craft and toil" (Iliad XI.6570)
 
 ## Appearance
 

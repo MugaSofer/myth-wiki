@@ -134,6 +134,12 @@ On their return, the heroes dedicate the spoils to Athena: "Odysseus placed the 
 [^il10-apollo]: "nor a vain watch kept Apollo of the silver bow, when he beheld Athene caring for the son of Tydeus; in wrath against her he stole among the crowded press of Trojans" (Iliad X.6087-6089, trans. Lang, Leaf, and Myers)
 [^il10-spoils]: "Odysseus placed the bloody spoils of Dolon in the stern of the ship, that they might make ready a sacred offering to Athene... they drew off the honey-sweet wine, and poured it forth to Athene" (Iliad X.6139-6148, trans. Lang, Leaf, and Myers)
 
+### Wounded by Paris — "Bowman, Reviler" (Book XI)
+
+[Paris](paris.md) shot Diomedes through the foot with an arrow from behind cover (see [Paris — Wounding Diomedes](paris.md#wounding-diomedes-book-xi)). Diomedes' contemptuous reply encapsulates the contrast between the two heroes: "Bowman, reviler, proud in thy bow of horn, thou gaper after girls, verily if thou madest trial in full harness, man to man, thy bow and showers of shafts would nothing avail thee, but now thou boastest vainly, for that thou hast grazed the sole of my foot. I care not, more than if a woman had struck me or a senseless boy, for feeble is the dart of a craven man and a worthless."[^il11-paris]
+
+[^il11-paris]: "Bowman, reviler, proud in thy bow of horn, thou gaper after girls, verily if thou madest trial in full harness, man to man, thy bow and showers of shafts would nothing avail thee, but now thou boastest vainly, for that thou hast grazed the sole of my foot. I care not, more than if a woman had struck me or a senseless boy, for feeble is the dart of a craven man and a worthless" (Iliad XI.6525-6531, trans. Lang, Leaf, and Myers)
+
 ### Apollo's Helm Saves Hector from Diomedes (Book XI)
 
 In [Iliad](../sources/iliad.md) Book XI, Diomedes hurls his spear at Hector's head, but [Apollo](../deities/apollo.md)'s gift protects the Trojan: "bronze by bronze was turned, nor reached his fair flesh, for it was stopped by the threefold helm with its socket, that Phoebus Apollo to Hector gave." Diomedes himself recognises the divine protection: "now hath Phoebus Apollo saved thee, to whom thou must surely pray when thou goest amid the clash of spears."[^il11-helm]
@@ -180,7 +186,7 @@ After Troy's fall, Diomedes returned to find his grandfather in distress. "When 
 - **[Iliad](../sources/iliad.md)** VIII: [Zeus](../deities/zeus.md) hurls lightning before his horses; forced to retreat; grieves at the dishonour
 - **[Iliad](../sources/iliad.md)** IX: Speaks in council; urges the Greeks to fight on
 - **[Iliad](../sources/iliad.md)** X: Night raid with [Odysseus](odysseus.md); [Athena](../deities/athena.md) sends heron omen; pours strength into him; sends evil dream over Rhesus; warns him to retreat; [Apollo](../deities/apollo.md) watches in anger; spoils dedicated to Athena
-- **[Iliad](../sources/iliad.md)** XI: Spear stopped by [Apollo](../deities/apollo.md)'s helm on Hector; wounded by Paris's arrow; withdraws from battle
+- **[Iliad](../sources/iliad.md)** XI: Spear stopped by [Apollo](../deities/apollo.md)'s helm on Hector; wounded by [Paris](paris.md)'s arrow; contemptuous reply ("Bowman, reviler, proud in thy bow of horn, thou gaper after girls"); withdraws from battle
 - **[Iliad](../sources/iliad.md)** XIV: Named among the wounded leaders
 - **[Iliad](../sources/iliad.md)** XXIII: Wins the chariot race with [Athena](../deities/athena.md)'s help against [Apollo](../deities/apollo.md)'s interference; wins the armed combat
 - **[Odyssey](../sources/odyssey.md)** IV: Recalled in the Wooden Horse episode alongside Odysseus

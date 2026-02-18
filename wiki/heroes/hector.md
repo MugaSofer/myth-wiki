@@ -37,10 +37,13 @@ In the [Fabulae](../sources/fabulae.md), he is called **"the great illustrious H
 
 The [Iliad](../sources/iliad.md) gives a vivid image of Hector in his armour: "the black hide beat on either side against his ankles and his neck, even the rim that ran uttermost about his bossed shield."[^il6-shield] His helmet had a horse-hair crest so fearsome that his own infant son Astyanax "shrunk crying to the bosom of his fair-girdled nurse, dismayed at his dear father's aspect, and in dread at the bronze and horse-hair crest that he beheld nodding fiercely from the helmet's top."[^il6-crest]
 
+His spear was enormous: "his hand bare his spear, eleven cubits long: before his face glittered the bronze spear-point, and a ring of gold ran round about it."[^il6-spear]
+
 After his death, the Greeks "gazed upon the stature and marvellous goodliness of Hector."[^il22-goodliness]
 
 When he donned the divine armour stripped from [Patroclus](patroclus.md), "the armour fitted itself unto Hector's body" and "in the flashing of his armour he seemed to all of them like unto Peleus' great-hearted son."[^il17-armour]
 
+[^il6-spear]: "his hand bare his spear, eleven cubits long: before his face glittered the bronze spear-point, and a ring of gold ran round about it" (Iliad VI.3761-3762)
 [^il6-shield]: "the black hide beat on either side against his ankles and his neck, even the rim that ran uttermost about his bossed shield" (Iliad VI.3568-3570)
 [^il6-crest]: "the child shrunk crying to the bosom of his fair-girdled nurse, dismayed at his dear father's aspect, and in dread at the bronze and horse-hair crest that he beheld nodding fiercely from the helmet's top" (Iliad VI.3899-3901)
 [^il22-goodliness]: "sons of Achaians ran up around, who gazed upon the stature and marvellous goodliness of Hector" (Iliad XXII.12626-12627)
@@ -75,8 +78,11 @@ Hector challenged the bravest Greek to single combat. The lot fell on [Ajax](aja
 
 ### Assault on the Ships (Books XII-XVI)
 
-Hector breached the Greek wall and drove the fighting to the ships themselves. He set fire to the ship of Protesilaus, forcing [Achilles](achilles.md) to send [Patroclus](patroclus.md) out in his armour.[^il-assault] Hector slew Patroclus — who had first been wounded by Euphorbus and struck by [Apollo](../deities/apollo.md) — and stripped the divine armour from his body.[^il16-patslain]
+Hector breached the Greek wall through a feat of divinely-aided strength. He lifted a gate-stone "that not the two best men of the people, such as mortals now are, could lightly lift from the ground on to a wain, but easily he wielded it alone, for the son of crooked-counselling Kronos made it light for him." He hurled it against the gates, shattering both hinges: "Then glorious Hector leaped in, with face like the sudden night, shining in wondrous mail that was clad about his body, and with two spears in his hands. No man that met him could have held him back when once he leaped within the gates: none but the gods, and his eyes shone with fire."[^il12-gate]
 
+He drove the fighting to the ships themselves, setting fire to the ship of Protesilaus, forcing [Achilles](achilles.md) to send [Patroclus](patroclus.md) out in his armour.[^il-assault] Hector slew Patroclus — who had first been wounded by Euphorbus and struck by [Apollo](../deities/apollo.md) — and stripped the divine armour from his body.[^il16-patslain]
+
+[^il12-gate]: "a stone that not the two best men of the people, such as mortals now are, could lightly lift from the ground on to a wain, but easily he wielded it alone, for the son of crooked-counselling Kronos made it light for him... Then glorious Hector leaped in, with face like the sudden night, shining in wondrous mail that was clad about his body, and with two spears in his hands. No man that met him could have held him back when once he leaped within the gates: none but the gods, and his eyes shone with fire" (Iliad XII.7370-7387)
 [^il-assault]: "Hector made a breach in the wall and entered and, Ajax having retreated, he set fire to the ships" (Epitome 4.5)
 [^il16-patslain]: "Hector, when he had stripped from Patroklos his noble armour, was dragging him thence that he might cut off the head from the shoulders with the keen bronze" (Iliad XVII.10083-10085)
 

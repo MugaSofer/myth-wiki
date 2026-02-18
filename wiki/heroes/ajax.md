@@ -11,6 +11,50 @@
 
 **Ajax**, son of Telamon, is the greatest Greek warrior after [Achilles](achilles.md). He is distinguished by his enormous size, his great shield, and his unwavering courage — but his story ends in madness and suicide when the arms of Achilles are awarded to [Odysseus](odysseus.md) instead of him.
 
+## Epithets
+
+- **"bulwark of the Achaians"** — used repeatedly in the [Iliad](../sources/iliad.md)[^il7-bulwark]
+- **"Aias of the seed of Zeus, son of Telamon, chieftain of the host"** — [Hector](hector.md)'s address to him before their duel[^il7-seed]
+
+[^il7-bulwark]: "So rose up huge Aias, bulwark of the Achaians, with a smile on his grim face" (Iliad VII.4157, trans. Lang, Leaf, and Myers); also at III.1845, VIII.3467
+[^il7-seed]: "Aias of the seed of Zeus, son of Telamon, chieftain of the host, tempt not thou me like some puny boy or woman" (Iliad VII.4176-4177)
+
+## Appearance
+
+The [Iliad](../sources/iliad.md) emphasises Ajax's immense physical presence. When he rises to fight [Hector](hector.md), he goes "with long strides of his feet beneath him" and the Trojans tremble at the sight of him, while "Hector's own heart beat within his breast."[^il7-stride]
+
+When defending the ships, he strides across the decks leaping from ship to ship: "even as a man right well skilled in horsemanship that couples four horses out of many... firmly ever he leaps, and changes his stand from horse to horse, while they fly along, even so Aias went with long strides, over many a deck of the swift ships, and his voice went up unto heaven."[^il15-leap]
+
+[^il7-stride]: "Aias came near bearing his tower-like shield of bronze... And he went with long strides of his feet beneath him, shaking his far-shadowing spear. Then moreover the Argives rejoiced to look upon him, but sore trembling came upon the Trojans" (Iliad VII.4157-4161)
+[^il15-leap]: "even as a man right well skilled in horsemanship that couples four horses out of many... firmly ever he leaps, and changes his stand from horse to horse, while they fly along, even so Aias went with long strides, over many a deck of the swift ships, and his voice went up unto heaven" (Iliad XV.9361-9367)
+
+## Equipment
+
+### The Sevenfold Shield
+
+Ajax's most distinctive piece of equipment is his "tower-like shield of bronze, with sevenfold ox-hide, that Tychios had wrought him cunningly; Tychios far best of curriers, that had his home in Hyle, who made him his glancing shield, of sevenfold hides of stalwart bulls, and overlaid the seven with bronze."[^il7-shield] In their duel, Hector's spear "through six folds went the stubborn bronze cleaving, but in the seventh hide it stayed."[^il7-six]
+
+### The Sea-Pike
+
+When defending the ships against the Trojans' assault, Ajax "wielded in his hands a great pike for sea-battles, jointed with rings, two and twenty cubits in length."[^il15-pike]
+
+[^il7-shield]: "Aias came near bearing his tower-like shield of bronze, with sevenfold ox-hide, that Tychios had wrought him cunningly; Tychios far best of curriers, that had his home in Hyle, who made him his glancing shield, of sevenfold hides of stalwart bulls, and overlaid the seven with bronze" (Iliad VII.4163-4167)
+[^il7-six]: "Through six folds went the stubborn bronze cleaving, but in the seventh hide it stayed" (Iliad VII.4188-4189)
+[^il15-pike]: "he wielded in his hands a great pike for sea-battles, jointed with rings, two and twenty cubits in length" (Iliad XV.9360-9361)
+
+## In the Iliad
+
+### Idomeneus's Assessment (Book XIII)
+
+[Idomeneus](../sources/iliad.md) praises Ajax as without equal in close combat, rating him above even [Achilles](achilles.md) in that respect: "not to a man would he yield, the great Telamonian Aias, to a man that is mortal and eateth Demeter's grain, and may be cloven with the sword of bronze, and with hurling of great stones. Nay, not even to Achilles the breaker of the ranks of men would he give way, not in close fight; but for speed of foot none may in any wise strive with Achilles."[^il13-idomeneus]
+
+### Felling Hector with a Stone (Book XIV)
+
+After Hector's spear failed to pierce Ajax's double belt, "the great Telamonian Aias smote him with a huge stone; for many stones, the props of swift ships, were rolled among the feet of the fighters; one of these he lifted, and smote Hector on the breast, over the shield-rim, near the neck, and made him spin like a top with the blow, that he reeled round and round." Hector fell "even as when an oak falls uprooted beneath the stroke of father Zeus," and had to be carried from the field by his comrades.[^il14-stone]
+
+[^il13-idomeneus]: "not to a man would he yield, the great Telamonian Aias, to a man that is mortal and eateth Demeter's grain, and may be cloven with the sword of bronze, and with hurling of great stones. Nay, not even to Achilles the breaker of the ranks of men would he give way, not in close fight; but for speed of foot none may in any wise strive with Achilles" (Iliad XIII.7711-7715, trans. Lang, Leaf, and Myers)
+[^il14-stone]: "the great Telamonian Aias smote him with a huge stone; for many stones, the props of swift ships, were rolled among the feet of the fighters; one of these he lifted, and smote Hector on the breast, over the shield-rim, near the neck, and made him spin like a top with the blow, that he reeled round and round. And even as when an oak falls uprooted beneath the stroke of father Zeus... even so fell mighty Hector straightway in the dust" (Iliad XIV.8597-8607)
+
 ## In the Bibliotheca
 
 ### Birth (3.12.7)
@@ -75,8 +119,11 @@ Ajax, "the unconquerable," is "conquered by his grief." He draws his sword and d
 
 ## Appearances
 
-- **[Iliad](../sources/iliad.md)** VII: Single combat with Hector; nearly defeats him; parted by heralds
+- **[Iliad](../sources/iliad.md)** VII: Single combat with [Hector](hector.md); "bulwark of the Achaians"; tower-like sevenfold shield; nearly defeats Hector; parted by heralds
 - **[Iliad](../sources/iliad.md)** IX: One of three ambassadors to [Achilles](achilles.md)
+- **[Iliad](../sources/iliad.md)** XIII: Praised by [Idomeneus](../sources/iliad.md) — would not yield to any mortal in close fight, "not even to Achilles"
+- **[Iliad](../sources/iliad.md)** XIV: Fells [Hector](hector.md) with a huge stone to the breast; Hector "reeled round and round" and fell like an oak struck by Zeus's bolt
+- **[Iliad](../sources/iliad.md)** XV: Defends the ships with a 22-cubit sea-pike, leaping from deck to deck
 - **[Iliad](../sources/iliad.md)** XVII: Defends [Patroclus](patroclus.md)'s body
 - **[Odyssey](../sources/odyssey.md)** XI: Ghost refuses to speak to Odysseus — still angry over the arms
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Carries Achilles' body; commits suicide

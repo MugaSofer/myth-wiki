@@ -46,6 +46,12 @@ In the pursuit of [Hector](hector.md) in Book XXII, the poem describes the effec
 
 ## In the Iliad
 
+### The Musician in His Tent (Book IX)
+
+When the Greek embassy arrives at Achilles' camp, they find him "taking his pleasure of a loud lyre, fair, of curious work, with a silver cross-bar upon it; one that he had taken from the spoils when he laid Eëtion's city waste. Therein he was delighting his soul, and singing the glories of heroes. And over against him sate Patroklos alone in silence, watching till Aiakides should cease from singing."[^il9-lyre]
+
+[^il9-lyre]: "found their king taking his pleasure of a loud lyre, fair, of curious work, with a silver cross-bar upon it; one that he had taken from the spoils when he laid Eëtion's city waste. Therein he was delighting his soul, and singing the glories of heroes. And over against him sate Patroklos alone in silence, watching till Aiakides should cease from singing" (Iliad IX.5115-5120, trans. Lang, Leaf, and Myers)
+
 ### Thetis, the Divine Mother
 
 [Thetis](../deities/thetis.md) is Achilles' constant divine connection in the [Iliad](../sources/iliad.md). When he weeps by the sea after being dishonoured by Agamemnon, she rises from the depths "like a mist" to comfort him: "With speed arose she from the grey sea, like a mist, and sate her before the face of her weeping son, and stroked him with her hand."[^il1-mist]
@@ -308,7 +314,7 @@ After Troy's fall, when the Greek fleet was moored on the Thracian shore, Achill
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I: Quarrel with Agamemnon; [Athena](../deities/athena.md) restrains him ("terribly shone her eyes"); weeps by the sea; [Thetis](../deities/thetis.md) rises "like a mist"; supplicates [Zeus](../deities/zeus.md) on his behalf
-- **[Iliad](../sources/iliad.md)** IX: Reveals his two fates; rejects the embassy; the choice between glory and long life
+- **[Iliad](../sources/iliad.md)** IX: Playing the lyre and singing "the glories of heroes" with Patroklos; reveals his two fates; rejects the embassy
 - **[Iliad](../sources/iliad.md)** XVI: Sends Patroklos into battle in his armour; his immortal horses Xanthos and Balios (born of harpy Podarge and the West Wind)
 - **[Iliad](../sources/iliad.md)** XVIII: Mourns Patroklos; [Thetis](../deities/thetis.md) laments among the Nereids; [Athena](../deities/athena.md)'s [aegis](../objects/aegis.md), fire, and triple shout; [Thetis](../deities/thetis.md) commissions armour from [Hephaestus](../deities/hephaestus.md); the [Shield of Achilles](../objects/shield-of-achilles.md)
 - **[Iliad](../sources/iliad.md)** XIX: [Zeus](../deities/zeus.md) sends [Athena](../deities/athena.md) to feed him nectar and ambrosia; horse Xanthos prophesies his death ("a god and a man"); [Erinyes](../creatures/erinyes.md) silence the horse; Achilles accepts his fate

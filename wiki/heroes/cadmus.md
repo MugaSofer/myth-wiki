@@ -26,11 +26,9 @@ When Cadmus and Harmonia later quit Thebes, they went to the Encheleans, who wer
 
 ## Appearance
 
-| Source | Description |
-|---|---|
-| Bibliotheca 3.4.1 | A Phoenician prince, warrior capable of killing a dragon single-handedly |
-| Bibliotheca 3.4.2 | Serves Ares for eight years as atonement |
-| Bibliotheca 3.5.4 | Transformed into a serpent with Harmonia; sent to Elysium |
+The [Metamorphoses](../sources/metamorphoses.md) gives the only physical description of Cadmus in the sources, as he prepares to fight the dragon of Mars: "Clothed in a skin torn from a lion, he was armed, complete, with lance of glittering steel; and with a dart: but passing these he had a dauntless soul."[^met-cad-appearance]
+
+[^met-cad-appearance]: "Clothed in a skin torn from a lion, he was armed, complete, with lance of glittering steel; and with a dart: but passing these he had a dauntless soul" (Metamorphoses 3.50-53, trans. Brookes More)
 
 ## Footnotes
 

@@ -417,9 +417,30 @@ After Hera sent storms against Heracles as he sailed from [Troy](../places/troy.
 
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
+### The Ivory Sceptre and Restrained Thunderbolts (Books 1-2)
+
+When [Zeus](zeus.md) addresses the assembled gods about the impiety of mortals, the [Metamorphoses](../sources/metamorphoses.md) depicts him "leaning on his ivory scepter" as he "thrice, and once again he shook his awful locks, wherewith he moved the earth, and seas and stars."[^met-zeus-sceptre] The ivory sceptre appears again when he presides over [Cadmus](../heroes/cadmus.md)'s sowing of the dragon teeth, "distinguished by his ivory sceptre" as he sat surrounded by his court.[^met-zeus-sceptre2]
+
+During the flood, Zeus restrains himself from using his thunderbolts: "his thunder bolts would Jove wide scatter, but he feared the flames, unnumbered, sacred ether might ignite and burn the axle of the universe." Instead he chose water as punishment.[^met-zeus-restrain]
+
+### Europa and the Bull (2.846-875)
+
+Zeus's transformation into a bull to carry off Europa is described in vivid physical detail: "his colour white as virgin snow, untrod, unmelted by the watery Southern Wind. His neck was thick with muscles, dewlaps hung between his shoulders; and his polished horns, so small and beautifully set, appeared the artifice of man; fashioned as fair and more transparent than a lucent gem. His forehead was not lowered for attack, nor was there fury in his open eyes; the love of peace was in his countenance."[^met-zeus-bull]
+
+[^met-zeus-sceptre]: "the King of all above the throng sat high, and leaning on his ivory scepter, thrice, and once again he shook his awful locks, wherewith he moved the earth, and seas and stars" (Metamorphoses 1.177-180, trans. Brookes More)
+[^met-zeus-sceptre2]: "distinguished by his ivory sceptre, sat the king, surrounded by a multitude" (Metamorphoses 7.100-102, trans. Brookes More)
+[^met-zeus-restrain]: "his thunder bolts would Jove wide scatter, but he feared the flames, unnumbered, sacred ether might ignite and burn the axle of the universe: and he remembered in the scroll of fate, there is a time appointed when the sea and earth and Heavens shall melt, and fire destroy the universe" (Metamorphoses 1.253-258)
+[^met-zeus-bull]: "his colour white as virgin snow, untrod, unmelted by the watery Southern Wind. His neck was thick with muscles, dewlaps hung between his shoulders; and his polished horns, so small and beautifully set, appeared the artifice of man; fashioned as fair and more transparent than a lucent gem. His forehead was not lowered for attack, nor was there fury in his open eyes; the love of peace was in his countenance" (Metamorphoses 2.846-856, trans. Brookes More)
+
 ### The Myrmidons (7.453-660)
 
 When [Hera](hera.md) (Juno) sends a devastating plague upon the island of Aegina — named for Zeus's lover — King Aeacus, Zeus's son, prays to his father for aid. The pestilence is described in horrifying detail, driven by "the rage of jealous Juno flaming for revenge."[^met-zeus-1] Aeacus begs: "if truth were told of your sweet comfort in Aegina's arms, if you were not ashamed of me, your son, restore my people, or entomb my corpse."[^met-zeus-2] Zeus answers with lightning and thunder, which Aeacus accepts as "good omens given as a sacred pledge." That night, Zeus transforms ants from a sacred oak of Dodona into the Myrmidons, a new race of warriors: "from its boughs, that trembled in the still air, moving ants were scattered to the ground in troops below; and ever, as they touched the soil, they grew larger and larger."[^met-zeus-3]
+
+### Ganymede and the Eagle (10.155-161)
+
+When Zeus abducted Ganymede, the [Metamorphoses](../sources/metamorphoses.md) explains why he specifically chose eagle form: "Jove would not take the form of any bird, except the eagle's, able to sustain the weight of his own thunderbolts."[^met-zeus-eagle]
+
+[^met-zeus-eagle]: "Jove would not take the form of any bird, except the eagle's, able to sustain the weight of his own thunderbolts" (Metamorphoses 10.155-158, trans. Brookes More)
 
 ### Apotheosis of Heracles (9.239-272)
 
@@ -465,6 +486,13 @@ When [Heracles](../heroes/heracles.md) lies dying on his pyre atop Mount Oeta, t
 - **[Homeric Hymn XXV](../sources/homeric-hymns.md)**: "Through the Muses and Apollo that there are singers... but kings are from Zeus"
 - **Catalogue of Women** Fragment 97: Dodona — "Zeus loved it and appointed it to be his oracle"; doves in the hollow of an oak deliver prophecy
 - **Catalogue of Women** Fragment 102: Dardanus and the Trojan line — Electra bore Dardanus and Eetion to Zeus; Eetion smitten for touching [Demeter](demeter.md); Dardanus founds Troy's dynasty; eagle catches up Ganymede
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.177-180: Ivory sceptre; shakes his locks, moving earth, seas, and stars
+- **[Metamorphoses](../sources/metamorphoses.md)** 1.253-258: Restrains thunderbolts for fear of igniting the cosmos; chooses flood instead
+- **[Metamorphoses](../sources/metamorphoses.md)** 2.846-875: Europa — takes form of snow-white bull with gem-like horns; "the love of peace was in his countenance"
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.315-330: Fled Typhoeus to Egypt; hid as leader of a flock (ram) — "as Libyan Ammon's crooked horns attest"
+- **[Metamorphoses](../sources/metamorphoses.md)** 7.453-660: Creates the Myrmidons from ants to repopulate Aegina after Hera's plague
+- **[Metamorphoses](../sources/metamorphoses.md)** 9.239-272: Apotheosis of Heracles — "Father and King of all this grateful race of Gods"; bears him to heaven in chariot of four steeds
+- **[Metamorphoses](../sources/metamorphoses.md)** 10.155-161: Ganymede — chose eagle form as the only bird able to bear his thunderbolts
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Plans the Trojan War with Themis to depopulate the earth;[^cyp-zeus-plan] pursues Nemesis to beget Helen (she flees in various forms);[^cyp-nemesis] swears Thetis shall marry a mortal;[^cyp-thetis-mortal] gives Castor and Polydeuces immortality every other day[^cyp-dioscuri]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Gave Laomedon a golden vine (wrought by Hephaestus) as price for Ganymedes[^liliad-vine]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Eos obtains immortality from Zeus for her son Memnon[^aeth-memnon-immortal]

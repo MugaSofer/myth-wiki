@@ -36,11 +36,14 @@ Apollo is described with more epithets than almost any other deity:
 
 At his birth he was "swathed... in a white garment of fine texture, new-woven, and fastened a golden band about" him.[^desc-birth] On [Olympus](../places/olympus.md), a vivid physical picture: "Apollo plays his lyre stepping high and featly and a radiance shines around him, the gleaming of his feet and close-woven vest."[^desc-radiance]
 
+In the [Metamorphoses](../sources/metamorphoses.md), Apollo appears in humble guise while wandering the plains of Pylos: "his shoulders covered with a shepherd's skin, his left hand holding his long shepherd's staff, his right hand busied with the seven reeds of seven sizes."[^met-apo-shepherd]
+
 When he reveals himself to the Cretan sailors at Crisa, his divine radiance is blinding: "like a star at noonday, the lord, far-working Apollo, leaped from the ship: flashes of fire flew from him thick and their brightness reached to heaven."[^desc-star] In human form he appears "brisk and sturdy, in the prime of his youth, while his broad shoulders were covered with his hair."[^desc-human]
 
 [^desc-birth]: "all the goddesses washed you purely and cleanly with sweet water, and swathed you in a white garment of fine texture, new-woven, and fastened a golden band about you" (Homeric Hymn III to Apollo 120-122)
 [^desc-radiance]: "Apollo plays his lyre stepping high and featly and a radiance shines around him, the gleaming of his feet and close-woven vest" (Homeric Hymn III to Apollo 202-203)
 [^desc-star]: "like a star at noonday, the lord, far-working Apollo, leaped from the ship: flashes of fire flew from him thick and their brightness reached to heaven" (Homeric Hymn III to Apollo 440-443)
+[^met-apo-shepherd]: "his shoulders covered with a shepherd's skin, his left hand holding his long shepherd's staff, his right hand busied with the seven reeds of seven sizes" (Metamorphoses 2.679-684, trans. Brookes More)
 [^desc-human]: "brisk and sturdy, in the prime of his youth, while his broad shoulders were covered with his hair" (Homeric Hymn III to Apollo 449-450)
 
 ## Powers
@@ -294,6 +297,18 @@ The Satyr Marsyas challenged Apollo to a musical contest, pitting his flute agai
 
 Apollo's love for the Spartan youth Hyacinthus was so consuming that [Delphi](../places/delphi.md) "had no presiding guardian, while the God frequented the Eurotas and the land of Sparta." Apollo abandoned his dignity entirely: "without a thought of dignity, he carried nets and held the dogs in leash."[^met-apo-hyacinthus] During a discus contest, Apollo's throw rebounded from the earth and struck Hyacinthus in the face. Apollo went "deadly pale" and tried healing herbs, but "the wound is past all art of cure." He mourned: "I can see in your sad wound my own guilt, and you are my cause of grief and self-reproach. My own hand gave you death unmerited."[^met-apo-hyacinthus-grief] From the boy's blood sprang a flower inscribed with "AI, AI" — Apollo's cries of grief.
 
+### Coronis and the Raven (2.532-632)
+
+The raven was once white — "their plumage then was white as any dove — white-feathered, snow-white as the geese that guard with watchful cries the Capitol: as white as swans that haunt the streams." The raven discovered that Apollo's beloved Coronis, "fairest maid of all Aemonia," had taken a mortal lover. Despite being warned not to tell, the raven flew to Apollo and reported the infidelity.[^met-apo-raven]
+
+Apollo's reaction was immediate and violent: "he dropped his plectrum and his laurel wreath, and his bright countenance went white with rage. He seized his trusted arms, and having bent his certain bow, pierced with a deadly shaft that bosom which so often he had pressed against his own." Coronis reproached him as she died, and Apollo "moaned in pain" and tried in vain to reverse the wound with healing arts. When the pyre was lit, he "snatched, from the flames of burning and the womb of lifeless mother, the unborn Asclepius, and conveyed him to the cave of Chiron."[^met-apo-coronis]
+
+Apollo punished the raven for bearing the news: "Disgrace reversed the raven's hue from white to black, because offense was given by his chattering tongue."[^met-apo-raven-black]
+
+[^met-apo-raven]: "long ago the ravens were not black — their plumage then was white as any dove — white-feathered, snow-white as the geese that guard with watchful cries the Capitol: as white as swans that haunt the streams" (Metamorphoses 2.535-540, trans. Brookes More)
+[^met-apo-coronis]: "he dropped his plectrum and his laurel wreath, and his bright countenance went white with rage. He seized his trusted arms, and having bent his certain bow, pierced with a deadly shaft that bosom which so often he had pressed against his own" (Metamorphoses 2.599-605)
+[^met-apo-raven-black]: "Disgrace reversed the raven's hue from white to black, because offense was given by his chattering tongue" (Metamorphoses 2.541-542)
+
 ### Contest with Pan, Midas's Ears (11.146-193)
 
 [Pan](pan.md) boasted his music surpassed Apollo's and agreed to a contest judged by the mountain god Tmolus. Pan played his rustic reeds; then Apollo appeared with "golden locks richly wreathed with fresh Parnassian laurel" and a "robe of Tyrian purple" sweeping the ground, playing his gem-studded lyre.[^met-apo-pan] Tmolus judged Apollo the winner. When King Midas alone called the award unjust, Apollo transformed his ears into those of an ass: "drawing them out to a hideous length, he fills them with gray hairs."[^met-apo-midas]
@@ -310,8 +325,11 @@ Apollo's love for the Spartan youth Hyacinthus was so consuming that [Delphi](..
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.438-567: Slays Python; institutes Pythian Games; pursues Daphne; claims laurel as sacred tree
+- **[Metamorphoses](../sources/metamorphoses.md)** 2.679-684: Shepherd disguise — "his shoulders covered with a shepherd's skin... his right hand busied with the seven reeds"
+- **[Metamorphoses](../sources/metamorphoses.md)** 2.532-632: Coronis and the raven — raven once white; reports Coronis's infidelity; Apollo drops his plectrum, shoots Coronis; rescues unborn Asclepius from the pyre; punishes raven by turning it black
 - **[Metamorphoses](../sources/metamorphoses.md)** 6.382-400: Defeats Marsyas in musical contest; flays him alive; mourners' tears become the river Marsyas
 - **[Metamorphoses](../sources/metamorphoses.md)** 10.162-219: Love for Hyacinthus; accidentally kills him with discus; creates flower from his blood
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.329: Fled Typhoeus to Egypt; took the form of a crow
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.146-193: Defeats Pan in musical contest; gives Midas ass ears
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
 - **Catalogue of Women** Fragment 89: Crow brings news of Coronis's infidelity to "unshorn Phoebus" at Pytho

@@ -246,6 +246,20 @@ Though Hera's hatred of [Heracles](../heroes/heracles.md) drove the plot, Ovid h
 [^met-hera-semele]: "Am I not Juno the supreme of Heaven? Queen of the flashing scepter? Am I not sister and wife of Jove omnipotent?" (Metamorphoses 3.265-268, trans. Brookes More)
 [^met-hera-heracles]: "Come Juno, feast upon my death; feast on me, cruel one, look down from your exalted seat; behold my dreadful end and glut your savage heart!" (Metamorphoses 9.176-180, trans. Brookes More)
 
+### Descent to the Underworld (4.447-481)
+
+Hera descended to the underworld to recruit the [Furies](../creatures/erinyes.md) against the House of [Cadmus](../heroes/cadmus.md). She travelled "impelled by rage and hate, from habitation celestial" to the infernal realm. "No sooner had she entered the sad gates, than groans were uttered by the threshold, pressed by her immortal form, and Cerberus upraising his three-visaged mouths gave vent to triple-barking howls."[^met-hera-underworld]
+
+She "called to her the sisters, Night-begot, implacable, terrific Furies. They did sit before the prison portals, adamant confined, combing black vipers from their horrid hair." She demanded that Athamas and Ino be destroyed, "beseeching thus, no longer should the House of Cadmus stand, so that the sister Furies plunge in crime overweening Athamas." Tisiphone agreed without deliberation: "Since what thy will decrees may well be done, why need we to consult with many words? Leave thou this hateful region and convey thyself, contented, to a better realm." Hera hastened back to the clouds, where [Iris](iris.md) "purifies her limbs in sprinkled water" before she re-entered her celestial home.[^met-hera-tisiphone]
+
+### The Peacock Chariot (2.532)
+
+The [Metamorphoses](../sources/metamorphoses.md) describes Hera's mode of travel: "High in her graceful chariot through the air, translucent, wends the goddess, glorious child of Saturn, with her peacocks many-hued: her peacocks, by the death of Argus limped, so gay were made."[^met-hera-chariot]
+
+[^met-hera-underworld]: "impelled by rage and hate, from habitation celestial, Juno, of Saturn born, descends... No sooner had she entered the sad gates, than groans were uttered by the threshold, pressed by her immortal form, and Cerberus upraising his three-visaged mouths gave vent to triple-barking howls" (Metamorphoses 4.447-455, trans. Brookes More)
+[^met-hera-tisiphone]: "She called to her the sisters, Night-begot, implacable, terrific Furies... combing black vipers from their horrid hair... Tisiphone, whose locks entangled are not ever smooth, tossed them around... then answered she: 'Since what thy will decrees may well be done, why need we to consult with many words? Leave thou this hateful region and convey thyself, contented, to a better realm.' Rejoicing Juno hastens to the clouds—before she enters her celestial home, Iris, the child of Thaumas, purifies her limbs in sprinkled water" (Metamorphoses 4.456-481)
+[^met-hera-chariot]: "High in her graceful chariot through the air, translucent, wends the goddess, glorious child of Saturn, with her peacocks many-hued: her peacocks, by the death of Argus limped, so gay were made" (Metamorphoses 2.532-535, trans. Brookes More)
+
 ## In the [Aeneid](../sources/aeneid.md)
 
 Juno is the primary divine antagonist of the *Aeneid*, opposing [Aeneas](../heroes/aeneas.md) from start to finish. Her motives are stated at the outset: the judgment of Paris, Ganymede's elevation, and her love for Carthage, destined to be destroyed by Rome.
@@ -280,8 +294,11 @@ Jupiter agrees, smiling: "Jove's own sister thou art, and second seed of Saturn,
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.601-746: Detects Zeus's affair with Io; claims heifer; sets Argus to guard; decorates peacock with Argus's eyes; drives Io with a Fury
+- **[Metamorphoses](../sources/metamorphoses.md)** 2.532-535: Peacock chariot — travels through the air with peacocks many-hued
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.330: Fled Typhoeus to Egypt; took the form of a snow-white cow — "High in her graceful chariot through the air... with her peacocks many-hued"
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.253-315: Disguised as nurse Beroe, tricks Semele into fatal demand
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.316-338: Blinds Tiresias for siding with Zeus
+- **[Metamorphoses](../sources/metamorphoses.md)** 4.447-481: Descends to the Underworld to recruit the Furies against the House of Cadmus; Cerberus howls; Tisiphone agrees instantly; Iris purifies Hera on return
 - **[Metamorphoses](../sources/metamorphoses.md)** 9.134-272: Target of dying Heracles' bitter address; grudgingly accepts his apotheosis
 - **[Aeneid](../sources/aeneid.md)** I: Enlists Aeolus to raise storm against Trojan fleet; her motives stated (judgment of Paris, Ganymede, Carthage)
 - **[Aeneid](../sources/aeneid.md)** IV: Conspires with Venus to unite Dido and Aeneas in a cave; sends Iris to release Dido's soul at death

@@ -35,10 +35,13 @@ She is **"tall to look upon and enviable in mien"** — a rare physical descript
 
 In Hymn IX she drives an **"all-golden chariot"** through Smyrna to Claros.[^desc-chariot]
 
+In the [Metamorphoses](../sources/metamorphoses.md), when Actaeon stumbles upon her bathing, her nymphs cluster around to shield her but "she stood head and shoulders taller than her guards.—as clouds bright-tinted by the slanting sun, or purple-dyed Aurora, so appeared Diana's countenance when she was seen."[^met-art-height]
+
 In Hymn XXVII she is described as an active figure in the landscape: "Over the shadowy hills and windy peaks she draws her [golden bow](../objects/artemis-bow.md), rejoicing in the chase."[^desc-chase] After the hunt, she "hangs up her curved bow and her arrows, and heads and leads the dances, gracefully arrayed."[^desc-dance]
 
 [^desc-tall]: "among them sings one, not mean nor puny, but tall to look upon and enviable in mien, Artemis who delights in arrows, sister of Apollo" (Homeric Hymn III to Apollo 199-200)
 [^desc-chariot]: "She waters her horses from Meles deep in reeds, and swiftly drives her all-golden chariot through Smyrna to vine-clad Claros" (Homeric Hymn IX to Artemis 3-5, trans. H.G. Evelyn-White)
+[^met-art-height]: "she stood head and shoulders taller than her guards.—as clouds bright-tinted by the slanting sun, or purple-dyed Aurora, so appeared Diana's countenance when she was seen" (Metamorphoses 3.181-186, trans. Brookes More)
 [^desc-chase]: "Over the shadowy hills and windy peaks she draws her golden bow, rejoicing in the chase, and sends out grievous shafts" (Homeric Hymn XXVII to Artemis 4-6)
 [^desc-dance]: "she hangs up her curved bow and her arrows, and heads and leads the dances, gracefully arrayed" (Homeric Hymn XXVII to Artemis 16-17)
 
@@ -187,6 +190,7 @@ After [Apollo](apollo.md) slew Niobe's seven sons, Artemis completed the punishm
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.401-530: Expels Callisto from her maidens for pregnancy
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.138-252: Actaeon sees her bathing; transforms him into a stag; he is torn apart by his own hounds
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.330: Fled Typhoeus to Egypt; took the form of a cat
 - **[Metamorphoses](../sources/metamorphoses.md)** 6.268-312: Slays Niobe's seven daughters with arrows
 - **[Theogony](../sources/theogony.md)** 14, 918-920: Named in the invocation; birth
 - **[Homeric Hymn XXVII](../sources/homeric-hymns.md)**: The huntress; dances at Delphi

@@ -23,9 +23,32 @@ Agamemnon's most common Homeric epithet is **"king of men"** (*anax andrōn*), u
 
 ## Appearance
 
+When [Kalchas](../sources/iliad.md) first told him what he did not want to hear, "his eyes were like flashing fire."[^il1-fire]
+
 The [Iliad](../sources/iliad.md) gives Agamemnon the fullest divine comparison of any mortal. As the Greeks assembled for battle, "in their midst lord Agamemnon, his head and eyes like unto Zeus whose joy is in the thunder, and his waist like unto Ares and his breast unto Poseidon. Even as a bull standeth out far foremost amid the herd, for he is pre-eminent amid the pasturing kine, even such did Zeus make Atreides on that day, pre-eminent among many and chief amid heroes."[^il2-appearance]
 
 This is a composite image: Agamemnon has the commanding gaze of [Zeus](../deities/zeus.md), the warrior's build of [Ares](../deities/ares.md), and the powerful chest of [Poseidon](../deities/poseidon.md). The bull simile underscores his physical dominance.
+
+### The Sceptre of the Atreidae
+
+Agamemnon's sceptre has a divine genealogy tracing through five holders: "Agamemnon bearing his sceptre, that Hephaistos had wrought curiously. Hephaistos gave it to king Zeus son of Kronos, and then Zeus gave it to the messenger-god the slayer of Argus; and king Hermes gave it to Pelops the charioteer, and Pelops again gave it to Atreus shepherd of the host. And Atreus dying left it to Thyestes rich in flocks, and Thyestes in his turn left it to Agamemnon to bear, that over many islands and all Argos he should be lord."[^il2-sceptre]
+
+[^il1-fire]: "his dark heart within him was greatly filled with anger, and his eyes were like flashing fire" (Iliad I.289-291, trans. Lang, Leaf, and Myers)
+[^il2-sceptre]: "Agamemnon bearing his sceptre, that Hephaistos had wrought curiously. Hephaistos gave it to king Zeus son of Kronos, and then Zeus gave it to the messenger-god the slayer of Argus; and king Hermes gave it to Pelops the charioteer, and Pelops again gave it to Atreus shepherd of the host. And Atreus dying left it to Thyestes rich in flocks, and Thyestes in his turn left it to Agamemnon to bear, that over many islands and all Argos he should be lord" (Iliad II.881-887)
+
+## Equipment
+
+### The Arming Scene (Book XI)
+
+The [Iliad](../sources/iliad.md) gives Agamemnon the most detailed arming scene of any hero. His breastplate was a guest-gift from Kinyras, king of Cyprus, who "heard the mighty rumour how that the Achaians were about to sail forth to Troy in their ships, wherefore did Kinyras give him the breastplate." The corslet was ornately decorated: "therein were ten courses of black cyanus, and twelve of gold, and twenty of tin, and dark blue snakes writhed up towards the neck, three on either side, like rainbows."[^il11-corslet]
+
+His shield was equally grand: "the richly-dight shield of his valour that covereth all the body of a man... round about it were ten circles of bronze, and thereon were twenty white bosses of tin, and one in the midst of black cyanus. And thereon was embossed the Gorgon fell of aspect glaring terribly, and about her were Dread and Terror."[^il11-shield]
+
+He wore "a two-crested helm with fourfold plate, and plume of horse-hair, and terribly the crest nodded from above. And he grasped two strong spears, shod with bronze and keen, and far forth from him into the heaven shone the bronze; and thereat [Hera](../deities/hera.md) and [Athena](../deities/athena.md) thundered, honouring the king of Mykene rich in gold."[^il11-helm]
+
+[^il11-corslet]: "the breastplate that in time past Kinyras gave him for a guest-gift... therein were ten courses of black cyanus, and twelve of gold, and twenty of tin, and dark blue snakes writhed up towards the neck, three on either side, like rainbows that the son of Kronos hath set in the clouds" (Iliad XI.6176-6183)
+[^il11-shield]: "the richly-dight shield of his valour that covereth all the body of a man, a fair shield, and round about it were ten circles of bronze, and thereon were twenty white bosses of tin, and one in the midst of black cyanus. And thereon was embossed the Gorgon fell of aspect glaring terribly, and about her were Dread and Terror" (Iliad XI.6186-6190)
+[^il11-helm]: "on his head Agamemnon set a two-crested helm with fourfold plate, and plume of horse-hair, and terribly the crest nodded from above. And he grasped two strong spears, shod with bronze and keen, and far forth from him into the heaven shone the bronze; and thereat Hera and Athene thundered, honouring the king of Mykene rich in gold" (Iliad XI.6193-6197)
 
 [^il2-appearance]: "in their midst lord Agamemnon, his head and eyes like unto Zeus whose joy is in the thunder, and his waist like unto Ares and his breast unto Poseidon. Even as a bull standeth out far foremost amid the herd, for he is pre-eminent amid the pasturing kine, even such did Zeus make Atreides on that day, pre-eminent among many and chief amid heroes" (Iliad II.1222-1227, trans. Lang, Leaf, and Myers)
 
@@ -80,7 +103,7 @@ Electra's rescue of [Orestes](orestes.md) follows: "But Electra, Agamemnon's dau
 
 ## Appearances
 
-- **[Iliad](../sources/iliad.md)** I-XXIV: Commander of the Greek army; quarrel with [Achilles](achilles.md) over Briseis; wounded in battle; carries the sceptre wrought by [Hephaestus](../deities/hephaestus.md)
+- **[Iliad](../sources/iliad.md)** I-XXIV: Commander of the Greek army; "eyes like flashing fire"; quarrel with [Achilles](achilles.md) over Briseis; divine sceptre (Hephaestus→Zeus→Hermes→Pelops→Atreus→Thyestes→Agamemnon); arming scene (Book XI) with Kinyras corslet, Gorgon shield, and two-crested helm; wounded in battle
 - **[Odyssey](../sources/odyssey.md)** IV, XI, XXIV: Ghost in the underworld; warns [Odysseus](odysseus.md) about treacherous wives; murdered by Aegisthus and Clytaemnestra
 - **[Bibliotheca](../sources/apollodorus.md)** 3.2.1-2: Parentage through Aerope and Plisthenes (or Atreus)
 - **[Bibliotheca](../sources/apollodorus.md)** E.2.10-16: House of Atreus — golden lamb, sun reversal, cannibal feast, rise to power, marriage to Clytaemnestra
