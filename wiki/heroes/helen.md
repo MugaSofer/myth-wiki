@@ -105,6 +105,15 @@ This scene is central to Helen's characterisation: she can recognise divine powe
 [^il3-threat]: "Provoke me not, rash woman, lest in mine anger I desert thee, and hate thee even as now I love thee beyond measure, and lest I devise grievous enmities between both, even betwixt Trojans and Achaians, and so thou perish in evil wise" (Iliad III.2009-2013, trans. Lang, Leaf, and Myers)
 [^il3-chair]: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris. There Helen took her seat, the child of aegis-bearing Zeus, and with eyes turned askance spake and chode her lord" (Iliad III.2021-2024, trans. Lang, Leaf, and Myers)
 
+### Castor and Pollux (Book III)
+
+While surveying the Achaian army from the wall, Helen searches for her brothers: "two captains of the host can I not see, even Kastor tamer of horses and Polydeukes the skilful boxer, mine own brethren, whom the same mother bare. Either they came not in the company from lovely Lakedaimon; or they came hither indeed in their seafaring ships, but now will not enter into the battle of the warriors, for fear of the many scornings and revilings that are mine."[^il3-brothers]
+
+The poet gives the devastating answer in his own voice: "So said she; but them the life-giving earth held fast there in Lakedaimon, in their dear native land."[^il3-dead] Helen does not know her brothers are already dead.
+
+[^il3-brothers]: "two captains of the host can I not see, even Kastor tamer of horses and Polydeukes the skilful boxer, mine own brethren, whom the same mother bare. Either they came not in the company from lovely Lakedaimon; or they came hither indeed in their seafaring ships, but now will not enter into the battle of the warriors, for fear of the many scornings and revilings that are mine" (Iliad III.1850-1855, trans. Lang, Leaf, and Myers)
+[^il3-dead]: "So said she; but them the life-giving earth held fast there in Lakedaimon, in their dear native land" (Iliad III.1857-1858)
+
 ### Helen's Lament for Hector (Book XXIV)
 
 Helen's final speech in the [Iliad](../sources/iliad.md) is her lament over Hector's body, and it reveals both her isolation and Hector's unique kindness to her: "Hector, of all my brethren of Troy far dearest to my heart! Truly my lord is godlike Alexandros who brought me to Troy-land -- would I had died ere then. For this is now the twentieth year since I went thence and am gone from my own native land, but never yet heard I evil or despiteful word from thee."[^il24-lament]
@@ -219,6 +228,7 @@ After Paris judged Venus the winner, "On account of this, Juno and Minerva were 
 
 ## Appearances
 
+- **[Iliad](../sources/iliad.md)** III: Searches for her brothers Castor and Pollux — "mine own brethren, whom the same mother bare"; they are already dead ("the life-giving earth held fast")
 - **[Iliad](../sources/iliad.md)** III: [Iris](../deities/iris.md) summons her (disguised as Laodike); weaves tapestry of the war; elders compare her to "the immortal goddesses"; Priam holds her blameless; identifies Achaian heroes; [Aphrodite](../deities/aphrodite.md) disguised as old woman summons her; Helen sees through disguise ("fair neck and lovely breast and sparkling eyes"); defies Aphrodite; Aphrodite threatens her ("lest in mine anger I desert thee"); Helen obeys in fear; chides Paris
 - **[Iliad](../sources/iliad.md)** VI: Found sitting with Paris; "Helen of Argos sate among her handmaidens"; speaks gently to Hector
 - **[Iliad](../sources/iliad.md)** XXIV: Third and final lament over Hector's body; "of all my brethren of Troy far dearest to my heart"; "the twentieth year since I went thence"; "all men shudder at me"

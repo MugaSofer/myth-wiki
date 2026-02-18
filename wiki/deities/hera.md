@@ -260,6 +260,12 @@ The [Metamorphoses](../sources/metamorphoses.md) describes Hera's mode of travel
 [^met-hera-tisiphone]: "She called to her the sisters, Night-begot, implacable, terrific Furies... combing black vipers from their horrid hair... Tisiphone, whose locks entangled are not ever smooth, tossed them around... then answered she: 'Since what thy will decrees may well be done, why need we to consult with many words? Leave thou this hateful region and convey thyself, contented, to a better realm.' Rejoicing Juno hastens to the clouds—before she enters her celestial home, Iris, the child of Thaumas, purifies her limbs in sprinkled water" (Metamorphoses 4.456-481)
 [^met-hera-chariot]: "High in her graceful chariot through the air, translucent, wends the goddess, glorious child of Saturn, with her peacocks many-hued: her peacocks, by the death of Argus limped, so gay were made" (Metamorphoses 2.532-535, trans. Brookes More)
 
+### Banning Callisto's Stars from Oceanus (2.508-530)
+
+After [Zeus](zeus.md) placed [Callisto](../heroes/callisto.md) and her son Arcas as constellations in the sky, Hera went to [Oceanus](oceanus.md) and [Tethys](tethys.md) to demand that the new stars be denied the right to set in the sea. She urged them: "drive the Seven Stars from waters crystalline and azure-tint, and your domain debar from those that shine in Heaven, rewarded for Jove's wickedness.—bathe not a concubine in waters pure."[^met-hera-callisto] The gods of Ocean granted her request — which is why the constellation Ursa Major (the Great Bear) never sets below the horizon.
+
+[^met-hera-callisto]: "drive the Seven Stars from waters crystalline and azure-tint, and your domain debar from those that shine in Heaven, rewarded for Jove's wickedness.—bathe not a concubine in waters pure" (Metamorphoses 2.528-530, trans. Brookes More)
+
 ## In the [Aeneid](../sources/aeneid.md)
 
 Juno is the primary divine antagonist of the *Aeneid*, opposing [Aeneas](../heroes/aeneas.md) from start to finish. Her motives are stated at the outset: the judgment of Paris, Ganymede's elevation, and her love for Carthage, destined to be destroyed by Rome.
@@ -343,6 +349,7 @@ Jupiter agrees, smiling: "Jove's own sister thou art, and second seed of Saturn,
 - **[Bibliotheca](../sources/apollodorus.md)** 3.5.1: Drove Dionysus mad; he roamed Egypt and Syria before being purified by Rhea
 - **[Bibliotheca](../sources/apollodorus.md)** 3.5.8: Sent the [Sphinx](../creatures/sphinx.md) to [Thebes](../places/thebes.md) — "Hera sent the Sphinx, whose mother was Echidna and her father Typhon"
 - **[Bibliotheca](../sources/apollodorus.md)** 3.6.7: Variant — blinded Tiresias for saying women enjoy nine parts of love's pleasure and men only one; Zeus then gave him the art of soothsaying
+- **[Metamorphoses](../sources/metamorphoses.md)** 2.508-530: Went to [Oceanus](oceanus.md) and [Tethys](tethys.md); demanded Callisto's constellation (Ursa Major) be barred from setting in the sea — "drive the Seven Stars from waters crystalline"; "bathe not a concubine in waters pure"; the gods of Ocean granted her request
 - **[Bibliotheca](../sources/apollodorus.md)** 3.8.2: Persuaded Artemis to shoot down Callisto as a wild beast (to punish Zeus's affair)
 - **[Bibliotheca](../sources/apollodorus.md)** E.1.20: Ixion attempted to force her; she reported it to Zeus; Zeus made a cloud in her likeness to test him
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.29: Made Menelaus immortal — "being made immortal by Hera he went to the Elysian Fields with Helen"

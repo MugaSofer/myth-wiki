@@ -137,6 +137,14 @@ The [Metamorphoses](../sources/metamorphoses.md) retells the story of [Ares](are
 [^met-ares-nets]: "he set to file out chains of brass, delicate, fine, from which to fashion nets invisible, filmy of mesh and airy as the thread of insect-web" (Metamorphoses 4.174-178, trans. Brookes More)
 [^met-ares-trapped]: "Meshed in the chains they could not thence arise, nor could they else but lie in strict embrace,—cunningly thus entrapped by Vulcan's wit" (Metamorphoses 4.182-184, trans. Brookes More)
 
+### Apotheosis of Romulus (14.805-828)
+
+Mars petitioned [Jupiter](zeus.md) for the promised apotheosis of his son Romulus: the god "leaning on a spear, he mounted boldly into his chariot, and over bloodstained yoke and eager steeds he swung and cracked the loud-resounding lash."[^met-ares-chariot] He descended to the Palatine hill, where Romulus was giving laws, and "Mars caught him up. His mortal flesh dissolved into thin air, as when a ball of lead shot up from a broad sling melts all away and soon is lost in heaven."[^met-ares-romulus] Romulus was transformed into the god Quirinus: "A nobler shape was given him, one more fitted to adorn rich couches in high heaven, the shape divine of Quirinus clad in the trabea."[^met-ares-quirinus]
+
+[^met-ares-chariot]: "leaning on a spear, he mounted boldly into his chariot, and over bloodstained yoke and eager steeds he swung and cracked the loud-resounding lash" (Metamorphoses 14.827-830, trans. Brookes More)
+[^met-ares-romulus]: "Mars caught him up. His mortal flesh dissolved into thin air, as when a ball of lead shot up from a broad sling melts all away and soon is lost in heaven" (Metamorphoses 14.833-836)
+[^met-ares-quirinus]: "A nobler shape was given him, one more fitted to adorn rich couches in high heaven, the shape divine of Quirinus clad in the trabea" (Metamorphoses 14.836-839)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 922, 933-937: Birth; children with Aphrodite
@@ -146,6 +154,8 @@ The [Metamorphoses](../sources/metamorphoses.md) retells the story of [Ares](are
 - **[Iliad](../sources/iliad.md)** XV: Learns of Askalaphos's death; smites his thighs, bids yoke Fear and Dread (his horses), dons shining harness; Athena stops him ("Mad that thou art, and distraught of wit"), strips his helmet, shield, and spear; his children Panic (Phobos) and Fear (Dread) as his chariot horses
 - **[Iliad](../sources/iliad.md)** XVII: "Ares the dread war-god entered into" Hector when he dons Achilles' divine armour, filling his limbs with valour and strength
 - **[Iliad](../sources/iliad.md)** XXI: Attacks Athena's aegis ("not even the lightning of Zeus can overcome"); felled by her stone, covers seven roods; Aphrodite leads him away groaning
+- **[Metamorphoses](../sources/metamorphoses.md)** 4.167-189: Mars and Venus adultery retold; Helius told Hephaestus; trapped in invisible chains
+- **[Metamorphoses](../sources/metamorphoses.md)** 14.805-839: Petitioned Jupiter for Romulus's apotheosis; descended in blood-stained chariot; caught up Romulus on the Palatine; "his mortal flesh dissolved into thin air"; Romulus became the god Quirinus
 - **[Odyssey](../sources/odyssey.md)** VIII: The Song of Ares and Aphrodite — "Ares of the golden rein"; adultery with Aphrodite in Hephaestus's house; trapped in the net; departs to Thrace
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.4: Bedded with [Eos](eos.md) (Dawn), prompting [Aphrodite](aphrodite.md) to curse Eos with perpetual love for mortals
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.4: Imprisoned by the Aloads; freed by Hermes by stealth

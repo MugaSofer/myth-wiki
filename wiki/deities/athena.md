@@ -392,8 +392,20 @@ Ovid reveals that Medusa was once "famed for beauty" and "the envious hope of ma
 [^met-ath-arachne3]: "At once all hair fell off, her nose and ears remained not, and her head shrunk rapidly in size... Her slender fingers gathered to her sides as long thin legs... and ever since, Arachne, as a spider, weaves her web" (Metamorphoses 6.140-145, trans. Brookes More)
 [^met-ath-medusa]: "Minerva changed the Gorgon's splendid hair to serpents horrible. And now to strike her foes with fear, she wears upon her breast those awful vipers—creatures of her rage" (Metamorphoses 4.801-803, trans. Brookes More)
 
+### The Cave of Envy (2.760-802)
+
+After [Herse](../heroes/herse.md) attracted Mercury's attention, Athena sought to punish her sister Aglauros for greed. She went to the Cave of Envy — "dark, hideous with black gore, her dread abode is hidden in the deepest hollowed cave, in utmost limits where the genial sun may never shine."[^met-ath-envy-cave] Athena would not enter: "she stood before its entrance, for she deemed it not a lawful thing to enter there: and she whose arm is mortal to her foes, struck the black door-posts with her pointed spear, and shook them to the center."[^met-ath-envy-spear]
+
+Within sat Envy, "ravening the flesh of vipers, self-begot." Ovid describes her in vivid detail: "Her face is pale, her body long and lean, her shifting eyes glance to the left and right, her snaggle teeth are covered with black rust, her hanging paps overflow with bitter gall, her slavered tongue drips venom to the ground."[^met-ath-envy-desc] Athena commanded her with contempt: "Instil thy poison in Aglauros, child of Cecrops; I command thee; do my will." Then "spurning with her spear the ground" she departed.[^met-ath-envy-command]
+
+[^met-ath-envy-cave]: "dark, hideous with black gore, her dread abode is hidden in the deepest hollowed cave, in utmost limits where the genial sun may never shine" (Metamorphoses 2.760-764, trans. Brookes More)
+[^met-ath-envy-spear]: "she stood before its entrance, for she deemed it not a lawful thing to enter there: and she whose arm is mortal to her foes, struck the black door-posts with her pointed spear, and shook them to the center" (Metamorphoses 2.775-779)
+[^met-ath-envy-desc]: "Her face is pale, her body long and lean, her shifting eyes glance to the left and right, her snaggle teeth are covered with black rust, her hanging paps overflow with bitter gall, her slavered tongue drips venom to the ground" (Metamorphoses 2.788-792)
+[^met-ath-envy-command]: "Instil thy poison in Aglauros, child of Cecrops; I command thee; do my will" (Metamorphoses 2.801-802)
+
 ## Appearances
 
+- **[Metamorphoses](../sources/metamorphoses.md)** 2.760-802: Visited the Cave of Envy; struck door-posts with spear; commanded Envy to poison Aglauros
 - **[Metamorphoses](../sources/metamorphoses.md)** 4.794-803: Punished Medusa by turning her hair to serpents after Poseidon defiled her temple
 - **[Metamorphoses](../sources/metamorphoses.md)** 6.1-145: Contest with Arachne; weaves scenes of divine justice; destroys Arachne's perfect tapestry; transforms her into a spider
 - **[Homeric Hymn XI](../sources/homeric-hymns.md)**: "Guardian of the city"; "Dread is she"; "saves the people as they go out to war and come back"

@@ -292,6 +292,18 @@ When Argus finally slumbered, Mercury struck: "he touched the drooping eyelids w
 [^met-herm-strike]: "he touched the drooping eyelids with his magic wand, compelling slumber. Then without delay he struck the sleeper with his crescent sword, where neck and head unite, and hurled his head, blood dripping, down the rocks and rugged cliff" (Metamorphoses 1.712-716)
 [^met-herm-peacock]: "Saturn's daughter spread their glister on the feathers of her bird, emblazoning its tail with starry gems" (Metamorphoses 1.717-719)
 
+### Philemon and Baucis (8.626-724)
+
+Mercury accompanied [Jupiter](zeus.md) disguised as mortal travellers, testing human hospitality. "As weary travelers over all the land they wandered, begging for their food and bed; and of a thousand houses, all the doors were bolted and no word of kindness given."[^met-herm-philemon1] Only the aged couple Philemon and Baucis welcomed them in their humble cottage.
+
+The divine nature of the guests was revealed when the wine-bowl miraculously refilled itself: "the wine-bowl often drained, as often was replenished, though unfilled, and Baucis and Philemon, full of fear, as they observed the wine spontaneous well, increasing when it should diminish, raised their hands in supplication."[^met-herm-philemon2]
+
+The gods punished the inhospitable neighbourhood by flooding the land, but transformed the couple's cottage into a marble temple. When asked their desire, Philemon and Baucis asked to serve the temple and to die together. Their wish was granted: standing before the sacred steps, "Baucis saw Philemon, her old husband, and he, too, saw Baucis, as their bodies put forth leaves; and while the tops of trees grew over them, above their faces,—they spoke each to each; as long as they could speak they said, 'Farewell, farewell, my own.'"[^met-herm-philemon3]
+
+[^met-herm-philemon1]: "as weary travelers over all the land they wandered, begging for their food and bed; and of a thousand houses, all the doors were bolted and no word of kindness given" (Metamorphoses 8.633-636, trans. Brookes More)
+[^met-herm-philemon2]: "the wine-bowl often drained, as often was replenished, though unfilled, and Baucis and Philemon, full of fear, as they observed the wine spontaneous well, increasing when it should diminish, raised their hands in supplication" (Metamorphoses 8.678-682)
+[^met-herm-philemon3]: "Baucis saw Philemon, her old husband, and he, too, saw Baucis, as their bodies put forth leaves; and while the tops of trees grew over them, above their faces,—they spoke each to each; as long as they could speak they said, 'Farewell, farewell, my own'" (Metamorphoses 8.717-723)
+
 ## Appearances
 
 - **Great Eoiae** Fragment 16: Cattle theft variant — cast stupor on dogs; drove cattle across Greece; tested Battus's oath; turned him to stone for breaking it
@@ -338,6 +350,7 @@ When Argus finally slumbered, Mercury struck: "he touched the drooping eyelids w
 - **[Aeneid](../sources/aeneid.md)** IV: Sent by Jupiter to command Aeneas to leave Carthage; laces golden shoes, takes his rod ("wherewith he calls wan souls forth of Orcus... gives sleep and takes it away and unseals dead eyes"); descends via Atlas; compared to a bird skimming the sea; appears again as a dream-phantom urging haste: "Woman is ever a fickle and changing thing"
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.731-737: Full appearance description — combed hair, gold-fringed raiment, smooth wand, scintillating winged feet
 - **[Metamorphoses](../sources/metamorphoses.md)** 5.331: Fled Typhoeus to Egypt; hid in the form of an ibis
+- **[Metamorphoses](../sources/metamorphoses.md)** 8.626-724: Accompanied Jupiter disguised as mortal traveller; tested hospitality; all doors bolted except Philemon and Baucis; wine-bowl miraculously refilled; neighbourhood punished; cottage transformed to temple; couple became trees together
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.668-730: Called by Zeus to slay Argus; descended with sleep-compelling wand, wings, and brimmed hat; disguised as shepherd with oaten reeds; told story of Pan and Syrinx to lull Argus's hundred eyes; struck off his head with crescent sword; Hera placed Argus's eyes on peacock's tail
 - **[Fabulae](../sources/hyginus.md)** §143: Men lived under Jove speaking one tongue; Mercury explained languages and divided nations; called "ermeneutes" (interpreter); discord arose; Jove gave first rule to Phoroneus
 - **[Fabulae](../sources/hyginus.md)** §201: Gave Autolycus gift of theft and shapeshifting stolen goods; Sisyphus marked cattle hooves to catch him; Sisyphus seduced Anticleia while there; she married Laertes and bore Ulysses; some call Ulysses "Sisyphean" for this reason
