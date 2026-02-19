@@ -37,6 +37,34 @@ When [Thetis](../deities/thetis.md) tried to make [Achilles](achilles.md) immort
 
 Later, "Peleus, with Jason and the Dioscuri, laid waste Iolcus; and he slaughtered Astydamia, wife of Acastus, and, having divided her limb from limb, he led the army through her into the city."[^apd-revenge]
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### Exile and the Argonaut Voyage
+
+The Argonautica alludes to Peleus's exile, noting he had killed his half-brother Phocus and so fled with [Telamon](../heroes/telamon.md).[^arg-pel-exile]
+
+### The Boar That Slew Idmon
+
+During the voyage, when the seer Idmon was killed by a boar in the Mariandynian land, it was Peleus who slew the boar that had mortally wounded him.[^arg-pel-boar]
+
+### After the Death of Tiphys
+
+When the helmsman Tiphys also died shortly after, the heroes fell into mourning and despair. Peleus rallied them: "Let our courage endure, for this doom has come by heaven's will."[^arg-pel-rally]
+
+### Riddle of the Libyan Nymphs
+
+In the Libyan desert, where the heroes had to carry the Argo on their shoulders, nymphs appeared and spoke a riddling prophecy about "the mother" repaying them. It was Peleus who interpreted this: the "mother" was the ship herself, and they must carry the Argo to the sea.[^arg-pel-riddle]
+
+### Thetis at Aeaea
+
+On the island of Aeaea, [Thetis](../deities/thetis.md) appeared to Peleus — this was their first meeting since she had left him in fury. She had abandoned him when he woke and cried out as she held infant [Achilles](achilles.md) in fire, intending to make the boy immortal by burning away his mortal nature. Her purpose was interrupted and she departed to the Nereids.[^arg-pel-thetis]
+
+[^arg-pel-exile]: Peleus was exiled after killing his half-brother Phocus, referred to in the Argonautica 1.90-92 (trans. R.C. Seaton)
+[^arg-pel-boar]: "Peleus slew the mighty boar" that mortally wounded Idmon (Argonautica 2.826-828, trans. R.C. Seaton)
+[^arg-pel-rally]: Peleus urged the heroes not to grieve but to take courage after Tiphys's death (Argonautica 2.897-898, trans. R.C. Seaton)
+[^arg-pel-riddle]: Peleus interpreted the Libyan nymphs' prophecy — the "mother" who would repay them was the ship Argo herself (Argonautica 4.1322-1328, trans. R.C. Seaton)
+[^arg-pel-thetis]: Thetis appeared to Peleus at Aeaea; she had left him in anger when he interrupted her attempt to immortalize Achilles by fire (Argonautica 4.852-879, trans. R.C. Seaton)
+
 ## In the Catalogue of Women
 
 ### The Myrmidons (Fragment 53)
@@ -115,6 +143,11 @@ In Isthmian VII, [Themis](../deities/themis.md) counselled the gods to give [The
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 1.90-92: Exiled for killing half-brother Phocus; sails as an Argonaut
+- **[Argonautica](../sources/argonautica.md)** 2.826-828: Slays the boar that killed Idmon the seer
+- **[Argonautica](../sources/argonautica.md)** 2.897-898: Rallies the heroes after Tiphys's death
+- **[Argonautica](../sources/argonautica.md)** 4.852-879: Thetis appears to him at Aeaea — first meeting since she abandoned him; context of her attempt to immortalize Achilles by fire
+- **[Argonautica](../sources/argonautica.md)** 4.1322-1328: Interprets the Libyan nymphs' riddle — "the mother" is the ship Argo
 - **Catalogue of Women** Fragment 53: Origin of the Myrmidons — [Zeus](../deities/zeus.md) turned ants into men for Aeacus (Peleus's father); first seafarers
 - **Catalogue of Women** Fragment 58: Wedding praise — "Thrice, yea, four times blessed son of Aeacus, happy Peleus!"
 - **[Iliad](../sources/iliad.md)** IX: Achilles recalls his father's advice; two fates from [Thetis](../deities/thetis.md)

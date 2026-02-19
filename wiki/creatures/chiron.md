@@ -13,6 +13,19 @@
 
 **Chiron** is a centaur of unique origin and character, born of [Cronos](../deities/cronos.md) and the Oceanid Philyra. Unlike other centaurs, he is consistently described as wise, righteous, and skilled in medicine and hunting. He served as teacher and foster-father to several of the greatest heroes, including Achilles, Asclepius, Jason, and Actaeon.
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### Birth from Cronos and Philyra
+
+The Argonautica gives the fullest narrative of Chiron's conception. "[Cronos](../deities/cronos.md), son of Uranus... lay beside Philyra, when he had deceived [Rhea](../deities/rhea.md); and the goddess found them in the midst of their dalliance; and Cronos leapt up from the couch with a rush in the form of a steed." Philyra consequently bore "huge Cheiron, half like a horse, half like a god."[^arg-chiron-birth]
+
+### Farewell at the Argo's Departure
+
+When the Argo set sail from Iolcus, Chiron came down to the shore carrying the infant [Achilles](../heroes/achilles.md) to show to his father [Peleus](../heroes/peleus.md) as the ship departed.[^arg-chiron-farewell]
+
+[^arg-chiron-birth]: "Cronos, son of Uranus... lay beside Philyra, when he had deceived Rhea; and the goddess found them in the midst of their dalliance; and Cronos leapt up from the couch with a rush in the form of a steed... and she bare huge Cheiron, half like a horse, half like a god" (Argonautica 2.1231-1241, trans. R.C. Seaton)
+[^arg-chiron-farewell]: Chiron came to the sea-shore bearing infant Achilles to show to Peleus as the Argo departed (Argonautica 1.553-558, trans. R.C. Seaton)
+
 ## Parentage and Origin
 
 Chiron's origin is distinctive among the centaurs: he was born from the union of [Cronos](../deities/cronos.md) and Philyra, "daughter of Ocean." The [Epic Cycle](../sources/epic-cycle.md) (War of the Titans) explains that "Cronos took the shape of a horse and lay with Philyra, the daughter of Ocean. Through this cause Cheiron was born a centaur: his wife was Chariclo."[^titan-origin] Apollodorus confirms: "to Cronus and Philyra was born Chiron, a centaur of double form."[^apd-parentage]
@@ -146,6 +159,8 @@ When [Apollo](../deities/apollo.md) encountered the huntress Kyrene and asked Ch
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 1.553-558: Comes to the shore carrying infant Achilles to show to Peleus as the Argo departs
+- **[Argonautica](../sources/argonautica.md)** 2.1231-1241: Birth narrative — Cronos lay with Philyra in horse-form having deceived Rhea; Rhea found them; Cronos leapt away as a steed; Philyra bore "huge Cheiron, half like a horse, half like a god"
 - **[Epic Cycle](../sources/epic-cycle.md)** (War of the Titans, Fragment 6): Origin — Cronos as horse with Philyra; Chariclo his wife
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria, Fragment 5): Gives Peleus an ashen spear-shaft at wedding of Peleus and [Thetis](../deities/thetis.md)
 - **[Catalogue of Women](../sources/theogony.md)** (Fragments): Raises Jason in "woody Pelion"; raises Medeus; tends young Achilles on Pelion; identified as "son of Philyra"

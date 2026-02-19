@@ -110,6 +110,19 @@ As they depart, Circe sends them on their way with a favorable wind: "in the wak
 [^od-teiresias]: "first must ye perform another journey, and reach the dwelling of Hades and of dread Persephone, to seek to the spirit of Theban Teiresias, the blind soothsayer, whose wits abide steadfast. To him Persephone hath given judgment, even in death, that he alone should have understanding; but the other souls sweep shadow-like around" (Odyssey X.5809-5818, trans. Butcher and Lang)
 [^od-geography]: "when thou hast now sailed in thy ship across the stream Oceanus, where is a waste shore and the groves of Persephone, even tall poplar trees and willows that shed their fruit before the season... Thereby into Acheron flows Pyriphlegethon, and Cocytus, a branch of the water of the Styx" (Odyssey X.5835-5854, trans. Butcher and Lang)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+In Book IV, the Argo puts in at Aeaea — Circe's island — so that Jason and [Medea](../heroes/medea.md) can be purified for the murder of Apsyrtus. Apollonius's Circe is stranger than Homer's: when the Argonauts arrive, they find her on the shore performing what seems to be ritual bathing, "surrounded by monstrous beasts of mixed limbs" — not tame creatures but grotesque hybrid forms, "neither beasts nor men, but a mixture of limbs."[^arg-cir-beasts]
+
+Circe took the couple in as suppliants without speaking, and performed the rite of purification: she slaughtered a pig and sprinkled its blood over their hands, then offered atonement-cakes and libations to Zeus "the cleanser" (Zeus Catharsius) and to the Furies to appease them for blood guilt.[^arg-cir-purify]
+
+Only then did Circe ask the reason for the supplication. She recognised Medea immediately — not by name, but by the eyes: "the far-flashing eyes of Helius's race," a divine trait shared by her brother Aeetes and her niece.[^arg-cir-recognition] When Medea revealed what she had done, Circe was horrified and drove them away, refusing further hospitality — yet she was bound by the suppliant bond not to do more than dismiss them.[^arg-cir-judgment]
+
+[^arg-cir-beasts]: "she was cleansing her head in the salt wave... around her numberless beasts of the field, not mountain beasts, but such as had feet and limbs born of the sea's mud" (Argonautica 4.672-679, trans. R.C. Seaton)
+[^arg-cir-purify]: "She... began the rites of expiation... with the blood of a young sow whose dugs yet swelled from the litter... atonement cakes and libations unmixed she burned in honour of Zeus Catharsius and of the Furies" (Argonautica 4.702-716, trans. R.C. Seaton)
+[^arg-cir-recognition]: "for she marked the eyes of Medea, the far-flashing eyes of Helius's race; and she knew them by the like gleams of their eyes" (Argonautica 4.727-729, trans. R.C. Seaton)
+[^arg-cir-judgment]: "she feared the wrath of Zeus the god of suppliants, who is very wrathful in protecting suppliants, and she honoured the suppliant bond; but she would not approve the murder, nor comfort them by her words" (Argonautica 4.699-702, trans. R.C. Seaton)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### The Transformation of Scylla (13.898-14.74)
@@ -161,6 +174,7 @@ According to the [Telegony](../sources/epic-cycle.md) (attributed to Eugammon), 
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 4: Sister of Aeetes; found bathing in the sea surrounded by monstrous mixed-limbed beasts; purified Jason and Medea with blood of a sow, atonement-cakes, and prayers to Zeus Catharsius and the Furies; recognised Medea as kin by the far-flashing eyes of Helius's race; condemned the murder but honored the suppliant bond and did not harm them
 - **[Theogony](../sources/theogony.md)** 956-957: Named as daughter of Helius and Perseis, sister of Aeetes
 - **[Odyssey](../sources/odyssey.md)** I: Odysseus recalls her — "guileful Circe of Aia, would have stayed me in her halls, longing to have me for her lord"
 - **[Odyssey](../sources/odyssey.md)** X: Major role — island of Aia; enchanted beasts; transformation of crew into swine; Hermes gives Odysseus moly; recognises Odysseus; restores the men; a year of feasting; instructions for the Nekuia and the geography of the underworld

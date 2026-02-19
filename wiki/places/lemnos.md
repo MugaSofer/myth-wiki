@@ -25,6 +25,18 @@ In Book XIV, [Hera](../deities/hera.md) travels to Lemnos to enlist Sleep in her
 
 Lemnos appears as a centre of trade: "many ships from Lemnos, bearing wine" supply the Achaean camp.[^il-wine] Achilles had previously sold Lycaon, a son of Priam, "into well-peopled Lemnos" as a slave.[^il-lycaon]
 
+## In the [Argonautica](../sources/argonautica.md)
+
+The Argonautica gives the fullest account of the Argonauts' stop at Lemnos. The women had killed all the men of the island because [Aphrodite](../deities/aphrodite.md) afflicted them with a noisome smell as punishment for dishonouring her; their husbands then brought Thracian slave-women to their beds, and the Lemnian women in their anger murdered all the men on the island. Hypsipyle alone spared her father Thoas by hiding him.[^arg-lemn-women]
+
+When the Argo arrived, the women initially armed and came to the shore in fear. Hypsipyle welcomed the Argonauts and they stayed, consorting with the women. Jason and Hypsipyle became lovers, and she bade him a formal farewell when the heroes finally departed — urged to leave by [Heracles](../heroes/heracles.md), who had reproached them for lingering.[^arg-lemn-herc]
+
+Hypsipyle gave Jason a purple cloak woven by the Graces as a memorial of their time together.[^arg-lemn-cloak]
+
+[^arg-lemn-women]: The women killed all the men of Lemnos because Aphrodite afflicted them for dishonouring her; Hypsipyle spared her father Thoas by hiding him (Argonautica 1.609-639, trans. R.C. Seaton)
+[^arg-lemn-herc]: Heracles reproached the heroes for lingering at Lemnos and urged them to depart (Argonautica 1.861-874, trans. R.C. Seaton)
+[^arg-lemn-cloak]: "She gave him a great purple cloak to bear away, a memorial of many meetings with fond love" (Argonautica 1.992-994, trans. R.C. Seaton)
+
 ## In the Apollodorus
 
 ### Hephaestus's Fall
@@ -54,6 +66,7 @@ In the [Odyssey](../sources/odyssey.md), Lemnos is mentioned in the tale of [Are
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 1.609-994: Women slaughtered men for dishonoring Aphrodite; Thracian captive-women brought as replacements; Hypsipyle spared Thoas; Argonauts welcomed and linger; Heracles rebukes them to depart; Hypsipyle's farewell to Jason; purple cloak given as memorial
 - **[Iliad](../sources/iliad.md)** I: Hephaestus recalls his fall from heaven onto Lemnos; the Sintians tended him
 - **[Iliad](../sources/iliad.md)** VII: Ships from Lemnos bring wine to the Achaean camp
 - **[Iliad](../sources/iliad.md)** XIV: Hera meets Sleep on Lemnos; they depart together to Ida

@@ -23,6 +23,13 @@
 [^od-fishing]: "Up to her middle is she sunk far down in the hollow cave, but forth she holds her heads from the dreadful gulf, and there she fishes, swooping round the rock, for dolphins or sea-dogs, or whatso greater beast she may anywhere take, whereof the deep-voiced Amphitrite feeds countless flocks" (Odyssey XII.6618-6622, trans. Butcher and Lang)
 [^od-snatching]: "Thereby no sailors boast that they have fled scatheless ever with their ship, for with each head she carries off a man, whom she hath snatched from out the dark-prowed ship" (Odyssey XII.6622-6623, trans. Butcher and Lang)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+The Argonautica gives Scylla's parentage as: "Ausonian Scylla the deadly, whom night-wandering [Hecate](../deities/hecate.md), who is called Crataeis, bare to Phorcys."[^arg-scy-parents] This makes her mother Hecate (here identified with Crataeis) rather than the obscure Crataiis of the [Odyssey](../sources/odyssey.md). [Hera](../deities/hera.md) told [Thetis](../deities/thetis.md) to steer the Argo safely past Scylla's lair.[^arg-scy-argo]
+
+[^arg-scy-parents]: "Ausonian Scylla the deadly, whom night-wandering Hecate, who is called Crataeis, bare to Phorcys" (Argonautica 4.828-829, trans. R.C. Seaton)
+[^arg-scy-argo]: Hera instructed Thetis to steer the Argo away from Scylla's lair (Argonautica 4.845-848, trans. R.C. Seaton)
+
 ## In the Odyssey
 
 ### Circe's Warning
@@ -98,6 +105,7 @@ The Great Eoiae preserves a strikingly different parentage: "in the Great Eoiae 
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 4.828-848: Variant parentage — "Ausonian Scylla the deadly, whom night-wandering Hecate, who is called Crataeis, bare to Phorcys"; Hera instructs Thetis to steer the Argo past her lair
 - **Great Eoiae** Fragment 13: Variant parentage — daughter of [Apollo](../deities/apollo.md) and [Hecate](../deities/hecate.md)
 - **[Odyssey](../sources/odyssey.md)** XII: [Circe](../deities/circe.md)'s warning describing Scylla's form (twelve feet, six heads, three rows of teeth), her immortality, and her mother Crataiis; the paired threat of Charybdis ("thrice a day she sucks it down"); Scylla snatches six men (the fishing simile; "the most pitiful thing... mine eyes have seen"); Odysseus's return to Charybdis, clinging to the fig-tree "like a bat"
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.730-749: A maiden courted by many suitors; beloved of the Nereids; confided in Galatea

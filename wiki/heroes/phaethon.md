@@ -11,6 +11,20 @@
 
 **Phaethon** was the mortal son of [Helius](../deities/helius.md) who, seeking proof of his divine parentage, demanded to drive his father's sun chariot for a day. Unable to control the immortal horses, he set the earth ablaze and was struck down by [Zeus](../deities/zeus.md)'s thunderbolt.
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### The Eridanus
+
+The Argonauts sailed past the river Eridanus, where Phaethon son of [Helius](../deities/helius.md) had fallen when struck by [Zeus](../deities/zeus.md)'s thunderbolt. The daughters of Helius (the Heliades) still wept amber tears there, which hardened on the water's surface. "A heavy steam still rose from the scorched earth" where the chariot had burned the land.[^arg-phaethon-river] The heroes had to row through the grievous smell of smouldering.[^arg-phaethon-stench]
+
+### Apsyrtus Called Phaethon
+
+The Argonautica also records that Apsyrtus, prince of Colchis and [Medea](../heroes/medea.md)'s brother, was called "Phaethon" by the Colchians "because he outshone all the youths."[^arg-phaethon-apsyrtus] This is a honorific use of the name, unrelated to the myth of the sun chariot.
+
+[^arg-phaethon-river]: "the daughters of Helios still bewailed their brother, and their amber tears fell into the stream of the eddying river; a heavy steam still rose from the scorched earth" (Argonautica 4.596-605, trans. R.C. Seaton)
+[^arg-phaethon-stench]: The Argonauts rowed past the Eridanus through a grievous smell of burning from the wound Phaethon left in the earth (Argonautica 4.617-618, trans. R.C. Seaton)
+[^arg-phaethon-apsyrtus]: Apsyrtus was called Phaethon by the Colchians "because he outshone all the youths" (Argonautica 3.245-247, trans. R.C. Seaton)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### The Challenge to His Birth
@@ -54,4 +68,6 @@ Helius "destitute of all his rays... abhors himself and hates the light" and thr
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 3.245-247: Apsyrtus of Colchis called "Phaethon" by the Colchians as a title of honour — "because he outshone all the youths"
+- **[Argonautica](../sources/argonautica.md)** 4.596-618: Argonauts row past the Eridanus; daughters of Helius (Heliades) weep amber tears; steam still rises from the wound in the earth; grievous smell of smouldering
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.747-2.400: Taunted by Epaphus; journeys to the Palace of the Sun; demands the chariot; scorches the earth; struck by [Zeus](../deities/zeus.md)'s thunderbolt; mourned by Heliades (transformed to poplars) and Cycnus (transformed to swan)

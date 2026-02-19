@@ -362,6 +362,19 @@ Zeus also pities the immortal horses of Achilles as they weep for Patroklos: "Ah
 [^il17-hector-armour]: "Ah, hapless man, no thought is in thy heart of death that yet draweth nigh unto thee; thou doest on thee the divine armour of a peerless man before whom the rest have terror. His comrade, gentle and brave, thou hast slain, and unmeetly hast stripped the armour from his head and shoulders; yet now for a while at least I will give into thy hands great might, in recompense for this, even that nowise shalt thou come home out of the battle, for Andromache to receive from thee Peleides' glorious arms" (Iliad XVII.10109-10116, trans. Lang, Leaf, and Myers)
 [^il17-horses]: "Ah, hapless pair, why gave we you to king Peleus, a mortal man, while ye are deathless and ever young? Was it that ye should suffer sorrows among ill-fated men? For methinketh there is nothing more piteous than a man among all things that breathe and creep upon the earth" (Iliad XVII.10276-10280)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+Zeus appears in the Argonautica chiefly through the consequences of his decisions rather than in person. He sent a furious storm against the Argonauts after the murder of Apsyrtus, demanding that they be purified by [Circe](circe.md) — a mandate relayed through the speaking timber of the Argo itself, which cried out that Zeus's anger could not be stilled until they sought out Circe for the rite of atonement.[^arg-zeus-apsyrtus]
+
+Hera recounts to Thetis, through Iris, the divine history behind the marriage: Zeus had himself desired Thetis but Themis warned that her son would be mightier than his sire, so he gave her to Peleus, with Hera arranging the wedding and raising the bridal torch herself.[^arg-zeus-thetis]
+
+The Argonautica also mentions that Zeus gave the bronze giant **Talos** — who guarded Crete by running around the island three times daily and burning or crushing intruders — to [Europa](../heroes/europa.md) as her guardian.[^arg-zeus-talos] And Apollonius records that Sinope tricked Zeus himself: he promised her anything she wished, and she asked for virginity, which he was compelled to grant.[^arg-zeus-sinope]
+
+[^arg-zeus-apsyrtus]: "it was the will of Zeus that these things should be so, that they should reach Aeaean Circe and be purified from the murder" (Argonautica 4.557-561, trans. R.C. Seaton)
+[^arg-zeus-thetis]: "Zeus was wroth with Themis who had revealed these things... and gave Thetis to a mortal husband; and Hera herself, who had brought about the marriage, raised the bridal torch" (Argonautica 4.800-804, trans. R.C. Seaton)
+[^arg-zeus-talos]: "Zeus gave him to Europa to be the guardian of Crete... he ran round the island thrice every day with his bronze feet" (Argonautica 4.1641-1645, trans. R.C. Seaton)
+[^arg-zeus-sinope]: "she outwitted Zeus himself, for when in desire for her love he promised to give her whatever she craved, she asked of him virginity" (Argonautica 2.946-951, trans. R.C. Seaton)
+
 ## In the Bibliotheca (1.6.1-1.6.3)
 
 The [Bibliotheca](../sources/apollodorus.md) adds substantial new detail to Zeus's role in the [Gigantomachy](../creatures/giants.md) and the [Typhon](../creatures/typhoeus.md) battle.
@@ -486,6 +499,7 @@ When [Heracles](../heroes/heracles.md) lies dying on his pyre atop Mount Oeta, t
 - **[Homeric Hymn XXV](../sources/homeric-hymns.md)**: "Through the Muses and Apollo that there are singers... but kings are from Zeus"
 - **Catalogue of Women** Fragment 97: Dodona — "Zeus loved it and appointed it to be his oracle"; doves in the hollow of an oak deliver prophecy
 - **Catalogue of Women** Fragment 102: Dardanus and the Trojan line — Electra bore Dardanus and Eetion to Zeus; Eetion smitten for touching [Demeter](demeter.md); Dardanus founds Troy's dynasty; eagle catches up Ganymede
+- **[Argonautica](../sources/argonautica.md)** 1-4: Ordained that Apsyrtus's murder required purification by Circe (speaking timber relayed this); gave Talos to Europa to guard Crete; Sinope outwitted him by asking for virginity; Hera's account — desired Thetis but Themis warned her son would be mightier, so gave her to Peleus and Hera raised the bridal torch
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.177-180: Ivory sceptre; shakes his locks, moving earth, seas, and stars
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.253-258: Restrains thunderbolts for fear of igniting the cosmos; chooses flood instead
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.846-875: Europa — takes form of snow-white bull with gem-like horns; "the love of peace was in his countenance"

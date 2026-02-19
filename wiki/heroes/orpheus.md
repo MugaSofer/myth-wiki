@@ -11,6 +11,36 @@
 
 **Orpheus** is the greatest musician of Greek mythology, whose song could charm animals, trees, and even stones. His descent to the underworld to retrieve his dead wife Eurydice, and his tragic failure at the moment of return, is one of the most celebrated myths of antiquity. He was later torn apart by Thracian maenads.
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### Cosmogony at the Start of the Voyage
+
+Orpheus was among the Argonauts and opened the voyage with a song to settle a quarrel: "he sang how the earth, the heaven, and the sea, once mingled together in one form, after deadly strife were separated each from the other."[^arg-orph-cosmo] He sang of Ophion and Eurynome ruling Olympus before they yielded to Cronos and Rhea.[^arg-orph-ophion]
+
+### Song of Apollo
+
+At Thrace, he sang how [Apollo](../deities/apollo.md) slew the serpent Delphyne and established himself at Delphi, "before he had finished high Parnassus."[^arg-orph-apollo]
+
+### The Sirens
+
+When the Argo passed the [Sirens](../creatures/sirens.md), Orpheus drowned out their song with his lyre: "He struck his lyre in rivalry with them, and the ears of his comrades were filled with his song."[^arg-orph-sirens] Only Butes alone leapt overboard, drawn toward them — he was rescued by [Aphrodite](../deities/aphrodite.md). Orpheus afterwards named a nearby island "Apollo of the Dawn" and dedicated his lyre at the tomb of Sthenelus on the shore, at a place thereafter called Lyra.[^arg-orph-lyra]
+
+### The Rite of Rhea/Cybele
+
+On Samothrace, Orpheus led the heroes in an armed dance to [Rhea](../deities/rhea.md) (Cybele) to propitiate her after a storm.[^arg-orph-rhea]
+
+### Marriage Song at Phaeacia
+
+At the wedding of Jason and [Medea](../heroes/medea.md) on Phaeacia, Orpheus sang the marriage hymn.[^arg-orph-wedding]
+
+[^arg-orph-cosmo]: "He sang how the earth, the heaven, and the sea, once mingled together in one form, after deadly strife were separated each from the other" (Argonautica 1.496-498, trans. R.C. Seaton)
+[^arg-orph-ophion]: Orpheus sang that "Ophion and Eurynome, daughter of Ocean, held the snowy Olympian height, and how through strength of arm one yielded his honour to Cronos and the other to Rhea" (Argonautica 1.503-506, trans. R.C. Seaton)
+[^arg-orph-apollo]: Orpheus sang of Apollo slaying the serpent Delphyne at Pytho, "before he had finished high Parnassus" (Argonautica 2.705-710, trans. R.C. Seaton)
+[^arg-orph-sirens]: "He struck his lyre in rivalry with them, and the ears of his comrades were filled with the sound of his song as he hurried on" (Argonautica 4.905-906, trans. R.C. Seaton)
+[^arg-orph-lyra]: The island was called Lyra because Orpheus left his lyre there on the tomb of Sthenelus (Argonautica 4.909-911, trans. R.C. Seaton)
+[^arg-orph-rhea]: Orpheus led an armed dance to the goddess of Samothrace (Rhea/Cybele) to calm the storm (Argonautica 1.1134-1139, trans. R.C. Seaton)
+[^arg-orph-wedding]: Orpheus sang the wedding hymn at the marriage of Jason and Medea at Phaeacia (Argonautica 4.1159-1160, trans. R.C. Seaton)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### Orpheus and Eurydice (10.1-77)
@@ -53,6 +83,11 @@ In death, Orpheus found what he could not achieve in life: "remembering now thos
 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.2: Son of Calliope; listed among the Argonauts
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Overpowered the Sirens' song during the Argo's voyage
+- **[Argonautica](../sources/argonautica.md)** 1.496-506: Opens the voyage with a cosmogonic song; Ophion and Eurynome before Cronos and Rhea on Olympus
+- **[Argonautica](../sources/argonautica.md)** 1.1134-1139: Leads armed dance to Rhea/Cybele on Samothrace
+- **[Argonautica](../sources/argonautica.md)** 2.705-710: Sings of Apollo slaying Delphyne at Pytho
+- **[Argonautica](../sources/argonautica.md)** 4.905-911: Drowns out Sirens' song with lyre; only Butes escapes; names island of Apollo of the Dawn; dedicates lyre at Sthenelus's tomb
+- **[Argonautica](../sources/argonautica.md)** 4.1159-1160: Sings the marriage hymn at Jason and Medea's wedding at Phaeacia
 - **[Metamorphoses](../sources/metamorphoses.md)** 10.1-77: Descent to underworld for Eurydice; moves [Persephone](../deities/persephone.md) and [Hades](../deities/hades.md) with his song; looks back; loses Eurydice a second time; seven days on the Styx; withdraws to Rhodope
 - **[Metamorphoses](../sources/metamorphoses.md)** 10.86-739: Draws trees with his song; sings tales of Ganymede, Hyacinthus, Pygmalion, Myrrha, Adonis, and Atalanta
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.1-66: Killed by Ciconian maenads; song drowned by noise; torn apart; head and lyre float to Lesbos; [Apollo](../deities/apollo.md) saves head from serpent; reunited with Eurydice in the underworld

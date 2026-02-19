@@ -149,6 +149,15 @@ In the Returns, Thetis warned Neoptolemus (Achilles' son), who heeded her counse
 
 [^ret-neoptolemus]: Returns, summary by Proclus: "Neoptolemus, warned by Thetis, journeys overland"
 
+## In the [Argonautica](../sources/argonautica.md)
+
+In Book IV, [Iris](iris.md) came to Thetis at [Hera](hera.md)'s bidding to summon her aid for the Argo's return past the Wandering Rocks. Within this episode Apollonius provides a backstory for the Thetis–Zeus–Peleus tradition: Zeus had once desired Thetis, but [Themis](themis.md) had prophesied that her son would be mightier than his father; Zeus therefore gave her to a mortal, and "Hera herself had bound their marriage rites and raised the bridal torch." Thetis had tried to make Achilles immortal by burning away his mortal element with fire and anointing him with ambrosia each night; Peleus interrupted her in the process and she "in anger at him left the child and went back to the Nereids of the sea."[^arg-thetis-backstory]
+
+To help the Argo through the Wandering Rocks — which rolled and crashed together even when birds tried to fly between them — Thetis set her hand to the rudder and steered the ship herself. The Nereids gathered to help, "tossing the ship from hand to hand, on either side of the reefs, as girls sport beside a beach rolling up their garments to their white thighs, catch a round ball, tossing it from hand to hand, one to the other, and the ball flies through the air and never touches the ground."[^arg-thetis-rocks]
+
+[^arg-thetis-backstory]: "Zeus in anger at Themis who had revealed these things, because she had not concealed the decrees of fate, Zeus gave her to a mortal husband. And Hera herself, who had brought about the marriage, raised the bridal torch... But when Peleus saw her laying the child aside, breathing hard amid the flames, he uttered a loud cry, fool that he was, and she heard him, and catching up the child threw him screaming on the ground and herself like a breath of wind passed swiftly from the hall" (Argonautica 4.800-809, trans. R.C. Seaton)
+[^arg-thetis-rocks]: "Thetis on the one side set her hand to the helm-oar and steered through the crags... like to rounded balls flung by fair-girdled maidens from one to another, they kept the ship safe" (Argonautica 4.950-960, trans. R.C. Seaton)
+
 ## In the Fabulae
 
 ### The Prophecy and Marriage to Peleus (§54)
@@ -200,6 +209,7 @@ On the timing of the wedding night: "on the evening of the mid-month moon shall 
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 4: Summoned by Iris at Hera's bidding; backstory — Zeus desired her but Themis prophesied her son would be mightier; Hera arranged the wedding and raised the bridal torch; Thetis tried to make Achilles immortal by fire and ambrosia; Peleus interrupted; she left in fury; guided the Argo past the Wandering Rocks, setting her hand to the rudder; Nereids passed the ship through "like a ball"
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.221-265: Proteus prophesied son would surpass his father; Zeus renounced her; "the green haired maid" rode naked on a harnessed dolphin to a myrtle cave; Peleus seized her; shifted to bird, tree, spotted tigress; yielded and conceived Achilles
 - **[Odyssey](../sources/odyssey.md)** XXIV: Achilles' funeral — rises from the sea with the deathless maidens; the Nereids clad Achilles in incorruptible raiment; the nine Muses sang the dirge; seventeen days of mourning; gave a golden urn (gift of [Dionysus](dionysus.md), work of [Hephaestus](hephaestus.md)); asked the gods for prizes in the funeral games; "very dear wert thou to the gods"
 - **[Theogony](../sources/theogony.md)** 244: Listed among the Nereids

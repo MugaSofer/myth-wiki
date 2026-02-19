@@ -336,6 +336,18 @@ The priestess Theano places the fairest robe on Athena's knees and prays: "Lady 
 [^il6-prayer-request]: "let her lay the robe, that seemeth to her the most gracious and greatest in her hall and far dearest unto herself, upon the knees of beauteous-haired Athene; and vow to her to sacrifice in her temple twelve sleek kine, that have not felt the goad, if she will have mercy on the city and the Trojans' wives and little children" (Iliad VI.3544-3549, trans. Lang, Leaf, and Myers)
 [^il6-denied]: "Lady Athene, saviour of the city, fair among goddesses, break now Diomedes' spear, and grant moreover that himself may fall prone before the Skaian gates; that we may sacrifice thee now forthwith in thy temple twelve sleek kine, that have not felt the goad, if thou wilt have mercy on the city and the Trojans' wives and little children. So spake she praying, but Pallas Athene denied the prayer." (Iliad VI.3749-3754)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+Athena is one of the Argo's builders and a key figure in its departure. She worked with the shipwright Argus to construct the vessel, and set a speaking timber cut from the Dodonian oak into the ship's stem — a detail corroborated by the [Bibliotheca](../sources/apollodorus.md) (1.9.16).[^arg-ath-build] She also persuaded Tiphys to serve as helmsman.[^arg-ath-tiphys]
+
+The Argo's most dangerous passage, through the Symplegades (Clashing Rocks), was achieved partly through Athena's direct physical intervention. After a dove sent ahead was caught only at the tail-feathers, Athena pushed the stern through with her hands while the rocks recoiled, allowing the Argo to pass with only slight damage to the sternpost.[^arg-ath-symplegades]
+
+In Book III, Athena joined [Hera](hera.md) in visiting [Aphrodite](aphrodite.md) to enlist [Eros](eros.md)'s help with Medea.
+
+[^arg-ath-build]: "Athena herself fitted in the speaking plank from the Dodonian oak which Argus wrought into the middle of the keel" (Argonautica 1.524-527, trans. R.C. Seaton)
+[^arg-ath-tiphys]: "Athena urged Tiphys the son of Hagnias, the steersman" (Argonautica 1.105-108, trans. R.C. Seaton)
+[^arg-ath-symplegades]: "but Athena with her left hand thrust back the one rock and with the other pushed the ship through; and the ship shot through the air like a winged arrow" (Argonautica 2.598-600, trans. R.C. Seaton)
+
 ## In the Bibliotheca (1.6.1-1.6.2)
 
 The [Bibliotheca](../sources/apollodorus.md) assigns Athena a major role in the [Gigantomachy](../creatures/giants.md). She summoned [Heracles](../heroes/heracles.md) at [Zeus](zeus.md)'s command, and advised him to drag Alcyoneus outside Pallene to prevent his revival.[^apd-ath-alcyoneus] She threw "the island of Sicily" upon the fleeing Enceladus, and "flayed Pallas and used his skin to shield her own body in the fight."[^apd-ath-pallas]
@@ -423,6 +435,7 @@ Within sat Envy, "ravening the flesh of vipers, self-begot." Ovid describes her 
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 1, 2, 3: Helped build the Argo with Argus; set the Dodonian oak timber in the stem; urged Tiphys to be helmsman; pushed the ship through the Symplegades with her hands; conspired with Hera to approach Aphrodite about Eros
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.760-802: Visited the Cave of Envy; struck door-posts with spear; commanded Envy to poison Aglauros
 - **[Metamorphoses](../sources/metamorphoses.md)** 4.794-803: Punished Medusa by turning her hair to serpents after Poseidon defiled her temple
 - **[Metamorphoses](../sources/metamorphoses.md)** 6.1-145: Contest with Arachne; weaves scenes of divine justice; destroys Arachne's perfect tapestry; transforms her into a spider

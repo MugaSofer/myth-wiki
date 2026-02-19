@@ -97,6 +97,25 @@ In the Hymn, Aphrodite tells the story of [Eos](eos.md) and Tithonus as a cautio
 [^hh5-shame]: "now my mouth shall no more have this power among the gods; for very great has been my madness, my miserable and dreadful madness, and I went astray out of my mind who have gotten a child beneath my girdle, mating with a mortal man" (Homeric Hymn V to Aphrodite 247-253)
 [^hh5-tithonus]: "when loathsome old age pressed full upon him, and he could not move nor lift his limbs, this seemed to her in her heart the best counsel: she laid him in a room and put to the shining doors. There he babbles endlessly, and no more has strength at all, such as once he had in his supple limbs" (Homeric Hymn V to Aphrodite 233-238)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### The Visit of Hera and Athena
+
+In Book III, [Hera](hera.md) and [Athena](athena.md) came to Aphrodite's home seeking [Eros](eros.md)'s services. When the two goddesses arrived, Apollonius pictures a domestic scene: Aphrodite was sitting combing her hair, "and before her Eros was arranging her tresses." She was flustered to receive such distinguished visitors unattended and without proper seats prepared for them.[^arg-aph-visit] She confessed to Hera that Eros was difficult to manage — threatening that she would break his bow and arrows in her exasperation with his unruliness — but agreed to bribe him with [Zeus](zeus.md)'s golden ball (a plaything made for him in the Idaean cave by his nurse Adrasteia) if he would shoot Medea.[^arg-aph-bribe]
+
+### Rescuing Butes
+
+When the Argo passed the Sirens, all the crew were enchanted except [Orpheus](../heroes/orpheus.md), whose lyre drowned the song, and Butes, who leaped from the ship and swam toward them. Aphrodite snatched him up out of pity — "the goddess that rules Eryx, Cypris, in pity snatched him away" — and set him down safely at Lilybaeum in Sicily.[^arg-aph-butes]
+
+### The Lemnian Women
+
+The cause of the Lemnian massacre — the killing of all their men by the Lemnian women — is explained in the Argonautica as Aphrodite's wrath: the Lemnian women had neglected to honor her, and the goddess afflicted them with a noisome smell so their husbands turned from them to Thracian concubines, provoking the slaughter.[^arg-aph-lemnos]
+
+[^arg-aph-visit]: "before her Eros was arranging her tresses as she sat on a polished chair, but seeing them she held up her locks of hair with both her hands and was about to leave her couch" (Argonautica 3.43-47, trans. R.C. Seaton)
+[^arg-aph-bribe]: "Often I rebuke him though it please him not, and I think I will break his arrows and his evil bow before his eyes... but he fears me not a whit" (Argonautica 3.89-91, trans. R.C. Seaton)
+[^arg-aph-butes]: "him alone the goddess that rules Eryx, Cypris, in pity snatched away as he swam" (Argonautica 4.912-914, trans. R.C. Seaton)
+[^arg-aph-lemnos]: "for they had not given due honour to Aphrodite, and she in anger smote them with a shameful plague... so that their husbands loathed them and bedded with captive maids from Thrace" (Argonautica 1.614-619, trans. R.C. Seaton)
+
 ## In the Iliad
 
 ### Rescuing Paris (Book III)
@@ -233,6 +252,7 @@ She then lifted the veil from his mortal sight to reveal the gods destroying [Tr
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 1, 3, 4: Wrath against Lemnian women — cause of the massacre; found combing her hair when Hera and Athena visited; complained Eros was unruly and threatened to break his bow; bribed Eros with Zeus's golden ball (made in the Idaean cave by Adrasteia); rescued Butes from the Sirens at Lilybaeum — "the goddess that rules Eryx, Cypris, in pity snatched him away"
 - **[Theogony](../sources/theogony.md)** 16, 188-206: Mentioned in invocation; birth from sea-foam
 - **[Homeric Hymn V](../sources/homeric-hymns.md)**: The three immune; seduction of Anchises; birth of Aeneas; Eos and Tithonus
 - **[Iliad](../sources/iliad.md)** III: Rescues Paris from Menelaos; disguises as old woman; Helen sees through disguise ("fair neck and lovely breast and sparkling eyes"); threatens Helen

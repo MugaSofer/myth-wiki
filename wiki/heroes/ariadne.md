@@ -2,6 +2,17 @@
 
 Daughter of **[Minos](minos.md)** and Pasiphae. Ariadne helped **[Theseus](theseus.md)** escape the Labyrinth, was abandoned on Naxos, and became the consort of **[Dionysus](../deities/dionysus.md)**.
 
+## In the [Argonautica](../sources/argonautica.md)
+
+Jason invoked Ariadne as a precedent when appealing to [Medea](../heroes/medea.md) for help. He described her as "the maiden Ariadne, daughter of [Minos](minos.md), with kindly intent rescued Theseus from grim contests — the maiden whom Pasiphae daughter of Helios bare."[^arg-ariadne-jason] Medea asked Jason about Ariadne in turn, as Ariadne was her kinswoman through Pasiphae.[^arg-ariadne-medea]
+
+The Argonautica also notes that on the island of Dia, Theseus had forsaken Ariadne there; and that [Dionysus](../deities/dionysus.md)'s sacred robe had its origin on that island.[^arg-ariadne-dia] Ariadne's crown eventually became a constellation.[^arg-ariadne-crown]
+
+[^arg-ariadne-jason]: "the maiden Ariadne, daughter of Minos, with kindly intent rescued Theseus from grim contests — the maiden whom Pasiphae daughter of Helios bare" (Argonautica 3.997-1001, trans. R.C. Seaton)
+[^arg-ariadne-medea]: Medea and Ariadne were kinswomen through Pasiphae; Medea asked Jason about her (Argonautica 3.1074-1076, trans. R.C. Seaton)
+[^arg-ariadne-dia]: On the island of Dia Theseus forsook Ariadne; the sacred robe of Dionysus was made there (Argonautica 4.423-434, trans. R.C. Seaton)
+[^arg-ariadne-crown]: Ariadne's crown became a constellation in the sky (Argonautica 3.1003-1004, trans. R.C. Seaton)
+
 ## In the Theogony
 
 "Golden-haired Dionysus made brown-haired Ariadne, the daughter of Minos, his buxom wife: and the son of [Cronos](../deities/cronos.md) made her deathless and unageing for him."[^theog-ariadne]
@@ -52,6 +63,8 @@ The Fabulae adds that "Theseus married Phaedra, Ariadne's sister."[^hyg43-phaedr
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 3.997-1004: Invoked by Jason as precedent — "with kindly intent rescued Theseus from grim contests"; her crown became a constellation; Medea asks about her as a kinswoman through Pasiphae
+- **[Argonautica](../sources/argonautica.md)** 4.423-434: Island of Dia — Theseus forsook her there; Dionysus's sacred robe made on the island
 - **Theogony** 947-949: "Brown-haired Ariadne"; made wife of [Dionysus](../deities/dionysus.md); made "deathless and unageing"
 - **[Odyssey](../sources/odyssey.md)** XI: Killed by [Artemis](../deities/artemis.md) "by reason of the witness of Dionysus"
 - **Catalogue of Women** Fragment 76: [Theseus](theseus.md) abandoned her for "strong love for Aegle the daughter of Panopeus"

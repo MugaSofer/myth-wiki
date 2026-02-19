@@ -56,6 +56,25 @@ He was eventually freed by [Heracles](../heroes/heracles.md), "the valiant son o
 [^theog-punishment]: "ready-witted Prometheus he bound with inextricable bonds, cruel chains, and drove a shaft through his middle, and set on him a long-winged eagle, which used to eat his immortal liver; but by night the liver grew as much again everyway as the long-winged bird devoured in the whole day" (Theogony 521-525)
 [^theog-release]: "That bird Heracles, the valiant son of shapely-ankled Alcmene, slew; and delivered the son of Iapetus from the cruel plague, and released him from his affliction—not without the will of Olympian Zeus who reigns on high, that the glory of Heracles the Theban-born might be yet greater than it was before over the plenteous earth" (Theogony 526-532)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### Bound on Caucasus
+
+As the Argo passed the Caucasus, the heroes could hear the screams of Prometheus and see the eagle flying overhead on its way to feed on him. He was described as "bound on the Caucasus by cruel bronze fetters."[^arg-prom-bound] "The son of Iapetus himself groaned, his soul distraught with pain" when [Medea](../heroes/medea.md) later cut a root used in the charm of Prometheus.[^arg-prom-root]
+
+### The Charm of Prometheus
+
+The drug Medea prepared to protect Jason — the "charm of Prometheus" — was a plant that had sprung from the earth where the eagle's droppings fell when it fed on Prometheus's liver. The root bled a dark juice "like the Caucasian rock."[^arg-prom-charm]
+
+### Deucalion as Prometheus's Son
+
+Jason told Medea that Prometheus's son Deucalion "first founded cities and built temples to the immortal gods" in Haemonia (the old name for Thessaly), and that Jason himself came from there.[^arg-prom-deucalion]
+
+[^arg-prom-bound]: "bound there on the Caucasus by cruel bronze fetters" (Argonautica 2.1247-1249, trans. R.C. Seaton)
+[^arg-prom-root]: "The son of Iapetus himself groaned, his soul distraught with pain" when Medea cut the root of the charm (Argonautica 3.845-847, trans. R.C. Seaton)
+[^arg-prom-charm]: The charm of Prometheus — a plant sprung from the ichor where the eagle fed on his liver; "like Caucasian rock it bled dark juice" (Argonautica 3.844-856, trans. R.C. Seaton)
+[^arg-prom-deucalion]: "Deucalion, son of Prometheus... first founded cities and built temples to the immortal gods in Haemonian land" (Argonautica 3.1085-1089, trans. R.C. Seaton)
+
 ## In Works and Days
 
 [Works and Days](../sources/works-and-days.md) retells the fire-theft myth with significant differences. Here it is [Zeus](zeus.md) who speaks directly: "Son of Iapetus, surpassing all in cunning, you are glad that you have outwitted me and stolen fire — a great plague to you yourself and to men that shall be. But I will give men as the price for fire an evil thing in which they may all be glad of heart while they embrace their own destruction."[^wd-speech]
@@ -138,6 +157,9 @@ Prometheus's son was Deucalion, who "by the advice of Prometheus constructed a c
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 2.1247-1249: Bound on Caucasus by bronze fetters; Argonauts hear his screams and see the eagle flying overhead
+- **[Argonautica](../sources/argonautica.md)** 3.844-856: The charm of Prometheus — plant sprung from his ichor where the eagle fed; "the son of Iapetus himself groaned" when the root was cut
+- **[Argonautica](../sources/argonautica.md)** 3.1085-1089: His son Deucalion first founded cities in Haemonia (Thessaly)
 - **[Theogony](../sources/theogony.md)** 507-616: Full account of family, trick at Mecone, theft of fire, punishment and release
 - **[Works and Days](../sources/works-and-days.md)** 42-105: Retelling of fire theft; Zeus's speech; creation and naming of Pandora; the jar of evils
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.3: Son of Iapetus and Asia (variant: Clymene in Theogony)

@@ -21,6 +21,17 @@ They "on their swift wings keep pace with the blasts of the winds and the birds;
 - **Aello** — "Storm-swift"
 - **Ocypetes** — "Swift-flier"
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### Torment of Phineus
+
+At the land of Phineus, the blind seer had been tormented by the Harpies for refusing to obey [Zeus](../deities/zeus.md)'s commands. "Swooping through the clouds, the Harpies with their crooked beaks incessantly snatched the food away from his mouth and hands." They also poured forth "a loathsome stench" so that even what little food they left could not be eaten.[^arg-harp-phineus]
+
+[Zetes and Calais](../heroes/boreadae.md), the winged sons of Boreas among the Argonauts, chased the Harpies through the air. Iris appeared and stopped them from killing the Harpies, swearing an oath that they would not trouble Phineus again. The Harpies then retreated to "their den in Minoan Crete."[^arg-harp-iris]
+
+[^arg-harp-phineus]: "swooping through the clouds, the Harpies with their crooked beaks incessantly snatched the food away from his mouth and hands... and poured forth a loathsome stench" (Argonautica 2.188-193, trans. R.C. Seaton)
+[^arg-harp-iris]: Iris stopped Zetes and Calais from killing the Harpies, swearing an oath; the Harpies retreated to "their den in Minoan Crete" (Argonautica 2.285-300, trans. R.C. Seaton)
+
 ## In the Iliad
 
 ### Podarge and Achilles' Horses (Book XVI)
@@ -50,6 +61,7 @@ Their leader **Celaeno** then prophesies: "Italy is your goal; wooing the winds 
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 2.188-300: Torment Phineus — "swooping through the clouds... with crooked beaks"; snatch food and pour "loathsome stench"; chased by Zetes and Calais; Iris swears an oath and stops the killing; Harpies retreat to "their den in Minoan Crete"
 - **[Theogony](../sources/theogony.md)** 265-269: Birth and description
 - **[Iliad](../sources/iliad.md)** XVI: Podarge (a third harpy) bore Xanthos and Balios to the West Wind by the stream of Okeanos; "swift-footed immortal horses... that the gods gave to Peleus"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.6: "to Thaumas and Electra were born Iris and the Harpies, Aello and Ocypete" — confirms the Theogony's account, naming Ocypete (vs. Theogony's "Ocypetes")

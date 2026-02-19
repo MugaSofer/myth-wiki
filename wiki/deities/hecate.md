@@ -60,6 +60,26 @@ After Persephone's return, "bright-coiffed Hecate came near to them, and often d
 [^hd-news]: "Hecate, with a torch in her hands, met her, and spoke to her and told her news: 'Queenly Demeter, bringer of seasons and giver of good gifts, what god of heaven or what mortal man has rapt away Persephone and pierced with sorrow your dear heart? For I heard her voice, yet saw not with my eyes who it was'" (Homeric Hymn to Demeter 51-58)
 [^hd-companion]: "bright-coiffed Hecate came near to them, and often did she embrace the daughter of holy Demeter: and from that time the lady Hecate was minister and companion to Persephone" (Homeric Hymn to Demeter 438-440)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+Hecate looms large in the Argonautica through her relationship with Medea, who serves as her priestess at Colchis.
+
+### Medea's Goddess
+
+Medea is described throughout as Hecate's special charge. Apollonius presents the goddess under her alternate name **Brimo** — "nurse of youth, night-wandering Brimo, of the underworld, queen among the dead" — in the incantation Medea uses to charm the sleepless serpent guarding the fleece.[^arg-hec-brimo]
+
+### The Midnight Invocation
+
+For Jason to receive Medea's protective charm, she required him to perform a midnight sacrifice to Hecate at a crossroads. The epiphany was terrifying: the goddess came "from the uttermost depths," and with her came the sounds of oak trees crashing and the earth bellowing; she was surrounded by "horrible serpents twined among the oak boughs," "countless torches," and "the hounds of hell baying shrilly."[^arg-hec-epiphany] Jason, forewarned by Medea, did not look back when these signs came and stood firm until morning.
+
+### Mother of Scylla
+
+In a genealogical note, Apollonius names Hecate (under the epithet **Crataeis**) as the mother of [Scylla](../creatures/scylla.md), by [Phorcys](../creatures/scylla.md).[^arg-hec-scylla]
+
+[^arg-hec-brimo]: "adjuring Brimo the night-wanderer, the nurse of youth, the chthonian queen, to be her helper" (Argonautica 3.861-862, trans. R.C. Seaton)
+[^arg-hec-epiphany]: "the goddess moved with horrible serpents twined among oak boughs, and there was a gleam of countless torches; and the hounds of hell barked shrilly all around her" (Argonautica 3.1216-1222, trans. R.C. Seaton)
+[^arg-hec-scylla]: "Scylla, the destructive monster whom Crataeis bore... Crataeis is the mother of Scylla and she bore her to Phorcys" (Argonautica 4.828-829, trans. R.C. Seaton)
+
 ## In the Bibliotheca (1.6.2)
 
 ### Slaying Clytius in the Gigantomachy
@@ -72,6 +92,7 @@ During the battle with the [Giants](../creatures/giants.md), "Clytius [was kille
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 3, 4: Medea was her priestess; called Brimo, "nurse of youth, night-wandering, queen among the dead"; appeared at Jason's midnight sacrifice with serpents in oak boughs, countless torches, and howling hell-hounds; invoked by Medea to charm the serpent; named Crataeis, mother of Scylla by Phorcys
 - **[Theogony](../sources/theogony.md)** 411-452: Extended hymn to Hecate
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)** 24-27, 51-58, 438-440: Hears Persephone's cry; aids Demeter's search; becomes Persephone's companion
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.4: "to Perses and Asteria was born Hecate" — confirms Theogonic parentage

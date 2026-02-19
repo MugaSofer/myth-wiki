@@ -2,6 +2,19 @@
 
 Founder of **[Thebes](../places/thebes.md)**, son of Agenor and Telephassa. Cadmus came from Phoenicia in search of his sister Europa, and on the oracle's advice followed a cow to the site of Thebes.
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### The Dragon's Teeth
+
+The Argonautica explains the origin of the dragon's teeth that Aeetes made Jason sow. They were "the fell teeth of the Aonian dragon which Cadmus found in Ogygian Thebes when he came seeking for Europa and there slew the warder of the spring of Ares."[^arg-cadmus-teeth] [Athena](../deities/athena.md) had divided the teeth: half were given to [Aeetes](../heroes/aeetes.md), half to Cadmus himself.
+
+### Tomb of Cadmus and Harmonia in Illyria
+
+The Argonautica also notes a tomb of Cadmus and [Harmonia](../deities/harmonia.md) in Illyria, in the land where some Colchians settled after failing to capture [Medea](../heroes/medea.md). The Colchian settlers "dwell around the tomb of Harmonia and Cadmus and are called Encheleans."[^arg-cadmus-tomb]
+
+[^arg-cadmus-teeth]: "the fell teeth of the Aonian dragon which Cadmus found in Ogygian Thebes when he came seeking for Europa and there slew the warder of the spring of Ares" (Argonautica 3.1176-1179, trans. R.C. Seaton)
+[^arg-cadmus-tomb]: "Around the tomb of Harmonia and Cadmus they dwell and are called Encheleans" (Argonautica 4.516-518, trans. R.C. Seaton)
+
 ## In the Bibliotheca (3.1.1, 3.4.1-3.5.4)
 
 ### The Search for Europa
@@ -129,6 +142,8 @@ Immediately "he saw and felt himself increase in length. His body coiled into a 
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 3.1176-1179: Dragon's teeth origin — the fell teeth of the Aonian dragon that Cadmus slew at the spring of Ares; Athena split the teeth between Cadmus and Aeetes
+- **[Argonautica](../sources/argonautica.md)** 4.516-518: Tomb of Cadmus and Harmonia in Illyria; Colchian settlers dwell around it, called Encheleans
 - **[Bibliotheca](../sources/apollodorus.md)** 3.1.1-3.5.4: Search for Europa; oracle's cow; dragon at spring of Ares; sowing dragon's teeth; Sparti; servitude to Ares; marriage to Harmonia with gods attending; children; transformation to serpents in Illyria; sent to Elysian Fields
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.1-130: Search for Europa; oracle's heifer; dragon of Mars with three tongues and triple-row teeth; Cadmus pins it to oak tree; voice warns of serpent fate; Minerva orders teeth sown; armed men sprout; five survive including Echion; founds Boeotia
 - **[Metamorphoses](../sources/metamorphoses.md)** 4.563-603: In Illyria, Cadmus wishes to become a serpent; transforms — "bright scales... azure macules"; calls to Harmonia; Harmonia transformed too; "gentle serpents... always conscious of the past"

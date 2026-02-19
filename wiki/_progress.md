@@ -2,7 +2,7 @@
 
 ## Current Source
 
-**Virgil, Aeneid** (trans. J.W. Mackail, 1885) — IN PROGRESS
+**Apollonius Rhodius, Argonautica** (trans. R.C. Seaton, 1912) — COMPLETE
 
 ## Progress
 
@@ -763,7 +763,7 @@ Created dedicated pages for major entities across all previously processed sourc
 - Asclepius — new page created (asclepius.md) with material from Iliad, Catalogue of Women, Met 2, Met 15, Bibliotheca, Fabulae
 - metamorphoses.md source page — expanded with detailed book-by-book Contents section
 
-### Virgil, Aeneid — In Progress
+### Virgil, Aeneid — COMPLETE
 
 **Source text:** J.W. Mackail prose translation (1885), Project Gutenberg #22456
 **Source page created:** aeneid.md
@@ -829,11 +829,57 @@ Created dedicated pages for major entities across all previously processed sourc
 
 ## Pindar, Odes — COMPLETE
 
+### Apollonius Rhodius, Argonautica — COMPLETE
+
+**Source text:** R.C. Seaton translation (1912), Project Gutenberg #830
+**Source page updated:** argonautica.md (full book-by-book Contents, Key Entities section)
+**Source file:** sources/apollonius-argonautica-seaton.txt (5,471 lines, 4 books)
+
+**All 4 books processed:**
+- Book I (lines 226-1491): Catalogue of Argonauts, Lemnos episode, Cyzicus, Hylas/Heracles
+- Book II (lines 1492-2640): Amycus/Polydeuces, Phineus/Harpies, Symplegades, Idmon/Tiphys deaths, Apollo epiphany, geographic passages, Prometheus, arrival at Colchis
+- Book III (lines 2641-3891): Hera/Athena/Aphrodite conspiracy, Eros/Medea, Aeetes' palace, Medea's psychology, charm of Prometheus, Jason's bull trial
+- Book IV (lines 3892-5471): Fleece taken, Apsyrtus murdered, Circe's purification, Sirens, Wandering Rocks, Phaeacian marriage, Libya/Hesperides, Talos, Anaphe, Euphemus's dream, return
+
+**Existing pages updated (32 total):**
+
+*Directly processed (4 major pages):*
+- jason.md (major — appearance, leadership, Hera's patronage, Colchis trials, fleece, Apsyrtus, return)
+- medea.md (major — Eros's arrow, inner conflict, powers/sorcery, flight, Apsyrtus, Circe, Phaeacia)
+- argo.md (construction, Symplegades, speaking ship, Wandering Rocks, carried overland)
+- golden-fleece.md (fleece at Colchis, taking the fleece, Phrixus backstory)
+
+*By subagent — deity pages (11):*
+- hera.md, athena.md, aphrodite.md, eros.md, apollo.md, hecate.md, iris.md, thetis.md, poseidon.md, zeus.md, circe.md
+
+*By subagent — hero/creature/place pages (15):*
+- orpheus.md, heracles.md, peleus.md, dioscuri.md, ariadne.md, phaethon.md, cadmus.md, theseus.md
+- harpies.md, sirens.md, chiron.md, prometheus.md, scylla.md
+- lemnos.md, colchis.md
+
+*Manually:*
+- _progress.md
+
+**New pages created (8):**
+- aeetes.md (king of Colchis, son of Helius, palace description, trial, pursuit)
+- hypsipyle.md (queen of Lemnos, spared Thoas, assembly, Jason's visit)
+- phineus.md (blind prophet, Harpies, route prophecy)
+- apsyrtus.md (son of Aeetes, pursuit fleet commander, murder scene)
+- talos.md (bronze man of Crete, last of ash-tree race, Medea's sorcery)
+- euphemus.md (water-running, dove at Symplegades, Triton's clod, Thera prophecy)
+- idmon.md (Apollo's son, seer, foresaw own death, killed by boar)
+- tiphys.md (helmsman, Symplegades, death by illness, Ancaeus succeeds)
+
+**Wiki size:** ~220 pages across deities, heroes, creatures, places, events, objects, and sources.
+
+## Argonautica — COMPLETE
+
 ## Next
 
 ### New Sources (in priority order)
 
-*TBD — Apollonius Rhodius Argonautica, Greek tragedies, or Pausanias are potential next sources.*
+1. **Greek tragedies** — Euripides, Sophocles, Aeschylus (rich character material, many plays on Gutenberg)
+2. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
 
 ### Minor Expansions — COMPLETE
 

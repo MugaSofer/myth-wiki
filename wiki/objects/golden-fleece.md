@@ -52,6 +52,28 @@ After the return voyage, "Jason surrendered the fleece" to Pelias.[^apd-surrende
 [^apd-taking]: "Medea brought Jason by night to the fleece, and having lulled to sleep by her drugs the dragon that guarded it, she possessed herself of the fleece and in Jason's company came to the Argo" (Bibliotheca 1.9.23, trans. Frazer)
 [^apd-surrender]: "On his return Jason surrendered the fleece" (Bibliotheca 1.9.27, trans. Frazer)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### The Fleece at Colchis
+
+Apollonius describes the fleece hanging in the sacred grove of [Ares](../deities/ares.md), guarded by a serpent of enormous size: "the fleece as it hung on the leafy branches of an oak," while "a dragon, a monster terrible to behold, ever glares around, keeping watch over the fleece that is spread upon the top of an oak; neither by day nor by night does sweet sleep subdue his restless eyes."[^arg2-grove] Argus son of Phrixus warned of the guardian: "so huge a serpent keeps guard round and about it, deathless and sleepless, which Earth herself brought forth on the sides of Caucasus, by the rock of Typhaon."[^arg2-serpent-origin]
+
+### Taking the Fleece
+
+[Medea](../heroes/medea.md) sang the serpent to sleep and sprinkled its eyes with juniper and charms. The fleece on the tree "blushes red with the fiery beams of the rising sun."[^arg4-color] When [Jason](../heroes/jason.md) snatched it, the fleece gleamed brilliantly: "from the shimmering of the flocks of wool there settled on his fair cheeks and brow a red flush like a flame."[^arg4-glow] Its size and weight were remarkable: "great as is the hide of a yearling ox or stag, which huntsmen call a brocket, so great in extent was the fleece all golden above. Heavy it was, thickly clustered with flocks; and as he moved along, even beneath his feet the sheen rose up from the earth."[^arg4-size]
+
+### The Phrixus Backstory
+
+The sons of Phrixus reported that their father "came to the city of Aeetes, bestriding a ram, which [Hermes](../deities/hermes.md) had made all gold... The ram, at its own prompting, he then sacrificed to Zeus, son of [Cronos](../deities/cronos.md), above all, the god of fugitives."[^arg2-phrixus] At the bridal site where the Argo moored for the wedding, the fleece was spread on the couch: "thereon they laid the glittering fleece of gold, that so the marriage might be made honoured and the theme of song. And for them nymphs gathered flowers... and a splendour as of flame played round them all, such a light gleamed from the golden tufts."[^arg4-wedding]
+
+[^arg2-grove]: "a dragon, a monster terrible to behold, ever glares around, keeping watch over the fleece that is spread upon the top of an oak; neither by day nor by night does sweet sleep subdue his restless eyes" (Argonautica 2.1851-1853)
+[^arg2-serpent-origin]: "so huge a serpent keeps guard round and about it, deathless and sleepless, which Earth herself brought forth on the sides of Caucasus, by the rock of Typhaon" (Argonautica 2.2563-2565)
+[^arg4-color]: The fleece on the oak was "like to a cloud that blushes red with the fiery beams of the rising sun" (Argonautica 4.4011-4012)
+[^arg4-glow]: "from the shimmering of the flocks of wool there settled on his fair cheeks and brow a red flush like a flame" (Argonautica 4.4048-4049)
+[^arg4-size]: "great as is the hide of a yearling ox or stag, which huntsmen call a brocket, so great in extent was the fleece all golden above. Heavy it was, thickly clustered with flocks; and as he moved along, even beneath his feet the sheen rose up from the earth" (Argonautica 4.4049-4053)
+[^arg2-phrixus]: "Phrixus, who came to the city of Aeetes, bestriding a ram, which Hermes had made all gold... The ram, at its own prompting, he then sacrificed to Zeus, son of Cronos, above all, the god of fugitives" (Argonautica 2.2504-2507)
+[^arg4-wedding]: "thereon they laid the glittering fleece of gold, that so the marriage might be made honoured and the theme of song. And for them nymphs gathered flowers of varied hue and bore them thither in their white bosoms; and a splendour as of flame played round them all, such a light gleamed from the golden tufts" (Argonautica 4.4903-4907)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### Retrieval of the Fleece (7.100-158)
@@ -79,6 +101,7 @@ Pindar describes the fleece's guardian and location: "it lay in a thick wood and
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** II-IV: Hung on an oak in the grove of Ares; guardian serpent deathless and sleepless, born from Earth by the rock of Typhaon; Phrixus rode a ram "which Hermes had made all gold" and sacrificed it to Zeus; the fleece blazed with red-golden light; Medea sang the serpent to sleep; Jason snatched it; it was as large as a yearling ox's hide, heavy and golden; spread on the bridal couch at Phaeacia
 - **[Catalogue of Women](../sources/theogony.md)** (Fragment 38): The ram was immortal and had a golden fleece, given by Nephele; as Hesiod and Pherecydes say
 - **Aegimius** (Fragment 1): Phrixus received at Colchis because of the fleece; purified it and walked into Aeetes' halls
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.1: Ram with golden fleece from [Hermes](../deities/hermes.md); flight of Phrixus and Helle; Helle drowns (Hellespont); Phrixus sacrifices ram to "Zeus the god of Escape"; fleece given to Aeetes, nailed to oak in grove of [Ares](../deities/ares.md)

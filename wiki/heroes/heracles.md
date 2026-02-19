@@ -111,6 +111,31 @@ This is the first explicit reference to the Cerberus labour in any source proces
 
 [^il8-cerberus]: "Neither remembereth he at all those many times and oft that I saved his son fordone with Eurystheus' tasks. For he would make lament toward heaven, and me would Zeus speed forth from heaven to succour him. Had I but known all this in my prudent heart, what time Eurystheus sent him forth to the house of Hades the Warder of the Gate, to bring from Erebos the hound of loathed Hades, then had he not escaped the sheer stream of the water of Styx" (Iliad VIII.4757-4763, trans. Lang, Leaf, and Myers)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### The Erymanthian Boar and Departure
+
+Heracles arrived at the muster of Argonauts "carrying on his shoulders the Erymanthian boar"[^arg-herc-boar] — still in the midst of his Labours. In a rowing contest on the Propontis, Heracles snapped his oar from sheer strength and had to go ashore to cut a new one.
+
+### Loss of Hylas
+
+While searching for a suitable tree, his companion Hylas went to fetch water and was seized by a water nymph who fell in love with his beauty and pulled him beneath the surface. Heracles searched frantically through the forest, calling out for him. When dawn came the Argo sailed without him — the heroes were divided over whether they should wait or continue.[^arg-herc-hylas]
+
+The sea-god Glaucus appeared and explained Heracles' fate: he could not complete the voyage because his destiny was "to complete the tasks imposed by Eurystheus and to dwell with the immortals."[^arg-herc-fate] The heroes lamented his absence at several points during the subsequent voyage.
+
+### Remembered Deeds Along the Route
+
+Near Lycus's kingdom, Polydeuces was welcomed because Heracles had once visited Lycus's father Dascylus — he had defeated Titias the boxer, subdued the Mysians, Phrygians, and Bithynians, and won the girdle of [Hippolyte](../heroes/hippolyte.md).[^arg-herc-deeds]
+
+In Libya, Lynceus thought he glimpsed Heracles far off in the distance.[^arg-herc-libya] The heroes later found that Heracles had been in the garden of the Hesperides the previous day, where he had slain the serpent Ladon that guarded the apples and struck a rock with his foot to create a spring of water.[^arg-herc-hesperides]
+
+[^arg-herc-boar]: "Heracles, bearing on his back the Erymanthian boar bound in chains" (Argonautica 1.122-124, trans. R.C. Seaton)
+[^arg-herc-hylas]: Hylas went to draw water and a nymph, seizing him by the wrist as she gazed on his beauty, drew him down beneath the pool; Heracles searched in vain and was left behind when the Argo sailed at dawn (Argonautica 1.1207-1272, trans. R.C. Seaton)
+[^arg-herc-fate]: Glaucus: "For it is not the will of Zeus that Heracles should reach the land of Aeetes; his fate is to complete the tasks imposed by Eurystheus and to dwell with the immortals" (Argonautica 1.1315-1318, trans. R.C. Seaton)
+[^arg-herc-deeds]: Heracles had visited Dascylus, defeated Titias in boxing, subdued the Mysians, Phrygians, and Bithynians, and won the girdle of Hippolyte (Argonautica 2.774-795, trans. R.C. Seaton)
+[^arg-herc-libya]: Lynceus thought he glimpsed Heracles far off in Libya, "as one who sees, or seems to see, the moon through a cloud" (Argonautica 4.1477-1479, trans. R.C. Seaton)
+[^arg-herc-hesperides]: Heracles had slain the serpent Ladon guarding the apples in the garden of the Hesperides the day before; he had struck a rock with his foot to create a spring (Argonautica 4.1396-1432, trans. R.C. Seaton)
+
 ## In the Bibliotheca (1.6.1-1.6.2)
 
 ### The Gigantomachy
@@ -619,6 +644,12 @@ Pindar lists the first Olympic victors: "In the foot-race down the straight cour
 - **[Iliad](../sources/iliad.md)** XVIII: Achilles invokes him: "not even the mighty Herakles escaped death, albeit most dear to Kronian Zeus the king, but Fate overcame him and Hera's cruel wrath"
 - **[Iliad](../sources/iliad.md)** XIX: Agamemnon's Ate speech tells of his birth — Zeus swore that day's child of his lineage would rule; Hera delayed Alkmene and hastened Eurystheus's birth; Zeus groaned "when he beheld his beloved son in cruel travail at Eurystheus' hest"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.1-1.6.2: Central role in the [Gigantomachy](../creatures/giants.md) — summoned by [Zeus](../deities/zeus.md) via [Athena](../deities/athena.md) as the mortal needed to defeat the Giants; shot Alcyoneus, dragged him outside Pallene; shot Porphyrion dead with [Zeus](../deities/zeus.md)'s thunderbolt; shot Ephialtes in the right eye (Apollo in the left); finished all dying giants with arrows
+- **[Argonautica](../sources/argonautica.md)** 1.122-124: Arrives at Iolcus with the Erymanthian boar still in chains on his shoulders; listed as an Argonaut
+- **[Argonautica](../sources/argonautica.md)** 1.1207-1272: Snaps his oar in the rowing contest; goes ashore to find a new one; Hylas taken by a water nymph; searches frantically; Argo sails at dawn without him
+- **[Argonautica](../sources/argonautica.md)** 1.1315-1318: Glaucus appears and explains Heracles' fate — he must complete his labours and dwell with the immortals
+- **[Argonautica](../sources/argonautica.md)** 2.774-795: Recalled near Lycia — visited Dascylus, defeated Titias in boxing, subdued Mysians, Phrygians, and Bithynians, won girdle of Hippolyte
+- **[Argonautica](../sources/argonautica.md)** 4.1396-1432: In the garden of the Hesperides the day before the Argonauts arrived; slew the serpent Ladon; struck a rock to create a spring
+- **[Argonautica](../sources/argonautica.md)** 4.1477-1479: Lynceus glimpses him far off in Libya
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.16: Listed as an Argonaut — "Hercules, son of Zeus"[^apd-argonaut]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.19: Left behind at Mysia when Hylas was ravished by nymphs — "while the two were seeking for Hylas, the ship put to sea. So Polyphemus founded a city Cius in Mysia and reigned as king; but Hercules returned to Argos"[^apd-hylas]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Variant — "Hercules fought with Hades and brought her [Alcestis] up to him"[^apd-alcestis]

@@ -102,6 +102,19 @@ Apollo then chose his ministers by taking the form of a dolphin and leaping aboa
 [^hh3-pytho]: "the holy strength of Helios made her rot away there; wherefore the place is now called Pytho, and men call the lord Apollo by another name, Pythian; because on that spot the power of piercing Helios made the monster rot away" (Homeric Hymn III to Apollo 371-374)
 [^hh3-priests]: "I am the son of Zeus; Apollo is my name: but you I brought here over the wide gulf of the sea, meaning you no hurt; nay, here you shall keep my rich temple that is greatly honoured among men... in as much as at the first on the hazy sea I sprang upon the swift ship in the form of a dolphin, pray to me as Apollo Delphinius" (Homeric Hymn III to Apollo 480-496)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+Apollo appears three times in the Argonautica. In Book II, as the Argonauts rested on the island of Thynias before dawn, Apollo passed overhead on his way from Lycia to the Hyperboreans: "his golden locks streamed behind him as he hasten'd by." The island quaked at his coming; "none of the heroes dared to look face to face at the beautiful god; they stood with downcast eyes, and he went by... over the sea."[^arg-apo-thynias] At Orpheus's suggestion, the Argonauts built an altar on the spot and named the island the Sacred Isle of Apollo.
+
+Earlier in Book I, [Orpheus](../heroes/orpheus.md) sang of Apollo's slaying of the serpent Delphyne at Parnassus as part of his cosmogonic song.[^arg-apo-delphyne] And near the voyage's end, Apollo appeared again from the Melantian rocks in darkness, flashing his golden bow and illuminating the night — by this light the Argonauts discovered the island of Anaphe and made landfall.[^arg-apo-anaphe]
+
+Apollo's sons appear as Argonauts: Idmon (acknowledged by his father as a true son before the voyage), Aristaeus (born to Cyrene in Libya, raised by the Hours and Gaia), and Mopsus (who received the art of augury from Apollo).[^arg-apo-sons]
+
+[^arg-apo-thynias]: "they saw Apollo... going through the air above them... and the island all around quaked at his footsteps, and the sea was stirred up by his coming. Amazement seized on them as they looked; and no one dared to look full at the fair face of the god" (Argonautica 2.674-684, trans. R.C. Seaton)
+[^arg-apo-delphyne]: "how Apollo slew with his mighty bow the beast Delphyne, that huge and monstrous serpent, beneath the cliffs of Parnassus" (Argonautica 2.706-707, trans. R.C. Seaton)
+[^arg-apo-anaphe]: "Apollo... from the Melantian rocks shone forth, giving light to the dark night; and the gleam of his golden bow as he leaped forward lit up their way as he went past" (Argonautica 4.1706-1711, trans. R.C. Seaton)
+[^arg-apo-sons]: "Idmon... though he knew his doom, came for fear of the people's blame... Phoebus himself had told him that his father was Phoebus" (Argonautica 1.139-145, trans. R.C. Seaton); "Aristaeus, whom the Haemonians call the shepherd Apollo, whom Phoebus begat on Cyrene" (Argonautica 2.500-503); Mopsus received augury from Apollo (Argonautica 1.65)
+
 ## In the Iliad
 
 ### The Plague (Book I)
@@ -345,6 +358,7 @@ Pindar summarizes the consummation with a striking formula: "swift the act and s
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 1, 2, 4: Orpheus sang of his slaying of Delphyne at Parnassus; appeared at island of Thynias passing from Lycia to Hyperboreans — golden locks, island quaked, none could look at his face; appeared in darkness at the Melantian rocks, golden bow illuminating the night and revealing the isle of Anaphe; sons among the Argonauts — Idmon (acknowledged before the voyage), Aristaeus (by Cyrene), and Mopsus (given augury)
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.438-567: Slays Python; institutes Pythian Games; pursues Daphne; claims laurel as sacred tree
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.679-684: Shepherd disguise — "his shoulders covered with a shepherd's skin... his right hand busied with the seven reeds"
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.532-632: Coronis and the raven — raven once white; reports Coronis's infidelity; Apollo drops his plectrum, shoots Coronis; rescues unborn Asclepius from the pyre; punishes raven by turning it black

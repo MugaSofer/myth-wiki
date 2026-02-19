@@ -17,6 +17,24 @@ Phrixus, borne through the sky on a ram with a golden fleece given by [Hermes](.
 
 The fleece remained there, "at Colchis in a grove of Ares, hanging on an oak and guarded by a sleepless dragon."[^apoll-fleece]
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### The Palace of Aeetes
+
+The Argonautica describes Aeetes' palace in detail. It had brazen triglyphs in its construction and four fountains within: one flowing with milk, one with wine, one with fragrant oil, and one with water (hot in winter, cold in summer). These were the work of [Hephaestus](../deities/hephaestus.md).[^arg-col-palace] There were inner courts, extensive gardens, and storerooms.
+
+### The Sacred Grove of Ares
+
+The fleece hung in a sacred grove of [Ares](../deities/ares.md), where "an oak tree of enormous size" spread its branches. The serpent that guarded it never slept.[^arg-col-grove]
+
+### Burial Customs
+
+The Argonautica records a distinctive Colchian custom: "It is not lawful for them to bury in the earth, nor even to burn, the bodies of men" — only women were buried in earth. Men's bodies were wrapped in oxhides and hung from trees in the fields outside the city.[^arg-col-burial]
+
+[^arg-col-palace]: Aeetes' palace had brazen triglyphs and four fountains — of milk, wine, oil, and water — the work of Hephaestus (Argonautica 3.215-234, trans. R.C. Seaton)
+[^arg-col-grove]: The fleece hung on a great oak in the sacred grove of Ares, guarded by a sleepless serpent (Argonautica 2.401-407, trans. R.C. Seaton)
+[^arg-col-burial]: "It is not lawful for them to bury in the earth, nor even to burn, the bodies of men... but wrapped in oxhides to hang them on trees" (Argonautica 3.200-209, trans. R.C. Seaton)
+
 ## The Argonauts at Colchis
 
 "Having sailed past the Thermodon and the Caucasus they came to the river Phasis, which is in the Colchian land."[^apoll-arrival] Jason set forth the charge laid on him by Pelias and asked Aeetes for the fleece. Aeetes promised to give it if Jason would single-handedly yoke the brazen-footed bulls -- "two wild bulls that he had, of enormous size, a gift of [Hephaestus](../deities/hephaestus.md); they had brazen feet and puffed fire from their mouths" -- and sow dragon's teeth.[^apoll-bulls]
@@ -52,6 +70,8 @@ The [Theogony](../sources/theogony.md) establishes the lineage: "Perseis, the da
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 2.401-407: Sacred grove of Ares described; fleece on great oak guarded by sleepless serpent
+- **[Argonautica](../sources/argonautica.md)** 3.200-234: Palace of Aeetes — brazen triglyphs; four fountains (milk, wine, oil, water — Hephaestus's work); inner courts; burial customs — men wrapped in oxhides and hung from trees, women buried in earth
 - **[Theogony](../sources/theogony.md)** 956-962: Aeetes named as king, son of Helius; Medea born to him and Idyia
 - **[Apollodorus](../sources/apollodorus.md)** 1.9.1: Phrixus arrives; fleece nailed to oak in grove of Ares
 - **[Apollodorus](../sources/apollodorus.md)** 1.9.16: Fleece at Colchis guarded by sleepless dragon

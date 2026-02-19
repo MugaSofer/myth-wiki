@@ -29,6 +29,25 @@ The Sirens claim to know all things. In their song they declare: "For lo, we kno
 
 [^od-omniscience]: "For lo, we know all things, all the travail that in wide Troy-land the Argives and Trojans bare by the gods' designs, yea, and we know all that shall hereafter be upon the fruitful earth" (Odyssey XII.6710-6712, trans. Butcher and Lang)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### Parentage and Origin
+
+The Argonautica gives a different parentage from the [Bibliotheca](../sources/apollodorus.md): here the Sirens are daughters of Achelous and **Terpsichore** (one of the Muses), rather than Melpomene.[^arg-sir-parents] They had once tended [Persephone](../deities/persephone.md) "still unwed, and sang to her in chorus" before she was carried off.[^arg-sir-persephone]
+
+### Appearance
+
+The Argonautica gives a rare physical description: they were "fashioned in part like birds and in part like maidens to behold."[^arg-sir-form]
+
+### Encounter with the Argo
+
+When the Argo passed the Sirens' island, Orpheus's lyre overcame their voices and the heroes rowed past safely. Only Butes was overcome — he "alone leaped from his polished bench and swam through the grey sea, eagerly, alas!" toward the Sirens. He was rescued by [Aphrodite](../deities/aphrodite.md), who carried him away.[^arg-sir-butes]
+
+[^arg-sir-parents]: The Sirens are daughters of Achelous and Terpsichore in the Argonautica (Argonautica 4.893-896, trans. R.C. Seaton)
+[^arg-sir-persephone]: The Sirens "were handmaids of Demeter's daughter, still unwed, and sang to her in chorus" (Argonautica 4.896-898, trans. R.C. Seaton)
+[^arg-sir-form]: "fashioned in part like birds and in part like maidens to behold" (Argonautica 4.899-900, trans. R.C. Seaton)
+[^arg-sir-butes]: "But Butes alone... leaped from his polished bench and swam through the grey sea, eagerly, alas! toward them; but Cypris, pitying him, caught him up as he was whirling in the surge" (Argonautica 4.912-918, trans. R.C. Seaton)
+
 ## In the Odyssey
 
 ### Circe's Warning
@@ -92,6 +111,7 @@ This presents them as originally companions of [Persephone](../deities/persephon
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 4.893-918: Daughters of Achelous and Terpsichore; once tended Persephone "still unwed, and sang to her in chorus"; "fashioned in part like birds and in part like maidens"; Orpheus's lyre overcame their voices; Butes alone leaped overboard — rescued by Aphrodite
 - **Catalogue of Women** Fragment 47: Island named Anthemoessa ("Flowery"); individual names (Thelxiope/Thelxinoe, Molpe, Aglaophonus); "charmed even the winds"
 - **[Odyssey](../sources/odyssey.md)** XII: [Circe](../deities/circe.md)'s warning about the Sirens and their meadow of bones; instructions for safe passage (wax and the mast); the Sirens' song to Odysseus, appealing to his fame and claiming omniscience; Odysseus hears them bound to the mast and passes safely
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.4: Parentage — daughters of Melpomene and Achelous

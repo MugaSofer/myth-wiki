@@ -63,8 +63,18 @@ In [Iliad](../sources/iliad.md) Book XI, [Zeus](zeus.md) sends "Iris of the gold
 
 [^il11-hector]: "Then sent he forth Iris of the golden wings, to bear his word: 'Up and go, swift Iris, and tell this word unto Hector'... So spake he, and wind-footed swift Iris disobeyed him not, but she went down from the hills of Ida to sacred Ilios" (Iliad XI.6332-6343, trans. Lang, Leaf, and Myers)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+Iris has two distinct roles in the Argonautica. In Book II she acts as an independent divine agent, stopping the sons of Boreas from killing the Harpies. As the two winged heroes closed in for the kill at the Floating Islands, Iris intercepted them: "she cut through the air like a breath of wind and said to them with threatening words: 'Ye sons of Boreas, it is not lawful to smite the Harpies with your swords, the hounds of great Zeus; but I myself will take oath that they shall never again come near Phineus.'"[^arg-iris-harpies] She swore by the river Styx and the Harpies fled to a cave in Crete, safe from Zetes and Calais.
+
+Later in Book IV she acts as [Hera](hera.md)'s messenger, carrying the goddess's orders to [Thetis](thetis.md), [Hephaestus](hephaestus.md), and [Aeolus](../deities/aeolus.md) to secure the Argo's safe return past the Wandering Rocks.[^arg-iris-messenger]
+
+[^arg-iris-harpies]: "she cut through the air like a breath of wind and cried to them with threatening words: 'Ye sons of Boreas, it is not lawful to smite the Harpies with your swords, the hounds of great Zeus; but I myself will take oath that they shall never again come near Phineus'" (Argonautica 2.288-294, trans. R.C. Seaton)
+[^arg-iris-messenger]: "Then Hera, with a view to the return of the Minyan chieftains, called Iris apart... and bade her go summon Thetis from the sea and to call Hephaestus to stay the streams of fire and to tell Aeolus to stop all the blowing winds" (Argonautica 4.783-790, trans. R.C. Seaton)
+
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 2, 4: Stopped the sons of Boreas from killing the Harpies at the Floating Islands; swore by the Styx they would never approach Phineus again; later summoned Thetis, Hephaestus, and Aeolus at Hera's bidding to give the Argo safe passage
 - **[Theogony](../sources/theogony.md)** 266, 780-785: Birth; messenger of Zeus carrying the oath of Styx
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)** 314-323: Sent by Zeus to call Demeter back to Olympus
 - **[Iliad](../sources/iliad.md)** II: Messenger to the Trojans disguised as Polites; "wind-footed"

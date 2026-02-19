@@ -2,6 +2,12 @@
 
 King of Athens, son of Aegeus (or **[Poseidon](../deities/poseidon.md)**) and Aethra. Theseus is the great Athenian hero — slayer of bandits, the **Minotaur**, and the leader of Athens.
 
+## In the [Argonautica](../sources/argonautica.md)
+
+Theseus was absent from the Argonaut voyage. The Argonautica explains his absence: "he was held in bonds beneath the earth at Taenarus with Peirithous."[^arg-theseus-absent] Jason cited Theseus's story as a precedent when appealing to Medea — invoking how [Ariadne](ariadne.md) had helped Theseus escape the Labyrinth as an example of a woman aiding a hero at great personal cost.
+
+[^arg-theseus-absent]: "he was held in bonds beneath the earth at Taenarus with Peirithous" (Argonautica 1.101-104, trans. R.C. Seaton)
+
 ## In the Bibliotheca (3.15.7-3.16.2, E.1.1-E.1.24)
 
 ### Birth and the Tokens
@@ -164,6 +170,7 @@ The Athenians celebrated Theseus with a song cataloguing his labours: "Did you n
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 1.101-104: Absent from the voyage — "held in bonds beneath the earth at Taenarus with Peirithous"; invoked by Jason as a precedent when appealing to Medea
 - **[Bibliotheca](../sources/apollodorus.md)** 3.15.7: Aegeus and Poseidon both lay with Aethra; dual paternity
 - **[Bibliotheca](../sources/apollodorus.md)** 3.16.1-3.16.2: Lifted rock, took sword and sandals; six labours clearing the road to Athens
 - **[Bibliotheca](../sources/apollodorus.md)** E.1.1-E.1.10: Medea's plot; Marathonian bull; Minotaur slain with fists; Ariadne's thread; Dionysus carried off Ariadne; Aegeus's death

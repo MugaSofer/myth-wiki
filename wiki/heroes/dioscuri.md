@@ -72,6 +72,24 @@ Before the Trojan War, when [Theseus](theseus.md) had abducted the young [Helen]
 [^cypria-oak]: "soon the glorious hero with his dread eyes saw horse-taming Castor and athlete Polydeuces both hidden within a hollow oak" (Cypria, Fragment 12); "Castor was killed with a spear shot by Idas the son of Aphareus" (Cypria, Fragment per Philodemus)
 [^cypria-rescue]: "Castor was wounded in the right thigh by Aphidnus... the Dioscuri, failing to find Theseus, sacked Athens" (Cypria, Fragment 11)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### Polydeuces vs. Amycus
+
+At the land of the Bebrycians, king Amycus demanded that whoever came to his shores box with him — a custom by which he killed all visitors. He is compared to the giant [Typhoeus](../creatures/typhoeus.md) in size and ferocity. Polydeuces accepted the challenge. He is described as radiant in contrast: "the bloom of the first down still on his cheeks," likened to a star.[^arg-dioscuri-amycus] The fight was brutal; Polydeuces was the more skilled and eventually killed Amycus with a blow to the temple. Castor aided in dispersing the Bebrycians who attacked after their king fell.[^arg-dioscuri-castor]
+
+The heroes celebrated Polydeuces with his epithet: "Therapnaean son of [Zeus](../deities/zeus.md)."[^arg-dioscuri-epithet]
+
+### The Dodonian Oak and the Bull Trial
+
+The Dodonian beam (a plank from the speaking oak of Zeus set in the Argo's keel) directed the heroes to pray for a safe path to [Circe](../deities/circe.md).[^arg-dioscuri-oak] During Jason's trial with the brazen bulls at Colchis, Castor and Polydeuces helped steady the yoke.[^arg-dioscuri-yoke]
+
+[^arg-dioscuri-amycus]: Amycus compared to Typhoeus; Polydeuces described as "a star" with "the bloom of the first down still on his cheeks" (Argonautica 2.1-98, trans. R.C. Seaton)
+[^arg-dioscuri-castor]: Castor and the other Argonauts routed the Bebrycians after Polydeuces killed Amycus (Argonautica 2.98-103, trans. R.C. Seaton)
+[^arg-dioscuri-epithet]: Polydeuces celebrated as "Therapnaean son of Zeus" (Argonautica 2.159, trans. R.C. Seaton)
+[^arg-dioscuri-oak]: The Dodonian beam spoke during a storm and directed the heroes to pray for passage to Circe (Argonautica 4.580-583, trans. R.C. Seaton)
+[^arg-dioscuri-yoke]: Castor and Polydeuces helped with the yoke during Jason's bull trial (Argonautica 3.1246-1248, trans. R.C. Seaton)
+
 ## In the [Bibliotheca](../sources/apollodorus.md)
 
 ### Parentage (3.10.7)
@@ -195,6 +213,9 @@ Pindar says Polydeuces killed Lynkeus with a spear and Zeus struck Idas with a t
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 2.1-103: Polydeuces fights and kills Amycus of the Bebrycians in boxing; likened to a star "with the bloom of the first down still on his cheeks"; Amycus compared to Typhoeus; Castor routs the Bebrycians; Polydeuces hailed as "Therapnaean son of Zeus"
+- **[Argonautica](../sources/argonautica.md)** 3.1246-1248: Castor and Polydeuces help Jason with the yoke during the bull trial
+- **[Argonautica](../sources/argonautica.md)** 4.580-583: The Dodonian beam directs the heroes to pray for a path to Circe
 - **[Iliad](../sources/iliad.md)** III: Helen looks for "Kastor tamer of horses and Polydeukes the skilful boxer" among the Greek army; they are already dead in Lacedaemon
 - **[Odyssey](../sources/odyssey.md)** XI: Leda bore "Castor tamer of steeds, and Polydeuces the boxer"; they live and die on alternate days with honour from Zeus
 - **Catalogue of Women** Fragments 66, 68: Both made sons of Zeus by Hesiod; present at Helen's suitors' gathering

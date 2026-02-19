@@ -12,6 +12,73 @@
 
 **Jason** is the son of Aeson and Polymede, a hero who led the Argonauts to Colchis to retrieve the Golden Fleece. His story is told at length in the [Bibliotheca](../sources/apollodorus.md) (1.9.16-1.9.28).
 
+## In the [Argonautica](../sources/argonautica.md)
+
+### Background and the Quest
+
+In Apollonius's telling, Pelias received an oracle "to beware of the man with a single sandal" and Jason "in crossing the river Anaurus" lost a sandal in the flood.[^arg1-sandal] He is the son of Aeson, who is grandson of Cretheus, making him kin to the sons of Phrixus through the brotherhood of Cretheus and Athamas.[^arg2-kin]
+
+[^arg1-sandal]: The poem opens with Pelias's oracle about one sandal and Jason crossing the Anaurus (Argonautica 1.226-233, trans. R.C. Seaton)
+[^arg2-kin]: "Cretheus and Athamas were brothers. I am the grandson of Cretheus" (Argonautica 2.2522-2523)
+
+### Appearance
+
+Jason was repeatedly compared to the gods in beauty. At departure, he shone "like [Apollo](../deities/apollo.md)" and his comrades wondered at him "radiant with manifold graces."[^arg3-beauty] When [Hera](../deities/hera.md) enhanced his appearance before the meeting with [Medea](medea.md), "Never yet had there been such a man in the days of old, neither of all the heroes of the lineage of Zeus himself... as on that day the bride of Zeus made Jason, both to look upon and to hold converse with."[^arg3-hera-beauty] Medea saw him approaching "like Sirius coming from ocean, which rises fair and clear to see, but brings unspeakable mischief to flocks."[^arg3-sirius]
+
+[^arg3-beauty]: "Even his comrades wondered as they gazed upon him, radiant with manifold graces" (Argonautica 3.3478)
+[^arg3-hera-beauty]: "Never yet had there been such a man in the days of old, neither of all the heroes of the lineage of Zeus himself, nor of those who sprung from the blood of the other gods, as on that day the bride of Zeus made Jason, both to look upon and to hold converse with" (Argonautica 3.3474-3477)
+[^arg3-sirius]: "like Sirius coming from ocean, which rises fair and clear to see, but brings unspeakable mischief to flocks; thus then did Aeson's son come to her, fair to see, but the sight of him brought love-sick care" (Argonautica 3.3509-3511)
+
+### Leadership and Character
+
+Apollonius portrays Jason not as a conventional warrior-hero but as a leader burdened by constant anxiety. After passing the Symplegades, Jason confessed: "I have erred and am distraught in wretched and helpless ruin... ever when day is done I pass a night of groans from the time when ye first gathered together for my sake, while I take thought for all things."[^arg2-despair] When his comrades shouted encouragement, "his heart was warmed within him at their cry" and his courage returned.[^arg2-rallied]
+
+After the deaths of Idmon and Tiphys, Jason was again despairing: "where are these steersmen of thine?... I forebode an evil doom for us even as for the dead."[^arg2-gloom] Yet he always recovered when urged by his companions. He emphasised persuasion over force, preferring to approach Aeetes with words: "Oftentimes, I ween, does speech accomplish at need what prowess could hardly carry through."[^arg3-speech]
+
+[^arg2-despair]: "I have erred and am distraught in wretched and helpless ruin... ever when day is done I pass a night of groans from the time when ye first gathered together for my sake, while I take thought for all things" (Argonautica 2.2047-2058)
+[^arg2-rallied]: "his heart was warmed within him at their cry and again he spake outright among them" (Argonautica 2.2062-2063)
+[^arg2-gloom]: "where are these steersmen of thine? For those whom we once deemed to be men of skill, they even more than I are bowed with vexation of heart" (Argonautica 2.2281-2283)
+[^arg3-speech]: "Oftentimes, I ween, does speech accomplish at need what prowess could hardly carry through, smoothing the path in manner befitting" (Argonautica 3.2816-2817)
+
+### Hera's Patronage
+
+[Hera](../deities/hera.md) explained her devotion to Jason: "at the mouth of Anaurus in flood, as I was making trial of men's righteousness, he met me on his return from the chase... And he took pity on me in the likeness of an old crone, and raising me on his shoulders himself bore me through the headlong tide."[^arg3-hera] She actively intervened throughout: conspiring with [Athena](../deities/athena.md) and [Aphrodite](../deities/aphrodite.md) to send [Eros](../deities/eros.md) against Medea, spreading mist to conceal the heroes, enhancing Jason's beauty, and directing the return voyage.
+
+[^arg3-hera]: "at the mouth of Anaurus in flood, as I was making trial of men's righteousness, he met me on his return from the chase... And he took pity on me in the likeness of an old crone, and raising me on his shoulders himself bore me through the headlong tide" (Argonautica 3.2706-2712)
+
+### At Colchis
+
+When Aeetes set his challenge, Jason "fixing his eyes on the ground, sat just as he was, speechless, helpless in his evil plight" and could not take on the task with courage.[^arg3-helpless] He accepted nonetheless: "fate and the ruthless command of a presumptuous king urged me."[^arg3-accept] Medea gave him the charm of Prometheus — a plant sprung from the ichor of Prometheus's wound — and instructions for a midnight sacrifice to [Hecate](../deities/hecate.md).
+
+Jason performed the rite: he "bathed his tender body reverently in the sacred river" and called on Hecate Brimo, who came "from the uttermost depths" with serpents, torches, and "the hounds of hell."[^arg3-hecate] The charm made him invulnerable — his comrades' weapons could not bend his spear, and Idas's sword "leapt back repelled by the shock, like a hammer from the anvil."[^arg3-invulnerable]
+
+He yoked the fire-breathing bronze-footed bulls, ploughed four plough-gates, sowed the dragon's teeth, and threw a massive stone among the rising warriors so they fought each other. He then mowed down the survivors "as a fiery star leaps from heaven, trailing a furrow of light."[^arg3-trial]
+
+[^arg3-helpless]: "Jason, fixing his eyes on the ground, sat just as he was, speechless, helpless in his evil plight. For a long time he turned the matter this way and that, and could in no way take on him the task with courage" (Argonautica 3.3025-3028)
+[^arg3-accept]: "fate and the ruthless command of a presumptuous king urged me" (Argonautica 3.3034)
+[^arg3-hecate]: "she heard him, the dread goddess, from the uttermost depths and came to the sacrifice of Aeson's son; and round her horrible serpents twined themselves among the oak boughs; and there was a gleam of countless torches; and sharply howled around her the hounds of hell" (Argonautica 3.3725-3730)
+[^arg3-invulnerable]: "the edge leapt back repelled by the shock, like a hammer from the anvil; and the heroes shouted with joy for their hope in the contest" (Argonautica 3.3759-3760)
+[^arg3-trial]: "even as a fiery star leaps from heaven, trailing a furrow of light, a portent to men... in such wise did Aeson's son rush upon the earthborn men" (Argonautica 3.3863-3866)
+
+### Winning the Fleece
+
+Medea sang the guardian serpent to sleep and sprinkled its eyes with a juniper charm. "Hereupon Jason snatched the golden fleece from the oak, at the maiden bidding."[^arg4-snatch] The fleece was immense: "great as is the hide of a yearling ox... all golden above. Heavy it was, thickly clustered with flocks; and as he moved along, even beneath his feet the sheen rose up from the earth."[^arg4-fleece-desc]
+
+[^arg4-snatch]: "Hereupon Jason snatched the golden fleece from the oak, at the maiden bidding" (Argonautica 4.4041)
+[^arg4-fleece-desc]: "great as is the hide of a yearling ox or stag... so great in extent was the fleece all golden above. Heavy it was, thickly clustered with flocks; and as he moved along, even beneath his feet the sheen rose up from the earth" (Argonautica 4.4049-4053)
+
+### The Murder of Apsyrtus
+
+Jason swore to Medea: "Let Zeus of Olympus himself be witness to my oath, and Hera, queen of marriage, bride of Zeus, that I will set thee in my halls my own wedded wife."[^arg4-oath] When trapped by the Colchian fleet, Medea proposed luring Apsyrtus. Jason ambushed him at a temple of [Artemis](../deities/artemis.md) and "struck him down, as a butcher strikes down a mighty strong-horned bull."[^arg4-murder] He then performed a ritual of purification: "thrice licked up some blood and thrice spat the pollution from his teeth, as it is right for the slayer to do, to atone for a treacherous murder."[^arg4-rite]
+
+[^arg4-oath]: "Let Zeus of Olympus himself be witness to my oath, and Hera, queen of marriage, bride of Zeus, that I will set thee in my halls my own wedded wife, when we have reached the land of Hellas on our return" (Argonautica 4.3984-3987)
+[^arg4-murder]: "Jason marked him and struck him down, as a butcher strikes down a mighty strong-horned bull, hard by the temple which the Brygi on the mainland opposite had once built for Artemis" (Argonautica 4.4312-4315)
+[^arg4-rite]: "thrice licked up some blood and thrice spat the pollution from his teeth, as it is right for the slayer to do, to atone for a treacherous murder" (Argonautica 4.4321-4323)
+
+### The Return
+
+[Zeus](../deities/zeus.md) ordained purification, and the Argo's Dodonian beam spoke, directing them to [Circe](../deities/circe.md). They sailed through the Eridanus, the Rhodanus, past the Stoechades, to Aeaea. Circe purified them but condemned their deed. They passed the [Sirens](../creatures/sirens.md) (Orpheus sang over them), the Wandering Rocks ([Thetis](../deities/thetis.md) and the Nereids guided the ship through), and reached Phaeacia. King Alcinous judged that if Medea was still a maid she must return to her father, but if married, she stayed with Jason. Arete warned Jason through a herald; they married that night in the sacred cave of Macris. At Crete, Medea bewitched and destroyed the bronze giant Talos. After darkness at sea, [Apollo](../deities/apollo.md) appeared and revealed the isle of Anaphe. They returned home to Pagasae.
+
 ## In the Bibliotheca
 
 ### The Oracle and the Single Sandal
@@ -184,6 +251,7 @@ Pindar calls Medea "the murderess of Pelias" in a brief epithet summing up her l
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** I-IV: Central protagonist; son of Aeson, grandson of Cretheus; compared to Apollo in beauty; carried Hera across the Anaurus; led the Argonauts; despaired repeatedly but always rallied; yoked fire-breathing bulls with Medea's charm of Prometheus; sowed dragon's teeth and slew earthborn men; snatched the Golden Fleece; swore marriage oath to Medea; murdered Apsyrtus by ambush; purified by Circe; married Medea at Phaeacia
 - **Catalogue of Women** Fragment 13: Son of Aeson; raised by [Chiron](../creatures/chiron.md) on Pelion
 - **[Odyssey](../sources/odyssey.md)** XII: The Argo "that is in all men's minds" — [Hera](../deities/hera.md) sent her past the Wandering Rocks "for love of Jason"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.2: Listed among the hunters of the Calydonian Boar — "Jason, son of Aeson, from Iolcus"

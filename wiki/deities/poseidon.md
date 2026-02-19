@@ -203,6 +203,18 @@ See [Athena](athena.md) §164. Poseidon contested with Athena for patronage of A
 
 [^hyg-164-ref]: (Fabulae §164, trans. Mary Grant)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+Poseidon is not a direct participant in the Argonautic expedition but is named as father of several Argonauts and significant figures. **Amycus**, the brutish king of the Bebrycians who was killed by Pollux in a boxing match, was Poseidon's son by the Bithynian nymph Melie.[^arg-pos-amycus] **Euphemus**, the Argonaut who could run across the surface of the sea without wetting his feet, was also Poseidon's son.[^arg-pos-euphemus] **Periclymenus** of Pylos, who had the gift of shapeshifting, received that power from Poseidon.[^arg-pos-periclymenus] **Ancaeus** of Samos, one of the Argonauts who served as helmsman after Tiphys died, was Poseidon's son by Astypalaea.[^arg-pos-ancaeus]
+
+Poseidon is also named as father of **Triton**, the sea-god who appeared in Lake Tritonis and guided the Argo back to the sea on the Libyan plain, taking the form of a young man and giving the Argonauts a clod of earth as an omen of their descendants settling Cyrene.[^arg-pos-triton]
+
+[^arg-pos-amycus]: "son of Poseidon, and Bithynian Melie bore him" (Argonautica 2.4-5, trans. R.C. Seaton)
+[^arg-pos-euphemus]: "Euphemus, the swiftest of men, whom Europa, daughter of the mighty Tityos, bare to Poseidon. He could skim the swell of the grey sea, wetting not his swift feet" (Argonautica 1.179-182, trans. R.C. Seaton)
+[^arg-pos-periclymenus]: "Periclymenus, son of Neleus... Poseidon gave him boundless strength and the boon of prayer, that he might be transformed in battle to whatever shape he should desire" (Argonautica 1.156-160, trans. R.C. Seaton)
+[^arg-pos-ancaeus]: "Ancaeus who dwelt in Samos... Astypalaea bare him to Poseidon" (Argonautica 1.187-188, trans. R.C. Seaton)
+[^arg-pos-triton]: "Triton, son of sea-ruling Poseidon and Amphitrite" (Argonautica 4.1602-1603, trans. R.C. Seaton)
+
 ## In the Bibliotheca (1.4.3-1.4.5, 1.6.2)
 
 ### Orion (1.4.3-1.4.4)
@@ -274,6 +286,7 @@ In Book XI, [Apollo](apollo.md) and Poseidon "assumed a mortal form: and those t
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 1-4: Father of Amycus (by Bithynian Melie), Euphemus (who could run on water), Periclymenus (shapeshifting), and Ancaeus (by Astypalaea); father of Triton, who guided the Argo from Lake Tritonis
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.274-312: Aids Zeus in the flood — "Neptune with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare"; commands rivers to overflow; afterwards "laid his trident down and pacified the waves" and called Triton to sound retreat
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.798-837: With Apollo, built the walls of Troy in mortal form for wages; Laomedon refused payment; Neptune drove waves upon the shores; sent a sea-monster requiring Hesione; Hercules saved her but Laomedon defaulted again; Hercules captured Troy
 - **[Odyssey](../sources/odyssey.md)** XIII: Complains to Zeus about the Phaeacians; turns their returning ship to stone ("smote her into a stone, and rooted her far below"); Alcinous recognises ancient oracle; twelve bulls sacrificed to appease him

@@ -185,6 +185,32 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 [^il8-stopped]: "queen Hera had indignation, and stirred her upon her throne and made high Olympus quake" (Iliad VIII.4605-4606)
 [^il8-yield]: "Well know we, even we, that thy might is no wise puny; yet still have we pity for the Danaan spearmen, that now shall perish and fill up the measure of grievous fate. Yet will we refrain from battle, if thou biddest us" (Iliad VIII.4851-4856)
 
+## In the [Argonautica](../sources/argonautica.md)
+
+Hera is the dominant divine patron of the Argonautic expedition, orchestrating it from behind the scenes to ensure Jason delivers Medea as a curse upon [Pelias](../heroes/pelias.md), who had dishonoured her altar.
+
+### The Motivation
+
+[Apollonius](../sources/argonautica.md) explains Hera's investment directly: Jason had once carried her disguised as an old crone across the flooded river Anaurus, and she had loved him ever since. She drove Pelias to send him on the quest as part of her larger plan to ruin the king through Medea.[^arg-hera-jason]
+
+### Conspiring with Athena and Aphrodite
+
+In Book III, Hera and [Athena](athena.md) confer on how to aid Jason at Colchis and resolve to approach [Aphrodite](aphrodite.md) — only she can send [Eros](eros.md) to make [Medea](../heroes/medea.md) fall in love with Jason. When they arrive at Aphrodite's home, they find her combing her hair; she is flustered to receive them unattended. Hera states her purpose plainly: they need Eros to shoot Medea with his arrow so that she will help Jason win the fleece.[^arg-hera-conspire]
+
+### Concealing the Heroes
+
+As the Argo approaches Colchis, Hera spread mist across the sea to conceal the ship and crew from the Colchians until Jason could make his appeal to Aeetes.[^arg-hera-mist]
+
+### Managing the Return
+
+On the homeward voyage Hera arranged safe passage at every stage. She sent [Iris](iris.md) to summon [Thetis](thetis.md) from the sea, with instructions to ask [Hephaestus](hephaestus.md) to still his fires while the Argo passed and [Aeolus](../deities/aeolus.md) to lock up the winds. Thetis and the Nereids then guided the ship bodily through the Wandering Rocks.[^arg-hera-return] When the Argonauts reached Phaeacia, Hera devised the marriage of Jason and Medea there so that the Phaeacians could not be compelled to return her to Aeetes. She also sent nymphs to attend the wedding.[^arg-hera-wedding]
+
+[^arg-hera-jason]: "Her [Hera] it was who had put this into the mind of Jason... For when once Hera had decided to send Medea as a curse upon Pelias, who had cut her down on the very altars, she bound Jason with love for Medea" (Argonautica 3.61-75, trans. R.C. Seaton)
+[^arg-hera-conspire]: "the two goddesses went their way to the dwelling of Cypris... and found her in the hall, sitting upon a polished chair, and before her Eros was arranging her tresses" (Argonautica 3.36-52, trans. R.C. Seaton)
+[^arg-hera-mist]: "Hera, for Jason's sake, spread a thick mist over Pontus, so that they might land on Cytaean Colchis before they were seen" (Argonautica 3.210-214, trans. R.C. Seaton)
+[^arg-hera-return]: "Then Hera, with a view to the return of the Minyan chieftains, called Iris apart from the other gods... to go summon Thetis from the sea and to call Hephaestus to stay the streams of fire and to tell Aeolus, son of Hippotas, to stop all the blowing winds" (Argonautica 4.783-796, trans. R.C. Seaton)
+[^arg-hera-wedding]: "But Hera... planned that the Argonauts should have a speedy voyage and that Medea should come to the home of Pelias to be a curse to that man" (Argonautica 4.1635-1637, trans. R.C. Seaton)
+
 ## In the Bibliotheca (Book 2)
 
 ### Persecution of Io
@@ -299,6 +325,7 @@ Jupiter agrees, smiling: "Jove's own sister thou art, and second seed of Saturn,
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** 1-4: Divine patron of the expedition; motivated by Jason carrying her across the Anaurus; conspired with Athena and Aphrodite to deploy Eros against Medea; spread mist over the Argo at Colchis; summoned Thetis via Iris; arranged Hephaestus and Aeolus to give safe passage; devised the Phaeacian marriage; sent nymphs to attend the wedding
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.601-746: Detects Zeus's affair with Io; claims heifer; sets Argus to guard; decorates peacock with Argus's eyes; drives Io with a Fury
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.532-535: Peacock chariot — travels through the air with peacocks many-hued
 - **[Metamorphoses](../sources/metamorphoses.md)** 5.330: Fled Typhoeus to Egypt; took the form of a snow-white cow — "High in her graceful chariot through the air... with her peacocks many-hued"

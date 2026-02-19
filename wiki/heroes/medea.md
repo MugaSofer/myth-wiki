@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Also known as** | A witch |
-| **Parents** | Aeetes (son of [Helius](../deities/helius.md)) and Idyia (daughter of [Oceanus](../deities/oceanus.md)) |
+| **Parents** | Aeetes (son of [Helius](../deities/helius.md)) and Eidyia (daughter of [Oceanus](../deities/oceanus.md) and [Tethys](../deities/tethys.md)) |
 | **Consort(s)** | [Jason](jason.md); later Aegeus (king of Athens) |
 | **Children** | Mermerus and Pheres (by Jason); Medus (by Aegeus) |
 | **Known for** | Sorcery, aiding Jason, fratricide, infanticide |
@@ -12,6 +12,81 @@
 ## Overview
 
 **Medea** is a sorceress, daughter of Aeetes (king of Colchis, son of [Helius](../deities/helius.md)) and Idyia (daughter of [Oceanus](../deities/oceanus.md)). Her story in the [Bibliotheca](../sources/apollodorus.md) spans from her love for [Jason](jason.md) in Colchis to her return to her father's kingdom.
+
+## In the [Argonautica](../sources/argonautica.md)
+
+### Background
+
+Apollonius gives the fullest account of Medea's family. She was the daughter of Aeetes (son of [Helius](../deities/helius.md)) and Eidyia, "the youngest daughter of [Tethys](../deities/tethys.md) and [Oceanus](../deities/oceanus.md)."[^arg3-parents] Her sister was Chalciope (married to Phrixus), and her half-brother was Apsyrtus (also called Phaethon), whose mother was Asterodeia, a Caucasian nymph.[^arg3-apsyrtus] She was priestess of [Hecate](../deities/hecate.md), and "all day long was busied in Hecate's temple."[^arg3-priestess]
+
+[^arg3-parents]: Eidyia described as "the youngest daughter of Tethys and Oceanus" (Argonautica 3.2863)
+[^arg3-apsyrtus]: "Apsyrtus, son of Aeetes, whom a Caucasian nymph, Asterodeia, bare before he made Eidyia his wedded wife" (Argonautica 3.2861-2862)
+[^arg3-priestess]: "all day long was busied in Hecate's temple, since she herself was the priestess of the goddess" (Argonautica 3.2869-2870)
+
+### Eros's Arrow and the Birth of Love
+
+[Hera](../deities/hera.md) and [Athena](../deities/athena.md) conspired with [Aphrodite](../deities/aphrodite.md) to send [Eros](../deities/eros.md) against Medea. The god found the heroes feasting in Aeetes' palace: "quickly beneath the lintel in the porch he strung his bow and took from the quiver an arrow unshot before, messenger of pain... and drawing wide apart with both hands he shot at Medea; and speechless amazement seized her soul."[^arg3-arrow] The effect was immediate: "the bolt burnt deep down in the maiden's heart like a flame; and ever she kept darting bright glances straight up at Aeson's son."[^arg3-flame] As [Jason](jason.md) departed, she was consumed: "before her eyes the vision still appeared — himself what like he was, with what vesture he was clad, what things he spake, how he sat on his seat, how he moved forth to the door."[^arg3-vision]
+
+[^arg3-arrow]: "quickly beneath the lintel in the porch he strung his bow and took from the quiver an arrow unshot before, messenger of pain... and drawing wide apart with both hands he shot at Medea; and speechless amazement seized her soul" (Argonautica 3.2895-2900)
+[^arg3-flame]: "the bolt burnt deep down in the maiden's heart like a flame; and ever she kept darting bright glances straight up at Aeson's son, and within her breast her heart panted fast through anguish" (Argonautica 3.2902-2904)
+[^arg3-vision]: "before her eyes the vision still appeared — himself what like he was, with what vesture he was clad, what things he spake, how he sat on his seat, how he moved forth to the door" (Argonautica 3.3055-3058)
+
+### Inner Conflict
+
+Apollonius devoted an extended psychological portrait to Medea's sleepless night, unmatched in earlier Greek epic. She was torn between desire and shame: "as a sunbeam quivers upon the walls of a house when flung up from water... even so the maiden's heart quivered in her breast."[^arg3-quiver] Her anguish was physical: "a smouldering fire through her frame, and about her fine nerves and deep down beneath the nape of the neck where the pain enters keenest, whenever the unwearied Loves direct against the heart their shafts of agony."[^arg3-pain]
+
+She considered suicide: "she brought a casket wherein lay many drugs, some for healing, others for killing... And she longed to choose a murderous drug to taste it."[^arg3-casket] But "a deadly fear of hateful Hades came upon her heart" and "she thought of all the delightful things that are among the living, she thought of her joyous playmates, as a maiden will; and the sun grew sweeter than ever to behold."[^arg3-life] [Hera](../deities/hera.md) turned her from death.
+
+[^arg3-quiver]: "as a sunbeam quivers upon the walls of a house when flung up from water, which is just poured forth in a caldron or a pail may be; and hither and thither on the swift eddy does it dart and dance along; even so the maiden's heart quivered in her breast" (Argonautica 3.3338-3341)
+[^arg3-pain]: "a smouldering fire through her frame, and about her fine nerves and deep down beneath the nape of the neck where the pain enters keenest, whenever the unwearied Loves direct against the heart their shafts of agony" (Argonautica 3.3342-3345)
+[^arg3-casket]: "she brought a casket wherein lay many drugs, some for healing, others for killing, and placing it upon her knees she wept... And she longed to choose a murderous drug to taste it" (Argonautica 3.3378-3383)
+[^arg3-life]: "a deadly fear of hateful Hades came upon her heart... she thought of all the delightful things that are among the living, she thought of her joyous playmates, as a maiden will; and the sun grew sweeter than ever to behold" (Argonautica 3.3384-3388)
+
+### Powers and Sorcery
+
+Medea's magical abilities were described in detail. She wielded "the charm of Prometheus": a plant that "shot up first-born when the ravening eagle on the rugged flanks of Caucasus let drip to the earth the blood-like ichor of tortured Prometheus. And its flower appeared a cubit above ground in colour like the Corycian crocus, rising on twin stalks; but in the earth the root was like newly-cut flesh."[^arg3-plant] She had gathered it "when she had first bathed in seven ever-flowing streams, and had called seven times on Brimo, nurse of youth, night-wandering Brimo, of the underworld, queen among the dead."[^arg3-brimo]
+
+Argus described her powers: "With them is quenched the blast of unwearied flame, and at once she stays the course of rivers as they rush roaring on, and checks the stars and the paths of the sacred moon."[^arg3-powers]
+
+Her sorcery over the guardian serpent was supreme: "with sweet voice calling to her aid sleep, highest of gods, to charm the monster; and she cried to the queen of the underworld, the night-wanderer, to be propitious."[^arg4-serpent] She sprinkled the serpent's eyes "with a newly cut spray of juniper, dipping and drawing untempered charms from her mystic brew."[^arg4-juniper]
+
+At Crete she destroyed Talos with dark magic: "with songs did she propitiate and invoke the Death-spirits, devourers of life, the swift hounds of Hades... thrice she called on them with songs, and thrice with prayers; and, shaping her soul to mischief, with her hostile glance she bewitched the eyes of Talos."[^arg4-talos]
+
+[^arg3-plant]: "It shot up first-born when the ravening eagle on the rugged flanks of Caucasus let drip to the earth the blood-like ichor of tortured Prometheus. And its flower appeared a cubit above ground in colour like the Corycian crocus, rising on twin stalks; but in the earth the root was like newly-cut flesh" (Argonautica 3.3418-3422)
+[^arg3-brimo]: "when she had first bathed in seven ever-flowing streams, and had called seven times on Brimo, nurse of youth, night-wandering Brimo, of the underworld, queen among the dead" (Argonautica 3.3424-3426)
+[^arg3-powers]: "With them is quenched the blast of unwearied flame, and at once she stays the course of rivers as they rush roaring on, and checks the stars and the paths of the sacred moon" (Argonautica 3.3129-3131)
+[^arg4-serpent]: "with sweet voice calling to her aid sleep, highest of gods, to charm the monster; and she cried to the queen of the underworld, the night-wanderer, to be propitious to her enterprise" (Argonautica 4.4027-4029)
+[^arg4-juniper]: "with a newly cut spray of juniper, dipping and drawing untempered charms from her mystic brew, sprinkled his eyes, while she chanted her song" (Argonautica 4.4034-4036)
+[^arg4-talos]: "with songs did she propitiate and invoke the Death-spirits, devourers of life, the swift hounds of Hades, who, hovering through all the air, swoop down on the living. Kneeling in supplication, thrice she called on them with songs, and thrice with prayers; and, shaping her soul to mischief, with her hostile glance she bewitched the eyes of Talos, the man of bronze" (Argonautica 4.5362-5368)
+
+### Flight from Colchis
+
+When Medea fled, she "kissed her bed, and the folding-doors on both sides, and stroked the walls, and tearing away in her hands a long tress of hair, she left it in the chamber for her mother, a memorial of her maidenhood."[^arg4-farewell] Her lament was bitter: "I go, leaving this long tress here in my stead, O mother mine... Would that the sea, stranger, had dashed thee to pieces, ere thou camest to the Colchian land!"[^arg4-lament] Bolts opened at her magic song as she fled barefoot through the city.
+
+[^arg4-farewell]: "she kissed her bed, and the folding-doors on both sides, and stroked the walls, and tearing away in her hands a long tress of hair, she left it in the chamber for her mother, a memorial of her maidenhood" (Argonautica 4.3919-3922)
+[^arg4-lament]: "I go, leaving this long tress here in my stead, O mother mine; take this farewell from me as I go far hence; farewell Chalciope, and all my home. Would that the sea, stranger, had dashed thee to pieces, ere thou camest to the Colchian land!" (Argonautica 4.3925-3928)
+
+### Apsyrtus's Murder
+
+When Medea feared Jason would surrender her under the truce, she lashed out: "Whither are fled the oaths by Zeus the suppliants' god, whither are fled thy honied promises?"[^arg4-oaths] She proposed luring Apsyrtus to his death: "I will beguile Apsyrtus to come into thy hands — do thou greet him with splendid gifts — Thereupon if this deed pleases thee, slay him and raise a conflict with the Colchians, I care not."[^arg4-plot] When Jason struck, "the maiden turned her eyes aside and covered them with her veil that she might not see the blood of her brother when he was smitten." Her brother's blood "dyed with red his sister's silvery veil and robe as she shrank away."[^arg4-blood]
+
+[^arg4-oaths]: "Whither are fled the oaths by Zeus the suppliants' god, whither are fled thy honied promises?" (Argonautica 4.4215-4216)
+[^arg4-plot]: "I will beguile Apsyrtus to come into thy hands — do thou greet him with splendid gifts... Thereupon if this deed pleases thee, slay him and raise a conflict with the Colchians, I care not" (Argonautica 4.4266-4270)
+[^arg4-blood]: "the maiden turned her eyes aside and covered them with her veil that she might not see the blood of her brother when he was smitten... he dyed with red his sister's silvery veil and robe as she shrank away" (Argonautica 4.4310-4318)
+
+### At Circe's Palace
+
+Before [Circe](../deities/circe.md), Medea "told her all she asked... both of the quest and the journeyings of the heroes, and of their toils in the swift contests, and how she had sinned through the counsels of her much-sorrowing sister, and how with the sons of Phrixus she had fled... but she shrank from telling of the murder of Apsyrtus. Yet she escaped not Circe's ken."[^arg4-circe] Circe recognized her as kin: "For all those of the race of [Helius](../deities/helius.md) were plain to discern, since by the far flashing of their eyes they shot in front of them a gleam as of gold."[^arg4-helius-eyes] Circe condemned her: "Poor wretch, an evil and shameful return hast thou planned... but since thou art my suppliant and my kinswoman, no further ill shall I devise against thee at thy coming; but begone from my halls."[^arg4-circe-condemn]
+
+[^arg4-circe]: "Medea told her all she asked... both of the quest and the journeyings of the heroes... but she shrank from telling of the murder of Apsyrtus. Yet she escaped not Circe's ken" (Argonautica 4.4539-4545)
+[^arg4-helius-eyes]: "For all those of the race of Helius were plain to discern, since by the far flashing of their eyes they shot in front of them a gleam as of gold" (Argonautica 4.4537-4538)
+[^arg4-circe-condemn]: "Poor wretch, an evil and shameful return hast thou planned... but since thou art my suppliant and my kinswoman, no further ill shall I devise against thee at thy coming; but begone from my halls" (Argonautica 4.4548-4556)
+
+### At Phaeacia
+
+Medea implored Queen Arete: "I beseech thee, O queen, be gracious and deliver me not to the Colchians... Not willingly did I haste from my home with men of an alien race; but a horrible fear wrought on me... Still my maiden's girdle remains, as in the halls of my father, unstained, untouched."[^arg4-arete] She married Jason that night in the sacred cave of Macris, with the Golden Fleece spread on the bridal couch.
+
+[^arg4-arete]: "I beseech thee, O queen, be gracious and deliver me not to the Colchians to be borne to my father... Not willingly did I haste from my home with men of an alien race; but a horrible fear wrought on me to bethink me of flight when I sinned... Still my maiden's girdle remains, as in the halls of my father, unstained, untouched" (Argonautica 4.4788-4797)
 
 ## In the Bibliotheca
 
@@ -185,6 +260,7 @@ Pindar gives Medea the striking epithet "the murderess of Pelias" in passing, su
 
 ## Appearances
 
+- **[Argonautica](../sources/argonautica.md)** III-IV: Priestess of Hecate; daughter of Aeetes and Eidyia; shot by Eros; extended psychological portrait of love and anguish; wielded the charm of Prometheus; gave Jason instructions for propitiating Hecate; sang the guardian serpent to sleep; fled Colchis leaving a lock of hair; complicit in Apsyrtus's murder (proposed the ambush, averted her eyes); purified by Circe; bewitched and destroyed Talos on Crete; married Jason in the cave of Macris at Phaeacia
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: "A witch, daughter of Aeetes and Idyia"; conceived a passion for [Jason](jason.md); gave him a drug against fire and iron; lulled the dragon to sleep; won the Golden Fleece
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.24: Murdered her brother Apsyrtus and dismembered him to delay Aeetes' pursuit; purified by [Circe](../deities/circe.md) at Aeaea
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Married to Jason by Arete at Corcyra
