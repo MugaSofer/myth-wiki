@@ -6,9 +6,12 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 - [Deities](deities/) - Gods, Titans, and Primordial beings
 - [Heroes](heroes/) - Mortal and semi-divine heroes
+  - [Atreus](heroes/atreus.md)
   - [Danaus](heroes/danaus.md)
+  - [Thyestes](heroes/thyestes.md)
 - [Creatures](creatures/) - Monsters, races, and mythical beasts
 - [Places](places/) - Locations in myth and the divine cosmos
+  - [Argos](places/argos.md)
 - [Events](events/) - Wars, quests, and mythological episodes
 - [Objects](objects/) - Divine weapons, artifacts, and magical items
 - [Concepts](concepts/) - Key ideas and cultural concepts in Greek myth
