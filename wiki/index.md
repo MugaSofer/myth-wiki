@@ -32,6 +32,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 - [Alcestis](sources/euripides-alcestis.md) - Euripides (438 BCE)
 - [Bacchae](sources/euripides-bacchae.md) - Euripides (c. 405 BCE)
 - [Hecuba](sources/euripides-hecuba.md) - Euripides (c. 424 BCE)
+- [Heraclidae](sources/euripides-heraclidae.md) - Euripides (c. 430 BCE)
 
 ## Progress
 

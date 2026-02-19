@@ -951,11 +951,28 @@ Created dedicated pages for major entities across all previously processed sourc
 
 **Wiki size:** ~225 pages.
 
+### Euripides, Heraclidae — COMPLETE
+
+**Source page created:** euripides-heraclidae.md
+**Source file:** sources/euripides-buckley-vol1.txt (lines 12486-13510)
+
+**Pages created (4):**
+- iolaus.md (companion of Heracles; protector of children; miraculous rejuvenation)
+- macaria.md (daughter of Heracles; voluntary self-sacrifice)
+- eurystheus.md (king of Mycenae; persecutor of Heraclidae; protective burial prophecy)
+- alcmena.md (mother of Heracles; demands Eurystheus's execution)
+
+**Pages updated (2):**
+- heracles.md (Appearances: Heraclidae entry)
+- index.md (added source)
+
+**Wiki size:** ~230 pages.
+
 ## Next
 
 ### Remaining Sources (in priority order)
 
-1. **More Euripides** — remaining plays in Vol. I (Orestes, Phoenissae, Heraclidae)
+1. **More Euripides** — remaining plays in Vol. I (Orestes, Phoenissae)
 2. **More Greek tragedies** — Sophocles, Aeschylus (rich character material, many plays on Gutenberg)
 3. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
 

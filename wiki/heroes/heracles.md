@@ -717,6 +717,7 @@ Heracles succeeds and returns with the veiled Alcestis. He tells Admetus: "Havin
 - **[Pindar](../sources/pindar.md)**, Nemean I: Baby Heracles strangles two serpents sent by [Hera](../deities/hera.md); Alcmena's alarm; Teiresias prophesies his labours, battle at Phlegra against the giants, and final rest beside Zeus with Hebe as bride
 - **[Pindar](../sources/pindar.md)**, Isthmian III: Wrestles Antaios in Libya to stop him roofing [Poseidon](../deities/poseidon.md)'s temple with strangers' skulls; now dwells beside Zeus ("lord of a golden house, and husband of Hera's child")
 - **[Pindar](../sources/pindar.md)**, Isthmian V: Wearing lion's skin, prays at Telamon's feast for a son "staunch as this hide"; eagle-omen sent by Zeus; names the child Aias (after *aietos*, eagle)
+- **[Heraclidae](../sources/euripides-heraclidae.md)**: Referenced throughout; his children are persecuted by [Eurystheus](eurystheus.md); [Macaria](macaria.md) sacrifices herself; appears as one of "two stars" on [Iolaus](iolaus.md)'s chariot alongside [Hebe](../deities/hebe.md), enabling the miraculous rejuvenation
 
 [^apd-argonaut]: "Hercules, son of Zeus" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-hylas]: "Hylas, son of Thiodamas, a minion of Hercules, had been sent to draw water and was ravished away by nymphs on account of his beauty... while the two were seeking for Hylas, the ship put to sea... Hercules returned to Argos" (Bibliotheca 1.9.19, trans. Frazer)

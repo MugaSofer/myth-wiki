@@ -382,6 +382,7 @@ Jupiter agrees, smiling: "Jove's own sister thou art, and second seed of Saturn,
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.29: Made Menelaus immortal — "being made immortal by Hera he went to the Elysian Fields with Helen"
 - **[Fabulae](../sources/hyginus.md)** §62: Ixion attempted to embrace Juno; she substituted a cloud by Jove's instructions; Ixion believed it Juno's likeness; Centaurs born from this; Mercury bound Ixion to wheel in Land of the Dead
 - **[Fabulae](../sources/hyginus.md)** §75: Joking dispute with Jove about pleasure in love; took Tiresias as judge since he'd been both sexes; when he decided in Jove's favour, blinded him angrily; Jove gave him seven lives and made him a seer
+- **[Heraclidae](../sources/euripides-heraclidae.md)**: Dual role — Eurystheus claims she "forced" him to persecute Heracles and his children; yet she and [Hebe](hebe.md) rejuvenate [Iolaus](../heroes/iolaus.md) in battle (two stars on his chariot)
 
 [^apd-ephialtes]: "Ephialtes wooed Hera, and Otus wooed Artemis" (Bibliotheca 1.7.4, trans. Frazer)
 [^apd-athamas]: "afterwards Athamas was bereft also of the children of Ino through the wrath of Hera; for he went mad and shot Learchus with an arrow, and Ino cast herself and Melicertes into the sea" (Bibliotheca 1.9.2, trans. Frazer)
