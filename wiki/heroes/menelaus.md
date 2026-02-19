@@ -75,6 +75,7 @@ Proteus revealed that "the gods were angry because Troy had been taken, and on t
 - **[Fabulae](../sources/hyginus.md)** §78: Tyndareus gives Helen to Menelaus; receives kingdom at Tyndareus's death
 - **[Fabulae](../sources/hyginus.md)** §92: Paris takes Helen from Menelaus
 - **[Fabulae](../sources/hyginus.md)** §118: Menelaus binds Proteus in Egypt; offers hekatombe; returns home after eight years
+- **[Orestes](../sources/euripides-orestes.md)**: Arrives from Troy; refuses to defend Orestes by force against Tyndarus and the Argives; Orestes calls him "a mere cipher in other things except in warring for the sake of a woman"; Helen vanishes during attack; Apollo commands him to rule Sparta
 
 [^apd-marriage]: "Tyndareus put the suitors on their oath, and while he chose Menelaus to be the bridegroom of Helen, he solicited Icarius to bestow Penelope on Ulysses" (Bibliotheca 3.10.9, trans. J.G. Frazer)
 [^apd-hermione]: "Menelaus had by Helen a daughter Hermione" (Bibliotheca 3.11.1, trans. J.G. Frazer)

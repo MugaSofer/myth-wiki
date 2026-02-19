@@ -968,11 +968,26 @@ Created dedicated pages for major entities across all previously processed sourc
 
 **Wiki size:** ~230 pages.
 
+### Euripides, Orestes — COMPLETE
+
+**Source page created:** euripides-orestes.md
+**Source file:** sources/euripides-buckley-vol1.txt (lines 1735-3833)
+
+**Pages updated (4):**
+- orestes.md (Appearances: madness, Eumenides, trial, plot against Helen, Apollo's resolution)
+- helen.md (Appearances: apotheosis, vanishes, raised to divine status with Castor and Pollux)
+- menelaus.md (Appearances: refuses to help, Apollo commands him to rule Sparta)
+- apollo.md (Appearances: deus ex machina, admits compelling the matricide, saves Helen)
+
+**Key content:** Eumenides described as "three virgins like the night" / "gorgon-visaged" / "in the shape of dogs"; Helen's apotheosis; Zeus's purpose for the Trojan War (reduce human overpopulation); full genealogy of the curse of Tantalus.
+
+**Wiki size:** ~231 pages.
+
 ## Next
 
 ### Remaining Sources (in priority order)
 
-1. **More Euripides** — remaining plays in Vol. I (Orestes, Phoenissae)
+1. **More Euripides** — remaining plays in Vol. I (Phoenissae, Iphigenia in Aulis, Iphigenia in Tauris)
 2. **More Greek tragedies** — Sophocles, Aeschylus (rich character material, many plays on Gutenberg)
 3. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
 
