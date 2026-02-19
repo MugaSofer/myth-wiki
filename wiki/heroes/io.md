@@ -106,6 +106,51 @@ At the Nile, Zeus swore on the Styx to end Io's suffering. "The hair fell from h
 [^met-io-letters]: "she traced in dust the letters of her name with cloven hoof; and thus her sad estate was known" (Metamorphoses 1.649-650, trans. Brookes More)
 [^met-io-restored]: "the hair fell from her snowy sides; the horns absorbed, her dilate orbs decreased; the opening of her jaws contracted; hands appeared and shoulders" (Metamorphoses 1.738-741, trans. Brookes More)
 
+## In Aeschylus' [Prometheus Bound](../sources/aeschylus-prometheus-bound.md)
+
+### Arrival and Torment
+
+Io enters "horned like a cow," maddened by the gadfly and pursued by the ghost of [Argus](../heroes/argus.md): "the earth-born, the myriad-eyed! Avoid thee! Earth, hide him, thine offspring! he cometh — O aspect of ill! Ghostly, and crafty of face, and dead, but pursuing me still!" She hears "the wax-stopped reed-flute's weird and drowsy drone" — the ghostly piping of her dead guardian.[^pb-io-arrive]
+
+She begs [Zeus](../deities/zeus.md) for death: "give me rather to the flames that sear, or to some hidden grave, or to the rending jaws, the monsters of the main!" She addresses Zeus directly: "Hearken! in pity hold Io, the ox-horned maid, thy love of old!"[^pb-io-plea]
+
+### Her Account of Zeus's Pursuit
+
+Io tells [Prometheus](../deities/prometheus.md) how night visions came to her maiden bower, "alluring me with smoothly glozing words" — telling her that Zeus's heart burned with desire for her, and bidding her go to the meadow of Lerna.[^pb-io-dreams] She told her father [Inachus](../heroes/inachus.md), who sent to [Delphi](../places/delphi.md) and Dodona for guidance. At last came "a peremptory charge to fling me forth beyond my home and fatherland" — if Inachus refused, Zeus would destroy him and all his race with a thunderbolt.[^pb-io-oracle]
+
+Cast out, "in form and mind I grew dishumanized, and horned as now ye see me, poison-stung by the envenomed bitings of the brize." Argus followed her, "a herdsman by his heifer... with myriad eyes," until "on him in a moment, unforeseen, came Fate, and sundered him from life."[^pb-io-transform] Still maddened by the gadfly, she roams the world.
+
+### Prometheus's Prophecy
+
+Prometheus foretells her future wanderings in extraordinary geographical detail. She must cross the steppe of the nomad Scythians, pass the Chalybes ("stout craftsmen of the steel — beware of them! no gentleness is theirs"), reach the Caucasus, then travel south to the warlike Amazons at Themiscyra on the Thermodon. Passing the Cimmerian land, she will cross the strait — "Bosporos shall be that channel's name, because the ox-horned thing did pass thereby" — from Europe into Asia.[^pb-io-bosporus]
+
+Continuing east, she will pass the Gorgon-haunted plains beside Cisthene, where dwell "Phorcys' daughters, beldames worn with time, three, each swan-shapen, single-toothed, and all peering thro' shared endowment of one eye," and then the [Gorgons](../creatures/gorgons.md) themselves. Past the griffins ("the hounds of Zeus") and the one-eyed Arimaspians, she will reach the "dark-faced tribe" at the sources of the sun, and follow the Nile to the "three-angled, water-girt" land of Egypt.[^pb-io-route]
+
+### Restoration and Descendants
+
+At Canopus on the Nile, "Zeus shall renew the reason in thy brain with the mere touch and contact of his hand, fraught now with fear no more." She will bear Epaphus — "his very name memorial of Zeus' touch that gave him life."[^pb-io-epaphus]
+
+From Epaphus, five generations later, fifty maidens will flee to Argos, "loathing a wedlock with their next in blood." Pursued by their cousins, they will kill the suitors on their wedding night — "for every maid shall smite a man to death, dyeing a dagger's edges in his throat." But one bride, moved by love, will spare her husband. From her line will come "a hero... an archer great" who will free Prometheus.[^pb-io-danaids]
+
+Prometheus also confirms that the Ionian Sea was named for Io: the oaks of Dodona hailed her as "bride of Zeus that art to be," and then "stung anew with frenzy, thou didst hie along the shoreward track... to all time, be well assured, that inlet of the sea all mortal men shall call Ionian, in memory that Io fared thereby."[^pb-io-ionian]
+
+[^pb-io-arrive]: "the earth-born, the myriad-eyed! Avoid thee! Earth, hide him, thine offspring!... the wax-stopped reed-flute's weird and drowsy drone!" (Prometheus Bound ~566-575, trans. E.D.A. Morshead)
+[^pb-io-plea]: "give me rather to the flames that sear, or to some hidden grave, or to the rending jaws, the monsters of the main!... Hearken! in pity hold Io, the ox-horned maid, thy love of old!" (Prometheus Bound ~580-590, trans. E.D.A. Morshead)
+[^pb-io-dreams]: "Long, long in visions of the night there came voices and forms into my maiden bower, alluring me with smoothly glozing words — O maiden highly favoured of high Heaven... Know that Zeus' heart thro' thee is all aflame" (Prometheus Bound ~645-660, trans. E.D.A. Morshead)
+[^pb-io-oracle]: "a peremptory charge to fling me forth beyond my home and fatherland... and — should he falter — Zeus should launch on him a fire-eyed bolt, to shatter and consume himself and all his race to nothingness" (Prometheus Bound ~670-675, trans. E.D.A. Morshead)
+[^pb-io-transform]: "in form and mind I grew dishumanized, and horned as now ye see me, poison-stung by the envenomed bitings of the brize... a herdsman by his heifer, Argus moved, earth-born, malevolent of mood, and peered, with myriad eyes" (Prometheus Bound ~677-690, trans. E.D.A. Morshead)
+[^pb-io-bosporus]: "Bosporos shall be that channel's name, because the ox-horned thing did pass thereby. So, from the wilds of Europe wander'd o'er, to Asia's continent thou com'st at last" (Prometheus Bound ~733-738, trans. E.D.A. Morshead)
+[^pb-io-route]: "Phorcys' daughters, beldames worn with time, three, each swan-shapen, single-toothed, and all peering thro' shared endowment of one eye... the Gorgons! — he of men who looks on them shall gasp away his life" (Prometheus Bound ~793-800, trans. E.D.A. Morshead)
+[^pb-io-epaphus]: "Zeus shall renew the reason in thy brain with the mere touch and contact of his hand... a child, dark Epaphus — his very name memorial of Zeus' touch that gave him life" (Prometheus Bound ~850-855, trans. E.D.A. Morshead)
+[^pb-io-danaids]: "fifty maidens they, loathing a wedlock with their next in blood... for every maid shall smite a man to death... yet in one bride shall yearning conquer hate... a hero shall arise, an archer great, and he shall be my saviour from these woes" (Prometheus Bound ~857-873, trans. E.D.A. Morshead)
+[^pb-io-ionian]: "by their tongues, with clear acclaim and unequivocal, wert thus saluted — Hail, O bride of Zeus that art to be... that inlet of the sea all mortal men shall call Ionian, in memory that Io fared thereby" (Prometheus Bound ~830-840, trans. E.D.A. Morshead)
+
+## Variant Traditions
+
+### Parentage
+
+Io's father varies across sources. The [Bibliotheca](../sources/apollodorus.md) names Iasus as her father in its main narrative but records that "the annalist Castor and many of the tragedians allege that Io was a daughter of Inachus." The Aegimius fragment and the Prometheus Bound follow the tragic tradition, naming Inachus as her father. The [Fabulae](../sources/hyginus.md) also names Inachus.
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.567-746: Seduced by Zeus in a cloud; transformed to white heifer; guarded by hundred-eyed Argus; traces name in dust for father; Hermes slays Argus; driven by Fury; restored in Egypt
@@ -113,3 +158,5 @@ At the Nile, Zeus swore on the Styx to end Io's suffering. "The hair fell from h
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.3: Priestess of Hera; seduced by Zeus; transformed into white cow; guarded by Argus; Hermes killed Argus; gadfly sent by Hera; wandered through Europe and Asia; recovered form in Egypt; bore Epaphus; identified with Isis
 - **[Bibliotheca](../sources/apollodorus.md)** 2.1.4: Through Epaphus, ancestress of Libya, Agenor, Belus, Danaus, and Egyptus
 - **[Fabulae](../sources/hyginus.md)** §145: Argive genealogy; loved by Zeus and changed to heifer; guarded by Argus with gleaming eyes; Hermes killed Argus; driven by Hera with fearful shape; cast herself into Ionian sea; swam to Scythia (Bosporus named); bore Epaphus in Egypt; became Isis
+- **[Prometheus Bound](../sources/aeschylus-prometheus-bound.md)**: Enters horned and maddened; tells of Zeus's night-visions, oracle driving her from Inachus, transformation, Argus; Prometheus prophesies route through Scythia, Caucasus, Amazons, Bosporus, Gorgons, Ethiopia, to Egypt; Zeus restores by touch; bears Epaphus; Danaids descend from her; Bosporus and Ionian Sea named for her
+- **[Suppliant Maidens](../sources/aeschylus-suppliant-maidens.md)**: Her story retold by the Danaids — priestess of Hera, transformed to cow, watched by Argus, driven by gadfly to Egypt, restored by Zeus's touch, bore Epaphus; invoked as ancestress justifying Argive asylum

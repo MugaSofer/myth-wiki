@@ -31,7 +31,17 @@ In [Odyssey](../sources/odyssey.md) Book II, Telemachus invokes Themis at the as
 
 [^od2-themis]: "I pray you by Olympian Zeus and by Themis, who looseth and gathereth the meetings of men" (Odyssey 2.69-70, trans. Butcher and Lang)
 
+## In Aeschylus' [Prometheus Bound](../sources/aeschylus-prometheus-bound.md)
+
+The play identifies Themis as [Prometheus](prometheus.md)'s mother — a significant departure from the [Theogony](../sources/theogony.md), which names his mother as the Oceanid Clymene. Prometheus refers to "the counsels of my mother Themis" and calls her "one form of many names," apparently identifying her with [Gaia](gaia.md).[^pb-themis-mother] She is called "the ancient Titaness" who gave Prometheus prophetic knowledge: "Such knowledge of the future Themis gave, the ancient Titaness, to me her son."[^pb-themis-prophecy]
+
+Themis counselled Prometheus that craft, not force, would prevail in the war against the [Titans](titans.md), leading him to side with [Zeus](zeus.md).
+
+[^pb-themis-mother]: Prometheus refers to "the counsels of my mother Themis" who is "one form of many names" (Prometheus Bound ~211-213, trans. E.D.A. Morshead)
+[^pb-themis-prophecy]: "Such knowledge of the future Themis gave, the ancient Titaness, to me her son" (Prometheus Bound ~873, trans. E.D.A. Morshead)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** II: "Themis, who looseth and gathereth the meetings of men" — invoked at the Ithacan assembly
 - **[Theogony](../sources/theogony.md)** 16, 135, 901-906: Named in invocation; birth; marriage to Zeus and children
+- **[Prometheus Bound](../sources/aeschylus-prometheus-bound.md)**: Identified as [Prometheus](prometheus.md)'s mother ("the ancient Titaness"); called "one form of many names" (implying identification with [Gaia](gaia.md)); gave Prometheus prophetic knowledge and counsel to side with Zeus

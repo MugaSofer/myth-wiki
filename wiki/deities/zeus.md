@@ -551,6 +551,8 @@ When [Heracles](../heroes/heracles.md) lies dying on his pyre atop Mount Oeta, t
 - **[Fabulae](../sources/hyginus.md)** §139: Saved by Rhea (Opis) with stone substitution; hidden in cradle hung from tree by Amalthea; Curetes made noise with shields and spears to conceal cries
 - **[Fabulae](../sources/hyginus.md)** §150: War with Titans instigated by Juno; cast Titans into Tartarus with help of Minerva, Apollo, and Diana; placed vault of sky on Atlas
 - **[Fabulae](../sources/hyginus.md)** §176: Came as guest to Lycaon; seduced Callisto; tested with human flesh at banquet; overturned table; slew Lycaon's sons with thunderbolt; transformed Lycaon into wolf
+- **[Prometheus Bound](../sources/aeschylus-prometheus-bound.md)**: Portrayed as tyrannical — planned to destroy humanity; punishes Prometheus for giving fire; subject to Fate and Cronos's curse; a secret marriage threatens to produce a son who will overthrow him; two prior dynasties (Uranus, Cronos) already fallen
+- **[Suppliant Maidens](../sources/aeschylus-suppliant-maidens.md)**: Invoked as protector of suppliants (Zeus Hikesios); his deliverance of Io recalled; "the touch of thine hand gave her peace"
 
 [^apd-flood]: "Zeus by pouring heavy rain from heaven flooded the greater part of Greece, so that all men were destroyed, except a few who fled to the high mountains in the neighborhood" (Bibliotheca 1.7.2, trans. Frazer)
 [^apd-alcyone]: "he said that his wife was Hera, and she said that her husband was Zeus. But Zeus turned them into birds; her he made a kingfisher and him a gannet" (Bibliotheca 1.7.4, trans. Frazer)

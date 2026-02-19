@@ -51,6 +51,16 @@ A messenger later reports that she was found in the tomb "hanged, by the neck, /
 
 Hyginus records that after the [Seven against Thebes](../events/seven-against-thebes.md), "Antigone and Argeia secretly carried the body of Polyneices by night and placed it on the pyre on which Eteocles was burning. When caught by Creon's guards, Argeia escaped but Antigone was brought before Creon."[^hyg-burial] He gave her to Haemon to execute, but Haemon "entrusted her to shepherds," and she bore him a son. When the son came to Thebes and was recognized by a birthmark, Heracles interceded but Creon would not relent, and "Haemon killed himself and his wife Antigone."[^hyg-haemon]
 
+## In Aeschylus' [Seven Against Thebes](../sources/aeschylus-seven-against-thebes.md)
+
+Antigone appears at the end of the play, mourning over the bodies of [Eteocles](../heroes/eteocles.md) and [Polynices](../heroes/polyneices.md) alongside [Ismene](../heroes/ismene.md). When a herald announces that Polynices shall lie unburied, Antigone declares her defiance: "I, I will bury this my brother's corse and risk your wrath and what may come of it! It shames me not to face the State, and set will against power, rebellion resolute: deep in my heart is set my sisterhood."[^sat-defy] She invokes her kinship: "I for him, I — albeit a woman weak — in place of burial-pit, will give him rest by this protecting handful of light dust."[^sat-dust] The herald forbids the deed, but Antigone is unmoved: "Whet thou their sternness! Burial he shall have."[^sat-whet]
+
+This is the earliest surviving dramatization of the burial conflict, predating Sophocles' [Antigone](../sources/sophocles-antigone.md).
+
+[^sat-defy]: "I, I will bury this my brother's corse and risk your wrath and what may come of it! It shames me not to face the State, and set will against power, rebellion resolute: deep in my heart is set my sisterhood" (Seven Against Thebes ~1000-1005, trans. E.D.A. Morshead)
+[^sat-dust]: "I for him, I — albeit a woman weak — in place of burial-pit, will give him rest by this protecting handful of light dust" (Seven Against Thebes ~1014-1017, trans. E.D.A. Morshead)
+[^sat-whet]: "Whet thou their sternness! Burial he shall have" (Seven Against Thebes ~1032, trans. E.D.A. Morshead)
+
 ## In Euripides' Phoenissae
 
 At the end of the play, after the mutual fratricide of her brothers and Jocasta's suicide, Antigone confronts Creon's edict against burying Polyneices and chooses exile with her blinded father rather than marriage to Haemon.[^phoen-exile]
@@ -62,6 +72,7 @@ At the end of the play, after the mutual fratricide of her brothers and Jocasta'
 - **[Oedipus at Colonus](../sources/sophocles-oedipus-colonus.md)**: Guide and companion to blind Oedipus; seized by Creon and rescued by Theseus; witnesses father's farewell; begs for knowledge of his grave
 - **[Antigone](../sources/sophocles-antigone.md)**: Buries Polyneices in defiance of Creon; defense of divine law over human edict; condemned to entombment; hangs herself; Haemon dies at her side
 - **[Fabulae](../sources/hyginus.md)** §72: Buries Polyneices with Argeia; given to Haemon to execute; spared; bore him a son; eventually both killed
+- **[Seven Against Thebes](../sources/aeschylus-seven-against-thebes.md)**: Mourns brothers; defies herald's edict against burying Polynices; "I, I will bury this my brother's corse"; offers handful of dust; earliest surviving dramatization of the burial conflict
 - **[Phoenissae](../sources/euripides-phoenissae.md)**: Defies Creon's edict; chooses exile with Oedipus over marriage to Haemon
 
 [^apd-children]: "Oedipus both succeeded to the kingdom and unwittingly married his mother, and begat sons by her, Polynices and Eteocles, and daughters, Ismene and Antigone" (Bibliotheca 3.5.8, trans. J.G. Frazer)

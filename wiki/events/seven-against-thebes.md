@@ -140,6 +140,27 @@ When the seven leaders "came to Hypsipyle in their search for water," she "feari
 [^hyg-74-dragon]: "she, fearing to put the boy on the ground, . . . [found] some very thick parsley near the spring, and placed the child in it. But while she was giving them water, a dragon, guardian of the spring, devoured the child" (Fabulae §74, trans. Mary Grant)
 [^hyg-74-games]: "Adrastus and the others killed the dragon, and interceded for Hypsipyle to Lycus, and established funeral games in honour of the boy. They take place every fifth year, and the victors receive a wreath of parsley" (Fabulae §74, trans. Mary Grant)
 
+## In Aeschylus' [Seven Against Thebes](../sources/aeschylus-seven-against-thebes.md)
+
+Aeschylus dramatizes the final hours of the siege. The play's central set-piece is the **shield scene**, in which a spy describes each of the seven Argive champions — their shield devices, armor, and boasts — and [Eteocles](../heroes/eteocles.md) names a Theban defender for each gate. The champions and their blazons:
+
+- **Tydeus** (Proetides gate): night sky with moon and stars; opposed by Melanippus of the Sown Men
+- **Capaneus** (Electran gate): naked man with torch, "Fire for the city bring I"; vaunts he'll sack Thebes "God willing or unwilling"; opposed by Polyphontes
+- **Eteoclus** (Neistae gate): armed man climbing a ladder, "Not Ares shall cast me from the wall"; opposed by Megareus son of [Creon](../heroes/creon.md)
+- **Hippomedon** (Pallas Onca gate): [Typhon](../creatures/typhoeus.md) breathing fire; opposed by Hyperbius, whose shield bears [Zeus](../deities/zeus.md) — mirroring the cosmic battle of Zeus vs. Typhon
+- **Parthenopaeus** (northern gate): the [Sphinx](../creatures/sphinx.md) with a Cadmean in its claws; "son of Zeus and of the mountain maid"; opposed by Actor
+- **Amphiaraus** (Homoloid gate): no device — a plain shield; denounces both Tydeus and [Polynices](../heroes/polyneices.md); knows he will die; opposed by Lasthenes
+- **[Polynices](../heroes/polyneices.md)** (seventh gate): Justice leading a golden warrior home; opposed by Eteocles himself[^sat-shields]
+
+The Chorus sings of the curse's root: "thrice Apollo spoke this word divine, from Delphi's central shrine, to Laius — _Die thou childless! thus alone can the land's weal be won!_"[^sat-oracle] And of Oedipus's curse on his sons: "he flung on his children a curse... _The glory of wealth and of pride, with iron, not gold, in your hands, ye shall come, at the last, to divide!_"[^sat-curse]
+
+The brothers die in mutual combat. A herald decrees that Eteocles shall be buried with honor while [Polynices](../heroes/polyneices.md) shall lie unburied. [Antigone](../heroes/antigone.md) defies the edict: "I, I will bury this my brother's corse and risk your wrath!"[^sat-antigone] The Chorus divides, half following each sister to bury each brother.
+
+[^sat-shields]: Seven Against Thebes ~369-676, trans. E.D.A. Morshead
+[^sat-oracle]: "thrice Apollo spoke this word divine, from Delphi's central shrine, to Laius — Die thou childless! thus alone can the land's weal be won!" (Seven Against Thebes ~748-751, trans. E.D.A. Morshead)
+[^sat-curse]: "he flung on his children a curse for the splendour they dared to withhold — The glory of wealth and of pride, with iron, not gold, in your hands, ye shall come, at the last, to divide!" (Seven Against Thebes ~787-790, trans. E.D.A. Morshead)
+[^sat-antigone]: "I, I will bury this my brother's corse and risk your wrath and what may come of it!" (Seven Against Thebes ~1000, trans. E.D.A. Morshead)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 3.6.1-3.7.7: Comprehensive account — Eteocles refuses throne; Eriphyle bribed with necklace; seven champions listed; Nemean games; Menoeceus' sacrifice; deaths of Capaneus, Tydeus, Amphiaraus; fratricide; Antigone buried alive; Epigoni's victory
@@ -151,3 +172,4 @@ When the seven leaders "came to Hypsipyle in their search for water," she "feari
 - **[Fabulae](../sources/hyginus.md)** §73: Amphiaraus hides; Eriphyle bribed with necklace; Alcmaeon kills his mother; Furies pursue
 - **[Fabulae](../sources/hyginus.md)** §74: Hypsipyle places Archemorus/Ophites in parsley; dragon devours child; Nemean games established; victors receive parsley wreath
 - **[Phoenissae](../sources/euripides-phoenissae.md)**: Full dramatization; seven champions identified with shield devices; Capaneus struck by Zeus on the walls; mutual fratricide of Eteocles and Polynices; Jocasta's suicide; Creon's decree against burial
+- **[Seven Against Thebes](../sources/aeschylus-seven-against-thebes.md)**: Full dramatization of final hours; shield scene with all seven champions and their devices; Eteocles faces Polynices at seventh gate; mutual fratricide; herald's burial decree; Antigone's defiance; Chorus sings of Apollo's oracle to Laius and Oedipus's curse

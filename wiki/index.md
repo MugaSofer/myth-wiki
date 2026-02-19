@@ -6,6 +6,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 - [Deities](deities/) - Gods, Titans, and Primordial beings
 - [Heroes](heroes/) - Mortal and semi-divine heroes
+  - [Danaus](heroes/danaus.md)
 - [Creatures](creatures/) - Monsters, races, and mythical beasts
 - [Places](places/) - Locations in myth and the divine cosmos
 - [Events](events/) - Wars, quests, and mythological episodes
@@ -43,6 +44,9 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 - [Agamemnon](sources/aeschylus-agamemnon.md) - Aeschylus (458 BCE)
 - [The Libation-Bearers](sources/aeschylus-libation-bearers.md) - Aeschylus (458 BCE)
 - [The Eumenides](sources/aeschylus-eumenides.md) - Aeschylus (458 BCE)
+- [Prometheus Bound](sources/aeschylus-prometheus-bound.md) - Attributed to Aeschylus (c. 450-430 BCE)
+- [Seven Against Thebes](sources/aeschylus-seven-against-thebes.md) - Aeschylus (467 BCE)
+- [The Suppliant Maidens](sources/aeschylus-suppliant-maidens.md) — Aeschylus
 
 ## Progress
 

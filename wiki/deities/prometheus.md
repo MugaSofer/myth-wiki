@@ -155,6 +155,75 @@ Prometheus's son was Deucalion, who "by the advice of Prometheus constructed a c
 [^apd-eagle]: "Every day an eagle swooped on him and devoured the lobes of his liver, which grew by night" (Bibliotheca 1.7.1, trans. Frazer)
 [^apd-flood]: "Deucalion by the advice of Prometheus constructed a chest, and having stored it with provisions he embarked in it with Pyrrha" (Bibliotheca 1.7.2, trans. Frazer)
 
+## In Aeschylus' [Prometheus Bound](../sources/aeschylus-prometheus-bound.md)
+
+### The Chaining
+
+[Strength](../concepts/kratos.md) (Kratos) and Force (Bia), servants of [Zeus](zeus.md), bring Prometheus to a remote crag in Scythia. [Hephaestus](hephaestus.md) is ordered to chain him. Though reluctant — "kinship is a wondrous thing, and fellowship no less" — Hephaestus obeys: "I dare not leave this work undone; its dire accomplishment is Zeus' command."[^pb-heph] Prometheus is silent throughout the chaining; only after his tormentors depart does he speak.
+
+### Prometheus's Gifts to Humanity
+
+Prometheus recounts at length how he championed humanity when [Zeus](zeus.md) "planned to make the whole of man's race / Perish, and plant a new one in its room."[^pb-destroy] He first gave mortals relief from the foreknowledge of death: "man thro' me ceased to foreknow his death." When the Chorus asks what cure he found, he replies: "Blind hopes I sent to nestle in man's heart."[^pb-hopes] Beyond this, he gave fire: "Yet more I gave them, even the boon of fire."[^pb-fire-gift]
+
+His catalogue of gifts to humanity is the most detailed in any ancient source. Before Prometheus, mortals "had eyes and saw not... and ears they had but heard not; age on age, like unsubstantial shapes in vision seen, they groped at random." He taught them:
+
+- **Number and writing**: "that art of arts, the lore of number, and the written word that giveth sense to sound, the tool wherewith the gift of memory was wrought in all"[^pb-arts1]
+- **Animal domestication**: harnessing animals to yoke and collar, training horses for chariots
+- **Sailing**: "seafarers' ocean-roaming canvas-wingèd cars"
+- **Medicine**: "the medicinal blending of soft drugs, whereby they ward each sickness from their side"
+- **Divination**: interpreting dreams, omens, bird-flights, entrails, and flames
+- **Mining**: copper, iron, silver, gold
+
+He sums up: "Know thou, in compass of a single phrase — all arts, for mortals' use, Prometheus gave."[^pb-all-arts]
+
+### The Thetis Secret
+
+Prometheus possesses a secret that gives him leverage over Zeus. He hints that Zeus "schemes such wedlock as shall bring his doom on him, flung from his kingship to oblivion's lap!" and that "the curse his father [Cronos](cronos.md) spake as he fell helpless from his agelong throne, shall be fulfilled unto the utterance!"[^pb-curse] The secret: Zeus is courting a bride whose child "shall o'ercome his sire."[^pb-child] Only Prometheus can reveal how to avert this doom, and he will not do so until freed from his bonds.
+
+He tells [Io](../heroes/io.md) that his liberator will be one "of thy lineage, thirteen times removed" — "a hero shall arise, an archer great, and he shall be my saviour from these woes. Such knowledge of the future [Themis](themis.md) gave, the ancient Titaness, to me her son."[^pb-archer]
+
+### The Mother Question
+
+The play identifies Prometheus's mother as [Themis](themis.md), not the Oceanid Clymene as in the [Theogony](../sources/theogony.md). Prometheus says his mother counselled him to side with Zeus: he acted "following the counsels of my mother Themis." He also appears to identify Themis with [Gaia](gaia.md), calling her "one form of many names."[^pb-mother]
+
+### Defiance
+
+After [Hermes](hermes.md) arrives demanding Zeus's secret and threatening worse punishment, Prometheus refuses with contempt: "mark a plain word — I loathe all gods that are, who reaped my kindness and repay with wrong."[^pb-loathe] He claims to have witnessed "two dynasties of gods already flung" from power (those of [Uranus](uranus.md) and [Cronos](cronos.md)) and predicts Zeus will be the third.[^pb-dynasties] When warned of suffering, he replies: "Why should I fear, who am immortal too?"[^pb-immortal]
+
+Hermes warns that Zeus will bury him in rock, and then:
+
+> "The eagle-hound of Zeus, red-ravening, fell with greed, shall tatter piecemeal all thy flesh to shreds... yea, he shall gorge his fill on blackened fragments, from thy vitals gnawed."[^pb-eagle]
+
+### The Final Cataclysm
+
+Rather than submit, Prometheus challenges Zeus to do his worst. The play ends with earthquake and lightning shattering the crag. Prometheus's last words invoke Earth and Sky as witnesses: "O holy Earth, O mother mine! O Sky, that biddest speed along thy vault the common Light divine, — be witness of my wrong!"[^pb-final] The stage direction reads: "The rocks are rent with fire and earthquake, and fall, burying Prometheus in the ruins."
+
+[^pb-heph]: "kinship is a wondrous thing, and fellowship no less... I dare not leave this work undone; its dire accomplishment is Zeus' command" (Prometheus Bound ~14-18, trans. E.D.A. Morshead)
+[^pb-destroy]: Prometheus tells of Zeus's plan to "make the whole of man's race perish, and plant a new one in its room" and how "none dared stand mine onset, save myself alone" (Prometheus Bound ~232-237, trans. E.D.A. Morshead)
+[^pb-hopes]: "man thro' me ceased to foreknow his death... Blind hopes I sent to nestle in man's heart" (Prometheus Bound ~250-252, trans. E.D.A. Morshead)
+[^pb-fire-gift]: "Yet more I gave them, even the boon of fire" — "many an art too shall they learn thereby!" (Prometheus Bound ~254-256, trans. E.D.A. Morshead)
+[^pb-arts1]: "that art of arts, the lore of number, and the written word that giveth sense to sound, the tool wherewith the gift of memory was wrought in all, and so came art and song" (Prometheus Bound ~460-467, trans. E.D.A. Morshead)
+[^pb-all-arts]: "Know thou, in compass of a single phrase — all arts, for mortals' use, Prometheus gave" (Prometheus Bound ~506, trans. E.D.A. Morshead)
+[^pb-curse]: "the curse his father Cronos spake as he fell helpless from his agelong throne, shall be fulfilled unto the utterance!" (Prometheus Bound ~910-912, trans. E.D.A. Morshead)
+[^pb-child]: "The child she bears him shall o'ercome his sire" — "None, surely—till that I, released from bonds—" (Prometheus Bound ~767-772, trans. E.D.A. Morshead)
+[^pb-archer]: "of thy lineage, thirteen times removed... a hero shall arise, an archer great, and he shall be my saviour from these woes. Such knowledge of the future Themis gave, the ancient Titaness, to me her son" (Prometheus Bound ~774-873, trans. E.D.A. Morshead)
+[^pb-mother]: Prometheus refers to "the counsels of my mother Themis" and appears to identify her as "one form of many names" (Prometheus Bound ~211-213, trans. E.D.A. Morshead)
+[^pb-loathe]: "mark a plain word — I loathe all gods that are, who reaped my kindness and repay with wrong" (Prometheus Bound ~980, trans. E.D.A. Morshead)
+[^pb-dynasties]: "Have I not seen two dynasties of gods already flung therefrom? and soon shall see a third" (Prometheus Bound ~957-959, trans. E.D.A. Morshead)
+[^pb-immortal]: "Why should I fear, who am immortal too?" (Prometheus Bound ~933, trans. E.D.A. Morshead)
+[^pb-eagle]: "The eagle-hound of Zeus, red-ravening, fell with greed, shall tatter piecemeal all thy flesh to shreds... yea, an unbidden guest, a day-long bane, that feeds, and feeds — yea, he shall gorge his fill on blackened fragments, from thy vitals gnawed" (Prometheus Bound ~1022-1028, trans. E.D.A. Morshead)
+[^pb-final]: "O holy Earth, O mother mine! O Sky, that biddest speed along thy vault the common Light divine, — be witness of my wrong!" (Prometheus Bound ~1091-1093, trans. E.D.A. Morshead)
+
+## Variant Traditions
+
+### Parentage
+
+Prometheus's mother differs across sources. The [Theogony](../sources/theogony.md) names her as "Clymene, the fair-ankled daughter of [Oceanus](oceanus.md)" (Theogony 508). The [Bibliotheca](../sources/apollodorus.md) gives the variant name "Asia" (Bibliotheca 1.2.3). The [Prometheus Bound](../sources/aeschylus-prometheus-bound.md) identifies his mother as the Titaness [Themis](themis.md), "the ancient Titaness," and further suggests she is identical with [Gaia](gaia.md) — "one form of many names."
+
+### Consort
+
+The Chorus of the Prometheus Bound refers to "my sister" Hesione as Prometheus's bride. This consort is not mentioned in Hesiod or the mythographers.
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** 2.1247-1249: Bound on Caucasus by bronze fetters; Argonauts hear his screams and see the eagle flying overhead
@@ -167,3 +236,4 @@ Prometheus's son was Deucalion, who "by the advice of Prometheus constructed a c
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.1-1.7.2: Moulded men from water and earth; fire in fennel stalk; nailed to Caucasus by Hephaestus; eagle and liver; son Deucalion and the flood
 - **[Fabulae](../sources/hyginus.md)** §142: First fashioned men from clay; Vulcan made woman's form at Jove's command; Minerva gave it life; gods each gave gift; named Pandora; given in marriage to Epimetheus; Pyrrha her daughter, first mortal born
 - **[Fabulae](../sources/hyginus.md)** §144: Men sought fire but didn't know how to keep it alive; brought fire in fennel-stalk; showed how to keep covered with ashes; Mercury bound him with iron spikes on Caucasus at Jove's command; eagle ate his heart; regrew at night; after 30,000 years Hercules killed eagle and freed him
+- **[Prometheus Bound](../sources/aeschylus-prometheus-bound.md)**: Full dramatic treatment — chained by [Hephaestus](hephaestus.md) in Scythia; catalogues gifts to humanity (fire, number, writing, medicine, divination, mining); mother identified as [Themis](themis.md); possesses secret of Zeus's downfall (a marriage whose child will overthrow him); prophesies [Io](../heroes/io.md)'s descendants and his own liberation by an archer-hero thirteen generations from Io; defies [Hermes](hermes.md); buried under shattered crag

@@ -27,8 +27,16 @@ This differs from the [Theogony](../sources/theogony.md) in several ways: Atlas 
 
 [^od1-atlas]: "the daughter of the wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder" (Odyssey 1.58-60, trans. Butcher and Lang)
 
+## In Aeschylus' [Prometheus Bound](../sources/aeschylus-prometheus-bound.md)
+
+[Prometheus](prometheus.md) speaks of his brother's fate with pity: "deeply do I rue my brother Atlas' doom. Far off he stands in sunset land, and on his shoulder bears the pillar'd mountain-mass whose base is earth, whose top is heaven, and its ponderous load too great for any grasp."[^pb-atlas] The Chorus echoes this, singing that Atlas "beareth for ever and ever the burden and poise of the sky... and earth re-echoes his cry."[^pb-atlas-chorus]
+
+[^pb-atlas]: "deeply do I rue my brother Atlas' doom. Far off he stands in sunset land, and on his shoulder bears the pillar'd mountain-mass whose base is earth, whose top is heaven, and its ponderous load too great for any grasp" (Prometheus Bound ~348-352, trans. E.D.A. Morshead)
+[^pb-atlas-chorus]: "Atlas the Titan, the god, in a ruthless, invincible chain! He beareth for ever and ever the burden and poise of the sky" (Prometheus Bound ~425-427, trans. E.D.A. Morshead)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** I: "The wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder"; father of Calypso
 - **[Theogony](../sources/theogony.md)** 509, 517-520, 746-749: Named among Iapetus's sons; holds up heaven; stationed at entrance to Tartarus
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.3: "to Iapetus and Asia was born Atlas, who has the sky on his shoulders" — mother named as Asia (variant: Clymene in Theogony)
+- **[Prometheus Bound](../sources/aeschylus-prometheus-bound.md)**: Prometheus pities his brother's doom; "in sunset land... bears the pillar'd mountain-mass"; Chorus sings of Atlas as the only other to suffer comparable pain

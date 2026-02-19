@@ -47,6 +47,7 @@ Oedipus, defending himself against [Creon](../heroes/creon.md)'s accusations, ar
 - **[Fabulae](../sources/hyginus.md)** §§66-67: Oracle warns him of son's danger; orders infant exposed; killed by Oedipus at the crossroads
 - **[Oedipus the King](../sources/sophocles-oedipus-king.md)**: Oracle cited; murder at the crossroads described by Jocasta; appearance described; old herdsman confirms child's origin
 - **[Oedipus at Colonus](../sources/sophocles-oedipus-colonus.md)**: Referenced in Oedipus's self-defense
+- **[Seven Against Thebes](../sources/aeschylus-seven-against-thebes.md)**: Chorus recounts Apollo's warning: "thrice Apollo spoke this word divine, from Delphi's central shrine, to Laius — Die thou childless! thus alone can the land's weal be won"
 
 [^apd-labdacus]: Bibliotheca 3.5.5, trans. J.G. Frazer
 [^apd-oracle]: "being drunk, had intercourse with his wife" and then when the child was born "pierced the child's ankles with brooches and gave it to a herdsman... to expose" (Bibliotheca 3.5.7, trans. J.G. Frazer)

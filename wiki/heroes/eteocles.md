@@ -34,6 +34,33 @@ Eteocles does not appear as a character but is central to the play's premise. [C
 
 Eteocles appears as the reigning king of Thebes, firm in his refusal to share power. [Jocasta](../heroes/jocasta.md) attempts to mediate between her sons; Eteocles refuses to yield the throne. He falls in single combat with Polyneices, and Jocasta kills herself over their bodies.[^phoen-death]
 
+## In Aeschylus' [Seven Against Thebes](../sources/aeschylus-seven-against-thebes.md)
+
+Eteocles is the central character, defending [Thebes](../places/thebes.md) as its king and military commander. He opens the play rallying the citizens and invoking [Zeus](../deities/zeus.md), "my father's Curse," and the city's gods.[^sat-rally]
+
+### The Shield Scene
+
+As a spy reports each Argive champion's shield device and boast, Eteocles coolly assigns a Theban defender to each gate. He reads the enemy's blazons as ill omens for the attackers themselves: Tydeus's night sky means "if night fall upon his eyes in death, yon vaunting blazon will its own truth prove."[^sat-tydeus] Against Capaneus, who vaunts that "God willing or unwilling" he will sack Thebes, Eteocles trusts that "by the might of Zeus, a bolt of flame in more than semblance shall descend on him."[^sat-capaneus]
+
+### The Seventh Gate
+
+When he learns that [Polynices](../heroes/polyneices.md) stands at the seventh gate bearing a shield with Justice leading a warrior home, Eteocles resolves to face him personally: "Ruler, against one fain to snatch the rule, brother with brother matched, and foe with foe, will I confront the issue."[^sat-seventh] The Chorus begs him not to go — "shall thine own brother's blood be victory's palm?" — but Eteocles replies fatally: "Ill which the gods have sent thou canst not shun!"[^sat-fate]
+
+He acknowledges the curse: "Nay — since the god is urgent for our doom, let Laius' house, by Phoebus loathed and scorned, follow the gale of destiny, and win its great inheritance, the gulf of hell!"[^sat-doom]
+
+### The Mutual Fratricide
+
+The brothers kill each other. The spy reports: "the earth has drunk blood of twin princes, by each other slain."[^sat-death] The Chorus mourns: "Each in the left side smitten, see them laid — the children of one womb, slain by a mutual doom!"[^sat-mutual]
+
+[^sat-rally]: "O Zeus and Earth and city-guarding gods, and thou, my father's Curse, of baneful might, spare ye at least this town" (Seven Against Thebes ~69-72, trans. E.D.A. Morshead)
+[^sat-tydeus]: "if night fall upon his eyes in death, yon vaunting blazon will its own truth prove, and he is prophet of his folly's fall" (Seven Against Thebes ~398-400, trans. E.D.A. Morshead)
+[^sat-capaneus]: "Right well I trust — if justice grants the word — that, by the might of Zeus, a bolt of flame in more than semblance shall descend on him" (Seven Against Thebes ~452-455, trans. E.D.A. Morshead)
+[^sat-seventh]: "Ruler, against one fain to snatch the rule, brother with brother matched, and foe with foe, will I confront the issue. To the wall!" (Seven Against Thebes ~674-676, trans. E.D.A. Morshead)
+[^sat-fate]: "Ill which the gods have sent thou canst not shun!" (Seven Against Thebes ~719, trans. E.D.A. Morshead)
+[^sat-doom]: "since the god is urgent for our doom, let Laius' house, by Phoebus loathed and scorned, follow the gale of destiny, and win its great inheritance, the gulf of hell!" (Seven Against Thebes ~689-693, trans. E.D.A. Morshead)
+[^sat-death]: "the earth has drunk blood of twin princes, by each other slain" (Seven Against Thebes ~818, trans. E.D.A. Morshead)
+[^sat-mutual]: "Each in the left side smitten, see them laid — the children of one womb, slain by a mutual doom!" (Seven Against Thebes ~888-890, trans. E.D.A. Morshead)
+
 ## Variant Traditions
 
 Apollodorus notes that some say the children were borne not by Jocasta but by Eurygania, daughter of Hyperphas (3.5.8). The question of which brother first broke the alternating-year arrangement varies; in Sophocles, Ismene says simply that the younger brother expelled the elder, while Polyneices tells the same story from his own perspective as the wronged party.
@@ -46,6 +73,7 @@ Apollodorus notes that some say the children were borne not by Jocasta but by Eu
 - **[Oedipus at Colonus](../sources/sophocles-oedipus-colonus.md)** ~766-780: Described (by Ismene) as having expelled Polyneices; cursed by Oedipus
 - **[Antigone](../sources/sophocles-antigone.md)**: Absent character; honored dead, contrasted with Polyneices
 - **[Phoenissae](../sources/euripides-phoenissae.md)**: Ruling king; refuses to share power; killed in single combat with Polyneices
+- **[Seven Against Thebes](../sources/aeschylus-seven-against-thebes.md)**: Central character; commands defense of Thebes; assigns champions to each gate; reads enemy shield devices as omens; resolves to face Polynices at seventh gate despite Chorus's plea; accepts curse; dies in mutual fratricide
 
 [^apd-mutual]: "Eteocles and Polynices slew each other" (Bibliotheca 3.7.1, trans. J.G. Frazer)
 [^hyg-eteocles]: Fabulae §68, trans. Mary Grant

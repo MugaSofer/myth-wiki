@@ -106,9 +106,22 @@ The [Fabulae](../sources/hyginus.md) gives a brief account emphasizing Typhoeus'
 [^hyg-152-challenge]: "He challenged Jove to see if Jove would content with him for the rule" (Fabulae §152, trans. Mary Grant)
 [^hyg-152-etna]: "Jove struck his breast with a flaming thunderbolt. When it was burning him he put Mount Etna, which is in Sicily, over him. From this it is said to burn still" (Fabulae §152, trans. Mary Grant)
 
+## In Aeschylus' [Prometheus Bound](../sources/aeschylus-prometheus-bound.md)
+
+[Prometheus](../deities/prometheus.md) recounts seeing "Earth's child, the monstrous thing of war, that in Cilicia's hollow places dwelt — Typho." He calls him "hundred-headed" and describes: "his jaws gaped horror and their hiss was death, and all heaven's host he challenged to the fray, while, as one vowed to storm the power of [Zeus](../deities/zeus.md), forth from his eyes he shot a demon glare."[^pb-typh-desc]
+
+The defeat is emphatic: "the unsleeping bolt of Zeus, the downward levin with its rush of flame, smote on him, and made dumb for evermore the clamour of his vaunting: to the heart stricken he lay, and all that mould of strength sank thunder-shattered to a smouldering ash." Now "helpless... he lieth by the narrow strait of sea, crushed at the root of Etna's mountain-pile."[^pb-typh-defeat]
+
+Prometheus adds that [Hephaestus](../deities/hephaestus.md) sits forging "high on the pinnacles" of Etna, and predicts that "on some hereafter day shall burst and stream the lava-floods, that shall with ravening fangs gnaw thy smooth lowlands, fertile Sicily!"[^pb-typh-etna]
+
+[^pb-typh-desc]: "Earth's child, the monstrous thing of war, that in Cilicia's hollow places dwelt — Typho; I saw his hundred-headed form... his jaws gaped horror and their hiss was death, and all heaven's host he challenged to the fray" (Prometheus Bound ~355-363, trans. E.D.A. Morshead)
+[^pb-typh-defeat]: "the unsleeping bolt of Zeus, the downward levin with its rush of flame, smote on him... to the heart stricken he lay, and all that mould of strength sank thunder-shattered to a smouldering ash; and helpless now and laid in ruin huge he lieth by the narrow strait of sea, crushed at the root of Etna's mountain-pile" (Prometheus Bound ~363-375, trans. E.D.A. Morshead)
+[^pb-typh-etna]: "High on the pinnacles whereof there sits Hephaestus, sweltering at the forge; and thence on some hereafter day shall burst and stream the lava-floods" (Prometheus Bound ~375-380, trans. E.D.A. Morshead)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 306 (as Typhaon), 820-880: Father of monsters; battle with Zeus
 - **[Iliad](../sources/iliad.md)** II: "Typhoeus' couch" in the country of the Arimoi, where Zeus lashes the earth
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.3: Expanded narrative — birth in Cilicia, detailed description, gods flee to Egypt as animals, Zeus defeated and sinews stolen, recovery via Hermes and Aegipan, pursuit through Nysa/Haemus/Sicily, Mt. Etna cast upon him
 - **[Fabulae](../sources/hyginus.md)** §152: Tartarus begat by Tartara; hundred dragon heads from shoulders; challenged Zeus for rule; struck by thunderbolt and buried under Mt. Etna; volcano still burns
+- **[Prometheus Bound](../sources/aeschylus-prometheus-bound.md)**: "Earth's child" dwelling in Cilicia; hundred-headed; "his jaws gaped horror and their hiss was death"; crushed by Zeus's thunderbolt; lies under Etna with Hephaestus forging above; lava predicted

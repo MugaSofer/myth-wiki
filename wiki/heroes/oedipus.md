@@ -122,6 +122,7 @@ Thunder sounds — [Zeus](../deities/zeus.md)'s summons. Oedipus, now guiding ra
 - **[Phoenissae](../sources/euripides-phoenissae.md)**: Blind, confined in palace; has cursed his sons to divide the house with the sword; banished by Creon; prophesies his death at Colonus in Athens; Antigone chooses exile with him
 - **[Oedipus the King](../sources/sophocles-oedipus-king.md)**: Plague in Thebes; Apollo's oracle demands finding Laius's killer; Teiresias accuses Oedipus; Jocasta reveals the crossroads; Corinthian messenger and herdsman confirm his identity; Jocasta hangs herself; Oedipus blinds himself with golden brooches; begs for exile
 - **[Oedipus at Colonus](../sources/sophocles-oedipus-colonus.md)**: Blind exile arrives at grove of Eumenides at Colonus; defends his innocence; Theseus grants protection; Creon seizes daughters by force; Polyneices cursed; mysterious divine death witnessed only by Theseus
+- **[Seven Against Thebes](../sources/aeschylus-seven-against-thebes.md)**: Present through his curse; Chorus recounts "he flung on his children a curse — The glory of wealth and of pride, with iron, not gold, in your hands, ye shall come, at the last, to divide"; curse fulfilled in mutual fratricide
 
 [^apd-oedipus-oracle]: "The oracle had warned him not to beget a son, for the son that should be begotten would kill his father; nevertheless, flushed with wine, he had intercourse with his wife" (Bibliotheca 3.5.7, trans. J.G. Frazer)
 

@@ -44,6 +44,7 @@ Ismene asks what life holds for her without her sister. When Creon dismisses the
 - **[Oedipus the King](../sources/sophocles-oedipus-king.md)** ~1469-1530: Brought as a child for Oedipus's final embrace
 - **[Oedipus at Colonus](../sources/sophocles-oedipus-colonus.md)** ~310-460: Arrives alone with news of oracle and sons' rivalry; seized by Creon's men; rescued by Theseus
 - **[Antigone](../sources/sophocles-antigone.md)** 1-99, 526-581: Refuses to help bury Polyneices; later tries to share Antigone's guilt and is refused
+- **[Seven Against Thebes](../sources/aeschylus-seven-against-thebes.md)**: Mourns alongside Antigone over the bodies of Eteocles and Polynices
 
 [^apd-ismene]: Bibliotheca 3.5.8, trans. J.G. Frazer
 [^sot-daughters]: "But for my daughters twain, poor innocent maids, / Who ever sat beside me at the board / Sharing my viands, drinking of my cup, / For them, I pray thee, care" (Oedipus the King ~1462-1465, trans. F. Storr)

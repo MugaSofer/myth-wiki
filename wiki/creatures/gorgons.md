@@ -70,5 +70,6 @@ Perseus gave the Gorgon's head to [Athena](../deities/athena.md), who "inserted 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.6: Daughters of Phorcus and Ceto (deferred to the Perseus narrative)
 - **[Iliad](../sources/iliad.md)** XI: "The Gorgon fell of aspect" on Agamemnon's shield, flanked by Dread and Terror
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.2-2.4.3: Full physical description — dragon-scaled heads, swine tusks, brazen hands, golden wings, petrifying gaze; three named (Stheno, Euryale, Medusa); only Medusa mortal; beheaded by Perseus; Pegasus and Chrysaor sprang forth; head given to Athena for her shield
+- **[Prometheus Bound](../sources/aeschylus-prometheus-bound.md)**: Prometheus warns Io of the Gorgon-haunted plains beside Cisthene; "he of men who looks on them shall gasp away his life"; their sisters the Graeae described as "swan-shapen, single-toothed, and all peering thro' shared endowment of one eye"
 
 [^cyp-gorgons]: "By him she conceived and bare the Gorgons, fearful monsters who lived in Sarpedon, a rocky island in deep-eddying Oceanus" (Cypria, Fragment 21, trans. H.G. Evelyn-White)

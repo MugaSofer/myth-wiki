@@ -1064,11 +1064,76 @@ Created dedicated pages for major entities across all previously processed sourc
 
 **Wiki size:** ~260 pages.
 
+### Aeschylus, Prometheus Bound — COMPLETE
+
+Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~4987-6706), trans. E.D.A. Morshead (1881)
+
+**Pages created:** 1
+- `sources/aeschylus-prometheus-bound.md`
+
+**Pages updated:** 8
+- `deities/prometheus.md` — Major: "In Aeschylus' Prometheus Bound" section (gifts to humanity, Thetis secret, mother question, defiance, cataclysm), Variant Traditions, Appearances
+- `heroes/io.md` — Major: "In Aeschylus' Prometheus Bound" section (arrival, Zeus's pursuit, prophecy of wanderings and descendants), Variant Traditions, Appearances
+- `deities/oceanus.md` — "In Aeschylus' Prometheus Bound" section, Appearances
+- `deities/themis.md` — "In Aeschylus' Prometheus Bound" section, Appearances
+- `deities/atlas.md` — "In Aeschylus' Prometheus Bound" section, Appearances
+- `creatures/typhoeus.md` — "In Aeschylus' Prometheus Bound" section, Appearances
+- `deities/hephaestus.md` — Appearances
+- `deities/hermes.md` — Appearances
+- `deities/zeus.md` — Appearances
+- `creatures/gorgons.md` — Appearances
+
+**Key content:**
+- Prometheus's gifts to humanity catalogued in unprecedented detail (number, writing, animal domestication, sailing, medicine, divination, mining)
+- Themis identified as Prometheus's mother (variant from Theogony's Clymene)
+- The Thetis secret: Zeus's marriage will produce a child who overthrows him
+- Io's wanderings prophesied in geographical detail; Bosporus and Ionian Sea named for her
+- Io's descendants: Epaphus → Danaids → Hypermnestra → Heracles (13 generations)
+- Oceanus's only significant speaking role in extant Greek literature
+
+### Aeschylus, Seven Against Thebes — COMPLETE
+
+Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E.D.A. Morshead (1881)
+
+**Pages created:** 1
+- `sources/aeschylus-seven-against-thebes.md`
+
+**Pages updated:** 6
+- `heroes/eteocles.md` — "In Aeschylus' Seven Against Thebes" section (shield scene, seventh gate, fratricide), Appearances
+- `events/seven-against-thebes.md` — "In Aeschylus' Seven Against Thebes" section (all seven champions and shield devices, Apollo's oracle, Oedipus's curse, Antigone's defiance), Appearances
+- `heroes/antigone.md` — "In Aeschylus' Seven Against Thebes" section (defiance of burial ban), Appearances
+- `heroes/oedipus.md` — Appearances
+- `heroes/laius.md` — Appearances
+- `heroes/ismene.md` — Appearances
+
+**Key content:**
+- Full shield scene: all seven champions with shield devices and Theban defenders
+- Eteocles as fatalistic military commander accepting his father's curse
+- Apollo's triple warning to Laius to die childless
+- Oedipus's curse: divide inheritance with iron, not gold
+- Antigone's earliest surviving defiance of the burial ban
+- Symbolic mirror: Hippomedon's Typhon shield vs. Hyperbius's Zeus shield
+
+### Aeschylus' Suppliant Maidens (from aeschylus-four-plays-morshead.txt)
+
+**Processed.** The fifty daughters of Danaus flee Egypt and seek asylum in Argos, claiming descent from Io.
+
+**Pages created:**
+- `sources/aeschylus-suppliant-maidens.md` — source page with contents summary
+- `heroes/danaus.md` — new page for Danaus
+
+**Pages updated:**
+- `heroes/io.md` — Appearances entry
+- `deities/zeus.md` — Appearances entry
+- `index.md` — source and hero entries added
+
+**Key content:** Io's story retold through the Danaids; genealogy Io → Epaphus → Libya → Belus → Aegyptus/Danaus; Zeus as protector of suppliants; Danaus as prudent counselor; asylum in Argos; Egyptian herald confrontation; Aphrodite, Desire, Persuasion, Harmonia honored.
+
 ## Next
 
 ### Remaining Sources (in priority order)
 
-1. **More Aeschylus** — Prometheus Bound, Seven Against Thebes, Suppliant Maidens, Persians (sources/aeschylus-four-plays-morshead.txt already downloaded)
+1. **More Aeschylus** — Persians (sources/aeschylus-four-plays-morshead.txt already downloaded)
 2. **More Greek tragedies** — Sophocles (Ajax, Electra, Trachiniae)
 3. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
 
