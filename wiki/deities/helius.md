@@ -73,6 +73,28 @@ Odysseus notes that he was not present for this divine exchange, and that his kn
 [^od-zeus]: "Helios, do thou, I say, shine on amidst the deathless gods, and amid mortal men upon the earth, the grain-giver. But as for me, I will soon smite their swift ship with my white bolt, and cleave it in pieces in the midst of the wine-dark deep." (Odyssey XII.6905-6909, trans. Butcher and Lang)
 [^od-calypso]: "This I heard from Calypso of the fair hair; and she said that she herself had heard it from Hermes the Messenger." (Odyssey XII.6911-6912, trans. Butcher and Lang)
 
+## In [Pindar](../sources/pindar.md)
+
+### The Division of the Earth and Rhodes (Olympian VII)
+
+Pindar tells how Helius was absent when [Zeus](zeus.md) and the other gods divided the earth among themselves: "when Zeus and the other gods made division of the earth among them, not yet was island Rhodes apparent in the open sea, but in the briny depths lay hid. And for that Helios was otherwhere, none drew a lot for him; so they left him portionless of land, that holy god."[^pin-division]
+
+When Helius protested, Zeus offered to cast lots afresh, but Helius refused: "he suffered him not, for that he said that beneath the hoary sea he saw a certain land waxing from its root in earth, that should bring forth food for many men, and rejoice in flocks."[^pin-rhodes-rising] He asked Lachesis to swear an oath that the island, once risen, would be his alone.[^pin-lachesis]
+
+"And in the end of the matter his speech had fulfilment; there sprang up from the watery main an island, and the father who begetteth the keen rays of day hath the dominion thereof, even the lord of fire-breathing steeds."[^pin-dominion] On Rhodes, "having lain with Rhodos he begat seven sons, who had of him minds wiser than any among the men of old; and one begat Kameiros, and Ialysos his eldest, and Lindos: and they held each apart their shares of cities, making threefold division of their father's land."[^pin-sons]
+
+### Athena's Birth (Olympian VII)
+
+Pindar also calls Helius "the god who giveth light to men, Hyperion" and says that at [Athena](athena.md)'s birth from Zeus's head, he "bade his beloved sons see that they guard the payment of the debt" by building the first altar for the goddess.[^pin-hyperion] But they "had brands burning yet kindled not the seed of flame, but with fireless rites they made a grove on the hill of the citadel" — an honest mistake. For this, "Zeus brought a yellow cloud into the sky and rained much gold upon the land; and Glaukopis herself gave them to excel the dwellers upon earth in every art of handicraft."[^pin-golden-rain]
+
+[^pin-division]: "when Zeus and the other gods made division of the earth among them, not yet was island Rhodes apparent in the open sea, but in the briny depths lay hid. And for that Helios was otherwhere, none drew a lot for him; so they left him portionless of land, that holy god" (Pindar, Olympian VII, trans. Ernest Myers)
+[^pin-rhodes-rising]: "he suffered him not, for that he said that beneath the hoary sea he saw a certain land waxing from its root in earth, that should bring forth food for many men, and rejoice in flocks" (Pindar, Olympian VII)
+[^pin-lachesis]: "he bade her of the golden fillet, Lachesis, to stretch her hands on high, nor violate the gods' great oath, but with the son of Kronos promise him that the isle sent up to the light of heaven should be thenceforth a title of himself alone" (Pindar, Olympian VII)
+[^pin-dominion]: "there sprang up from the watery main an island, and the father who begetteth the keen rays of day hath the dominion thereof, even the lord of fire-breathing steeds" (Pindar, Olympian VII)
+[^pin-sons]: "having lain with Rhodos he begat seven sons, who had of him minds wiser than any among the men of old; and one begat Kameiros, and Ialysos his eldest, and Lindos: and they held each apart their shares of cities, making threefold division of their father's land" (Pindar, Olympian VII)
+[^pin-hyperion]: "the god who giveth light to men, Hyperion, bade his beloved sons see that they guard the payment of the debt, that they should build first for the goddess an altar in the sight of all men" (Pindar, Olympian VII)
+[^pin-golden-rain]: "they though they had brands burning yet kindled not the seed of flame, but with fireless rites they made a grove on the hill of the citadel. For them Zeus brought a yellow cloud into the sky and rained much gold upon the land; and Glaukopis herself gave them to excel the dwellers upon earth in every art of handicraft" (Pindar, Olympian VII)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### Mars and Venus (4.167-189)
@@ -92,6 +114,7 @@ The [Metamorphoses](../sources/metamorphoses.md) presents [Helius](helius.md) as
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.2: Born of [Hyperion](hyperion.md) and [Theia](theia.md) (as "Sun")
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.1: Father of Aeetes, [Circe](circe.md), and Pasiphae — "Aeetes, son of the Sun and of Perseis, and brother of Circe and Pasiphae, whom Minos married"[^apd-children]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.28: Gave Medea a car drawn by winged dragons for her escape from Corinth — "having got from the Sun a car drawn by winged dragons she fled on it to Athens"[^apd-dragon-car]
+- **[Pindar](../sources/pindar.md)**, Olympian VII: Missed the division of earth among the gods; claimed Rhodes as it rose from the sea; lay with Rhodos and begat seven sons (founders of Kameiros, Ialysos, and Lindos); called "the lord of fire-breathing steeds" and "Hyperion"; bade his sons build the first altar for [Athena](athena.md) at her birth
 
 [^apd-children]: "Aeetes, son of the Sun and of Perseis, and brother of Circe and Pasiphae, whom Minos married" (Bibliotheca 1.9.1, trans. Frazer)
 [^apd-dragon-car]: "having got from the Sun a car drawn by winged dragons she fled on it to Athens" (Bibliotheca 1.9.28, trans. Frazer)

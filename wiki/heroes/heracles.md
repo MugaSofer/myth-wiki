@@ -545,6 +545,29 @@ Heracles built his pyre on Mount Oeta, spread the Nemean lion skin on top, and "
 [^met-her-pyre]: "club for pillow, you lay down to sleep, as placid as if, with abounding cups of generous wine and crowned with garlands, you were safe, reclining on a banquet-couch" (Metamorphoses 9.233-238, trans. Brookes More)
 [^met-her-apotheosis]: "his own celestial, wonderful appeared, majestic and of godlike dignity. And him, the glorious father of the Gods in the great chariot drawn by four swift steeds, took up above the wide-encircling clouds, and set him there amid the glittering stars" (Metamorphoses 9.264-272, trans. Brookes More)
 
+## In [Pindar](../sources/pindar.md)
+
+### The Battle at Pylos (Olympian IX)
+
+Pindar alludes to the tradition that Heracles fought against the gods at Pylos: "the hands of Herakles have wielded his club against the trident, when at Pylos [Poseidon](../deities/poseidon.md) took his stand and prest hard on him, ay, and there prest him hard embattled Phoibos with his silver bow, neither would [Hades](../deities/hades.md) keep his staff unraised, wherewith he leadeth down to ways beneath the hollow earth the bodies of men that die."[^pin-pylos]
+
+But Pindar immediately recoils from the tale: "O my mouth, fling this tale from thee, for to speak evil of gods is a hateful wisdom, and loud and unmeasured words strike a note that trembleth upon madness."[^pin-pylos-reject] This is characteristic of Pindar's theological sensitivity — as with the Tantalus cannibal feast in Olympian I, he refuses to tell stories he considers unworthy of the gods.
+
+### The Founding of the Olympic Games (Olympian XI)
+
+Pindar tells how Heracles founded the Olympic games after defeating Augeas. Heracles "slew Kleatos, Poseidon's goodly son, and slew also Eurytos, that he might wrest from tyrannous Augeas against his will reward for service done."[^pin-moliones] He lay in ambush at Kleonai because "these same violent sons of Molos made havoc of his own Tirynthian folk by hiding in the valleys of Elis." Then Augeas too "fell into captivity and escaped not precipitate death."[^pin-augeas]
+
+Heracles then established the sacred precinct at Olympia: "the mighty son of Zeus having gathered together all his host at Pisa, and all the booty, measured a sacred grove for his sovereign Father; and having fenced round the Altis he marked the bounds thereof in a clear space." He "paid honour to the river Alpheos together with the twelve greatest gods. And he named it by the name of the Hill of Kronos; for theretofore it was without name, when Oinomaos was king."[^pin-altis]
+
+Pindar lists the first Olympic victors: "In the foot-race down the straight course of the stadion was Likymnios' son Oionos first... in the wrestling was Tegea glorified by Echemos: Doryklos won the prize of boxing... and with the four-horse chariot, Samos of Mantinea."[^pin-first-games]
+
+[^pin-pylos]: "the hands of Herakles have wielded his club against the trident, when at Pylos Poseidon took his stand and prest hard on him, ay, and there prest him hard embattled Phoibos with his silver bow, neither would Hades keep his staff unraised, wherewith he leadeth down to ways beneath the hollow earth the bodies of men that die" (Pindar, Olympian IX, trans. Ernest Myers)
+[^pin-pylos-reject]: "O my mouth, fling this tale from thee, for to speak evil of gods is a hateful wisdom, and loud and unmeasured words strike a note that trembleth upon madness" (Pindar, Olympian IX)
+[^pin-moliones]: "by the ancient tomb of Pelops the mighty Herakles founded, after that he slew Kleatos, Poseidon's goodly son, and slew also Eurytos, that he might wrest from tyrannous Augeas against his will reward for service done" (Pindar, Olympian XI)
+[^pin-augeas]: "Likewise Augeas last of all in his perplexity fell into captivity and escaped not precipitate death" (Pindar, Olympian XI)
+[^pin-altis]: "the mighty son of Zeus having gathered together all his host at Pisa, and all the booty, measured a sacred grove for his sovereign Father; and having fenced round the Altis he marked the bounds thereof in a clear space... and paid honour to the river Alpheos together with the twelve greatest gods. And he named it by the name of the Hill of Kronos; for theretofore it was without name, when Oinomaos was king" (Pindar, Olympian XI)
+[^pin-first-games]: "In the foot-race down the straight course of the stadion was Likymnios' son Oionos first... in the wrestling was Tegea glorified by Echemos: Doryklos won the prize of boxing, a dweller in the city of Tiryns, and with the four-horse chariot, Samos of Mantinea" (Pindar, Olympian XI)
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 9.1-272: Wrestles Achelous; origin of Cornucopia; Nessus's poisoned tunic; agonizing death; lists his labours; builds pyre on Oeta; apotheosis among the stars
@@ -602,6 +625,9 @@ Heracles built his pyre on Mount Oeta, spread the Nemean lion skin on top, and "
 - **[Fabulae](../sources/hyginus.md)** §34: Nessus (son of Ixion and Nubes) carried Deianira across Evenus, tried to ravish her in river; Heracles pierced him with arrows; dying Nessus gave blood as false love-charm (knowing arrow poison from Hydra's gall); Deianira preserved it
 - **[Fabulae](../sources/hyginus.md)** §35: Refused Iole by Eurytus; attacked Oechalia; threatened to kill her relatives before her eyes; Iole "with resolute mind, suffered them to be slain before her eyes"; sent her as captive to Deianira
 - **[Fabulae](../sources/hyginus.md)** §36: Deianira sent robe dipped in Nessus's blood via Lichas; tested it, saw it burn in sunlight; Heracles wore it, leaped in stream (flames increased), flesh came off with garment; whirled Lichas into sea (rock called Lichas appeared); Philoctetes built pyre on Oita; gave Philoctetes bow and arrows; Deianira killed herself
+- **[Pindar](../sources/pindar.md)**, Olympian III: Founded the Olympic games; brought the olive from the Hyperboreans
+- **[Pindar](../sources/pindar.md)**, Olympian IX: Fought [Poseidon](../deities/poseidon.md), [Apollo](../deities/apollo.md), and [Hades](../deities/hades.md) at Pylos (Pindar recoils: "to speak evil of gods is a hateful wisdom")
+- **[Pindar](../sources/pindar.md)**, Olympian XI: Slew Kleatos (son of Poseidon) and Eurytos at Kleonai; defeated Augeas; founded Olympic sacred precinct at Pisa; fenced the Altis; named the Hill of Kronos; honoured the twelve gods; first Olympic victors listed
 
 [^apd-argonaut]: "Hercules, son of Zeus" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-hylas]: "Hylas, son of Thiodamas, a minion of Hercules, had been sent to draw water and was ravished away by nymphs on account of his beauty... while the two were seeking for Hylas, the ship put to sea... Hercules returned to Argos" (Bibliotheca 1.9.19, trans. Frazer)

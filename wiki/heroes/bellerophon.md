@@ -135,13 +135,31 @@ The Fabulae provides a detail about Bellerophon's downfall absent from other sou
 
 Unlike the Iliad (which doesn't mention Stheneboea's fate) or Apollodorus, the Fabulae adds: "But the king, praising his valor, gave him his other daughter in marriage, and Stheneboea, hearing of it, killed herself."[^hyg-57-suicide]
 
-> **NEW DETAIL:** Stheneboea's suicide upon hearing of Bellerophon's marriage is unique to the Fabulae. The dislocated hip from a fall in the Aleian plain is also distinctive, providing a physical cause for the wandering that the Iliad presents as purely divine rejection.
-
 [^hyg-57-accusation]: "When Bellerophon had come as an exile to the court of King Proetus, Stheneboea, the King's wife, fell in love with him. On his refusal to lie with her, she falsely told her husband she had been forced by him" (Fabulae §57, trans. Mary Grant)
 [^hyg-57-letter]: "Proetus, hearing this, wrote a letter about it, and sent him to Iobates, Stheneboea's father" (Fabulae §57, trans. Mary Grant)
 [^hyg-57-chimaera]: "After reading the letter, Iobates was reluctant to kill such a hero, but sent him to kill the Chimaera, a three-formed creature said to breathe forth fire. [Likewise: forepart lion, rearpart snake, middle she-goat.] This he slew, riding on Pegasus" (Fabulae §57, trans. Mary Grant)
 [^hyg-57-fall]: "he is said to have fallen in the Aleian plains and have dislocated his hip" (Fabulae §57, trans. Mary Grant)
 [^hyg-57-suicide]: "the king, praising his valor, gave him his other daughter in marriage, and Stheneboea, hearing of it, killed herself" (Fabulae §57, trans. Mary Grant)
+
+## In [Pindar](../sources/pindar.md)
+
+### The Golden Bridle (Olympian XIII)
+
+Pindar tells the story of Bellerophon in connection with Corinth, "the city of Peirene." When Bellerophon "longed to bridle the snaky Gorgon's son, Pegasos, at Peirene's spring," he "suffered many things, until the time when maiden Pallas brought to him a bit with head-band of gold, and from a dream behold it was very deed."[^pin-bridle]
+
+[Athena](../deities/athena.md) appeared to him as he slept: "Sleepest thou O Aiolid king? Come, take this charmer of steeds, and show it to thy father the tamer of horses, with the sacrifice of a white bull."[^pin-dream] When he woke, "he seized the wondrous bit that lay by his side" — the bridle from the dream was real.[^pin-wake] A seer instructed him to sacrifice to [Poseidon](../deities/poseidon.md) ("the wide-ruling Earth-enfolder") and build an altar to "Athene, queen of steeds."[^pin-seer]
+
+With the bridle, "bold Bellerophon bind round the winged steed's jaw the softening charm, and make him his: then straightway he flew up and disported him in his brazen arms."[^pin-tame] Pindar lists his aerial feats: "from out of the bosom of the chill and desert air, he smote the archer host of Amazons, and slew the Solymoi, and Chimaira breathing fire."[^pin-feats]
+
+Pindar deliberately omits the ending: "I will keep silence touching the fate of him: howbeit Pegasos hath in [Olympus](../places/olympus.md) found a home in the ancient stalls of Zeus."[^pin-silence]
+
+[^pin-bridle]: "he who once, when he longed to bridle the snaky Gorgon's son, Pegasos, at Peirene's spring, suffered many things, until the time when maiden Pallas brought to him a bit with head-band of gold, and from a dream behold it was very deed" (Pindar, Olympian XIII, trans. Ernest Myers)
+[^pin-dream]: "Sleepest thou O Aiolid king? Come, take this charmer of steeds, and show it to thy father the tamer of horses, with the sacrifice of a white bull" (Pindar, Olympian XIII)
+[^pin-wake]: "he seized the wondrous bit that lay by his side, and found with joy the prophet of the land" (Pindar, Olympian XIII)
+[^pin-seer]: "the seer bade him with all speed obey the vision, and that when he should have sacrificed to the wide-ruling Earth-enfolder the strong-foot beast, he should build an altar straightway to Athene, queen of steeds" (Pindar, Olympian XIII)
+[^pin-tame]: "bold Bellerophon bind round the winged steed's jaw the softening charm, and make him his: then straightway he flew up and disported him in his brazen arms" (Pindar, Olympian XIII)
+[^pin-feats]: "from out of the bosom of the chill and desert air, he smote the archer host of Amazons, and slew the Solymoi, and Chimaira breathing fire" (Pindar, Olympian XIII)
+[^pin-silence]: "I will keep silence touching the fate of him: howbeit Pegasos hath in Olympus found a home in the ancient stalls of Zeus" (Pindar, Olympian XIII)
 
 ## Appearances
 
@@ -152,6 +170,7 @@ Unlike the Iliad (which doesn't mention Stheneboea's fate) or Apollodorus, the F
 - **[Bibliotheca](../sources/apollodorus.md)** 2.3.1: Son of Glaucus son of Sisyphus; accidentally killed brother (Deliades/Piren/Alcimenes); purified by Proetus; Stheneboea's false accusation; letter to Iobates; Chimaera described
 - **[Bibliotheca](../sources/apollodorus.md)** 2.3.2: Slew Chimaera from [Pegasus](../creatures/pegasus.md)'s back; fought Solymi and Amazons; survived ambush; given daughter Philonoe and the kingdom
 - **[Fabulae](../sources/hyginus.md)** §57: Came as exile to Proetus; Stheneboea's false accusation; Iobates (called Stheneboea's father); reluctant to kill "such a hero"; sent to slay Chimaera riding Pegasus; fell in Aleian plains and dislocated hip; given "other daughter" in marriage; Stheneboea killed herself hearing of the marriage
+- **[Pindar](../sources/pindar.md)**, Olympian XIII: [Athena](../deities/athena.md) brings golden bridle in a dream at Peirene's spring; tames [Pegasus](../creatures/pegasus.md); flies to smite Amazons, Solymoi, and Chimaera from the air; Pindar keeps silence on his fate; Pegasus in Zeus's stalls on Olympus
 
 [^il6-lineage]: "There is a city Ephyre in the heart of Argos, pasture land of horses, and there dwelt Sisyphos that was craftiest of men, Sisyphos son of Aiolos; and he begat a son, even Glaukos, and Glaukos begat noble Bellerophon" (Iliad VI.3600-3603, trans. Lang, Leaf, and Myers)
 [^hes-parentage]: "So she lay in the arms of Poseidon and bare in the house of Glaucus blameless Bellerophon, surpassing all men" (Hesiodic Catalogue of Women, Fragment 7, trans. H.G. Evelyn-White)

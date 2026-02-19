@@ -80,6 +80,10 @@ Metis "remained hidden beneath the inward parts of Zeus... worker of righteousne
 [^theog-arms]: "with it (Zeus) gave her birth, arrayed in arms of war" (Theogony 929t)
 [^theog-metis]: "she remained hidden beneath the inward parts of Zeus, even Metis, Athena's mother, worker of righteousness, who was wiser than gods and mortal men. There the goddess (Athena) received that whereby she excelled in strength all the deathless ones who dwell in Olympus" (Theogony 929n-929r)
 
+[Pindar](../sources/pindar.md) gives a strikingly vivid account of Athena's birth in Olympian VII, set during the founding of Rhodes. [Zeus](zeus.md) rained golden snow on the city when, "by Hephaistos' handicraft beneath the bronze-wrought axe from the crown of her father's head Athene leapt to light and cried aloud with an exceeding cry; and Heaven trembled at her coming, and Earth, the Mother."[^pin-athena-birth] Pindar names [Hephaestus](hephaestus.md) as the one who split Zeus's head — a detail matching the [Bibliotheca](../sources/apollodorus.md)'s account (which names "Prometheus, or as some say, Hephaestus") but absent from the Theogony and Homeric Hymns.
+
+[^pin-athena-birth]: "by Hephaistos' handicraft beneath the bronze-wrought axe from the crown of her father's head Athene leapt to light and cried aloud with an exceeding cry; and Heaven trembled at her coming, and Earth, the Mother" (Pindar, Olympian VII, trans. Ernest Myers)
+
 ## Roles
 
 In the [Theogony](../sources/theogony.md), Athena is mentioned as:
@@ -448,6 +452,8 @@ Within sat Envy, "ravening the flesh of vipers, self-begot." Ovid describes her 
 - **[Odyssey](../sources/odyssey.md)** XXIII: Beautifies Odysseus again (hyacinth curls, gold-on-silver simile — verbatim repeat from Book VI); holds night long in the utmost West, stays golden-throned Dawn by the stream [Oceanus](oceanus.md); hides Odysseus in night as he leaves town
 - **[Odyssey](../sources/odyssey.md)** XXIV: Makes Laertes greater and mightier to behold; breathes great strength into Laertes for battle; as Mentor, calls halt to civil war — "Hold your hands from fierce fighting"; [Zeus](zeus.md) casts flaming bolt at her feet; sets final covenant of peace "in the likeness of Mentor, both in fashion and in voice"
 - **[Odyssey](../sources/odyssey.md)** IV: Locrian Aias was "hated by Athene"; creates a phantom in the likeness of Iphthime to comfort Penelope in her sleep — "such a friend goes to guide him... even Pallas Athene"; the phantom enters through the bolt and speaks "at the gates of dreams"
+- **[Pindar](../sources/pindar.md)**, Olympian VII: Birth from Zeus's head — "beneath the bronze-wrought axe from the crown of her father's head Athene leapt to light and cried aloud with an exceeding cry; and Heaven trembled"; [Hephaestus](hephaestus.md) named as the one who split Zeus's head; golden rain on Rhodes at her birth
+- **[Pindar](../sources/pindar.md)**, Olympian XIII: Brings [Bellerophon](../heroes/bellerophon.md) a golden bridle in a dream; called "queen of steeds"; "maiden wielder of the shadowy aegis"
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Competes with Hera and Aphrodite in the Judgment of Paris (Paris chooses Aphrodite);[^cyp-judgment-athena] polished Peleus's spear[^cyp-spear]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Contrives that Odysseus wins Achilles' arms; instructs Epeius to build the Wooden Horse[^liliad-athena]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): Her image torn away by Aias son of Ileus when he drags Cassandra from her temple; plans to destroy the Greeks on the high seas after they sail away[^sack-athena]
