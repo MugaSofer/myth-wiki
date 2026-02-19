@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Also known as** | Hekabe (Greek) |
-| **Parents** | Dymas (in the Metamorphoses); Cisseus (in the Iliad) |
+| **Parents** | Dymas (in the Metamorphoses); Cisseus (in Euripides' Hecuba) |
 | **Consort** | Priam, king of Troy |
 | **Children** | Hector, Paris, Cassandra, Polyxena, Polydorus, and many others |
 | **Known for** | Queen of Troy; grief for her children; transformation into a dog |
@@ -53,6 +53,39 @@ The Thracians attacked her with stones and darts, "but she with hoarse growling 
 [^met-hec-dog]: "she with hoarse growling and snapping jaws sprang at the stones, and, when she tried to speak, she barked like a fierce dog. The place still bears a name suggested by her hideous change" (Metamorphoses 13.569-572, trans. Brookes More)
 [^met-hec-pity]: "Her sad fate moved the Trojans and the Greeks, her friends and foes, and all the heavenly gods. Yes all, for even the sister-wife of Jove denied that Hecuba deserved such fate" (Metamorphoses 13.573-575, trans. Brookes More)
 
+## In Euripides' Hecuba
+
+The [Hecuba](../sources/euripides-hecuba.md) dramatizes two linked tragedies after Troy's fall, with Hecuba as the central figure.
+
+### The Sacrifice of Polyxena
+
+[Achilles](achilles.md)' ghost appears above his tomb and demands Polyxena as a sacrifice: "having ascended o'er his tomb, he appeared in his golden arms and restrained the fleet ships... exclaiming... 'Where speed ye, Grecians, leaving my tomb unhonored!'"[^eur-hec-ghost] [Odysseus](odysseus.md) persuades the army to comply. Hecuba confronts Odysseus, reminding him of the time she saved his life when he came as a spy to Troy — an appeal to xenia. Odysseus acknowledges the debt but insists on honoring Achilles.
+
+Polyxena refuses to beg for her life, declaring: "I die willingly; let none touch my body; for I will offer my neck to the sword with a good heart. But, by the Gods, let me go free while ye kill me, that I may die free, for to be classed as a slave among the dead, when a queen, is what I am ashamed of."[^eur-hec-free] At the altar, she bares her breast and speaks: "Lo! strike, if this bosom thou desirest, O youth; or wouldest thou rather under the neck, here is this throat prepared."[^eur-hec-strike] Even in death, "she showed much care to fall decently, and to veil from the eyes of men what ought to be concealed."[^eur-hec-modesty-eur]
+
+### Murder of Polydorus and Revenge
+
+Hecuba's attendant finds Polydorus's body washed up on shore — murdered by Polymestor, the Thracian king to whom Priam entrusted his youngest son with gold. Hecuba cries: "Where are the laws of hospitality? O most accurst of men!"[^eur-hec-xenia]
+
+She appeals to [Agamemnon](agamemnon.md) for justice, arguing that "the Gods are strong, and strong the law, which governs them; for by the law we judge that there are Gods, and we live having justice and injustice strictly defined."[^eur-hec-law] Hecuba also reflects on universal bondage: "no mortal is there who is free. For either he is the slave of money or of fortune; or the populace of the city or the dictates of the law constrain him to adopt manners not accordant with his natural inclinations."[^eur-hec-slave]
+
+With Agamemnon's tacit approval, Hecuba lures Polymestor into the captive women's tent. The Trojan women kill his sons with hidden daggers and gouge out his eyes with their brooches.
+
+### Polymestor's Prophecies
+
+The blinded Polymestor prophesies Hecuba's transformation: "Thou shalt become a dog with a fiery aspect... The tomb of the wretched dog, a mark to mariners."[^eur-hec-dog-prophecy] He also foretells Cassandra's death and Agamemnon's murder: "the murderous bath at Argos awaits thee."[^eur-hec-agamemnon] Agamemnon has him dragged away.
+
+[^eur-hec-ghost]: "having ascended o'er his tomb, he appeared in his golden arms and restrained the fleet ships... exclaiming... 'Where speed ye, Grecians, leaving my tomb unhonored!'" (Hecuba 110-115, trans. T.A. Buckley)
+[^eur-hec-free]: "I die willingly; let none touch my body; for I will offer my neck to the sword with a good heart. But, by the Gods, let me go free while ye kill me, that I may die free, for to be classed as a slave among the dead, when a queen, is what I am ashamed of" (Hecuba 548-552, trans. T.A. Buckley)
+[^eur-hec-strike]: "Lo! strike, if this bosom thou desirest, O youth; or wouldest thou rather under the neck, here is this throat prepared" (Hecuba 563-565, trans. T.A. Buckley)
+[^eur-hec-modesty-eur]: "she showed much care to fall decently, and to veil from the eyes of men what ought to be concealed" (Hecuba 569-570, trans. T.A. Buckley)
+[^eur-hec-xenia]: "Where are the laws of hospitality? O most accurst of men, how didst thou mar that skin, how sever with the cruel sword the poor limbs of this boy, nor didst feel pity?" (Hecuba 714-720, trans. T.A. Buckley)
+[^eur-hec-law]: "the Gods are strong, and strong the law, which governs them; for by the law we judge that there are Gods, and we live having justice and injustice strictly defined" (Hecuba 799-801, trans. T.A. Buckley)
+[^eur-hec-slave]: "no mortal is there who is free. For either he is the slave of money or of fortune; or the populace of the city or the dictates of the law constrain him to adopt manners not accordant with his natural inclinations" (Hecuba 864-867, trans. T.A. Buckley)
+[^eur-hec-dog-prophecy]: "Thou shalt become a dog with a fiery aspect... The tomb of the wretched dog, a mark to mariners" (Hecuba 1265-1273, trans. T.A. Buckley)
+[^eur-hec-agamemnon]: "the murderous bath at Argos awaits thee" (Hecuba 1279, trans. T.A. Buckley)
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.404-575: Queen of Troy; witnessed fall (Priam killed at altar, Cassandra dragged away, Astyanax thrown from tower); Polyxena sacrificed at Achilles' tomb; claimed as Odysseus's prize; lament for all she lost; found Polydorus murdered on shore by Polymnestor; lured Polymnestor and gouged out his eyes; attacked by Thracians; transformed into dog; howled through Thracian fields; pitied by gods and mortals alike
+- **[Hecuba](../sources/euripides-hecuba.md)**: Protagonist — Achilles' ghost demands Polyxena; debates xenia with Odysseus; Polyxena dies heroically ("let me die free"); finds Polydorus murdered by Polymestor; appeals to Agamemnon for justice; lures Polymestor and blinds him; Polymestor prophesies she will become "a dog with a fiery aspect" and her tomb "a mark to mariners"; reflects on universal slavery

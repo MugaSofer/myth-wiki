@@ -939,11 +939,23 @@ Created dedicated pages for major entities across all previously processed sourc
 
 **Wiki size:** ~224 pages.
 
+### Euripides, Hecuba — COMPLETE
+
+**Source page created:** euripides-hecuba.md
+**Source file:** sources/euripides-buckley-vol1.txt (lines 296-1601)
+
+**Pages updated (3):**
+- hecuba.md ("In Euripides' Hecuba" — sacrifice of Polyxena, murder of Polydorus, revenge on Polymestor, prophecy of dog transformation)
+- achilles.md (Appearances: ghost demands Polyxena's sacrifice)
+- odysseus.md (Appearances: persuades Greeks to sacrifice Polyxena)
+
+**Wiki size:** ~225 pages.
+
 ## Next
 
 ### Remaining Sources (in priority order)
 
-1. **More Euripides** — remaining plays in Vol. I (Hecuba, Orestes, Phoenissae, Heraclidae)
+1. **More Euripides** — remaining plays in Vol. I (Orestes, Phoenissae, Heraclidae)
 2. **More Greek tragedies** — Sophocles, Aeschylus (rich character material, many plays on Gutenberg)
 3. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
 

@@ -368,3 +368,4 @@ At his death, "[Achilles] neither in death was forsaken of songs, for at his fun
 - **[Pindar](../sources/pindar.md)**, Nemean III: Six-year-old child killing lions and boars and dragging them to [Chiron](../creatures/chiron.md); slew deer by pure speed of foot — [Artemis](../deities/artemis.md) and [Athena](../deities/athena.md) marvelled; Chiron reared his soul "in a life of harmony"
 - **[Pindar](../sources/pindar.md)**, Nemean VI: Descended from chariot, slew Memnon "son of the bright Morn" with his spear
 - **[Pindar](../sources/pindar.md)**, Isthmian VII: Wounded Telephus in Mysia; delivered Helen by "cutting the sinews of Troy"; slew Memnon, Hector, "and other chiefs of pride"; the Muses' choir sang dirge at his pyre; in the Islands of the Blessed (Olympian II)
+- **[Hecuba](../sources/euripides-hecuba.md)**: Ghost appears above his tomb in golden arms, restrains the fleet, demands sacrifice of Polyxena; Neoptolemus performs the rite
