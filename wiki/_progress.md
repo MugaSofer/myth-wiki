@@ -999,6 +999,12 @@ Created dedicated pages for major entities across all previously processed sourc
 
 **Wiki size:** ~232 pages.
 
+### Euripides' Iphigenia in Aulis — COMPLETE
+- Source page: euripides-iphigenia-aulis.md
+- **Pages created (2):** iphigenia.md, clytemnestra.md
+- **Pages updated (6):** agamemnon.md, achilles.md, artemis.md, odysseus.md, helen.md, menelaus.md
+- Wiki size: ~234 pages
+
 ## Next
 
 ### Remaining Sources (in priority order)
