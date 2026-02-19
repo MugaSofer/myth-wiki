@@ -150,3 +150,4 @@ When the seven leaders "came to Hypsipyle in their search for water," she "feari
 - **[Fabulae](../sources/hyginus.md)** §72: Antigona and Argia both place Polynices on Eteocles' pyre; Haemon saves Antigona; their son recognized by dragon's mark; Haemon and Antigona both die
 - **[Fabulae](../sources/hyginus.md)** §73: Amphiaraus hides; Eriphyle bribed with necklace; Alcmaeon kills his mother; Furies pursue
 - **[Fabulae](../sources/hyginus.md)** §74: Hypsipyle places Archemorus/Ophites in parsley; dragon devours child; Nemean games established; victors receive parsley wreath
+- **[Phoenissae](../sources/euripides-phoenissae.md)**: Full dramatization; seven champions identified with shield devices; Capaneus struck by Zeus on the walls; mutual fratricide of Eteocles and Polynices; Jocasta's suicide; Creon's decree against burial

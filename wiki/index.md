@@ -34,6 +34,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 - [Hecuba](sources/euripides-hecuba.md) - Euripides (c. 424 BCE)
 - [Heraclidae](sources/euripides-heraclidae.md) - Euripides (c. 430 BCE)
 - [Orestes](sources/euripides-orestes.md) - Euripides (408 BCE)
+- [Phoenissae](sources/euripides-phoenissae.md) - Euripides (c. 409 BCE)
 
 ## Progress
 

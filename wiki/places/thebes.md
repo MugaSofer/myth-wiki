@@ -115,3 +115,4 @@ The [Iliad](../sources/iliad.md) contains multiple references to Thebes and the 
 - **[Epic Cycle](../sources/epic-cycle.md)** (Story of Oedipus): The Sphinx's victims
 - **[Epic Cycle](../sources/epic-cycle.md)** (Thebaid): Oedipus's curse on his sons
 - **[Iliad](../sources/iliad.md)** IV, V, X, XIV: References to Thebes and its wars
+- **[Phoenissae](../sources/euripides-phoenissae.md)**: Full dramatization of the civil war; seven gates defended against seven Argive champions; Capaneus struck by Zeus's thunderbolt on the walls; Sown Men's legacy in Menoeceus's sacrifice

@@ -983,11 +983,27 @@ Created dedicated pages for major entities across all previously processed sourc
 
 **Wiki size:** ~231 pages.
 
+### Euripides, Phoenissae — COMPLETE
+
+**Source page created:** euripides-phoenissae.md
+**Source file:** sources/euripides-buckley-vol1.txt (lines 4016-5917)
+
+**Pages updated (5):**
+- oedipus.md (Appearances: banishment, death at Colonus prophecy)
+- tiresias.md (Appearances: prophecy of Menoeceus's sacrifice)
+- cadmus.md (Appearances: genealogy, marriage to Harmonia)
+- thebes.md (Appearances: civil war, seven gates)
+- seven-against-thebes.md (Appearances: full dramatization)
+
+**Key content:** Full Theban genealogy; Sown Men mythology; seven champions' shield devices; Capaneus struck by Zeus; Menoeceus's self-sacrifice; mutual fratricide; Jocasta's triple role (genealogist, mediator, suicide); Oedipus's Colonus prophecy.
+
+**Wiki size:** ~232 pages.
+
 ## Next
 
 ### Remaining Sources (in priority order)
 
-1. **More Euripides** — remaining plays in Vol. I (Phoenissae, Iphigenia in Aulis, Iphigenia in Tauris)
+1. **More Euripides** — remaining plays in Vol. I (Iphigenia in Aulis, Iphigenia in Tauris)
 2. **More Greek tragedies** — Sophocles, Aeschylus (rich character material, many plays on Gutenberg)
 3. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
 

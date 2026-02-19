@@ -67,6 +67,7 @@ The revelation comes through combined sources: "But Periboea revealed his adopti
 - **[Bibliotheca](../sources/apollodorus.md)** 3.5.7-9: Full narrative — exposed on Cithaeron; found and raised by Polybus and Periboea in Corinth; oracle warns against returning home; kills Laius at crossroads; solves Sphinx's riddle; marries Jocasta; begets four children; truth revealed; Jocasta hangs herself; blinds himself; exiled with Antigone; dies at Colonus
 - **[Fabulae](../sources/hyginus.md)** §66: Oracle to Laius; Periboea finds infant at shore while washing garments; raised in Corinth; named for pierced feet
 - **[Fabulae](../sources/hyginus.md)** §67: Taunted for not resembling Polybus; goes to Delphi; meets Laius on road; servants demand he give way; wheel grazes his foot; kills Laius in rage; Sphinx's contest with Creon; solves riddle; receives kingdom and Jocasta; Menoeceus (Jocasta's father) throws himself from walls; Periboea and Menoetes reveal truth; blinds himself with brooches; gives kingdom to sons for alternate years; exiled with Antigone
+- **[Phoenissae](../sources/euripides-phoenissae.md)**: Blind, confined in palace; has cursed his sons to divide the house with the sword; banished by Creon; prophesies his death at Colonus in Athens; Antigone chooses exile with him
 
 ## Footnotes
 
