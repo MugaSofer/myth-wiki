@@ -756,9 +756,13 @@ Created dedicated pages for major entities across all previously processed sourc
 - thetis.md (already had section from agents)
 
 **Remaining work:**
-- deianira.md (Book IX material)
 - Update metamorphoses.md source page with book-by-book contents
-- Minor Book XIV-XV content: Sibyl of Cumae, Vertumnus/Pomona, Romulus apotheosis, Aesculapius serpent
+- Minor Book XIV-XV content: Vertumnus/Pomona, Aesculapius serpent
+
+**Completed in sweep integration:**
+- deianira.md (Book IX material — already present)
+- Sibyl of Cumae — new page created (sibyl.md)
+- Romulus apotheosis — added to ares.md
 
 ### Virgil, Aeneid — In Progress
 
@@ -804,4 +808,4 @@ Created dedicated pages for major entities across all previously processed sourc
 
 - Athenian king cycle (Cecrops, Erichthonius, Erechtheus, Pandion) — material already in Apollodorus, just needs dedicated pages
 - Crete and Athens as place pages
-- Remaining Metamorphoses: deianira.md (Book IX), Sibyl of Cumae (14.120-153), metamorphoses.md source page book-by-book contents
+- Remaining Metamorphoses: metamorphoses.md source page book-by-book contents, Vertumnus/Pomona, Aesculapius serpent
