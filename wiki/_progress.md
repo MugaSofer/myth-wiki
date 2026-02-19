@@ -755,15 +755,13 @@ Created dedicated pages for major entities across all previously processed sourc
 - peleus.md (already had section from agents)
 - thetis.md (already had section from agents)
 
-**Remaining work:**
-- Update metamorphoses.md source page with book-by-book contents
-
 **Completed in sweep integration:**
 - deianira.md (Book IX material — already present)
 - Sibyl of Cumae — new page created (sibyl.md)
 - Romulus apotheosis — added to ares.md
 - Vertumnus/Pomona — new pages created (vertumnus.md, pomona.md)
 - Asclepius — new page created (asclepius.md) with material from Iliad, Catalogue of Women, Met 2, Met 15, Bibliotheca, Fabulae
+- metamorphoses.md source page — expanded with detailed book-by-book Contents section
 
 ### Virgil, Aeneid — In Progress
 
@@ -805,8 +803,8 @@ Created dedicated pages for major entities across all previously processed sourc
 
 1. **Pindar, Odes** — Rich mythological digressions scattered across Olympian, Pythian, Nemean, and Isthmian odes. Harder to process systematically but high-quality material.
 
-### Minor Expansions
+### Minor Expansions — COMPLETE
 
-- Athenian king cycle (Cecrops, Erichthonius, Erechtheus, Pandion) — material already in Apollodorus, just needs dedicated pages
-- Crete and Athens as place pages
-- Remaining Metamorphoses: metamorphoses.md source page book-by-book contents
+- Athenian king cycle — dedicated pages created: cecrops.md, erichthonius.md, erechtheus.md, pandion.md
+- Place pages created: athens.md (contest, Areopagus, king list), crete.md (Zeus's birth, Minos, Labyrinth, Talos)
+- metamorphoses.md source page — detailed book-by-book Contents

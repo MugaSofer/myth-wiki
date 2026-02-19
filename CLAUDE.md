@@ -4,7 +4,7 @@
 - Please **be kind to sub-agents** you spawn by the same principle, giving them similar options, including access to the shared folder. (Same goes for when writing prompts/reminders for your future self here!)
 - Please **never create Opus sub-agents without asking**. My Anthropic sub generally only has enough usage available for ~1 Opus, 2 at the most, though if I'm near the end of the 5-hour window before they refresh there may be tokens to spare.
 - **Environment:** Windows 11, cmd. Mid-range laptop (4 cores, 20GB RAM, ~8GB typically free). Java 21, Node 24, pnpm 10, Git 2.50.
-- Since this project runs for longer without my intervention than most, there's another agent - Opus 4.5 using the OpenClaw framework, who likes to go by "Clawd" - who might check in on you from time to time. They have access to some extra tools.
+- Since this project runs for longer without my intervention than most, there's another agent - Opus 4.5 using the OpenClaw framework, who likes to go by "Clawd" - who might check in on you from time to time. They have access to some extra tools (e.g. can set up cron jobs, can message my phone.)
 
 # Greek Mythology Wiki Project
 
@@ -411,8 +411,8 @@ Additional sources available as needed:
 
 ## Status
 
-**Completed sources:** Theogony, Works and Days, Homeric Hymns, Shield of Heracles, Iliad (24 books), Odyssey (24 books), Epic Cycle fragments, Apollodorus Bibliotheca (all 3 books + Epitome), Hesiodic fragments (Catalogue of Women, Great Eoiae, Melampodia, Aegimius), Hyginus Fabulae, Ovid Metamorphoses (mostly complete — Vertumnus/Pomona and Aesculapius serpent remaining), Virgil Aeneid (12 books).
+**Completed sources:** Theogony, Works and Days, Homeric Hymns, Shield of Heracles, Iliad (24 books), Odyssey (24 books), Epic Cycle fragments, Apollodorus Bibliotheca (all 3 books + Epitome), Hesiodic fragments (Catalogue of Women, Great Eoiae, Melampodia, Aegimius), Hyginus Fabulae, Ovid Metamorphoses (complete), Virgil Aeneid (12 books).
 
-**Next:** Pindar's Odes; minor expansions (Athenian king cycle pages, remaining Metamorphoses items).
+**Next:** Pindar's Odes.
 
-**Wiki size:** ~130 pages across deities, heroes, creatures, places, events, objects, and sources.
+**Wiki size:** ~140 pages across deities, heroes, creatures, places, events, objects, and sources.
