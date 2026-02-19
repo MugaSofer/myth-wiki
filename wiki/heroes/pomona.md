@@ -26,7 +26,7 @@ She "never felt the least desire of love; but fearful of some rustic's violence,
 
 [Vertumnus](../deities/vertumnus.md) exceeded all other suitors in his love but was no more fortunate. He assumed countless disguises — a rough reaper carrying barley ears, a haymaker, an ox-driver, a pruner, a fruit-picker, a soldier, a fisherman — and "by means of many shapes he often had obtained access to her and joyed in seeing her beauty."[^met-pom-disguises]
 
-Finally, disguised as an old woman, Vertumnus entered her garden and praised her beauty. He argued, using the example of an elm embracing a vine, that she should not reject marriage. He told the cautionary tale of [Iphis and Anaxarete](../events/iphis-and-anaxarete.md) — a cruel maiden turned to stone for her heartlessness — and warned Pomona to fear "avenging deities."[^met-pom-warning]
+Finally, disguised as an old woman, Vertumnus entered her garden and praised her beauty. He argued, using the example of an elm embracing a vine, that she should not reject marriage. He told the cautionary tale of Iphis and Anaxarete — a cruel maiden turned to stone for her heartlessness — and warned Pomona to fear "avenging deities."[^met-pom-warning]
 
 When these words failed, "he laid the old woman's form aside and was again a youth. On her he seemed to blaze, as when the full light of the brilliant Sun, after it has dispelled opposing clouds, has shone forth with not one to intercept."[^met-pom-reveal] He prepared to use force, "but there was then no need of force. The lovely nymph was charmed, was captivated by the god's bright form and felt a passion answering to his love."[^met-pom-love]
 

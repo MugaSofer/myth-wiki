@@ -4,7 +4,7 @@
 |---|---|
 | **Also known as** | Tyndaridae, Tyndaridai, Sons of Zeus |
 | **Roman equivalent** | Castor and Pollux |
-| **Parentage** | [Zeus](../deities/zeus.md) and [Leda](../heroes/leda.md) (Polydeuces); Tyndareus and Leda (Castor) |
+| **Parentage** | [Zeus](../deities/zeus.md) and Leda (Polydeuces); Tyndareus and Leda (Castor) |
 | **Homeland** | Lacedaemon (Sparta) |
 | **Known for** | Rescue of [Helen](helen.md), Argonaut voyage, death and shared immortality |
 | **Symbols** | Horses, stars |
@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Castor** and **Polydeuces** (the Dioscuri, "Sons of Zeus") were twin brothers born to [Leda](../heroes/leda.md), though the sources consistently distinguish their paternity: Polydeuces was the son of [Zeus](../deities/zeus.md), while Castor was the mortal son of Tyndareus. Castor was renowned as a tamer of horses and Polydeuces as a boxer. They rescued their sister [Helen](helen.md) after [Theseus](theseus.md) abducted her, sailed with the Argonauts, and fought Idas and Lynceus over stolen cattle (or brides). When Castor was killed, Polydeuces refused full immortality and chose instead to share his divine portion, spending alternate days in heaven and under the earth.
+**Castor** and **Polydeuces** (the Dioscuri, "Sons of Zeus") were twin brothers born to Leda, though the sources consistently distinguish their paternity: Polydeuces was the son of [Zeus](../deities/zeus.md), while Castor was the mortal son of Tyndareus. Castor was renowned as a tamer of horses and Polydeuces as a boxer. They rescued their sister [Helen](helen.md) after [Theseus](theseus.md) abducted her, sailed with the Argonauts, and fought Idas and Lynceus over stolen cattle (or brides). When Castor was killed, Polydeuces refused full immortality and chose instead to share his divine portion, spending alternate days in heaven and under the earth.
 
 ## In the [Iliad](../sources/iliad.md)
 

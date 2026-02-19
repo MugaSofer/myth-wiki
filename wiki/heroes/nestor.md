@@ -10,13 +10,13 @@
 | **Parentage** | Neleus and Chloris |
 | **Consort** | Anaxibia (daughter of Cratieus) |
 | **Children** | Antilochus, Thrasymedes, Pisistratus, Perseus, Stratichus, Aretus, Echephron; daughters Pisidice and Polycaste |
-| **Homeland** | [Pylos](../places/pylos.md) |
+| **Homeland** | Pylos |
 | **Known for** | Eloquence; great age; counsel |
 | **First appearance** | [Iliad](../sources/iliad.md) I |
 
 ## Overview
 
-**Nestor**, son of Neleus, is the king of [Pylos](../places/pylos.md) and the oldest of the Greek chiefs at [Troy](../places/troy.md). His defining traits are his honey-sweet eloquence, his extraordinary age (he has lived through three generations of men), and his role as counsellor to the Greek host. He survived the sack of Pylos by [Heracles](heracles.md) because he was being raised among the Gerenians.
+**Nestor**, son of Neleus, is the king of Pylos and the oldest of the Greek chiefs at [Troy](../places/troy.md). His defining traits are his honey-sweet eloquence, his extraordinary age (he has lived through three generations of men), and his role as counsellor to the Greek host. He survived the sack of Pylos by [Heracles](heracles.md) because he was being raised among the Gerenians.
 
 ## Epithets
 
@@ -45,7 +45,7 @@ When [Machaon](../sources/iliad.md) is brought wounded to Nestor's tent, a remar
 
 ### Telemachus's Visit (Book III)
 
-In [Odyssey](../sources/odyssey.md) Book III, [Telemachus](telemachus.md) visits Nestor at [Pylos](../places/pylos.md) seeking news of his father. Nestor receives him with generous hospitality but has no direct news of [Odysseus](odysseus.md)'s fate, and sends Telemachus onward to Sparta with his son Pisistratus as escort.
+In [Odyssey](../sources/odyssey.md) Book III, [Telemachus](telemachus.md) visits Nestor at Pylos seeking news of his father. Nestor receives him with generous hospitality but has no direct news of [Odysseus](odysseus.md)'s fate, and sends Telemachus onward to Sparta with his son Pisistratus as escort.
 
 ## In the Bibliotheca
 

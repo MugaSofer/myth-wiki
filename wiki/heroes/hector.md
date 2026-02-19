@@ -15,7 +15,7 @@
 
 ## Overview
 
-**Hector** was the greatest warrior of [Troy](../places/troy.md) and the eldest son of King [Priam](priam.md) and [Hecuba](hecuba.md). As commander of the Trojan forces, he was the primary defender of the city and the chief opponent of the Greek heroes throughout the [Trojan War](../events/trojan-war.md). He was slain by [Achilles](achilles.md) in single combat before the walls of Troy.
+**Hector** was the greatest warrior of [Troy](../places/troy.md) and the eldest son of King [Priam](priam.md) and [Hecuba](hecuba.md). As commander of the Trojan forces, he was the primary defender of the city and the chief opponent of the Greek heroes throughout the Trojan War. He was slain by [Achilles](achilles.md) in single combat before the walls of Troy.
 
 ## Epithets
 
@@ -23,7 +23,7 @@ Hector's most common Homeric epithet is **"of the glancing helm"** (or "glancing
 
 [Hecuba](hecuba.md) calls him a **"blessing to all, both men and women of Troy throughout the town, who hailed thee as a god."**[^il22-god]
 
-In the [Fabulae](../sources/fabulae.md), he is called **"the great illustrious Hector"** and is listed among those who killed enemy princes.[^hyg-great]
+In the [Fabulae](../sources/hyginus.md), he is called **"the great illustrious Hector"** and is listed among those who killed enemy princes.[^hyg-great]
 
 [^il2-helm]: "great Hector of the glancing helm was leader, the son of Priam" (Iliad II.1542-1543, trans. Lang, Leaf, and Myers)
 [^il22-horse]: "for the life of horse-taming Hector was their race" (Iliad XXII.12437)
@@ -133,7 +133,7 @@ The [Bibliotheca](../sources/apollodorus.md) records that Hector was the first s
 
 ## In the Fabulae
 
-The [Fabulae](../sources/fabulae.md) lists Hector first among the sons and daughters of [Priam](priam.md).[^hyg-sons] In the summary of the ransom, the text gives a compressed account of the entire arc: [Achilles](achilles.md) refused to return the body until [Priam](priam.md), "with Mercury as guide, came into the camp of the Danaans, received the body for an equal weight of gold, and gave it burial."[^hyg-ransom]
+The [Fabulae](../sources/hyginus.md) lists Hector first among the sons and daughters of [Priam](priam.md).[^hyg-sons] In the summary of the ransom, the text gives a compressed account of the entire arc: [Achilles](achilles.md) refused to return the body until [Priam](priam.md), "with Mercury as guide, came into the camp of the Danaans, received the body for an equal weight of gold, and gave it burial."[^hyg-ransom]
 
 The Fabulae also records the exchange of gifts with [Ajax](ajax.md): "Ajax gave Hector the belt by which he was dragged, and Hector gave Ajax a sword with which he killed himself" — each gift becoming the instrument of the other's death.[^hyg-gifts]
 
@@ -164,8 +164,8 @@ In the [Metamorphoses](../sources/metamorphoses.md), Hector is introduced throug
 - **[Bibliotheca](../sources/apollodorus.md)** E.4.2: Challenged Greeks to single combat; fought Ajax
 - **[Bibliotheca](../sources/apollodorus.md)** E.4.5: Breached the wall; set fire to the ships
 - **[Bibliotheca](../sources/apollodorus.md)** E.4.6-7: Slew Patroclus; slain by Achilles; body ransomed by Priam
-- **[Fabulae](../sources/fabulae.md)** 90: Listed first among Priam's children
-- **[Fabulae](../sources/fabulae.md)** 103: Killed Protesilaus
-- **[Fabulae](../sources/fabulae.md)** 106: Killed by Achilles; body ransomed by Priam for equal weight of gold
-- **[Fabulae](../sources/fabulae.md)** 112: Exchanged gifts with Ajax — belt and sword
+- **[Fabulae](../sources/hyginus.md)** 90: Listed first among Priam's children
+- **[Fabulae](../sources/hyginus.md)** 103: Killed Protesilaus
+- **[Fabulae](../sources/hyginus.md)** 106: Killed by Achilles; body ransomed by Priam for equal weight of gold
+- **[Fabulae](../sources/hyginus.md)** 112: Exchanged gifts with Ajax — belt and sword
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.760: Brother of Aesacus; "the great illustrious Hector"

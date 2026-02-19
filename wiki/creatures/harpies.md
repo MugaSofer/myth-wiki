@@ -27,7 +27,7 @@ They "on their swift wings keep pace with the blasts of the winds and the birds;
 
 At the land of Phineus, the blind seer had been tormented by the Harpies for refusing to obey [Zeus](../deities/zeus.md)'s commands. "Swooping through the clouds, the Harpies with their crooked beaks incessantly snatched the food away from his mouth and hands." They also poured forth "a loathsome stench" so that even what little food they left could not be eaten.[^arg-harp-phineus]
 
-[Zetes and Calais](../heroes/boreadae.md), the winged sons of Boreas among the Argonauts, chased the Harpies through the air. Iris appeared and stopped them from killing the Harpies, swearing an oath that they would not trouble Phineus again. The Harpies then retreated to "their den in Minoan Crete."[^arg-harp-iris]
+Zetes and Calais, the winged sons of Boreas among the Argonauts, chased the Harpies through the air. Iris appeared and stopped them from killing the Harpies, swearing an oath that they would not trouble Phineus again. The Harpies then retreated to "their den in Minoan Crete."[^arg-harp-iris]
 
 [^arg-harp-phineus]: "swooping through the clouds, the Harpies with their crooked beaks incessantly snatched the food away from his mouth and hands... and poured forth a loathsome stench" (Argonautica 2.188-193, trans. R.C. Seaton)
 [^arg-harp-iris]: Iris stopped Zetes and Calais from killing the Harpies, swearing an oath; the Harpies retreated to "their den in Minoan Crete" (Argonautica 2.285-300, trans. R.C. Seaton)

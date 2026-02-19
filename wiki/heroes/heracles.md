@@ -598,7 +598,7 @@ The ode then describes his completed labours and his final glory: "he who ascend
 
 ### Praying for Ajax's Birth (Isthmian V)
 
-Pindar relates the origin of [Ajax](ajax.md)'s name through a scene in which Heracles prays for Telamon's child. When Heracles came to call [Telamon](../heroes/telamon.md) to his voyage, he found the company feasting. "As he stood there in his lion's skin, then did Telamon their chief challenge Amphitryon's son of the mighty spear to make initiative libation of nectar."[^pin-ist5-lion]
+Pindar relates the origin of [Ajax](ajax.md)'s name through a scene in which Heracles prays for Telamon's child. When Heracles came to call Telamon to his voyage, he found the company feasting. "As he stood there in his lion's skin, then did Telamon their chief challenge Amphitryon's son of the mighty spear to make initiative libation of nectar."[^pin-ist5-lion]
 
 Heracles prayed to Zeus: "If ever, O father Zeus, thou hast heard my prayer with willing heart, now, even now, with strong entreaty I pray thee that thou give this man a brave child of Eriboia's womb, that by award of fate my friend may gain a son of body as staunch as this hide that hangeth about me, which was of the beast that I slew at Nemea, first of all my labours; and let his soul be of like sort."[^pin-ist5-prayer]
 

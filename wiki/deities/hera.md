@@ -187,7 +187,7 @@ When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well
 
 ## In the [Argonautica](../sources/argonautica.md)
 
-Hera is the dominant divine patron of the Argonautic expedition, orchestrating it from behind the scenes to ensure Jason delivers Medea as a curse upon [Pelias](../heroes/pelias.md), who had dishonoured her altar.
+Hera is the dominant divine patron of the Argonautic expedition, orchestrating it from behind the scenes to ensure Jason delivers Medea as a curse upon Pelias, who had dishonoured her altar.
 
 ### The Motivation
 
@@ -203,7 +203,7 @@ As the Argo approaches Colchis, Hera spread mist across the sea to conceal the s
 
 ### Managing the Return
 
-On the homeward voyage Hera arranged safe passage at every stage. She sent [Iris](iris.md) to summon [Thetis](thetis.md) from the sea, with instructions to ask [Hephaestus](hephaestus.md) to still his fires while the Argo passed and [Aeolus](../deities/aeolus.md) to lock up the winds. Thetis and the Nereids then guided the ship bodily through the Wandering Rocks.[^arg-hera-return] When the Argonauts reached Phaeacia, Hera devised the marriage of Jason and Medea there so that the Phaeacians could not be compelled to return her to Aeetes. She also sent nymphs to attend the wedding.[^arg-hera-wedding]
+On the homeward voyage Hera arranged safe passage at every stage. She sent [Iris](iris.md) to summon [Thetis](thetis.md) from the sea, with instructions to ask [Hephaestus](hephaestus.md) to still his fires while the Argo passed and Aeolus to lock up the winds. Thetis and the Nereids then guided the ship bodily through the Wandering Rocks.[^arg-hera-return] When the Argonauts reached Phaeacia, Hera devised the marriage of Jason and Medea there so that the Phaeacians could not be compelled to return her to Aeetes. She also sent nymphs to attend the wedding.[^arg-hera-wedding]
 
 [^arg-hera-jason]: "Her [Hera] it was who had put this into the mind of Jason... For when once Hera had decided to send Medea as a curse upon Pelias, who had cut her down on the very altars, she bound Jason with love for Medea" (Argonautica 3.61-75, trans. R.C. Seaton)
 [^arg-hera-conspire]: "the two goddesses went their way to the dwelling of Cypris... and found her in the hall, sitting upon a polished chair, and before her Eros was arranging her tresses" (Argonautica 3.36-52, trans. R.C. Seaton)
@@ -288,7 +288,7 @@ The [Metamorphoses](../sources/metamorphoses.md) describes Hera's mode of travel
 
 ### Banning Callisto's Stars from Oceanus (2.508-530)
 
-After [Zeus](zeus.md) placed [Callisto](../heroes/callisto.md) and her son Arcas as constellations in the sky, Hera went to [Oceanus](oceanus.md) and [Tethys](tethys.md) to demand that the new stars be denied the right to set in the sea. She urged them: "drive the Seven Stars from waters crystalline and azure-tint, and your domain debar from those that shine in Heaven, rewarded for Jove's wickedness.—bathe not a concubine in waters pure."[^met-hera-callisto] The gods of Ocean granted her request — which is why the constellation Ursa Major (the Great Bear) never sets below the horizon.
+After [Zeus](zeus.md) placed Callisto and her son Arcas as constellations in the sky, Hera went to [Oceanus](oceanus.md) and [Tethys](tethys.md) to demand that the new stars be denied the right to set in the sea. She urged them: "drive the Seven Stars from waters crystalline and azure-tint, and your domain debar from those that shine in Heaven, rewarded for Jove's wickedness.—bathe not a concubine in waters pure."[^met-hera-callisto] The gods of Ocean granted her request — which is why the constellation Ursa Major (the Great Bear) never sets below the horizon.
 
 [^met-hera-callisto]: "drive the Seven Stars from waters crystalline and azure-tint, and your domain debar from those that shine in Heaven, rewarded for Jove's wickedness.—bathe not a concubine in waters pure" (Metamorphoses 2.528-530, trans. Brookes More)
 

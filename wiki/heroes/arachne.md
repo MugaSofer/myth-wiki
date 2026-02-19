@@ -25,7 +25,7 @@ Arachne was "a girl who had not fame for place of birth, nor fame for birth, but
 
 Both wove with extraordinary speed and skill, using "myriad tints" that "inwoven, mingled in a thousand tints, harmonious and contrasting; shot with gold." Athena depicted her contest with [Poseidon](../deities/poseidon.md) (Neptune) for Athens — herself with shield, lance, helmet, and [aegis](../objects/aegis.md), striking the earth to produce the olive tree. In the four corners, she wove cautionary scenes of mortals punished for rivalling gods.[^met-ar-minerva]
 
-Arachne wove scenes of the gods' deceptions and seductions: [Zeus](../deities/zeus.md) (Jupiter) as a bull with Europa, a swan with Leda, a shower of gold with Danae, a satyr with Antiope; [Poseidon](../deities/poseidon.md) as a bull, a ram, a horse, a dolphin; [Apollo](../deities/apollo.md) in various disguises; [Dionysus](../deities/dionysus.md) as grapes; and [Cronus](../deities/cronus.md) (Saturn) as a horse begetting Chiron. Her work was flawless — "Minerva could not find a fleck or flaw — even Envy can not censure perfect art."[^met-ar-arachne]
+Arachne wove scenes of the gods' deceptions and seductions: [Zeus](../deities/zeus.md) (Jupiter) as a bull with Europa, a swan with Leda, a shower of gold with Danae, a satyr with Antiope; [Poseidon](../deities/poseidon.md) as a bull, a ram, a horse, a dolphin; [Apollo](../deities/apollo.md) in various disguises; [Dionysus](../deities/dionysus.md) as grapes; and [Cronos](../deities/cronos.md) (Saturn) as a horse begetting Chiron. Her work was flawless — "Minerva could not find a fleck or flaw — even Envy can not censure perfect art."[^met-ar-arachne]
 
 ### Punishment and Transformation (6.129-145)
 

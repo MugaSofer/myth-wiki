@@ -41,7 +41,7 @@ Later, "Peleus, with Jason and the Dioscuri, laid waste Iolcus; and he slaughter
 
 ### Exile and the Argonaut Voyage
 
-The Argonautica alludes to Peleus's exile, noting he had killed his half-brother Phocus and so fled with [Telamon](../heroes/telamon.md).[^arg-pel-exile]
+The Argonautica alludes to Peleus's exile, noting he had killed his half-brother Phocus and so fled with Telamon.[^arg-pel-exile]
 
 ### The Boar That Slew Idmon
 
@@ -83,7 +83,7 @@ The Catalogue preserves the speech of the people who witnessed Peleus's good for
 
 ### The Prophecy and Marriage to Thetis (§54)
 
-The [Fabulae](../sources/hyginus.md) preserves the crucial prophecy about [Thetis](../deities/thetis.md) and her son: "A prediction about Thetis, the Nereid, was that her son would be greater than his father."[^hyg-prophecy] Only [Prometheus](../titans/prometheus.md) knew this secret, and when [Zeus](../deities/zeus.md) wished to lie with Thetis, Prometheus struck a bargain: "Prometheus promised [Zeus](../deities/zeus.md) that he would give him timely warning if he would free him from his chains."[^hyg-bargain]
+The [Fabulae](../sources/hyginus.md) preserves the crucial prophecy about [Thetis](../deities/thetis.md) and her son: "A prediction about Thetis, the Nereid, was that her son would be greater than his father."[^hyg-prophecy] Only [Prometheus](../deities/prometheus.md) knew this secret, and when [Zeus](../deities/zeus.md) wished to lie with Thetis, Prometheus struck a bargain: "Prometheus promised [Zeus](../deities/zeus.md) that he would give him timely warning if he would free him from his chains."[^hyg-bargain]
 
 The warning was stark: "he advised [Zeus](../deities/zeus.md) not to lie with Thetis, for if one greater than he were born he might drive [Zeus](../deities/zeus.md) from his kingdom, as he himself had done to Saturn."[^hyg-warning] Thus Thetis avoided Zeus and was "given in marriage to Peleus, son of Aeacus."[^hyg-marriage] As part of this exchange, "[Heracles](heracles.md) was sent to kill the eagle which was eating out Prometheus' heart. When it was killed, Prometheus after thirty thousand years was freed from Mount Caucasus."[^hyg-prometheus]
 

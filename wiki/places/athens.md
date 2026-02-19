@@ -45,7 +45,7 @@ The [Odyssey](../sources/odyssey.md) describes Athena returning to Athens after 
 The Bibliotheca traces the Athenian royal line:
 
 1. **[Cecrops](../heroes/cecrops.md) I** — "a son of the soil, with a body compounded of man and serpent, the first king of Attica"[^apd-cecrops]
-2. **Cranaus** — succeeded Cecrops; the flood of [Deucalion](../heroes/deucalion.md) occurred in his time
+2. **Cranaus** — succeeded Cecrops; the flood of Deucalion occurred in his time
 3. **Amphictyon** — expelled Cranaus; himself expelled by Erichthonius
 4. **[Erichthonius](../heroes/erichthonius.md)** — born from [Hephaestus](../deities/hephaestus.md)'s seed and the earth; raised by Athena; instituted the Panathenaea
 5. **[Pandion](../heroes/pandion.md) I** — son of Erichthonius; gave Procne to [Tereus](../heroes/tereus.md); [Demeter](../deities/demeter.md) and [Dionysus](../deities/dionysus.md) came to Attica in his time

@@ -8,7 +8,7 @@
 
 ## Overview
 
-**Philemon** and **Baucis** are an elderly married couple in Phrygia who alone offered hospitality to [Zeus](../deities/zeus.md) and [Hermes](../deities/hermes.md) when the gods traveled in disguise. Their story, told in the [Metamorphoses](../sources/metamorphoses.md), is a parable of [xenia](../concepts/xenia.md) (guest-friendship) and piety rewarded.
+**Philemon** and **Baucis** are an elderly married couple in Phrygia who alone offered hospitality to [Zeus](../deities/zeus.md) and [Hermes](../deities/hermes.md) when the gods traveled in disguise. Their story, told in the [Metamorphoses](../sources/metamorphoses.md), is a parable of xenia (guest-friendship) and piety rewarded.
 
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 

@@ -23,19 +23,19 @@ The Argonautica presents a radically different Eros from the Hesiodic primordial
 
 ### Shooting Medea
 
-When [Hera](hera.md) and [Athena](athena.md) visited Aphrodite in Book III, they found Eros absent — he was in Zeus's orchard, playing dice with [Ganymede](../heroes/ganymede.md) and cheating to win.[^arg-eros-dice] Aphrodite tracked him down and offered him the golden ball that his nurse Adrasteia had made for him in the Idaean cave — "a rounded ball and thou wilt get no better plaything from the hands of Hephaestus." In exchange, Eros was to shoot [Medea](../heroes/medea.md) with an arrow so she would fall in love with Jason.[^arg-eros-bribe]
+When [Hera](hera.md) and [Athena](athena.md) visited [Aphrodite](aphrodite.md) in Book III, they found Eros in Zeus's orchard, "playing for golden dice" with Ganymede, cheating and winning: "already greedy Eros was holding the palm of his left hand quite full of them under his breast, standing upright; and on the bloom of his cheeks a sweet blush was glowing."[^arg3-dice] Aphrodite offered him Zeus's golden ball as a bribe — "Zeus' all-beauteous plaything — the one which his dear nurse Adrasteia made for him, while he still lived a child, with childish ways, in the Idaean cave — a well-rounded ball; no better toy wilt thou get from the hands of [Hephaestus](hephaestus.md)."[^arg3-bribe] In exchange, Eros was to shoot [Medea](../heroes/medea.md) with an arrow.
 
-Eros flew to Colchis and shot the arrow from beneath the lintel of the hall: "he chose from the quiver an arrow unshot before, messenger of pain, and gliding swiftly through the air he shot it at Medea. Speechless amazement seized her soul. The bolt burnt deep down in the maiden's heart like a flame."[^arg-eros-shot] Having accomplished his task, he "darted back from the high-roofed hall laughing aloud."[^arg-eros-laugh]
+Eros flew to Colchis and shot the arrow from beneath the lintel of the hall: "quickly beneath the lintel in the porch he strung his bow and took from the quiver an arrow unshot before, messenger of pain."[^arg3-shot] The effect was immediate: "the bolt burnt deep down in the maiden's heart like a flame." Having accomplished his task, "the god himself flashed back again from the high-roofed hall, laughing loud."[^arg3-laugh]
 
-[^arg-eros-dice]: "Eros was playing at draughts with Ganymede... and was winning his golden knucklebones one by one" (Argonautica 3.114-117, trans. R.C. Seaton)
-[^arg-eros-bribe]: "I will give thee the beautiful toy of Zeus, the one his dear nurse Adrasteia made for him while he was still a child... a rounded ball; thou wilt get no better plaything from the hands of Hephaestus" (Argonautica 3.131-137, trans. R.C. Seaton)
-[^arg-eros-shot]: "out of the quiver he took a new shaft, fraught with pain, and swiftly passing through the air he shot it at Medea; and speechless amazement seized her soul. And the bolt burnt deep in the maiden's heart like a flame" (Argonautica 3.275-280, trans. R.C. Seaton)
-[^arg-eros-laugh]: "but Eros passed back again out of the high-roofed hall laughing" (Argonautica 3.284-285, trans. R.C. Seaton)
+[^arg3-dice]: "they were playing for golden dice, as boys in one house are wont to do. And already greedy Eros was holding the palm of his left hand quite full of them under his breast, standing upright; and on the bloom of his cheeks a sweet blush was glowing" (Argonautica 3.120-123, trans. R.C. Seaton)
+[^arg3-bribe]: "I will give thee Zeus' all-beauteous plaything — the one which his dear nurse Adrasteia made for him, while he still lived a child, with childish ways, in the Idaean cave — a well-rounded ball; no better toy wilt thou get from the hands of Hephaestus" (Argonautica 3.133-137)
+[^arg3-shot]: "quickly beneath the lintel in the porch he strung his bow and took from the quiver an arrow unshot before, messenger of pain... and the bolt burnt deep down in the maiden's heart like a flame" (Argonautica 3.277-285)
+[^arg3-laugh]: "the god himself flashed back again from the high-roofed hall, laughing loud" (Argonautica 3.284-285)
 
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 120-122: Origin and description as primordial cosmic force
-- **[Argonautica](../sources/argonautica.md)** 3: Playing dice with Ganymede in Zeus's orchard; bribed by Aphrodite with Zeus's golden ball; shot Medea beneath the hall's lintel with "an arrow unshot before, messenger of pain"; the bolt "burnt deep down in the maiden's heart like a flame"; laughed and darted away
+- **[Argonautica](../sources/argonautica.md)** III: Playing for golden dice with Ganymede in Zeus's orchard; bribed by [Aphrodite](aphrodite.md) with Zeus's golden ball; shot [Medea](../heroes/medea.md) beneath the hall's lintel with "an arrow unshot before, messenger of pain"; the bolt "burnt deep down in the maiden's heart like a flame"; "flashed back again from the high-roofed hall, laughing loud"
 
 ## Notes
 

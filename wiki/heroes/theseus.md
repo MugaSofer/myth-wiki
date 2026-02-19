@@ -175,7 +175,7 @@ The Athenians celebrated Theseus with a song cataloguing his labours: "Did you n
 - **[Bibliotheca](../sources/apollodorus.md)** 3.16.1-3.16.2: Lifted rock, took sword and sandals; six labours clearing the road to Athens
 - **[Bibliotheca](../sources/apollodorus.md)** E.1.1-E.1.10: Medea's plot; Marathonian bull; Minotaur slain with fists; Ariadne's thread; Dionysus carried off Ariadne; Aegeus's death
 - **[Bibliotheca](../sources/apollodorus.md)** E.1.16-E.1.24: Amazon campaign with Heracles; Hippolytus and Phaedra; descent to Hades; Chair of Forgetfulness; rescued by Heracles; death by Lycomedes
-- **[Catalogue of Women](../sources/catalogue-of-women.md)** Fragment 76: Abandoned Ariadne for Aegle, daughter of Panopeus; wedded Hippe and Aegle
+- **Catalogue of Women** Fragment 76: Abandoned Ariadne for Aegle, daughter of Panopeus; wedded Hippe and Aegle
 - **[Fabulae](../sources/hyginus.md)** §37: Neptune and Aegeus both lay with Aethra in Minerva's shrine; Neptune conceded child to Aegeus; Aegeus put sword under stone as token; Theseus lifted it in young manhood, cleared road to Athens
 - **[Fabulae](../sources/hyginus.md)** §38: Six labours in detail — slew Corynetes (son of Neptune); killed Pityocamptes (pine-bender); killed Procrustes (son of Neptune, bed-fitter with anvils); cast Sciron into sea (Scironian rocks); killed Cercyon (son of Vulcan); killed Crommyonian boar; killed Marathonian bull; killed Minotaur at Cnossus
 - **[Fabulae](../sources/hyginus.md)** §42: Ariadne loved him, betrayed her brother (Minotaur), showed way out of Labyrinth; Theseus killed Minotaur, escaped by thread; took Ariadne to marry her

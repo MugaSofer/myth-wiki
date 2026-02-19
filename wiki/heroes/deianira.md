@@ -77,7 +77,7 @@ When Heracles put on the robe, "it started at once to blaze; when he leaped into
 
 ### The Contest for Deianira (9.1-100)
 
-[Achelous](../deities/achelous.md) narrates his contest with [Heracles](heracles.md) for Deianira, describing her as "the envied hope of many. She was then a lovely virgin."[^met-dei-beauty] The contest culminated in a wrestling match where Achelous shifted shapes — first to a serpent, then a bull — before Heracles broke off one of his horns.
+Achelous narrates his contest with [Heracles](heracles.md) for Deianira, describing her as "the envied hope of many. She was then a lovely virgin."[^met-dei-beauty] The contest culminated in a wrestling match where Achelous shifted shapes — first to a serpent, then a bull — before Heracles broke off one of his horns.
 
 ### Nessus at the River (9.101-133)
 

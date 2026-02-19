@@ -103,7 +103,7 @@ The [Bibliotheca](../sources/apollodorus.md) adds that "Latona for her intrigue 
 
 ### Python's Pursuit and Neptune's Protection (§140)
 
-The [Fabulae](../sources/hyginus.md) gives a dramatically different version of Leto's wandering, centered on the prophecy and the role of [Python](../creatures/python.md).
+The [Fabulae](../sources/hyginus.md) gives a dramatically different version of Leto's wandering, centered on the prophecy and the role of Python.
 
 "Python, offspring of Terra, was a huge dragon who, before the time of [Apollo](apollo.md), used to give oracular responses on Mount Parnassus."[^hyg-140-python] Crucially, "Death was fated to come to him from the offspring of Latona."[^hyg-140-fate]
 

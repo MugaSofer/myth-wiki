@@ -134,7 +134,7 @@ In the Cypria, Patroclus is mentioned as having killed "Sarpedon's son" during t
 
 ### The Death of Patroclus (§106)
 
-In Hyginus's account, when [Agamemnon](agamemnon.md) took [Briseis](../figures/briseis.md) from [Achilles](achilles.md), "Achilles, at Patroclus' pleading, gave him his armor."[^hyg-106-armor] Wearing Achilles' equipment, Patroclus "put the Trojans to flight, since they thought he was Achilles, and he slew [Sarpedon](../figures/sarpedon.md), son of [Jove](../deities/zeus.md) and [Europa](../figures/europa.md)."[^hyg-106-sarpedon]
+In Hyginus's account, when [Agamemnon](agamemnon.md) took Briseis from [Achilles](achilles.md), "Achilles, at Patroclus' pleading, gave him his armor."[^hyg-106-armor] Wearing Achilles' equipment, Patroclus "put the Trojans to flight, since they thought he was Achilles, and he slew Sarpedon, son of [Jove](../deities/zeus.md) and Europa."[^hyg-106-sarpedon]
 
 "Later Patroclus himself was killed by [Hector](hector.md) and the armor taken from his body."[^hyg-106-death] This prompted Achilles to reconcile with Agamemnon; [Thetis](../deities/thetis.md) then secured new armor from [Vulcan](../deities/hephaestus.md), and "the Nereids brought it to him over the sea."[^hyg-106-armor-new]
 

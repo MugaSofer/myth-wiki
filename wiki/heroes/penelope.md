@@ -40,7 +40,7 @@ When she greets [Telemachus](telemachus.md) on his return from Sparta, she is co
 
 The [Bibliotheca](../sources/apollodorus.md) records strikingly different traditions about Penelope's fate:
 
-**1. Circe's island:** After Odysseus's death by Telegonus, "Telegonus recognized him, he bitterly lamented, and conveyed the corpse and Penelope to [Circe](circe.md), and there he married Penelope. And Circe sent them both away to the Islands of the Blest."[^apd-circe]
+**1. Circe's island:** After Odysseus's death by Telegonus, "Telegonus recognized him, he bitterly lamented, and conveyed the corpse and Penelope to [Circe](../deities/circe.md), and there he married Penelope. And Circe sent them both away to the Islands of the Blest."[^apd-circe]
 
 **2. Pan's mother:** "Some say that Penelope was seduced by Antinous and sent away by Ulysses to her father Icarius, and that when she came to Mantinea in Arcadia she bore [Pan](../deities/pan.md) to [Hermes](../deities/hermes.md)."[^apd-pan]
 

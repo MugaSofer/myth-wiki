@@ -18,16 +18,16 @@
 
 In Apollonius's telling, Pelias received an oracle "to beware of the man with a single sandal" and Jason "in crossing the river Anaurus" lost a sandal in the flood.[^arg1-sandal] He is the son of Aeson, who is grandson of Cretheus, making him kin to the sons of Phrixus through the brotherhood of Cretheus and Athamas.[^arg2-kin]
 
-[^arg1-sandal]: The poem opens with Pelias's oracle about one sandal and Jason crossing the Anaurus (Argonautica 1.226-233, trans. R.C. Seaton)
-[^arg2-kin]: "Cretheus and Athamas were brothers. I am the grandson of Cretheus" (Argonautica 2.2522-2523)
+[^arg1-sandal]: The poem opens with Pelias's oracle about one sandal and Jason crossing the Anaurus (Argonautica 1.1-5, trans. R.C. Seaton)
+[^arg2-kin]: "Cretheus and Athamas were brothers. I am the grandson of Cretheus" (Argonautica 2.1170-1171)
 
 ### Appearance
 
 Jason was repeatedly compared to the gods in beauty. At departure, he shone "like [Apollo](../deities/apollo.md)" and his comrades wondered at him "radiant with manifold graces."[^arg3-beauty] When [Hera](../deities/hera.md) enhanced his appearance before the meeting with [Medea](medea.md), "Never yet had there been such a man in the days of old, neither of all the heroes of the lineage of Zeus himself... as on that day the bride of Zeus made Jason, both to look upon and to hold converse with."[^arg3-hera-beauty] Medea saw him approaching "like Sirius coming from ocean, which rises fair and clear to see, but brings unspeakable mischief to flocks."[^arg3-sirius]
 
-[^arg3-beauty]: "Even his comrades wondered as they gazed upon him, radiant with manifold graces" (Argonautica 3.3478)
-[^arg3-hera-beauty]: "Never yet had there been such a man in the days of old, neither of all the heroes of the lineage of Zeus himself, nor of those who sprung from the blood of the other gods, as on that day the bride of Zeus made Jason, both to look upon and to hold converse with" (Argonautica 3.3474-3477)
-[^arg3-sirius]: "like Sirius coming from ocean, which rises fair and clear to see, but brings unspeakable mischief to flocks; thus then did Aeson's son come to her, fair to see, but the sight of him brought love-sick care" (Argonautica 3.3509-3511)
+[^arg3-beauty]: "Even his comrades wondered as they gazed upon him, radiant with manifold graces" (Argonautica 3.924)
+[^arg3-hera-beauty]: "Never yet had there been such a man in the days of old, neither of all the heroes of the lineage of Zeus himself, nor of those who sprung from the blood of the other gods, as on that day the bride of Zeus made Jason, both to look upon and to hold converse with" (Argonautica 3.919-923)
+[^arg3-sirius]: "like Sirius coming from ocean, which rises fair and clear to see, but brings unspeakable mischief to flocks; thus then did Aeson's son come to her, fair to see, but the sight of him brought love-sick care" (Argonautica 3.960-962)
 
 ### Leadership and Character
 
@@ -35,16 +35,16 @@ Apollonius portrays Jason not as a conventional warrior-hero but as a leader bur
 
 After the deaths of Idmon and Tiphys, Jason was again despairing: "where are these steersmen of thine?... I forebode an evil doom for us even as for the dead."[^arg2-gloom] Yet he always recovered when urged by his companions. He emphasised persuasion over force, preferring to approach Aeetes with words: "Oftentimes, I ween, does speech accomplish at need what prowess could hardly carry through."[^arg3-speech]
 
-[^arg2-despair]: "I have erred and am distraught in wretched and helpless ruin... ever when day is done I pass a night of groans from the time when ye first gathered together for my sake, while I take thought for all things" (Argonautica 2.2047-2058)
-[^arg2-rallied]: "his heart was warmed within him at their cry and again he spake outright among them" (Argonautica 2.2062-2063)
-[^arg2-gloom]: "where are these steersmen of thine? For those whom we once deemed to be men of skill, they even more than I are bowed with vexation of heart" (Argonautica 2.2281-2283)
-[^arg3-speech]: "Oftentimes, I ween, does speech accomplish at need what prowess could hardly carry through, smoothing the path in manner befitting" (Argonautica 3.2816-2817)
+[^arg2-despair]: "I have erred and am distraught in wretched and helpless ruin... ever when day is done I pass a night of groans from the time when ye first gathered together for my sake, while I take thought for all things" (Argonautica 2.621-634)
+[^arg2-rallied]: "his heart was warmed within him at their cry and again he spake outright among them" (Argonautica 2.638-639)
+[^arg2-gloom]: "where are these steersmen of thine? For those whom we once deemed to be men of skill, they even more than I are bowed with vexation of heart" (Argonautica 2.888-890)
+[^arg3-speech]: "Oftentimes, I ween, does speech accomplish at need what prowess could hardly carry through, smoothing the path in manner befitting" (Argonautica 3.190-191)
 
 ### Hera's Patronage
 
 [Hera](../deities/hera.md) explained her devotion to Jason: "at the mouth of Anaurus in flood, as I was making trial of men's righteousness, he met me on his return from the chase... And he took pity on me in the likeness of an old crone, and raising me on his shoulders himself bore me through the headlong tide."[^arg3-hera] She actively intervened throughout: conspiring with [Athena](../deities/athena.md) and [Aphrodite](../deities/aphrodite.md) to send [Eros](../deities/eros.md) against Medea, spreading mist to conceal the heroes, enhancing Jason's beauty, and directing the return voyage.
 
-[^arg3-hera]: "at the mouth of Anaurus in flood, as I was making trial of men's righteousness, he met me on his return from the chase... And he took pity on me in the likeness of an old crone, and raising me on his shoulders himself bore me through the headlong tide" (Argonautica 3.2706-2712)
+[^arg3-hera]: "at the mouth of Anaurus in flood, as I was making trial of men's righteousness, he met me on his return from the chase... And he took pity on me in the likeness of an old crone, and raising me on his shoulders himself bore me through the headlong tide" (Argonautica 3.69-76)
 
 ### At Colchis
 
@@ -54,26 +54,26 @@ Jason performed the rite: he "bathed his tender body reverently in the sacred ri
 
 He yoked the fire-breathing bronze-footed bulls, ploughed four plough-gates, sowed the dragon's teeth, and threw a massive stone among the rising warriors so they fought each other. He then mowed down the survivors "as a fiery star leaps from heaven, trailing a furrow of light."[^arg3-trial]
 
-[^arg3-helpless]: "Jason, fixing his eyes on the ground, sat just as he was, speechless, helpless in his evil plight. For a long time he turned the matter this way and that, and could in no way take on him the task with courage" (Argonautica 3.3025-3028)
-[^arg3-accept]: "fate and the ruthless command of a presumptuous king urged me" (Argonautica 3.3034)
-[^arg3-hecate]: "she heard him, the dread goddess, from the uttermost depths and came to the sacrifice of Aeson's son; and round her horrible serpents twined themselves among the oak boughs; and there was a gleam of countless torches; and sharply howled around her the hounds of hell" (Argonautica 3.3725-3730)
-[^arg3-invulnerable]: "the edge leapt back repelled by the shock, like a hammer from the anvil; and the heroes shouted with joy for their hope in the contest" (Argonautica 3.3759-3760)
-[^arg3-trial]: "even as a fiery star leaps from heaven, trailing a furrow of light, a portent to men... in such wise did Aeson's son rush upon the earthborn men" (Argonautica 3.3863-3866)
+[^arg3-helpless]: "Jason, fixing his eyes on the ground, sat just as he was, speechless, helpless in his evil plight. For a long time he turned the matter this way and that, and could in no way take on him the task with courage" (Argonautica 3.417-421)
+[^arg3-accept]: "fate and the ruthless command of a presumptuous king urged me" (Argonautica 3.427)
+[^arg3-hecate]: "she heard him, the dread goddess, from the uttermost depths and came to the sacrifice of Aeson's son; and round her horrible serpents twined themselves among the oak boughs; and there was a gleam of countless torches; and sharply howled around her the hounds of hell" (Argonautica 3.1212-1218)
+[^arg3-invulnerable]: "the edge leapt back repelled by the shock, like a hammer from the anvil; and the heroes shouted with joy for their hope in the contest" (Argonautica 3.1252-1253)
+[^arg3-trial]: "even as a fiery star leaps from heaven, trailing a furrow of light, a portent to men... in such wise did Aeson's son rush upon the earthborn men" (Argonautica 3.1374-1378)
 
 ### Winning the Fleece
 
 Medea sang the guardian serpent to sleep and sprinkled its eyes with a juniper charm. "Hereupon Jason snatched the golden fleece from the oak, at the maiden bidding."[^arg4-snatch] The fleece was immense: "great as is the hide of a yearling ox... all golden above. Heavy it was, thickly clustered with flocks; and as he moved along, even beneath his feet the sheen rose up from the earth."[^arg4-fleece-desc]
 
-[^arg4-snatch]: "Hereupon Jason snatched the golden fleece from the oak, at the maiden bidding" (Argonautica 4.4041)
-[^arg4-fleece-desc]: "great as is the hide of a yearling ox or stag... so great in extent was the fleece all golden above. Heavy it was, thickly clustered with flocks; and as he moved along, even beneath his feet the sheen rose up from the earth" (Argonautica 4.4049-4053)
+[^arg4-snatch]: "Hereupon Jason snatched the golden fleece from the oak, at the maiden bidding" (Argonautica 4.162)
+[^arg4-fleece-desc]: "great as is the hide of a yearling ox or stag... so great in extent was the fleece all golden above. Heavy it was, thickly clustered with flocks; and as he moved along, even beneath his feet the sheen rose up from the earth" (Argonautica 4.171-176)
 
 ### The Murder of Apsyrtus
 
 Jason swore to Medea: "Let Zeus of Olympus himself be witness to my oath, and Hera, queen of marriage, bride of Zeus, that I will set thee in my halls my own wedded wife."[^arg4-oath] When trapped by the Colchian fleet, Medea proposed luring Apsyrtus. Jason ambushed him at a temple of [Artemis](../deities/artemis.md) and "struck him down, as a butcher strikes down a mighty strong-horned bull."[^arg4-murder] He then performed a ritual of purification: "thrice licked up some blood and thrice spat the pollution from his teeth, as it is right for the slayer to do, to atone for a treacherous murder."[^arg4-rite]
 
-[^arg4-oath]: "Let Zeus of Olympus himself be witness to my oath, and Hera, queen of marriage, bride of Zeus, that I will set thee in my halls my own wedded wife, when we have reached the land of Hellas on our return" (Argonautica 4.3984-3987)
-[^arg4-murder]: "Jason marked him and struck him down, as a butcher strikes down a mighty strong-horned bull, hard by the temple which the Brygi on the mainland opposite had once built for Artemis" (Argonautica 4.4312-4315)
-[^arg4-rite]: "thrice licked up some blood and thrice spat the pollution from his teeth, as it is right for the slayer to do, to atone for a treacherous murder" (Argonautica 4.4321-4323)
+[^arg4-oath]: "Let Zeus of Olympus himself be witness to my oath, and Hera, queen of marriage, bride of Zeus, that I will set thee in my halls my own wedded wife, when we have reached the land of Hellas on our return" (Argonautica 4.99-103)
+[^arg4-murder]: "Jason marked him and struck him down, as a butcher strikes down a mighty strong-horned bull, hard by the temple which the Brygi on the mainland opposite had once built for Artemis" (Argonautica 4.467-470)
+[^arg4-rite]: "thrice licked up some blood and thrice spat the pollution from his teeth, as it is right for the slayer to do, to atone for a treacherous murder" (Argonautica 4.477-479)
 
 ### The Return
 
@@ -228,7 +228,7 @@ Jason addressed Pelias with measured diplomatic language, laying out his ancestr
 
 ### The Crew of the Argo (Pythian IV)
 
-Pindar names several of the Argonauts assembled for the voyage: "three sons of Zeus" — including sons of [Hermes](../deities/hermes.md) (Echion and Eurytos), Zetes and Kalaïs with "bright wings shooting from their backs" (sons of [Boreas](../deities/boreas.md)), Orpheus ("the minstrel father of song"), and [Heracles](heracles.md).[^pin-crew] [Hera](../deities/hera.md) "kindled within those sons of gods the all-persuading sweet desire for the ship Argo, that none should be left behind and stay by his mother's side in savourless and riskless life."[^pin-hera-argo]
+Pindar names several of the Argonauts assembled for the voyage: "three sons of Zeus" — including sons of [Hermes](../deities/hermes.md) (Echion and Eurytos), Zetes and Kalaïs with "bright wings shooting from their backs" (sons of Boreas), Orpheus ("the minstrel father of song"), and [Heracles](heracles.md).[^pin-crew] [Hera](../deities/hera.md) "kindled within those sons of gods the all-persuading sweet desire for the ship Argo, that none should be left behind and stay by his mother's side in savourless and riskless life."[^pin-hera-argo]
 
 ### Aphrodite's Wryneck Charm (Pythian IV)
 

@@ -162,7 +162,7 @@ To help the Argo through the Wandering Rocks — which rolled and crashed togeth
 
 ### The Prophecy and Marriage to Peleus (§54)
 
-The [Fabulae](../sources/hyginus.md) preserves a crucial variant on the Thetis tradition, centering on [Prometheus](../titans/prometheus.md)'s knowledge and his bargain with [Zeus](zeus.md).
+The [Fabulae](../sources/hyginus.md) preserves a crucial variant on the Thetis tradition, centering on [Prometheus](../deities/prometheus.md)'s knowledge and his bargain with [Zeus](zeus.md).
 
 "A prediction about Thetis, the Nereid, was that her son would be greater than his father."[^hyg-54-prophecy] This is the same prophecy known from the [Bibliotheca](../sources/apollodorus.md) and [Epic Cycle](../sources/epic-cycle.md), but Hyginus adds a significant detail: "Since no one but Prometheus knew this, and [Jove](zeus.md) wished to lie with her, Prometheus promised Jove that he would give him timely warning if he would free him from his chains."[^hyg-54-bargain]
 

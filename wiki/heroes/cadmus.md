@@ -10,7 +10,7 @@ The Argonautica explains the origin of the dragon's teeth that Aeetes made Jason
 
 ### Tomb of Cadmus and Harmonia in Illyria
 
-The Argonautica also notes a tomb of Cadmus and [Harmonia](../deities/harmonia.md) in Illyria, in the land where some Colchians settled after failing to capture [Medea](../heroes/medea.md). The Colchian settlers "dwell around the tomb of Harmonia and Cadmus and are called Encheleans."[^arg-cadmus-tomb]
+The Argonautica also notes a tomb of Cadmus and Harmonia in Illyria, in the land where some Colchians settled after failing to capture [Medea](../heroes/medea.md). The Colchian settlers "dwell around the tomb of Harmonia and Cadmus and are called Encheleans."[^arg-cadmus-tomb]
 
 [^arg-cadmus-teeth]: "the fell teeth of the Aonian dragon which Cadmus found in Ogygian Thebes when he came seeking for Europa and there slew the warder of the spring of Ares" (Argonautica 3.1176-1179, trans. R.C. Seaton)
 [^arg-cadmus-tomb]: "Around the tomb of Harmonia and Cadmus they dwell and are called Encheleans" (Argonautica 4.516-518, trans. R.C. Seaton)

@@ -874,6 +874,11 @@ Created dedicated pages for major entities across all previously processed sourc
 
 ## Argonautica — COMPLETE
 
+### Post-Processing Review
+- Corrected eros.md: replaced agent-paraphrased quotes with exact text from source
+- Converted all Argonautica citations from source-file line numbers to standard classical line numbers (using Theoi.com anchor mapping) across 13 pages (~180 citations)
+- Fixed 74 broken links across 29 wiki files: path corrections (prometheus, circe, cronus, fabulae→hyginus), de-linked references to ~40 nonexistent pages
+
 ## Next
 
 ### New Sources (in priority order)

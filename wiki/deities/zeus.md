@@ -368,7 +368,7 @@ Zeus appears in the Argonautica chiefly through the consequences of his decision
 
 Hera recounts to Thetis, through Iris, the divine history behind the marriage: Zeus had himself desired Thetis but Themis warned that her son would be mightier than his sire, so he gave her to Peleus, with Hera arranging the wedding and raising the bridal torch herself.[^arg-zeus-thetis]
 
-The Argonautica also mentions that Zeus gave the bronze giant **Talos** — who guarded Crete by running around the island three times daily and burning or crushing intruders — to [Europa](../heroes/europa.md) as her guardian.[^arg-zeus-talos] And Apollonius records that Sinope tricked Zeus himself: he promised her anything she wished, and she asked for virginity, which he was compelled to grant.[^arg-zeus-sinope]
+The Argonautica also mentions that Zeus gave the bronze giant **Talos** — who guarded Crete by running around the island three times daily and burning or crushing intruders — to Europa as her guardian.[^arg-zeus-talos] And Apollonius records that Sinope tricked Zeus himself: he promised her anything she wished, and she asked for virginity, which he was compelled to grant.[^arg-zeus-sinope]
 
 [^arg-zeus-apsyrtus]: "it was the will of Zeus that these things should be so, that they should reach Aeaean Circe and be purified from the murder" (Argonautica 4.557-561, trans. R.C. Seaton)
 [^arg-zeus-thetis]: "Zeus was wroth with Themis who had revealed these things... and gave Thetis to a mortal husband; and Hera herself, who had brought about the marriage, raised the bridal torch" (Argonautica 4.800-804, trans. R.C. Seaton)

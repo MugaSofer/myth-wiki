@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Neoptolemos** was the son of [Achilles](achilles.md) and Deidamia, conceived while Achilles was disguised as a girl on the island of Scyros. He was summoned to [Troy](../places/troy.md) after his father's death because an oracle declared the city could not be taken without him. At Troy he slew [Eurypylus](../heroes/eurypylus.md) and [Priam](priam.md), and was awarded [Andromache](andromache.md) as his prize. After the war he settled in Molossia, where he ruled as king. He was killed at [Delphi](../places/delphi.md), though the sources disagree on the circumstances.
+**Neoptolemos** was the son of [Achilles](achilles.md) and Deidamia, conceived while Achilles was disguised as a girl on the island of Scyros. He was summoned to [Troy](../places/troy.md) after his father's death because an oracle declared the city could not be taken without him. At Troy he slew Eurypylus and [Priam](priam.md), and was awarded Andromache as his prize. After the war he settled in Molossia, where he ruled as king. He was killed at [Delphi](../places/delphi.md), though the sources disagree on the circumstances.
 
 ## In the [Epic Cycle](../sources/epic-cycle.md)
 
@@ -87,7 +87,7 @@ Hyginus records the name Pyrrhus as deriving from Achilles' disguise: the girls 
 
 ### At Troy (§108, §112-114)
 
-Neoptolemos was among those who hid within the Wooden Horse.[^hyg-horse] He killed [Eurypylus](../heroes/eurypylus.md) in combat and [Priam](priam.md) personally, and is credited with slaying six Trojans in all.[^hyg-kills]
+Neoptolemos was among those who hid within the Wooden Horse.[^hyg-horse] He killed Eurypylus in combat and [Priam](priam.md) personally, and is credited with slaying six Trojans in all.[^hyg-kills]
 
 ### Death (§123)
 

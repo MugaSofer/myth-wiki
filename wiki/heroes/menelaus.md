@@ -46,7 +46,7 @@ In [Odyssey](../sources/odyssey.md) Book IV, Menelaus tells Telemachus of his wa
 
 ### Marriage to Helen (§78)
 
-[Tyndareus](tyndareus.md) feared that discord might arise among [Helen](helen.md)'s suitors, and "at the advice of [Ulysses](odysseus.md) bound himself by an oath, and gave Helen leave to put a wreath on whomever she wished to marry. She put it on Menelaus, and Tyndareus gave her to him in marriage and at his death left him his kingdom."[^hyg-78]
+Tyndareus feared that discord might arise among [Helen](helen.md)'s suitors, and "at the advice of [Ulysses](odysseus.md) bound himself by an oath, and gave Helen leave to put a wreath on whomever she wished to marry. She put it on Menelaus, and Tyndareus gave her to him in marriage and at his death left him his kingdom."[^hyg-78]
 
 ### The Abduction (§92)
 
@@ -54,7 +54,7 @@ In [Odyssey](../sources/odyssey.md) Book IV, Menelaus tells Telemachus of his wa
 
 ### Proteus in Egypt (§118)
 
-After Troy's fall, Menelaus reached Egypt and encountered [Proteus](../beings/proteus.md), "the prophetic Old Man of the Sea... who used to change himself into all sorts of shapes. By the advice of his daughter Idothea, Menelaus bound him with a chain, so that he would tell him when he would reach home."[^hyg-118-proteus]
+After Troy's fall, Menelaus reached Egypt and encountered Proteus, "the prophetic Old Man of the Sea... who used to change himself into all sorts of shapes. By the advice of his daughter Idothea, Menelaus bound him with a chain, so that he would tell him when he would reach home."[^hyg-118-proteus]
 
 Proteus revealed that "the gods were angry because Troy had been taken, and on that account an offering should be made which the Greeks call hekatombe, a hundred animals being slain. And so Menelaus offered a hekatombe. Then at length, the eighth year after he left Troy, he returned home with Helen."[^hyg-118-hekatombe]
 

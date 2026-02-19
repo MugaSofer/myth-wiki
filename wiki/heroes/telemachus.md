@@ -13,7 +13,7 @@
 
 ## Overview
 
-**Telemachus** is the son of [Odysseus](odysseus.md) and [Penelope](penelope.md). He was an infant when his father left for the [Trojan War](../events/trojan-war.md) and a young man of about twenty when Odysseus returned. The first four books of the [Odyssey](../sources/odyssey.md) — sometimes called the "Telemachy" — follow his journey from frustrated youth to capable son, guided throughout by [Athena](../deities/athena.md).
+**Telemachus** is the son of [Odysseus](odysseus.md) and [Penelope](penelope.md). He was an infant when his father left for the Trojan War and a young man of about twenty when Odysseus returned. The first four books of the [Odyssey](../sources/odyssey.md) — sometimes called the "Telemachy" — follow his journey from frustrated youth to capable son, guided throughout by [Athena](../deities/athena.md).
 
 ## Epithets
 

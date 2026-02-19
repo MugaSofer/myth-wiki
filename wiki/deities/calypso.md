@@ -10,12 +10,12 @@
 | **Domain** | Nymph; goddess of the isle Ogygia |
 | **Parents** | [Atlas](atlas.md) (Odyssey); or [Ocean](oceanus.md) and Tethys (Theogony) |
 | **Children** | Nausithous and Nausinous (by [Odysseus](../heroes/odysseus.md), Theogony); or Latinus (Bibliotheca) |
-| **Dwelling** | Isle of [Ogygia](../places/ogygia.md) |
+| **Dwelling** | Isle of Ogygia |
 | **First appearance** | [Theogony](../sources/theogony.md) 359 |
 
 ## Overview
 
-**Calypso** is a goddess who detained [Odysseus](../heroes/odysseus.md) on the remote isle of [Ogygia](../places/ogygia.md) for seven years, offering him immortality if he would remain as her husband. She is best known from [Odyssey](../sources/odyssey.md) Book V, where [Zeus](zeus.md) sends [Hermes](hermes.md) to command her to release Odysseus. Her parentage is disputed: the [Odyssey](../sources/odyssey.md) calls her "the daughter of [Atlas](atlas.md)," while the [Theogony](../sources/theogony.md) lists her among the Oceanids, daughters of Ocean and Tethys.
+**Calypso** is a goddess who detained [Odysseus](../heroes/odysseus.md) on the remote isle of Ogygia for seven years, offering him immortality if he would remain as her husband. She is best known from [Odyssey](../sources/odyssey.md) Book V, where [Zeus](zeus.md) sends [Hermes](hermes.md) to command her to release Odysseus. Her parentage is disputed: the [Odyssey](../sources/odyssey.md) calls her "the daughter of [Atlas](atlas.md)," while the [Theogony](../sources/theogony.md) lists her among the Oceanids, daughters of Ocean and Tethys.
 
 ## Epithets
 

@@ -15,7 +15,7 @@
 
 ## Overview
 
-**Paris** (also called Alexandros) was a prince of [Troy](../places/troy.md), the second son of [Priam](priam.md) and [Hecuba](hecuba.md). His judgment between three goddesses — awarding the prize of beauty to [Aphrodite](../deities/aphrodite.md) in exchange for the hand of [Helen](helen.md) — set in motion the [Trojan War](../events/trojan-war.md). He is characterised throughout the sources as beautiful but flawed: a skilled archer but a reluctant fighter, alternately scorned by his brother [Hector](hector.md) and protected by Aphrodite.
+**Paris** (also called Alexandros) was a prince of [Troy](../places/troy.md), the second son of [Priam](priam.md) and [Hecuba](hecuba.md). His judgment between three goddesses — awarding the prize of beauty to [Aphrodite](../deities/aphrodite.md) in exchange for the hand of [Helen](helen.md) — set in motion the Trojan War. He is characterised throughout the sources as beautiful but flawed: a skilled archer but a reluctant fighter, alternately scorned by his brother [Hector](hector.md) and protected by Aphrodite.
 
 ## Epithets
 

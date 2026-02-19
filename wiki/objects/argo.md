@@ -62,36 +62,36 @@ The entire voyage was completed "in four months."[^apd-duration]
 
 Apollonius provides a detailed account of the Argo's construction. Argus built the ship "by [Athena](../deities/athena.md)'s counsel," and she "set in the centre of the stem" a beam "made of Dodonian oak" that could speak with a human voice.[^arg1-build] The ship was named after its builder, and Tiphys served as helmsman, having been "urged by Athena" to join the voyage.[^arg1-tiphys]
 
-[^arg1-build]: The ship was built by Argus with Athena's guidance; the prophetic beam of Dodonian oak was set in the stem (Argonautica 1, cf. 4.4412)
+[^arg1-build]: The ship was built by Argus with Athena's guidance; the prophetic beam of Dodonian oak was set in the stem (Argonautica 1, cf. 4.581)
 [^arg1-tiphys]: Tiphys, son of Hagnias, served as helmsman, urged by Athena (Argonautica 1)
 
 ### The Symplegades
 
 When the Argo attempted the passage through the Clashing Rocks, [Athena](../deities/athena.md) intervened directly: "with her left hand thrust back one mighty rock and with her right pushed the ship through; and she, like a winged arrow, sped through the air."[^arg2-athena] The rocks "shore off as she passed the extreme end of the stern-ornament."[^arg2-rocks] Tiphys credited the ship's divine construction: "Athena breathed into Argo divine strength when Argus knitted her together with bolts; and she may not be caught."[^arg2-tiphys-praise]
 
-[^arg2-athena]: "Athena with her left hand thrust back one mighty rock and with her right pushed the ship through; and she, like a winged arrow, sped through the air" (Argonautica 2.2025-2026)
-[^arg2-rocks]: "the rocks, ceaselessly clashing, shore off as she passed the extreme end of the stern-ornament" (Argonautica 2.2027-2028)
-[^arg2-tiphys-praise]: "Athena breathed into Argo divine strength when Argus knitted her together with bolts; and she may not be caught" (Argonautica 2.2038-2039)
+[^arg2-athena]: "Athena with her left hand thrust back one mighty rock and with her right pushed the ship through; and she, like a winged arrow, sped through the air" (Argonautica 2.596-597)
+[^arg2-rocks]: "the rocks, ceaselessly clashing, shore off as she passed the extreme end of the stern-ornament" (Argonautica 2.598-599)
+[^arg2-tiphys-praise]: "Athena breathed into Argo divine strength when Argus knitted her together with bolts; and she may not be caught" (Argonautica 2.611-612)
 
 ### The Speaking Ship
 
 After the murder of Apsyrtus, [Zeus](../deities/zeus.md) ordained purification, and "on a sudden there called to them in the midst of their course, speaking with a human voice, the beam of the hollow ship, which Athena had set in the centre of the stem, made of Dodonian oak."[^arg4-speaks] The voice "proclaimed that they should not escape the paths of an endless sea nor grievous tempests, unless [Circe](../deities/circe.md) should purge away the guilt of the ruthless murder of Apsyrtus."[^arg4-proclaim]
 
-[^arg4-speaks]: "on a sudden there called to them in the midst of their course, speaking with a human voice, the beam of the hollow ship, which Athena had set in the centre of the stem, made of Dodonian oak" (Argonautica 4.4411-4412)
-[^arg4-proclaim]: "it proclaimed that they should not escape the paths of an endless sea nor grievous tempests, unless Circe should purge away the guilt of the ruthless murder of Apsyrtus" (Argonautica 4.4414-4416)
+[^arg4-speaks]: "on a sudden there called to them in the midst of their course, speaking with a human voice, the beam of the hollow ship, which Athena had set in the centre of the stem, made of Dodonian oak" (Argonautica 4.580-581)
+[^arg4-proclaim]: "it proclaimed that they should not escape the paths of an endless sea nor grievous tempests, unless Circe should purge away the guilt of the ruthless murder of Apsyrtus" (Argonautica 4.584-586)
 
 ### The Wandering Rocks
 
 [Thetis](../deities/thetis.md) and the Nereids physically guided the Argo through the Wandering Rocks: "they in turn one from another sent the ship through the air over the waves, as it sped on ever away from the rocks."[^arg4-nereids] The image was of "maidens near some sandy beach" who "sport with a shapely-rounded ball... they catch it one from another and send it high into the air; and it never touches the ground."[^arg4-ball]
 
-[^arg4-nereids]: "they in turn one from another sent the ship through the air over the waves, as it sped on ever away from the rocks" (Argonautica 4.4738-4739)
-[^arg4-ball]: "even as maidens near some sandy beach roll their garments up to their waists out of their way and sport with a shapely-rounded ball; then they catch it one from another and send it high into the air; and it never touches the ground" (Argonautica 4.4734-4737)
+[^arg4-nereids]: "they in turn one from another sent the ship through the air over the waves, as it sped on ever away from the rocks" (Argonautica 4.955-956)
+[^arg4-ball]: "even as maidens near some sandy beach roll their garments up to their waists out of their way and sport with a shapely-rounded ball; then they catch it one from another and send it high into the air; and it never touches the ground" (Argonautica 4.950-953)
 
 ### Carried Overland
 
 In Libya, the heroes carried the Argo overland for twelve days across the desert to reach Lake Tritonis, "by your might and your valour over the desert sands of Libya raised high aloft on your shoulders the ship and all that ye brought therein."[^arg4-carried]
 
-[^arg4-carried]: "by your might and your valour over the desert sands of Libya raised high aloft on your shoulders the ship and all that ye brought therein, and bare her twelve days and nights alike" (Argonautica 4.5109-5112)
+[^arg4-carried]: "by your might and your valour over the desert sands of Libya raised high aloft on your shoulders the ship and all that ye brought therein, and bare her twelve days and nights alike" (Argonautica 4.1379-1382)
 
 ## In the Odyssey
 

@@ -52,9 +52,9 @@ The Melampodia also records the contest of seers between Calchas and Mopsus (son
 
 ## In the Odyssey
 
-In [Odyssey](../sources/odyssey.md) Book XI, [Odysseus](odysseus.md) sails to the land of the dead on [Circe](circe.md)'s instructions to consult Tiresias. In the underworld, Tiresias prophesies Odysseus's difficult return, [Poseidon](../deities/poseidon.md)'s wrath over Polyphemus, the cattle of [Helius](../deities/helius.md), the slaying of the suitors, and a final journey inland carrying an oar until someone mistakes it for a winnowing-fan.
+In [Odyssey](../sources/odyssey.md) Book XI, [Odysseus](odysseus.md) sails to the land of the dead on [Circe](../deities/circe.md)'s instructions to consult Tiresias. In the underworld, Tiresias prophesies Odysseus's difficult return, [Poseidon](../deities/poseidon.md)'s wrath over Polyphemus, the cattle of [Helius](../deities/helius.md), the slaying of the suitors, and a final journey inland carrying an oar until someone mistakes it for a winnowing-fan.
 
-The Bibliotheca summarises: Odysseus "offered sacrifices to the souls, and by [Circe](circe.md)'s advice consulted the soothsayer Tiresias."[^apd-odyssey]
+The Bibliotheca summarises: Odysseus "offered sacrifices to the souls, and by [Circe](../deities/circe.md)'s advice consulted the soothsayer Tiresias."[^apd-odyssey]
 
 ## In the Fabulae
 
