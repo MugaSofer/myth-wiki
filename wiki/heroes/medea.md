@@ -164,6 +164,25 @@ Medea escapes on her winged dragons, flying over many lands (Ovid lists a catalo
 [^met-medea-9]: "the new wife had been burnt by the Colchian witchcraft and two seas had seen the king's own palace all aflame, then, savagely she drew her sword, and bathed it in the blood of her own infant sons" (Metamorphoses 7.394-398, trans. Brookes More)
 [^met-medea-10]: "Medea suddenly escaped from death, in a dark whirlwind her witch-singing raised" (Metamorphoses 7.424, trans. Brookes More)
 
+## In [Pindar](../sources/pindar.md)
+
+### Medea's Prophecy at Thera (Pythian IV)
+
+In Pythian IV, Medea appears as a prophetess at a foundational moment of Greek colonial history. When the Argonauts passed Thera, "the passionate child of Aietes, queen of Colchians, breathed from immortal lips" a prophecy that Thera would become the origin of the colony of Kyrene in Libya.[^pin-prophecy] This presents Medea as a figure with genuine divine inspiration at the moment of her departure from Colchis.
+
+### Aphrodite's Charm and Medea's Aid (Pythian IV)
+
+Pindar describes [Aphrodite](../deities/aphrodite.md) as the agent who inflamed Medea with love for [Jason](jason.md): she "taught the son of Aison to be wise in prayers and charms, that he might make Medea take no thought to honour her parents, and longing for Hellas might drive her by persuasion's lash, her heart afire with love."[^pin-love-charm]
+
+Medea then actively aided Jason: "speedily she showed him the accomplishment of the tasks her father set, and mixing drugs with oil gave him for his anointment antidotes of cruel pain."[^pin-drugs] They "vowed to be joined together in sweet wedlock" before the tasks were undertaken.
+
+Pindar gives Medea the striking epithet "the murderess of Pelias" in passing, summarizing her later career: "by her own aid he stole away Medea, the murderess of Pelias."[^pin-murderess]
+
+[^pin-prophecy]: "the passionate child of Aietes, queen of Colchians, breathed from immortal lips" a prophecy at Thera (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-love-charm]: "the queen of keenest darts, the Cyprus-born, first brought to men from Olympus the frenzied bird, the speckled wry-neck, binding it to a four-spoked wheel without deliverance, and taught the son of Aison to be wise in prayers and charms, that he might make Medea take no thought to honour her parents, and longing for Hellas might drive her by persuasion's lash, her heart afire with love" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-drugs]: "speedily she showed him the accomplishment of the tasks her father set, and mixing drugs with oil gave him for his anointment antidotes of cruel pain" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-murderess]: "by her own aid he stole away Medea, the murderess of Pelias" (Pindar, Pythian IV, trans. Ernest Myers)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: "A witch, daughter of Aeetes and Idyia"; conceived a passion for [Jason](jason.md); gave him a drug against fire and iron; lulled the dragon to sleep; won the Golden Fleece
@@ -179,3 +198,4 @@ Medea escapes on her winged dragons, flying over many lands (Ovid lists a catalo
 - **[Fabulae](../sources/hyginus.md)** §26: Exiled from Athens by priestess of [Diana](../deities/artemis.md)'s censure; travels to Colchis; stops at Absoros; gathers snakes into Absyrtus's tomb
 - **[Fabulae](../sources/hyginus.md)** §27: Medus claims to be Hippotes; Medea arrives as priestess claiming to cure sterility; nearly kills her own son unknowingly; recognizes him; gives him sword; Medus kills Perses; gains kingdom; names country Media
 - **[Metamorphoses](../sources/metamorphoses.md)** 7.1-424: Full Medea arc — interior monologue of love for Jason; gives him magic herbs; panic during the trials; rejuvenation of Aeson (incantation, dragon chariot, herb-gathering, cauldron magic); murder of Pelias via his daughters; flight over many lands; burning of Corinth; infanticide; attempted poisoning of Theseus; escape in a whirlwind
+- **[Pindar](../sources/pindar.md)**, Pythian IV: Prophesied at Thera about Kyrene "from immortal lips"; [Aphrodite](../deities/aphrodite.md)'s wryneck charm used to inflame her with love; mixed drugs with oil for Jason's anointment; vowed with Jason to wed; called "the murderess of Pelias"

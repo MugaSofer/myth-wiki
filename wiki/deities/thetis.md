@@ -175,6 +175,29 @@ Thetis would visit a myrtle cave, riding "quite naked, seated on her dolphin, wh
 [^met-th-dolphin]: "There Thetis often went, quite naked, seated on her dolphin, which was harnessed" (Metamorphoses 11.236-237)
 [^met-th-yield]: "she groaned and said, 'You could not overcome me in this way, but some divinity has given you the power.' Then she appeared as Thetis" (Metamorphoses 11.259-262)
 
+## In [Pindar](../sources/pindar.md)
+
+### Shapeshifting Resistance (Nemean IV)
+
+Nemean IV alludes to Thetis's shapeshifting resistance to [Peleus](../heroes/peleus.md). Myers's footnote explains directly: "Thetis, resisting her wooer Peleus, changed herself into fire and wild beasts." The poem itself records what Peleus survived to win her: "having escaped the violence of the fire and the dauntless lion's claws exceeding keen, and the bitings of teeth most terrible."[^pin-nem4-shapes]
+
+[^pin-nem4-shapes]: "having escaped the violence of the fire and the dauntless lion's claws exceeding keen, and the bitings of teeth most terrible" (Pindar, Nemean IV, trans. Ernest Myers) [Myers's footnote: "Thetis, resisting her wooer Peleus, changed herself into fire and wild beasts."]
+
+### Zeus and Poseidon Rival for Her Hand (Isthmian VII)
+
+Pindar's Isthmian VII gives the fullest account of the divine rivalry over Thetis and the prophecy that resolved it. "For the hand of Thetis there was strife between Zeus and glorious Poseidon, each having desire that she should be his fair bride, for love had obtained dominion over them."[^pin-ist7-rivalry]
+
+The resolution came through prophecy: "Themis of wise counsels spake in the midst of them of how it was pre-destined that the sea-goddess should bear a royal offspring mightier than his father, whose hand should wield a bolt more terrible than the lightning or the dread trident, if she came ever into the bed of Zeus, or of brethren of Zeus."[^pin-ist7-themis]
+
+[Themis](../deities/themis.md) then counselled the end of the rivalry: "'Cease ye herefrom: let her enter a mortal's couch and see her son fall in war, who shall be as Ares in the might of his hands, and as the lightning in the swiftness of his feet. My counsel is that ye give her to be the heaven-sent prize of Peleus son of Aiakos, whom the speech of men showeth to be their most righteous, an offspring of Iolkos' plain.'"[^pin-ist7-counsel]
+
+On the timing of the wedding night: "on the evening of the mid-month moon shall she unbind for the hero the fair girdle of her virginity."[^pin-ist7-night]
+
+[^pin-ist7-rivalry]: "for the hand of Thetis there was strife between Zeus and glorious Poseidon, each having desire that she should be his fair bride, for love had obtained dominion over them" (Pindar, Isthmian VII, trans. Ernest Myers)
+[^pin-ist7-themis]: "Themis of wise counsels spake in the midst of them of how it was pre-destined that the sea-goddess should bear a royal offspring mightier than his father, whose hand should wield a bolt more terrible than the lightning or the dread trident, if she came ever into the bed of Zeus, or of brethren of Zeus" (Pindar, Isthmian VII)
+[^pin-ist7-counsel]: "'Cease ye herefrom: let her enter a mortal's couch and see her son fall in war, who shall be as Ares in the might of his hands, and as the lightning in the swiftness of his feet. My counsel is that ye give her to be the heaven-sent prize of Peleus son of Aiakos, whom the speech of men showeth to be their most righteous, an offspring of Iolkos' plain'" (Pindar, Isthmian VII)
+[^pin-ist7-night]: "on the evening of the mid-month moon shall she unbind for the hero the fair girdle of her virginity" (Pindar, Isthmian VII)
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.221-265: Proteus prophesied son would surpass his father; Zeus renounced her; "the green haired maid" rode naked on a harnessed dolphin to a myrtle cave; Peleus seized her; shifted to bird, tree, spotted tigress; yielded and conceived Achilles
@@ -196,6 +219,8 @@ Thetis would visit a myrtle cave, riding "quite naked, seated on her dolphin, wh
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.7: Listed among the Nereids, daughters of [Nereus](nereus.md) and Doris
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.5: Saved [Hephaestus](hephaestus.md) after [Zeus](zeus.md) cast him from heaven and he fell on Lemnos
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Steered the Argo through the Wandering Rocks with the Nereids — "Thetis with the Nereids steered the ship through them at the summons of [Hera](hera.md)"[^apd-wandering]
+- **[Pindar](../sources/pindar.md)**, Nemean IV: Shapeshifted into fire and lion's claws and "teeth most terrible" to resist [Peleus](../heroes/peleus.md); he held firm through all
+- **[Pindar](../sources/pindar.md)**, Isthmian VII: Both Zeus and Poseidon desired her; [Themis](../deities/themis.md) warned her son would wield "a bolt more terrible than the lightning or the dread trident"; counselled both gods to yield her to Peleus; prophesied wedding night on the mid-month moon
 
 [^apd-wandering]: "Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)
 [^hyg-54-prophecy]: "A prediction about Thetis, the Nereid, was that her son would be greater than his father" (Fabulae §54, trans. Mary Grant)

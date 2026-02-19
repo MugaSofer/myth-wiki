@@ -101,6 +101,14 @@ Electra's rescue of [Orestes](orestes.md) follows: "But Electra, Agamemnon's dau
 [^hyg117-axe]: "Then Clytemnestra, together with Aegisthus, son of Thyestes, planned to kill Agamemnon and Cassandra. They killed him with an axe as he was sacrificing, and Cassandra, too" (Fabulae §117, trans. Mary Grant)
 [^hyg117-rescue]: "But Electra, Agamemnon's daughter, rescued her brother, the infant Orestes, and sent him to Strophius in Phocis. Strophius had married Agamemnon's sister, Astyoche" (Fabulae §117, trans. Mary Grant)
 
+## In [Pindar](../sources/pindar.md)
+
+### Murder at Amyklai (Pythian XI)
+
+Pindar's Pythian XI locates the murder at Amyklai — a variant from other accounts that place it at Mycenae. "The hero himself, the son of Atreus, when after long time he came unto famous Amyklai, and drew down with him to death the maiden prophetess" — that is, Kassandra, killed alongside him.[^pin-amyklai] The son of Atreus is described as having consumed with fire the habitations of Troy, then met his death on this homecoming.
+
+[^pin-amyklai]: "Thus died the hero himself, the son of Atreus, when after long time he came unto famous Amyklai, and drew down with him to death the maiden prophetess, after that he consumed with fire the Trojans' habitations of softness" (Pindar, Pythian XI, trans. Ernest Myers)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I-XXIV: Commander of the Greek army; "eyes like flashing fire"; quarrel with [Achilles](achilles.md) over Briseis; divine sceptre (Hephaestus→Zeus→Hermes→Pelops→Atreus→Thyestes→Agamemnon); arming scene (Book XI) with Kinyras corslet, Gorgon shield, and two-crested helm; wounded in battle
@@ -113,6 +121,7 @@ Electra's rescue of [Orestes](orestes.md) follows: "But Electra, Agamemnon's dau
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Leader of the expedition; sacrifice at Aulis
 - **[Fabulae](../sources/hyginus.md)** §98: Storm at Aulis from [Diana](../deities/artemis.md)'s anger; wounded her deer and spoke haughtily; Calchas demands Iphigenia's sacrifice; Agamemnon refuses then agrees; [Ulysses](odysseus.md) and Diomede fetch her with false promise of marriage to [Achilles](achilles.md); Diana substitutes deer and takes Iphigenia to Taurica
 - **[Fabulae](../sources/hyginus.md)** §117: Clytemnestra hears from Oiax (brother of Palamedes) false report about Cassandra; plots with Aegisthus; kills Agamemnon with axe as he sacrifices; kills Cassandra; Electra rescues infant Orestes and sends to Strophius
+- **[Pindar](../sources/pindar.md)**, Pythian XI: Murdered at Amyklai (not Mycenae) on his return from Troy; Kassandra ("the maiden prophetess") slain with him; variant location distinguishes Pindar from most sources
 
 [^apd-parentage]: "Aerope became the wife of Plisthenes, who begat Agamemnon and Menelaus" (Bibliotheca 3.2.2, trans. J.G. Frazer)
 [^apd-sun]: "Zeus sent Hermes to Atreus and told him to stipulate with Thyestes that Atreus should be king if the sun should go backward; and when Thyestes agreed, the sun set in the east" (Bibliotheca E.2.12, trans. J.G. Frazer)

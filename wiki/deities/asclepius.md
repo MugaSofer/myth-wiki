@@ -88,6 +88,37 @@ Among those he was said to have raised: "Capaneus and Lycurgus... Hippolytus... 
 
 [^hyg-death]: "Aesculapius, son of Apollo, is said to have restored life either to Glaucus, son of Minos, or to Hippolytus, and Jupiter because of this struck him with a thunderbolt" (Fabulae §49, trans. Mary Grant)
 
+## In [Pindar](../sources/pindar.md)
+
+### Birth and the Death of Koronis (Pythian III)
+
+Pindar's Pythian III gives the fullest poetic account of Asclepius's origins. His mother was Koronis, "the daughter of Phlegyas of goodly steeds," who was already pregnant by [Apollo](apollo.md) when she took a second lover, Ischys son of Elatos of Arcady.[^pin-koronis]
+
+Apollo's omniscience is given particular emphasis here: "he gave heed to his own wisdom, his mind that knoweth all things; in lies it hath no part, neither in act or thought may god or man deceive him."[^pin-omniscient] Apollo sent [Artemis](artemis.md) to slay Koronis at Lakereia, "by the steep shores of the Boibian lake." Many neighbours perished with her: "so doth a fire that from one spark has leapt upon a mountain lay waste wide space of wood."[^pin-lakereia]
+
+When her kin placed Koronis on the funeral pyre, Apollo relented at the last moment: "Not any longer may I endure in my soul to slay mine own seed by a most cruel death in company with its mother's grievous fate."[^pin-relent] He acted with divine swiftness: "at the first stride he was there, and from the corpse caught up the child, and the blaze of the burning fiery pile was cloven before him asunder in the midst."[^pin-rescue] He then brought the child to [Chiron](../creatures/chiron.md) to be trained.
+
+### Healing Arts (Pythian III)
+
+Chiron taught Asclepius "to be a healer of the many-plaguing maladies of men." Those who came to him — "whether plagued with self-grown sores or with limbs wounded by the lustrous bronze or stone far-hurled, or marred by summer heat or winter cold" — he delivered from their afflictions "some with emollient spells and some by kindly potions, or else he hung their limbs with charms, or by surgery he raised them up to health."[^pin-healing]
+
+### Death by Thunderbolt (Pythian III)
+
+Pindar records the bribery and its consequence: "Yet hath even wisdom been led captive of desire of gain. Even him did gold in his hands glittering beguile for a great reward to bring back from death a man already prisoner thereto: wherefore the hands of the son of Kronos smote the twain of them through the midst, and bereft their breasts of breath, and the bright lightning dealt them doom."[^pin-death] The "twain" refers to Asclepius and the man he raised.
+
+### Brief Mention (Nemean III)
+
+In Nemean III, Chiron's rearing of Asclepius is mentioned alongside that of Jason: "within his cavern of stone did deep-counselled Cheiron rear Jason, and next Asklepios, whom he taught to apportion healing drugs with gentle hand."[^pin-nem3]
+
+[^pin-koronis]: "the daughter of Phlegyas of goodly steeds not yet delivered by Eileithuia aid of mothers, ere by the golden bow she was slain at the hands of Artemis... she had lain with Phoibos of the unshorn hair, and bare within her the seed of a very god... for she lay in the couch of a stranger that was come from Arcady" (Pindar, Pythian III, trans. Ernest Myers)
+[^pin-omniscient]: "he gave heed to his own wisdom, his mind that knoweth all things; in lies it hath no part, neither in act or thought may god or man deceive him" (Pindar, Pythian III, trans. Ernest Myers)
+[^pin-lakereia]: "he sent his sister fierce with terrible wrath to go to Lakereia--for by the steep shores of the Boibian lake was the home of her virginity--and thus a doom adverse blasted her life and smote her down: and of her neighbours many fared ill therefore and perished with her: so doth a fire that from one spark has leapt upon a mountain lay waste wide space of wood" (Pindar, Pythian III, trans. Ernest Myers)
+[^pin-relent]: "Not any longer may I endure in my soul to slay mine own seed by a most cruel death in company with its mother's grievous fate" (Pindar, Pythian III, trans. Ernest Myers)
+[^pin-rescue]: "at the first stride he was there, and from the corpse caught up the child, and the blaze of the burning fiery pile was cloven before him asunder in the midst" (Pindar, Pythian III, trans. Ernest Myers)
+[^pin-healing]: "all that came unto him whether plagued with self-grown sores or with limbs wounded by the lustrous bronze or stone far-hurled, or marred by summer heat or winter cold--these he delivered, loosing each from his several infirmity, some with emollient spells and some by kindly potions, or else he hung their limbs with charms, or by surgery he raised them up to health" (Pindar, Pythian III, trans. Ernest Myers)
+[^pin-death]: "Yet hath even wisdom been led captive of desire of gain. Even him did gold in his hands glittering beguile for a great reward to bring back from death a man already prisoner thereto: wherefore the hands of the son of Kronos smote the twain of them through the midst, and bereft their breasts of breath, and the bright lightning dealt them doom" (Pindar, Pythian III, trans. Ernest Myers)
+[^pin-nem3]: "within his cavern of stone did deep-counselled Cheiron rear Jason, and next Asklepios, whom he taught to apportion healing drugs with gentle hand" (Pindar, Nemean III, trans. Ernest Myers)
+
 ## Variant Traditions
 
 The sources differ on whom Asclepius raised from the dead. The Bibliotheca gives a long list including Capaneus, Lycurgus, Hippolytus, Tyndareus, Hymenaeus, and Glaucus. The Fabulae gives only two candidates — "either Glaucus, son of Minos, or Hippolytus" — expressing uncertainty between them.
@@ -101,3 +132,5 @@ The sources differ on whom Asclepius raised from the dead. The Bibliotheca gives
 - **[Bibliotheca](../sources/apollodorus.md)** 3.10.3: Rescued from pyre by Apollo; raised by Chiron; learned healing and hunting; raised Capaneus, Lycurgus, Hippolytus, Tyndareus, Hymenaeus, Glaucus
 - **[Bibliotheca](../sources/apollodorus.md)** 3.10.4: Zeus smote him with thunderbolt fearing men would rescue each other from death
 - **[Fabulae](../sources/hyginus.md)** §49: Restored life to Glaucus or Hippolytus; struck by Jupiter's thunderbolt
+- **[Pindar](../sources/pindar.md)**, Pythian III: Birth from Koronis (daughter of Phlegyas) and Apollo; Koronis slain by Artemis at Lakereia; Apollo snatched infant from burning pyre; Chiron trained him; healed by emollient spells, potions, charms, and surgery; slain by Zeus's thunderbolt for raising a man from the dead
+- **[Pindar](../sources/pindar.md)**, Nemean III: Chiron "taught Asklepios to apportion healing drugs with gentle hand" — brief mention alongside Jason

@@ -147,6 +147,41 @@ After the return to Iolcus, Jason grieves that his father Aeson is worn out with
 [^met-jason-4]: "proudly sailed away bearing his treasure and the willing maid, (whose aid had saved him) to his native port Iolcus—victorious with the Argonauts" (Metamorphoses 7.149-158, trans. Brookes More)
 [^met-jason-5]: "take from my life some years that I should live and add them to my father's ending days" (Metamorphoses 7.166-167, trans. Brookes More)
 
+## In [Pindar](../sources/pindar.md)
+
+### Jason's Arrival at Iolkos (Pythian IV)
+
+Pindar's Pythian IV offers a rich narrative of Jason's career. He had been raised for twenty years in Chiron's cave — "from Chariklo and Philyra I come, from the cave where the Centaur's pure daughters reared me up, and now have I fulfilled twenty years among them without deceitful word or deed."[^pin-chiron]
+
+His arrival in Iolkos is described in vivid detail. He came "wielding two spears" and was dressed distinctively: "the vesture that was upon him was twofold, the garb of the Magnetes' country close fitting to his splendid limbs, but above he wore a leopard-skin to turn the hissing showers; nor were the bright locks of his hair shorn from him but over all his back ran rippling down."[^pin-appearance] Those who saw him wondered whether he was [Apollo](../deities/apollo.md) or Ares. Pelias "was astonied when he gazed on the plain sign of the single sandal on the right foot."[^pin-sandal]
+
+### Jason's Speech and the Quest (Pythian IV)
+
+Jason addressed Pelias with measured diplomatic language, laying out his ancestral claim to the throne while explicitly offering peace: he would yield all herds and lands, but sought the throne itself. In response, Pelias charged him with fetching the fleece — invoking the ghost of Phrixos, which demanded it.[^pin-pelias]
+
+### The Crew of the Argo (Pythian IV)
+
+Pindar names several of the Argonauts assembled for the voyage: "three sons of Zeus" — including sons of [Hermes](../deities/hermes.md) (Echion and Eurytos), Zetes and Kalaïs with "bright wings shooting from their backs" (sons of [Boreas](../deities/boreas.md)), Orpheus ("the minstrel father of song"), and [Heracles](heracles.md).[^pin-crew] [Hera](../deities/hera.md) "kindled within those sons of gods the all-persuading sweet desire for the ship Argo, that none should be left behind and stay by his mother's side in savourless and riskless life."[^pin-hera-argo]
+
+### Aphrodite's Wryneck Charm (Pythian IV)
+
+At Colchis, [Aphrodite](../deities/aphrodite.md) brought "the frenzied bird, the speckled wry-neck, binding it to a four-spoked wheel without deliverance, and taught the son of Aison to be wise in prayers and charms, that he might make Medea take no thought to honour her parents, and longing for Hellas might drive her by persuasion's lash, her heart afire with love."[^pin-wryneck]
+
+Medea "showed him the accomplishment of the tasks her father set, and mixing drugs with oil gave him for his anointment antidotes of cruel pain, and they vowed to be joined together in sweet wedlock."[^pin-medea-help] He ploughed with the fire-breathing bulls, sowed the dragon's teeth, and slew the "glaring speckled dragon... by subtlety."[^pin-dragon]
+
+Pindar calls Medea "the murderess of Pelias" in a brief epithet summing up her later role.[^pin-medea-pelias]
+
+[^pin-chiron]: "from Chariklo and Philyra I come, from the cave where the Centaur's pure daughters reared me up, and now have I fulfilled twenty years among them without deceitful word or deed" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-appearance]: "the vesture that was upon him was twofold, the garb of the Magnetes' country close fitting to his splendid limbs, but above he wore a leopard-skin to turn the hissing showers; nor were the bright locks of his hair shorn from him but over all his back ran rippling down" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-sandal]: "he was astonied when he gazed on the plain sign of the single sandal on the right foot" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-pelias]: "Phrixos biddeth us lay his ghost, and that we go to the house of Aietes, and bring thence the thick-fleeced hide of the ram, whereby of old he was delivered from the deep and from the impious weapons of his stepmother" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-crew]: "at Apollo's bidding came the minstrel father of song, Orpheus of fair renown. And Hermes of the golden staff sent two sons to the toilsome task, Echion and Eurytos in the joy of their youth... and willingly and with glad heart their father Boreas, king of winds, harnessed Zetes and Kalaïs, men both with bright wings shooting from their backs" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-hera-argo]: "Hera kindled within those sons of gods the all-persuading sweet desire for the ship Argo, that none should be left behind and stay by his mother's side in savourless and riskless life, but each, even were death the price, achieve in company with his peers a magic potency of his valour" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-wryneck]: "the queen of keenest darts, the Cyprus-born, first brought to men from Olympus the frenzied bird, the speckled wry-neck, binding it to a four-spoked wheel without deliverance, and taught the son of Aison to be wise in prayers and charms, that he might make Medea take no thought to honour her parents, and longing for Hellas might drive her by persuasion's lash, her heart afire with love" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-medea-help]: "speedily she showed him the accomplishment of the tasks her father set, and mixing drugs with oil gave him for his anointment antidotes of cruel pain, and they vowed to be joined together in sweet wedlock" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-dragon]: "The glaring speckled dragon, O Arkesilas, he slew by subtlety" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-medea-pelias]: "by her own aid he stole away Medea, the murderess of Pelias" (Pindar, Pythian IV, trans. Ernest Myers)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 13: Son of Aeson; raised by [Chiron](../creatures/chiron.md) on Pelion
@@ -159,3 +194,4 @@ After the return to Iolcus, Jason grieves that his father Aeson is worn out with
 - **[Fabulae](../sources/hyginus.md)** §22: Oracle to Aeetes about the fleece; tasks with bronze-footed bulls and dragon's teeth; [Juno](../deities/hera.md) arranges for [Venus](../deities/aphrodite.md) to inspire Medea with love; wins fleece with Medea's aid
 - **[Fabulae](../sources/hyginus.md)** §24: Medea disguised as priestess of [Diana](../deities/artemis.md); tricks Pelias's daughters (Alcestis, Pelopia, Medusa, Pisidice, Hippothoe) into killing their father; hands kingdom to Acastus; departs for Corinth
 - **[Metamorphoses](../sources/metamorphoses.md)** 7.1-293: Medea's love and Jason's trials at Colchis; tames brazen-footed bulls; sows dragon's teeth; lulls the guardian dragon; takes the Golden Fleece; begs Medea to restore Aeson's youth
+- **[Pindar](../sources/pindar.md)**, Pythian IV: Raised by Chiron for twenty years; arrived at Iolkos in Magnesian garb with leopard-skin and uncut hair; single sandal on right foot; ancestral speech to Pelias; Pelias invokes ghost of Phrixos to send him for the fleece; crew assembled including Orpheus, Zetes and Kalaïs (winged sons of Boreas), Echion and Eurytos; [Aphrodite](../deities/aphrodite.md)'s wryneck charm used on Medea; ploughed with fire-breathing bulls; slew the dragon "by subtlety"

@@ -62,6 +62,21 @@ In Ovid's telling, the Golden Fleece is the prize demanded by King Aeetes from [
 [^met-fleece-2]: "Lethean juices of a magic herb, and then recited thrice the words which bring deep slumber, potent words which would becalm the storm-tossed ocean" (Metamorphoses 7.152-156, trans. Brookes More)
 [^met-fleece-3]: "the hero took the Golden Fleece; and proudly sailed away bearing his treasure and the willing maid" (Metamorphoses 7.155-158, trans. Brookes More)
 
+## In [Pindar](../sources/pindar.md)
+
+### The Fleece in Pythian IV
+
+Pindar's Pythian IV gives a full narrative of the quest for the Golden Fleece. Pelias framed his mission to Jason in terms of an obligation to Phrixos's ghost: the fleece was "the thick-fleeced hide of the ram, whereby of old he was delivered from the deep and from the impious weapons of his stepmother."[^pin-ram-hide] The oracle at Kastalia had charged Pelias "to send a ship on the sacred mission."
+
+Aietes described the fleece to Jason in these terms: "This work let your king, whosoever he be that hath command of the ship, accomplish me, and then let him bear away with him the imperishable coverlet, the fleece glittering with tufts of gold."[^pin-coverlet]
+
+Pindar describes the fleece's guardian and location: "it lay in a thick wood and grasped by a terrible dragon's jaws, and he in length and thickness was larger than their ship of fifty oars."[^pin-dragon-desc] Jason slew this dragon "by subtlety" with Medea's aid, and "stole away" the fleece.[^pin-subtlety]
+
+[^pin-ram-hide]: "bring thence the thick-fleeced hide of the ram, whereby of old he was delivered from the deep and from the impious weapons of his stepmother" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-coverlet]: "This work let your king, whosoever he be that hath command of the ship, accomplish me, and then let him bear away with him the imperishable coverlet, the fleece glittering with tufts of gold" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-dragon-desc]: "it lay in a thick wood and grasped by a terrible dragon's jaws, and he in length and thickness was larger than their ship of fifty oars, which the iron's blows had welded" (Pindar, Pythian IV, trans. Ernest Myers)
+[^pin-subtlety]: "The glaring speckled dragon, O Arkesilas, he slew by subtlety, and by her own aid he stole away Medea, the murderess of Pelias" (Pindar, Pythian IV, trans. Ernest Myers)
+
 ## Appearances
 
 - **[Catalogue of Women](../sources/theogony.md)** (Fragment 38): The ram was immortal and had a golden fleece, given by Nephele; as Hesiod and Pherecydes say
@@ -71,3 +86,4 @@ In Ovid's telling, the Golden Fleece is the prize demanded by King Aeetes from [
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.23: Aeetes sets tasks (brazen-footed bulls, dragon's teeth); Medea lulls the guardian dragon; she takes the fleece
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.27: Jason surrenders the fleece upon return to Iolcus
 - **[Metamorphoses](../sources/metamorphoses.md)** 7.149-158: Dragon guarding the fleece lulled by Lethean herbs and incantations; Jason takes the fleece and sails away
+- **[Pindar](../sources/pindar.md)**, Pythian IV: Pelias invokes Phrixos's ghost and the oracle at Kastalia to send Jason for it; Aietes calls it "the imperishable coverlet, the fleece glittering with tufts of gold"; guardian dragon larger than the fifty-oared Argo; Jason slew it "by subtlety" with Medea's aid

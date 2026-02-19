@@ -547,6 +547,42 @@ Heracles built his pyre on Mount Oeta, spread the Nemean lion skin on top, and "
 
 ## In [Pindar](../sources/pindar.md)
 
+### The Infant Serpent-Strangler (Nemean I)
+
+Pindar gives the most dramatic retelling of baby Heracles killing the snakes sent by [Hera](../deities/hera.md). The queen of gods, "in the kindling of her anger sent presently the two snakes, and they when the doors were opened went right on into the wide bedchamber, hasting to entwine the children, that they should be a prey to their fierce teeth."[^pin-nem1-snakes]
+
+The infant's response was extraordinary: "the boy lifted up his head upright and was first to essay the fight, seizing with inevitable grasp of both his hands the two serpents by the necks, and time, as he strangled them, forced the breath out of their monstrous forms."[^pin-nem1-strangle]
+
+[Alcmena](../heroes/alcmena.md) "started to her feet from the couch half-robed, and would fain have beaten back the fierce beasts' violence." Then "quickly ran thronging thither with bronze arms the captains of the sons of Kadmos; and brandishing in his hand his sword bare of its sheath came Amphitryon smitten with sharp pain."[^pin-nem1-alarm]
+
+Amphitryon summoned the prophet [Teiresias](../heroes/teiresias.md), who foretold the child's destiny: how many "lawless monsters on the dry land, how many on the sea he should destroy," and "men the hatefullest, who walked in guile and insolence, he prophesied that he should deliver over unto death." At Phlegra's plain "the gods should meet the giants in battle, beneath the rush of his arrows their bright hair should be soiled with earth." As for his ultimate reward, Teiresias prophesied that "in peace himself should obtain a reward of rest from his great toils throughout all time continually within the house of bliss, and after that he had received fair Hebe to be his bride, and made his marriage-feast, should remain beside Zeus, the son of Kronos, well-pleased with his dwelling-place divine."[^pin-nem1-prophecy]
+
+[^pin-nem1-snakes]: "in the kindling of her anger sent presently the two snakes, and they when the doors were opened went right on into the wide bedchamber, hasting to entwine the children, that they should be a prey to their fierce teeth" (Pindar, Nemean I, trans. Ernest Myers)
+[^pin-nem1-strangle]: "the boy lifted up his head upright and was first to essay the fight, seizing with inevitable grasp of both his hands the two serpents by the necks, and time, as he strangled them, forced the breath out of their monstrous forms" (Pindar, Nemean I)
+[^pin-nem1-alarm]: "herself too started to her feet from the couch half-robed, and would fain have beaten back the fierce beasts' violence. And quickly ran thronging thither with bronze arms the captains of the sons of Kadmos; and brandishing in his hand his sword bare of its sheath came Amphitryon" (Pindar, Nemean I)
+[^pin-nem1-prophecy]: "in peace himself should obtain a reward of rest from his great toils throughout all time continually within the house of bliss, and after that he had received fair Hebe to be his bride, and made his marriage-feast, should remain beside Zeus, the son of Kronos, well-pleased with his dwelling-place divine" (Pindar, Nemean I)
+
+### Vs. Antaios (Isthmian III)
+
+In Isthmian III, Pindar presents Heracles' wrestling of the giant Antaios as an act of civilising heroism: "unto the house of Antaios came a man to wrestle against him, of short stature but of unbending soul, from Kadmean Thebes even unto corn-bearing Libya, that he might cause him to cease from roofing Poseidon's temple with the skulls of strangers."[^pin-ist3-antaios]
+
+The ode then describes his completed labours and his final glory: "he who ascended up to Olympus, after that he had searched out the surface of the whole earth and of the crag-walled hoary sea, and had made safe way for the sailing of ships." Now "beside the aegis-bearer he dwelleth, possessing happiness most fair, and hath honour from the immortals as their friend, and hath Hebe to wife, and is lord of a golden house, and husband of Hera's child."[^pin-ist3-olympus]
+
+[^pin-ist3-antaios]: "unto the house of Antaios came a man to wrestle against him, of short stature but of unbending soul, from Kadmean Thebes even unto corn-bearing Libya, that he might cause him to cease from roofing Poseidon's temple with the skulls of strangers" (Pindar, Isthmian III, trans. Ernest Myers)
+[^pin-ist3-olympus]: "he who ascended up to Olympus, after that he had searched out the surface of the whole earth and of the crag-walled hoary sea, and had made safe way for the sailing of ships. And now beside the aegis-bearer he dwelleth, possessing happiness most fair, and hath honour from the immortals as their friend, and hath Hebe to wife, and is lord of a golden house, and husband of Hera's child" (Pindar, Isthmian III)
+
+### Praying for Ajax's Birth (Isthmian V)
+
+Pindar relates the origin of [Ajax](ajax.md)'s name through a scene in which Heracles prays for Telamon's child. When Heracles came to call [Telamon](../heroes/telamon.md) to his voyage, he found the company feasting. "As he stood there in his lion's skin, then did Telamon their chief challenge Amphitryon's son of the mighty spear to make initiative libation of nectar."[^pin-ist5-lion]
+
+Heracles prayed to Zeus: "If ever, O father Zeus, thou hast heard my prayer with willing heart, now, even now, with strong entreaty I pray thee that thou give this man a brave child of Eriboia's womb, that by award of fate my friend may gain a son of body as staunch as this hide that hangeth about me, which was of the beast that I slew at Nemea, first of all my labours; and let his soul be of like sort."[^pin-ist5-prayer]
+
+Zeus "sent forth the king of birds, a mighty eagle, and sweet delight thrilled him within, and he spake aloud as a seer speaketh: 'Behold, the son whom thou askest shall be born unto thee, O Telamon': also after the bird's name that had appeared unto them he said that the child's name should be the mighty Aias, terrible in the strife of warring hosts."[^pin-ist5-eagle]
+
+[^pin-ist5-lion]: "as he stood there in his lion's skin, then did Telamon their chief challenge Amphitryon's son of the mighty spear to make initiative libation of nectar, and handed on unto him the wine-cup rough with gold" (Pindar, Isthmian V, trans. Ernest Myers)
+[^pin-ist5-prayer]: "now, even now, with strong entreaty I pray thee that thou give this man a brave child of Eriboia's womb, that by award of fate my friend may gain a son of body as staunch as this hide that hangeth about me, which was of the beast that I slew at Nemea, first of all my labours; and let his soul be of like sort" (Pindar, Isthmian V)
+[^pin-ist5-eagle]: "the god sent forth the king of birds, a mighty eagle, and sweet delight thrilled him within, and he spake aloud as a seer speaketh: 'Behold, the son whom thou askest shall be born unto thee, O Telamon': also after the bird's name that had appeared unto them he said that the child's name should be the mighty Aias, terrible in the strife of warring hosts" (Pindar, Isthmian V)
+
 ### The Battle at Pylos (Olympian IX)
 
 Pindar alludes to the tradition that Heracles fought against the gods at Pylos: "the hands of Herakles have wielded his club against the trident, when at Pylos [Poseidon](../deities/poseidon.md) took his stand and prest hard on him, ay, and there prest him hard embattled Phoibos with his silver bow, neither would [Hades](../deities/hades.md) keep his staff unraised, wherewith he leadeth down to ways beneath the hollow earth the bodies of men that die."[^pin-pylos]
@@ -628,6 +664,9 @@ Pindar lists the first Olympic victors: "In the foot-race down the straight cour
 - **[Pindar](../sources/pindar.md)**, Olympian III: Founded the Olympic games; brought the olive from the Hyperboreans
 - **[Pindar](../sources/pindar.md)**, Olympian IX: Fought [Poseidon](../deities/poseidon.md), [Apollo](../deities/apollo.md), and [Hades](../deities/hades.md) at Pylos (Pindar recoils: "to speak evil of gods is a hateful wisdom")
 - **[Pindar](../sources/pindar.md)**, Olympian XI: Slew Kleatos (son of Poseidon) and Eurytos at Kleonai; defeated Augeas; founded Olympic sacred precinct at Pisa; fenced the Altis; named the Hill of Kronos; honoured the twelve gods; first Olympic victors listed
+- **[Pindar](../sources/pindar.md)**, Nemean I: Baby Heracles strangles two serpents sent by [Hera](../deities/hera.md); Alcmena's alarm; Teiresias prophesies his labours, battle at Phlegra against the giants, and final rest beside Zeus with Hebe as bride
+- **[Pindar](../sources/pindar.md)**, Isthmian III: Wrestles Antaios in Libya to stop him roofing [Poseidon](../deities/poseidon.md)'s temple with strangers' skulls; now dwells beside Zeus ("lord of a golden house, and husband of Hera's child")
+- **[Pindar](../sources/pindar.md)**, Isthmian V: Wearing lion's skin, prays at Telamon's feast for a son "staunch as this hide"; eagle-omen sent by Zeus; names the child Aias (after *aietos*, eagle)
 
 [^apd-argonaut]: "Hercules, son of Zeus" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-hylas]: "Hylas, son of Thiodamas, a minion of Hercules, had been sent to draw water and was ravished away by nymphs on account of his beauty... while the two were seeking for Hylas, the ship put to sea... Hercules returned to Argos" (Bibliotheca 1.9.19, trans. Frazer)

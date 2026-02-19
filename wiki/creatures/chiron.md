@@ -124,6 +124,26 @@ A unique detail: "After Philyra saw that she had borne a strange species, she as
 [^hyg-138-birth]: "By him she bore Chiron the Centaur, who is said to have been the first to invent the art of healing" (Fabulae §138, trans. Mary Grant)
 [^hyg-138-linden]: "After Philyra saw that she had borne a strange species, she asked Jove to change her into another form, and she was transformed into the tree which is called the linden" (Fabulae §138, trans. Mary Grant)
 
+## In [Pindar](../sources/pindar.md)
+
+### A Soul Loving Unto Men (Pythian III)
+
+Pindar opens Pythian III with a wish that Chiron were still alive: "Fain were I (if meet it be to utter from my mouth the prayer conceived of all) that Cheiron the son of Philyra were alive and had not perished among men." He describes Chiron as "that Beast untamed, whose soul was loving unto men" and as "the Kentaur of Magnes." Here he is cast specifically in his role as Asclepius's teacher: training "the gentle deviser of limb-saving anodynes, Asklepios, the hero that was a defence against all kind of bodily plague."[^pin-py3-chiron]
+
+[^pin-py3-chiron]: "Fain were I... that Cheiron the son of Philyra were alive and had not perished among men, even the wide-ruling seed of Kronos the son of Ouranos; and that there still lorded it in Pelion's glens that Beast untamed, whose soul was loving unto men, even such as when of old he trained the gentle deviser of limb-saving anodynes, Asklepios, the hero that was a defence against all kind of bodily plague" (Pindar, Pythian III, trans. Ernest Myers)
+
+### Teaching Three Heroes (Nemean III)
+
+In Nemean III, Pindar gives a striking sequential account of Chiron's three greatest pupils: "within his cavern of stone did deep-counselled Cheiron rear Jason, and next Asklepios, whom he taught to apportion healing drugs with gentle hand." After these, "he saw the espousals of Nereus' daughter of the shining wrists, and fondling nursed her son, strongest of men, rearing his soul in a life of harmony; until by blowing of sea winds wafted to Troy he should await the war-cry of the Lykians and of the Phrygians."[^pin-nem3-chiron]
+
+[^pin-nem3-chiron]: "within his cavern of stone did deep-counselled Cheiron rear Jason, and next Asklepios, whom he taught to apportion healing drugs with gentle hand: after this it was that he saw the espousals of Nereus' daughter of the shining wrists, and fondling nursed her son, strongest of men, rearing his soul in a life of harmony" (Pindar, Nemean III, trans. Ernest Myers)
+
+### Advising Apollo About Kyrene (Pythian IX)
+
+When [Apollo](../deities/apollo.md) encountered the huntress Kyrene and asked Chiron whether he should pursue her openly or in secret, "the Centaur bold with a frank smile on his mild brow made answer straightway of his wisdom." He gently chided the god for asking what he already knew: "Secret are wise Lovecraft's keys unto love's sanctities, O Phoibos... thou who mayest have no part in lies, thy soft desire hath led to dissemble in this thy speech." He then prophesied Kyrene's destiny — her marriage to Apollo, her son Aristaios, and her kingdom in Libya.[^pin-py9-chiron]
+
+[^pin-py9-chiron]: "the Centaur bold with a frank smile on his mild brow made answer straightway of his wisdom: 'Secret are wise Lovecraft's keys unto love's sanctities, O Phoibos, and among gods and men alike all deem this shame, to have pleasure of marriage at the first openly'" (Pindar, Pythian IX, trans. Ernest Myers)
+
 ## Appearances
 
 - **[Epic Cycle](../sources/epic-cycle.md)** (War of the Titans, Fragment 6): Origin — Cronos as horse with Philyra; Chariclo his wife
@@ -141,3 +161,6 @@ A unique detail: "After Philyra saw that she had borne a strange species, she as
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.6: Raised Achilles; fed him on lion, boar, and bear; named him Achilles
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.8: Restored Phoenix's sight
 - **[Fabulae](../sources/hyginus.md)** §138: Saturn in horse-form lay with Philyra while hunting Jove; bore Chiron; "first to invent the art of healing"; Philyra horrified at "strange species," transformed into linden tree
+- **[Pindar](../sources/pindar.md)**, Pythian III: "Beast untamed, whose soul was loving unto men"; son of Philyra; "Kentaur of Magnes"; trained Asclepius in healing; Pindar wishes he were still alive
+- **[Pindar](../sources/pindar.md)**, Nemean III: Reared Jason; taught Asclepius "to apportion healing drugs with gentle hand"; fondled and nursed Thetis's son (Achilles), "rearing his soul in a life of harmony"
+- **[Pindar](../sources/pindar.md)**, Pythian IX: Spoke to Apollo "with a frank smile on his mild brow"; gently rebuked his dissembling; prophesied Kyrene's destiny and the birth of Aristaios

@@ -117,6 +117,29 @@ Ajax, "the unconquerable," is "conquered by his grief." He draws his sword and d
 [^met-ajax-verdict]: "The assembled body of the chiefs was moved; and then, appeared the power of eloquence: the fluent man received, amid applause, the arms of the brave man" (Metamorphoses 13.382-385, trans. Brookes More)
 [^met-ajax-death]: "The unconquerable was conquered by his grief. He drew his sword, and said:--'This is at least my own; or will Ulysses also claim this, for himself'... The ensanguined earth sprouted from her green turf that purple flower which grew of old from Hyacinthine blood. Its petals now are charged with double freight--the warrior's name, Apollo's cry of woe" (Metamorphoses 13.386-398, trans. Brookes More)
 
+## In [Pindar](../sources/pindar.md)
+
+### Homer's Ajax vs. the True Ajax (Nemean VII)
+
+Pindar makes a pointed observation about the injustice done to Ajax's reputation: "the fame of Odysseus is become greater than his toils, through the sweet lays that Homer sang; for over the feigning of his winged craft something of majesty abideth, and the excellence of his skill persuadeth us to his fables unaware."[^pin-nem7-odysseus]
+
+He then makes explicit what he considers the historical truth: "Blind hearts have the general folk of men; for could they have discovered the truth, never would stalwart Aias in anger for the arms have struck through his midriff the sharp sword — even he who after Achilles was best in battle of all men."[^pin-nem7-ajax]
+
+[^pin-nem7-odysseus]: "the fame of Odysseus is become greater than his toils, through the sweet lays that Homer sang; for over the feigning of his winged craft something of majesty abideth, and the excellence of his skill persuadeth us to his fables unaware" (Pindar, Nemean VII, trans. Ernest Myers)
+[^pin-nem7-ajax]: "Blind hearts have the general folk of men; for could they have discovered the truth, never would stalwart Aias in anger for the arms have struck through his midriff the sharp sword — even he who after Achilles was best in battle of all men" (Pindar, Nemean VII)
+
+### Envy and the Secret Vote (Nemean VIII)
+
+Pindar returns to this injustice in Nemean VIII, with even more bitter phrasing: "thus did envy slay the son of Telamon, thrusting him through with his own sword." The reason was corruption in the vote: "in the secret giving of their votes the Danaoi courted Odysseus, and thus did Aias, robbed of the golden arms, wrestle in the grip of a bloody death."[^pin-nem8-envy]
+
+[^pin-nem8-envy]: "envy slay the son of Telamon, thrusting him through with his own sword... in the secret giving of their votes the Danaoi courted Odysseus, and thus did Aias, robbed of the golden arms, wrestle in the grip of a bloody death" (Pindar, Nemean VIII, trans. Ernest Myers)
+
+### The Eagle and His Naming (Isthmian V)
+
+The fullest Pindaric account of Ajax's birth and naming appears in Isthmian V (see also [Heracles](heracles.md)'s page for the prayer scene). [Heracles](heracles.md) found Telamon feasting, and prayed to Zeus for a son "of body as staunch as this hide that hangeth about me." Zeus "sent forth the king of birds, a mighty eagle, and sweet delight thrilled him within." Then Heracles prophesied: "after the bird's name that had appeared unto them he said that the child's name should be the mighty Aias, terrible in the strife of warring hosts."[^pin-ist5-naming]
+
+[^pin-ist5-naming]: "after the bird's name that had appeared unto them he said that the child's name should be the mighty Aias, terrible in the strife of warring hosts" (Pindar, Isthmian V, trans. Ernest Myers)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** VII: Single combat with [Hector](hector.md); "bulwark of the Achaians"; tower-like sevenfold shield; nearly defeats Hector; parted by heralds
@@ -136,6 +159,9 @@ Ajax, "the unconquerable," is "conquered by his grief." He draws his sword and d
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.6-7: Arms contest lost to Odysseus; driven mad by Athena; slaughters cattle; suicide; buried in a coffin at Rhoeteum
 - **[Fabulae](../sources/hyginus.md)** §107: Demanded Achilles' arms as cousin; denied by Agamemnon and Menelaus through Athena's anger; given to Odysseus; killed himself with sword from Hector
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.1-398: Speech claiming Achilles' arms by deeds and kinship; mocks Odysseus as man of stealth; loses to Odysseus's eloquence; draws sword and kills himself; blood sprouts hyacinth flower
+- **[Pindar](../sources/pindar.md)**, Nemean VII: Homer's fame for Odysseus exceeds justice; "never would stalwart Aias... have struck through his midriff the sharp sword" had the truth been known; "after Achilles was best in battle of all men"
+- **[Pindar](../sources/pindar.md)**, Nemean VIII: "Envy slay the son of Telamon, thrusting him through with his own sword"; the Danaoi voted secretly to favour Odysseus and robbed him of the golden arms
+- **[Pindar](../sources/pindar.md)**, Isthmian V: Named Aias after the eagle (*aietos*) sent by Zeus in response to [Heracles](heracles.md)'s prayer; "terrible in the strife of warring hosts"
 
 [^apd-birth]: "when Hercules had prayed that he might have a male child, an eagle appeared after the prayer" (Bibliotheca 3.12.7, trans. J.G. Frazer)
 [^apd-ships]: "Of the Salaminians, Telamonian Ajax: he brought twelve ships" (Bibliotheca E.3.11, trans. J.G. Frazer)

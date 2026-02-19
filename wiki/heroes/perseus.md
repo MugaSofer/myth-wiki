@@ -149,6 +149,24 @@ At the wedding feast, Phineus (Andromeda's former betrothed) attacked with an ar
 [^met-per-gorgon]: "I saw on all sides men and animals—like statues—turned to flinty stone at sight of dread Medusa's visage. Nevertheless reflected on the brazen shield, I bore upon my left, I saw her horrid face" (Metamorphoses 4.780-786, trans. Brookes More)
 [^met-per-medusa]: "Beyond all others she was famed for beauty, and the envious hope of many suitors... the Sovereign of the Sea attained her love in chaste Minerva's temple... Minerva changed the Gorgon's splendid hair to serpents horrible" (Metamorphoses 4.794-803, trans. Brookes More)
 
+## In [Pindar](../sources/pindar.md)
+
+### Perseus and the Hyperboreans (Pythian X)
+
+Pythian X briefly mentions Perseus's visit to the Hyperboreans as proof that miracles are possible when gods are involved. "In the eagerness of his valiant heart went of old the son of Danaë, for that Athene led him on his way, unto the company of that blessed folk." He "entered into their houses and feasted among them, when that he had lighted on them as they were sacrificing ample hecatombs of asses to their god."[^pin-hyperborean] After his visit: "Also he slew the Gorgon and bare home her head with serpent tresses decked, to the island folk a stony death."[^pin-gorgon-death]
+
+### The Grey Sisters, Polydektes, and Danae (Pythian XII)
+
+Pythian XII describes the achievements preceding the slaying of Medusa herself. Perseus "struck with blindness the wondrous brood of Phorkos" — the Grey Sisters, from whom he stole the eye — and "to Polydektes' bridal brought a grievous gift, and grievous eternally he made for that man his mother's slavery and ravished bed."[^pin-polydektes] This phrase presents Polydektes' scheme as an act of violence against Danae's freedom. Perseus's birth is glossed: "he who was the son of Danaë, and sprung, they say, from a living stream of gold."[^pin-gold-stream]
+
+The occasion for [Athena](../deities/athena.md)'s invention of the flute was Perseus's destruction of Medusa: "Pallas Athene devised, when she made music of the fierce Gorgon's death-lament. That heard she pouring from the maiden heads and heads of serpents unapproachable amidst the anguish of their pains, when Perseus had stricken the third sister."[^pin-flute-origin]
+
+[^pin-hyperborean]: "in the eagerness of his valiant heart went of old the son of Danaë, for that Athene led him on his way, unto the company of that blessed folk... entered into their houses and feasted among them, when that he had lighted on them as they were sacrificing ample hecatombs of asses to their god" (Pindar, Pythian X, trans. Ernest Myers)
+[^pin-gorgon-death]: "Also he slew the Gorgon and bare home her head with serpent tresses decked, to the island folk a stony death" (Pindar, Pythian X, trans. Ernest Myers)
+[^pin-polydektes]: "Yea also he struck with blindness the wondrous brood of Phorkos, and to Polydektes' bridal brought a grievous gift, and grievous eternally he made for that man his mother's slavery and ravished bed" (Pindar, Pythian XII, trans. Ernest Myers)
+[^pin-gold-stream]: "he who was the son of Danaë, and sprung, they say, from a living stream of gold" (Pindar, Pythian XII, trans. Ernest Myers)
+[^pin-flute-origin]: "Pallas Athenie devised, when she made music of the fierce Gorgon's death-lament. That heard she pouring from the maiden heads and heads of serpents unapproachable amidst the anguish of their pains, when Perseus had stricken the third sister" (Pindar, Pythian XII, trans. Ernest Myers)
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 4.604-803: Turns Atlas to mountain; rescues Andromeda from sea monster; tells how he slew Medusa; Medusa's origin as a beauty punished by Athena
@@ -160,3 +178,5 @@ At the wedding feast, Phineus (Andromeda's former betrothed) attacked with an ar
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.4: Acrisius killed by discus at Larissa; kingdom exchange with Megapenthes; fortified Mycenae
 - **[Fabulae](../sources/hyginus.md)** §63: Danae daughter of Acrisius and Aganippe; shut in stone-walled prison; Zeus as gold shower; chest cast to sea, washed to Seriphos; Dictys found them; Polydectes married Danae, raised Perseus in Athena's temple; Acrisius came to Seriphos, Perseus swore oath never to kill him; at Polydectes' funeral games, wind blew discus from Perseus's hand, killed Acrisius; "what he did not do of his own will was accomplished by the gods"; took Argos
 - **[Fabulae](../sources/hyginus.md)** §64: Cassiope claimed Andromeda excelled Nereids; Neptune demanded she be offered to sea-monster; Perseus flying on Mercury's winged sandals freed her; Cepheus and Agenor (betrothed) plotted to kill Perseus; showed Gorgon head, turned them to stone; returned to Seriphos; Polydectes feared him, tried treachery; Perseus petrified him with Gorgon head
+- **[Pindar](../sources/pindar.md)**, Pythian X: [Athena](../deities/athena.md) led him to the Hyperboreans; feasted among them at their hecatomb of asses; slew the Gorgon and brought her head "to the island folk a stony death"
+- **[Pindar](../sources/pindar.md)**, Pythian XII: Blinded the Grey Sisters ("the wondrous brood of Phorkos"); brought Polydektes "a grievous gift" (Medusa's head); Polydektes' scheme framed as making eternal his mother Danae's "slavery and ravished bed"; "sprung, they say, from a living stream of gold"; his slaying of Medusa prompted Athena to invent the flute from the Gorgons' death-lament

@@ -89,6 +89,35 @@ After recognition, "Orestes killed Aletes, son of Aegisthus, and would have kill
 [^hyg122-firebrand]: "The same messenger who had reported about Orestes, said that Iphigenia was the murderess of her brother. When Electra heard this, she seized a burning firebrand from the altar, and in her ignorance would have blinded her sister Iphigenia if Orestes had not intervened" (Fabulae §122, trans. Mary Grant)
 [^hyg122-aletes]: "After this recognition they came to Mycenae, and Orestes killed Aletes, son of Aegisthus, and would have killed Erigone, daughter of Clytemnestra and Aegisthus, but Diana rescued her and made her a priestess in the Attic land" (Fabulae §122, trans. Mary Grant)
 
+## In [Pindar](../sources/pindar.md)
+
+### The Murder of Agamemnon at Amyklai (Pythian XI)
+
+Pindar's Pythian XI presents the story of Orestes with several significant differences from other accounts. The murder of [Agamemnon](agamemnon.md) is located at Amyklai, not Mycenae or Argos: "the hero himself, the son of Atreus, when after long time he came unto famous Amyklai, and drew down with him to death the maiden prophetess" — meaning Kassandra.[^pin-amyklai]
+
+### Arsinoë as Rescuer (Pythian XI)
+
+Crucially, Pindar names the one who saved infant Orestes not as Electra but as a nurse named Arsinoë: "Orestes, on the murder of his father, Arsinoë his nurse saved from the violent hands of Klytaimnestra and out of the ruinous treason."[^pin-arsinoe] This stands in contrast to [Bibliotheca](../sources/apollodorus.md) E.6.24, where Electra rescues him, and to [Fabulae](../sources/hyginus.md) §117, where Electra sends him to Strophius.
+
+### Clytemnestra's Motives Questioned (Pythian XI)
+
+Pindar raises two possible motives for Klytaimnestra's actions, without choosing between them: "Did then the slaughter of Iphigenia far from her own land on Euripos' shore so sting her mother to the arousal of a wrath of grievous act? Or had nocturnal loves misguided her, in thraldom to a paramour's embrace?"[^pin-motives] This double question is rare — the sources usually present Iphigenia's sacrifice as the primary motivation.
+
+### Orestes at Parnassos and the Vengeance (Pythian XI)
+
+Orestes came "and was the guest of the old man Strophios, who dwelt at the foot of Parnassos: but with long-tarrying sword he slew his mother, and left Aigisthos' body in its blood."[^pin-vengeance]
+
+[^pin-amyklai]: "Thus died the hero himself, the son of Atreus, when after long time he came unto famous Amyklai, and drew down with him to death the maiden prophetess" (Pindar, Pythian XI, trans. Ernest Myers)
+[^pin-arsinoe]: "Orestes, on the murder of his father, Arsinoë his nurse saved from the violent hands of Klytaimnestra and out of the ruinous treason" (Pindar, Pythian XI, trans. Ernest Myers)
+[^pin-motives]: "Did then the slaughter of Iphigenia far from her own land on Euripos' shore so sting her mother to the arousal of a wrath of grievous act? Or had nocturnal loves misguided her, in thraldom to a paramour's embrace?" (Pindar, Pythian XI, trans. Ernest Myers)
+[^pin-vengeance]: "Orestes, in the tenderness of his youth, came and was the guest of the old man Strophios, who dwelt at the foot of Parnassos: but with long-tarrying sword he slew his mother, and left Aigisthos' body in its blood" (Pindar, Pythian XI, trans. Ernest Myers)
+
+## Variant Traditions
+
+The sources give different accounts for who rescued the infant Orestes. The [Bibliotheca](../sources/apollodorus.md) (E.6.24) credits Electra; the [Fabulae](../sources/hyginus.md) (§117) credits Electra; Pindar's Pythian XI credits a nurse named Arsinoë.
+
+The location of Agamemnon's murder also varies. Most sources place it at Mycenae. Pindar (Pythian XI) names Amyklai — a town in Lacedaemon — instead.
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.23: Saved from his father's murder
@@ -101,6 +130,7 @@ After recognition, "Orestes killed Aletes, son of Aegisthus, and would have kill
 - **[Fabulae](../sources/hyginus.md)** §120: Oracle at Delphi to fetch statue of [Diana](../deities/artemis.md) from Taurica; custom of Taurians to sacrifice strangers; hides in cave with Pylades; seized by shepherds; brought to King Thoas; Iphigenia recognizes them; pretends statue is defiled; orders city evacuated; escapes with statue to Chryses at Zminthe
 - **[Fabulae](../sources/hyginus.md)** §121: Chryses the Younger revealed as son of [Agamemnon](agamemnon.md) and Chryseis; Chryses and Orestes are brothers; kill Thoas together; return to Mycenae with statue
 - **[Fabulae](../sources/hyginus.md)** §122: False report to Electra of his sacrifice; Aletes seizes power; Electra nearly blinds Iphigenia with firebrand from altar; recognition; kills Aletes; [Diana](../deities/artemis.md) rescues Erigone; marries Hermione; Pylades marries Electra
+- **[Pindar](../sources/pindar.md)**, Pythian XI: Arsinoë (his nurse) saves him from Klytaimnestra; [Agamemnon](agamemnon.md) murdered at Amyklai (not Mycenae); Kassandra slain with him; Orestes sheltered at Parnassos by Strophios; kills his mother and leaves Aigisthos's body in its blood; Klytaimnestra's motives left uncertain — vengeance for Iphigenia or "nocturnal loves"
 
 [^apd-murder]: "After Agamemnon had returned to Mycenae with Cassandra, he was murdered by Aegisthus and Clytaemnestra; for she gave him a shirt without sleeves and without a neck, and while he was putting it on he was cut down, and Aegisthus reigned over Mycenae. And they killed Cassandra also" (Bibliotheca E.6.23, trans. J.G. Frazer)
 [^apd-smuggled]: "Electra, one of Agamemnon's daughters, smuggled away her brother Orestes and gave him to Strophius, the Phocian, to bring up; and he brought him up with Pylades, his own son" (Bibliotheca E.6.24, trans. J.G. Frazer)

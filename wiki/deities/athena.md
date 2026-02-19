@@ -377,6 +377,20 @@ Athena continued her role as [Heracles](../heroes/heracles.md)' protector:
 [^apd-ath-gorgon-lock]: "Hercules had received from Athena a lock of the Gorgon's hair in a bronze jar and gave it to Sterope, daughter of Cepheus" (Bibliotheca 2.7.3)
 [^apd-ath-apples]: "Athena got them and conveyed them back again; for it was not lawful that they should be laid down anywhere" (Bibliotheca 2.5.11)
 
+## In [Pindar](../sources/pindar.md)
+
+### Invention of the Flute (Pythian XII)
+
+Pythian XII gives Athena's invention of the flute an explicit mythological origin. When [Perseus](../heroes/perseus.md) slew Medusa, her Gorgon sister Euryale let out a piercing death-lament, and Athena devised a musical instrument to recreate the sound: "Pallas Athene devised, when she made music of the fierce Gorgon's death-lament."[^pin-flute1]
+
+The fuller account runs: "the Maiden, when that she had delivered her well-beloved from these toils, contrived the manifold music of the flute, that with such instrument she might repeat the shrill lament that reached her from Euryale's ravening jaws."[^pin-flute2] She named the composition "the many-headed air" — a specific musical piece connected to the origins of flute-playing.[^pin-many-headed]
+
+This account differs sharply from the [Fabulae](../sources/hyginus.md) (§165), where Athena invented the flute from deer bones and then threw it away in disgust at her own puffed cheeks. In Pindar, the motivation is commemorative rather than vain.
+
+[^pin-flute1]: "Pallas Athene devised, when she made music of the fierce Gorgon's death-lament" (Pindar, Pythian XII, trans. Ernest Myers)
+[^pin-flute2]: "the Maiden, when that she had delivered her well-beloved from these toils, contrived the manifold music of the flute, that with such instrument she might repeat the shrill lament that reached her from Euryale's ravening jaws" (Pindar, Pythian XII, trans. Ernest Myers)
+[^pin-many-headed]: "having created it for a possession of mortal men, she named that air she played the many-headed air, that speaketh gloriously of folk-stirring games" (Pindar, Pythian XII, trans. Ernest Myers)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### Arachne (6.1-145)
@@ -454,6 +468,7 @@ Within sat Envy, "ravening the flesh of vipers, self-begot." Ovid describes her 
 - **[Odyssey](../sources/odyssey.md)** IV: Locrian Aias was "hated by Athene"; creates a phantom in the likeness of Iphthime to comfort Penelope in her sleep — "such a friend goes to guide him... even Pallas Athene"; the phantom enters through the bolt and speaks "at the gates of dreams"
 - **[Pindar](../sources/pindar.md)**, Olympian VII: Birth from Zeus's head — "beneath the bronze-wrought axe from the crown of her father's head Athene leapt to light and cried aloud with an exceeding cry; and Heaven trembled"; [Hephaestus](hephaestus.md) named as the one who split Zeus's head; golden rain on Rhodes at her birth
 - **[Pindar](../sources/pindar.md)**, Olympian XIII: Brings [Bellerophon](../heroes/bellerophon.md) a golden bridle in a dream; called "queen of steeds"; "maiden wielder of the shadowy aegis"
+- **[Pindar](../sources/pindar.md)**, Pythian XII: Invented the flute to recreate the death-lament of the Gorgon Euryale after Perseus's slaying; named the composition "the many-headed air"; guided Perseus ("delivered her well-beloved") through his trials with Medusa's sisters
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Competes with Hera and Aphrodite in the Judgment of Paris (Paris chooses Aphrodite);[^cyp-judgment-athena] polished Peleus's spear[^cyp-spear]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Contrives that Odysseus wins Achilles' arms; instructs Epeius to build the Wooden Horse[^liliad-athena]
 - **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): Her image torn away by Aias son of Ileus when he drags Cassandra from her temple; plans to destroy the Greeks on the high seas after they sail away[^sack-athena]

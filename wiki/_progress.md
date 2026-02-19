@@ -797,11 +797,43 @@ Created dedicated pages for major entities across all previously processed sourc
 
 ## Aeneid — COMPLETE
 
+### Pindar, Odes — COMPLETE
+
+**Source text:** Ernest Myers translation (1874, rev. 1904), Project Gutenberg #10717
+**Source page created:** pindar.md
+**Source file:** sources/pindar-myers.txt (6,708 lines, 45 odes + fragments)
+
+**All 45 odes and fragments processed across four collections:**
+
+**Olympian Odes (I-XIV):**
+- Pages updated: pelops.md, poseidon.md, elysium.md, athena.md, helius.md, heracles.md, bellerophon.md, pegasus.md
+- Key content: Pelops myth (O.I), afterlife theology (O.II), Athena's birth with bronze axe (O.VII), Helius and Rhodes (O.VII), Heracles at Pylos (O.IX), Olympic games founding (O.XI), Bellerophon's golden bridle (O.XIII)
+
+**Pythian Odes (I-XII):**
+- Pages updated: asclepius.md, apollo.md, orestes.md, agamemnon.md, athena.md, perseus.md, jason.md, medea.md, golden-fleece.md
+- Key content: Ixion and centaur origins (P.II), Asclepius/Coronis birth and death (P.III), Jason/Argonauts with Aphrodite's wryneck charm (P.IV), Apollo and Kyrene (P.IX), Orestes variant — Amyklai location, Arsinoë as nurse (P.XI), Athena invented flute from Gorgon death-lament (P.XII)
+
+**Nemean Odes (I-XI):**
+- Pages updated: heracles.md, achilles.md, peleus.md, thetis.md, ajax.md, chiron.md, bellerophon.md, elysium.md
+- Key content: Baby Heracles strangling serpents (N.I), young Achilles at six hunting lions (N.III), Peleus and Hippolyte/Thetis (N.IV-V), Achilles slew Memnon (N.VI), Neoptolemos killed at Delphi (N.VII), Ajax suicide over arms (N.VIII), Kastor and Polydeukes — fullest account (N.X)
+
+**Isthmian Odes (I-VII):**
+- Pages updated: heracles.md, ajax.md, bellerophon.md, thetis.md, achilles.md
+- Key content: Heracles vs. Antaios (I.III), Ajax named from eagle omen (I.V), Bellerophon thrown by Pegasus (I.VI), Thetis prophecy — son mightier than father (I.VII)
+
+**Fragments:**
+- Pages updated: elysium.md
+- Key content: Afterlife dirges (crimson meadows, fruits of gold, fragrance), Persephone's reincarnation cycle
+
+**~20 wiki pages updated total across all four collections.**
+
+## Pindar, Odes — COMPLETE
+
 ## Next
 
 ### New Sources (in priority order)
 
-1. **Pindar, Odes** — Rich mythological digressions scattered across Olympian, Pythian, Nemean, and Isthmian odes. Harder to process systematically but high-quality material.
+*TBD — Apollonius Rhodius Argonautica, Greek tragedies, or Pausanias are potential next sources.*
 
 ### Minor Expansions — COMPLETE
 

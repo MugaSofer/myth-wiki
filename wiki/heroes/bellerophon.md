@@ -153,6 +153,14 @@ With the bridle, "bold Bellerophon bind round the winged steed's jaw the softeni
 
 Pindar deliberately omits the ending: "I will keep silence touching the fate of him: howbeit Pegasos hath in [Olympus](../places/olympus.md) found a home in the ancient stalls of Zeus."[^pin-silence]
 
+### The Fall from Pegasus (Isthmian VI)
+
+In Isthmian VI, Pindar revisits Bellerophon's fate — the story he held back in Olympian XIII — and this time tells it plainly, using it as a moral example. Comparing the blindness of ambition that reaches beyond its proper bounds, he writes: "thus did winged Pegasos throw his lord Bellerophon, when he would fain enter into the heavenly habitations and mix among the company of Zeus." The lesson is unambiguous: "Unrighteous joyance a bitter end awaiteth."[^pin-ist6-fall]
+
+This is a notable contrast with the silence in Olympian XIII. There Pindar chose not to tell the story; here he tells it as a cautionary example. Both passages confirm he knew the full tradition of Bellerophon's fall.
+
+[^pin-ist6-fall]: "thus did winged Pegasos throw his lord Bellerophon, when he would fain enter into the heavenly habitations and mix among the company of Zeus. Unrighteous joyance a bitter end awaiteth" (Pindar, Isthmian VI, trans. Ernest Myers)
+
 [^pin-bridle]: "he who once, when he longed to bridle the snaky Gorgon's son, Pegasos, at Peirene's spring, suffered many things, until the time when maiden Pallas brought to him a bit with head-band of gold, and from a dream behold it was very deed" (Pindar, Olympian XIII, trans. Ernest Myers)
 [^pin-dream]: "Sleepest thou O Aiolid king? Come, take this charmer of steeds, and show it to thy father the tamer of horses, with the sacrifice of a white bull" (Pindar, Olympian XIII)
 [^pin-wake]: "he seized the wondrous bit that lay by his side, and found with joy the prophet of the land" (Pindar, Olympian XIII)
@@ -171,6 +179,7 @@ Pindar deliberately omits the ending: "I will keep silence touching the fate of 
 - **[Bibliotheca](../sources/apollodorus.md)** 2.3.2: Slew Chimaera from [Pegasus](../creatures/pegasus.md)'s back; fought Solymi and Amazons; survived ambush; given daughter Philonoe and the kingdom
 - **[Fabulae](../sources/hyginus.md)** §57: Came as exile to Proetus; Stheneboea's false accusation; Iobates (called Stheneboea's father); reluctant to kill "such a hero"; sent to slay Chimaera riding Pegasus; fell in Aleian plains and dislocated hip; given "other daughter" in marriage; Stheneboea killed herself hearing of the marriage
 - **[Pindar](../sources/pindar.md)**, Olympian XIII: [Athena](../deities/athena.md) brings golden bridle in a dream at Peirene's spring; tames [Pegasus](../creatures/pegasus.md); flies to smite Amazons, Solymoi, and Chimaera from the air; Pindar keeps silence on his fate; Pegasus in Zeus's stalls on Olympus
+- **[Pindar](../sources/pindar.md)**, Isthmian VI: Pegasus threw Bellerophon "when he would fain enter into the heavenly habitations and mix among the company of Zeus"; "Unrighteous joyance a bitter end awaiteth" — the fate Pindar kept silent in Olympian XIII, here told explicitly
 
 [^il6-lineage]: "There is a city Ephyre in the heart of Argos, pasture land of horses, and there dwelt Sisyphos that was craftiest of men, Sisyphos son of Aiolos; and he begat a son, even Glaukos, and Glaukos begat noble Bellerophon" (Iliad VI.3600-3603, trans. Lang, Leaf, and Myers)
 [^hes-parentage]: "So she lay in the arms of Poseidon and bare in the house of Glaucus blameless Bellerophon, surpassing all men" (Hesiodic Catalogue of Women, Fragment 7, trans. H.G. Evelyn-White)

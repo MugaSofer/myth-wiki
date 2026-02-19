@@ -336,3 +336,35 @@ After Troy's fall, when the Greek fleet was moored on the Thracian shore, Achill
 - **[Fabulae](../sources/hyginus.md)** §96: Thetis sent him to Scyros to King Lycomedes (would die if went to Troy); kept among virgin daughters in woman's attire; called "Pyrrha" (tawny-haired, pyrrhos = redhead); Achaeans sent spokesmen; Lycomedes denied, gave permission to search; Odysseus put women's trinkets with shield and spear in forecourt; trumpet blast and war-cries; Achilles seized weapons, revealed; promised aid and Myrmidons
 - **[Fabulae](../sources/hyginus.md)** §106: Agamemnon took Briseis (Moesian captive, daughter of priest Brisa); Achilles withdrew, "amused himself with cithara in tent"; Patroclus wore armor, slew Sarpedon, killed by Hector; Thetis got armor from Vulcan, Nereids brought it over sea; Achilles slew Hector, dragged body round walls; refused burial; Zeus commanded; Priam came with Mercury as guide, ransomed body for equal weight of gold
 - **[Fabulae](../sources/hyginus.md)** §107: After Hector's burial, wandering ramparts saying he alone reduced Troy; Apollo in anger (as Paris) shot heel, killed him; Ajax demanded arms (cousin on father's side); through Minerva's anger, Agamemnon and Menelaus gave them to Odysseus; Ajax in madness slaughtered flocks, killed himself with sword from Hector (gift from battle-line meeting)
+
+## In [Pindar](../sources/pindar.md)
+
+### Young Achilles with Chiron (Nemean III)
+
+Pindar gives the most evocative portrait of Achilles' youth among the sources. While dwelling in [Chiron](../creatures/chiron.md)'s house on Mount Philyra, "being yet a child made mighty deeds his play; and brandishing many a time his little javelin in his hands, swift as the wind he dealt death to wild lions in the fight, and boars he slew also and dragged their heaving bodies to the Centaur, son of Kronos, a six years' child when he began, and thenceforward continually."[^pin-nem3-child]
+
+Even the gods marvelled: "[Artemis](../deities/artemis.md) marvelled at him, and brave [Athena](../deities/athena.md), when he slew deer without dogs or device of nets; for by fleetness of foot he overcame them."[^pin-nem3-artemis]
+
+[^pin-nem3-child]: "Achilles of the yellow hair, while he dwelt in the house of Philyra, being yet a child made mighty deeds his play; and brandishing many a time his little javelin in his hands, swift as the wind he dealt death to wild lions in the fight, and boars he slew also and dragged their heaving bodies to the Centaur, son of Kronos, a six years' child when he began" (Pindar, Nemean III, trans. Ernest Myers)
+[^pin-nem3-artemis]: "Artemis marvelled at him, and brave Athena, when he slew deer without dogs or device of nets; for by fleetness of foot he overcame them" (Pindar, Nemean III)
+
+### Slaying Memnon (Nemean VI)
+
+Pindar records Achilles' slaying of Memnon as a deed famous even unto the Ethiopians: "bitter was the battle that Achilles made against him, having descended from his chariot upon the earth, what time by his fierce spear's point he slew the son of the bright Morn."[^pin-nem6-memnon]
+
+[^pin-nem6-memnon]: "bitter was the battle that Achilles made against him, having descended from his chariot upon the earth, what time by his fierce spear's point he slew the son of the bright Morn" (Pindar, Nemean VI, trans. Ernest Myers)
+
+### His Deeds and Funeral (Isthmian VII)
+
+Pindar presents a compact catalogue of Achilles' great achievements in Isthmian VII. He "stained the vine-clad Mysian plain with the dark blood of Telephos," and "delivered Helen, when that he had cut asunder with his spear the sinews of Troy, even the men who kept him back as he plied the work of slaughterous battle on the plain, the strength of Memnon and high-hearted Hektor, and other chiefs of pride."[^pin-ist7-deeds]
+
+At his death, "[Achilles] neither in death was forsaken of songs, for at his funeral pyre and beside his tomb stood the Helikonian maiden-choir, and poured thereon a dirge of many melodies. For so the immortals willed, to give charge unto the songs of goddesses over that valorous man even in his death."[^pin-ist7-funeral]
+
+[^pin-ist7-deeds]: "He it was who stained the vine-clad Mysian plain with the dark blood of Telephos that he shed thereon, and made for the sons of Atreus a safe return across the sea, and delivered Helen, when that he had cut asunder with his spear the sinews of Troy... the strength of Memnon and high-hearted Hektor, and other chiefs of pride" (Pindar, Isthmian VII, trans. Ernest Myers)
+[^pin-ist7-funeral]: "neither in death was he of songs forsaken, for at his funeral pyre and beside his tomb stood the Helikonian maiden-choir, and poured thereon a dirge of many melodies. For so the immortals willed, to give charge unto the songs of goddesses over that valorous man even in his death" (Pindar, Isthmian VII)
+
+## Appearances (continued)
+
+- **[Pindar](../sources/pindar.md)**, Nemean III: Six-year-old child killing lions and boars and dragging them to [Chiron](../creatures/chiron.md); slew deer by pure speed of foot — [Artemis](../deities/artemis.md) and [Athena](../deities/athena.md) marvelled; Chiron reared his soul "in a life of harmony"
+- **[Pindar](../sources/pindar.md)**, Nemean VI: Descended from chariot, slew Memnon "son of the bright Morn" with his spear
+- **[Pindar](../sources/pindar.md)**, Isthmian VII: Wounded Telephus in Mysia; delivered Helen by "cutting the sinews of Troy"; slew Memnon, Hector, "and other chiefs of pride"; the Muses' choir sang dirge at his pyre; in the Islands of the Blessed (Olympian II)

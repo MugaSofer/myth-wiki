@@ -84,6 +84,35 @@ Peleus was "blest in everything, except in killing Phocus" — the murder of his
 [^met-pel-achilles]: "she groaned and said, 'You could not overcome me in this way, but some divinity has given you the power.' Then she appeared as Thetis: and, when Peleus saw her now deprived of all deceptions, he embraced her and was father of the great Achilles" (Metamorphoses 11.259-264)
 [^met-pel-exile]: "Great Peleus' heart was filled with happiness; because of his great son and Thetis his dear wife: he was blest in everything, except in killing Phocus. The Trachinian land received him guilty of his brother's blood" (Metamorphoses 11.266-270)
 
+## In [Pindar](../sources/pindar.md)
+
+### Brief Mentions (Nemean III)
+
+Pindar praises Peleus in a single vivid phrase: "Glad was King Peleus when he cut him his gigantic spear, he who took Iolkos by his single arm without help of any host, he who held firm in the struggle Thetis the daughter of the sea."[^pin-nem3-peleus]
+
+[^pin-nem3-peleus]: "Glad was King Peleus when he cut him his gigantic spear, he who took Iolkos by his single arm without help of any host, he who held firm in the struggle Thetis the daughter of the sea" (Pindar, Nemean III, trans. Ernest Myers)
+
+### Hippolyte's False Accusation (Nemean IV)
+
+Pindar alludes to the accusation of Akastos' wife in Nemean IV, linking it to Peleus's subsequent trials. [Thetis](../deities/thetis.md) is at stake: Peleus "proved the guileful counsels of Hippolyte, Akastos' wife." Akastos, "by stealing his sword of cunning workmanship... prepared death for him in an ambush; but Cheiron delivered him out of his hand." Having survived the fire and the wild beasts that came with [Thetis](../deities/thetis.md)'s shape-shifting — "having escaped the violence of the fire and the dauntless lion's claws exceeding keen, and the bitings of teeth most terrible" — Peleus "espoused one of the Nereids high-enthroned, and beheld the circle of fair seats whereon were sitting the kings of heaven and of the sea, as they revealed unto him their gifts, and the kingdom that should be unto him and unto his seed."[^pin-nem4-peleus]
+
+[^pin-nem4-peleus]: "he proved the guileful counsels of Hippolyte, Akastos' wife. For by stealing his sword of cunning workmanship the son of Pelias prepared death for him in an ambush; but Cheiron delivered him out of his hand; and thus he fulfilled the destiny ordained him of Zeus, and having escaped the violence of the fire and the dauntless lion's claws exceeding keen, and the bitings of teeth most terrible, he espoused one of the Nereids high-enthroned, and beheld the circle of fair seats whereon were sitting the kings of heaven and of the sea, as they revealed unto him their gifts, and the kingdom that should be unto him and unto his seed" (Pindar, Nemean IV, trans. Ernest Myers)
+
+### The Full Story of Hippolyte (Nemean V)
+
+Pindar gives a more detailed account in Nemean V, where the Muses' choir at Pelion sang of Thetis and Peleus. Hippolyte — named here as "Kretheus' dainty daughter" — "forged a lying tale thereto devised, how that he essayed to go in unto her in Akastos' bridal bed. But the truth was wholly contrary thereto, for often and with all her soul she had besought him with beguiling speech; but her bold words vexed his spirit; and forthwith he refused the bride, fearing the wrath of the Father who guardeth host and guest."[^pin-nem5-hippolyte]
+
+His reward was swift: "And he, the cloud-compelling Zeus in heaven, the immortal's king, was aware thereof, and he promised him that with all speed he would find him a sea-bride from among the Nereids of golden distaffs."[^pin-nem5-promise]
+
+[^pin-nem5-hippolyte]: "she forged a lying tale thereto devised, how that he essayed to go in unto her in Akastos' bridal bed. But the truth was wholly contrary thereto, for often and with all her soul she had besought him with beguiling speech; but her bold words vexed his spirit; and forthwith he refused the bride, fearing the wrath of the Father who guardeth host and guest" (Pindar, Nemean V, trans. Ernest Myers)
+[^pin-nem5-promise]: "he promised him that with all speed he would find him a sea-bride from among the Nereids of golden distaffs" (Pindar, Nemean V)
+
+### Thetis Given to Peleus (Isthmian VII)
+
+In Isthmian VII, [Themis](../deities/themis.md) counselled the gods to give [Thetis](../deities/thetis.md) to Peleus: "My counsel is that ye give her to be the heaven-sent prize of Peleus son of Aiakos, whom the speech of men showeth to be their most righteous, an offspring of Iolkos' plain."[^pin-ist7-peleus]
+
+[^pin-ist7-peleus]: "My counsel is that ye give her to be the heaven-sent prize of Peleus son of Aiakos, whom the speech of men showeth to be their most righteous, an offspring of Iolkos' plain" (Pindar, Isthmian VII, trans. Ernest Myers)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 53: Origin of the Myrmidons — [Zeus](../deities/zeus.md) turned ants into men for Aeacus (Peleus's father); first seafarers
@@ -100,6 +129,10 @@ Peleus was "blest in everything, except in killing Phocus" — the murder of his
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.13: "Peleus was expelled from Phthia by the sons of Acastus and died"
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.221-289: Proteus prophesied Thetis's son would surpass his father; Zeus urged Peleus to wed "the green haired maid"; seized her at a myrtle cave; she shifted to bird, tree, tigress; bound her on Proteus's advice; father of Achilles; exile at Trachis for killing Phocus
 - **[Fabulae](../sources/hyginus.md)** §54: Thetis prophecy — "her son would be greater than his father"; Prometheus's bargain with Zeus; marriage to Peleus; Heracles frees Prometheus
+- **[Pindar](../sources/pindar.md)**, Nemean III: Cut his "gigantic spear"; "took Iolkos by his single arm without help of any host"; held firm against [Thetis](../deities/thetis.md) in the struggle
+- **[Pindar](../sources/pindar.md)**, Nemean IV: Hippolyte forged lies against him; Akastos hid his sword; [Chiron](../creatures/chiron.md) rescued him; survived Thetis's fire and lion-claws; married a Nereid, saw the gods' gifts
+- **[Pindar](../sources/pindar.md)**, Nemean V: Muses sang of Thetis and Peleus at Pelion; refused Hippolyte "fearing the wrath of the Father who guardeth host and guest"; Zeus promised him a Nereid bride
+- **[Pindar](../sources/pindar.md)**, Isthmian VII: [Themis](../deities/themis.md) declares him "most righteous" among men; counsels gods to give [Thetis](../deities/thetis.md) to Peleus
 
 [^apd-exile]: "As Phocus excelled in athletic sports, his brothers Peleus and Telamon plotted against him, and the lot falling on Telamon, he killed his brother in a match by throwing a quoit at his head, and with the help of Peleus carried the body and hid it in a wood" (Bibliotheca 3.12.6, trans. J.G. Frazer)
 [^apd-phthia]: "Peleus fled to Phthia to the court of Eurytion, son of Actor, and was purified by him, and he received from him his daughter Antigone and the third part of the country" (Bibliotheca 3.13.1, trans. J.G. Frazer)

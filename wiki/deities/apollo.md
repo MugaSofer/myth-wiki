@@ -322,6 +322,27 @@ Apollo punished the raven for bearing the news: "Disgrace reversed the raven's h
 [^met-apo-pan]: "Apollo's golden locks were richly wreathed with fresh Parnassian laurel; his robe of Tyrian purple swept the ground; his left hand held his lyre, adorned with gems and Indian ivory" (Metamorphoses 11.157-164, trans. Brookes More)
 [^met-apo-midas]: "The Delian god forbids his stupid ears to hold their native human shape; and, drawing them out to a hideous length, he fills them with gray hairs" (Metamorphoses 11.174-178, trans. Brookes More)
 
+## In [Pindar](../sources/pindar.md)
+
+### Omniscience — Koronis (Pythian III)
+
+Pythian III characterizes Apollo's foreknowledge in sharper terms than any other source. Although absent at Pytho, "the temple's king Loxias was aware" of Koronis's infidelity with Ischys, "for he gave heed to his own wisdom, his mind that knoweth all things; in lies it hath no part, neither in act or thought may god or man deceive him."[^pin-omniscience] This absolute omniscience is presented as a defining attribute. He sent [Artemis](artemis.md) to slay Koronis and, at the last moment, rescued the child [Asclepius](asclepius.md) from her funeral pyre.
+
+### Apollo and Kyrene (Pythian IX)
+
+Pythian IX tells how Apollo discovered Kyrene, daughter of Hypseus (king of the Lapiths), wrestling alone with a lion "without spear" in the mountain dells of Pelion.[^pin-kyrene-lion] Struck by the sight, he summoned [Chiron](../creatures/chiron.md) from his cave and asked: "What man begat her?... Is it lawful openly to put forth my hand to her, or rather on a bridal-bed pluck the sweet flower?"[^pin-kyrene-question]
+
+Chiron laughed and answered obliquely that Apollo already knew, rebuking him for pretending ignorance: "Secret are wise Lovecraft's keys unto love's sanctities, O Phoibos, and among gods and men alike all deem this shame, to have pleasure of marriage at the first openly."[^pin-chiron-reply] Chiron then prophesied that Apollo would carry Kyrene to Libya, where she would found a city and bear a son — whom [Hermes](hermes.md) would carry to the Hours and Earth, who would give him nectar and ambrosia and make him "as an immortal, a Zeus or a holy Apollo, to men beloved of him a very present help, a tutelar of flocks." This son would be called "Agreus and Nomios; but to others Aristaios shall be his name."[^pin-aristaios]
+
+Pindar summarizes the consummation with a striking formula: "swift the act and short the ways of gods who are eager to an end."[^pin-swift]
+
+[^pin-omniscience]: "he gave heed to his own wisdom, his mind that knoweth all things; in lies it hath no part, neither in act or thought may god or man deceive him" (Pindar, Pythian III, trans. Ernest Myers)
+[^pin-kyrene-lion]: "Once as she struggled alone, without spear, with a terrible lion, he of the wide quiver, far-darting Apollo, found her" (Pindar, Pythian IX, trans. Ernest Myers)
+[^pin-kyrene-question]: "What man begat her? From what tribe was she torn to dwell in the secret places of the shadowing hills?... Is it lawful openly to put forth my hand to her, or rather on a bridal-bed pluck the sweet flower?" (Pindar, Pythian IX, trans. Ernest Myers)
+[^pin-chiron-reply]: "Secret are wise Lovecraft's keys unto love's sanctities, O Phoibos, and among gods and men alike all deem this shame, to have pleasure of marriage at the first openly. Now even thee, who mayest have no part in lies, thy soft desire hath led to dissemble in this thy speech" (Pindar, Pythian IX, trans. Ernest Myers)
+[^pin-aristaios]: "There shall she bring forth a son, whom glorious Hermes taking up from his mother's arms shall bear to the fair-throned Hours and to Earth: and they shall set the babe upon their knees, and nectar and ambrosia they shall distil upon his lips, and shall make him as an immortal, a Zeus or a holy Apollo, to men beloved of him a very present help, a tutelar of flocks, and to some Agreus and Nomios; but to others Aristaios shall be his name" (Pindar, Pythian IX, trans. Ernest Myers)
+[^pin-swift]: "swift the act and short the ways of gods who are eager to an end" (Pindar, Pythian IX, trans. Ernest Myers)
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.438-567: Slays Python; institutes Pythian Games; pursues Daphne; claims laurel as sacred tree
@@ -382,6 +403,8 @@ Apollo punished the raven for bearing the news: "Disgrace reversed the raven's h
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.26: Thetis warned Achilles not to kill Tenes "because he himself would die by the hand of Apollo if he slew Tenes"
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.3: Shot Achilles in the ankle at the Scaean gate — "he was shot with an arrow in the ankle by Alexander and Apollo"
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.18: Sent serpents from the sea that devoured the sons of Laocoon
+- **[Pindar](../sources/pindar.md)**, Pythian III: Omniscience ("his mind that knoweth all things; in lies it hath no part") — aware of Koronis's infidelity while absent at Pytho; sends Artemis to slay her at Lakereia; rescues infant Asclepius from the funeral pyre
+- **[Pindar](../sources/pindar.md)**, Pythian IX: Finds Kyrene wrestling a lion alone without a spear; asks Chiron about her; Chiron prophesies she will found a city in Libya and bear Aristaios; "swift the act and short the ways of gods who are eager to an end"
 - **[Fabulae](../sources/hyginus.md)** §49: Aesculapius restored life to Glaucus or Hippolytus; Zeus struck him with thunderbolt; Apollo killed the Cyclopes in revenge; given in servitude to Admetus
 - **[Fabulae](../sources/hyginus.md)** §140: Python gave oracles on Parnassus before Apollo; pursued Leto; four days after birth Apollo slew Python with arrows; put bones in cauldron; instituted Pythian games
 - **[Fabulae](../sources/hyginus.md)** §165: Marsyas contest — Apollo turned lyre upside down; Marsyas couldn't do the same with pipes; Apollo defeated him; bound to tree; Scythian stripped his skin limb by limb

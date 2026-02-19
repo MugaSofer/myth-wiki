@@ -35,6 +35,22 @@ There "round the islands of the blest the Ocean-breezes blow, and golden flowers
 
 Named residents include [Peleus](../heroes/peleus.md) and [Kadmos](../heroes/cadmus.md), and [Achilles](../heroes/achilles.md), whose mother [Thetis](../deities/thetis.md) brought him there "when her prayer had moved the heart of [Zeus](../deities/zeus.md)."[^pin-achilles]
 
+### The Dirge Fragments
+
+In three fragments from Pindar's Dirges (*thraenoi*), the afterlife is described in remarkable detail across three different aspects:
+
+**Dirge I — The sunlit underworld:** "For them shineth below the strength of the sun while in our world it is night, and the space of crimson-flowered meadows before their city is full of the shade of frankincense-trees, and of fruits of gold. And some in horses, and in bodily feats, and some in dice, and some in harp-playing have delight; and among them thriveth all fair-flowering bliss; and fragrance streameth ever through the lovely land, as they mingle incense of every kind upon the altars of the gods."[^pin-dirge1]
+
+**Dirge II — The shadow of life:** "the body indeed is subject unto the great power of death, but there remaineth yet alive a shadow of life; for this only is from the gods; and while the limbs stir, it sleepeth, but unto sleepers in dreams discovereth oftentimes the judgment that draweth nigh for sorrow or for joy."[^pin-dirge2]
+
+**Dirge III — Reincarnation:** "But from whomsoever Persephone accepteth atonement made for an ancient woe, their souls unto the light of the sun above she sendeth back again in the ninth year. And from those souls spring noble kings, and men swift and strong and in wisdom very great: and through the after-time they are called holy heroes among men."[^pin-dirge3]
+
+This last fragment presents a doctrine of reincarnation unique in the early Greek tradition — [Persephone](../deities/persephone.md) accepts atonement and releases souls to be reborn as the heroic and the great. Together, the three dirge fragments offer Pindar's most sustained theological reflection on the afterlife.
+
+[^pin-dirge1]: "For them shineth below the strength of the sun while in our world it is night, and the space of crimson-flowered meadows before their city is full of the shade of frankincense-trees, and of fruits of gold. And some in horses, and in bodily feats, and some in dice, and some in harp-playing have delight; and among them thriveth all fair-flowering bliss; and fragrance streameth ever through the lovely land, as they mingle incense of every kind upon the altars of the gods" (Pindar, Fragment: Dirge I, trans. Ernest Myers)
+[^pin-dirge2]: "the body indeed is subject unto the great power of death, but there remaineth yet alive a shadow of life; for this only is from the gods; and while the limbs stir, it sleepeth, but unto sleepers in dreams discovereth oftentimes the judgment that draweth nigh for sorrow or for joy" (Pindar, Fragment: Dirge II, trans. Ernest Myers)
+[^pin-dirge3]: "from whomsoever Persephone accepteth atonement made for an ancient woe, their souls unto the light of the sun above she sendeth back again in the ninth year. And from those souls spring noble kings, and men swift and strong and in wisdom very great: and through the after-time they are called holy heroes among men" (Pindar, Fragment: Dirge III, trans. Ernest Myers)
+
 [^pin-tower]: "whosoever have been of good courage to the abiding steadfast thrice on either side of death and have refrained their souls from all iniquity, travel the road of Zeus unto the tower of Kronos" (Pindar, Olympian II, trans. Ernest Myers)
 [^pin-flowers]: "round the islands of the blest the Ocean-breezes blow, and golden flowers are glowing, some from the land on trees of splendour, and some the water feedeth, with wreaths whereof they entwine their hands" (Pindar, Olympian II)
 [^pin-rhadamanthys]: "so ordereth Rhadamanthos' just decree, whom at his own right hand hath ever the father Kronos, husband of Rhea, throned above all worlds" (Pindar, Olympian II)
@@ -57,6 +73,9 @@ The [Bibliotheca](../sources/apollodorus.md) mentions the Elysian Fields and the
 - **[Odyssey](../sources/odyssey.md)** IV: Proteus tells Menelaos he will go to the Elysian plain where Rhadamanthus dwells
 - **[Works and Days](../sources/works-and-days.md)** 156-173: Heroes of the Fourth Age dwell in the Islands of the Blessed under Cronos's rule
 - **[Pindar](../sources/pindar.md)**, Olympian II: "Round the islands of the blest the Ocean-breezes blow, and golden flowers are glowing"; Rhadamanthys judges beside Cronos; Peleus, Kadmos, and Achilles dwell there; souls who refrain from iniquity through three lives earn passage
+- **[Pindar](../sources/pindar.md)**, Fragment: Dirge I: The sun shines below while night reigns above; crimson-flowered meadows; frankincense-trees; fruits of gold; the blessed take delight in horses, athletic feats, dice, or harp-playing; fragrance streams through the land
+- **[Pindar](../sources/pindar.md)**, Fragment: Dirge II: The body dies but "a shadow of life" from the gods remains; it sleeps while limbs move, but reveals judgments to dreamers
+- **[Pindar](../sources/pindar.md)**, Fragment: Dirge III: [Persephone](../deities/persephone.md) accepts atonement for "an ancient woe" and sends souls back to the sun in the ninth year; these become noble kings, mighty warriors, and great sages — called "holy heroes"
 - **[Apollodorus](../sources/apollodorus.md)** 3.5.4: Cadmus and Harmonia sent to the Elysian Fields
 - **[Apollodorus](../sources/apollodorus.md)** 3.10.1: Lycus placed in the Islands of the Blest
 - **[Apollodorus](../sources/apollodorus.md)** E.7.37: Telegonos and Penelope sent to the Islands of the Blest by Circe
