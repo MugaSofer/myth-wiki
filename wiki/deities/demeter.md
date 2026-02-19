@@ -150,7 +150,7 @@ In [Odyssey](../sources/odyssey.md) Book V, Calypso cites Demeter's love for the
 
 This echoes the [Theogony](../sources/theogony.md)'s account of the same union (969-974), but where the Theogony focuses on the offspring Plutus, Calypso emphasises Zeus's violent punishment of the mortal lover.
 
-[^od5-iasion]: "So too when fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field, Zeus was not long without tidings thereof, and cast at him with his white bolt and slew him" (Odyssey V.3098-3101, trans. Butcher and Lang)
+[^od5-iasion]: "So too when fair-tressed Demeter yielded to her love, and lay with Iasion in the thrice-ploughed fallow-field, Zeus was not long without tidings thereof, and cast at him with his white bolt and slew him" (Odyssey 5.124-127, trans. Butcher and Lang)
 
 ## In the Bibliotheca
 

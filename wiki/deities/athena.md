@@ -28,7 +28,7 @@
 [^desc-guardian]: "Of Pallas Athene, guardian of the city, I begin to sing. Dread is she, and with Ares she loves deeds of war, the sack of cities and the shouting and the battle. It is she who saves the people as they go out to war and come back." (Homeric Hymn XI to Athena 1-4, trans. H.G. Evelyn-White)
 [^desc-xxviii-epi]: "I begin to sing of Pallas Athene, the glorious goddess, bright-eyed, inventive, unbending of heart, pure virgin, saviour of cities, courageous, Tritogeneia" (Homeric Hymn XXVIII to Athena 1-3)
 
-[^desc-trito]: "Be of good cheer, Trito-born, dear child" (Iliad XXII.12455-12456, trans. Lang, Leaf, and Myers)
+[^desc-trito]: "Be of good cheer, Trito-born, dear child" (Iliad 22.178-179, trans. Lang, Leaf, and Myers)
 
 ## Appearance
 
@@ -44,11 +44,11 @@ She also wears the **[helm of Hades](../objects/helm-of-hades.md)**, which grant
 
 The [aegis](../objects/aegis.md) is described separately from her arming scenes: "the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk."[^desc-aegis]
 
-[^desc-eyes]: "straightway knew Pallas Athene; and terribly shone her eyes" (Iliad I.200, trans. Lang, Leaf, and Myers)
+[^desc-eyes]: "straightway knew Pallas Athene; and terribly shone her eyes" (Iliad 1.15, trans. Lang, Leaf, and Myers)
 [^desc-birth-arms]: "From his awful head wise Zeus himself bare her arrayed in warlike arms of flashing gold, and awe seized all the gods as they gazed" (Homeric Hymn XXVIII to Athena 4-6, trans. H.G. Evelyn-White)
-[^desc-arming]: "she put on the tunic of Zeus the cloud-gatherer, and arrayed her in her armour for dolorous battle. About her shoulders cast she the tasselled aegis terrible, all about which Terror is as a crown, and therein is Strife, therein Valour, therein the dread onset of Battle, therein the Gorgon head of the dread monster, terrible and grim, portent of aegis-bearing Zeus. Upon her head she set the two-crested golden helm with four plates, adorned with men-at-arms of an hundred cities. Upon the flaming chariot set she her foot, and grasped her heavy spear, great and stout, wherewith she vanquisheth the ranks of men" (Iliad V.3185-3198)
-[^desc-hades-helm]: "she put on the helm of Hades, that terrible Ares might not behold her" (Iliad V.3205-3206)
-[^desc-aegis]: "bright-eyed Athene in the midst, bearing the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk" (Iliad II.1197-1201)
+[^desc-arming]: "she put on the tunic of Zeus the cloud-gatherer, and arrayed her in her armour for dolorous battle. About her shoulders cast she the tasselled aegis terrible, all about which Terror is as a crown, and therein is Strife, therein Valour, therein the dread onset of Battle, therein the Gorgon head of the dread monster, terrible and grim, portent of aegis-bearing Zeus. Upon her head she set the two-crested golden helm with four plates, adorned with men-at-arms of an hundred cities. Upon the flaming chariot set she her foot, and grasped her heavy spear, great and stout, wherewith she vanquisheth the ranks of men" (Iliad 5.630-643)
+[^desc-hades-helm]: "she put on the helm of Hades, that terrible Ares might not behold her" (Iliad 5.651-652)
+[^desc-aegis]: "bright-eyed Athene in the midst, bearing the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk" (Iliad 2.436-440)
 
 ## Powers
 
@@ -59,12 +59,12 @@ The [aegis](../objects/aegis.md) is described separately from her arming scenes:
 - **Motherly patronage of Odysseus:** Aias calls her "the goddess... from of old like a mother standeth by Odysseus' side."[^desc-odysseus]
 - **Gorgon blood (dual-natured):** After [Perseus](../heroes/perseus.md) slew Medusa, Athena possessed the Gorgon's blood, which had opposite powers depending on which vein it came from. She gave it to Asclepius: "he used the blood that flowed from the veins on the left side for the bane of mankind" while "the blood that flowed from the right side" was used "for salvation, and by that means he raised the dead."[^apd-gorgon-blood]
 
-[^desc-fire]: "she kindled from his helm and shield flame unwearying, like to the star of summer that above all stars riseth brightest bathed in the Ocean stream. In such wise kindled she fire from his head and shoulders" (Iliad V.2611-2614, trans. Lang, Leaf, and Myers)
-[^desc-achilles-fire]: "the bright-eyed goddess Athene cast about his mighty shoulders the tasselled aegis, and around his head the divine goddess set a crown of golden cloud, and kindled therefrom a blazing fire... Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" (Iliad XVIII.10553-10562)
-[^desc-protect]: "even as a mother driveth a fly from her child that lieth in sweet slumber" (Iliad IV.2176-2177)
-[^desc-deception]: "she left him and came to noble Hector, like unto Deiphobos in shape and in strong voice... Thus saying Athene in her subtlety led him on" (Iliad XXII.12493-12514)
-[^desc-combat]: "she sprang forth and caught up a stone that lay in the plain, black, rugged, huge, that men of old time set to be the boundary of a field: therewith smote she fierce Ares on the neck, and unstrung his limbs" (Iliad XXI.12103-12106)
-[^desc-odysseus]: "the goddess who from of old like a mother standeth by Odysseus' side and helpeth him" (Iliad XXIII.13463-13464)
+[^desc-fire]: "she kindled from his helm and shield flame unwearying, like to the star of summer that above all stars riseth brightest bathed in the Ocean stream. In such wise kindled she fire from his head and shoulders" (Iliad 5.34-37, trans. Lang, Leaf, and Myers)
+[^desc-achilles-fire]: "the bright-eyed goddess Athene cast about his mighty shoulders the tasselled aegis, and around his head the divine goddess set a crown of golden cloud, and kindled therefrom a blazing fire... Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" (Iliad 18.143-155)
+[^desc-protect]: "even as a mother driveth a fly from her child that lieth in sweet slumber" (Iliad 4.123-124)
+[^desc-deception]: "she left him and came to noble Hector, like unto Deiphobos in shape and in strong voice... Thus saying Athene in her subtlety led him on" (Iliad 22.221-244)
+[^desc-combat]: "she sprang forth and caught up a stone that lay in the plain, black, rugged, huge, that men of old time set to be the boundary of a field: therewith smote she fierce Ares on the neck, and unstrung his limbs" (Iliad 21.397-400)
+[^desc-odysseus]: "the goddess who from of old like a mother standeth by Odysseus' side and helpeth him" (Iliad 23.857-858)
 [^apd-gorgon-blood]: "he had received from Athena the blood that flowed from the veins of the Gorgon, and while he used the blood that flowed from the veins on the left side for the bane of mankind, he used the blood that flowed from the right side for salvation, and by that means he raised the dead" (Bibliotheca 3.10.3, trans. J.G. Frazer)
 
 ## Birth
@@ -166,9 +166,9 @@ After [Poseidon](poseidon.md) wrecks Odysseus's raft and departs, "Athene, daugh
 
 When the waves dash Odysseus against the rocks, "the goddess, grey-eyed Athene, put a thought into his heart" to clutch the rock; then after the wave swept him back, "grey-eyed Athene given him sure counsel" to swim along the coast seeking a river mouth.[^od5-counsel] Once he reaches shore, "Athene shed sleep upon his eyes, that so it might soon release him from his weary travail, overshadowing his eyelids."[^od5-sleep]
 
-[^od5-winds]: "Athene, daughter of Zeus, turned to new thoughts. Behold, she bound up the courses of the other winds, and charged them all to cease and be still; but she roused the swift North and brake the waves before him, that so Odysseus, of the seed of Zeus, might mingle with the Phaeacians, lovers of the oar, avoiding death and the fates" (Odyssey V.3361-3365, trans. Butcher and Lang)
-[^od5-counsel]: "the goddess, grey-eyed Athene, put a thought into his heart. He rushed in, and with both his hands clutched the rock... grey-eyed Athene given him sure counsel. He rose from the line of the breakers that belch upon the shore, and swam outside, ever looking landwards, to find, if he might, spits that take the waves aslant" (Odyssey V.3402-3414)
-[^od5-sleep]: "Athene shed sleep upon his eyes, that so it might soon release him from his weary travail, overshadowing his eyelids" (Odyssey V.3464-3466)
+[^od5-winds]: "Athene, daughter of Zeus, turned to new thoughts. Behold, she bound up the courses of the other winds, and charged them all to cease and be still; but she roused the swift North and brake the waves before him, that so Odysseus, of the seed of Zeus, might mingle with the Phaeacians, lovers of the oar, avoiding death and the fates" (Odyssey 5.385-389, trans. Butcher and Lang)
+[^od5-counsel]: "the goddess, grey-eyed Athene, put a thought into his heart. He rushed in, and with both his hands clutched the rock... grey-eyed Athene given him sure counsel. He rose from the line of the breakers that belch upon the shore, and swam outside, ever looking landwards, to find, if he might, spits that take the waves aslant" (Odyssey 5.426-437)
+[^od5-sleep]: "Athene shed sleep upon his eyes, that so it might soon release him from his weary travail, overshadowing his eyelids" (Odyssey 5.487-489)
 
 ### Dream to Nausicaa; Beautifying Odysseus (Book VI)
 
@@ -178,10 +178,10 @@ When Odysseus wakes and the maidens flee, "the daughter of Alcinous alone stood 
 
 She does not yet appear to Odysseus directly: "she did not yet appear to him face to face, for she had regard unto her father's brother [[Poseidon](poseidon.md)], who furiously raged against the godlike Odysseus, till he should come to his own country."[^od6-hidden]
 
-[^od6-dream]: "the goddess, fleet as the breath of the wind, swept towards the couch of the maiden, and stood above her head, and spake to her in the semblance of the daughter of a famous seafarer, Dymas, a girl of like age with Nausicaa" (Odyssey VI.3497-3500, trans. Butcher and Lang)
-[^od6-courage]: "the daughter of Alcinous alone stood firm, for Athene gave her courage of heart, and took all trembling from her limbs" (Odyssey VI.3616-3617)
-[^od6-beautify]: "Athene, the daughter of Zeus, made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower. And as when some skilful man overlays gold upon silver—one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork—even so did Athene shed grace about his head and shoulders" (Odyssey VI.3700-3704)
-[^od6-hidden]: "she did not yet appear to him face to face, for she had regard unto her father's brother, who furiously raged against the godlike Odysseus, till he should come to his own country" (Odyssey VI.3791-3793)
+[^od6-dream]: "the goddess, fleet as the breath of the wind, swept towards the couch of the maiden, and stood above her head, and spake to her in the semblance of the daughter of a famous seafarer, Dymas, a girl of like age with Nausicaa" (Odyssey 6.27-30, trans. Butcher and Lang)
+[^od6-courage]: "the daughter of Alcinous alone stood firm, for Athene gave her courage of heart, and took all trembling from her limbs" (Odyssey 6.148-149)
+[^od6-beautify]: "Athene, the daughter of Zeus, made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower. And as when some skilful man overlays gold upon silver—one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork—even so did Athene shed grace about his head and shoulders" (Odyssey 6.233-237)
+[^od6-hidden]: "she did not yet appear to him face to face, for she had regard unto her father's brother, who furiously raged against the godlike Odysseus, till he should come to his own country" (Odyssey 6.325-327)
 
 ### Guide Through Phaeacia (Book VII)
 
@@ -191,10 +191,10 @@ She reveals the Phaeacian royal genealogy to Odysseus — [Poseidon](poseidon.md
 
 Inside the palace, she maintained her protection: "the steadfast goodly Odysseus went through the hall, clad in a thick mist, which Athene shed around him."[^od7-mist]
 
-[^od7-guide]: "Athene shed a deep mist about Odysseus for the favour that she bare him... the goddess, grey-eyed Athene, met him, in the fashion of a young maiden carrying a pitcher... Their ships are swift as the flight of a bird, or as a thought" (Odyssey VII.3820-3840, trans. Butcher and Lang)
-[^od7-genealogy]: "First Nausithous was son of Poseidon, the Earth-shaker, and of Periboea, the comeliest of women, youngest daughter of great-hearted Eurymedon, who once was king among the haughty Giants" (Odyssey VII.3859-3862)
-[^od7-mist]: "the steadfast goodly Odysseus went through the hall, clad in a thick mist, which Athene shed around him" (Odyssey VII.3935-3936)
-[^od7-erechtheus]: "grey-eyed Athene departed over the unharvested seas, and left pleasant Scheria, and came to Marathon and wide-wayed Athens, and entered the good house of Erechtheus" (Odyssey VII.3882-3884)
+[^od7-guide]: "Athene shed a deep mist about Odysseus for the favour that she bare him... the goddess, grey-eyed Athene, met him, in the fashion of a young maiden carrying a pitcher... Their ships are swift as the flight of a bird, or as a thought" (Odyssey 7.23-44, trans. Butcher and Lang)
+[^od7-genealogy]: "First Nausithous was son of Poseidon, the Earth-shaker, and of Periboea, the comeliest of women, youngest daughter of great-hearted Eurymedon, who once was king among the haughty Giants" (Odyssey 7.63-66)
+[^od7-mist]: "the steadfast goodly Odysseus went through the hall, clad in a thick mist, which Athene shed around him" (Odyssey 7.140-141)
+[^od7-erechtheus]: "grey-eyed Athene departed over the unharvested seas, and left pleasant Scheria, and came to Marathon and wide-wayed Athens, and entered the good house of Erechtheus" (Odyssey 7.86-88)
 
 ### Return to Ithaca (Books XIII-XVI)
 
@@ -242,32 +242,32 @@ But Athena's role in the [Odyssey](../sources/odyssey.md) ends not with violence
 
 The poem ends as it began — with Athena acting, disguised as Mentor, to set right the world of Ithaca. The final covenant is her work, authorised by Zeus's bolt at her feet.
 
-[^od18-penelope]: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the Graces. And she made her taller and greater to behold, and made her whiter than new-sawn ivory." (Odyssey XVIII.9894-9897, trans. Butcher and Lang)
-[^od22-mentor]: "Athene, daughter of Zeus, drew nigh them, like Mentor in fashion and in voice, and Odysseus was glad when he saw her" (Odyssey XXII.11869-11870, trans. Butcher and Lang)
-[^od22-chide]: "Odysseus, thou hast no more steadfast might nor any prowess, as when for nine whole years continually thou didst battle with the Trojans for high born Helen, of the white arms, and many men thou slewest in terrible warfare, and by thy device the wide-wayed city of Priam was taken. How then, now that thou art come to thy house and thine own possessions, dost thou bewail thee and art of feeble courage to stand before the wooers?" (Odyssey XXII.11892-11898, trans. Butcher and Lang)
-[^od22-swallow]: "she flew up to the roof timber of the murky hall, in such fashion as a swallow flies, and there sat down" (Odyssey XXII.11905-11906, trans. Butcher and Lang)
-[^od22-vain]: "Athene so wrought that they were all in vain" (Odyssey XXII.11923, trans. Butcher and Lang)
-[^od22-aegis]: "Athene held up her destroying aegis on high from the roof, and their minds were scared, and they fled through the hall, like a drove of kine that the flitting gadfly falls upon and scatters hither and thither in spring time" (Odyssey XXII.11964-11967, trans. Butcher and Lang)
-[^od23-beautify]: "Athene shed great beauty from his head downwards, and made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower. And as when some skilful man overlays gold upon silver, one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork, even so did Athene shed grace about his head and shoulders" (Odyssey XXIII.12339-12345, trans. Butcher and Lang)
-[^od23-dawn]: "the goddess, grey-eyed Athene, had other thoughts. The night she held long in the utmost West, and on the other side she stayed the golden-throned Dawn by the stream Oceanus, and suffered her not to harness the swift-footed steeds that bear light to men, Lampus and Phaethon, the steeds ever young, that bring the morning." (Odyssey XXIII.12421-12426, trans. Butcher and Lang)
-[^od23-night]: "Athene hid in night, and quickly conducted out of the town" (Odyssey XXIII.12541, trans. Butcher and Lang)
-[^od24-laertes]: "Athene drew nigh, and made greater the limbs of the shepherd of the people, taller she made him than before and mightier to behold" (Odyssey XXIV.12910-12911, trans. Butcher and Lang)
-[^od24-strength]: "Pallas Athene breathed into him great strength" (Odyssey XXIV.13086, trans. Butcher and Lang)
-[^od24-halt]: "Hold your hands from fierce fighting, ye men of Ithaca, that so ye may be parted quickly, without bloodshed." (Odyssey XXIV.13097-13098, trans. Butcher and Lang)
-[^od24-bolt]: "the son of Cronos cast forth a flaming bolt, and it fell at the feet of the grey-eyed goddess, the daughter of the mighty Sire" (Odyssey XXIV.13105-13106, trans. Butcher and Lang)
-[^od24-covenant]: "Pallas Athene set a covenant between them with sacrifice, she, the daughter of Zeus lord of the aegis, in the likeness of Mentor, both in fashion and in voice" (Odyssey XXIV.13114-13116, trans. Butcher and Lang)
+[^od18-penelope]: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the Graces. And she made her taller and greater to behold, and made her whiter than new-sawn ivory." (Odyssey 18.195-198, trans. Butcher and Lang)
+[^od22-mentor]: "Athene, daughter of Zeus, drew nigh them, like Mentor in fashion and in voice, and Odysseus was glad when he saw her" (Odyssey 22.212-213, trans. Butcher and Lang)
+[^od22-chide]: "Odysseus, thou hast no more steadfast might nor any prowess, as when for nine whole years continually thou didst battle with the Trojans for high born Helen, of the white arms, and many men thou slewest in terrible warfare, and by thy device the wide-wayed city of Priam was taken. How then, now that thou art come to thy house and thine own possessions, dost thou bewail thee and art of feeble courage to stand before the wooers?" (Odyssey 22.233-239, trans. Butcher and Lang)
+[^od22-swallow]: "she flew up to the roof timber of the murky hall, in such fashion as a swallow flies, and there sat down" (Odyssey 22.246-247, trans. Butcher and Lang)
+[^od22-vain]: "Athene so wrought that they were all in vain" (Odyssey 22.263, trans. Butcher and Lang)
+[^od22-aegis]: "Athene held up her destroying aegis on high from the roof, and their minds were scared, and they fled through the hall, like a drove of kine that the flitting gadfly falls upon and scatters hither and thither in spring time" (Odyssey 22.302-304, trans. Butcher and Lang)
+[^od23-beautify]: "Athene shed great beauty from his head downwards, and made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower. And as when some skilful man overlays gold upon silver, one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork, even so did Athene shed grace about his head and shoulders" (Odyssey 23.165-171, trans. Butcher and Lang)
+[^od23-dawn]: "the goddess, grey-eyed Athene, had other thoughts. The night she held long in the utmost West, and on the other side she stayed the golden-throned Dawn by the stream Oceanus, and suffered her not to harness the swift-footed steeds that bear light to men, Lampus and Phaethon, the steeds ever young, that bring the morning." (Odyssey 23.247-252, trans. Butcher and Lang)
+[^od23-night]: "Athene hid in night, and quickly conducted out of the town" (Odyssey 23.368, trans. Butcher and Lang)
+[^od24-laertes]: "Athene drew nigh, and made greater the limbs of the shepherd of the people, taller she made him than before and mightier to behold" (Odyssey 24.360-361, trans. Butcher and Lang)
+[^od24-strength]: "Pallas Athene breathed into him great strength" (Odyssey 24.534, trans. Butcher and Lang)
+[^od24-halt]: "Hold your hands from fierce fighting, ye men of Ithaca, that so ye may be parted quickly, without bloodshed." (Odyssey 24.545-546, trans. Butcher and Lang)
+[^od24-bolt]: "the son of Cronos cast forth a flaming bolt, and it fell at the feet of the grey-eyed goddess, the daughter of the mighty Sire" (Odyssey 24.553-554, trans. Butcher and Lang)
+[^od24-covenant]: "Pallas Athene set a covenant between them with sacrifice, she, the daughter of Zeus lord of the aegis, in the likeness of Mentor, both in fashion and in voice" (Odyssey 24.562-564, trans. Butcher and Lang)
 
-[^od13-mist]: "shed a mist about all things, that she might make him unknown, and might expound to him all matters" (Odyssey XIII.7177-7178, trans. Butcher and Lang)
-[^od13-herdsman]: "in the guise of a young man, the herdsman of a flock, a young man most delicate, such as are the sons of kings" (Odyssey XIII.7208-7209, trans. Butcher and Lang)
-[^od13-reveal]: "to the semblance of a woman, fair and tall, and skilled in splendid handiwork" (Odyssey XIII.7271-7272, trans. Butcher and Lang)
-[^od13-craft]: "both of us practised in deceits, for that thou art of all men far the first in counsel and in discourse, and I in the company of all the gods win renown for my wit and wile" (Odyssey XIII.7280-7282, trans. Butcher and Lang)
-[^od13-poseidon]: "I had no mind to be at strife with Poseidon, my own father's brother" (Odyssey XIII.7320-7322, trans. Butcher and Lang)
-[^od13-transform]: "she touched him with her wand. She withered the fair flesh on his supple limbs, and made waste his yellow hair from off his head, and over all his limbs she cast the skin of an old man, and dimmed his eyes, erewhile so fair, and changed his raiment to a vile wrap and a doublet, tattered garments and filthy, stained with foul smoke" (Odyssey XIII.7415-7422, trans. Butcher and Lang)
-[^od15-telemachus]: "she went on her way to the wide land of Lacedaemon, to rouse the son of great-hearted Odysseus to return" (Odyssey XV.7957-7994, trans. Butcher and Lang)
-[^od15-breeze]: "grey-eyed Athene sent them a favourable breeze" (Odyssey XV.8257-8259, trans. Butcher and Lang)
-[^od16-invisible]: "the gods in no wise appear visibly to all" (Odyssey XVI.8686, trans. Butcher and Lang)
-[^od16-restore]: "dark his colour grew again, and his cheeks filled out, and the black beard spread thick around his chin" (Odyssey XVI.8699-8702, trans. Butcher and Lang)
-[^od16-re-disguise]: "Athene touched him with her wand, and made him into an old beggar again" (Odyssey XVI.8989-8993, trans. Butcher and Lang)
+[^od13-mist]: "shed a mist about all things, that she might make him unknown, and might expound to him all matters" (Odyssey 13.195-196, trans. Butcher and Lang)
+[^od13-herdsman]: "in the guise of a young man, the herdsman of a flock, a young man most delicate, such as are the sons of kings" (Odyssey 13.225-226, trans. Butcher and Lang)
+[^od13-reveal]: "to the semblance of a woman, fair and tall, and skilled in splendid handiwork" (Odyssey 13.287-288, trans. Butcher and Lang)
+[^od13-craft]: "both of us practised in deceits, for that thou art of all men far the first in counsel and in discourse, and I in the company of all the gods win renown for my wit and wile" (Odyssey 13.295-297, trans. Butcher and Lang)
+[^od13-poseidon]: "I had no mind to be at strife with Poseidon, my own father's brother" (Odyssey 13.334-336, trans. Butcher and Lang)
+[^od13-transform]: "she touched him with her wand. She withered the fair flesh on his supple limbs, and made waste his yellow hair from off his head, and over all his limbs she cast the skin of an old man, and dimmed his eyes, erewhile so fair, and changed his raiment to a vile wrap and a doublet, tattered garments and filthy, stained with foul smoke" (Odyssey 13.426-433, trans. Butcher and Lang)
+[^od15-telemachus]: "she went on her way to the wide land of Lacedaemon, to rouse the son of great-hearted Odysseus to return" (Odyssey 15.7-43, trans. Butcher and Lang)
+[^od15-breeze]: "grey-eyed Athene sent them a favourable breeze" (Odyssey 15.302-304, trans. Butcher and Lang)
+[^od16-invisible]: "the gods in no wise appear visibly to all" (Odyssey 16.162, trans. Butcher and Lang)
+[^od16-restore]: "dark his colour grew again, and his cheeks filled out, and the black beard spread thick around his chin" (Odyssey 16.174-177, trans. Butcher and Lang)
+[^od16-re-disguise]: "Athene touched him with her wand, and made him into an old beggar again" (Odyssey 16.451-454, trans. Butcher and Lang)
 
 ### Disguised as Mentor; Launching the Voyage (Book II)
 
@@ -275,18 +275,18 @@ Athena continues to support Telemachus in Book II. At the assembly, "Athene shed
 
 When Telemachus prays at the shore, Athena comes "in the likeness of Mentor, in fashion and in voice" — the mortal companion Odysseus had entrusted with his house.[^od2-mentor] She encourages him and promises to furnish a ship. Then "in the likeness of Telemachus she went all through the city" gathering a crew and securing a ship.[^od2-telemachus] She sheds sleep on the wooers to cover the departure, and once aboard, "grey-eyed Athene sent them a favourable gale, a fresh West Wind, singing over the wine-dark sea."[^od2-wind]
 
-[^od2-grace]: "Athene shed on him a wondrous grace, and all the people marvelled at him as he came" (Odyssey II.1182-1183, trans. Butcher and Lang)
-[^od2-mentor]: "Athene drew nigh him in the likeness of Mentor, in fashion and in voice" (Odyssey II.1442-1444, trans. Butcher and Lang)
-[^od2-telemachus]: "In the likeness of Telemachus she went all through the city, and stood by each one of the men and spake her saying, and bade them gather at even by the swift ship" (Odyssey II.1557-1560, trans. Butcher and Lang)
-[^od2-wind]: "grey-eyed Athene sent them a favourable gale, a fresh West Wind, singing over the wine-dark sea" (Odyssey II.1596-1598, trans. Butcher and Lang)
+[^od2-grace]: "Athene shed on him a wondrous grace, and all the people marvelled at him as he came" (Odyssey 2.16, trans. Butcher and Lang)
+[^od2-mentor]: "Athene drew nigh him in the likeness of Mentor, in fashion and in voice" (Odyssey 2.267-269, trans. Butcher and Lang)
+[^od2-telemachus]: "In the likeness of Telemachus she went all through the city, and stood by each one of the men and spake her saying, and bade them gather at even by the swift ship" (Odyssey 2.379-382, trans. Butcher and Lang)
+[^od2-wind]: "grey-eyed Athene sent them a favourable gale, a fresh West Wind, singing over the wine-dark sea" (Odyssey 2.417-419, trans. Butcher and Lang)
 
-[^od1-advocate]: "my heart is rent for wise Odysseus, that hapless one, who far from his friends this long while suffereth affliction in a seagirt isle, where is the navel of the sea, a woodland isle, and therein a goddess hath her habitation, the daughter of the wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder. His daughter it is that holds the hapless man in sorrow... What! did not Odysseus by the ships of the Argives make thee free offering of sacrifice in the wide Trojan land? Wherefore wast thou then so wroth with him, O Zeus?" (Odyssey I.774-786, trans. Butcher and Lang)
-[^od1-plan]: "if indeed this thing is now well pleasing to the blessed gods, that wise Odysseus should return to his own home, let us then speed Hermes the Messenger, the slayer of Argos, to the island of Ogygia... But as for me I will go to Ithaca that I may rouse his son yet the more, planting might in his heart" (Odyssey I.805-812, trans. Butcher and Lang)
-[^od1-equip]: "She bound beneath her feet her lovely golden sandals that wax not old, and bare her alike over the wet sea and over the limitless land, swift as the breath of the wind. And she seized her doughty spear, shod with sharp bronze, weighty and huge and strong, wherewith she quells the ranks of heroes with whomsoever she is wroth, the daughter of the mighty sire." (Odyssey I.819-824, trans. Butcher and Lang)
-[^od1-mentes]: "she stood in the land of Ithaca, at the entry of the gate of Odysseus, on the threshold of the courtyard, holding in her hand the spear of bronze, in the semblance of a stranger, Mentes the captain of the Taphians" (Odyssey I.825-828, trans. Butcher and Lang)
-[^od1-orestes]: "Or hast thou not heard what renown the goodly Orestes gat him among all men in that he slew the slayer of his father, guileful Aegisthus, who killed his famous sire? And thou, too, my friend, for I see that thou art very comely and tall, be valiant, that even men unborn may praise thee." (Odyssey I.1014-1017, trans. Butcher and Lang)
-[^od1-eagle]: "like an eagle of the sea she flew away, but in his spirit she planted might and courage, and put him in mind of his father yet more than heretofore. And he marked the thing and was amazed, for he deemed that it was a god" (Odyssey I.1036-1039, trans. Butcher and Lang)
-[^od1-sleep]: "grey-eyed Athene cast sweet sleep upon her eyelids" (Odyssey I.1077, trans. Butcher and Lang)
+[^od1-advocate]: "my heart is rent for wise Odysseus, that hapless one, who far from his friends this long while suffereth affliction in a seagirt isle, where is the navel of the sea, a woodland isle, and therein a goddess hath her habitation, the daughter of the wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder. His daughter it is that holds the hapless man in sorrow... What! did not Odysseus by the ships of the Argives make thee free offering of sacrifice in the wide Trojan land? Wherefore wast thou then so wroth with him, O Zeus?" (Odyssey 1.55-67, trans. Butcher and Lang)
+[^od1-plan]: "if indeed this thing is now well pleasing to the blessed gods, that wise Odysseus should return to his own home, let us then speed Hermes the Messenger, the slayer of Argos, to the island of Ogygia... But as for me I will go to Ithaca that I may rouse his son yet the more, planting might in his heart" (Odyssey 1.85-92, trans. Butcher and Lang)
+[^od1-equip]: "She bound beneath her feet her lovely golden sandals that wax not old, and bare her alike over the wet sea and over the limitless land, swift as the breath of the wind. And she seized her doughty spear, shod with sharp bronze, weighty and huge and strong, wherewith she quells the ranks of heroes with whomsoever she is wroth, the daughter of the mighty sire." (Odyssey 1.99-104, trans. Butcher and Lang)
+[^od1-mentes]: "she stood in the land of Ithaca, at the entry of the gate of Odysseus, on the threshold of the courtyard, holding in her hand the spear of bronze, in the semblance of a stranger, Mentes the captain of the Taphians" (Odyssey 1.105-108, trans. Butcher and Lang)
+[^od1-orestes]: "Or hast thou not heard what renown the goodly Orestes gat him among all men in that he slew the slayer of his father, guileful Aegisthus, who killed his famous sire? And thou, too, my friend, for I see that thou art very comely and tall, be valiant, that even men unborn may praise thee." (Odyssey 1.293-296, trans. Butcher and Lang)
+[^od1-eagle]: "like an eagle of the sea she flew away, but in his spirit she planted might and courage, and put him in mind of his father yet more than heretofore. And he marked the thing and was amazed, for he deemed that it was a god" (Odyssey 1.315-318, trans. Butcher and Lang)
+[^od1-sleep]: "grey-eyed Athene cast sweet sleep upon her eyelids" (Odyssey 1.356, trans. Butcher and Lang)
 
 ## In the Shield of Heracles
 
@@ -321,11 +321,11 @@ She then marches with the army bearing her aegis: "bright-eyed Athene in the mid
 
 In the Catalogue of Ships, Athens is described as "the domain of Erechtheus the high-hearted, whom erst Athene daughter of Zeus fostered when Earth, the grain-giver, brought him to birth; and she gave him a resting-place in Athens in her own rich sanctuary."[^il2-erechtheus]
 
-[^il1-restrain]: "Athene came to him from heaven, sent forth of the white-armed goddess Hera, whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her. Then Achilles marvelled, and turned him about, and straightway knew Pallas Athene; and terribly shone her eyes" (Iliad I.195-200, trans. Lang, Leaf, and Myers)
-[^il1-promise]: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us" (Iliad I.213-214)
-[^il2-retreat]: "bright-eyed Athene stood by him and said: 'Heaven-sprung son of Laertes, Odysseus of many devices, will ye indeed fling yourselves upon your benched ships to flee homeward to your dear native land?'" (Iliad II.946-948, trans. Lang, Leaf, and Myers)
-[^il2-aegis]: "bright-eyed Athene in the midst, bearing the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk, urging them forth; and in every man's heart she roused strength to battle without ceasing and to fight" (Iliad II.1197-1202)
-[^il2-erechtheus]: "the goodly citadel of Athens, the domain of Erechtheus the high-hearted, whom erst Athene daughter of Zeus fostered when Earth, the grain-giver, brought him to birth; and she gave him a resting-place in Athens in her own rich sanctuary; and there the sons of the Athenians worship him with bulls and rams as the years turn in their courses" (Iliad II.1282-1287)
+[^il1-restrain]: "Athene came to him from heaven, sent forth of the white-armed goddess Hera, whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her. Then Achilles marvelled, and turned him about, and straightway knew Pallas Athene; and terribly shone her eyes" (Iliad 1.10-15, trans. Lang, Leaf, and Myers)
+[^il1-promise]: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us" (Iliad 1.29-30)
+[^il2-retreat]: "bright-eyed Athene stood by him and said: 'Heaven-sprung son of Laertes, Odysseus of many devices, will ye indeed fling yourselves upon your benched ships to flee homeward to your dear native land?'" (Iliad 2.174-176, trans. Lang, Leaf, and Myers)
+[^il2-aegis]: "bright-eyed Athene in the midst, bearing the holy aegis that knoweth neither age nor death, whereon wave an hundred tassels of pure gold, all deftly woven and each one an hundred oxen worth. Therewith she passed dazzling through the Achaian folk, urging them forth; and in every man's heart she roused strength to battle without ceasing and to fight" (Iliad 2.436-441)
+[^il2-erechtheus]: "the goodly citadel of Athens, the domain of Erechtheus the high-hearted, whom erst Athene daughter of Zeus fostered when Earth, the grain-giver, brought him to birth; and she gave him a resting-place in Athens in her own rich sanctuary; and there the sons of the Athenians worship him with bulls and rams as the years turn in their courses" (Iliad 2.525-530)
 
 ### Denying Troy's Prayer (Book VI)
 
@@ -333,8 +333,8 @@ In [Iliad](../sources/iliad.md) Book VI, the Trojans pray to Athena in desperati
 
 The priestess Theano places the fairest robe on Athena's knees and prays: "Lady Athene, saviour of the city, fair among goddesses, break now Diomedes' spear, and grant moreover that himself may fall prone before the Skaian gates." But: "So spake she praying, but Pallas Athene denied the prayer."[^il6-denied]
 
-[^il6-prayer-request]: "let her lay the robe, that seemeth to her the most gracious and greatest in her hall and far dearest unto herself, upon the knees of beauteous-haired Athene; and vow to her to sacrifice in her temple twelve sleek kine, that have not felt the goad, if she will have mercy on the city and the Trojans' wives and little children" (Iliad VI.3544-3549, trans. Lang, Leaf, and Myers)
-[^il6-denied]: "Lady Athene, saviour of the city, fair among goddesses, break now Diomedes' spear, and grant moreover that himself may fall prone before the Skaian gates; that we may sacrifice thee now forthwith in thy temple twelve sleek kine, that have not felt the goad, if thou wilt have mercy on the city and the Trojans' wives and little children. So spake she praying, but Pallas Athene denied the prayer." (Iliad VI.3749-3754)
+[^il6-prayer-request]: "let her lay the robe, that seemeth to her the most gracious and greatest in her hall and far dearest unto herself, upon the knees of beauteous-haired Athene; and vow to her to sacrifice in her temple twelve sleek kine, that have not felt the goad, if she will have mercy on the city and the Trojans' wives and little children" (Iliad 6.94-100, trans. Lang, Leaf, and Myers)
+[^il6-denied]: "Lady Athene, saviour of the city, fair among goddesses, break now Diomedes' spear, and grant moreover that himself may fall prone before the Skaian gates; that we may sacrifice thee now forthwith in thy temple twelve sleek kine, that have not felt the goad, if thou wilt have mercy on the city and the Trojans' wives and little children. So spake she praying, but Pallas Athene denied the prayer." (Iliad 6.309-314)
 
 ## In the [Argonautica](../sources/argonautica.md)
 

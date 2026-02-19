@@ -27,7 +27,7 @@ During [Athena](../deities/athena.md)'s arming scene, after donning the [aegis](
 
 No physical description of the helm is given beyond its power of concealment.
 
-[^il5-helm]: "she put on the helm of Hades, that terrible Ares might not behold her" (Iliad V.3205-3206, trans. Lang, Leaf, and Myers)
+[^il5-helm]: "she put on the helm of Hades, that terrible Ares might not behold her" (Iliad 5.651-652, trans. Lang, Leaf, and Myers)
 
 ## In the [Shield of Heracles](../sources/shield-of-heracles.md)
 

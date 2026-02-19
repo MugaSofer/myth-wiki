@@ -22,13 +22,13 @@
 - **"Argive Helen, the daughter of Zeus"** -- the full form, used in the [Odyssey](../sources/odyssey.md)[^ep-argive]
 - **"high born Helen, of the white arms"** -- used by [Athena](../deities/athena.md) herself[^ep-highborn]
 
-[^ep-argos]: "give ye back Helen of Argos and the possessions with her" (Iliad III.2052, trans. Lang, Leaf, and Myers)
-[^ep-zeus]: "Helen sprung of Zeus made answer to him" (Iliad III.1817, trans. Lang, Leaf, and Myers)
-[^ep-white]: "Iris went with a message to white-armed Helen" (Iliad III.1743, trans. Lang, Leaf, and Myers)
-[^ep-fair]: "Helen, fair among women, spake and answered him" (Iliad III.1790, trans. Lang, Leaf, and Myers)
-[^ep-child]: "There Helen took her seat, the child of aegis-bearing Zeus" (Iliad III.2023, trans. Lang, Leaf, and Myers)
-[^ep-argive]: "She wept, even Argive Helen the daughter of Zeus" (Odyssey IV.2304, trans. Butcher and Lang)
-[^ep-highborn]: "for nine whole years continually thou didst battle with the Trojans for high born Helen, of the white arms" (Odyssey XXII.11894, trans. Butcher and Lang)
+[^ep-argos]: "give ye back Helen of Argos and the possessions with her" (Iliad 3.454, trans. Lang, Leaf, and Myers)
+[^ep-zeus]: "Helen sprung of Zeus made answer to him" (Iliad 3.207, trans. Lang, Leaf, and Myers)
+[^ep-white]: "Iris went with a message to white-armed Helen" (Iliad 3.130, trans. Lang, Leaf, and Myers)
+[^ep-fair]: "Helen, fair among women, spake and answered him" (Iliad 3.179, trans. Lang, Leaf, and Myers)
+[^ep-child]: "There Helen took her seat, the child of aegis-bearing Zeus" (Iliad 3.423, trans. Lang, Leaf, and Myers)
+[^ep-argive]: "She wept, even Argive Helen the daughter of Zeus" (Odyssey 4.191, trans. Butcher and Lang)
+[^ep-highborn]: "for nine whole years continually thou didst battle with the Trojans for high born Helen, of the white arms" (Odyssey 22.235, trans. Butcher and Lang)
 
 ## Parentage
 
@@ -63,10 +63,10 @@ The sources describe Helen's beauty almost entirely through its effect on others
 
 The formulaic epithets provide the only concrete physical detail: she is repeatedly called "white-armed Helen,"[^app-white-armed] and addressed as "Helen, fair among women."[^app-fair] The [Odyssey](../sources/odyssey.md) adds one further image: when she appears at Sparta, she comes "from her fragrant vaulted chamber, like Artemis of the golden arrows."[^app-artemis]
 
-[^app-elders]: "marvellously like is she to the immortal goddesses to look upon" (Iliad III.1774, trans. Lang, Leaf, and Myers)
-[^app-white-armed]: "Iris went with a message to white-armed Helen" (Iliad III.1743, trans. Lang, Leaf, and Myers)
-[^app-fair]: "Helen, fair among women" (Iliad III.1790, trans. Lang, Leaf, and Myers)
-[^app-artemis]: "Helen came forth from her fragrant vaulted chamber, like Artemis of the golden arrows" (Odyssey IV.2237, trans. Butcher and Lang)
+[^app-elders]: "marvellously like is she to the immortal goddesses to look upon" (Iliad 3.162, trans. Lang, Leaf, and Myers)
+[^app-white-armed]: "Iris went with a message to white-armed Helen" (Iliad 3.130, trans. Lang, Leaf, and Myers)
+[^app-fair]: "Helen, fair among women" (Iliad 3.179, trans. Lang, Leaf, and Myers)
+[^app-artemis]: "Helen came forth from her fragrant vaulted chamber, like Artemis of the golden arrows" (Odyssey 4.125, trans. Butcher and Lang)
 
 ## In the [Iliad](../sources/iliad.md)
 
@@ -76,8 +76,8 @@ The formulaic epithets provide the only concrete physical detail: she is repeate
 
 Helen is found at her loom, "weaving a great purple web of double fold, and embroidering thereon many battles of horse-taming Trojans and mail-clad Achaians, that they had endured for her sake at the hands of Ares."[^il3-tapestry] She is literally weaving the story of the war she has caused -- an image of extraordinary self-consciousness.
 
-[^il3-iris]: "Iris went with a message to white-armed Helen in the likeness of her husband's sister... So spake the goddess, and put into her heart sweet longing for her former husband and her city and parents" (Iliad III.1743-1759, trans. Lang, Leaf, and Myers)
-[^il3-tapestry]: "in the hall she found Helen weaving a great purple web of double fold, and embroidering thereon many battles of horse-taming Trojans and mail-clad Achaians, that they had endured for her sake at the hands of Ares" (Iliad III.1746-1749, trans. Lang, Leaf, and Myers)
+[^il3-iris]: "Iris went with a message to white-armed Helen in the likeness of her husband's sister... So spake the goddess, and put into her heart sweet longing for her former husband and her city and parents" (Iliad 3.130-147, trans. Lang, Leaf, and Myers)
+[^il3-tapestry]: "in the hall she found Helen weaving a great purple web of double fold, and embroidering thereon many battles of horse-taming Trojans and mail-clad Achaians, that they had endured for her sake at the hands of Ares" (Iliad 3.133-136, trans. Lang, Leaf, and Myers)
 
 ### On the Wall with Priam (Book III)
 
@@ -85,8 +85,8 @@ On the tower, the Trojan elders see Helen and speak the poem's most famous judge
 
 Priam himself holds her blameless: "I hold thee not to blame; nay, I hold the gods to blame who brought on me the dolorous war of the Achaians." Helen's self-loathing is immediate: "Reverend art thou to me and dread, dear father of my lord; would that sore death had been my pleasure when I followed thy son hither, and left my home and my kinsfolk and my daughter in her girlhood and the lovely company of mine age-fellows."[^il3-priam]
 
-[^il3-elders]: "Small blame is it that Trojans and well-greaved Achaians should for such a woman long time suffer hardships; marvellously like is she to the immortal goddesses to look upon" (Iliad III.1772-1774, trans. Lang, Leaf, and Myers)
-[^il3-priam]: "I hold thee not to blame; nay, I hold the gods to blame who brought on me the dolorous war of the Achaians... Reverend art thou to me and dread, dear father of my lord; would that sore death had been my pleasure when I followed thy son hither" (Iliad III.1783-1793, trans. Lang, Leaf, and Myers)
+[^il3-elders]: "Small blame is it that Trojans and well-greaved Achaians should for such a woman long time suffer hardships; marvellously like is she to the immortal goddesses to look upon" (Iliad 3.160-162, trans. Lang, Leaf, and Myers)
+[^il3-priam]: "I hold thee not to blame; nay, I hold the gods to blame who brought on me the dolorous war of the Achaians... Reverend art thou to me and dread, dear father of my lord; would that sore death had been my pleasure when I followed thy son hither" (Iliad 3.172-182, trans. Lang, Leaf, and Myers)
 
 ### Aphrodite's Disguise and Threat (Book III)
 
@@ -100,10 +100,10 @@ Helen obeys in fear. The goddess herself carries a chair for her and sets it bef
 
 This scene is central to Helen's characterisation: she can recognise divine power, she dares to resist it, but ultimately she cannot overcome it. [Aphrodite](../deities/aphrodite.md)'s claim to love her "beyond measure" while threatening her destruction captures the coercive nature of the goddess's patronage.
 
-[^il3-disguise]: "she marked the fair neck and lovely breast and sparkling eyes of the goddess, she marvelled straightway and spake a word and called upon her name: 'Strange queen, why art thou desirous now to beguile me?'" (Iliad III.1994-1996, trans. Lang, Leaf, and Myers)
-[^il3-defiance]: "Go and sit thou by his side, and depart from the way of the gods; neither let thy feet ever bear thee back to Olympus" (Iliad III.2001-2003, trans. Lang, Leaf, and Myers)
-[^il3-threat]: "Provoke me not, rash woman, lest in mine anger I desert thee, and hate thee even as now I love thee beyond measure, and lest I devise grievous enmities between both, even betwixt Trojans and Achaians, and so thou perish in evil wise" (Iliad III.2009-2013, trans. Lang, Leaf, and Myers)
-[^il3-chair]: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris. There Helen took her seat, the child of aegis-bearing Zeus, and with eyes turned askance spake and chode her lord" (Iliad III.2021-2024, trans. Lang, Leaf, and Myers)
+[^il3-disguise]: "she marked the fair neck and lovely breast and sparkling eyes of the goddess, she marvelled straightway and spake a word and called upon her name: 'Strange queen, why art thou desirous now to beguile me?'" (Iliad 3.393-395, trans. Lang, Leaf, and Myers)
+[^il3-defiance]: "Go and sit thou by his side, and depart from the way of the gods; neither let thy feet ever bear thee back to Olympus" (Iliad 3.400-402, trans. Lang, Leaf, and Myers)
+[^il3-threat]: "Provoke me not, rash woman, lest in mine anger I desert thee, and hate thee even as now I love thee beyond measure, and lest I devise grievous enmities between both, even betwixt Trojans and Achaians, and so thou perish in evil wise" (Iliad 3.409-413, trans. Lang, Leaf, and Myers)
+[^il3-chair]: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris. There Helen took her seat, the child of aegis-bearing Zeus, and with eyes turned askance spake and chode her lord" (Iliad 3.421-424, trans. Lang, Leaf, and Myers)
 
 ### Castor and Pollux (Book III)
 
@@ -111,8 +111,8 @@ While surveying the Achaian army from the wall, Helen searches for her brothers:
 
 The poet gives the devastating answer in his own voice: "So said she; but them the life-giving earth held fast there in Lakedaimon, in their dear native land."[^il3-dead] Helen does not know her brothers are already dead.
 
-[^il3-brothers]: "two captains of the host can I not see, even Kastor tamer of horses and Polydeukes the skilful boxer, mine own brethren, whom the same mother bare. Either they came not in the company from lovely Lakedaimon; or they came hither indeed in their seafaring ships, but now will not enter into the battle of the warriors, for fear of the many scornings and revilings that are mine" (Iliad III.1850-1855, trans. Lang, Leaf, and Myers)
-[^il3-dead]: "So said she; but them the life-giving earth held fast there in Lakedaimon, in their dear native land" (Iliad III.1857-1858)
+[^il3-brothers]: "two captains of the host can I not see, even Kastor tamer of horses and Polydeukes the skilful boxer, mine own brethren, whom the same mother bare. Either they came not in the company from lovely Lakedaimon; or they came hither indeed in their seafaring ships, but now will not enter into the battle of the warriors, for fear of the many scornings and revilings that are mine" (Iliad 3.242-247, trans. Lang, Leaf, and Myers)
+[^il3-dead]: "So said she; but them the life-giving earth held fast there in Lakedaimon, in their dear native land" (Iliad 3.249-250)
 
 ### Helen's Lament for Hector (Book XXIV)
 
@@ -120,8 +120,8 @@ Helen's final speech in the [Iliad](../sources/iliad.md) is her lament over Hect
 
 She concludes: "no more is any left in wide Troy-land to be my friend and kind to me, but all men shudder at me."[^il24-shudder]
 
-[^il24-lament]: "Hector, of all my brethren of Troy far dearest to my heart! Truly my lord is godlike Alexandros who brought me to Troy-land—would I had died ere then. For this is now the twentieth year since I went thence and am gone from my own native land, but never yet heard I evil or despiteful word from thee" (Iliad XXIV.14204-14208, trans. Lang, Leaf, and Myers)
-[^il24-shudder]: "no more is any left in wide Troy-land to be my friend and kind to me, but all men shudder at me" (Iliad XXIV.14214-14215, trans. Lang, Leaf, and Myers)
+[^il24-lament]: "Hector, of all my brethren of Troy far dearest to my heart! Truly my lord is godlike Alexandros who brought me to Troy-land—would I had died ere then. For this is now the twentieth year since I went thence and am gone from my own native land, but never yet heard I evil or despiteful word from thee" (Iliad 24.643-647, trans. Lang, Leaf, and Myers)
+[^il24-shudder]: "no more is any left in wide Troy-land to be my friend and kind to me, but all men shudder at me" (Iliad 24.652-653, trans. Lang, Leaf, and Myers)
 
 ## In the [Odyssey](../sources/odyssey.md)
 
@@ -135,21 +135,21 @@ She then tells how she recognised [Odysseus](odysseus.md) disguised in Troy, and
 
 The word "blindness" (ate) is the same concept [Zeus](../deities/zeus.md) attributes to mortal folly in Odyssey I. Helen uses it to describe Aphrodite's control over her as a form of divinely imposed delusion.
 
-[^od4-entrance]: "Helen came forth from her fragrant vaulted chamber, like Artemis of the golden arrows" (Odyssey IV.2236-2237, trans. Butcher and Lang)
-[^od4-nepenthe]: "she cast a drug into the wine whereof they drank, a drug to lull all pain and anger, and bring forgetfulness of every sorrow. Whoso should drink a draught thereof, when it is mingled in the bowl, on that day he would let no tear fall down his cheeks, not though his mother and his father died... Medicines of such virtue and so helpful had the daughter of Zeus, which Polydamna, the wife of Thon, had given her, a woman of Egypt" (Odyssey IV.2344-2351, trans. Butcher and Lang)
-[^od4-blindness]: "now at the last I groaned for the blindness that Aphrodite gave me, when she led me thither away from mine own country, forsaking my child and my bridal chamber and my lord, that lacked not aught whether for wisdom or yet for beauty" (Odyssey IV.2380-2383, trans. Butcher and Lang)
+[^od4-entrance]: "Helen came forth from her fragrant vaulted chamber, like Artemis of the golden arrows" (Odyssey 4.125, trans. Butcher and Lang)
+[^od4-nepenthe]: "she cast a drug into the wine whereof they drank, a drug to lull all pain and anger, and bring forgetfulness of every sorrow. Whoso should drink a draught thereof, when it is mingled in the bowl, on that day he would let no tear fall down his cheeks, not though his mother and his father died... Medicines of such virtue and so helpful had the daughter of Zeus, which Polydamna, the wife of Thon, had given her, a woman of Egypt" (Odyssey 4.230-237, trans. Butcher and Lang)
+[^od4-blindness]: "now at the last I groaned for the blindness that Aphrodite gave me, when she led me thither away from mine own country, forsaking my child and my bridal chamber and my lord, that lacked not aught whether for wisdom or yet for beauty" (Odyssey 4.266-269, trans. Butcher and Lang)
 
 ### Helen Interprets the Eagle Omen (Book XV)
 
 When Telemachus departs from Sparta, an eagle flies past carrying a goose. Menelaos ponders its meaning, but Helen speaks first with prophetic authority: "Hear me, and I will prophesy as the immortals put it into my heart, and as I deem it will be accomplished. Even as yonder eagle came down from the hill, the place of his birth and kin, and snatched away the goose that was fostered in the house, even so shall [Odysseus](odysseus.md) return home after much trial and long wanderings and take vengeance."[^od15-omen]
 
-[^od15-omen]: "Hear me, and I will prophesy as the immortals put it into my heart, and as I deem it will be accomplished. Even as yonder eagle came down from the hill, the place of his birth and kin, and snatched away the goose that was fostered in the house, even so shall Odysseus return home after much trial and long wanderings and take vengeance; yea, or even now is he at home and sowing the seeds of evil for all the wooers" (Odyssey XV.8128-8134, trans. Butcher and Lang)
+[^od15-omen]: "Hear me, and I will prophesy as the immortals put it into my heart, and as I deem it will be accomplished. Even as yonder eagle came down from the hill, the place of his birth and kin, and snatched away the goose that was fostered in the house, even so shall Odysseus return home after much trial and long wanderings and take vengeance; yea, or even now is he at home and sowing the seeds of evil for all the wooers" (Odyssey 15.175-181, trans. Butcher and Lang)
 
 ### Penelope's Defence of Helen (Book XXIII)
 
 In a striking passage, Penelope invokes Helen to explain her own caution with the returned Odysseus: "Nay even Argive Helen, daughter of [Zeus](../deities/zeus.md), would not have lain with a stranger, and taken him for a lover, had she known that the warlike sons of the Achaeans would bring her home again to her own dear country. Howsoever, it was the god that set her upon this shameful deed."[^od23-penelope]
 
-[^od23-penelope]: "Nay even Argive Helen, daughter of Zeus, would not have lain with a stranger, and taken him for a lover, had she known that the warlike sons of the Achaeans would bring her home again to her own dear country. Howsoever, it was the god that set her upon this shameful deed" (Odyssey XXIII.12400-12403, trans. Butcher and Lang)
+[^od23-penelope]: "Nay even Argive Helen, daughter of Zeus, would not have lain with a stranger, and taken him for a lover, had she known that the warlike sons of the Achaeans would bring her home again to her own dear country. Howsoever, it was the god that set her upon this shameful deed" (Odyssey 23.226-229, trans. Butcher and Lang)
 
 ## In the Catalogue of Women
 

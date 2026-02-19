@@ -11,17 +11,17 @@
 
 **Scylla** is a monstrous immortal creature who dwells in a cave high on a cliff in a narrow strait, opposite the whirlpool Charybdis. She is "no mortal, but an immortal plague, dread, grievous, and fierce, and not to be fought with; and against her there is no defence; flight is the bravest way."[^od-immortal] Her mother is Crataiis, "which bore her for a bane to mortals."[^od-mother] In the [Odyssey](../sources/odyssey.md), [Circe](../deities/circe.md) warns Odysseus of her, and Scylla snatches six of his men as his ship passes through the strait.
 
-[^od-immortal]: "no mortal, but an immortal plague, dread, grievous, and fierce, and not to be fought with; and against her there is no defence; flight is the bravest way" (Odyssey XII.6643-6645, trans. Butcher and Lang)
-[^od-mother]: "mother of Scylla, which bore her for a bane to mortals" (Odyssey XII.6649-6650, trans. Butcher and Lang)
+[^od-immortal]: "no mortal, but an immortal plague, dread, grievous, and fierce, and not to be fought with; and against her there is no defence; flight is the bravest way" (Odyssey 12.119-121, trans. Butcher and Lang)
+[^od-mother]: "mother of Scylla, which bore her for a bane to mortals" (Odyssey 12.125-126, trans. Butcher and Lang)
 
 ## Appearance
 
 [Circe](../deities/circe.md) describes Scylla in detail. Her voice is deceptively slight — "no greater than the voice of a new-born whelp" — yet she is "a dreadful monster... nor would any look on her gladly, not if it were a god that met her."[^od-voice] She has twelve dangling feet, six exceedingly long necks, and on each neck a hideous head with "three rows of teeth set thick and close, full of black death."[^od-body] She is sunk to her middle in her hollow cave, but stretches her heads forth from the gulf to fish "for dolphins or sea-dogs, or whatso greater beast she may anywhere take, whereof the deep-voiced Amphitrite feeds countless flocks."[^od-fishing] No sailors pass her unscathed: "with each head she carries off a man, whom she hath snatched from out the dark-prowed ship."[^od-snatching]
 
-[^od-voice]: "Her voice indeed is no greater than the voice of a new-born whelp, but a dreadful monster is she, nor would any look on her gladly, not if it were a god that met her" (Odyssey XII.6613-6615, trans. Butcher and Lang)
-[^od-body]: "Verily she hath twelve feet all dangling down; and six necks exceeding long, and on each a hideous head, and therein three rows of teeth set thick and close, full of black death" (Odyssey XII.6615-6618, trans. Butcher and Lang)
-[^od-fishing]: "Up to her middle is she sunk far down in the hollow cave, but forth she holds her heads from the dreadful gulf, and there she fishes, swooping round the rock, for dolphins or sea-dogs, or whatso greater beast she may anywhere take, whereof the deep-voiced Amphitrite feeds countless flocks" (Odyssey XII.6618-6622, trans. Butcher and Lang)
-[^od-snatching]: "Thereby no sailors boast that they have fled scatheless ever with their ship, for with each head she carries off a man, whom she hath snatched from out the dark-prowed ship" (Odyssey XII.6622-6623, trans. Butcher and Lang)
+[^od-voice]: "Her voice indeed is no greater than the voice of a new-born whelp, but a dreadful monster is she, nor would any look on her gladly, not if it were a god that met her" (Odyssey 12.88-90, trans. Butcher and Lang)
+[^od-body]: "Verily she hath twelve feet all dangling down; and six necks exceeding long, and on each a hideous head, and therein three rows of teeth set thick and close, full of black death" (Odyssey 12.90-93, trans. Butcher and Lang)
+[^od-fishing]: "Up to her middle is she sunk far down in the hollow cave, but forth she holds her heads from the dreadful gulf, and there she fishes, swooping round the rock, for dolphins or sea-dogs, or whatso greater beast she may anywhere take, whereof the deep-voiced Amphitrite feeds countless flocks" (Odyssey 12.93-97, trans. Butcher and Lang)
+[^od-snatching]: "Thereby no sailors boast that they have fled scatheless ever with their ship, for with each head she carries off a man, whom she hath snatched from out the dark-prowed ship" (Odyssey 12.97-98, trans. Butcher and Lang)
 
 ## In the [Argonautica](../sources/argonautica.md)
 
@@ -40,9 +40,9 @@ The Argonautica gives Scylla's parentage as: "Ausonian Scylla the deadly, whom n
 
 As Odysseus's ship enters the strait, the crew stares in terror at Charybdis while Scylla snatches six men from the deck — "the hardiest of their hands and the chief in might."[^od-six] Odysseus compares the scene to a fisherman on a jutting rock: just as a fisher with a long rod hauls fish gasping from the sea, so Scylla swings his men aloft to devour them at the entrance of her cave.[^od-simile] They cry out, stretching their hands toward Odysseus in their death agony. He declares it "the most pitiful thing was this that mine eyes have seen of all my travail in searching out the paths of the sea."[^od-pitiful]
 
-[^od-six]: Scylla snatches six of Odysseus's men, "the hardiest of their hands and the chief in might" (Odyssey XII.6757-6762, trans. Butcher and Lang)
-[^od-simile]: Odysseus compares Scylla's snatching of his men to a fisherman on a jutting rock hauling fish from the sea (Odyssey XII.6762-6770, trans. Butcher and Lang)
-[^od-pitiful]: "the most pitiful thing was this that mine eyes have seen of all my travail in searching out the paths of the sea" (Odyssey XII.6775-6777, trans. Butcher and Lang)
+[^od-six]: Scylla snatches six of Odysseus's men, "the hardiest of their hands and the chief in might" (Odyssey 12.233-238, trans. Butcher and Lang)
+[^od-simile]: Odysseus compares Scylla's snatching of his men to a fisherman on a jutting rock hauling fish from the sea (Odyssey 12.238-246, trans. Butcher and Lang)
+[^od-pitiful]: "the most pitiful thing was this that mine eyes have seen of all my travail in searching out the paths of the sea" (Odyssey 12.251-253, trans. Butcher and Lang)
 
 ### Charybdis
 
@@ -52,11 +52,11 @@ Odysseus encounters Charybdis twice. On the first passage through the strait, he
 
 On the second encounter, after the destruction of his ship by [Zeus](../deities/zeus.md)'s thunderbolt, Odysseus drifts back to the strait alone on wreckage. As Charybdis sucks down the timbers of his ship, he clings to the great fig-tree above her, hanging "like a bat" and waiting for her to spew the timbers back.[^od-bat] When she finally disgorges the mast and keel, he drops down, straddles them, and paddles away with his hands.[^od-escape]
 
-[^od-charybdis]: "mighty Charybdis sucks down black water, for thrice a day she spouts it forth, and thrice a day she sucks it down in terrible wise" (Odyssey XII.6627-6630, trans. Butcher and Lang)
-[^od-poseidon]: Not even "the Earth-Shaker" could save a man from Charybdis (Odyssey XII.6631, trans. Butcher and Lang)
-[^od-fig]: "a great fig-tree growing, in fullest leaf" on the cliff above Charybdis (Odyssey XII.6627, trans. Butcher and Lang)
-[^od-bat]: Odysseus clings to the fig-tree above Charybdis "like a bat," waiting for her to spew back the timbers of his ship (Odyssey XII.6951-6958, trans. Butcher and Lang)
-[^od-escape]: Charybdis disgorges the mast and keel; Odysseus drops down, straddles the timbers, and paddles away (Odyssey XII.6958-6965, trans. Butcher and Lang)
+[^od-charybdis]: "mighty Charybdis sucks down black water, for thrice a day she spouts it forth, and thrice a day she sucks it down in terrible wise" (Odyssey 12.102-105, trans. Butcher and Lang)
+[^od-poseidon]: Not even "the Earth-Shaker" could save a man from Charybdis (Odyssey 12.106, trans. Butcher and Lang)
+[^od-fig]: "a great fig-tree growing, in fullest leaf" on the cliff above Charybdis (Odyssey 12.102, trans. Butcher and Lang)
+[^od-bat]: Odysseus clings to the fig-tree above Charybdis "like a bat," waiting for her to spew back the timbers of his ship (Odyssey 12.428-435, trans. Butcher and Lang)
+[^od-escape]: Charybdis disgorges the mast and keel; Odysseus drops down, straddles the timbers, and paddles away (Odyssey 12.435-442, trans. Butcher and Lang)
 
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 

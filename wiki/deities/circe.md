@@ -20,9 +20,9 @@
 - **"fair goddess"** — used throughout the Odyssey narrative
 - **"fair-tressed goddess"** — variant epithet in the Odyssey[^ep-fairtressed]
 
-[^ep-braided]: "Circe of the braided tresses, an awful goddess of mortal speech" (Odyssey X.5448, trans. Butcher and Lang)
-[^ep-awful]: "Circe of the braided tresses, an awful goddess of mortal speech, own sister to the wizard Aeetes" (Odyssey X.5448-5449, trans. Butcher and Lang)
-[^ep-fairtressed]: "guileful Circe of Aia, would have stayed me in her halls, longing to have me for her lord" (Odyssey I.4762-4763, trans. Butcher and Lang)
+[^ep-braided]: "Circe of the braided tresses, an awful goddess of mortal speech" (Odyssey 10.138, trans. Butcher and Lang)
+[^ep-awful]: "Circe of the braided tresses, an awful goddess of mortal speech, own sister to the wizard Aeetes" (Odyssey 10.138-139, trans. Butcher and Lang)
+[^ep-fairtressed]: "guileful Circe of Aia, would have stayed me in her halls, longing to have me for her lord" (Odyssey 9.30-31, trans. Butcher and Lang)
 
 ## Powers
 
@@ -44,13 +44,13 @@ Circe's sorcery operates through "evil drugs" — pharmaka. Her transformation p
 
 Circe possesses knowledge of what is to come. [Hermes](hermes.md) had told her in advance that Odysseus would arrive: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither, on his way from Troy with his swift black ship."[^pow-prophecy] She also knows the way to [Hades](hades.md) and provides Odysseus with detailed instructions for the Nekuia — the consultation of the dead.[^pow-nekuia]
 
-[^pow-transform]: "she led them in and set them upon chairs and high seats, and made them a mess of cheese and barley-meal and yellow honey with Pramnian wine, and mixed harmful drugs with the food to make them utterly forget their own country. Now when she had given them the cup and they had drunk it off, presently she smote them with a wand, and in the styes of the swine she penned them" (Odyssey X.5543-5550, trans. Butcher and Lang)
-[^pow-mind]: "So they had the head and voice, the bristles and the shape of swine, but their mind abode even as of old" (Odyssey X.5550-5551, trans. Butcher and Lang)
-[^pow-restore]: "she went through their midst, and anointed each one of them with another charm. And lo, from their limbs the bristles dropped away, wherewith the venom had erewhile clothed them, that lady Circe gave them. And they became men again, younger than before they were, and goodlier far, and taller to behold" (Odyssey X.5703-5713, trans. Butcher and Lang)
-[^pow-beasts]: "all around the palace mountain-bred wolves and lions were roaming, whom she herself had bewitched with evil drugs that she gave them. Yet the beasts did not set on my men, but lo, they ramped about them and fawned on them, wagging their long tails" (Odyssey X.5520-5525, trans. Butcher and Lang)
-[^pow-moly]: "black at the root, but the flower was like to milk. Moly the gods call it, but it is hard for mortal men to dig; howbeit with the gods all things are possible" (Odyssey X.5612-5616, trans. Butcher and Lang)
-[^pow-prophecy]: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither, on his way from Troy with his swift black ship" (Odyssey X.5641-5645, trans. Butcher and Lang)
-[^pow-nekuia]: "first must ye perform another journey, and reach the dwelling of Hades and of dread Persephone, to seek to the spirit of Theban Teiresias, the blind soothsayer, whose wits abide steadfast" (Odyssey X.5809-5815, trans. Butcher and Lang)
+[^pow-transform]: "she led them in and set them upon chairs and high seats, and made them a mess of cheese and barley-meal and yellow honey with Pramnian wine, and mixed harmful drugs with the food to make them utterly forget their own country. Now when she had given them the cup and they had drunk it off, presently she smote them with a wand, and in the styes of the swine she penned them" (Odyssey 10.231-238, trans. Butcher and Lang)
+[^pow-mind]: "So they had the head and voice, the bristles and the shape of swine, but their mind abode even as of old" (Odyssey 10.238-239, trans. Butcher and Lang)
+[^pow-restore]: "she went through their midst, and anointed each one of them with another charm. And lo, from their limbs the bristles dropped away, wherewith the venom had erewhile clothed them, that lady Circe gave them. And they became men again, younger than before they were, and goodlier far, and taller to behold" (Odyssey 10.388-398, trans. Butcher and Lang)
+[^pow-beasts]: "all around the palace mountain-bred wolves and lions were roaming, whom she herself had bewitched with evil drugs that she gave them. Yet the beasts did not set on my men, but lo, they ramped about them and fawned on them, wagging their long tails" (Odyssey 10.209-214, trans. Butcher and Lang)
+[^pow-moly]: "black at the root, but the flower was like to milk. Moly the gods call it, but it is hard for mortal men to dig; howbeit with the gods all things are possible" (Odyssey 10.299-303, trans. Butcher and Lang)
+[^pow-prophecy]: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither, on his way from Troy with his swift black ship" (Odyssey 10.327-331, trans. Butcher and Lang)
+[^pow-nekuia]: "first must ye perform another journey, and reach the dwelling of Hades and of dread Persephone, to seek to the spirit of Theban Teiresias, the blind soothsayer, whose wits abide steadfast" (Odyssey 10.492-498, trans. Butcher and Lang)
 
 ## In the Odyssey
 
@@ -98,17 +98,17 @@ Circe warns of the **Sirens**, who bewitch all men who come near with their sing
 
 As they depart, Circe sends them on their way with a favorable wind: "in the wake of our dark-prowed ship she sent a favouring wind that filled the sails, a kindly escort, — even Circe of the braided tresses, a dread goddess of human speech."[^od-wind] This is her last direct action in the narrative, though her prophecies shape everything that follows in Book XII.
 
-[^od-overbold]: "Men overbold, who have gone alive into the house of Hades, to know death twice, while all men else die once for all" (Odyssey XII.6555-6556, trans. Butcher and Lang)
-[^od-scylla]: "an immortal plague, dread, grievous, and fierce, and not to be fought with" (Odyssey XII.6618, trans. Butcher and Lang)
-[^od-wind]: "in the wake of our dark-prowed ship she sent a favouring wind that filled the sails, a kindly escort, — even Circe of the braided tresses, a dread goddess of human speech" (Odyssey XII.6671-6673, trans. Butcher and Lang)
+[^od-overbold]: "Men overbold, who have gone alive into the house of Hades, to know death twice, while all men else die once for all" (Odyssey 12.30-31, trans. Butcher and Lang)
+[^od-scylla]: "an immortal plague, dread, grievous, and fierce, and not to be fought with" (Odyssey 12.93, trans. Butcher and Lang)
+[^od-wind]: "in the wake of our dark-prowed ship she sent a favouring wind that filled the sails, a kindly escort, — even Circe of the braided tresses, a dread goddess of human speech" (Odyssey 12.147-149, trans. Butcher and Lang)
 
-[^od-halls]: "In the forest glades they found the halls of Circe builded, of polished stone, in a place with wide prospect" (Odyssey X.5518-5519, trans. Butcher and Lang)
-[^od-weaving]: "within they heard Circe singing in a sweet voice, as she fared to and fro before the great web imperishable, such as is the handiwork of goddesses, fine of woof and full of grace and splendour" (Odyssey X.5527-5530, trans. Butcher and Lang)
-[^od-hermes]: "in the likeness of a young man with the first down on his lip" (Odyssey X.5590, trans. Butcher and Lang)
-[^od-handmaids]: "four maidens that are her serving women in the house. They are born of the wells and of the woods and of the holy rivers, that flow forward into the salt sea" (Odyssey X.5664-5666, trans. Butcher and Lang)
-[^od-year]: "So there we sat day by day for the full circle of a year, feasting on abundant flesh and sweet wine" (Odyssey X.5785-5787, trans. Butcher and Lang)
-[^od-teiresias]: "first must ye perform another journey, and reach the dwelling of Hades and of dread Persephone, to seek to the spirit of Theban Teiresias, the blind soothsayer, whose wits abide steadfast. To him Persephone hath given judgment, even in death, that he alone should have understanding; but the other souls sweep shadow-like around" (Odyssey X.5809-5818, trans. Butcher and Lang)
-[^od-geography]: "when thou hast now sailed in thy ship across the stream Oceanus, where is a waste shore and the groves of Persephone, even tall poplar trees and willows that shed their fruit before the season... Thereby into Acheron flows Pyriphlegethon, and Cocytus, a branch of the water of the Styx" (Odyssey X.5835-5854, trans. Butcher and Lang)
+[^od-halls]: "In the forest glades they found the halls of Circe builded, of polished stone, in a place with wide prospect" (Odyssey 10.207-208, trans. Butcher and Lang)
+[^od-weaving]: "within they heard Circe singing in a sweet voice, as she fared to and fro before the great web imperishable, such as is the handiwork of goddesses, fine of woof and full of grace and splendour" (Odyssey 10.215-218, trans. Butcher and Lang)
+[^od-hermes]: "in the likeness of a young man with the first down on his lip" (Odyssey 10.277, trans. Butcher and Lang)
+[^od-handmaids]: "four maidens that are her serving women in the house. They are born of the wells and of the woods and of the holy rivers, that flow forward into the salt sea" (Odyssey 10.350-352, trans. Butcher and Lang)
+[^od-year]: "So there we sat day by day for the full circle of a year, feasting on abundant flesh and sweet wine" (Odyssey 10.468-470, trans. Butcher and Lang)
+[^od-teiresias]: "first must ye perform another journey, and reach the dwelling of Hades and of dread Persephone, to seek to the spirit of Theban Teiresias, the blind soothsayer, whose wits abide steadfast. To him Persephone hath given judgment, even in death, that he alone should have understanding; but the other souls sweep shadow-like around" (Odyssey 10.492-501, trans. Butcher and Lang)
+[^od-geography]: "when thou hast now sailed in thy ship across the stream Oceanus, where is a waste shore and the groves of Persephone, even tall poplar trees and willows that shed their fruit before the season... Thereby into Acheron flows Pyriphlegethon, and Cocytus, a branch of the water of the Styx" (Odyssey 10.517-536, trans. Butcher and Lang)
 
 ## In the [Argonautica](../sources/argonautica.md)
 
@@ -166,7 +166,7 @@ When Picus's companions threatened Circe, she sprinkled them with poisonous herb
 In the [Odyssey](../sources/odyssey.md), this is expanded: "Circe of the braided tresses, an awful goddess of mortal speech, own sister to the wizard Aeetes. Both were begotten of [Helius](helius.md), who gives light to all men, and their mother was Perse, daughter of [Oceanus](oceanus.md)."[^od-parentage]
 
 [^theog-parentage]: "Perseis, the daughter of Ocean, bare to unwearying Helios Circe and Aeetes the king" (Theogony 956-957, trans. H.G. Evelyn-White)
-[^od-parentage]: "Circe of the braided tresses, an awful goddess of mortal speech, own sister to the wizard Aeetes. Both were begotten of Helios, who gives light to all men, and their mother was Perse, daughter of Oceanus" (Odyssey X.5448-5451, trans. Butcher and Lang)
+[^od-parentage]: "Circe of the braided tresses, an awful goddess of mortal speech, own sister to the wizard Aeetes. Both were begotten of Helios, who gives light to all men, and their mother was Perse, daughter of Oceanus" (Odyssey 10.138-141, trans. Butcher and Lang)
 
 ## Later Traditions (Epic Cycle)
 

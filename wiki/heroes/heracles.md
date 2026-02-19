@@ -85,7 +85,7 @@ In [Odyssey](../sources/odyssey.md) Book XXI, the bow of Eurytus occasions one o
 
 This is guest-murder — a violation of divine law. Heracles killed Iphitus after sharing a meal, one of the gravest offences against the hospitality that [Zeus](../deities/zeus.md) protects as god of strangers.
 
-[^od21-iphitus]: "the child of Zeus, hardy of heart, the man Heracles, that had knowledge of great adventures, who smote Iphitus though his guest in his house, in his frowardness, and had no regard for the vengeance of the gods, nor for the table which he spread before him; for after the meal he slew him, his guest though he was, and kept for himself in the halls the horses strong of hoof" (Odyssey 11211-11216, trans. Butcher and Lang)
+[^od21-iphitus]: "the child of Zeus, hardy of heart, the man Heracles, that had knowledge of great adventures, who smote Iphitus though his guest in his house, in his frowardness, and had no regard for the vengeance of the gods, nor for the table which he spread before him; for after the meal he slew him, his guest though he was, and kept for himself in the halls the horses strong of hoof" (Odyssey 21.26-31, trans. Butcher and Lang)
 
 ### Phantom in Hades (Odyssey XI)
 
@@ -93,15 +93,15 @@ In [Odyssey](../sources/odyssey.md) Book XI, Odysseus encounters Heracles' shade
 
 Heracles recognises a kindred sufferer in Odysseus: "I was the son of Zeus Cronion, yet had I trouble beyond measure, for I was subdued unto a man far worse than I." He recalls the worst of his labours: "he sent me hither to bring back the hound of hell... I lifted the hound and brought him forth from out of the house of Hades; and Hermes sped me on my way and the grey-eyed Athene."[^od11-cerberus]
 
-[^od11-phantom]: "his phantom, I say; but as for himself he hath joy at the banquet among the deathless gods, and hath to wife Hebe of the fair ankles, child of great Zeus, and of Here of the golden sandals" (Odyssey XI.6485-6490, trans. Butcher and Lang)
-[^od11-appearance]: "like black Night, with bow uncased, and shaft upon the string, fiercely glancing around, like one in the act to shoot" (Odyssey XI.6491-6493, trans. Butcher and Lang)
-[^od11-cerberus]: "I was the son of Zeus Cronion, yet had I trouble beyond measure, for I was subdued unto a man far worse than I... he sent me hither to bring back the hound of hell... I lifted the hound and brought him forth from out of the house of Hades; and Hermes sped me on my way and the grey-eyed Athene" (Odyssey XI.6497-6507, trans. Butcher and Lang)
+[^od11-phantom]: "his phantom, I say; but as for himself he hath joy at the banquet among the deathless gods, and hath to wife Hebe of the fair ankles, child of great Zeus, and of Here of the golden sandals" (Odyssey 11.599-605, trans. Butcher and Lang)
+[^od11-appearance]: "like black Night, with bow uncased, and shaft upon the string, fiercely glancing around, like one in the act to shoot" (Odyssey 11.606-608, trans. Butcher and Lang)
+[^od11-cerberus]: "I was the son of Zeus Cronion, yet had I trouble beyond measure, for I was subdued unto a man far worse than I... he sent me hither to bring back the hound of hell... I lifted the hound and brought him forth from out of the house of Hades; and Hermes sped me on my way and the grey-eyed Athene" (Odyssey 11.612-622, trans. Butcher and Lang)
 
 ### Oppressing Pylos (Book XI)
 
 In [Iliad](../sources/iliad.md) Book XI, Nestor recalls Heracles' devastation of Pylos: "the mighty Herakles had come and oppressed us, in the former years, and all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished."[^il11-pylos]
 
-[^il11-pylos]: "the mighty Herakles had come and oppressed us, in the former years, and all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished" (Iliad XI.6817-6819, trans. Lang, Leaf, and Myers)
+[^il11-pylos]: "the mighty Herakles had come and oppressed us, in the former years, and all our best men were slain. For twelve sons were we of noble Neleus, whereof I alone was left, and all the others perished" (Iliad 11.693-696, trans. Lang, Leaf, and Myers)
 
 ### Fetching Cerberus (Book VIII)
 
@@ -109,7 +109,7 @@ In [Iliad](../sources/iliad.md) Book VIII, [Athena](../deities/athena.md) recall
 
 This is the first explicit reference to the Cerberus labour in any source processed so far. It also confirms Athena's role as Heracles' divine protector.
 
-[^il8-cerberus]: "Neither remembereth he at all those many times and oft that I saved his son fordone with Eurystheus' tasks. For he would make lament toward heaven, and me would Zeus speed forth from heaven to succour him. Had I but known all this in my prudent heart, what time Eurystheus sent him forth to the house of Hades the Warder of the Gate, to bring from Erebos the hound of loathed Hades, then had he not escaped the sheer stream of the water of Styx" (Iliad VIII.4757-4763, trans. Lang, Leaf, and Myers)
+[^il8-cerberus]: "Neither remembereth he at all those many times and oft that I saved his son fordone with Eurystheus' tasks. For he would make lament toward heaven, and me would Zeus speed forth from heaven to succour him. Had I but known all this in my prudent heart, what time Eurystheus sent him forth to the house of Hades the Warder of the Gate, to bring from Erebos the hound of loathed Hades, then had he not escaped the sheer stream of the water of Styx" (Iliad 8.368-375, trans. Lang, Leaf, and Myers)
 
 ## In the [Argonautica](../sources/argonautica.md)
 

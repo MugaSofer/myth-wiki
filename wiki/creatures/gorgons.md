@@ -44,7 +44,7 @@ In [Iliad](../sources/iliad.md) Book XI, Agamemnon's shield bears the Gorgon as 
 
 This is separate from the Gorgon head on [Athena](../deities/athena.md)'s aegis (described in [Iliad](../sources/iliad.md) Book V) — here the Gorgon is a decorative emblem on a mortal's armour, paired with personified Dread and Terror.
 
-[^il11-shield]: "thereon was embossed the Gorgon fell of aspect glaring terribly, and about her were Dread and Terror" (Iliad XI.6189-6190, trans. Lang, Leaf, and Myers)
+[^il11-shield]: "thereon was embossed the Gorgon fell of aspect glaring terribly, and about her were Dread and Terror" (Iliad 11.38-39, trans. Lang, Leaf, and Myers)
 
 ## In the Bibliotheca (2.4.2)
 

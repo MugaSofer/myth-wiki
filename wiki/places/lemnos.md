@@ -53,16 +53,16 @@ The Argonauts "had intercourse with the women, and Hypsipyle bedded with Jason a
 
 In the [Odyssey](../sources/odyssey.md), Lemnos is mentioned in the tale of [Ares](../deities/ares.md) and [Aphrodite](../deities/aphrodite.md): [Hephaestus](../deities/hephaestus.md) "made as though he would go to Lemnos, that stablished castle" to set his trap.[^od-trap] Ares tells Aphrodite that "Hephaestus is gone to Lemnos, to the Sintians, men of savage speech."[^od-ares]
 
-[^il-fall]: "once ere this, when I was fain to save thee, he caught me by my foot and hurled me from the heavenly threshold; all day I flew, and at the set of sun I fell in Lemnos, and little life was in me. There did the Sintian folk forthwith tend me for my fall." (Iliad I.755-758, trans. Lang, Leaf, and Myers)
-[^il-sleep]: "came to Lemnos, the city of godlike Thoas. There she met Sleep, the brother of Death, and clasped her hand in his" (Iliad XIV.8427-8428, trans. Lang, Leaf, and Myers)
-[^il-depart]: "the twain left the citadel of Lemnos, and of Imbros, clothed on in mist, and swiftly they accomplished the way." (Iliad XIV.8475-8476, trans. Lang, Leaf, and Myers)
-[^il-wine]: "many ships from Lemnos, bearing wine" (Iliad VII.4390, trans. Lang, Leaf, and Myers)
-[^il-lycaon]: "him into well-peopled Lemnos, sending him on ship board" (Iliad XXI.11791, trans. Lang, Leaf, and Myers)
+[^il-fall]: "once ere this, when I was fain to save thee, he caught me by my foot and hurled me from the heavenly threshold; all day I flew, and at the set of sun I fell in Lemnos, and little life was in me. There did the Sintian folk forthwith tend me for my fall." (Iliad 1.585-588, trans. Lang, Leaf, and Myers)
+[^il-sleep]: "came to Lemnos, the city of godlike Thoas. There she met Sleep, the brother of Death, and clasped her hand in his" (Iliad 14.232-233, trans. Lang, Leaf, and Myers)
+[^il-depart]: "the twain left the citadel of Lemnos, and of Imbros, clothed on in mist, and swiftly they accomplished the way." (Iliad 14.282-283, trans. Lang, Leaf, and Myers)
+[^il-wine]: "many ships from Lemnos, bearing wine" (Iliad 7.464, trans. Lang, Leaf, and Myers)
+[^il-lycaon]: "him into well-peopled Lemnos, sending him on ship board" (Iliad 21.48, trans. Lang, Leaf, and Myers)
 [^apoll-heph]: "Hephaestus fell on Lemnos and was lamed of his legs, but Thetis saved him." (Bibliotheca 1.3.5, trans. Frazer)
 [^apoll-women]: "The Lemnian women did not honor Aphrodite, and she visited them with a noisome smell; therefore their spouses took captive women from the neighboring country of Thrace and bedded with them. Thus dishonored, the Lemnian women murdered their fathers and husbands, but Hypsipyle alone saved her father Thoas by hiding him." (Bibliotheca 1.9.17, trans. Frazer)
 [^apoll-jason]: "having put in to Lemnos, at that time ruled by women, the Argonauts had intercourse with the women, and Hypsipyle bedded with Jason and bore sons, Euneus and Nebrophonus." (Bibliotheca 1.9.17, trans. Frazer)
-[^od-trap]: "he made as though he would go to Lemnos, that stablished castle" (Odyssey VIII.4421, trans. Butcher and Lang)
-[^od-ares]: "Hephaestus is gone to Lemnos, to the Sintians, men of savage speech." (Odyssey VIII.4432, trans. Butcher and Lang)
+[^od-trap]: "he made as though he would go to Lemnos, that stablished castle" (Odyssey 8.279, trans. Butcher and Lang)
+[^od-ares]: "Hephaestus is gone to Lemnos, to the Sintians, men of savage speech." (Odyssey 8.290, trans. Butcher and Lang)
 
 ## Appearances
 

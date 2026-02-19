@@ -30,7 +30,7 @@
 [^desc-grace]: "Hail, Hermes, giver of grace, guide, and giver of good things!" (Homeric Hymn XVIII to Hermes 12, trans. H.G. Evelyn-White)
 [^desc-rod]: "And you, slayer of Argus, Son of Zeus and Maia, messenger of the blessed gods, bearer of the golden rod, giver of good, be favourable and help us, you and Hestia, the worshipful and dear" (Homeric Hymn XXIX to Hestia 7-10)
 
-[^il20-helper]: "the Helper Hermes, pro-eminent in subtle thoughts" (Iliad XX.11334, trans. Lang, Leaf, and Myers); used repeatedly in XXIV (13835, 13914, 13927, 14129)
+[^il20-helper]: "the Helper Hermes, pro-eminent in subtle thoughts" (Iliad 20.45, trans. Lang, Leaf, and Myers); used repeatedly in XXIV (13835, 13914, 13927, 14129)
 [^met-caduceus]: "Caduceus-Bearer soared on balanced wings" (Metamorphoses 2.708, trans. Brookes More)
 [^met-wingfoot]: "to Mercury, the Wingfoot, and a bull" (Metamorphoses 8.627, trans. Brookes More); also at 4.753: "sped wing-footed through the liquid air"
 [^desc-luck]: "I sing of Cyllenian Hermes, the Slayer of Argus, lord of Cyllene and Arcadia rich in flocks, luck-bringing messenger of the deathless gods" (Homeric Hymn XVIII to Hermes 1-3, trans. H.G. Evelyn-White)
@@ -45,8 +45,8 @@ Hermes carries two signature items: "the [wand](../objects/hermes-wand.md) of go
 In [Iliad](../sources/iliad.md) Book XXIV, his equipment is described in detail when [Zeus](zeus.md) sends him to guide Priam: he binds on golden sandals "that bare him over wet sea and over the boundless land swift as the blast of the wind" and takes up his wand "wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep."[^il24-equip] He disguises himself as "a young man, a prince, with the first down on his lip, as when the youth of men is the comeliest."[^il24-disguise]
 
 [^desc-exchange]: "Phoebus Apollo took it, and readily put his shining whip in Hermes' hand, and ordained him keeper of herds" (Homeric Hymn IV to Hermes 497-498)
-[^il24-equip]: "Forthwith then he bound beneath his feet his fair sandals, golden, divine, that bare him over wet sea and over the boundless land swift as the blast of the wind. And he took up his wand wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep" (Iliad XXIV.14064-14069, trans. Lang, Leaf, and Myers)
-[^il24-disguise]: "he made him like a young man, a prince, with the first down on his lip, as when the youth of men is the comeliest" (Iliad XXIV.14073-14074)
+[^il24-equip]: "Forthwith then he bound beneath his feet his fair sandals, golden, divine, that bare him over wet sea and over the boundless land swift as the blast of the wind. And he took up his wand wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep" (Iliad 24.516-521, trans. Lang, Leaf, and Myers)
+[^il24-disguise]: "he made him like a young man, a prince, with the first down on his lip, as when the youth of men is the comeliest" (Iliad 24.524-525)
 
 ## Powers
 
@@ -146,9 +146,9 @@ His flight is described vividly: "Above Pieria he passed and leapt from the uppe
 
 At Calypso's cave, he delivers Zeus's command, warning: "it is in no wise possible for another god to go beyond or to make void the purpose of Zeus, lord of the aegis."[^od5-command]
 
-[^od5-equip]: "Straightway he bound beneath his feet his lovely golden sandals, that wax not old, that bare him alike over the wet sea and over the limitless land, swift as the breath of the wind. And he took the wand wherewith he lulls the eyes of whomso he will, while others again he even wakes from out of sleep." (Odyssey V.3026-3030, trans. Butcher and Lang)
-[^od5-flight]: "Above Pieria he passed and leapt from the upper air into the deep. Then he sped along the wave like the cormorant, that chaseth the fishes through the perilous gulfs of the unharvested sea, and wetteth his thick plumage in the brine." (Odyssey V.3031-3034, trans. Butcher and Lang)
-[^od5-command]: "surely it is in no wise possible for another god to go beyond or to make void the purpose of Zeus, lord of the aegis" (Odyssey V.3079-3080, trans. Butcher and Lang)
+[^od5-equip]: "Straightway he bound beneath his feet his lovely golden sandals, that wax not old, that bare him alike over the wet sea and over the limitless land, swift as the breath of the wind. And he took the wand wherewith he lulls the eyes of whomso he will, while others again he even wakes from out of sleep." (Odyssey 5.53-57, trans. Butcher and Lang)
+[^od5-flight]: "Above Pieria he passed and leapt from the upper air into the deep. Then he sped along the wave like the cormorant, that chaseth the fishes through the perilous gulfs of the unharvested sea, and wetteth his thick plumage in the brine." (Odyssey 5.58-61, trans. Butcher and Lang)
+[^od5-command]: "surely it is in no wise possible for another god to go beyond or to make void the purpose of Zeus, lord of the aegis" (Odyssey 5.105-106, trans. Butcher and Lang)
 
 ### The Embassy to Aegisthus (Book I)
 
@@ -156,14 +156,14 @@ In the [Odyssey](../sources/odyssey.md), [Zeus](zeus.md) recalls sending Hermes 
 
 [Athena](athena.md) also proposes sending Hermes to Calypso on Ogygia to declare the gods' counsel "even the return of the patient Odysseus."[^od1-ogygia]
 
-[^od1-aegisthus]: "we had warned him by the embassy of Hermes the keen-sighted, the slayer of Argos, that he should neither kill the man, nor woo his wife. For the son of Atreus shall be avenged at the hand of Orestes, so soon as he shall come to man's estate and long for his own country. So spake Hermes, yet he prevailed not on the heart of Aegisthus, for all his good will" (Odyssey I.764-768, trans. Butcher and Lang)
-[^od1-ogygia]: "let us then speed Hermes the Messenger, the slayer of Argos, to the island of Ogygia. There with all speed let him declare to the lady of the braided tresses our unerring counsel, even the return of the patient Odysseus" (Odyssey I.807-810, trans. Butcher and Lang)
+[^od1-aegisthus]: "we had warned him by the embassy of Hermes the keen-sighted, the slayer of Argos, that he should neither kill the man, nor woo his wife. For the son of Atreus shall be avenged at the hand of Orestes, so soon as he shall come to man's estate and long for his own country. So spake Hermes, yet he prevailed not on the heart of Aegisthus, for all his good will" (Odyssey 1.45-49, trans. Butcher and Lang)
+[^od1-ogygia]: "let us then speed Hermes the Messenger, the slayer of Argos, to the island of Ogygia. There with all speed let him declare to the lady of the braided tresses our unerring counsel, even the return of the patient Odysseus" (Odyssey 1.87-90, trans. Butcher and Lang)
 
 ### The Song of Ares and Aphrodite (Book VIII)
 
 In the Song of [Ares](ares.md) and [Aphrodite](aphrodite.md), Hermes is among the gods who gather to witness the trapped lovers. When [Apollo](apollo.md) asked him if he would endure the bonds to lie with golden Aphrodite, "the messenger, the slayer of Argos, answered him: 'I would that this might be, Apollo, my prince of archery! So might thrice as many bonds innumerable encompass me about, and all ye gods be looking on and all the goddesses, yet would I lie by golden Aphrodite.'" His answer provoked "laughter among the deathless gods."[^od8-hermes-wish]
 
-[^od8-hermes-wish]: "the messenger, the slayer of Argos, answered him: 'I would that this might be, Apollo, my prince of archery! So might thrice as many bonds innumerable encompass me about, and all ye gods be looking on and all the goddesses, yet would I lie by golden Aphrodite.' So spake he, and laughter rose among the deathless gods" (Odyssey VIII.4478-4483, trans. Butcher and Lang)
+[^od8-hermes-wish]: "the messenger, the slayer of Argos, answered him: 'I would that this might be, Apollo, my prince of archery! So might thrice as many bonds innumerable encompass me about, and all ye gods be looking on and all the goddesses, yet would I lie by golden Aphrodite.' So spake he, and laughter rose among the deathless gods" (Odyssey 8.336-341, trans. Butcher and Lang)
 
 ### Hermes, Patron of Service (Book XIV–XV)
 
@@ -171,8 +171,8 @@ In [Odyssey](../sources/odyssey.md) Book XIV, the swineherd Eumaeus sets aside a
 
 Later, in Book XV, Odysseus (in disguise) invokes Hermes's patronage of skilled labour: "By the favour of Hermes, the messenger, who gives grace and glory to all men's work, no mortal may vie with me in the business of a serving-man."[^od15-grace]
 
-[^od14-sacrifice]: "One, when he had prayed, he set aside for the nymphs and for Hermes son of Maia, and the rest he distributed to each." (Odyssey XIV.7840-7842, trans. Butcher and Lang)
-[^od15-grace]: "By the favour of Hermes, the messenger, who gives grace and glory to all men's work, no mortal may vie with me in the business of a serving-man, in piling well a fire, in cleaving dry faggots, and in carving and roasting flesh and in pouring of wine" (Odyssey XV.8285-8289, trans. Butcher and Lang)
+[^od14-sacrifice]: "One, when he had prayed, he set aside for the nymphs and for Hermes son of Maia, and the rest he distributed to each." (Odyssey 14.420-423, trans. Butcher and Lang)
+[^od15-grace]: "By the favour of Hermes, the messenger, who gives grace and glory to all men's work, no mortal may vie with me in the business of a serving-man, in piling well a fire, in cleaving dry faggots, and in carving and roasting flesh and in pouring of wine" (Odyssey 15.330-334, trans. Butcher and Lang)
 
 ### Hermes and Autolycus (Book XIX)
 
@@ -180,7 +180,7 @@ In [Odyssey](../sources/odyssey.md) Book XIX, the narrator explains that Odysseu
 
 This passage connects directly to Hermes's established domain as patron of thieves — the "thief at the gates" from Hymn IV — showing a mortal lineage blessed by the god's favour. Through Autolycus, Hermes's gift of cunning passes into Odysseus's bloodline.
 
-[^od19-autolycus]: "Autolycus, his mother's noble father, who outdid all men in thievery and skill in swearing. This skill was the gift of the god himself, even Hermes, for that he burned to him the well-pleasing sacrifice of the thighs of lambs and kids; wherefore Hermes abetted him gladly." (Odyssey XIX.10544-10548, trans. Butcher and Lang)
+[^od19-autolycus]: "Autolycus, his mother's noble father, who outdid all men in thievery and skill in swearing. This skill was the gift of the god himself, even Hermes, for that he burned to him the well-pleasing sacrifice of the thighs of lambs and kids; wherefore Hermes abetted him gladly." (Odyssey 19.399-403, trans. Butcher and Lang)
 
 ### Psychopomp — Guide of the Dead (Book XXIV)
 
@@ -192,9 +192,9 @@ Hermes then leads them on their journey to the underworld: "Hermes, the helper, 
 
 This is the only time in the [Odyssey](../sources/odyssey.md) where Hermes actually performs his role as psychopomp. His wand description here closely matches both the [Iliad](../sources/iliad.md) XXIV and Odyssey V descriptions — in all three, it "lulls the eyes of men" and "wakens" others from sleep.
 
-[^od24-summon]: "Now Cyllenian Hermes called forth from the halls the souls of the wooers, and he held in his hand his wand that is fair and golden, wherewith he lulls the eyes of men, of whomso he will, while others again he even wakens out of sleep. Herewith he roused and led the souls who followed gibbering." (Odyssey XXIV.12554-12558, trans. Butcher and Lang)
-[^od24-bats]: "even as bats flit gibbering in the secret place of a wondrous cave, when one has fallen down from the cluster on the rock, where they cling each to each up aloft, even so the souls gibbered as they fared together" (Odyssey XXIV.12558-12561, trans. Butcher and Lang)
-[^od24-journey]: "Hermes, the helper, led them down the dank ways. Past the streams of Oceanus and the White Rock, past the gates of the Sun they sped and the land of dreams, and soon they came to the mead of asphodel, where dwell the souls, the phantoms of men outworn." (Odyssey XXIV.12561-12565, trans. Butcher and Lang)
+[^od24-summon]: "Now Cyllenian Hermes called forth from the halls the souls of the wooers, and he held in his hand his wand that is fair and golden, wherewith he lulls the eyes of men, of whomso he will, while others again he even wakens out of sleep. Herewith he roused and led the souls who followed gibbering." (Odyssey 24.9-13, trans. Butcher and Lang)
+[^od24-bats]: "even as bats flit gibbering in the secret place of a wondrous cave, when one has fallen down from the cluster on the rock, where they cling each to each up aloft, even so the souls gibbered as they fared together" (Odyssey 24.13-16, trans. Butcher and Lang)
+[^od24-journey]: "Hermes, the helper, led them down the dank ways. Past the streams of Oceanus and the White Rock, past the gates of the Sun they sped and the land of dreams, and soon they came to the mead of asphodel, where dwell the souls, the phantoms of men outworn." (Odyssey 24.16-20, trans. Butcher and Lang)
 
 ### Hermes and Moly (Book X)
 
@@ -206,11 +206,11 @@ The herb itself is described in detail: "the slayer of Argos gave me the plant t
 
 Hermes then departs: "Then Hermes departed toward high Olympus, up through the woodland isle."[^od10-depart] Later, when Odysseus resists her magic, Circe recognizes him because of Hermes: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither, on his way from Troy with his swift black ship."[^od10-circe]
 
-[^od10-appear]: "Hermes, of the golden wand, meet me as I approached the house, in the likeness of a young man with the first down on his lip, the time when youth is most gracious. So he clasped my hand and spake and hailed me" (Odyssey X.5587-5590, trans. Butcher and Lang)
-[^od10-warn]: "Lo, take this herb of virtue, and go to the dwelling of Circe, that it may keep from thy head the evil day... When it shall be that Circe smites thee with her long wand, even then draw thou thy sharp sword from thy thigh, and spring on her, as one eager to slay her." (Odyssey X.5597-5605, trans. Butcher and Lang)
-[^od10-moly]: "the slayer of Argos gave me the plant that he had plucked from the ground, and he showed me the growth thereof. It was black at the root, but the flower was like to milk. Moly the gods call it, but it is hard for mortal men to dig; howbeit with the gods all things are possible." (Odyssey X.5612-5616, trans. Butcher and Lang)
-[^od10-depart]: "Then Hermes departed toward high Olympus, up through the woodland isle" (Odyssey X.5618, trans. Butcher and Lang)
-[^od10-circe]: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither, on his way from Troy with his swift black ship." (Odyssey X.5645-5647, trans. Butcher and Lang)
+[^od10-appear]: "Hermes, of the golden wand, meet me as I approached the house, in the likeness of a young man with the first down on his lip, the time when youth is most gracious. So he clasped my hand and spake and hailed me" (Odyssey 10.274-277, trans. Butcher and Lang)
+[^od10-warn]: "Lo, take this herb of virtue, and go to the dwelling of Circe, that it may keep from thy head the evil day... When it shall be that Circe smites thee with her long wand, even then draw thou thy sharp sword from thy thigh, and spring on her, as one eager to slay her." (Odyssey 10.284-292, trans. Butcher and Lang)
+[^od10-moly]: "the slayer of Argos gave me the plant that he had plucked from the ground, and he showed me the growth thereof. It was black at the root, but the flower was like to milk. Moly the gods call it, but it is hard for mortal men to dig; howbeit with the gods all things are possible." (Odyssey 10.299-303, trans. Butcher and Lang)
+[^od10-depart]: "Then Hermes departed toward high Olympus, up through the woodland isle" (Odyssey 10.305, trans. Butcher and Lang)
+[^od10-circe]: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither, on his way from Troy with his swift black ship." (Odyssey 10.331-333, trans. Butcher and Lang)
 
 ## In the Bibliotheca
 

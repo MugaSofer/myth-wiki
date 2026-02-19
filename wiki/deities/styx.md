@@ -47,13 +47,13 @@ Styx "lives apart from the gods in her glorious house vaulted over with great ro
 
 The river Titaresios is described as "an offspring from the water of Styx, the dread river of the oath" — it flows over the Peneios "like unto oil" without mingling.[^il2-styx]
 
-[^il2-styx]: "he is an offspring from the water of Styx, the dread river of the oath" (Iliad II.1480-1481, trans. Lang, Leaf, and Myers)
+[^il2-styx]: "he is an offspring from the water of Styx, the dread river of the oath" (Iliad 2.732-733, trans. Lang, Leaf, and Myers)
 
 ## In the Odyssey
 
 In [Odyssey](../sources/odyssey.md) Book V, Calypso swears by Styx to assure Odysseus she means no treachery: "Let earth be now witness hereto, and the wide heaven above, and that falling water of the Styx, the greatest oath and the most terrible to the blessed gods."[^od5-styx]
 
-[^od5-styx]: "Let earth be now witness hereto, and the wide heaven above, and that falling water of the Styx, the greatest oath and the most terrible to the blessed gods, that I will not plan any hidden guile to thine own hurt" (Odyssey V.3160-3163, trans. Butcher and Lang)
+[^od5-styx]: "Let earth be now witness hereto, and the wide heaven above, and that falling water of the Styx, the greatest oath and the most terrible to the blessed gods, that I will not plan any hidden guile to thine own hurt" (Odyssey 5.185-188, trans. Butcher and Lang)
 
 ## Appearances
 

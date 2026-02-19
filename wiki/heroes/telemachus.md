@@ -2,7 +2,7 @@
 
 > "Telemachus, flinging himself upon his noble father's neck, mourned and shed tears, and in both their hearts arose the desire of lamentation."[^epigraph]
 
-[^epigraph]: (Odyssey XVI.8743-8745, trans. Butcher and Lang)
+[^epigraph]: (Odyssey 16.216-218, trans. Butcher and Lang)
 
 | | |
 |---|---|
@@ -18,10 +18,10 @@
 ## Epithets
 
 - **"wise Telemachus"** — the most frequent epithet, used throughout the [Odyssey](../sources/odyssey.md)[^ep-wise]
-- **"godlike Telemachus"** — (Odyssey I.836)[^ep-godlike]
+- **"godlike Telemachus"** — (Odyssey 1.116)[^ep-godlike]
 
-[^ep-wise]: "Then wise Telemachus answered her, and said" (Odyssey I.1061, trans. Butcher and Lang)
-[^ep-godlike]: "And godlike Telemachus was far the first to descry her" (Odyssey I.836)
+[^ep-wise]: "Then wise Telemachus answered her, and said" (Odyssey 1.340, trans. Butcher and Lang)
+[^ep-godlike]: "And godlike Telemachus was far the first to descry her" (Odyssey 1.116)
 
 ## In the Odyssey
 
@@ -33,11 +33,11 @@ He shows instinctive hospitality: seeing the stranger at the gate, "he thought i
 
 After Athena's encouragement, Telemachus asserts himself for the first time, silencing [Penelope](penelope.md) when she protests the minstrel's song of Troy: "But speech shall be for men, for all, but for me in chief; for mine is the lordship in the house."[^od1-lordship] The suitors "bit their lips and marvelled at Telemachus, in that he spake boldly."[^od1-bold]
 
-[^od1-sitting]: "he was sitting with a heavy heart among the wooers dreaming on his good father, if haply he might come somewhence, and make a scattering of the wooers there throughout the palace, and himself get honour and bear rule among his own possessions" (Odyssey I.836-840)
-[^od1-greeting]: "he thought it blame in his heart that a stranger should stand long at the gates: and halting nigh her he clasped her right hand and took from her the spear of bronze" (Odyssey I.842-844)
-[^od1-apart]: "he placed an inlaid seat hard by, apart from the company of the wooers, lest the stranger should be disquieted by the noise" (Odyssey I.857-858)
-[^od1-lordship]: "But speech shall be for men, for all, but for me in chief; for mine is the lordship in the house" (Odyssey I.1070-1072)
-[^od1-bold]: "they all bit their lips and marvelled at Telemachus, in that he spake boldly" (Odyssey XX.10122-10123)
+[^od1-sitting]: "he was sitting with a heavy heart among the wooers dreaming on his good father, if haply he might come somewhence, and make a scattering of the wooers there throughout the palace, and himself get honour and bear rule among his own possessions" (Odyssey 1.116-120)
+[^od1-greeting]: "he thought it blame in his heart that a stranger should stand long at the gates: and halting nigh her he clasped her right hand and took from her the spear of bronze" (Odyssey 1.122-124)
+[^od1-apart]: "he placed an inlaid seat hard by, apart from the company of the wooers, lest the stranger should be disquieted by the noise" (Odyssey 1.137-138)
+[^od1-lordship]: "But speech shall be for men, for all, but for me in chief; for mine is the lordship in the house" (Odyssey 1.349-351)
+[^od1-bold]: "they all bit their lips and marvelled at Telemachus, in that he spake boldly" (Odyssey 18.407-408)
 
 ### The Journey (Books III-IV)
 
@@ -47,7 +47,7 @@ At Sparta, [Menelaus](menelaus.md) and [Helen](helen.md) receive him and tell of
 
 Meanwhile the suitors discover his departure and lie in ambush, but Athena warns him in a dream to return by a different route.
 
-[^od3-nestor]: "amazement comes upon me as I look at thee; for verily thy speech is like unto his; none would say that a younger man would speak so like an elder" (Odyssey III.1742-1743)
+[^od3-nestor]: "amazement comes upon me as I look at thee; for verily thy speech is like unto his; none would say that a younger man would speak so like an elder" (Odyssey 3.129-130)
 
 ### The Recognition (Book XVI)
 
@@ -55,8 +55,8 @@ When [Odysseus](odysseus.md) reveals himself at the swineherd Eumaeus's hut, Tel
 
 Together they plot the destruction of the suitors.
 
-[^od16-disbelief]: "Thou art not Odysseus my father, but some god beguiles me, that I may groan for more exceeding sorrow. For it cannot be that a mortal man should contrive this by the aid of his own wit, unless a god were himself to visit him, and lightly of his own will to make him young or old" (Odyssey XVI.8726-8730)
-[^od16-reunion]: "Telemachus, flinging himself upon his noble father's neck, mourned and shed tears, and in both their hearts arose the desire of lamentation. And they wailed aloud, more ceaselessly than birds, sea-eagles or vultures of crooked claws, whose younglings the country folk have taken from the nest, ere yet they are fledged" (Odyssey XVI.8743-8748)
+[^od16-disbelief]: "Thou art not Odysseus my father, but some god beguiles me, that I may groan for more exceeding sorrow. For it cannot be that a mortal man should contrive this by the aid of his own wit, unless a god were himself to visit him, and lightly of his own will to make him young or old" (Odyssey 16.200-204)
+[^od16-reunion]: "Telemachus, flinging himself upon his noble father's neck, mourned and shed tears, and in both their hearts arose the desire of lamentation. And they wailed aloud, more ceaselessly than birds, sea-eagles or vultures of crooked claws, whose younglings the country folk have taken from the nest, ere yet they are fledged" (Odyssey 16.216-221)
 
 ### The Slaying of the Suitors (Books XXI-XXII)
 

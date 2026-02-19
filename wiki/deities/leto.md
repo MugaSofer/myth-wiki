@@ -23,7 +23,7 @@
 [^ep-tresses]: "Leto with the lovely tresses was soon to bear a son faultless and strong" (Homeric Hymn III to Apollo 97-100)
 [^ep-queenly]: "queenly Leto set foot on Delos and uttered winged words" (Homeric Hymn III to Apollo 46-49, trans. H.G. Evelyn-White)
 [^ep-ankled]: "mighty Heracles, the valiant son of neat-ankled Alcmena, when he had finished his grievous toils, made Hebe the child of great Zeus and gold-shod Hera his shy wife in snowy Olympus. Happy he! For he has finished his great works and lives amongst the undying gods, untroubled and unageing all his days." (Theogony 950-955)
-[^ep-renowned]: "nor when I loved the fair-tressed queen, Demeter, nor renowned Leto, nay, nor thy very self, as now I love thee, and sweet desire possesses me" (Iliad XIV.8510-8520, trans. Lang, Leaf, and Myers)
+[^ep-renowned]: "nor when I loved the fair-tressed queen, Demeter, nor renowned Leto, nay, nor thy very self, as now I love thee, and sweet desire possesses me" (Iliad 14.318-328, trans. Lang, Leaf, and Myers)
 
 ## Birth of Apollo and Artemis (Theogony)
 
@@ -64,13 +64,13 @@ In [Iliad](../sources/iliad.md) Book V, after [Apollo](apollo.md) shields Aeneas
 
 [Zeus](zeus.md) names Leto among his past loves when overcome by desire for [Hera](hera.md): "nor when I loved the fair-tressed queen, [Demeter](demeter.md), nor renowned Leto, nay, nor thy very self, as now I love thee, and sweet desire possesses me."[^il14-loves]
 
-[^il14-loves]: "nor when I loved the fair-tressed queen, Demeter, nor renowned Leto, nay, nor thy very self, as now I love thee, and sweet desire possesses me" (Iliad XIV.8510-8520, trans. Lang, Leaf, and Myers)
+[^il14-loves]: "nor when I loved the fair-tressed queen, Demeter, nor renowned Leto, nay, nor thy very self, as now I love thee, and sweet desire possesses me" (Iliad 14.318-328, trans. Lang, Leaf, and Myers)
 
 ### Patroklos's Dying Words (Book XVI)
 
 Patroklos acknowledges [Apollo](apollo.md) as his true slayer: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying."[^il16-dying]
 
-[^il16-dying]: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying" (Iliad XVI.9988)
+[^il16-dying]: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying" (Iliad 16.829)
 
 ### The Theomachy (Books XX-XXI)
 
@@ -88,7 +88,7 @@ In the same episode, [Hera](hera.md) beats [Artemis](artemis.md) with her own bo
 
 In Achilles' account of Niobe, her children were slain for rivalling Leto: "Apollo slew the sons with arrows from his silver bow, being angered with Niobe, and shaft-showering [Artemis](artemis.md) slew the daughters."[^il24-niobe] Niobe had "matched herself against Leto," claiming superiority in children.[^il24-matched]
 
-[^il24-niobe]: "Apollo slew the sons with arrows from his silver bow, being angered with Niobe, and shaft-showering Artemis slew the daughters" (Iliad XXIV.14189-14191)
+[^il24-niobe]: "Apollo slew the sons with arrows from his silver bow, being angered with Niobe, and shaft-showering Artemis slew the daughters" (Iliad 24.630-631)
 [^il24-matched]: Niobe matched herself against Leto (Iliad XXIV, trans. Lang, Leaf, and Myers)
 
 ## In the Bibliotheca

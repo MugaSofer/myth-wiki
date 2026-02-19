@@ -2,7 +2,7 @@
 
 > "Surely I take thought for all these things, my wife; but I have very sore shame of the Trojans and Trojan dames with trailing robes, if like a coward I shrink away from battle. Moreover mine own soul forbiddeth me, seeing I have learnt ever to be valiant and fight in the forefront of the Trojans, winning my father's great glory and mine own."[^epigraph]
 
-[^epigraph]: (Iliad VI.3875-3880, trans. Lang, Leaf, and Myers)
+[^epigraph]: (Iliad 6.441-446, trans. Lang, Leaf, and Myers)
 
 | | |
 |---|---|
@@ -25,12 +25,12 @@ Hector's most common Homeric epithet is **"of the glancing helm"** (or "glancing
 
 In the [Fabulae](../sources/hyginus.md), he is called **"the great illustrious Hector"** and is listed among those who killed enemy princes.[^hyg-great]
 
-[^il2-helm]: "great Hector of the glancing helm was leader, the son of Priam" (Iliad II.1542-1543, trans. Lang, Leaf, and Myers)
-[^il22-horse]: "for the life of horse-taming Hector was their race" (Iliad XXII.12437)
-[^il2-great]: "great Hector of the glancing helm" (Iliad II.1542)
-[^il7-peer]: "Hector son of Priam, peer of Zeus in counsel" (Iliad VII.4009)
-[^il22-enyalios]: "nigh on him came Achilles, peer of Enyalios warrior of the waving helm" (Iliad XXII.12412) — the epithet is used as Hector stands to face Achilles
-[^il22-god]: "night and day wert thou my boast through the city, and blessing to all, both men and women of Troy throughout the town, who hailed thee as a god" (Iliad XXII.12681-12683)
+[^il2-helm]: "great Hector of the glancing helm was leader, the son of Priam" (Iliad 2.797-798, trans. Lang, Leaf, and Myers)
+[^il22-horse]: "for the life of horse-taming Hector was their race" (Iliad 22.158)
+[^il2-great]: "great Hector of the glancing helm" (Iliad 2.797)
+[^il7-peer]: "Hector son of Priam, peer of Zeus in counsel" (Iliad 7.54)
+[^il22-enyalios]: "nigh on him came Achilles, peer of Enyalios warrior of the waving helm" (Iliad 22.130) — the epithet is used as Hector stands to face Achilles
+[^il22-god]: "night and day wert thou my boast through the city, and blessing to all, both men and women of Troy throughout the town, who hailed thee as a god" (Iliad 22.430-433)
 [^hyg-great]: "Aesacus was the brother of the great illustrious Hector" (Metamorphoses 11.760-761, trans. Brookes More)
 
 ## Appearance
@@ -43,11 +43,11 @@ After his death, the Greeks "gazed upon the stature and marvellous goodliness of
 
 When he donned the divine armour stripped from [Patroclus](patroclus.md), "the armour fitted itself unto Hector's body" and "in the flashing of his armour he seemed to all of them like unto Peleus' great-hearted son."[^il17-armour]
 
-[^il6-spear]: "his hand bare his spear, eleven cubits long: before his face glittered the bronze spear-point, and a ring of gold ran round about it" (Iliad VI.3761-3762)
-[^il6-shield]: "the black hide beat on either side against his ankles and his neck, even the rim that ran uttermost about his bossed shield" (Iliad VI.3568-3570)
-[^il6-crest]: "the child shrunk crying to the bosom of his fair-girdled nurse, dismayed at his dear father's aspect, and in dread at the bronze and horse-hair crest that he beheld nodding fiercely from the helmet's top" (Iliad VI.3899-3901)
-[^il22-goodliness]: "sons of Achaians ran up around, who gazed upon the stature and marvellous goodliness of Hector" (Iliad XXII.12626-12627)
-[^il17-armour]: "the armour fitted itself unto Hector's body, and Ares the dread war-god entered into him, and his limbs were filled within with valour and strength [...] in the flashing of his armour he seemed to all of them like unto Peleus' great-hearted son" (Iliad XVII.10120-10124)
+[^il6-spear]: "his hand bare his spear, eleven cubits long: before his face glittered the bronze spear-point, and a ring of gold ran round about it" (Iliad 6.322-323)
+[^il6-shield]: "the black hide beat on either side against his ankles and his neck, even the rim that ran uttermost about his bossed shield" (Iliad 6.119-122)
+[^il6-crest]: "the child shrunk crying to the bosom of his fair-girdled nurse, dismayed at his dear father's aspect, and in dread at the bronze and horse-hair crest that he beheld nodding fiercely from the helmet's top" (Iliad 6.466-468)
+[^il22-goodliness]: "sons of Achaians ran up around, who gazed upon the stature and marvellous goodliness of Hector" (Iliad 22.369-370)
+[^il17-armour]: "the armour fitted itself unto Hector's body, and Ares the dread war-god entered into him, and his limbs were filled within with valour and strength [...] in the flashing of his armour he seemed to all of them like unto Peleus' great-hearted son" (Iliad 17.187-194)
 
 ## In the Iliad
 
@@ -55,7 +55,7 @@ When he donned the divine armour stripped from [Patroclus](patroclus.md), "the a
 
 Hector led the Trojan forces throughout the war. In the Catalogue of Trojans, he is introduced as leader of the largest contingent: "Amid the Trojans great Hector of the glancing helm was leader, the son of Priam; with him the greatest hosts by far and the goodliest were arrayed, eager warriors of the spear."[^il2-leader]
 
-[^il2-leader]: "Amid the Trojans great Hector of the glancing helm was leader, the son of Priam; with him the greatest hosts by far and the goodliest were arrayed, eager warriors of the spear" (Iliad II.1542-1544)
+[^il2-leader]: "Amid the Trojans great Hector of the glancing helm was leader, the son of Priam; with him the greatest hosts by far and the goodliest were arrayed, eager warriors of the spear" (Iliad 2.797-799)
 
 ### Farewell to Andromache (Book VI)
 
@@ -65,16 +65,16 @@ He acknowledged Troy's coming destruction — "Yea of a surety I know this in he
 
 When their son Astyanax cried in fear at his helmet's crest, "his dear father laughed aloud, and his lady mother; forthwith glorious Hector took the helmet from his head, and laid it, all gleaming, upon the earth; then kissed he his dear son and dandled him in his arms."[^il6-child] He prayed that his son would surpass him: "Far greater is he than his father."[^il6-prayer]
 
-[^il6-shame]: "I have very sore shame of the Trojans and Trojan dames with trailing robes, if like a coward I shrink away from battle. Moreover mine own soul forbiddeth me, seeing I have learnt ever to be valiant and fight in the forefront of the Trojans" (Iliad VI.3877-3880)
-[^il6-anguish]: "Yea of a surety I know this in heart and soul; the day shall come for holy Ilios to be laid low, and Priam and the folk of Priam of the good ashen spear. Yet doth the anguish of the Trojans hereafter not so much trouble me [...] as doth thine anguish in the day when some mail-clad Achaian shall lead thee weeping and rob thee of the light of freedom" (Iliad VI.3881-3887)
-[^il6-child]: "his dear father laughed aloud, and his lady mother; forthwith glorious Hector took the helmet from his head, and laid it, all gleaming, upon the earth; then kissed he his dear son and dandled him in his arms" (Iliad VI.3902-3904)
-[^il6-prayer]: "O Zeus and all ye gods, vouchsafe ye that this my son may likewise prove even as I, pre-eminent amid the Trojans, and as valiant in might, and be a great king of Ilios. Then may men say of him, 'Far greater is he than his father' as he returneth home from battle" (Iliad VI.3905-3909)
+[^il6-shame]: "I have very sore shame of the Trojans and Trojan dames with trailing robes, if like a coward I shrink away from battle. Moreover mine own soul forbiddeth me, seeing I have learnt ever to be valiant and fight in the forefront of the Trojans" (Iliad 6.443-446)
+[^il6-anguish]: "Yea of a surety I know this in heart and soul; the day shall come for holy Ilios to be laid low, and Priam and the folk of Priam of the good ashen spear. Yet doth the anguish of the Trojans hereafter not so much trouble me [...] as doth thine anguish in the day when some mail-clad Achaian shall lead thee weeping and rob thee of the light of freedom" (Iliad 6.447-454)
+[^il6-child]: "his dear father laughed aloud, and his lady mother; forthwith glorious Hector took the helmet from his head, and laid it, all gleaming, upon the earth; then kissed he his dear son and dandled him in his arms" (Iliad 6.469-471)
+[^il6-prayer]: "O Zeus and all ye gods, vouchsafe ye that this my son may likewise prove even as I, pre-eminent amid the Trojans, and as valiant in might, and be a great king of Ilios. Then may men say of him, 'Far greater is he than his father' as he returneth home from battle" (Iliad 6.472-477)
 
 ### Duel with Ajax (Book VII)
 
 Hector challenged the bravest Greek to single combat. The lot fell on [Ajax](ajax.md), and the two fought until nightfall, when heralds parted them. They exchanged gifts: Hector gave Ajax a silver-studded sword, and Ajax gave Hector a purple war-belt.[^il7-duel]
 
-[^il7-duel]: "Hector of the glancing helm soon find his combat [...] the lot fell on Ajax" (Iliad VII.4104, cf. 4176-4230)
+[^il7-duel]: "Hector of the glancing helm soon find his combat [...] the lot fell on Ajax" (Iliad 7.156, cf. 4176-4230)
 
 ### Assault on the Ships (Books XII-XVI)
 
@@ -82,15 +82,15 @@ Hector breached the Greek wall through a feat of divinely-aided strength. He lif
 
 He drove the fighting to the ships themselves, setting fire to the ship of Protesilaus, forcing [Achilles](achilles.md) to send [Patroclus](patroclus.md) out in his armour.[^il-assault] Hector slew Patroclus — who had first been wounded by Euphorbus and struck by [Apollo](../deities/apollo.md) — and stripped the divine armour from his body.[^il16-patslain]
 
-[^il12-gate]: "a stone that not the two best men of the people, such as mortals now are, could lightly lift from the ground on to a wain, but easily he wielded it alone, for the son of crooked-counselling Kronos made it light for him... Then glorious Hector leaped in, with face like the sudden night, shining in wondrous mail that was clad about his body, and with two spears in his hands. No man that met him could have held him back when once he leaped within the gates: none but the gods, and his eyes shone with fire" (Iliad XII.7370-7387)
+[^il12-gate]: "a stone that not the two best men of the people, such as mortals now are, could lightly lift from the ground on to a wain, but easily he wielded it alone, for the son of crooked-counselling Kronos made it light for him... Then glorious Hector leaped in, with face like the sudden night, shining in wondrous mail that was clad about his body, and with two spears in his hands. No man that met him could have held him back when once he leaped within the gates: none but the gods, and his eyes shone with fire" (Iliad 12.443-461)
 [^il-assault]: "Hector made a breach in the wall and entered and, Ajax having retreated, he set fire to the ships" (Epitome 4.5)
-[^il16-patslain]: "Hector, when he had stripped from Patroklos his noble armour, was dragging him thence that he might cut off the head from the shoulders with the keen bronze" (Iliad XVII.10083-10085)
+[^il16-patslain]: "Hector, when he had stripped from Patroklos his noble armour, was dragging him thence that he might cut off the head from the shoulders with the keen bronze" (Iliad 17.122-125)
 
 ### Donning Achilles' Armour (Book XVII)
 
 After stripping [Patroclus](patroclus.md), Hector put on the divine armour of [Achilles](achilles.md). [Zeus](../deities/zeus.md), watching from above, pitied him: "Ah, hapless man, no thought is in thy heart of death that yet draweth nigh unto thee; thou doest on thee the divine armour of a peerless man before whom the rest have terror." Zeus granted him temporary might — "for a while at least I will give into thy hands great might" — but decreed he would never return home.[^il17-zeus]
 
-[^il17-zeus]: "Ah, hapless man, no thought is in thy heart of death that yet draweth nigh unto thee; thou doest on thee the divine armour of a peerless man before whom the rest have terror. His comrade, gentle and brave, thou hast slain, and unmeetly hast stripped the armour from his head and shoulders; yet now for a while at least I will give into thy hands great might, in recompense for this, even that nowise shalt thou come home out of the battle, for Andromache to receive from thee Peleides' glorious arms" (Iliad XVII.10109-10116)
+[^il17-zeus]: "Ah, hapless man, no thought is in thy heart of death that yet draweth nigh unto thee; thou doest on thee the divine armour of a peerless man before whom the rest have terror. His comrade, gentle and brave, thou hast slain, and unmeetly hast stripped the armour from his head and shoulders; yet now for a while at least I will give into thy hands great might, in recompense for this, even that nowise shalt thou come home out of the battle, for Andromache to receive from thee Peleides' glorious arms" (Iliad 17.168-180)
 
 ### Death at the Hands of Achilles (Book XXII)
 
@@ -102,13 +102,13 @@ Their spears missed — Hector's bounced off Achilles' shield, and Athena return
 
 Drawing his sword, he charged, but Achilles drove his spear through the gap at Hector's throat, "yet the bronze-weighted ashen spear clave not the windpipe, so that he might yet speak words of answer to his foe."[^il22-death] Dying, Hector begged Achilles to return his body; Achilles refused. With his last words, Hector prophesied Achilles' own death: "Take heed now lest I draw upon thee wrath of gods, in the day when Paris and Phoebus Apollo slay thee, for all thy valour, at the Skaian gate."[^il22-prophecy]
 
-[^il22-flight]: "trembling seized Hector as he was aware of him, nor endured he to abide in his place, but left the gates behind him and fled in fear" (Iliad XXII.12416-12418)
-[^il22-scales]: "two lots of dreary death, one of Achilles, one of horse-taming Hector, and held them by the midst and poised. Then Hector's fated day sank down, and fell to the house of Hades, and Phoebus Apollo left him" (Iliad XXII.12480-12482)
-[^il22-covenant]: "As between men and lions there is no pledge of faith, nor wolves and sheep can be of one mind, but imagine evil continually against each other, so is it impossible for thee and me to be friends" (Iliad XXII.12527-12530)
-[^il22-realise]: "Ay me, now verily the gods have summoned me to death. I deemed the warrior Deiphobos was by my side, but he is within the wall, and it was Athene who played me false" (Iliad XXII.12561-12563)
-[^il22-resolve]: "At least let me not die without a struggle or ingloriously, but in some great deed of arms whereof men yet to be born shall hear" (Iliad XXII.12567-12568)
-[^il22-death]: "right through the tender neck went the point. Yet the bronze-weighted ashen spear clave not the windpipe, so that he might yet speak words of answer to his foe" (Iliad XXII.12586-12589)
-[^il22-prophecy]: "Take heed now lest I draw upon thee wrath of gods, in the day when Paris and Phoebus Apollo slay thee, for all thy valour, at the Skaian gate" (Iliad XXII.12614-12616)
+[^il22-flight]: "trembling seized Hector as he was aware of him, nor endured he to abide in his place, but left the gates behind him and fled in fear" (Iliad 22.135-137)
+[^il22-scales]: "two lots of dreary death, one of Achilles, one of horse-taming Hector, and held them by the midst and poised. Then Hector's fated day sank down, and fell to the house of Hades, and Phoebus Apollo left him" (Iliad 22.206-208)
+[^il22-covenant]: "As between men and lions there is no pledge of faith, nor wolves and sheep can be of one mind, but imagine evil continually against each other, so is it impossible for thee and me to be friends" (Iliad 22.259-262)
+[^il22-realise]: "Ay me, now verily the gods have summoned me to death. I deemed the warrior Deiphobos was by my side, but he is within the wall, and it was Athene who played me false" (Iliad 22.297-299)
+[^il22-resolve]: "At least let me not die without a struggle or ingloriously, but in some great deed of arms whereof men yet to be born shall hear" (Iliad 22.303-304)
+[^il22-death]: "right through the tender neck went the point. Yet the bronze-weighted ashen spear clave not the windpipe, so that he might yet speak words of answer to his foe" (Iliad 22.324-328)
+[^il22-prophecy]: "Take heed now lest I draw upon thee wrath of gods, in the day when Paris and Phoebus Apollo slay thee, for all thy valour, at the Skaian gate" (Iliad 22.356-358)
 
 ### Desecration and Ransom (Books XXII-XXIV)
 
@@ -116,8 +116,8 @@ Achilles bound Hector's body to his chariot: "The tendons of both feet behind he
 
 In Book XXIV, [Zeus](../deities/zeus.md) commanded that Hector's body be returned, and [Priam](priam.md) journeyed to the Greek camp guided by [Hermes](../deities/hermes.md). Achilles accepted ransom and returned the body. The Trojans mourned and buried Hector.[^il24-ransom]
 
-[^il22-drag]: "The tendons of both feet behind he slit from heel to ankle-joint, and thrust therethrough thongs of ox-hide, and bound him to his chariot, leaving his head to trail" (Iliad XXII.12649-12651)
-[^il24-apollo]: "Apollo kept away all defacement from his flesh, for he had pity on him even in death, and covered him all with his golden aegis, that Achilles might not tear him when he dragged him" (Iliad XXIV.13517-13519)
+[^il22-drag]: "The tendons of both feet behind he slit from heel to ankle-joint, and thrust therethrough thongs of ox-hide, and bound him to his chariot, leaving his head to trail" (Iliad 22.395-397)
+[^il24-apollo]: "Apollo kept away all defacement from his flesh, for he had pity on him even in death, and covered him all with his golden aegis, that Achilles might not tear him when he dragged him" (Iliad 24.19-21)
 [^il24-ransom]: "Priam came to Achilles and ransomed the body of Hector, and buried it" (Epitome 4.7)
 
 ## In the Bibliotheca

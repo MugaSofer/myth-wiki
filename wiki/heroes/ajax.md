@@ -16,8 +16,8 @@
 - **"bulwark of the Achaians"** — used repeatedly in the [Iliad](../sources/iliad.md)[^il7-bulwark]
 - **"Aias of the seed of Zeus, son of Telamon, chieftain of the host"** — [Hector](hector.md)'s address to him before their duel[^il7-seed]
 
-[^il7-bulwark]: "So rose up huge Aias, bulwark of the Achaians, with a smile on his grim face" (Iliad VII.4157, trans. Lang, Leaf, and Myers); also at III.1845, VIII.3467
-[^il7-seed]: "Aias of the seed of Zeus, son of Telamon, chieftain of the host, tempt not thou me like some puny boy or woman" (Iliad VII.4176-4177)
+[^il7-bulwark]: "So rose up huge Aias, bulwark of the Achaians, with a smile on his grim face" (Iliad 7.213, trans. Lang, Leaf, and Myers); also at III.1845, VIII.3467
+[^il7-seed]: "Aias of the seed of Zeus, son of Telamon, chieftain of the host, tempt not thou me like some puny boy or woman" (Iliad 7.233-235)
 
 ## Appearance
 
@@ -25,8 +25,8 @@ The [Iliad](../sources/iliad.md) emphasises Ajax's immense physical presence. Wh
 
 When defending the ships, he strides across the decks leaping from ship to ship: "even as a man right well skilled in horsemanship that couples four horses out of many... firmly ever he leaps, and changes his stand from horse to horse, while they fly along, even so Aias went with long strides, over many a deck of the swift ships, and his voice went up unto heaven."[^il15-leap]
 
-[^il7-stride]: "Aias came near bearing his tower-like shield of bronze... And he went with long strides of his feet beneath him, shaking his far-shadowing spear. Then moreover the Argives rejoiced to look upon him, but sore trembling came upon the Trojans" (Iliad VII.4157-4161)
-[^il15-leap]: "even as a man right well skilled in horsemanship that couples four horses out of many... firmly ever he leaps, and changes his stand from horse to horse, while they fly along, even so Aias went with long strides, over many a deck of the swift ships, and his voice went up unto heaven" (Iliad XV.9361-9367)
+[^il7-stride]: "Aias came near bearing his tower-like shield of bronze... And he went with long strides of his feet beneath him, shaking his far-shadowing spear. Then moreover the Argives rejoiced to look upon him, but sore trembling came upon the Trojans" (Iliad 7.213-217)
+[^il15-leap]: "even as a man right well skilled in horsemanship that couples four horses out of many... firmly ever he leaps, and changes his stand from horse to horse, while they fly along, even so Aias went with long strides, over many a deck of the swift ships, and his voice went up unto heaven" (Iliad 15.678-684)
 
 ## Equipment
 
@@ -38,9 +38,9 @@ Ajax's most distinctive piece of equipment is his "tower-like shield of bronze, 
 
 When defending the ships against the Trojans' assault, Ajax "wielded in his hands a great pike for sea-battles, jointed with rings, two and twenty cubits in length."[^il15-pike]
 
-[^il7-shield]: "Aias came near bearing his tower-like shield of bronze, with sevenfold ox-hide, that Tychios had wrought him cunningly; Tychios far best of curriers, that had his home in Hyle, who made him his glancing shield, of sevenfold hides of stalwart bulls, and overlaid the seven with bronze" (Iliad VII.4163-4167)
-[^il7-six]: "Through six folds went the stubborn bronze cleaving, but in the seventh hide it stayed" (Iliad VII.4188-4189)
-[^il15-pike]: "he wielded in his hands a great pike for sea-battles, jointed with rings, two and twenty cubits in length" (Iliad XV.9360-9361)
+[^il7-shield]: "Aias came near bearing his tower-like shield of bronze, with sevenfold ox-hide, that Tychios had wrought him cunningly; Tychios far best of curriers, that had his home in Hyle, who made him his glancing shield, of sevenfold hides of stalwart bulls, and overlaid the seven with bronze" (Iliad 7.219-224)
+[^il7-six]: "Through six folds went the stubborn bronze cleaving, but in the seventh hide it stayed" (Iliad 7.246-247)
+[^il15-pike]: "he wielded in his hands a great pike for sea-battles, jointed with rings, two and twenty cubits in length" (Iliad 15.676-678)
 
 ## In the Iliad
 
@@ -52,8 +52,8 @@ When defending the ships against the Trojans' assault, Ajax "wielded in his hand
 
 After Hector's spear failed to pierce Ajax's double belt, "the great Telamonian Aias smote him with a huge stone; for many stones, the props of swift ships, were rolled among the feet of the fighters; one of these he lifted, and smote Hector on the breast, over the shield-rim, near the neck, and made him spin like a top with the blow, that he reeled round and round." Hector fell "even as when an oak falls uprooted beneath the stroke of father Zeus," and had to be carried from the field by his comrades.[^il14-stone]
 
-[^il13-idomeneus]: "not to a man would he yield, the great Telamonian Aias, to a man that is mortal and eateth Demeter's grain, and may be cloven with the sword of bronze, and with hurling of great stones. Nay, not even to Achilles the breaker of the ranks of men would he give way, not in close fight; but for speed of foot none may in any wise strive with Achilles" (Iliad XIII.7711-7715, trans. Lang, Leaf, and Myers)
-[^il14-stone]: "the great Telamonian Aias smote him with a huge stone; for many stones, the props of swift ships, were rolled among the feet of the fighters; one of these he lifted, and smote Hector on the breast, over the shield-rim, near the neck, and made him spin like a top with the blow, that he reeled round and round. And even as when an oak falls uprooted beneath the stroke of father Zeus... even so fell mighty Hector straightway in the dust" (Iliad XIV.8597-8607)
+[^il13-idomeneus]: "not to a man would he yield, the great Telamonian Aias, to a man that is mortal and eateth Demeter's grain, and may be cloven with the sword of bronze, and with hurling of great stones. Nay, not even to Achilles the breaker of the ranks of men would he give way, not in close fight; but for speed of foot none may in any wise strive with Achilles" (Iliad 13.327-331, trans. Lang, Leaf, and Myers)
+[^il14-stone]: "the great Telamonian Aias smote him with a huge stone; for many stones, the props of swift ships, were rolled among the feet of the fighters; one of these he lifted, and smote Hector on the breast, over the shield-rim, near the neck, and made him spin like a top with the blow, that he reeled round and round. And even as when an oak falls uprooted beneath the stroke of father Zeus... even so fell mighty Hector straightway in the dust" (Iliad 14.407-418)
 
 ## In the Bibliotheca
 

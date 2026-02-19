@@ -37,7 +37,7 @@ The [Odyssey](../sources/odyssey.md) describes Athena returning to Athens after 
 
 [Erichthonius](../heroes/erichthonius.md) "set up the wooden image of [Athena](../deities/athena.md) in the acropolis, and instituted the festival of the Panathenaea."[^apd-panathenaea]
 
-[^od-erechtheus]: "grey-eyed Athene departed over the unharvested seas, and left pleasant Scheria, and came to Marathon and wide-wayed Athens, and entered the good house of Erechtheus" (Odyssey VII.3882-3884, trans. Butcher and Lang)
+[^od-erechtheus]: "grey-eyed Athene departed over the unharvested seas, and left pleasant Scheria, and came to Marathon and wide-wayed Athens, and entered the good house of Erechtheus" (Odyssey 7.86-88, trans. Butcher and Lang)
 [^apd-panathenaea]: "Erichthonius expelled Amphictyon and became king of Athens; and he set up the wooden image of Athena in the acropolis, and instituted the festival of the Panathenaea" (Bibliotheca 3.14.6)
 
 ## Kings of Athens

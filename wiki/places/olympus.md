@@ -21,7 +21,7 @@ The [Muses](../deities/muses.md) gladden [Zeus](../deities/zeus.md) in Olympus w
 
 In the [Odyssey](../sources/odyssey.md), the poet gives the most famous description of Olympus as a place beyond weather and mortal conditions: "where, as they say, is the seat of the gods that standeth fast for ever. Not by winds is it shaken, nor ever wet with rain, nor doth the snow come nigh thereto, but most clear air is spread about it cloudless, and the white light floats over it. Therein the blessed gods are glad for all their days."[^od6-olympus]
 
-[^od6-olympus]: "where, as they say, is the seat of the gods that standeth fast for ever. Not by winds is it shaken, nor ever wet with rain, nor doth the snow come nigh thereto, but most clear air is spread about it cloudless, and the white light floats over it. Therein the blessed gods are glad for all their days" (Odyssey VI.3520-3525, trans. Butcher and Lang)
+[^od6-olympus]: "where, as they say, is the seat of the gods that standeth fast for ever. Not by winds is it shaken, nor ever wet with rain, nor doth the snow come nigh thereto, but most clear air is spread about it cloudless, and the white light floats over it. Therein the blessed gods are glad for all their days" (Odyssey 6.51-56, trans. Butcher and Lang)
 
 ## Appearances
 

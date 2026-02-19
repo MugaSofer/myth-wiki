@@ -37,7 +37,7 @@ In [Iliad](../sources/iliad.md) Book I, Achilles recounts how [Thetis](../deitie
 
 This passage introduces the **variant name Aigaion** (used by mortals), and describes Briareus as "mightier even than his father" — a detail not found in the [Theogony](../sources/theogony.md).
 
-[^il1-briareus]: "having with speed summoned to high Olympus him of the hundred arms whom gods call Briareus, but all men call Aigaion; for he is mightier even than his father—so he sate him by Kronion's side rejoicing in his triumph, and the blessed gods feared him withal and bound not Zeus" (Iliad I.570-573, trans. Lang, Leaf, and Myers)
+[^il1-briareus]: "having with speed summoned to high Olympus him of the hundred arms whom gods call Briareus, but all men call Aigaion; for he is mightier even than his father—so he sate him by Kronion's side rejoicing in his triumph, and the blessed gods feared him withal and bound not Zeus" (Iliad 1.395-398, trans. Lang, Leaf, and Myers)
 
 ## In the Bibliotheca
 

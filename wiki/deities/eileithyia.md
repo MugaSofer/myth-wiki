@@ -35,7 +35,7 @@ In [Iliad](../sources/iliad.md) Book XI, when Agamemnon is wounded, his pain is 
 
 This passage uses the plural form, treating the Eilithyiai as multiple birth-goddesses rather than a single deity.
 
-[^il11-eilithyiai]: "even as when the keen shaft cometh upon a woman in her travail, the piercing shaft that the goddesses of the birth-pangs send, even the Eilithyiai, the daughters of Hera that have bitter pangs in their gift" (Iliad XI.6411-6413, trans. Lang, Leaf, and Myers)
+[^il11-eilithyiai]: "even as when the keen shaft cometh upon a woman in her travail, the piercing shaft that the goddesses of the birth-pangs send, even the Eilithyiai, the daughters of Hera that have bitter pangs in their gift" (Iliad 11.269-272, trans. Lang, Leaf, and Myers)
 
 ### Delaying Heracles' Birth (Book XIX)
 

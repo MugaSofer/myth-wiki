@@ -18,7 +18,7 @@ When [Hera](../deities/hera.md) asks for it, she frames her request in terms of 
 
 The girdle proves devastatingly effective. Zeus is overcome with desire for Hera and falls asleep, allowing [Poseidon](../deities/poseidon.md) to aid the Greeks while Zeus's attention is diverted.
 
-[^il14-girdle]: "from her breast she loosed the broidered girdle, fair-wrought, wherein are all her enchantments; therein are love, and desire, and loving converse, that steals the wits even of the wise" (Iliad XIV.8411-8413, trans. Lang, Leaf, and Myers)
+[^il14-girdle]: "from her breast she loosed the broidered girdle, fair-wrought, wherein are all her enchantments; therein are love, and desire, and loving converse, that steals the wits even of the wise" (Iliad 14.216-218, trans. Lang, Leaf, and Myers)
 [^il14-request]: "Give me now Love and Desire wherewith thou dost overcome all the Immortals, and mortal men" (Iliad XIV, trans. Lang, Leaf, and Myers)
 [^il14-gift]: "Take now this girdle and lay it up in thy bosom, this broidered girdle wherein all my enchantments are" (Iliad XIV, trans. Lang, Leaf, and Myers)
 

@@ -65,7 +65,7 @@ In [Iliad](../sources/iliad.md) Book XIV, Sleep recalls that when [Zeus](zeus.md
 
 This is a remarkable claim: even Zeus, who asserts absolute supremacy over all other gods, will not challenge Night. Sleep is called "the brother of Death" — both children of Night in the [Theogony](../sources/theogony.md).
 
-[^il14-night]: "Night, that subdues both gods and men. To her I came as a suppliant in my flight, and he ceased from pursuing, wrathful as he was, for he was in awe of doing aught displeasing to swift Night" (Iliad XIV.8452-8454, trans. Lang, Leaf, and Myers)
+[^il14-night]: "Night, that subdues both gods and men. To her I came as a suppliant in my flight, and he ceased from pursuing, wrathful as he was, for he was in awe of doing aught displeasing to swift Night" (Iliad 14.258-260, trans. Lang, Leaf, and Myers)
 
 ### Sleep and Death as Twin Convoy (Book XVI)
 
@@ -73,8 +73,8 @@ This is a remarkable claim: even Zeus, who asserts absolute supremacy over all o
 
 Sleep and Death are children of Night in the [Theogony](../sources/theogony.md) (line 212). The Iliad here calls them "the twin brethren" — the only source so far to describe them acting together in a specific task.
 
-[^il16-twins]: "send him to be wafted by fleet convoy, by the twin brethren Sleep and Death, that quickly will set him in the rich land of wide Lykia" (Iliad XVI.9834-9837, trans. Lang, Leaf, and Myers)
-[^il16-twins-do]: "sent him to be wafted by fleet convoy, the twin brethren Sleep and Death, that swiftly set him down in the rich land of wide Lykia" (Iliad XVI.9843-9845)
+[^il16-twins]: "send him to be wafted by fleet convoy, by the twin brethren Sleep and Death, that quickly will set him in the rich land of wide Lykia" (Iliad 16.601-606, trans. Lang, Leaf, and Myers)
+[^il16-twins-do]: "sent him to be wafted by fleet convoy, the twin brethren Sleep and Death, that swiftly set him down in the rich land of wide Lykia" (Iliad 16.614-617)
 
 ## Appearances
 

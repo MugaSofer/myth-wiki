@@ -64,8 +64,8 @@ The [Theogony](../sources/theogony.md) establishes the lineage: "Perseis, the da
 [^apoll-flight]: "Medea brought Jason by night to the fleece, and having lulled to sleep by her drugs the dragon that guarded it, she possessed herself of the fleece and in Jason's company came to the Argo." (Bibliotheca 1.9.23, trans. Frazer)
 [^apoll-pursuit]: "Gathering the child's limbs, Aeetes fell behind in the pursuit; wherefore he turned back, and, having buried the rescued limbs of his child, he called the place Tomi." (Bibliotheca 1.9.24, trans. Frazer)
 [^apoll-search]: "he sent out many of the Colchians to search for the Argo, threatening that, if they did not bring Medea to him, they should suffer the punishment due to her" (Bibliotheca 1.9.24, trans. Frazer)
-[^od-aeetes]: "Circe of the braided tresses, an awful goddess of mortal speech, own sister to the wizard Aeetes." (Odyssey X.5448-5449, trans. Butcher and Lang)
-[^od-argo]: "the Argo, that is in all men's minds, on her voyage from Aeetes." (Odyssey XII.6598, trans. Butcher and Lang)
+[^od-aeetes]: "Circe of the braided tresses, an awful goddess of mortal speech, own sister to the wizard Aeetes." (Odyssey 10.138-139, trans. Butcher and Lang)
+[^od-argo]: "the Argo, that is in all men's minds, on her voyage from Aeetes." (Odyssey 12.73, trans. Butcher and Lang)
 [^theog-aeetes]: "Perseis, the daughter of Ocean, bare to unwearying Helios Circe and Aeetes the king. And Aeetes, the son of Helios who shows light to men, took to wife fair-cheeked Idyia, daughter of Ocean the perfect stream, by the will of the gods: and she was subject to him in love through golden Aphrodite and bare him neat-ankled Medea." (Theogony 956-962, trans. H.G. Evelyn-White)
 
 ## Appearances

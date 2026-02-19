@@ -29,8 +29,8 @@ In the same book, Meleager's mother Althaia invokes them: "with her hands likewi
 
 The description "Erinnys that walketh in darkness, whose heart knoweth not ruth" is the most vivid characterization of them in any source processed so far.
 
-[^il9-phoenix]: "he was sore angered with me... and called the dire Erinyes to look that never should any dear son sprung of my body sit upon my knees: and the gods fulfilled his curse, even Zeus of the underworld and dread Persephone" (Iliad IX.5338-5341, trans. Lang, Leaf, and Myers)
-[^il9-althaia]: "she, grieved for her brethren's death, prayed instantly to the gods, and with her hands likewise beat instantly upon the fertile earth, calling on Hades and dread Persephone, while she knelt upon her knees and made her bosom wet with tears, to bring her son to death; and Erinnys that walketh in darkness, whose heart knoweth not ruth, heard her from Erebos" (Iliad IX.5429-5434)
+[^il9-phoenix]: "he was sore angered with me... and called the dire Erinyes to look that never should any dear son sprung of my body sit upon my knees: and the gods fulfilled his curse, even Zeus of the underworld and dread Persephone" (Iliad 9.447-450, trans. Lang, Leaf, and Myers)
+[^il9-althaia]: "she, grieved for her brethren's death, prayed instantly to the gods, and with her hands likewise beat instantly upon the fertile earth, calling on Hades and dread Persephone, while she knelt upon her knees and made her bosom wet with tears, to bring her son to death; and Erinnys that walketh in darkness, whose heart knoweth not ruth, heard her from Erebos" (Iliad 9.550-555)
 
 ### Triple Role (Book XIX)
 
@@ -42,9 +42,9 @@ In [Iliad](../sources/iliad.md) Book XIX, the Erinyes appear in three distinct r
 
 3. **As guardians of natural order**: When Achilles' horse Xanthos prophesies his death (given speech by [Hera](../deities/hera.md)), "the Erinyes stayed his voice" — enforcing the boundary between animal and human speech.[^il19-voice]
 
-[^il19-madness]: "Zeus and Destiny and Erinys that walketh in the darkness, who put into my soul fierce madness on the day when in the assembly I, even I, bereft Achilles of his meed. What could I do? it is God who accomplisheth all" (Iliad XIX.10997-11000, trans. Lang, Leaf, and Myers)
-[^il19-oath]: "Be Zeus before all witness, highest and best of the gods, and Earth, and Sun, and Erinyes, who under earth take vengeance upon men, whosoever forsweareth himself" (Iliad XIX.11140-11142)
-[^il19-voice]: "Now when he had thus spoken the Erinyes stayed his voice" (Iliad XIX.11280)
+[^il19-madness]: "Zeus and Destiny and Erinys that walketh in the darkness, who put into my soul fierce madness on the day when in the assembly I, even I, bereft Achilles of his meed. What could I do? it is God who accomplisheth all" (Iliad 19.95-99, trans. Lang, Leaf, and Myers)
+[^il19-oath]: "Be Zeus before all witness, highest and best of the gods, and Earth, and Sun, and Erinyes, who under earth take vengeance upon men, whosoever forsweareth himself" (Iliad 19.254-256)
+[^il19-voice]: "Now when he had thus spoken the Erinyes stayed his voice" (Iliad 19.410)
 
 ## In the Odyssey
 
@@ -52,7 +52,7 @@ In [Iliad](../sources/iliad.md) Book XIX, the Erinyes appear in three distinct r
 
 In [Odyssey](../sources/odyssey.md) Book XV, within the Melampus digression, the Erinnys appears in singular form: Melampus was "suffering strong pains for the sake of the daughter of Neleus, and for the dread blindness of soul which the goddess, the Erinnys of the dolorous stroke, had laid on him."[^od15-melampus] The epithet "the Erinnys of the dolorous stroke" is notable — it uses the singular form, treating the Erinnys as a single goddess rather than a collective, and the phrase "of the dolorous stroke" adds a distinct characterisation alongside the Iliad's "that walketh in darkness, whose heart knoweth not ruth."
 
-[^od15-melampus]: "suffering strong pains for the sake of the daughter of Neleus, and for the dread blindness of soul which the goddess, the Erinnys of the dolorous stroke, had laid on him" (Odyssey XV.8198-8199, trans. Butcher and Lang)
+[^od15-melampus]: "suffering strong pains for the sake of the daughter of Neleus, and for the dread blindness of soul which the goddess, the Erinnys of the dolorous stroke, had laid on him" (Odyssey 15.244-245, trans. Butcher and Lang)
 
 ### The Daughters of Pandareus (Book XX)
 
@@ -60,7 +60,7 @@ In [Odyssey](../sources/odyssey.md) Book XX, Penelope tells the myth of the daug
 
 The passage is striking because the Erinyes receive the maidens as a kind of cosmic payment — despite the girls' innocence and the gods' own gifts. The storm spirits act as intermediaries, delivering the daughters not to death but to servitude under the Erinyes.
 
-[^od20-pandareus]: "the spirits of the storm snatched away these maidens, and gave them to be handmaids to the hateful Erinyes" (Odyssey 10830-10831, trans. Butcher and Lang)
+[^od20-pandareus]: "the spirits of the storm snatched away these maidens, and gave them to be handmaids to the hateful Erinyes" (Odyssey 20.74, trans. Butcher and Lang)
 
 ## In the Bibliotheca
 
@@ -84,4 +84,4 @@ This is the first source to give the Erinyes their individual names. The [Theogo
 - **[Bibliotheca](../sources/apollodorus.md)** 1.1.4: Named individually for the first time — Alecto, Tisiphone, and Megaera; born from the blood of [Uranus](../deities/uranus.md)'s castration
 
 [^theb-curse]: "great misery fell on his heart, and he straight-way called down bitter curses there in the presence of both his sons. And the avenging Fury of the gods failed not to hear him as he prayed that they might never divide their father's goods in loving brotherhood, but that war and fighting might be ever the portion of them both" (Thebaid, Fragment 2, trans. H.G. Evelyn-White)
-[^od11-epicaste]: "she left pains behind full many, even all that the Avengers of a mother bring to pass" (Odyssey XI.6162-6163, trans. Butcher and Lang)
+[^od11-epicaste]: "she left pains behind full many, even all that the Avengers of a mother bring to pass" (Odyssey 11.272-273, trans. Butcher and Lang)

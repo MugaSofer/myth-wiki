@@ -99,7 +99,7 @@ The [Odyssey](../sources/odyssey.md) refers to the Argo as a ship known to all: 
 
 This passage places the Argo's voyage in the narrative past of the Homeric world and confirms [Hera](../deities/hera.md)'s patronage of the expedition.
 
-[^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason" (Odyssey XII.6597-6600, trans. Butcher and Lang)
+[^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason" (Odyssey 12.72-75, trans. Butcher and Lang)
 
 ## Prophecy of Jason's Death
 

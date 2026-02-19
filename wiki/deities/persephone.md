@@ -75,10 +75,10 @@ After her return, [Hecate](hecate.md) "often did she embrace the daughter of hol
 
 Persephone plays a major role in Book XI of the [Odyssey](../sources/odyssey.md), the Nekuia (descent to Hades). Teiresias retains his judgment "even in death" because "Persephone hath given judgment" to him alone.[^od10-teiresias] Anticleia explains the nature of death to Odysseus, assuring him that "Persephone, the daughter of Zeus, doth in no wise deceive thee."[^od11-anticleia] As queen of the dead, "holy Persephone had scattered this way and that the spirits of the women folk" — she is "the high goddess Persephone" who sends forth the catalogue of heroines.[^od11-catalogue] As Odysseus lingers, he fears she may "send me the head of the Gorgon, that dread monster, from out of Hades."[^od11-gorgon]
 
-[^od10-teiresias]: "Persephone hath given judgment" (Odyssey XI.5812-5813, trans. Butcher and Lang)
-[^od11-anticleia]: "Persephone, the daughter of Zeus, doth in no wise deceive thee" (Odyssey XI.6102, trans. Butcher and Lang)
-[^od11-catalogue]: "holy Persephone had scattered this way and that the spirits of the women folk" (Odyssey XI.6267, trans. Butcher and Lang)
-[^od11-gorgon]: "send me the head of the Gorgon, that dread monster, from out of Hades" (Odyssey XI.6515, trans. Butcher and Lang)
+[^od10-teiresias]: "Persephone hath given judgment" (Odyssey 10.495-496, trans. Butcher and Lang)
+[^od11-anticleia]: "Persephone, the daughter of Zeus, doth in no wise deceive thee" (Odyssey 11.212, trans. Butcher and Lang)
+[^od11-catalogue]: "holy Persephone had scattered this way and that the spirits of the women folk" (Odyssey 11.379, trans. Butcher and Lang)
+[^od11-gorgon]: "send me the head of the Gorgon, that dread monster, from out of Hades" (Odyssey 11.630, trans. Butcher and Lang)
 
 ## In the Bibliotheca (1.5.1-1.5.3)
 

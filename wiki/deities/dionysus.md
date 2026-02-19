@@ -180,8 +180,8 @@ The gods punished Lykurgos: "with Lykurgos the gods that live at ease were wroth
 
 This passage is notable for showing Dionysus in fear and flight — "affrighted" and "a mighty trembling" — and for his description as "frenzied Dionysos" whose followers are "nursing-mothers" carrying wands.
 
-[^il6-lykurgos]: "he that erst chased through the goodly land of Nysa the nursing-mothers of frenzied Dionysos; and they all cast their wands upon the ground, smitten with murderous Lykurgos' ox-goad. Then Dionysos fled and plunged beneath the salt sea-wave, and Thetis took him to her bosom, affrighted, for a mighty trembling had seized him at his foe's rebuke" (Iliad VI.3581-3586, trans. Lang, Leaf, and Myers)
-[^il6-punishment]: "with Lykurgos the gods that live at ease were wroth, and Kronos' son made him blind, and he was not for long, because he was hated of all the immortal gods" (Iliad VI.3586-3588)
+[^il6-lykurgos]: "he that erst chased through the goodly land of Nysa the nursing-mothers of frenzied Dionysos; and they all cast their wands upon the ground, smitten with murderous Lykurgos' ox-goad. Then Dionysos fled and plunged beneath the salt sea-wave, and Thetis took him to her bosom, affrighted, for a mighty trembling had seized him at his foe's rebuke" (Iliad 6.133-138, trans. Lang, Leaf, and Myers)
+[^il6-punishment]: "with Lykurgos the gods that live at ease were wroth, and Kronos' son made him blind, and he was not for long, because he was hated of all the immortal gods" (Iliad 6.138-140)
 
 ## In the Bibliotheca (1.6.2)
 
@@ -380,6 +380,6 @@ The Chorus reports that the drums used in Dionysus's worship were originally "th
 [^apd-argos]: "when Dionysus drove the women of Argos mad, he healed them on condition of receiving part of the kingdom" (Bibliotheca 1.9.12, trans. Frazer)
 [^apd-argonauts-dion]: "Phanus and Staphylus, sons of Dionysus" (Bibliotheca 1.9.16, trans. Frazer)
 
-[^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey XXIV.12627-12629, trans. Butcher and Lang)
+[^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey 24.81-83, trans. Butcher and Lang)
 
-[^od11-ariadne]: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" (Odyssey XI.6208, trans. Butcher and Lang)
+[^od11-ariadne]: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" (Odyssey 11.319, trans. Butcher and Lang)

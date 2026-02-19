@@ -138,7 +138,7 @@ Acastus buried his father and expelled Jason and Medea from Iolcus. They went to
 
 [Hera](../deities/hera.md) is said to have sent the Argo past the Wandering Rocks "for love of Jason."[^od12-argo]
 
-[^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason." (Odyssey XII.6597-6600, trans. Butcher and Lang)
+[^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason." (Odyssey 12.72-75, trans. Butcher and Lang)
 
 ## In the Catalogue of Women
 

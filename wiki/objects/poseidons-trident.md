@@ -26,10 +26,10 @@ The trident commands the sea and shakes the earth:
 - **Turning ships to stone:** He turns the Phaeacian ship into rock with a single blow — striking it "into a stone, and rooted it far below," and threatening to raise a mountain around their city.[^od13-stone]
 - **Flood and earthquake:** In the [Metamorphoses](../sources/metamorphoses.md), during Zeus's great flood, "Neptune smites the Earth with his trident: she trembles and through her agitation lays open new channels for the waters."[^met-flood]
 
-[^il20-earthquake]: "from beneath Poseidon made the vast earth shake, and the steep tops of the mountains. All the roots of many-fountained Ida were shaken, and all her crests, and the city of the Trojans, and the ships of the Achaians" (Iliad XX.11397-11401, trans. Lang, Leaf, and Myers)
-[^il12-wall]: "the Shaker of the earth, with his trident in his hands, was himself the leader, and sent forth into the waves all the foundations of beams and stones that the Achaians had laid with toil" (Iliad XII.6993-6996)
-[^od4-aias]: "Poseidon struck the great rock with the flat of his hands, and cleft it in twain... the one part fell in the sea... and bore Aias with it" (Odyssey IV.2564-2570, trans. Butcher and Lang)
-[^od13-stone]: (Odyssey XIII.7157-7160)
+[^il20-earthquake]: "from beneath Poseidon made the vast earth shake, and the steep tops of the mountains. All the roots of many-fountained Ida were shaken, and all her crests, and the city of the Trojans, and the ships of the Achaians" (Iliad 20.115-119, trans. Lang, Leaf, and Myers)
+[^il12-wall]: "the Shaker of the earth, with his trident in his hands, was himself the leader, and sent forth into the waves all the foundations of beams and stones that the Achaians had laid with toil" (Iliad 12.31-34)
+[^od4-aias]: "Poseidon struck the great rock with the flat of his hands, and cleft it in twain... the one part fell in the sea... and bore Aias with it" (Odyssey 4.446-452, trans. Butcher and Lang)
+[^od13-stone]: (Odyssey 13.176-179)
 [^met-flood]: "Neptune smites the Earth with his trident: she trembles and through her agitation lays open new channels for the waters" (Metamorphoses 1.283-284, trans. Brookes More)
 
 ## In the Aeneid

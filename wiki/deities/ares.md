@@ -33,7 +33,7 @@ From the [Iliad](../sources/iliad.md):
 - **"most hateful to me... of all gods that hold Olympus"** — [Zeus](zeus.md)'s judgment (Iliad V)[^il5-hateful]
 
 [^desc-hymn]: "Ares, exceeding in strength, chariot-rider, golden-helmed, doughty in heart, shield-bearer, Saviour of cities, harnessed in bronze, strong of arm, unwearying, mighty with the spear, O defence of Olympus, father of warlike Victory, ally of Themis, stern governor of the rebellious, leader of righteous men, sceptred King of manliness" (Homeric Hymn VIII to Ares 1-6, trans. H.G. Evelyn-White)
-[^il5-hateful]: "Most hateful to me art thou of all gods that hold Olympus: for ever is strife dear to thee and wars and battles" (Iliad V.3077-3078, trans. Lang, Leaf, and Myers)
+[^il5-hateful]: "Most hateful to me art thou of all gods that hold Olympus: for ever is strife dear to thee and wars and battles" (Iliad 5.518-519, trans. Lang, Leaf, and Myers)
 
 ## Appearance
 
@@ -44,7 +44,7 @@ On the [Shield of Heracles](../sources/shield-of-heracles.md), he is depicted in
 In [Iliad](../sources/iliad.md) V, when wounded by [Diomedes](../heroes/diomedes.md) (guided by [Athena](athena.md)), he "bellowed loud as nine thousand warriors or ten thousand cry in battle."[^il5-bellow]
 
 [^desc-celestial]: "who whirl your fiery sphere among the planets in their sevenfold courses through the aether wherein your blazing steeds ever bear you above the third firmament of heaven" (Homeric Hymn VIII to Ares 7-9)
-[^il5-bellow]: "Then brazen Ares bellowed loud as nine thousand warriors or ten thousand cry in battle as they join in strife and fray" (Iliad V.3060-3061, trans. Lang, Leaf, and Myers)
+[^il5-bellow]: "Then brazen Ares bellowed loud as nine thousand warriors or ten thousand cry in battle as they join in strife and fray" (Iliad 5.500-501, trans. Lang, Leaf, and Myers)
 
 ## Birth
 
@@ -97,12 +97,12 @@ Ares fled to [Olympus](../places/olympus.md) and complained to [Zeus](zeus.md) a
 
 Then "Paieon laid assuaging drugs upon the wound and healed him; seeing that verily he was of no mortal substance. Even as fig juice maketh haste to thicken white milk... even so swiftly healed he impetuous Ares. And Hebe bathed him, and clothed him in gracious raiment."[^il5-heal]
 
-[^il5-bound]: "So suffered Ares, when Otos and stalwart Ephialtes, sons of Aloeus, bound him in a strong prison-house; yea in a vessel of bronze lay he bound thirteen months. Then might Ares insatiate of battle have perished, but that the step-mother of Aloeus' sons, fair Eëriboia, gave tidings to Hermes, and he stole away Ares, already pining; for the grievous prison-house was wearing him out" (Iliad V.2963-2968, trans. Lang, Leaf, and Myers)
-[^il5-leading]: "baleful Ares entered among the Trojan ranks and aroused them in the likeness of fleet Akamas, captain of the Thracians" ... "Ares led them on and dread Enyo, she bringing ruthless turmoil of war, the while Ares wielded in his hands his monstrous spear, and ranged now before Hector's face, and now behind" (Iliad V.3034-3036, 3156-3158)
-[^il5-wound]: "Pallas Athene drave it home against Ares' nethermost belly, where his taslets were girt about him. There smote he him and wounded him, rending through his fair skin, and plucked forth the spear again" (Iliad V.3393-3396)
-[^il5-bellow]: "brazen Ares bellowed loud as nine thousand warriors or ten thousand cry in battle as they join in strife and fray. Thereat trembling gat hold of Achaians and Trojans for fear, so mightily bellowed Ares insatiate of battle" (Iliad V.3396-3399)
-[^il5-rebuke]: "Most hateful to me art thou of all gods that dwell in Olympus: thou ever lovest strife and wars and battles. Truly thy mother's spirit is intolerable, unyielding, even Hera's; her can I scarce rule with words... mine offspring art thou, and to me thy mother bare thee. But wert thou born of any other god unto this violence, long ere this hadst thou been lower than the sons of Heaven" (Iliad V.3424-3432)
-[^il5-heal]: "Paieon laid assuaging drugs upon the wound and healed him; seeing that verily he was of no mortal substance. Even as fig juice maketh haste to thicken white milk, that is liquid but curdleth speedily as a man stirreth, even so swiftly healed he impetuous Ares. And Hebe bathed him, and clothed him in gracious raiment" (Iliad V.3439-3444)
+[^il5-bound]: "So suffered Ares, when Otos and stalwart Ephialtes, sons of Aloeus, bound him in a strong prison-house; yea in a vessel of bronze lay he bound thirteen months. Then might Ares insatiate of battle have perished, but that the step-mother of Aloeus' sons, fair Eëriboia, gave tidings to Hermes, and he stole away Ares, already pining; for the grievous prison-house was wearing him out" (Iliad 5.400-405, trans. Lang, Leaf, and Myers)
+[^il5-leading]: "baleful Ares entered among the Trojan ranks and aroused them in the likeness of fleet Akamas, captain of the Thracians" ... "Ares led them on and dread Enyo, she bringing ruthless turmoil of war, the while Ares wielded in his hands his monstrous spear, and ranged now before Hector's face, and now behind" (Iliad 5.473-475, 3156-3158)
+[^il5-wound]: "Pallas Athene drave it home against Ares' nethermost belly, where his taslets were girt about him. There smote he him and wounded him, rending through his fair skin, and plucked forth the spear again" (Iliad 5.846-849)
+[^il5-bellow]: "brazen Ares bellowed loud as nine thousand warriors or ten thousand cry in battle as they join in strife and fray. Thereat trembling gat hold of Achaians and Trojans for fear, so mightily bellowed Ares insatiate of battle" (Iliad 5.849-852)
+[^il5-rebuke]: "Most hateful to me art thou of all gods that dwell in Olympus: thou ever lovest strife and wars and battles. Truly thy mother's spirit is intolerable, unyielding, even Hera's; her can I scarce rule with words... mine offspring art thou, and to me thy mother bare thee. But wert thou born of any other god unto this violence, long ere this hadst thou been lower than the sons of Heaven" (Iliad 5.878-886)
+[^il5-heal]: "Paieon laid assuaging drugs upon the wound and healed him; seeing that verily he was of no mortal substance. Even as fig juice maketh haste to thicken white milk, that is liquid but curdleth speedily as a man stirreth, even so swiftly healed he impetuous Ares. And Hebe bathed him, and clothed him in gracious raiment" (Iliad 5.893-899)
 
 ## In the Odyssey
 
@@ -112,9 +112,9 @@ In [Odyssey](../sources/odyssey.md) Book VIII, the minstrel Demodocus sings the 
 
 They were trapped in Hephaestus's unbreakable net: "around them clung the cunning bonds of skilled Hephaestus, so that they could not move nor raise a limb."[^od8-trapped] After [Poseidon](poseidon.md) guaranteed the fine, "the twain, when they were freed from that strong bond, sprang up straightway, and departed, he to Thrace."[^od8-thrace]
 
-[^od8-ares-entice]: "Ares of the golden rein kept no blind watch, what time he saw Hephaestus, the famed craftsman, depart afar. So he went on his way to the house of renowned Hephaestus, eager for the love of crowned Cytherea... 'Come, my beloved, let us to bed, and take our pleasure of love, for Hephaestus is no longer among his own people; methinks he is already gone to Lemnos, to the Sintians, men of savage speech'" (Odyssey VIII.4423-4432, trans. Butcher and Lang)
-[^od8-trapped]: "around them clung the cunning bonds of skilled Hephaestus, so that they could not move nor raise a limb" (Odyssey VIII.4435-4436)
-[^od8-thrace]: "the twain, when they were freed from that strong bond, sprang up straightway, and departed, he to Thrace" (Odyssey VIII.4503-4504)
+[^od8-ares-entice]: "Ares of the golden rein kept no blind watch, what time he saw Hephaestus, the famed craftsman, depart afar. So he went on his way to the house of renowned Hephaestus, eager for the love of crowned Cytherea... 'Come, my beloved, let us to bed, and take our pleasure of love, for Hephaestus is no longer among his own people; methinks he is already gone to Lemnos, to the Sintians, men of savage speech'" (Odyssey 8.281-290, trans. Butcher and Lang)
+[^od8-trapped]: "around them clung the cunning bonds of skilled Hephaestus, so that they could not move nor raise a limb" (Odyssey 8.293-294)
+[^od8-thrace]: "the twain, when they were freed from that strong bond, sprang up straightway, and departed, he to Thrace" (Odyssey 8.360-361)
 
 ## In the Bibliotheca (1.4.4)
 

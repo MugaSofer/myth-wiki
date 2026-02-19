@@ -42,7 +42,7 @@ He rests at heaven's peak until he "marvellously drives them down again through 
 In the [Odyssey](../sources/odyssey.md), two further daughters are named as shepherdesses of his sacred cattle on Thrinacia: "goddesses to shepherd them, nymphs with fair tresses, Phaethusa and Lampetie whom bright Neaera bare to Helios Hyperion."[^od-nymphs]
 
 [^theog-children]: "Perseis, the daughter of Ocean, bare to unwearying Helios Circe and Aeetes the king" (Theogony 956-957)
-[^od-nymphs]: "goddesses to shepherd them, nymphs with fair tresses, Phaethusa and Lampetie whom bright Neaera bare to Helios Hyperion" (Odyssey XII.6655-6657, trans. Butcher and Lang)
+[^od-nymphs]: "goddesses to shepherd them, nymphs with fair tresses, Phaethusa and Lampetie whom bright Neaera bare to Helios Hyperion" (Odyssey 12.131-133, trans. Butcher and Lang)
 
 ## In the Hymn to Demeter
 
@@ -67,11 +67,11 @@ Helius's reaction is one of the most dramatic divine speeches in the poem. He th
 
 Odysseus notes that he was not present for this divine exchange, and that his knowledge of it came through a chain of transmission: "This I heard from Calypso of the fair hair; and she said that she herself had heard it from [Hermes](hermes.md) the Messenger."[^od-calypso]
 
-[^od-cattle]: "seven herds of kine and as many goodly flocks of sheep, and fifty in each flock. They have no part in birth or in corruption" (Odyssey XII.6653-6655, trans. Butcher and Lang)
-[^od-lampetie]: "Then swiftly to Helios Hyperion came Lampetie of the long robes, with the tidings that we had slain his kine" (Odyssey XII.6894-6895, trans. Butcher and Lang)
-[^od-threat]: "Father Zeus, and all ye other blessed gods that live for ever, take vengeance I pray you on the company of Odysseus, son of Laertes, that have insolently slain my cattle, wherein I was wont to be glad as I went toward the starry heaven, and when I again turned earthward from the firmament. And if they pay me not full atonement for the cattle, I will go down to Hades and shine among the dead." (Odyssey XII.6898-6903, trans. Butcher and Lang)
-[^od-zeus]: "Helios, do thou, I say, shine on amidst the deathless gods, and amid mortal men upon the earth, the grain-giver. But as for me, I will soon smite their swift ship with my white bolt, and cleave it in pieces in the midst of the wine-dark deep." (Odyssey XII.6905-6909, trans. Butcher and Lang)
-[^od-calypso]: "This I heard from Calypso of the fair hair; and she said that she herself had heard it from Hermes the Messenger." (Odyssey XII.6911-6912, trans. Butcher and Lang)
+[^od-cattle]: "seven herds of kine and as many goodly flocks of sheep, and fifty in each flock. They have no part in birth or in corruption" (Odyssey 12.129-131, trans. Butcher and Lang)
+[^od-lampetie]: "Then swiftly to Helios Hyperion came Lampetie of the long robes, with the tidings that we had slain his kine" (Odyssey 12.371-372, trans. Butcher and Lang)
+[^od-threat]: "Father Zeus, and all ye other blessed gods that live for ever, take vengeance I pray you on the company of Odysseus, son of Laertes, that have insolently slain my cattle, wherein I was wont to be glad as I went toward the starry heaven, and when I again turned earthward from the firmament. And if they pay me not full atonement for the cattle, I will go down to Hades and shine among the dead." (Odyssey 12.375-380, trans. Butcher and Lang)
+[^od-zeus]: "Helios, do thou, I say, shine on amidst the deathless gods, and amid mortal men upon the earth, the grain-giver. But as for me, I will soon smite their swift ship with my white bolt, and cleave it in pieces in the midst of the wine-dark deep." (Odyssey 12.382-386, trans. Butcher and Lang)
+[^od-calypso]: "This I heard from Calypso of the fair hair; and she said that she herself had heard it from Hermes the Messenger." (Odyssey 12.388-389, trans. Butcher and Lang)
 
 ## In [Pindar](../sources/pindar.md)
 

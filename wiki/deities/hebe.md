@@ -30,7 +30,7 @@ After completing his labours, [Heracles](../heroes/heracles.md) married Hebe on 
 
 After [Ares](ares.md) is wounded by Diomedes and healed by Paieon, Hebe tends to him: "Paieon laid assuaging drugs upon the wound and healed him; seeing that verily he was of no mortal substance. Even as fig juice maketh haste to thicken white milk, that is liquid but curdleth speedily as a man stirreth, even so swiftly healed he impetuous Ares. And Hebe bathed him, and clothed him in gracious raiment."[^il5-heal]
 
-[^il5-heal]: "Paieon laid assuaging drugs upon the wound and healed him; seeing that verily he was of no mortal substance. Even as fig juice maketh haste to thicken white milk, that is liquid but curdleth speedily as a man stirreth, even so swiftly healed he impetuous Ares. And Hebe bathed him, and clothed him in gracious raiment" (Iliad V.3439-3444, trans. Lang, Leaf, and Myers)
+[^il5-heal]: "Paieon laid assuaging drugs upon the wound and healed him; seeing that verily he was of no mortal substance. Even as fig juice maketh haste to thicken white milk, that is liquid but curdleth speedily as a man stirreth, even so swiftly healed he impetuous Ares. And Hebe bathed him, and clothed him in gracious raiment" (Iliad 5.893-899, trans. Lang, Leaf, and Myers)
 
 ## Appearances
 

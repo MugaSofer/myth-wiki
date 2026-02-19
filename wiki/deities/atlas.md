@@ -25,7 +25,7 @@ The [Odyssey](../sources/odyssey.md) presents a **variant tradition** about Atla
 
 This differs from the [Theogony](../sources/theogony.md) in several ways: Atlas is called a "wizard" (suggesting knowledge rather than mere brute punishment), he "knows the depths of every sea" (a marine association absent from Hesiod), and he holds up "pillars" rather than the sky with his head and arms. The Odyssey also makes him the father of the nymph Calypso, a relationship not mentioned in the Theogony.
 
-[^od1-atlas]: "the daughter of the wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder" (Odyssey I.777-779, trans. Butcher and Lang)
+[^od1-atlas]: "the daughter of the wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder" (Odyssey 1.58-60, trans. Butcher and Lang)
 
 ## Appearances
 

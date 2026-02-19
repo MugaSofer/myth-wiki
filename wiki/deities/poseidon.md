@@ -35,8 +35,8 @@ The most vivid description comes in [Iliad](../sources/iliad.md) Book XIII, wher
 
 In Book XIV, fighting openly while [Zeus](zeus.md) sleeps, he carries "a dread sword of fine edge in his strong hand, like unto lightning."[^desc-sword]
 
-[^desc-chariot]: "Three strides he made, and with the fourth he reached his goal, even Aigae, and there was his famous palace in the deeps of the mere, his glistering golden mansions builded, imperishable for ever. Thither went he, and let harness to the car his bronze-hooved horses, swift of flight, clothed with their golden manes. He girt his own golden array about his body, and seized the well-wrought lash of gold, and mounted his chariot, and forth he drove across the waves. And the sea beasts frolicked beneath him, on all sides out of the deeps, for well they knew their lord, and with gladness the sea stood asunder" (Iliad XIII.7421-7431, trans. Lang, Leaf, and Myers)
-[^desc-sword]: "The Shaker of the earth led them, wielding in his strong hand a dread sword of fine edge in his strong hand, like unto lightning, wherewith it is not permitted that any should mingle in deadly battle, but fear keepeth men therefrom" (Iliad XIV.8655-8658)
+[^desc-chariot]: "Three strides he made, and with the fourth he reached his goal, even Aigae, and there was his famous palace in the deeps of the mere, his glistering golden mansions builded, imperishable for ever. Thither went he, and let harness to the car his bronze-hooved horses, swift of flight, clothed with their golden manes. He girt his own golden array about his body, and seized the well-wrought lash of gold, and mounted his chariot, and forth he drove across the waves. And the sea beasts frolicked beneath him, on all sides out of the deeps, for well they knew their lord, and with gladness the sea stood asunder" (Iliad 13.26-36, trans. Lang, Leaf, and Myers)
+[^desc-sword]: "The Shaker of the earth led them, wielding in his strong hand a dread sword of fine edge in his strong hand, like unto lightning, wherewith it is not permitted that any should mingle in deadly battle, but fear keepeth men therefrom" (Iliad 14.467-470)
 
 ## Powers
 
@@ -47,11 +47,11 @@ In Book XIV, fighting openly while [Zeus](zeus.md) sleeps, he carries "a dread s
 - **Spells and protection:** He paralyzes Alkathoos for Idomeneus, "throwing a spell over his shining eyes, and snaring his glorious limbs." He also shields Antilochos from javelins on all sides.[^desc-spell]
 - **Destruction:** With his trident, he leads the destruction of the Achaian wall after the war, sending "all the foundations of beams and stones" into the waves and making "all smooth by the strong current of the Hellespont."[^desc-trident]
 
-[^desc-earthquake]: "from beneath Poseidon made the vast earth shake, and the steep tops of the mountains. All the roots of many-fountained Ida were shaken, and all her crests, and the city of the Trojans, and the ships of the Achaians. And Aidoneus, lord of the dead below, had terror and leapt from his throne and cried aloud, in terror lest the earth-shaker Poseidon rend the earth asunder from above" (Iliad XX.11397-11403)
-[^desc-voice]: "loudly he shouted, with might as of nine thousand men, or ten thousand" (Iliad XIV.8654-8655)
-[^desc-disguise]: "easily I knew the tokens of his feet and knees as he turned away, and the gods are easy to discern" (Iliad XIII.7472-7473)
-[^desc-spell]: "Poseidon subdue to Idomeneus, throwing a spell over his shining eyes, and snaring his glorious limbs; so that he might neither flee backwards, nor avoid the stroke, but stood steady as a pillar" (Iliad XIII.7821-7824)
-[^desc-trident]: "the Shaker of the earth, with his trident in his hands, was himself the leader, and sent forth into the waves all the foundations of beams and stones that the Achaians had laid with toil, and made all smooth by the strong current of the Hellespont" (Iliad XII.6993-6998)
+[^desc-earthquake]: "from beneath Poseidon made the vast earth shake, and the steep tops of the mountains. All the roots of many-fountained Ida were shaken, and all her crests, and the city of the Trojans, and the ships of the Achaians. And Aidoneus, lord of the dead below, had terror and leapt from his throne and cried aloud, in terror lest the earth-shaker Poseidon rend the earth asunder from above" (Iliad 20.115-122)
+[^desc-voice]: "loudly he shouted, with might as of nine thousand men, or ten thousand" (Iliad 14.466-467)
+[^desc-disguise]: "easily I knew the tokens of his feet and knees as he turned away, and the gods are easy to discern" (Iliad 13.79-80)
+[^desc-spell]: "Poseidon subdue to Idomeneus, throwing a spell over his shining eyes, and snaring his glorious limbs; so that he might neither flee backwards, nor avoid the stroke, but stood steady as a pillar" (Iliad 13.441-444)
+[^desc-trident]: "the Shaker of the earth, with his trident in his hands, was himself the leader, and sent forth into the waves all the foundations of beams and stones that the Achaians had laid with toil, and made all smooth by the strong current of the Hellespont" (Iliad 12.31-36)
 
 ## Mythology
 
@@ -84,13 +84,13 @@ At the opening of the poem, Poseidon is absent from the divine council: "Poseido
 
 In Menelaus's account of Proteus's prophecy, Poseidon's dual nature is vividly shown. He first saves Aias (the Locrian, son of Oileus) from the sea: "Poseidon at first brought him nigh to Gyrae, to the mighty rocks, and delivered him from the sea." But when Aias boasted blasphemously — "he said that in the gods' despite he had escaped the great gulf of the sea" — Poseidon responded with devastating force: "Poseidon heard his loud boasting, and presently caught up his trident into his strong hands, and smote the rock Gyraean and cleft it in twain... and the rock bore him down into the vast and heaving deep."[^od4-aias]
 
-[^od4-aias]: "Poseidon at first brought him nigh to Gyrae, to the mighty rocks, and delivered him from the sea. And so he would have fled his doom, albeit hated by Athene, had he not let a proud word fall in the fatal darkening of his heart. He said that in the gods' despite he had escaped the great gulf of the sea; and Poseidon heard his loud boasting, and presently caught up his trident into his strong hands, and smote the rock Gyraean and cleft it in twain." (Odyssey IV.2614-2621, trans. Butcher and Lang)
+[^od4-aias]: "Poseidon at first brought him nigh to Gyrae, to the mighty rocks, and delivered him from the sea. And so he would have fled his doom, albeit hated by Athene, had he not let a proud word fall in the fatal darkening of his heart. He said that in the gods' despite he had escaped the great gulf of the sea; and Poseidon heard his loud boasting, and presently caught up his trident into his strong hands, and smote the rock Gyraean and cleft it in twain." (Odyssey 4.495-502, trans. Butcher and Lang)
 
-[^od1-rage]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus, till he came to his own country" (Odyssey I.746-748, trans. Butcher and Lang)
-[^od1-polyphemus]: "it is Poseidon, the girdler of the earth, that hath been wroth continually with quenchless anger for the Cyclops' sake whom he blinded of his eye, even godlike Polyphemus whose power is mightiest amongst all the Cyclôpes. His mother was the nymph Thoösa, daughter of Phorcys, lord of the unharvested sea, and in the hollow caves she lay with Poseidon." (Odyssey I.792-797, trans. Butcher and Lang)
-[^od1-wandering]: "From that day forth Poseidon the earth-shaker doth not indeed slay Odysseus, but driveth him wandering from his own country" (Odyssey I.797-798, trans. Butcher and Lang)
-[^od1-alone]: "Poseidon let go his displeasure, for he will in no wise be able to strive alone against all, in despite of all the deathless gods" (Odyssey I.800-802, trans. Butcher and Lang)
-[^od1-ethiopia]: "Poseidon had now departed for the distant Ethiopians, the Ethiopians that are sundered in twain, the uttermost of men, abiding some where Hyperion sinks and some where he rises. There he looked to receive his hecatomb of bulls and rams" (Odyssey I.748-752, trans. Butcher and Lang)
+[^od1-rage]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus, till he came to his own country" (Odyssey 1.27-29, trans. Butcher and Lang)
+[^od1-polyphemus]: "it is Poseidon, the girdler of the earth, that hath been wroth continually with quenchless anger for the Cyclops' sake whom he blinded of his eye, even godlike Polyphemus whose power is mightiest amongst all the Cyclôpes. His mother was the nymph Thoösa, daughter of Phorcys, lord of the unharvested sea, and in the hollow caves she lay with Poseidon." (Odyssey 1.73-77, trans. Butcher and Lang)
+[^od1-wandering]: "From that day forth Poseidon the earth-shaker doth not indeed slay Odysseus, but driveth him wandering from his own country" (Odyssey 1.77-78, trans. Butcher and Lang)
+[^od1-alone]: "Poseidon let go his displeasure, for he will in no wise be able to strive alone against all, in despite of all the deathless gods" (Odyssey 1.80-82, trans. Butcher and Lang)
+[^od1-ethiopia]: "Poseidon had now departed for the distant Ethiopians, the Ethiopians that are sundered in twain, the uttermost of men, abiding some where Hyperion sinks and some where he rises. There he looked to receive his hecatomb of bulls and rams" (Odyssey 1.29-33, trans. Butcher and Lang)
 
 ### Poseidon and Tyro (Book XI)
 
@@ -98,8 +98,8 @@ In the catalogue of heroines, Tyro loved the river Enipeus, and Poseidon seduced
 
 Also in the catalogue, Iphimedeia "said that she had lain with Poseidon, and she bare children twain... godlike Otus and far-famed Ephialtes" — the giants who tried to pile mountains to reach Olympus.[^od11-iphimedeia]
 
-[^od11-tyro]: "the girdler of the world, the Earth-shaker, put on the shape of the god, and lay by the lady at the mouths of the whirling stream. Then the dark wave stood around them like a hill-side bowed, and hid the god and the mortal woman... Woman, be glad in our love, and when the year comes round thou shalt give birth to glorious children,—for not weak are the embraces of the gods... behold, I am Poseidon, shaker of the earth" (Odyssey XI.6124-6141, trans. Butcher and Lang)
-[^od11-iphimedeia]: "said that she had lain with Poseidon, and she bare children twain... godlike Otus and far-famed Ephialtes" (Odyssey XI.6191-6203, trans. Butcher and Lang)
+[^od11-tyro]: "the girdler of the world, the Earth-shaker, put on the shape of the god, and lay by the lady at the mouths of the whirling stream. Then the dark wave stood around them like a hill-side bowed, and hid the god and the mortal woman... Woman, be glad in our love, and when the year comes round thou shalt give birth to glorious children,—for not weak are the embraces of the gods... behold, I am Poseidon, shaker of the earth" (Odyssey 11.234-251, trans. Butcher and Lang)
+[^od11-iphimedeia]: "said that she had lain with Poseidon, and she bare children twain... godlike Otus and far-famed Ephialtes" (Odyssey 11.302-314, trans. Butcher and Lang)
 
 ### Polyphemus's Prayer (Book IX)
 
@@ -107,7 +107,7 @@ After Odysseus blinds [Polyphemus](../creatures/cyclopes.md), the Cyclops prays 
 
 This prayer — which Poseidon grants — exactly describes the course of Odysseus's return: arriving late, alone, on a Phaeacian ship, to find his house beset by suitors.
 
-[^od9-prayer]: "Hear me, Poseidon, girdler of the earth, god of the dark hair, if indeed I be thine, and thou avowest thee my sire,—grant that he may never come to his home, even Odysseus, waster of cities, the son of Laertes, whose dwelling is in Ithaca; yet if he is ordained to see his friends and come unto his well-builded house, and his own country, late may he come in evil case, with the loss of all his company, in the ship of strangers, and find sorrows in his house... So he spake in prayer, and the god of the dark locks heard him" (Odyssey IX.5263-5272, trans. Butcher and Lang)
+[^od9-prayer]: "Hear me, Poseidon, girdler of the earth, god of the dark hair, if indeed I be thine, and thou avowest thee my sire,—grant that he may never come to his home, even Odysseus, waster of cities, the son of Laertes, whose dwelling is in Ithaca; yet if he is ordained to see his friends and come unto his well-builded house, and his own country, late may he come in evil case, with the loss of all his company, in the ship of strangers, and find sorrows in his house... So he spake in prayer, and the god of the dark locks heard him" (Odyssey 9.523-532, trans. Butcher and Lang)
 
 ### The Storm (Book V)
 
@@ -115,9 +115,9 @@ Returning from the Ethiopians, Poseidon spots Odysseus near Phaeacia: "the lord,
 
 He then unleashes a full storm: "he gathered the clouds and troubled the waters of the deep, grasping his trident in his hands; and he roused all storms of all manner of winds, and shrouded in clouds the land and sea: and down sped night from heaven."[^od5-storm] He smashes Odysseus's raft with a great wave, then departs with a final pronouncement: "Even so, after all thy sufferings, go wandering over the deep, till thou shalt come among a people, the fosterlings of Zeus. Yet for all that I deem not that thou shalt think thyself too lightly afflicted."[^od5-depart]
 
-[^od5-espied]: "the lord, the shaker of the earth, on his way from the Ethiopians espied him afar off from the mountains of the Solymi: even thence he saw Odysseus as he sailed over the deep; and he was mightily angered in spirit" (Odyssey V.3255-3258, trans. Butcher and Lang)
-[^od5-storm]: "he gathered the clouds and troubled the waters of the deep, grasping his trident in his hands; and he roused all storms of all manner of winds, and shrouded in clouds the land and sea: and down sped night from heaven" (Odyssey V.3265-3268)
-[^od5-depart]: "Even so, after all thy sufferings, go wandering over the deep, till thou shalt come among a people, the fosterlings of Zeus. Yet for all that I deem not that thou shalt think thyself too lightly afflicted" (Odyssey V.3355-3358)
+[^od5-espied]: "the lord, the shaker of the earth, on his way from the Ethiopians espied him afar off from the mountains of the Solymi: even thence he saw Odysseus as he sailed over the deep; and he was mightily angered in spirit" (Odyssey 5.280-283, trans. Butcher and Lang)
+[^od5-storm]: "he gathered the clouds and troubled the waters of the deep, grasping his trident in his hands; and he roused all storms of all manner of winds, and shrouded in clouds the land and sea: and down sped night from heaven" (Odyssey 5.290-293)
+[^od5-depart]: "Even so, after all thy sufferings, go wandering over the deep, till thou shalt come among a people, the fosterlings of Zeus. Yet for all that I deem not that thou shalt think thyself too lightly afflicted" (Odyssey 5.379-382)
 
 ### Punishment of the Phaeacians (Book XIII)
 
@@ -127,11 +127,11 @@ Poseidon strikes as the Phaeacian ship returns to Scheria: "he smote her into a 
 
 This episode completes the arc begun in Books V and VIII: Poseidon's wrath, unable to prevent Odysseus's return, falls instead on those who aided it. The Phaeacians — his own descendants through Nausithous — are punished not for opposing him, but for rendering his opposition meaningless.
 
-[^od13-complaint]: "Father Zeus, I for one shall no longer be of worship among the deathless gods, when mortal men hold me in no regard, even Phaeacians, who moreover are of mine own lineage" (Odyssey XIII.7108-7111, trans. Butcher and Lang)
-[^od13-zeus]: "Do thou as thou wilt, and as seems thee good" (Odyssey XIII.7124-7125, trans. Butcher and Lang)
-[^od13-stone]: "he smote her into a stone, and rooted her far below with the down-stroke of his hand" (Odyssey XIII.7145-7147, trans. Butcher and Lang)
-[^od13-oracle]: "jealous of us, for that we give safe escort to all men" (Odyssey XIII.7160-7161, trans. Butcher and Lang)
-[^od13-bulls]: "let us sacrifice to him twelve chosen bulls, if perchance he may take pity, and not overshadow our city with a long mountain" (Odyssey XIII.7167-7173, trans. Butcher and Lang)
+[^od13-complaint]: "Father Zeus, I for one shall no longer be of worship among the deathless gods, when mortal men hold me in no regard, even Phaeacians, who moreover are of mine own lineage" (Odyssey 13.128-131, trans. Butcher and Lang)
+[^od13-zeus]: "Do thou as thou wilt, and as seems thee good" (Odyssey 13.144-145, trans. Butcher and Lang)
+[^od13-stone]: "he smote her into a stone, and rooted her far below with the down-stroke of his hand" (Odyssey 13.164-166, trans. Butcher and Lang)
+[^od13-oracle]: "jealous of us, for that we give safe escort to all men" (Odyssey 13.179-180, trans. Butcher and Lang)
+[^od13-bulls]: "let us sacrifice to him twelve chosen bulls, if perchance he may take pity, and not overshadow our city with a long mountain" (Odyssey 13.186-191, trans. Butcher and Lang)
 
 ## In the Iliad
 
@@ -151,11 +151,11 @@ This passage reveals that Poseidon and Apollo once built Troy's walls under forc
 
 In [Iliad](../sources/iliad.md) Book XII, the poem describes how, after the war ended, Poseidon and [Apollo](apollo.md) fulfilled the promise from Book VII: "Poseidon and Apollo took counsel to wash away the wall, bringing in the might of the rivers, of all that flow from the hills of Ida to the sea." Apollo "turned together" the mouths of nine rivers and "for nine days he drave their stream against the wall; and still [Zeus](zeus.md) rained unceasingly." Meanwhile "the Shaker of the earth, with his trident in his hands, was himself the leader, and sent forth into the waves all the foundations of beams and stones that the Achaians had laid with toil, and made all smooth by the strong current of the Hellespont, and covered again the great beach with sand."[^il12-wall]
 
-[^il12-wall]: "Poseidon and Apollo took counsel to wash away the wall, bringing in the might of the rivers... the mouths of all these waters did Phoebus Apollo turn together, and for nine days he drave their stream against the wall; and still Zeus rained unceasingly, that the quicker he might mingle the wall with the salt sea. And the Shaker of the earth, with his trident in his hands, was himself the leader, and sent forth into the waves all the foundations of beams and stones that the Achaians had laid with toil, and made all smooth by the strong current of the Hellespont, and covered again the great beach with sand, when he had swept away the wall" (Iliad XII.6984-6998, trans. Lang, Leaf, and Myers)
+[^il12-wall]: "Poseidon and Apollo took counsel to wash away the wall, bringing in the might of the rivers... the mouths of all these waters did Phoebus Apollo turn together, and for nine days he drave their stream against the wall; and still Zeus rained unceasingly, that the quicker he might mingle the wall with the salt sea. And the Shaker of the earth, with his trident in his hands, was himself the leader, and sent forth into the waves all the foundations of beams and stones that the Achaians had laid with toil, and made all smooth by the strong current of the Hellespont, and covered again the great beach with sand, when he had swept away the wall" (Iliad 12.21-36, trans. Lang, Leaf, and Myers)
 
-[^il1-binding]: "all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene" (Iliad I.566-568, trans. Lang, Leaf, and Myers)
-[^il7-wall]: "Seest thou not how the flowing-haired Achaians have now again built them a wall before their ships, and drawn a foss around it, but gave not excellent hecatombs to the gods? Verily the fame thereof shall reach as far as the dawn spreadeth, and men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon" (Iliad VII.4370-4376)
-[^il7-zeus-reply]: "thine shall be the fame as far as the dawn spreadeth. Go to now, hereafter when the flowing-haired Achaians be departed upon their ships to their dear native land, then burst thou this wall asunder and scatter it all into the sea, and cover the great sea-beach over with sand again, that the great wall of the Achaians be brought to naught" (Iliad VII.4381-4386)
+[^il1-binding]: "all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene" (Iliad 1.391-393, trans. Lang, Leaf, and Myers)
+[^il7-wall]: "Seest thou not how the flowing-haired Achaians have now again built them a wall before their ships, and drawn a foss around it, but gave not excellent hecatombs to the gods? Verily the fame thereof shall reach as far as the dawn spreadeth, and men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon" (Iliad 7.442-449)
+[^il7-zeus-reply]: "thine shall be the fame as far as the dawn spreadeth. Go to now, hereafter when the flowing-haired Achaians be departed upon their ships to their dear native land, then burst thou this wall asunder and scatter it all into the sea, and cover the great sea-beach over with sand again, that the great wall of the Achaians be brought to naught" (Iliad 7.454-459)
 
 ### Poseidon's Intervention (Book XIII)
 
@@ -169,13 +169,13 @@ The poem frames the conflict in theological terms: "the two mighty sons of Krono
 
 Poseidon is also moved by family grief: "Poseidon wroth at heart, when his son's son fell in the terrible fray" — his grandson Amphimachos (through his son Kteatos).[^il13-grandson]
 
-[^il13-watch]: "the mighty Earthshaker held no blind watch, who sat and marvelled on the war and strife, high on the topmost crest of wooded Samothrace, for thence all Ida was plain to see; and plain to see were the city of Priam, and the ships of the Achaians. Thither did he go from the sea and sate him down, and he had pity on the Achaians, that they were subdued to the Trojans, and strong was his anger against Zeus" (Iliad XIII.7412-7417, trans. Lang, Leaf, and Myers)
-[^il13-chariot]: "Three strides he made, and with the fourth he reached his goal, even Aigae, and there was his famous palace in the deeps of the mere, his glistering golden mansions builded, imperishable for ever. Thither went he, and let harness to the car his bronze-hooved horses, swift of flight, clothed with their golden manes. He girt his own golden array about his body, and seized the well-wrought lash of gold, and mounted his chariot, and forth he drove across the waves. And the sea beasts frolicked beneath him, on all sides out of the deeps, for well they knew their lord, and with gladness the sea stood asunder" (Iliad XIII.7421-7431)
-[^il13-kalchas]: "since it is one of the gods who hold Olympus, that in the semblance of a seer commands us now to fight beside the ships—not Kalchas is he, the prophet and soothsayer, for easily I knew the tokens of his feet and knees as he turned away, and the gods are easy to discern" (Iliad XIII.7470-7473)
-[^il13-antilochos]: "Poseidon, the Shaker of the earth, did guard on every side the son of Nestor, even in the midst of the javelins... Poseidon of the dark locks made his shaft of no avail, grudging him the life of Antilochos" (Iliad XIII.7932-7941)
-[^il13-spell]: "Poseidon subdue to Idomeneus, throwing a spell over his shining eyes, and snaring his glorious limbs; so that he might neither flee backwards, nor avoid the stroke, but stood steady as a pillar" (Iliad XIII.7821-7824)
-[^il13-brothers]: "the two mighty sons of Kronos, with contending will, were contriving sorrow and anguish for the heroes. Zeus desired victory for the Trojans and Hector, giving glory to swift-footed Achilles; yet he did not wish the Achaian host to perish utterly before Ilios... But Poseidon went among the Argives and stirred them to war, stealing secretly forth from the grey salt sea... Verily both were of the same lineage and the same place of birth, but Zeus was the elder and the wiser. Therefore also Poseidon avoided to give open aid" (Iliad XIII.7737-7747)
-[^il13-grandson]: "Then verily was Poseidon wroth at heart, when his son's son fell in the terrible fray" (Iliad XIII.7601)
+[^il13-watch]: "the mighty Earthshaker held no blind watch, who sat and marvelled on the war and strife, high on the topmost crest of wooded Samothrace, for thence all Ida was plain to see; and plain to see were the city of Priam, and the ships of the Achaians. Thither did he go from the sea and sate him down, and he had pity on the Achaians, that they were subdued to the Trojans, and strong was his anger against Zeus" (Iliad 13.17-22, trans. Lang, Leaf, and Myers)
+[^il13-chariot]: "Three strides he made, and with the fourth he reached his goal, even Aigae, and there was his famous palace in the deeps of the mere, his glistering golden mansions builded, imperishable for ever. Thither went he, and let harness to the car his bronze-hooved horses, swift of flight, clothed with their golden manes. He girt his own golden array about his body, and seized the well-wrought lash of gold, and mounted his chariot, and forth he drove across the waves. And the sea beasts frolicked beneath him, on all sides out of the deeps, for well they knew their lord, and with gladness the sea stood asunder" (Iliad 13.26-36)
+[^il13-kalchas]: "since it is one of the gods who hold Olympus, that in the semblance of a seer commands us now to fight beside the ships—not Kalchas is he, the prophet and soothsayer, for easily I knew the tokens of his feet and knees as he turned away, and the gods are easy to discern" (Iliad 13.77-80)
+[^il13-antilochos]: "Poseidon, the Shaker of the earth, did guard on every side the son of Nestor, even in the midst of the javelins... Poseidon of the dark locks made his shaft of no avail, grudging him the life of Antilochos" (Iliad 13.557-566)
+[^il13-spell]: "Poseidon subdue to Idomeneus, throwing a spell over his shining eyes, and snaring his glorious limbs; so that he might neither flee backwards, nor avoid the stroke, but stood steady as a pillar" (Iliad 13.441-444)
+[^il13-brothers]: "the two mighty sons of Kronos, with contending will, were contriving sorrow and anguish for the heroes. Zeus desired victory for the Trojans and Hector, giving glory to swift-footed Achilles; yet he did not wish the Achaian host to perish utterly before Ilios... But Poseidon went among the Argives and stirred them to war, stealing secretly forth from the grey salt sea... Verily both were of the same lineage and the same place of birth, but Zeus was the elder and the wiser. Therefore also Poseidon avoided to give open aid" (Iliad 13.354-365)
+[^il13-grandson]: "Then verily was Poseidon wroth at heart, when his son's son fell in the terrible fray" (Iliad 13.213)
 
 ## In the Fabulae
 

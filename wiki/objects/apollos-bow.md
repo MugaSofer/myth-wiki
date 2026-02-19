@@ -18,9 +18,9 @@ The bow also brings gentler death. In [Iliad](../sources/iliad.md) XXIV, Hekabe 
 
 In the story of Niobe, "Apollo slew the sons with arrows from his silver bow, being angered with Niobe," while [Artemis](../deities/artemis.md) slew the daughters.[^il24-niobe]
 
-[^il1-plague]: "wroth at heart, bearing on his shoulders his bow and covered quiver. And the arrows clanged upon his shoulders in his wrath, as the god moved; and he came like the night... the pyres of the dead burnt continually in multitude" (Iliad I.210-220, trans. Lang, Leaf, and Myers)
-[^il24-gentle]: "like one on whom Apollo, lord of the silver bow, hath descended and slain him with his gentle darts" (Iliad XXIV.14227-14228)
-[^il24-niobe]: "Apollo slew the sons with arrows from his silver bow, being angered with Niobe, and shaft-showering Artemis slew the daughters" (Iliad XXIV.14189-14191)
+[^il1-plague]: "wroth at heart, bearing on his shoulders his bow and covered quiver. And the arrows clanged upon his shoulders in his wrath, as the god moved; and he came like the night... the pyres of the dead burnt continually in multitude" (Iliad 1.26-36, trans. Lang, Leaf, and Myers)
+[^il24-gentle]: "like one on whom Apollo, lord of the silver bow, hath descended and slain him with his gentle darts" (Iliad 24.664-665)
+[^il24-niobe]: "Apollo slew the sons with arrows from his silver bow, being angered with Niobe, and shaft-showering Artemis slew the daughters" (Iliad 24.630-631)
 
 ## At His Birth
 

@@ -29,7 +29,7 @@ Themis was [Zeus](zeus.md)'s second wife (after Metis). "Next he married bright 
 
 In [Odyssey](../sources/odyssey.md) Book II, Telemachus invokes Themis at the assembly: "I pray you by Olympian [Zeus](zeus.md) and by Themis, who looseth and gathereth the meetings of men."[^od2-themis] This attributes to Themis the specific role of presiding over assemblies — she both convenes and dissolves them.
 
-[^od2-themis]: "I pray you by Olympian Zeus and by Themis, who looseth and gathereth the meetings of men" (Odyssey II.1237-1238, trans. Butcher and Lang)
+[^od2-themis]: "I pray you by Olympian Zeus and by Themis, who looseth and gathereth the meetings of men" (Odyssey 2.69-70, trans. Butcher and Lang)
 
 ## Appearances
 

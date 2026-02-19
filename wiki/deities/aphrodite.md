@@ -148,10 +148,10 @@ Helen defies her: "Go and sit thou by his side, and depart from the way of the g
 
 Helen obeys in fear. Aphrodite then serves her directly: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris."[^il3-chair]
 
-[^il3-rescue]: "Zeus' daughter Aphrodite was swift to mark, and tore asunder for him the strap of slaughtered ox's hide; so the helmet came away empty in his stalwart hand... Aphrodite snatched up Paris, very easily as a goddess may, and hid him in thick darkness, and sent him down in his fragrant perfumed chamber" (Iliad III.1975-1982, trans. Lang, Leaf, and Myers)
-[^il3-disguise]: "she marked the fair neck and lovely breast and sparkling eyes of the goddess, she marvelled straightway and spake a word and called upon her name: 'Strange queen, why art thou desirous now to beguile me?'" (Iliad III.1994-1996)
-[^il3-threat]: "Provoke me not, rash woman, lest in mine anger I desert thee, and hate thee even as now I love thee beyond measure, and lest I devise grievous enmities between both, even betwixt Trojans and Achaians, and so thou perish in evil wise" (Iliad III.2009-2013)
-[^il3-chair]: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris" (Iliad III.2021-2022)
+[^il3-rescue]: "Zeus' daughter Aphrodite was swift to mark, and tore asunder for him the strap of slaughtered ox's hide; so the helmet came away empty in his stalwart hand... Aphrodite snatched up Paris, very easily as a goddess may, and hid him in thick darkness, and sent him down in his fragrant perfumed chamber" (Iliad 3.373-380, trans. Lang, Leaf, and Myers)
+[^il3-disguise]: "she marked the fair neck and lovely breast and sparkling eyes of the goddess, she marvelled straightway and spake a word and called upon her name: 'Strange queen, why art thou desirous now to beguile me?'" (Iliad 3.393-395)
+[^il3-threat]: "Provoke me not, rash woman, lest in mine anger I desert thee, and hate thee even as now I love thee beyond measure, and lest I devise grievous enmities between both, even betwixt Trojans and Achaians, and so thou perish in evil wise" (Iliad 3.409-413)
+[^il3-chair]: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris" (Iliad 3.421-422)
 
 ## In the Odyssey
 
@@ -165,10 +165,10 @@ The male gods gathered — [Poseidon](poseidon.md), [Hermes](hermes.md), and [Ap
 
 After Poseidon guaranteed the fine, "laughter-loving Aphrodite went to Paphos of Cyprus, where is her precinct and fragrant altar. There the [Graces](graces.md) bathed and anointed her with oil imperishable, such as is laid upon the everlasting gods. And they clad her in lovely raiment, a wonder to see."[^od8-paphos]
 
-[^od8-adultery]: "he sang of the love of Ares and Aphrodite, of the fair crown, how at the first they lay together in the house of Hephaestus privily; and Ares gave her many gifts, and dishonoured the marriage bed of the lord Hephaestus. And anon there came to him one to report the thing, even Helios, that had seen them at their pastime" (Odyssey VIII.4407-4411, trans. Butcher and Lang)
-[^od8-heph-cry]: "Aphrodite, daughter of Zeus, ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born. Howbeit, there is none to blame but my father and mother,—would they had never begotten me!" (Odyssey VIII.4446-4450)
-[^od8-hermes]: "So might thrice as many bonds innumerable encompass me about, and all ye gods be looking on and all the goddesses, yet would I lie by golden Aphrodite" (Odyssey VIII.4480-4481)
-[^od8-paphos]: "laughter-loving Aphrodite went to Paphos of Cyprus, where is her precinct and fragrant altar. There the Graces bathed and anointed her with oil imperishable, such as is laid upon the everlasting gods. And they clad her in lovely raiment, a wonder to see" (Odyssey VIII.4505-4508)
+[^od8-adultery]: "he sang of the love of Ares and Aphrodite, of the fair crown, how at the first they lay together in the house of Hephaestus privily; and Ares gave her many gifts, and dishonoured the marriage bed of the lord Hephaestus. And anon there came to him one to report the thing, even Helios, that had seen them at their pastime" (Odyssey 8.265-269, trans. Butcher and Lang)
+[^od8-heph-cry]: "Aphrodite, daughter of Zeus, ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born. Howbeit, there is none to blame but my father and mother,—would they had never begotten me!" (Odyssey 8.304-308)
+[^od8-hermes]: "So might thrice as many bonds innumerable encompass me about, and all ye gods be looking on and all the goddesses, yet would I lie by golden Aphrodite" (Odyssey 8.338-339)
+[^od8-paphos]: "laughter-loving Aphrodite went to Paphos of Cyprus, where is her precinct and fragrant altar. There the Graces bathed and anointed her with oil imperishable, such as is laid upon the everlasting gods. And they clad her in lovely raiment, a wonder to see" (Odyssey 8.362-365)
 
 ## In the Fabulae
 
@@ -323,9 +323,9 @@ Then flows "the goddess's immortal blood, such ichor as floweth in the blessed g
 
 She fled in pain to [Olympus](../places/olympus.md) and "fell upon [Dione](dione.md)'s knees that was her mother." [Zeus](zeus.md) told her gently: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet [Ares](ares.md) and Athene look."[^il5-zeus]
 
-[^il5-wound]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm" (Iliad V.2913-2916, trans. Lang, Leaf, and Myers)
-[^il5-ichor]: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad V.2917-2919)
-[^il5-zeus]: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet Ares and Athene look" (Iliad V.3003-3005)
+[^il5-wound]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm" (Iliad 5.348-351, trans. Lang, Leaf, and Myers)
+[^il5-ichor]: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad 5.352-354)
+[^il5-zeus]: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet Ares and Athene look" (Iliad 5.441-443)
 
 ## In the Bibliotheca (1.4.4)
 
@@ -345,7 +345,7 @@ Hesiod's account of Aphrodite's birth from [Uranus](uranus.md)'s severed members
 
 Apollodorus follows the Iliad tradition: "by [Dione](dione.md) he had Aphrodite."[^apd-aphrodite-dione] This is notable because Apollodorus is generally drawing on Hesiodic material for his cosmogony — his adoption of the Dione parentage over the Theogony's sea-foam birth represents a deliberate choice.
 
-[^il5-dione]: "fair Aphrodite fell upon Dione's knees that was her mother. She took her daughter in her arms and stroked her with her hand" (Iliad V.2948-2949)
+[^il5-dione]: "fair Aphrodite fell upon Dione's knees that was her mother. She took her daughter in her arms and stroked her with her hand" (Iliad 5.384-385)
 [^apd-aphrodite-dione]: "by Dione he had Aphrodite" (Bibliotheca 1.3.1, trans. Frazer)
-[^od18-cytherea]: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the Graces" (Odyssey 9894-9897, trans. Butcher and Lang)
-[^od20-pandareus]: "fair Aphrodite cherished them with curds and sweet honey and delicious wine... Now while fair Aphrodite was wending to high Olympus, to pray that a glad marriage might be accomplished for the maidens" (Odyssey 10823-10828, trans. Butcher and Lang)
+[^od18-cytherea]: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the Graces" (Odyssey 18.195-198, trans. Butcher and Lang)
+[^od20-pandareus]: "fair Aphrodite cherished them with curds and sweet honey and delicious wine... Now while fair Aphrodite was wending to high Olympus, to pray that a glad marriage might be accomplished for the maidens" (Odyssey 20.67-72, trans. Butcher and Lang)

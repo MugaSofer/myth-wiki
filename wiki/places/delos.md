@@ -49,7 +49,7 @@ In the [Odyssey](../sources/odyssey.md), Odysseus tells Nausicaa that he once vi
 [^hymn-gold]: "Then with gold all Delos was laden, beholding the child of Zeus and Leto, for joy because the god chose her above the islands and shore to make his dwelling in her: and she loved him yet more in her heart, and blossomed as does a mountain-top with woodland flowers." (Homeric Hymn III 135-139, trans. H.G. Evelyn-White)
 [^hymn-ionians]: "there the long robed Ionians gather in your honour with their children and shy wives: mindful, they delight you with boxing and dancing and song, so often as they hold their gathering. A man would say that they were deathless and unageing if he should then come upon the Ionians so met together." (Homeric Hymn III 147-155, trans. H.G. Evelyn-White)
 [^hymn-maidens]: "they can imitate the tongues of all men and their clattering speech: each would say that he himself were singing, so close to truth is their sweet song." (Homeric Hymn III 162-164, trans. H.G. Evelyn-White)
-[^od-delos]: "Yet in Delos once I saw as goodly a thing: a young sapling of a palm tree springing by the altar of Apollo." (Odyssey VI.3637, trans. Butcher and Lang)
+[^od-delos]: "Yet in Delos once I saw as goodly a thing: a young sapling of a palm tree springing by the altar of Apollo." (Odyssey 6.169, trans. Butcher and Lang)
 [^apoll-orion]: "And Artemis slew Orion in Delos." (Bibliotheca 1.4.3, trans. Frazer)
 [^apoll-eos]: "And Dawn fell in love with Orion and carried him off and brought him to Delos; for Aphrodite caused Dawn to be perpetually in love, because she had bedded with Ares." (Bibliotheca 1.4.4, trans. Frazer)
 

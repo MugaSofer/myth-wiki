@@ -16,7 +16,7 @@ In [Iliad](../sources/iliad.md) Book II, the sceptre's full provenance is given 
 
 The passage traces authority from divine craftsman through father of the gods, to messenger god, to a line of mortal kings — each handoff marking a transmission of legitimate power.
 
-[^il2-lineage]: "Hephaistos gave it to king Zeus son of Kronos, and then Zeus gave it to the messenger-god the slayer of Argus; and king Hermes gave it to Pelops the charioteer, and Pelops again gave it to Atreus shepherd of the host. And Atreus dying left it to Thyestes rich in flocks, and Thyestes in his turn left it to Agamemnon to bear, that over many islands and all Argos he should be lord" (Iliad II.882-887, trans. Lang, Leaf, and Myers)
+[^il2-lineage]: "Hephaistos gave it to king Zeus son of Kronos, and then Zeus gave it to the messenger-god the slayer of Argus; and king Hermes gave it to Pelops the charioteer, and Pelops again gave it to Atreus shepherd of the host. And Atreus dying left it to Thyestes rich in flocks, and Thyestes in his turn left it to Agamemnon to bear, that over many islands and all Argos he should be lord" (Iliad 2.107-112, trans. Lang, Leaf, and Myers)
 
 ## In the Odyssey
 

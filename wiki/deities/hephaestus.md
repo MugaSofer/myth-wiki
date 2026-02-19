@@ -33,10 +33,10 @@ In [Iliad](../sources/iliad.md) Book XX, when the gods march to battle, Hephaest
 
 His workshop house is "imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself." When [Thetis](thetis.md) finds him, he is "sweating in toil and busy about his bellows."[^desc-house]
 
-[^il20-legs]: "with these went Hephaistos in the greatness of his strength, halting, but his shrunk legs moved nimbly under him" (Iliad XX.11334-11336, trans. Lang, Leaf, and Myers)
+[^il20-legs]: "with these went Hephaistos in the greatness of his strength, halting, but his shrunk legs moved nimbly under him" (Iliad 20.45-48, trans. Lang, Leaf, and Myers)
 [^desc-shrivelled]: "my son Hephaestus whom I bare was weakly among all the blessed gods and shrivelled of foot, a shame and disgrace to me in heaven" (Homeric Hymn III to Apollo 316-318, trans. H.G. Evelyn-White)
-[^desc-laughter]: "laughter unquenchable arose amid the blessed gods to see Hephaistos bustling through the palace" (Iliad I.763-764, trans. Lang, Leaf, and Myers)
-[^desc-house]: "she came unto the house of Hephaistos, imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself. Him found she sweating in toil and busy about his bellows" (Iliad XVIII.10712-10715)
+[^desc-laughter]: "laughter unquenchable arose amid the blessed gods to see Hephaistos bustling through the palace" (Iliad 1.594-595, trans. Lang, Leaf, and Myers)
+[^desc-house]: "she came unto the house of Hephaistos, imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself. Him found she sweating in toil and busy about his bellows" (Iliad 18.354-357)
 
 ## Powers
 
@@ -45,7 +45,7 @@ His workshop house is "imperishable, starlike, far seen among the dwellings of I
 - **Fire:** He burns the River [Xanthos](../sources/iliad.md) at [Hera](hera.md)'s command — consuming elms, willows, tamarisks, and lotus until the river submits and swears an oath.[^desc-fire]
 
 [^desc-crafts]: "the very famous Limping God formed of earth the likeness of a shy maiden... wonderful things, like living beings with voices: and great beauty shone out from it" (Theogony 571-584)
-[^desc-automata]: "there were handmaidens of gold that moved to help their lord, the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods" (Iliad XVIII.10723-10726)
+[^desc-automata]: "there were handmaidens of gold that moved to help their lord, the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods" (Iliad 18.368-372)
 [^desc-fire]: (Iliad XXI)
 
 ## Birth
@@ -115,9 +115,9 @@ In this same speech, Hephaestus tells a **variant tradition** of his fall — he
 
 This contradicts the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III), where Hera herself cast him out and Thetis rescued him from the sea. In the Iliad version, Zeus hurls him, he lands on Lemnos (not in the sea), and the Sintian people tend him.
 
-[^il1-peace]: "So I give counsel to my mother, though herself is wise, to do kindness to our dear father Zeus, that our father upbraid us not again and cast the banquet in confusion. What if the Olympian, the lord of the lightning, will to dash us from our seats! for he is strongest far" (Iliad I.738-748, trans. Lang, Leaf, and Myers)
-[^il1-laughter]: "laughter unquenchable arose amid the blessed gods to see Hephaistos bustling through the palace" (Iliad I.763-764)
-[^il1-fall]: "once ere this, when I was fain to save thee, he caught me by my foot and hurled me from the heavenly threshold; all day I flew, and at the set of sun I fell in Lemnos, and little life was in me. There did the Sintian folk forthwith tend me for my fall" (Iliad I.755-758)
+[^il1-peace]: "So I give counsel to my mother, though herself is wise, to do kindness to our dear father Zeus, that our father upbraid us not again and cast the banquet in confusion. What if the Olympian, the lord of the lightning, will to dash us from our seats! for he is strongest far" (Iliad 1.568-578, trans. Lang, Leaf, and Myers)
+[^il1-laughter]: "laughter unquenchable arose amid the blessed gods to see Hephaistos bustling through the palace" (Iliad 1.594-595)
+[^il1-fall]: "once ere this, when I was fain to save thee, he caught me by my foot and hurled me from the heavenly threshold; all day I flew, and at the set of sun I fell in Lemnos, and little life was in me. There did the Sintian folk forthwith tend me for my fall" (Iliad 1.585-588)
 
 ### His Workshop and the Shield of Achilles (Book XVIII)
 
@@ -127,9 +127,9 @@ He is aided by golden handmaidens: "there were handmaidens of gold that moved to
 
 He forges the [Shield of Achilles](../objects/shield-of-achilles.md) — a complete cosmos in miniature: earth, heavens, sea, sun, moon, constellations ("Pleiads and Hyads and Orion's might, and the Bear... that alone hath no part in the baths of Ocean"); two cities (one at peace with a marriage feast and trial, one at war with [Ares](ares.md) and [Athena](athena.md) wrought in gold leading the troops, and Strife, Tumult, and Death personified); ploughing, reaping, vintage, cattle, sheep; a dancing-place "like unto that which once in wide Knosos Daidalos wrought for Ariadne of the lovely tresses"; and "the great might of the River of Ocean around the uttermost rim."[^il18-shield]
 
-[^il18-house]: "she came unto the house of Hephaistos, imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself. Him found she sweating in toil and busy about his bellows, for he was forging tripods twenty in all... beneath the base of each he had set golden wheels, that of their own motion they might enter the assembly of the gods and again return unto his house, a marvel to look upon" (Iliad XVIII.10712-10718, trans. Lang, Leaf, and Myers)
-[^il18-maidens]: "there were handmaidens of gold that moved to help their lord, the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods" (Iliad XVIII.10723-10726)
-[^il18-shield]: "There wrought he the earth, and the heavens, and the sea, and the unwearying sun, and the moon waxing to the full, and the signs every one wherewith the heavens are crowned, Pleiads and Hyads and Orion's might, and the Bear that men call also the Wain, her that turneth in her place and watcheth Orion, and alone hath no part in the baths of Ocean" (Iliad XVIII.10783-10788)
+[^il18-house]: "she came unto the house of Hephaistos, imperishable, starlike, far seen among the dwellings of Immortals, a house of bronze, wrought by the crook-footed god himself. Him found she sweating in toil and busy about his bellows, for he was forging tripods twenty in all... beneath the base of each he had set golden wheels, that of their own motion they might enter the assembly of the gods and again return unto his house, a marvel to look upon" (Iliad 18.354-361, trans. Lang, Leaf, and Myers)
+[^il18-maidens]: "there were handmaidens of gold that moved to help their lord, the semblances of living maids. In them is understanding at their hearts, in them are voice and strength, and they have skill of the immortal gods" (Iliad 18.368-372)
+[^il18-shield]: "There wrought he the earth, and the heavens, and the sea, and the unwearying sun, and the moon waxing to the full, and the signs every one wherewith the heavens are crowned, Pleiads and Hyads and Orion's might, and the Bear that men call also the Wain, her that turneth in her place and watcheth Orion, and alone hath no part in the baths of Ocean" (Iliad 18.448-454)
 
 ## In the Odyssey
 
@@ -137,7 +137,7 @@ He forges the [Shield of Achilles](../objects/shield-of-achilles.md) — a compl
 
 In Book VII, Alcinous's palace is guarded by Hephaestus's creations: "on either side stood golden hounds and silver, which Hephaestus wrought by his cunning, to guard the palace of great-hearted Alcinous, being free from death and age all their days."[^od7-hounds]
 
-[^od7-hounds]: "on either side stood golden hounds and silver, which Hephaestus wrought by his cunning, to guard the palace of great-hearted Alcinous, being free from death and age all their days" (Odyssey VII.3893-3895, trans. Butcher and Lang)
+[^od7-hounds]: "on either side stood golden hounds and silver, which Hephaestus wrought by his cunning, to guard the palace of great-hearted Alcinous, being free from death and age all their days" (Odyssey 7.97-99, trans. Butcher and Lang)
 
 ### The Song of Ares and Aphrodite (Book VIII)
 
@@ -147,10 +147,10 @@ He then "made as though he would go to Lemnos, that stablished castle, and this 
 
 "Laughter unquenchable arose among the blessed gods, as they beheld the sleight of cunning Hephaestus." [Poseidon](poseidon.md) guaranteed Ares's fine: "even if Ares avoid the debt and flee away, I myself will pay thee all." Hephaestus released them, and was called "the famous god of the strong arms."[^od8-release]
 
-[^od8-forge]: "he went his way to the forge, devising evil in the deep of his heart, and set the great anvil on the stithy, and wrought fetters that none might snap or loosen, that the lovers might there unmoveably remain" (Odyssey VIII.4412-4414, trans. Butcher and Lang)
-[^od8-web]: "subtle as spiders' webs, so that none might see them, even of the blessed gods: so cunningly were they forged" (Odyssey VIII.4419-4420)
-[^od8-lament]: "Aphrodite, daughter of Zeus, ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born. Howbeit, there is none to blame but my father and mother,—would they had never begotten me!" (Odyssey VIII.4446-4450)
-[^od8-release]: "laughter unquenchable arose among the blessed gods, as they beheld the sleight of cunning Hephaestus... Poseidon answered him, shaker of the earth: 'Hephaestus, even if Ares avoid the debt and flee away, I myself will pay thee all.' Then the famous god of the strong arms answered him: 'It may not be that I should say thee nay'" (Odyssey VIII.4463-4501)
+[^od8-forge]: "he went his way to the forge, devising evil in the deep of his heart, and set the great anvil on the stithy, and wrought fetters that none might snap or loosen, that the lovers might there unmoveably remain" (Odyssey 8.270-272, trans. Butcher and Lang)
+[^od8-web]: "subtle as spiders' webs, so that none might see them, even of the blessed gods: so cunningly were they forged" (Odyssey 8.277-278)
+[^od8-lament]: "Aphrodite, daughter of Zeus, ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born. Howbeit, there is none to blame but my father and mother,—would they had never begotten me!" (Odyssey 8.304-308)
+[^od8-release]: "laughter unquenchable arose among the blessed gods, as they beheld the sleight of cunning Hephaestus... Poseidon answered him, shaker of the earth: 'Hephaestus, even if Ares avoid the debt and flee away, I myself will pay thee all.' Then the famous god of the strong arms answered him: 'It may not be that I should say thee nay'" (Odyssey 8.321-358)
 
 ## In the Bibliotheca
 
@@ -268,8 +268,8 @@ Venus brings the finished arms to Aeneas: helmet "dread with plumes and spouting
 [^apd-bulls]: "two wild bulls that he had, of enormous size, a gift of Hephaestus; they had brazen feet and puffed fire from their mouths" (Bibliotheca 1.9.23, trans. Frazer)
 [^apd-talos]: "he was given to Minos by Hephaestus; he was a brazen man, but some say that he was a bull" (Bibliotheca 1.9.26, trans. Frazer)
 
-[^od23-simile]: "as when some skilful man overlays gold upon silver, one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork" (Odyssey XXIII.12342-12344, trans. Butcher and Lang)
-[^od24-flame]: "when the flame of Hephaestus had utterly abolished thee" ... "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey XXIV.12624-12625, 12627-12629, trans. Butcher and Lang)
+[^od23-simile]: "as when some skilful man overlays gold upon silver, one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork" (Odyssey 23.168-170, trans. Butcher and Lang)
+[^od24-flame]: "when the flame of Hephaestus had utterly abolished thee" ... "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey 24.78-79, 12627-12629, trans. Butcher and Lang)
 [^cyp-heph-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5)
 [^aeth-heph-armour]: Aethiopis, summary by Proclus: "Memnon, the son of Eos, wearing armour made by Hephaestus, comes to help the Trojans"
 [^liliad-heph-vine]: "the vine which the son of Cronos gave him as a recompense for his son. It bloomed richly with soft leaves of gold and grape clusters; Hephaestus wrought it and gave it to his father Zeus: and he bestowed it on Laomedon as a price for Ganymedes" (Little Iliad, Fragment 7)

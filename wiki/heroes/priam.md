@@ -18,8 +18,8 @@ Priam is described only in old age, his appearance marked by grief. In his own p
 
 When he comes to ransom Hector's body, [Achilles](achilles.md) sees the same features and responds with compassion: "he sprang from his seat and raised the old man by his hand, pitying his hoary head and hoary beard."[^il24-pity]
 
-[^il22-hoary]: "when dogs defile the hoary head and hoary beard of an old man slain, this is the most piteous thing that cometh upon hapless men" (Iliad XXII.12365-12367, trans. Lang, Leaf, and Myers)
-[^il24-pity]: "he sprang from his seat and raised the old man by his hand, pitying his hoary head and hoary beard" (Iliad XXIV.13979-13980)
+[^il22-hoary]: "when dogs defile the hoary head and hoary beard of an old man slain, this is the most piteous thing that cometh upon hapless men" (Iliad 22.78-80, trans. Lang, Leaf, and Myers)
+[^il24-pity]: "he sprang from his seat and raised the old man by his hand, pitying his hoary head and hoary beard" (Iliad 24.439-440)
 
 ## In the Iliad
 
@@ -27,7 +27,7 @@ When he comes to ransom Hector's body, [Achilles](achilles.md) sees the same fea
 
 Priam's journey to Achilles' tent, guided by [Hermes](../deities/hermes.md), culminates in one of the most celebrated scenes in the [Iliad](../sources/iliad.md). Achilles marvels at Priam's courage: "Ah hapless! many ill things verily thou hast endured in thy heart. How durst thou come alone to the ships of the Achaians and to meet the eyes of the man who hath slain full many of thy brave sons."[^il24-marvel]
 
-[^il24-marvel]: "Ah hapless! many ill things verily thou hast endured in thy heart. How durst thou come alone to the ships of the Achaians and to meet the eyes of the man who hath slain full many of thy brave sons" (Iliad XXIV.13981-13983)
+[^il24-marvel]: "Ah hapless! many ill things verily thou hast endured in thy heart. How durst thou come alone to the ships of the Achaians and to meet the eyes of the man who hath slain full many of thy brave sons" (Iliad 24.441-442)
 
 ## In the Bibliotheca
 

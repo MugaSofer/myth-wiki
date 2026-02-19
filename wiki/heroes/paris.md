@@ -2,7 +2,7 @@
 
 > "Ill Paris, most fair in semblance, thou deceiver woman-mad, would thou hadst been unborn and died unwed."[^epigraph]
 
-[^epigraph]: (Iliad III.1663-1664, trans. Lang, Leaf, and Myers)
+[^epigraph]: (Iliad 3.46-47, trans. Lang, Leaf, and Myers)
 
 | | |
 |---|---|
@@ -22,8 +22,8 @@
 - **"godlike Alexandros"** — the standard Homeric epithet, used throughout the [Iliad](../sources/iliad.md)[^il3-godlike]
 - **"Ill Paris, most fair in semblance"** — [Hector](hector.md)'s scornful address, combining acknowledgment of his beauty with contempt for his cowardice[^il3-ill]
 
-[^il3-godlike]: "godlike Alexandros marked him appear amid the champions" (Iliad III.1656, trans. Lang, Leaf, and Myers)
-[^il3-ill]: "Ill Paris, most fair in semblance, thou deceiver woman-mad" (Iliad III.1663)
+[^il3-godlike]: "godlike Alexandros marked him appear amid the champions" (Iliad 3.39, trans. Lang, Leaf, and Myers)
+[^il3-ill]: "Ill Paris, most fair in semblance, thou deceiver woman-mad" (Iliad 3.46)
 
 ## Appearance
 
@@ -33,9 +33,9 @@ Paris's beauty is his defining physical trait, repeatedly noted by friends and e
 
 When he first appears on the battlefield, he wears distinctive equipment: "upon his shoulders panther-skin and curved bow and sword; and he brandished two bronze-headed spears."[^il3-panther]
 
-[^il3-radiant]: "There is he in his chamber and inlaid bed, radiant in beauty and vesture; nor wouldst thou deem him to be come from fighting his foe, but rather to be faring to the dance, or from the dance to be just resting and set down" (Iliad III.1989-1991)
-[^il3-favour]: "a prince is our champion only because a goodly favour is his; but in his heart is there no strength nor any courage... Thy lyre will not avail thee nor the gifts of Aphrodite, those thy locks and fair favour, when thou grovellest in the dust" (Iliad III.1667-1678)
-[^il3-panther]: "godlike Alexandros played champion to the Trojans, wearing upon his shoulders panther-skin and curved bow and sword; and he brandished two bronze-headed spears" (Iliad III.1642-1645)
+[^il3-radiant]: "There is he in his chamber and inlaid bed, radiant in beauty and vesture; nor wouldst thou deem him to be come from fighting his foe, but rather to be faring to the dance, or from the dance to be just resting and set down" (Iliad 3.388-390)
+[^il3-favour]: "a prince is our champion only because a goodly favour is his; but in his heart is there no strength nor any courage... Thy lyre will not avail thee nor the gifts of Aphrodite, those thy locks and fair favour, when thou grovellest in the dust" (Iliad 3.50-62)
+[^il3-panther]: "godlike Alexandros played champion to the Trojans, wearing upon his shoulders panther-skin and curved bow and sword; and he brandished two bronze-headed spears" (Iliad 3.24-27)
 
 ## In the Iliad
 
@@ -47,21 +47,21 @@ After [Hector](hector.md)'s rebuke, Paris agreed to a formal duel for Helen and 
 
 Paris's response to Helen's reproach is characteristic: "Chide not my soul, lady, with cruel taunts... But come now, let us have joy of love upon our couch; for never yet hath love so enwrapped my heart... as I love thee now and sweet desire taketh hold upon me."[^il3-desire]
 
-[^il3-fear]: "even as a man that hath seen a serpent in a mountain glade starteth backward and trembling seizeth his feet beneath him, and he retreateth back again, and paleness hath hold of his cheeks, even so did godlike Alexandros for fear of Atreus' son shrink back into the throng of lordly Trojans" (Iliad III.1658-1662)
-[^il3-rescue]: "Aphrodite snatched up Paris, very easily as a goddess may, and hid him in thick darkness, and sent him down in his fragrant perfumed chamber" (Iliad III.1980-1982)
-[^il3-desire]: "Chide not my soul, lady, with cruel taunts... But come now, let us have joy of love upon our couch; for never yet hath love so enwrapped my heart — not even then when first I snatched thee from lovely Lakedaimon and sailed with thee on my seafaring ships, and in the isle of Kranaë had converse with thee upon thy couch in love — as I love thee now and sweet desire taketh hold upon me" (Iliad III.2034-2041)
+[^il3-fear]: "even as a man that hath seen a serpent in a mountain glade starteth backward and trembling seizeth his feet beneath him, and he retreateth back again, and paleness hath hold of his cheeks, even so did godlike Alexandros for fear of Atreus' son shrink back into the throng of lordly Trojans" (Iliad 3.41-45)
+[^il3-rescue]: "Aphrodite snatched up Paris, very easily as a goddess may, and hid him in thick darkness, and sent him down in his fragrant perfumed chamber" (Iliad 3.378-380)
+[^il3-desire]: "Chide not my soul, lady, with cruel taunts... But come now, let us have joy of love upon our couch; for never yet hath love so enwrapped my heart — not even then when first I snatched thee from lovely Lakedaimon and sailed with thee on my seafaring ships, and in the isle of Kranaë had converse with thee upon thy couch in love — as I love thee now and sweet desire taketh hold upon me" (Iliad 3.435-442)
 
 ### The Gifts of Aphrodite
 
 Paris defends the gifts he has received from [Aphrodite](../deities/aphrodite.md) against [Hector](hector.md)'s contempt: "Cast not in my teeth the lovely gifts of golden Aphrodite; not to be flung aside are the gods' glorious gifts that of their own good will they give; for by his desire can no man win them."[^il3-gifts]
 
-[^il3-gifts]: "Cast not in my teeth the lovely gifts of golden Aphrodite; not to be flung aside are the gods' glorious gifts that of their own good will they give; for by his desire can no man win them" (Iliad III.1690-1692)
+[^il3-gifts]: "Cast not in my teeth the lovely gifts of golden Aphrodite; not to be flung aside are the gods' glorious gifts that of their own good will they give; for by his desire can no man win them" (Iliad 3.74-76)
 
 ### Wounding Diomedes (Book XI)
 
 Paris wounded [Diomedes](diomedes.md) with an arrow from behind cover: "Paris smote behind the lower part of the right foot" as Diomedes stood over a fallen enemy, pinning his foot to the ground.[^il11-diomedes]
 
-[^il11-diomedes]: "Paris smote behind the lower part of the right foot" (Iliad XI.9041)
+[^il11-diomedes]: "Paris smote behind the lower part of the right foot" (Iliad 15.346)
 
 ## In the Bibliotheca
 

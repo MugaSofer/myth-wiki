@@ -76,7 +76,7 @@ The Fabulae adds that "Theseus married Phaedra, Ariadne's sister."[^hyg43-phaedr
 
 [^theog-ariadne]: "golden-haired Dionysus made brown-haired Ariadne, the daughter of Minos, his buxom wife: and the son of Cronos made her deathless and unageing for him" (Theogony 947-949, trans. H.G. Evelyn-White)
 
-[^od11-ariadne]: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" (Odyssey XI.6208, trans. Butcher and Lang)
+[^od11-ariadne]: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" (Odyssey 11.319, trans. Butcher and Lang)
 
 [^apd-ariadne-offer]: "Ariadne, daughter of Minos, being amorously disposed to him, offered to help him if he would agree to carry her away to Athens and have her to wife" (Epitome 1.8, trans. J.G. Frazer)
 

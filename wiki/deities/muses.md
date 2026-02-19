@@ -78,8 +78,8 @@ In the Catalogue of Ships, the poet notes that near Dorion "the Muses met Thamyr
 
 The poet invokes the Muses before the Catalogue of Ships, acknowledging their unique knowledge: "Tell me now, ye Muses that dwell in the mansions of [Olympus](../places/olympus.md)—seeing that ye are goddesses and are at hand and know all things, but we hear only a rumour and know not anything."[^il2-invocation]
 
-[^il2-thamyris]: "the Muses met Thamyris the Thracian, and made an end of his singing, as he was faring from Oichalia, from Eurytos the Oichalian; for he averred with boasting that he would conquer, even did the Muses themselves sing against him, the daughters of aegis-bearing Zeus; but they in their anger maimed him, moreover they took from him the high gift of song and made him to forget his harping" (Iliad II.1331-1336, trans. Lang, Leaf, and Myers)
-[^il2-invocation]: "Tell me now, ye Muses that dwell in the mansions of Olympus—seeing that ye are goddesses and are at hand and know all things, but we hear only a rumour and know not anything" (Iliad II.1229-1231)
+[^il2-thamyris]: "the Muses met Thamyris the Thracian, and made an end of his singing, as he was faring from Oichalia, from Eurytos the Oichalian; for he averred with boasting that he would conquer, even did the Muses themselves sing against him, the daughters of aegis-bearing Zeus; but they in their anger maimed him, moreover they took from him the high gift of song and made him to forget his harping" (Iliad 2.576-581, trans. Lang, Leaf, and Myers)
+[^il2-invocation]: "Tell me now, ye Muses that dwell in the mansions of Olympus—seeing that ye are goddesses and are at hand and know all things, but we hear only a rumour and know not anything" (Iliad 2.469-471)
 
 ## In the Bibliotheca
 
@@ -123,4 +123,4 @@ Thamyris "engaged in a musical contest with the Muses, the agreement being that,
 - **[Iliad](../sources/iliad.md)** II: Punish Thamyris (maimed, took his song); invoked for the Catalogue of Ships
 - **[Bibliotheca](../sources/apollodorus.md)** 1.3.1-1.3.4: Nine Muses named (Calliope first); Calliope's sons Linus and Orpheus (Eurydice, descent to Hades, torn by Maenads); Clio and Hyacinth (Aphrodite's wrath, Thamyris as first male lover, Apollo's quoit); Thamyris's contest (wager, bereft of eyes and minstrelsy); Euterpe's son Rhesus; Thalia's Corybantes by Apollo; Melpomene's Sirens by Achelous
 
-[^od24-dirge]: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant. Thus for seventeen days and nights continually did we all bewail thee, immortal gods and mortal men." (Odyssey XXIV.12615-12619, trans. Butcher and Lang)
+[^od24-dirge]: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant. Thus for seventeen days and nights continually did we all bewail thee, immortal gods and mortal men." (Odyssey 24.69-73, trans. Butcher and Lang)

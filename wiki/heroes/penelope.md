@@ -17,8 +17,8 @@
 
 When she greets [Telemachus](telemachus.md) on his return from Sparta, she is compared to two goddesses: "wise Penelope came forth from her chamber, like [Artemis](../deities/artemis.md) or golden [Aphrodite](../deities/aphrodite.md), and cast her arms about her dear son."[^od17-artemis]
 
-[^od18-beauty]: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the Graces. And she made her taller and greater to behold, and made her whiter than new-sawn ivory" (Odyssey XVIII.9891-9897, trans. Butcher and Lang)
-[^od17-artemis]: "wise Penelope came forth from her chamber, like Artemis or golden Aphrodite, and cast her arms about her dear son" (Odyssey XVII.9062-9063)
+[^od18-beauty]: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the Graces. And she made her taller and greater to behold, and made her whiter than new-sawn ivory" (Odyssey 18.193-198, trans. Butcher and Lang)
+[^od17-artemis]: "wise Penelope came forth from her chamber, like Artemis or golden Aphrodite, and cast her arms about her dear son" (Odyssey 17.38)
 
 ## In the Bibliotheca
 
@@ -52,13 +52,13 @@ The [Bibliotheca](../sources/apollodorus.md) records strikingly different tradit
 
 Even her chief tormentor, Antinous, acknowledges Penelope's extraordinary intelligence. He tells [Telemachus](telemachus.md) that she surpasses all women in history: "pondering in her heart those things that [Athena](../deities/athena.md) hath given her beyond women, knowledge of all fair handiwork, yea, and cunning wit, and wiles — so be it! Such wiles as hers we have never yet heard that any even of the women of old did know, of those that aforetime were fair-tressed Achaean ladies, Tyro, and Alcmene, and Mycene with the bright crown. Not one of these in the imaginations of their hearts was like unto Penelope."[^od2-antinous]
 
-[^od2-antinous]: "pondering in her heart those things that Athene hath given her beyond women, knowledge of all fair handiwork, yea, and cunning wit, and wiles... Such wiles as hers we have never yet heard that any even of the women of old did know, of those that aforetime were fair-tressed Achaean ladies, Tyro, and Alcmene, and Mycene with the bright crown. Not one of these in the imaginations of their hearts was like unto Penelope" (Odyssey II.1293-1298, trans. Butcher and Lang)
+[^od2-antinous]: "pondering in her heart those things that Athene hath given her beyond women, knowledge of all fair handiwork, yea, and cunning wit, and wiles... Such wiles as hers we have never yet heard that any even of the women of old did know, of those that aforetime were fair-tressed Achaean ladies, Tyro, and Alcmene, and Mycene with the bright crown. Not one of these in the imaginations of their hearts was like unto Penelope" (Odyssey 2.123-128, trans. Butcher and Lang)
 
 ### The Gates of Horn and Ivory (Book XIX)
 
 When disguised [Odysseus](odysseus.md) interprets her dream of the eagle slaying her geese, Penelope responds with the famous passage on the two gates of dreams: "Stranger, verily dreams are hard, and hard to be discerned; nor are all things therein fulfilled for men. Twain are the gates of shadowy dreams, the one is fashioned of horn and one of ivory. Such dreams as pass through the portals of sawn ivory are deceitful, and bear tidings that are unfulfilled. But the dreams that come forth through the gates of polished horn bring a true issue, whosoever of mortals beholds them."[^od19-gates]
 
-[^od19-gates]: "Twain are the gates of shadowy dreams, the one is fashioned of horn and one of ivory. Such dreams as pass through the portals of sawn ivory are deceitful, and bear tidings that are unfulfilled. But the dreams that come forth through the gates of polished horn bring a true issue, whosoever of mortals beholds them" (Odyssey XIX.10708-10711)
+[^od19-gates]: "Twain are the gates of shadowy dreams, the one is fashioned of horn and one of ivory. Such dreams as pass through the portals of sawn ivory are deceitful, and bear tidings that are unfulfilled. But the dreams that come forth through the gates of polished horn bring a true issue, whosoever of mortals beholds them" (Odyssey 19.563-566)
 
 ### The Contest and Recognition (Books XXI-XXIII)
 

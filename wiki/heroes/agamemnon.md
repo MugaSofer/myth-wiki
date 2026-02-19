@@ -16,10 +16,10 @@
 
 Agamemnon's most common Homeric epithet is **"king of men"** (*anax andrōn*), used throughout the [Iliad](../sources/iliad.md).[^il1-kingofmen] He is also called **"wide-ruling Agamemnon,"**[^il1-wideruling] **"son of Atreus"** (the standard patronymic),[^il3-atreid] and **"a goodly king and mighty spearman"** — [Helen](helen.md)'s description of him to [Priam](priam.md) from the walls of Troy.[^il3-helen]
 
-[^il1-kingofmen]: "Then Agamemnon king of men made answer to him" (Iliad I.353, trans. Lang, Leaf, and Myers)
-[^il1-wideruling]: "son of Atreus, wide-ruling Agamemnon, sore displeased" (Iliad I.289)
-[^il3-atreid]: "This is Atreides, wide-ruling Agamemnon" (Iliad III.1796)
-[^il3-helen]: "This is Atreides, wide-ruling Agamemnon, one that is both a goodly king and mighty spearman. And he was my husband's brother to me, ah shameless me; if ever such an one there was" (Iliad III.1796-1798)
+[^il1-kingofmen]: "Then Agamemnon king of men made answer to him" (Iliad 1.173, trans. Lang, Leaf, and Myers)
+[^il1-wideruling]: "son of Atreus, wide-ruling Agamemnon, sore displeased" (Iliad 1.107)
+[^il3-atreid]: "This is Atreides, wide-ruling Agamemnon" (Iliad 3.185)
+[^il3-helen]: "This is Atreides, wide-ruling Agamemnon, one that is both a goodly king and mighty spearman. And he was my husband's brother to me, ah shameless me; if ever such an one there was" (Iliad 3.185-188)
 
 ## Appearance
 
@@ -33,8 +33,8 @@ This is a composite image: Agamemnon has the commanding gaze of [Zeus](../deitie
 
 Agamemnon's sceptre has a divine genealogy tracing through five holders: "Agamemnon bearing his sceptre, that Hephaistos had wrought curiously. Hephaistos gave it to king Zeus son of Kronos, and then Zeus gave it to the messenger-god the slayer of Argus; and king Hermes gave it to Pelops the charioteer, and Pelops again gave it to Atreus shepherd of the host. And Atreus dying left it to Thyestes rich in flocks, and Thyestes in his turn left it to Agamemnon to bear, that over many islands and all Argos he should be lord."[^il2-sceptre]
 
-[^il1-fire]: "his dark heart within him was greatly filled with anger, and his eyes were like flashing fire" (Iliad I.289-291, trans. Lang, Leaf, and Myers)
-[^il2-sceptre]: "Agamemnon bearing his sceptre, that Hephaistos had wrought curiously. Hephaistos gave it to king Zeus son of Kronos, and then Zeus gave it to the messenger-god the slayer of Argus; and king Hermes gave it to Pelops the charioteer, and Pelops again gave it to Atreus shepherd of the host. And Atreus dying left it to Thyestes rich in flocks, and Thyestes in his turn left it to Agamemnon to bear, that over many islands and all Argos he should be lord" (Iliad II.881-887)
+[^il1-fire]: "his dark heart within him was greatly filled with anger, and his eyes were like flashing fire" (Iliad 1.107-109, trans. Lang, Leaf, and Myers)
+[^il2-sceptre]: "Agamemnon bearing his sceptre, that Hephaistos had wrought curiously. Hephaistos gave it to king Zeus son of Kronos, and then Zeus gave it to the messenger-god the slayer of Argus; and king Hermes gave it to Pelops the charioteer, and Pelops again gave it to Atreus shepherd of the host. And Atreus dying left it to Thyestes rich in flocks, and Thyestes in his turn left it to Agamemnon to bear, that over many islands and all Argos he should be lord" (Iliad 2.106-112)
 
 ## Equipment
 
@@ -46,11 +46,11 @@ His shield was equally grand: "the richly-dight shield of his valour that covere
 
 He wore "a two-crested helm with fourfold plate, and plume of horse-hair, and terribly the crest nodded from above. And he grasped two strong spears, shod with bronze and keen, and far forth from him into the heaven shone the bronze; and thereat [Hera](../deities/hera.md) and [Athena](../deities/athena.md) thundered, honouring the king of Mykene rich in gold."[^il11-helm]
 
-[^il11-corslet]: "the breastplate that in time past Kinyras gave him for a guest-gift... therein were ten courses of black cyanus, and twelve of gold, and twenty of tin, and dark blue snakes writhed up towards the neck, three on either side, like rainbows that the son of Kronos hath set in the clouds" (Iliad XI.6176-6183)
-[^il11-shield]: "the richly-dight shield of his valour that covereth all the body of a man, a fair shield, and round about it were ten circles of bronze, and thereon were twenty white bosses of tin, and one in the midst of black cyanus. And thereon was embossed the Gorgon fell of aspect glaring terribly, and about her were Dread and Terror" (Iliad XI.6186-6190)
-[^il11-helm]: "on his head Agamemnon set a two-crested helm with fourfold plate, and plume of horse-hair, and terribly the crest nodded from above. And he grasped two strong spears, shod with bronze and keen, and far forth from him into the heaven shone the bronze; and thereat Hera and Athene thundered, honouring the king of Mykene rich in gold" (Iliad XI.6193-6197)
+[^il11-corslet]: "the breastplate that in time past Kinyras gave him for a guest-gift... therein were ten courses of black cyanus, and twelve of gold, and twenty of tin, and dark blue snakes writhed up towards the neck, three on either side, like rainbows that the son of Kronos hath set in the clouds" (Iliad 11.24-31)
+[^il11-shield]: "the richly-dight shield of his valour that covereth all the body of a man, a fair shield, and round about it were ten circles of bronze, and thereon were twenty white bosses of tin, and one in the midst of black cyanus. And thereon was embossed the Gorgon fell of aspect glaring terribly, and about her were Dread and Terror" (Iliad 11.34-39)
+[^il11-helm]: "on his head Agamemnon set a two-crested helm with fourfold plate, and plume of horse-hair, and terribly the crest nodded from above. And he grasped two strong spears, shod with bronze and keen, and far forth from him into the heaven shone the bronze; and thereat Hera and Athene thundered, honouring the king of Mykene rich in gold" (Iliad 11.42-46)
 
-[^il2-appearance]: "in their midst lord Agamemnon, his head and eyes like unto Zeus whose joy is in the thunder, and his waist like unto Ares and his breast unto Poseidon. Even as a bull standeth out far foremost amid the herd, for he is pre-eminent amid the pasturing kine, even such did Zeus make Atreides on that day, pre-eminent among many and chief amid heroes" (Iliad II.1222-1227, trans. Lang, Leaf, and Myers)
+[^il2-appearance]: "in their midst lord Agamemnon, his head and eyes like unto Zeus whose joy is in the thunder, and his waist like unto Ares and his breast unto Poseidon. Even as a bull standeth out far foremost amid the herd, for he is pre-eminent amid the pasturing kine, even such did Zeus make Atreides on that day, pre-eminent among many and chief amid heroes" (Iliad 2.462-467, trans. Lang, Leaf, and Myers)
 
 ## In the Bibliotheca
 

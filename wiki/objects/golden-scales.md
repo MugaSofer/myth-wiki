@@ -24,8 +24,8 @@ Before the final duel, Zeus weighs the fates of the two champions individually: 
 
 The second weighing is especially significant: the moment Hector's lot sinks, Apollo — who had been protecting him — abandons him to his fate. The scales thus mark the point at which even divine favour yields to destiny.
 
-[^il8-scales]: "when the sun bestrode mid-heaven, then did the Father balance his golden scales, and put therein two fates of death that layeth men at their length, one for horse-taming Trojans, one for mail-clad Achaians; and he took the scale-yard by the midst and lifted it, and the Achaians' day of destiny sank down" (Iliad VIII.4474-4481, trans. Lang, Leaf, and Myers)
-[^il22-scales]: "then the Father hung his golden balances, and set therein two lots of dreary death, one of Achilles, one of horse-taming Hector, and held them by the midst and poised. Then Hector's fated day sank down, and fell to the house of Hades, and Phoebus Apollo left him" (Iliad XXII.12479-12482, trans. Lang, Leaf, and Myers)
+[^il8-scales]: "when the sun bestrode mid-heaven, then did the Father balance his golden scales, and put therein two fates of death that layeth men at their length, one for horse-taming Trojans, one for mail-clad Achaians; and he took the scale-yard by the midst and lifted it, and the Achaians' day of destiny sank down" (Iliad 8.70-78, trans. Lang, Leaf, and Myers)
+[^il22-scales]: "then the Father hung his golden balances, and set therein two lots of dreary death, one of Achilles, one of horse-taming Hector, and held them by the midst and poised. Then Hector's fated day sank down, and fell to the house of Hades, and Phoebus Apollo left him" (Iliad 22.205-208, trans. Lang, Leaf, and Myers)
 
 ## Appearances
 

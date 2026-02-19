@@ -18,10 +18,10 @@
 - **"knightly Patroklos"** -- used in his dying speech and other solemn passages[^ep-knightly]
 - **"knight Patroklos"** / **"O knight Patroklos"** -- the narrator's direct address, a rare and poignant device[^ep-address]
 
-[^ep-menoitios]: "the strong son of Menoitios" (Iliad XVI.9968, trans. Lang, Leaf, and Myers)
-[^ep-zeus]: "Patroklos of the seed of Zeus! Not beneath thy spear is it fated that the city of the valiant Trojans shall fall" (Iliad XVI.9863-9864, trans. Lang, Leaf, and Myers)
-[^ep-knightly]: "Then faintly didst thou answer him, knightly Patroklos" (Iliad XVI.9983, trans. Lang, Leaf, and Myers)
-[^ep-address]: "But with a heavy groan didst thou speak unto him, O knight Patroklos" (Iliad XVI.9449, trans. Lang, Leaf, and Myers)
+[^ep-menoitios]: "the strong son of Menoitios" (Iliad 16.799, trans. Lang, Leaf, and Myers)
+[^ep-zeus]: "Patroklos of the seed of Zeus! Not beneath thy spear is it fated that the city of the valiant Trojans shall fall" (Iliad 16.644-645, trans. Lang, Leaf, and Myers)
+[^ep-knightly]: "Then faintly didst thou answer him, knightly Patroklos" (Iliad 16.821, trans. Lang, Leaf, and Myers)
+[^ep-address]: "But with a heavy groan didst thou speak unto him, O knight Patroklos" (Iliad 16.32, trans. Lang, Leaf, and Myers)
 
 ## Parentage and Early Life
 
@@ -31,7 +31,7 @@ His ghost reveals his early history: Menoitios brought him as a child from Opoei
 
 [^cat-cousin]: "Hesiod says that Menoethius the father of Patroclus, was a brother of Peleus, so that in that case they were first cousins" (Catalogue of Women, Fragment 61, cited by Eustathius, trans. H.G. Evelyn-White)
 
-[^il23-childhood]: "Menoitios brought me yet a little one from Opoeis to your country by reason of a grievous man-slaying, on the day when I slew Amphidamas' son, not willing it, in childish wrath over the dice. Then took me the knight Peleus into his house and reared me kindly and named me thy squire" (Iliad XXIII.12837-12841, trans. Lang, Leaf, and Myers)
+[^il23-childhood]: "Menoitios brought me yet a little one from Opoeis to your country by reason of a grievous man-slaying, on the day when I slew Amphidamas' son, not willing it, in childish wrath over the dice. Then took me the knight Peleus into his house and reared me kindly and named me thy squire" (Iliad 23.97-102, trans. Lang, Leaf, and Myers)
 
 ## Appearance
 
@@ -39,8 +39,8 @@ The [Iliad](../sources/iliad.md) gives no direct description of Patroclus's natu
 
 The only description of his features comes after death, when his ghost appears to Achilles: "in all things like his living self, in stature, and fair eyes, and voice, and the raiment of his body was the same."[^app-ghost] This tells us he had "fair eyes" and a recognisable stature, but nothing more specific.
 
-[^app-arming]: "His goodly greaves, fitted with silver clasps, he first girt round his legs, and next did on around his breast the well-dight starry corslet of the swift-footed son of Aiakos. And round his shoulders he cast a sword of bronze, with studs of silver, and next took the great and mighty shield, and on his proud head set a well-wrought helm with a horse-hair crest, and terribly nodded the crest from above." (Iliad XVI.9533-9539, trans. Lang, Leaf, and Myers)
-[^app-ghost]: "in all things like his living self, in stature, and fair eyes, and voice, and the raiment of his body was the same" (Iliad XXIII.12821-12822, trans. Lang, Leaf, and Myers)
+[^app-arming]: "His goodly greaves, fitted with silver clasps, he first girt round his legs, and next did on around his breast the well-dight starry corslet of the swift-footed son of Aiakos. And round his shoulders he cast a sword of bronze, with studs of silver, and next took the great and mighty shield, and on his proud head set a well-wrought helm with a horse-hair crest, and terribly nodded the crest from above." (Iliad 16.157-165, trans. Lang, Leaf, and Myers)
+[^app-ghost]: "in all things like his living self, in stature, and fair eyes, and voice, and the raiment of his body was the same" (Iliad 23.78-79, trans. Lang, Leaf, and Myers)
 
 ## In the [Iliad](../sources/iliad.md)
 
@@ -48,7 +48,7 @@ The only description of his features comes after death, when his ghost appears t
 
 From the poem's opening, Patroclus is at Achilles' side. When the heralds come to take Briseis, "Patroklos hearkened to his dear comrade, and led forth from the hut fair-cheeked Briseis."[^il1-briseis] In Book IX, during the embassy, Patroclus silently attends Achilles, preparing the meal and spreading beds for the envoys.
 
-[^il1-briseis]: "Patroklos hearkened to his dear comrade, and led forth from the hut fair-cheeked Briseis" (Iliad I.518, trans. Lang, Leaf, and Myers)
+[^il1-briseis]: "Patroklos hearkened to his dear comrade, and led forth from the hut fair-cheeked Briseis" (Iliad 1.342, trans. Lang, Leaf, and Myers)
 
 ### The Appeal to Achilles (Book XVI)
 
@@ -58,21 +58,21 @@ Patroclus lists the wounded heroes and rebukes Achilles' intransigence: "Pitiles
 
 Achilles consents but warns him to go no further than driving the Trojans from the ships: "long not thou apart from me to fight with the war-loving Trojans... lest one of the eternal gods from Olympus come against thee; right dearly doth Apollo the Far-darter love them."[^il16-warning]
 
-[^il16-weeping]: "Wherefore weepest thou, Patroklos, like a fond little maid, that runs by her mother's side, and bids her mother take her up, snatching at her gown, and hinders her in her going, and tearfully looks at her, till the mother takes her up?" (Iliad XVI.9439-9442, trans. Lang, Leaf, and Myers)
-[^il16-rebuke]: "Pitiless that thou art, the knight Peleus was not then thy father, nor Thetis thy mother, but the grey sea bare thee, and the sheer cliffs, so untoward is thy spirit" (Iliad XVI.9460-9462, trans. Lang, Leaf, and Myers)
-[^il16-warning]: "long not thou apart from me to fight with the war-loving Trojans; thereby wilt thou minish mine honour... lest one of the eternal gods from Olympus come against thee; right dearly doth Apollo the Far-darter love them" (Iliad XVI.9493-9497, trans. Lang, Leaf, and Myers)
+[^il16-weeping]: "Wherefore weepest thou, Patroklos, like a fond little maid, that runs by her mother's side, and bids her mother take her up, snatching at her gown, and hinders her in her going, and tearfully looks at her, till the mother takes her up?" (Iliad 16.18-22, trans. Lang, Leaf, and Myers)
+[^il16-rebuke]: "Pitiless that thou art, the knight Peleus was not then thy father, nor Thetis thy mother, but the grey sea bare thee, and the sheer cliffs, so untoward is thy spirit" (Iliad 16.49-52, trans. Lang, Leaf, and Myers)
+[^il16-warning]: "long not thou apart from me to fight with the war-loving Trojans; thereby wilt thou minish mine honour... lest one of the eternal gods from Olympus come against thee; right dearly doth Apollo the Far-darter love them" (Iliad 16.97-103, trans. Lang, Leaf, and Myers)
 
 ### Borrowing Achilles' Armour (Book XVI)
 
 Patroclus arms himself in Achilles' divine equipment -- greaves, corslet, shield, helm, sword -- but notably not the Pelian spear: "he took not the spear of the noble son of Aiakos, heavy, and huge, and stalwart, that none other of the Achaians could wield."[^il16-spear] This detail is significant: even wearing Achilles' armour, Patroclus cannot fully become Achilles. The spear that no other man can lift marks the irreducible gap between them.
 
-[^il16-spear]: "he took not the spear of the noble son of Aiakos, heavy, and huge, and stalwart, that none other of the Achaians could wield" (Iliad XVI.9540-9542, trans. Lang, Leaf, and Myers)
+[^il16-spear]: "he took not the spear of the noble son of Aiakos, heavy, and huge, and stalwart, that none other of the Achaians could wield" (Iliad 16.167-170, trans. Lang, Leaf, and Myers)
 
 ### Apollo Drives Him from Troy's Wall (Book XVI)
 
 Patroclus pushes the Trojans back, but exceeds Achilles' warning and assaults Troy itself. [Apollo](../deities/apollo.md) drives him back three times: "Thrice clomb Patroklos on the corner of the lofty wall, and thrice did Apollo force him back and smote the shining shield with his immortal hands." On the fourth attempt, the god issues a terrible warning: "Give back, Patroklos of the seed of Zeus! Not beneath thy spear is it fated that the city of the valiant Trojans shall fall, nay nor beneath Achilles, a man far better than thou."[^il16-wall]
 
-[^il16-wall]: "Thrice clomb Patroklos on the corner of the lofty wall, and thrice did Apollo force him back and smote the shining shield with his immortal hands. But when for the fourth time he came on like a god, then cried far-darting Apollo terribly, and spake winged words: 'Give back, Patroklos of the seed of Zeus! Not beneath thy spear is it fated that the city of the valiant Trojans shall fall, nay nor beneath Achilles, a man far better than thou'" (Iliad XVI.9858-9865, trans. Lang, Leaf, and Myers)
+[^il16-wall]: "Thrice clomb Patroklos on the corner of the lofty wall, and thrice did Apollo force him back and smote the shining shield with his immortal hands. But when for the fourth time he came on like a god, then cried far-darting Apollo terribly, and spake winged words: 'Give back, Patroklos of the seed of Zeus! Not beneath thy spear is it fated that the city of the valiant Trojans shall fall, nay nor beneath Achilles, a man far better than thou'" (Iliad 16.637-647, trans. Lang, Leaf, and Myers)
 
 ### Apollo Slays Patroclus (Book XVI)
 
@@ -82,7 +82,7 @@ The death of Patroclus is one of the most carefully described divine interventio
 
 The stripping is theological: Apollo removes each piece of borrowed divine armour, returning Patroclus to his mortal vulnerability. Euphorbus wounds him from behind, and finally Hector delivers the killing blow.
 
-[^il16-apollo-strikes]: "Phoebus met thee in the strong battle, in dreadful wise. And Patroklos was not ware of him coming through the press, for hidden in thick mist did he meet him, and stood behind him, and smote his back and broad shoulders with a down-stroke of his hand, and his eyes were dazed. And from his head Phoebus Apollo smote the helmet... And all the long-shadowed spear was shattered in the hands of Patroklos... while from his shoulders the tasselled shield with the baldric fell to the ground. And the prince Apollo, son of Zeus, loosed his corslet, and blindness seized his heart and his shining limbs were unstrung" (Iliad XVI.9935-9947, trans. Lang, Leaf, and Myers)
+[^il16-apollo-strikes]: "Phoebus met thee in the strong battle, in dreadful wise. And Patroklos was not ware of him coming through the press, for hidden in thick mist did he meet him, and stood behind him, and smote his back and broad shoulders with a down-stroke of his hand, and his eyes were dazed. And from his head Phoebus Apollo smote the helmet... And all the long-shadowed spear was shattered in the hands of Patroklos... while from his shoulders the tasselled shield with the baldric fell to the ground. And the prince Apollo, son of Zeus, loosed his corslet, and blindness seized his heart and his shining limbs were unstrung" (Iliad 16.750-768, trans. Lang, Leaf, and Myers)
 
 ### Dying Words (Book XVI)
 
@@ -92,9 +92,9 @@ He then prophesies Hector's own death: "verily thou thyself art not long to live
 
 "And his soul, fleeting from his limbs, went down to the house of Hades, wailing its own doom, leaving manhood and youth."[^il16-soul]
 
-[^il16-dying]: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying" (Iliad XVI.9987-9988, trans. Lang, Leaf, and Myers)
-[^il16-prophecy]: "verily thou thyself art not long to live, but already doth Death stand hard by thee, and strong Fate, that thou art to be subdued by the hands of noble Achilles, of the seed of Aiakos" (Iliad XVI.9990-9993, trans. Lang, Leaf, and Myers)
-[^il16-soul]: "his soul, fleeting from his limbs, went down to the house of Hades, wailing its own doom, leaving manhood and youth" (Iliad XVI.9996-9997, trans. Lang, Leaf, and Myers)
+[^il16-dying]: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying" (Iliad 16.827-829, trans. Lang, Leaf, and Myers)
+[^il16-prophecy]: "verily thou thyself art not long to live, but already doth Death stand hard by thee, and strong Fate, that thou art to be subdued by the hands of noble Achilles, of the seed of Aiakos" (Iliad 16.832-836, trans. Lang, Leaf, and Myers)
+[^il16-soul]: "his soul, fleeting from his limbs, went down to the house of Hades, wailing its own doom, leaving manhood and youth" (Iliad 16.840-842, trans. Lang, Leaf, and Myers)
 
 ### Achilles' Grief and Thetis's Lament (Book XVIII)
 
@@ -102,8 +102,8 @@ The news of Patroclus's death triggers one of the poem's great mythological sequ
 
 [Athena](../deities/athena.md) then casts her aegis around Achilles and sets blazing fire on his head -- "Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" -- enabling him to recover the body. Thetis commissions new divine armour from [Hephaestus](../deities/hephaestus.md).[^il18-shout]
 
-[^il18-thetis]: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee" (Iliad XVIII.10527-10529, trans. Lang, Leaf, and Myers)
-[^il18-shout]: See [Athena](../deities/athena.md) -- "Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" (Iliad XVIII.10562, trans. Lang, Leaf, and Myers)
+[^il18-thetis]: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee" (Iliad 18.109-111, trans. Lang, Leaf, and Myers)
+[^il18-shout]: See [Athena](../deities/athena.md) -- "Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" (Iliad 18.155, trans. Lang, Leaf, and Myers)
 
 ### The Ghost of Patroclus (Book XXIII)
 
@@ -117,10 +117,10 @@ When Achilles reaches out to embrace him, "like a vapour the spirit was gone ben
 
 This passage establishes that the dead possess form and identity but not the "heart of life" -- they are recognisable but ultimately insubstantial. The unburied dead are denied entry even to this diminished existence.
 
-[^il23-ghost-appears]: "then came there unto him the spirit of hapless Patroklos, in all things like his living self, in stature, and fair eyes, and voice, and the raiment of his body was the same" (Iliad XXIII.12820-12822, trans. Lang, Leaf, and Myers)
-[^il23-ghost-plea]: "Bury me with all speed, that I pass the gates of Hades. Far off the spirits banish me, the phantoms of men outworn, nor suffer me to mingle with them beyond the River, but vainly I wander along the wide-gated dwelling of Hades" (Iliad XXIII.12824-12828, trans. Lang, Leaf, and Myers)
-[^il23-ghost-bones]: "Lay not my bones apart from thine, Achilles, but together, even as we were nurtured in your house" (Iliad XXIII.12835-12836, trans. Lang, Leaf, and Myers)
-[^il23-ghost-vanish]: "like a vapour the spirit was gone beneath the earth with a faint shriek... Ay me, there remaineth then even in the house of Hades a spirit and phantom of the dead, albeit the life be not anywise therein" (Iliad XXIII.12851-12854, trans. Lang, Leaf, and Myers)
+[^il23-ghost-appears]: "then came there unto him the spirit of hapless Patroklos, in all things like his living self, in stature, and fair eyes, and voice, and the raiment of his body was the same" (Iliad 23.76-79, trans. Lang, Leaf, and Myers)
+[^il23-ghost-plea]: "Bury me with all speed, that I pass the gates of Hades. Far off the spirits banish me, the phantoms of men outworn, nor suffer me to mingle with them beyond the River, but vainly I wander along the wide-gated dwelling of Hades" (Iliad 23.81-86, trans. Lang, Leaf, and Myers)
+[^il23-ghost-bones]: "Lay not my bones apart from thine, Achilles, but together, even as we were nurtured in your house" (Iliad 23.95-96, trans. Lang, Leaf, and Myers)
+[^il23-ghost-vanish]: "like a vapour the spirit was gone beneath the earth with a faint shriek... Ay me, there remaineth then even in the house of Hades a spirit and phantom of the dead, albeit the life be not anywise therein" (Iliad 23.114-118, trans. Lang, Leaf, and Myers)
 
 ## In the [Epic Cycle](../sources/epic-cycle.md)
 

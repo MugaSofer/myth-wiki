@@ -25,7 +25,7 @@ In the [Iliad](../sources/iliad.md), when [Patroclus](../heroes/patroclus.md) bo
 
 This detail is significant — even wearing Achilles' divine armour, Patroclus cannot fully become Achilles. The spear marks the irreducible gap between them.
 
-[^il16-spear]: "he took not the spear of the noble son of Aiakos, heavy, and huge, and stalwart, that none other of the Achaians could wield, but Achilles alone awaited to wield it, the Pelian ashen spear that Cheiron gave to his father dear, from a peak of Pelion, to be the death of warriors" (Iliad XVI.9540-9544, trans. Lang, Leaf, and Myers)
+[^il16-spear]: "he took not the spear of the noble son of Aiakos, heavy, and huge, and stalwart, that none other of the Achaians could wield, but Achilles alone awaited to wield it, the Pelian ashen spear that Cheiron gave to his father dear, from a peak of Pelion, to be the death of warriors" (Iliad 16.167-173, trans. Lang, Leaf, and Myers)
 
 ## In Battle
 
@@ -33,7 +33,7 @@ When Achilles pursues [Hector](../heroes/hector.md), the spear is part of the te
 
 In the [Metamorphoses](../sources/metamorphoses.md), Achilles drives his chariot through the Trojan army "making a lane with his great spear, shaped from a Pelion tree."[^met-charge]
 
-[^il22-pursuit]: "nigh on him came Achilles, peer of Enyalios warrior of the waving helm, brandishing from his right shoulder the Pelian ash, his terrible spear; and all around the bronze on him flashed like the gleam of blazing fire or of the Sun as he ariseth. And trembling seized Hector as he was aware of him." (Iliad XXII.12412-12416, trans. Lang, Leaf, and Myers)
+[^il22-pursuit]: "nigh on him came Achilles, peer of Enyalios warrior of the waving helm, brandishing from his right shoulder the Pelian ash, his terrible spear; and all around the bronze on him flashed like the gleam of blazing fire or of the Sun as he ariseth. And trembling seized Hector as he was aware of him." (Iliad 22.130-135, trans. Lang, Leaf, and Myers)
 [^met-charge]: "Achilles pressed his rapid chariot straight through the Trojan army; making a lane with his great spear, shaped from a Pelion tree" (Metamorphoses 12.72-74, trans. Brookes More)
 
 ## Healing Power

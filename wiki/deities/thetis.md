@@ -19,9 +19,9 @@
 
 She rises from the sea "like a mist" to meet her son: "With speed arose she from the grey sea, like a mist, and sate her before the face of her weeping son."[^il1-mist]
 
-[^il1-silver]: "silver-footed Thetis" (Iliad I.538, etc., trans. Lang, Leaf, and Myers)
-[^il1-ancient]: "the daughter of the Ancient of the sea, Thetis the silver-footed" (Iliad I.705-706)
-[^il1-mist]: "With speed arose she from the grey sea, like a mist, and sate her before the face of her weeping son, and stroked him with her hand" (Iliad I.532-534)
+[^il1-silver]: "silver-footed Thetis" (Iliad 1.362, etc., trans. Lang, Leaf, and Myers)
+[^il1-ancient]: "the daughter of the Ancient of the sea, Thetis the silver-footed" (Iliad 1.534-535)
+[^il1-mist]: "With speed arose she from the grey sea, like a mist, and sate her before the face of her weeping son, and stroked him with her hand" (Iliad 1.356-358)
 
 ## In the Theogony
 
@@ -51,16 +51,16 @@ Achilles recalls how Thetis once saved [Zeus](zeus.md): "thou alone amid the imm
 
 Thetis travels to Olympus to beg [Zeus](zeus.md) to honour Achilles: "she sat before his face and with her left hand clasped his knees, and with her right touched him beneath his chin." She asks: "Father Zeus, if ever I gave thee aid amid the immortal gods, whether by word or deed, fulfil thou this my desire: do honour to my son, that is doomed to earliest death of all men."[^il1-supplicate]
 
-[^il1-comfort]: "his lady mother heard him as she sate in the sea-depths beside her aged sire. With speed arose she from the grey sea, like a mist, and sate her before the face of her weeping son, and stroked him with her hand, and spake and called on his name: 'My child, why weepest thou? What sorrow hath entered into thy heart?'" (Iliad I.531-536)
-[^il1-lament]: "Ah me, my child, why reared I thee, cursed in my motherhood? Would thou hadst been left tearless and griefless amid the ships, seeing thy lot is very brief and endureth no long while; but now art thou made short-lived alike and lamentable beyond all men; in an evil hour I bare thee in our halls" (Iliad I.584-589)
-[^il1-binding]: "thou alone amid the immortals didst save the son of Kronos, lord of the storm-cloud, from shameful wreck, when all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene. Then didst thou, O goddess, enter in and loose him from his bonds, having with speed summoned to high Olympus him of the hundred arms whom gods call Briareus" (Iliad I.566-572)
-[^il1-supplicate]: "she sat before his face and with her left hand clasped his knees, and with her right touched him beneath his chin, and spake in prayer to king Zeus son of Kronos: 'Father Zeus, if ever I gave thee aid amid the immortal gods, whether by word or deed, fulfil thou this my desire: do honour to my son, that is doomed to earliest death of all men'" (Iliad I.669-674)
+[^il1-comfort]: "his lady mother heard him as she sate in the sea-depths beside her aged sire. With speed arose she from the grey sea, like a mist, and sate her before the face of her weeping son, and stroked him with her hand, and spake and called on his name: 'My child, why weepest thou? What sorrow hath entered into thy heart?'" (Iliad 1.355-360)
+[^il1-lament]: "Ah me, my child, why reared I thee, cursed in my motherhood? Would thou hadst been left tearless and griefless amid the ships, seeing thy lot is very brief and endureth no long while; but now art thou made short-lived alike and lamentable beyond all men; in an evil hour I bare thee in our halls" (Iliad 1.410-415)
+[^il1-binding]: "thou alone amid the immortals didst save the son of Kronos, lord of the storm-cloud, from shameful wreck, when all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene. Then didst thou, O goddess, enter in and loose him from his bonds, having with speed summoned to high Olympus him of the hundred arms whom gods call Briareus" (Iliad 1.391-397)
+[^il1-supplicate]: "she sat before his face and with her left hand clasped his knees, and with her right touched him beneath his chin, and spake in prayer to king Zeus son of Kronos: 'Father Zeus, if ever I gave thee aid amid the immortal gods, whether by word or deed, fulfil thou this my desire: do honour to my son, that is doomed to earliest death of all men'" (Iliad 1.497-502)
 
 ### Achilles' Two Fates (Book IX)
 
 In [Iliad](../sources/iliad.md) Book IX, Achilles reveals what Thetis has told him of his destiny: "my goddess mother telleth me, Thetis the silver-footed, that twain fates are bearing me to the issue of death. If I abide here and besiege the Trojans' city, then my returning home is taken from me, but my fame shall be imperishable; but if I go home to my dear native land, my high fame is taken from me, but my life shall endure long while, neither shall the issue of death soon reach me."[^il9-fates]
 
-[^il9-fates]: "my goddess mother telleth me, Thetis the silver-footed, that twain fates are bearing me to the issue of death. If I abide here and besiege the Trojans' city, then my returning home is taken from me, but my fame shall be imperishable; but if I go home to my dear native land, my high fame is taken from me, but my life shall endure long while, neither shall the issue of death soon reach me" (Iliad IX.5301-5307, trans. Lang, Leaf, and Myers)
+[^il9-fates]: "my goddess mother telleth me, Thetis the silver-footed, that twain fates are bearing me to the issue of death. If I abide here and besiege the Trojans' city, then my returning home is taken from me, but my fame shall be imperishable; but if I go home to my dear native land, my high fame is taken from me, but my life shall endure long while, neither shall the issue of death soon reach me" (Iliad 9.405-411, trans. Lang, Leaf, and Myers)
 
 ### Sheltering Dionysus (Book VI)
 
@@ -68,7 +68,7 @@ In [Iliad](../sources/iliad.md) Book VI, Diomedes recounts how when Lykurgos cha
 
 This is the second instance of Thetis sheltering a god who falls or flees into the sea — [Hephaestus](hephaestus.md) being the first (Hymn III).
 
-[^il6-dionysus]: "Dionysos fled and plunged beneath the salt sea-wave, and Thetis took him to her bosom, affrighted, for a mighty trembling had seized him at his foe's rebuke" (Iliad VI.3584-3586, trans. Lang, Leaf, and Myers)
+[^il6-dionysus]: "Dionysos fled and plunged beneath the salt sea-wave, and Thetis took him to her bosom, affrighted, for a mighty trembling had seized him at his foe's rebuke" (Iliad 6.136-138, trans. Lang, Leaf, and Myers)
 
 ### Lament and the Nereids (Book XVIII)
 
@@ -82,10 +82,10 @@ She confirms his fate: "Short-lived, I ween, must thou be then, my child, by wha
 
 Thetis goes to Olympus to commission new armour — including the [Shield of Achilles](../objects/shield-of-achilles.md) — from [Hephaistos](hephaestus.md). She describes her forced marriage to Peleus: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will."[^il18-marriage]
 
-[^il18-nereids]: "terribly moaned Achilles; and his lady mother heard him as she sate in the depths of the sea beside her ancient sire. And thereon she uttered a cry, and the goddesses flocked around her, all the daughters of Nereus that were in the deep of the sea" (Iliad XVIII.10482-10486, trans. Lang, Leaf, and Myers)
-[^il18-lament]: "Listen, sister Nereids, that ye all hear and know well what sorrows are in my heart. Ay me unhappy, ay me that bare to my sorrow the first of men! For after I had borne a son noble and strong, the chief of heroes, and he shot up like a young branch, then when I had reared him as a plant in a very fruitful field I sent him in beaked ships to Ilios to fight against the men of Troy; but never again shall I welcome him back to his home, to the house of Peleus" (Iliad XVIII.10487-10494)
-[^il18-fate]: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee" (Iliad XVIII.10527-10529)
-[^il18-marriage]: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will" (Iliad XVIII.10737-10739)
+[^il18-nereids]: "terribly moaned Achilles; and his lady mother heard him as she sate in the depths of the sea beside her ancient sire. And thereon she uttered a cry, and the goddesses flocked around her, all the daughters of Nereus that were in the deep of the sea" (Iliad 18.49-54, trans. Lang, Leaf, and Myers)
+[^il18-lament]: "Listen, sister Nereids, that ye all hear and know well what sorrows are in my heart. Ay me unhappy, ay me that bare to my sorrow the first of men! For after I had borne a son noble and strong, the chief of heroes, and he shot up like a young branch, then when I had reared him as a plant in a very fruitful field I sent him in beaked ships to Ilios to fight against the men of Troy; but never again shall I welcome him back to his home, to the house of Peleus" (Iliad 18.56-65)
+[^il18-fate]: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee" (Iliad 18.109-111)
+[^il18-marriage]: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will" (Iliad 18.387-389)
 
 ## In the Odyssey
 
@@ -101,12 +101,12 @@ After the cremation — "when the flame of [Hephaestus](hephaestus.md) had utter
 
 Finally, Thetis organised funeral games: "Then thy mother asked the gods for glorious prizes in the games, and set them in the midst of the lists for the champions of the Achaeans... such glorious prizes did the goddess set there to honour thee, even Thetis, the silver-footed; for very dear wert thou to the gods."[^od24-games]
 
-[^od24-arrival]: "forth from the sea came thy mother with the deathless maidens of the waters, when they heard the tidings; and a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans" (Odyssey XXIV.12600-12603, trans. Butcher and Lang)
-[^od24-nereids]: "Then round thee stood the daughters of the ancient one of the sea, holding a pitiful lament, and they clad thee about in raiment incorruptible" (Odyssey XXIV.12613-12615, trans. Butcher and Lang)
-[^od24-muses]: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant" (Odyssey XXIV.12615-12617, trans. Butcher and Lang)
-[^od24-seventeen]: "seventeen days and nights continually did we all bewail thee, immortal gods and mortal men" (Odyssey XXIV.12618-12619, trans. Butcher and Lang)
-[^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey XXIV.12627-12629, trans. Butcher and Lang)
-[^od24-games]: "Then thy mother asked the gods for glorious prizes in the games, and set them in the midst of the lists for the champions of the Achaeans... such glorious prizes did the goddess set there to honour thee, even Thetis, the silver-footed; for very dear wert thou to the gods" (Odyssey XXIV.12636-12643, trans. Butcher and Lang)
+[^od24-arrival]: "forth from the sea came thy mother with the deathless maidens of the waters, when they heard the tidings; and a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans" (Odyssey 24.54-57, trans. Butcher and Lang)
+[^od24-nereids]: "Then round thee stood the daughters of the ancient one of the sea, holding a pitiful lament, and they clad thee about in raiment incorruptible" (Odyssey 24.67-69, trans. Butcher and Lang)
+[^od24-muses]: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant" (Odyssey 24.69-71, trans. Butcher and Lang)
+[^od24-seventeen]: "seventeen days and nights continually did we all bewail thee, immortal gods and mortal men" (Odyssey 24.72-73, trans. Butcher and Lang)
+[^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus" (Odyssey 24.81-83, trans. Butcher and Lang)
+[^od24-games]: "Then thy mother asked the gods for glorious prizes in the games, and set them in the midst of the lists for the champions of the Achaeans... such glorious prizes did the goddess set there to honour thee, even Thetis, the silver-footed; for very dear wert thou to the gods" (Odyssey 24.90-97, trans. Butcher and Lang)
 
 ## In the Hesiodic Fragments
 

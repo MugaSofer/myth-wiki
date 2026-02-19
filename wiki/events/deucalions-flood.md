@@ -86,7 +86,7 @@ In the [Odyssey](../sources/odyssey.md), a different Deucalion (son of Minos) ap
 
 [^apd-lycaon]: "when Nyctimus succeeded to the kingdom, there occurred the flood in the age of Deucalion; some said that it was occasioned by the impiety of Lycaon's sons" (Bibliotheca 3.8.2, trans. Frazer)
 [^apd-cranaus]: "it was in his time that the flood in the age of Deucalion is said to have taken place" (Bibliotheca 3.14.5, trans. Frazer)
-[^od19-deucalion]: "Deucalion, high of heart. Now Deucalion begat me and Idomeneus the prince" (Odyssey XIX.10347, trans. Butcher and Lang)
+[^od19-deucalion]: "Deucalion, high of heart. Now Deucalion begat me and Idomeneus the prince" (Odyssey 19.202, trans. Butcher and Lang)
 
 ## In the Fabulae
 

@@ -23,8 +23,8 @@
 - **"Artemis of the golden throne"** — ([Iliad](../sources/iliad.md) IX.5402; [Odyssey](../sources/odyssey.md) V)[^il9-boar]
 - **"archer Artemis"** / **"the daughters archer Artemis"** — ([Iliad](../sources/iliad.md) XXI.12337; XXIV.14061)
 
-[^il21-queen]: "his sister upbraided him sore, the queen of wild beasts, huntress Artemis, and spake a taunting word" (Iliad XXI.12164-12165, trans. Lang, Leaf, and Myers)
-[^il21-faircrown]: "And to him in answer spake the fair-crowned queen of the echoing chase: 'It was thy wife that buffeted me, father, the white-armed Hera'" (Iliad XXI.12204-12205)
+[^il21-queen]: "his sister upbraided him sore, the queen of wild beasts, huntress Artemis, and spake a taunting word" (Iliad 21.465-466, trans. Lang, Leaf, and Myers)
+[^il21-faircrown]: "And to him in answer spake the fair-crowned queen of the echoing chase: 'It was thy wife that buffeted me, father, the white-armed Hera'" (Iliad 21.509-510)
 
 [^desc-arrows]: "Artemis delighting in arrows, children lovely above all the sons of Heaven" (Theogony 919-920, trans. H.G. Evelyn-White)
 [^desc-goldenbow]: "I sing of Artemis, whose shafts are of gold, who cheers on the hounds, the pure maiden, shooter of stags, who delights in archery, own sister to Apollo with the golden sword" (Homeric Hymn XXVII to Artemis 1-3)
@@ -53,7 +53,7 @@ In Hymn XXVII she is described as an active figure in the landscape: "Over the s
 - **Slayer of women:** [Hera](hera.md) characterises Artemis's role: "against women [Zeus](zeus.md) made thee a lion, and giveth thee to slay whomso of them thou wilt" ([Iliad](../sources/iliad.md) XXI.12176-12177).[^il21-lion]
 - **Substitution and transport:** At Aulis, she "cast mist about" Iphigenia, "substituted a deer in her place," and "bore Iphigenia through the clouds to the Tauric land."[^hyg-98-substitution][^hyg-98-priestess]
 
-[^il21-lion]: "against women Zeus made thee a lion, and giveth thee to slay whomso of them thou wilt" (Iliad XXI.12176-12177)
+[^il21-lion]: "against women Zeus made thee a lion, and giveth thee to slay whomso of them thou wilt" (Iliad 21.478-479)
 [^bow-painless]: See [Artemis's Bow](../objects/artemis-bow.md) for full citations.
 
 ## Birth
@@ -137,8 +137,8 @@ In Andromache's lament, she tells how Achilles destroyed her family but spared h
 
 Both passages show Artemis as a bringer of death to women, striking suddenly and without elaboration.
 
-[^il6-bellerophon]: "his daughter was slain in wrath of gold-gleaming Artemis" (Iliad VI.3641-3642, trans. Lang, Leaf, and Myers)
-[^il6-andromache]: "in her father's halls was she smitten by the Archer Artemis" (Iliad VI.3859)
+[^il6-bellerophon]: "his daughter was slain in wrath of gold-gleaming Artemis" (Iliad 6.196-197, trans. Lang, Leaf, and Myers)
+[^il6-andromache]: "in her father's halls was she smitten by the Archer Artemis" (Iliad 6.424)
 
 ## In the Bibliotheca
 
@@ -184,7 +184,7 @@ The [Bibliotheca](../sources/apollodorus.md) describes the Cerynitian hind, the 
 
 In Calypso's bitter speech against the gods' jealousy, Artemis is named as the instrument of Orion's death after [Eos](eos.md) took him as her lover: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste Artemis, of the golden throne, slew him in Ortygia with the visitation of her gentle shafts."[^od5-orion]
 
-[^od5-orion]: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste Artemis, of the golden throne, slew him in Ortygia with the visitation of her gentle shafts" (Odyssey V.3095-3098, trans. Butcher and Lang)
+[^od5-orion]: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste Artemis, of the golden throne, slew him in Ortygia with the visitation of her gentle shafts" (Odyssey 5.121-124, trans. Butcher and Lang)
 
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
@@ -228,16 +228,16 @@ In Phoenix's tale, Artemis punished King Oineus for failing to sacrifice to her:
 
 Meleager slew the boar "having gathered together from many cities huntsmen and hounds; for not of few men could the boar be slain, so mighty was he." Then Artemis "made much turmoil over him and tumult concerning the boar's head and shaggy hide," leading to war between the Kuretes and Aitolians.[^il9-aftermath]
 
-[^il9-boar]: "Artemis of the golden throne had brought a plague upon them, in wrath that Oineus offered her not the harvest first-fruits on the fat of his garden land; for all the other gods had their feast of hecatombs, and only to the daughter of great Zeus offered he not, whether he forgat or marked it not; and therein sinned he sore in his heart. So the Archer-goddess was wroth and sent against him a creature of heaven, a fierce wild boar, white-tusked" (Iliad IX.5402-5409, trans. Lang, Leaf, and Myers)
-[^il9-aftermath]: "the goddess made much turmoil over him and tumult concerning the boar's head and shaggy hide, between the Kuretes and great-hearted Aitolians" (Iliad IX.5413-5415)
+[^il9-boar]: "Artemis of the golden throne had brought a plague upon them, in wrath that Oineus offered her not the harvest first-fruits on the fat of his garden land; for all the other gods had their feast of hecatombs, and only to the daughter of great Zeus offered he not, whether he forgat or marked it not; and therein sinned he sore in his heart. So the Archer-goddess was wroth and sent against him a creature of heaven, a fierce wild boar, white-tusked" (Iliad 9.519-527, trans. Lang, Leaf, and Myers)
+[^il9-aftermath]: "the goddess made much turmoil over him and tumult concerning the boar's head and shaggy hide, between the Kuretes and great-hearted Aitolians" (Iliad 9.532-534)
 - **[Iliad](../sources/iliad.md)** IX: The Calydonian Boar — sent against Oineus for failing to offer first-fruits; "Artemis of the golden throne"; Apollo snatched Marpessa (Ides' wife)
 - **[Iliad](../sources/iliad.md)** XXI: Rebukes Apollo for yielding to Poseidon; beaten by Hera with her own bow ("smiling, beat her on the ears"); arrows scatter; flees weeping like a dove; weeps on Zeus's knee; Zeus laughs gently
 - **[Iliad](../sources/iliad.md)** XXIV: Niobe's daughters — "the daughters archer Artemis" slew, because Niobe matched herself against Leto
 - **[Odyssey](../sources/odyssey.md)** V: "Chaste Artemis, of the golden throne, slew him [Orion] in Ortygia with the visitation of her gentle shafts" — cited by Calypso as divine jealousy toward goddesses who take mortal lovers
 - **[Odyssey](../sources/odyssey.md)** XI: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" — killed Ariadne; Anticleia denies Artemis killed her ("It was not the archer goddess of the keen sight, who slew me in my halls")[^od11-ariadne][^od11-anticleia]
 
-[^od11-ariadne]: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" (Odyssey XI.6208, trans. Butcher and Lang)
-[^od11-anticleia]: "It was not the archer goddess of the keen sight, who slew me in my halls" (Odyssey XI.6102, trans. Butcher and Lang)
+[^od11-ariadne]: "Artemis slew her ere that in sea-girt Dia, by reason of the witness of Dionysus" (Odyssey 11.319, trans. Butcher and Lang)
+[^od11-anticleia]: "It was not the archer goddess of the keen sight, who slew me in my halls" (Odyssey 11.212, trans. Butcher and Lang)
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Angry at Agamemnon's boast that he surpassed her, sends stormy winds to prevent sailing; when told to sacrifice Iphigeneia, "snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"[^cyp-iphigeneia]
 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.4.1, 1.4.3-1.4.5, 1.6.2: Born first on Delos, served as midwife for Apollo's birth; devoted to the chase and remained a maid; slew Orion in Delos (two variant causes); slew Gration in the Gigantomachy

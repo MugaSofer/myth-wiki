@@ -372,7 +372,7 @@ These patterns have developed through use and should be maintained:
 - **`## Appearances`** is always the last content section — a bulleted list of every source mention with brief description.
 - **Footnote IDs** use source-based prefixes: `[^theog-...]`, `[^il5-...]`, `[^od11-...]`, `[^apd-...]`, `[^hymnV-...]`, etc.
 - **Apollodorus citations** use section numbers (Bibliotheca 1.6.2), not line numbers.
-- **Homer/Hesiod citations** use the source text file line numbers.
+- **Homer/Hesiod citations** use standard book-and-line numbers (e.g., "Iliad 1.43-49", "Odyssey 9.105"). Line numbers are approximate (±10 lines) since they were derived by proportional mapping from the prose translation's file line numbers. All citations include full quotes for exact verification.
 - **Hero pages** go in `wiki/heroes/` regardless of gender (Helen is in heroes/).
 - **Circe** is in `wiki/deities/` (she's called a goddess in the Odyssey).
 
@@ -390,6 +390,8 @@ Track progress in `_progress.md`:
 ---
 
 ## Source Material & Translations
+
+**When acquiring new source texts**, prefer editions with standard line numbers embedded in the text (e.g., verse translations or scholarly editions that mark every 5th or 10th line). This makes citation much easier than trying to reverse-engineer line numbers from prose translations.
 
 Primary translations (all public domain):
 

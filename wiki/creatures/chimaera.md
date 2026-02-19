@@ -35,8 +35,8 @@ Here she is called "Chimaira the unconquerable" and her divine origin is emphasi
 
 The [Theogony](../sources/theogony.md) describes three *heads* (lion, dragon, goat) and names [Echidna](echidna.md) and [Typhoeus](typhoeus.md) as parents. The Iliad describes three *parts* (front, middle, behind) without naming specific parents, instead saying she was "of divine birth." The Theogony credits [Pegasus](pegasus.md) and [Bellerophon](../heroes/bellerophon.md) jointly; the Iliad credits [Bellerophon](../heroes/bellerophon.md) alone.
 
-[^il6-chimaira]: "he bade him slay Chimaira the unconquerable. Of divine birth was she and not of men, in front a lion, and behind a serpent, and in the midst a goat; and she breathed dread fierceness of blazing fire" (Iliad VI.3621-3624, trans. Lang, Leaf, and Myers)
-[^il6-slain]: "And her he slew, obedient to the signs of heaven" (Iliad VI.3624)
+[^il6-chimaira]: "he bade him slay Chimaira the unconquerable. Of divine birth was she and not of men, in front a lion, and behind a serpent, and in the midst a goat; and she breathed dread fierceness of blazing fire" (Iliad 6.175-178, trans. Lang, Leaf, and Myers)
+[^il6-slain]: "And her he slew, obedient to the signs of heaven" (Iliad 6.178)
 
 ## In the Bibliotheca (2.3.1)
 

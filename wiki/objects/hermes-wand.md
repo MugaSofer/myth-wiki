@@ -20,7 +20,7 @@ When Hermes and Apollo reconciled after the cattle theft, Apollo gave Hermes "a 
 
 In the [Iliad](../sources/iliad.md), the wand is described in full when [Zeus](../deities/zeus.md) sends Hermes to guide Priam to Achilles: "he took up his wand wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep."[^il24-wand]
 
-[^il24-wand]: "And he took up his wand wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep" (Iliad XXIV.14067-14069, trans. Lang, Leaf, and Myers)
+[^il24-wand]: "And he took up his wand wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep" (Iliad 24.519-521, trans. Lang, Leaf, and Myers)
 
 ## Powers
 

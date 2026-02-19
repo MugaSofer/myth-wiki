@@ -18,10 +18,10 @@
 - **"stalwart Diomedes"** -- used when he speaks or acts in council[^ep-stalwart]
 - **"Tydeides"** / **"Tydeus' son"** -- patronymic, used interchangeably with his name[^ep-tydeides]
 
-[^ep-warcry]: "Diomedes of the loud war-cry prayed thereat: 'Hear me, daughter of aegis-bearing Zeus, unwearied maiden!'" (Iliad V.2698-2699, trans. Lang, Leaf, and Myers)
-[^ep-tamer]: "Diomedes tamer of horses" (Iliad V.3388, trans. Lang, Leaf, and Myers)
-[^ep-stalwart]: "stalwart Diomedes made answer to her and said: 'I know thee, goddess daughter of aegis-bearing Zeus'" (Iliad V.3357-3358, trans. Lang, Leaf, and Myers)
-[^ep-tydeides]: "to Tydeus' son Diomedes Pallas Athene gave might and courage, for him to be pre-eminent amid all the Argives and win glorious renown" (Iliad V.2585-2586, trans. Lang, Leaf, and Myers)
+[^ep-warcry]: "Diomedes of the loud war-cry prayed thereat: 'Hear me, daughter of aegis-bearing Zeus, unwearied maiden!'" (Iliad 5.125-126, trans. Lang, Leaf, and Myers)
+[^ep-tamer]: "Diomedes tamer of horses" (Iliad 5.841, trans. Lang, Leaf, and Myers)
+[^ep-stalwart]: "stalwart Diomedes made answer to her and said: 'I know thee, goddess daughter of aegis-bearing Zeus'" (Iliad 5.808-809, trans. Lang, Leaf, and Myers)
+[^ep-tydeides]: "to Tydeus' son Diomedes Pallas Athene gave might and courage, for him to be pre-eminent amid all the Argives and win glorious renown" (Iliad 5.7-8, trans. Lang, Leaf, and Myers)
 
 ## Parentage
 
@@ -39,8 +39,8 @@ The [Iliad](../sources/iliad.md) provides no description of Diomedes' natural fe
 
 The only physical comparison offered is indirect, through [Athena](../deities/athena.md)'s contrast with his father: "Tydeus was short of stature, but a man of war," implying that Diomedes is taller than his father but measured against his example nonetheless.[^app-tydeus]
 
-[^app-fire]: "She kindled flame unwearied from his helmet and shield, like to the star of summer that above all others glittereth bright after he hath bathed in the ocean stream. In such wise kindled she flame from his head and shoulders and sent him into the midst, where men thronged the thickest." (Iliad V.2587-2591, trans. Lang, Leaf, and Myers)
-[^app-tydeus]: "Tydeus was short of stature, but a man of war." (Iliad V.3345, trans. Lang, Leaf, and Myers)
+[^app-fire]: "She kindled flame unwearied from his helmet and shield, like to the star of summer that above all others glittereth bright after he hath bathed in the ocean stream. In such wise kindled she flame from his head and shoulders and sent him into the midst, where men thronged the thickest." (Iliad 5.9-13, trans. Lang, Leaf, and Myers)
+[^app-tydeus]: "Tydeus was short of stature, but a man of war." (Iliad 5.796, trans. Lang, Leaf, and Myers)
 
 ## In the [Iliad](../sources/iliad.md)
 
@@ -50,7 +50,7 @@ Before Diomedes enters battle, Agamemnon taunts him by unfavourable comparison t
 
 This theme -- the son measured against a legendary father -- recurs throughout Diomedes' story and is central to his relationship with [Athena](../deities/athena.md), who protected Tydeus before him.
 
-[^il4-agamemnon]: "Ah me, thou son of wise Tydeus tamer of horses, why shrinkest thou, why gazest thou at the highways of the battle? Not thus was Tydeus wont to shrink" (Iliad IV.2416-2417, trans. Lang, Leaf, and Myers)
+[^il4-agamemnon]: "Ah me, thou son of wise Tydeus tamer of horses, why shrinkest thou, why gazest thou at the highways of the battle? Not thus was Tydeus wont to shrink" (Iliad 4.374-375, trans. Lang, Leaf, and Myers)
 
 ### The Aristeia: Athena's Fire and the Sight of Gods (Book V)
 
@@ -62,9 +62,9 @@ When Diomedes is wounded by Pandaros's arrow, he prays to Athena, invoking her p
 
 The ability to see gods is granted with a crucial restriction: "if any god come hither to make trial of thee, fight not thou face to face with any of the immortal gods; save only if [Aphrodite](../deities/aphrodite.md) daughter of Zeus enter into the battle, her smite thou with the keen bronze."[^il5-restriction]
 
-[^il5-fire]: "to Tydeus' son Diomedes Pallas Athene gave might and courage, for him to be pre-eminent amid all the Argives and win glorious renown. She kindled flame unwearied from his helmet and shield, like to the star of summer that above all others glittereth bright after he hath bathed in the ocean stream. In such wise kindled she flame from his head and shoulders" (Iliad V.2585-2590, trans. Lang, Leaf, and Myers)
-[^il5-sight]: "Be of good courage now, Diomedes, to fight the Trojans; for in thy breast I have set thy father's courage undaunted, even as it was in knightly Tydeus, wielder of the buckler. Moreover I have taken from thine eyes the mist that erst was on them, that thou mayest well discern both god and man" (Iliad V.2708-2712, trans. Lang, Leaf, and Myers)
-[^il5-restriction]: "if any god come hither to make trial of thee, fight not thou face to face with any of the immortal gods; save only if Aphrodite daughter of Zeus enter into the battle, her smite thou with the keen bronze" (Iliad V.2712-2715, trans. Lang, Leaf, and Myers)
+[^il5-fire]: "to Tydeus' son Diomedes Pallas Athene gave might and courage, for him to be pre-eminent amid all the Argives and win glorious renown. She kindled flame unwearied from his helmet and shield, like to the star of summer that above all others glittereth bright after he hath bathed in the ocean stream. In such wise kindled she flame from his head and shoulders" (Iliad 5.7-12, trans. Lang, Leaf, and Myers)
+[^il5-sight]: "Be of good courage now, Diomedes, to fight the Trojans; for in thy breast I have set thy father's courage undaunted, even as it was in knightly Tydeus, wielder of the buckler. Moreover I have taken from thine eyes the mist that erst was on them, that thou mayest well discern both god and man" (Iliad 5.135-139, trans. Lang, Leaf, and Myers)
+[^il5-restriction]: "if any god come hither to make trial of thee, fight not thou face to face with any of the immortal gods; save only if Aphrodite daughter of Zeus enter into the battle, her smite thou with the keen bronze" (Iliad 5.139-142, trans. Lang, Leaf, and Myers)
 
 ### Wounding Aphrodite and the Definition of Ichor (Book V)
 
@@ -72,14 +72,14 @@ When [Aphrodite](../deities/aphrodite.md) shields her son [Aeneas](aeneas.md) fr
 
 Aphrodite flees to [Olympus](../places/olympus.md) and complains to [Dione](../deities/dione.md), calling Diomedes by name: "Tydeus' son wounded me, high-hearted Diomedes, because I was saving from the battle my dear son."[^il5-aphrodite-complaint]
 
-[^il5-ichor]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm... the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad V.2913-2919, trans. Lang, Leaf, and Myers)
-[^il5-aphrodite-complaint]: "Tydeus' son wounded me, high-hearted Diomedes, because I was saving from the battle my dear son" (Iliad V.2954-2955, trans. Lang, Leaf, and Myers)
+[^il5-ichor]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm... the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad 5.348-354, trans. Lang, Leaf, and Myers)
+[^il5-aphrodite-complaint]: "Tydeus' son wounded me, high-hearted Diomedes, because I was saving from the battle my dear son" (Iliad 5.390-391, trans. Lang, Leaf, and Myers)
 
 ### Apollo's Warning (Book V)
 
 After wounding Aphrodite, Diomedes three times assails [Apollo](../deities/apollo.md), who shields Aeneas. The god warns him: "Give back, Tydeides, and think not that thy spirit is as the spirit of the gods; since in no wise of like sort is the race of immortal gods and of men that walk upon the earth."[^il5-apollo] This is one of the poem's key theological statements -- a divine assertion of the absolute boundary between mortal and immortal.
 
-[^il5-apollo]: "think not that thy spirit is as the spirit of the gods; since in no wise of like sort is the race of immortal gods and of men that walk upon the earth" (Iliad V.2804, trans. Lang, Leaf, and Myers)
+[^il5-apollo]: "think not that thy spirit is as the spirit of the gods; since in no wise of like sort is the race of immortal gods and of men that walk upon the earth" (Iliad 5.235, trans. Lang, Leaf, and Myers)
 
 ### Athena Drives His Chariot Against Ares (Book V)
 
@@ -89,9 +89,9 @@ Athena then takes direct control of the combat. She thrusts Sthenelos from the c
 
 The wounded god bellows "loud as nine thousand warriors or ten thousand cry in battle," and flees to [Olympus](../places/olympus.md) to complain to [Zeus](../deities/zeus.md), naming "overweening Diomedes" as the one Athena urged against him.[^il5-ares-bellow]
 
-[^il5-athena-joy]: "Diomedes son of Tydeus, thou joy of mine heart, fear thou, for that, neither Ares nor any other of the immortals; so great a helper am I to thee" (Iliad V.3368-3370, trans. Lang, Leaf, and Myers)
-[^il5-ares-wound]: "Athene donned the helm of Hades, that terrible Ares might not behold her... the bright-eyed goddess Athene with her hand seized the spear and thrust it up over the car, to spend itself in vain. Next Diomedes of the loud war-cry attacked with spear of bronze; and Pallas Athene drave it home against Ares' nethermost belly, where his taslets were girt about him" (Iliad V.3384-3394, trans. Lang, Leaf, and Myers)
-[^il5-ares-bellow]: "brazen Ares bellowed loud as nine thousand warriors or ten thousand cry in battle as they join in strife and fray. Thereat trembling gat hold of Achaians and Trojans for fear, so mightily bellowed Ares insatiate of battle" (Iliad V.3396-3399, trans. Lang, Leaf, and Myers)
+[^il5-athena-joy]: "Diomedes son of Tydeus, thou joy of mine heart, fear thou, for that, neither Ares nor any other of the immortals; so great a helper am I to thee" (Iliad 5.820-822, trans. Lang, Leaf, and Myers)
+[^il5-ares-wound]: "Athene donned the helm of Hades, that terrible Ares might not behold her... the bright-eyed goddess Athene with her hand seized the spear and thrust it up over the car, to spend itself in vain. Next Diomedes of the loud war-cry attacked with spear of bronze; and Pallas Athene drave it home against Ares' nethermost belly, where his taslets were girt about him" (Iliad 5.836-847, trans. Lang, Leaf, and Myers)
+[^il5-ares-bellow]: "brazen Ares bellowed loud as nine thousand warriors or ten thousand cry in battle as they join in strife and fray. Thereat trembling gat hold of Achaians and Trojans for fear, so mightily bellowed Ares insatiate of battle" (Iliad 5.849-852, trans. Lang, Leaf, and Myers)
 
 ### Athena Compares Him to His Father (Book V)
 
@@ -99,7 +99,7 @@ Athena herself measures Diomedes against Tydeus in a remarkable speech: "Of a tr
 
 Diomedes responds with perfect obedience and clarity, explaining he has held back not from fear but from following her earlier command not to fight gods other than Aphrodite. The goddess is satisfied and escalates his mission.
 
-[^il5-comparison]: "Of a truth Tydeus begat a son little after his own likeness. Tydeus was short of stature, but a man of war... But for thee, beside thee stand I and guard thee and with all my heart bid thee fight the Trojans; yet either hath weariness of much striving entered into thy limbs, or disheartening terror hath taken hold of thee. If that be so, no offspring art thou of Tydeus, the wise son of Oineus" (Iliad V.3344-3355, trans. Lang, Leaf, and Myers)
+[^il5-comparison]: "Of a truth Tydeus begat a son little after his own likeness. Tydeus was short of stature, but a man of war... But for thee, beside thee stand I and guard thee and with all my heart bid thee fight the Trojans; yet either hath weariness of much striving entered into thy limbs, or disheartening terror hath taken hold of thee. If that be so, no offspring art thou of Tydeus, the wise son of Oineus" (Iliad 5.795-806, trans. Lang, Leaf, and Myers)
 
 ### Exchange of Armour with Glaucus; Zeus Steals His Wits (Book VI)
 
@@ -107,7 +107,7 @@ In [Iliad](../sources/iliad.md) Book VI, Diomedes meets Glaucus on the battlefie
 
 This is one of the rare moments where [Zeus](../deities/zeus.md) directly intervenes in Diomedes' story -- not with hostility but with a trick that benefits the hero at another's expense.
 
-[^il6-exchange]: "Zeus son of Kronos took from Glaukos his wits, in that he made exchange with Diomedes Tydeus' son of golden armour for bronze, the price of five score oxen for the price of nine" (Iliad VI.3677-3680, trans. Lang, Leaf, and Myers)
+[^il6-exchange]: "Zeus son of Kronos took from Glaukos his wits, in that he made exchange with Diomedes Tydeus' son of golden armour for bronze, the price of five score oxen for the price of nine" (Iliad 6.234-237, trans. Lang, Leaf, and Myers)
 
 ### Zeus Thunders at Diomedes (Book VIII)
 
@@ -115,8 +115,8 @@ In [Iliad](../sources/iliad.md) Book VIII, [Zeus](../deities/zeus.md) weighs the
 
 Nestor urges retreat: "victory from Zeus attendeth not on thee." Diomedes' anguish at retreating is one of his most human moments: "Hector some day shall say as he maketh harangue amid the Trojans: 'Tydeides betook him to the ships in flight before my face.' So shall he boast -- in that day let the wide earth yawn for me."[^il8-retreat]
 
-[^il8-thunder]: "he thundered terribly and darted his white lightning and hurled it before Diomedes' steeds to earth; and there arose a terrible flame of sulphur burning, and the two horses were affrighted and cowered beneath the car" (Iliad VIII.4542-4545, trans. Lang, Leaf, and Myers)
-[^il8-retreat]: "Hector some day shall say as he maketh harangue amid the Trojans: 'Tydeides betook him to the ships in flight before my face.' So shall he boast—in that day let the wide earth yawn for me" (Iliad VIII.4556-4559, trans. Lang, Leaf, and Myers)
+[^il8-thunder]: "he thundered terribly and darted his white lightning and hurled it before Diomedes' steeds to earth; and there arose a terrible flame of sulphur burning, and the two horses were affrighted and cowered beneath the car" (Iliad 8.142-145, trans. Lang, Leaf, and Myers)
+[^il8-retreat]: "Hector some day shall say as he maketh harangue amid the Trojans: 'Tydeides betook him to the ships in flight before my face.' So shall he boast—in that day let the wide earth yawn for me" (Iliad 8.157-160, trans. Lang, Leaf, and Myers)
 
 ### The Night Raid with Odysseus (Book X)
 
@@ -128,23 +128,23 @@ During the raid, Athena strengthens Diomedes directly -- "Athene poured strength
 
 On their return, the heroes dedicate the spoils to Athena: "Odysseus placed the bloody spoils of Dolon in the stern of the ship, that they might make ready a sacred offering to Athene." After washing, "they drew off the honey-sweet wine, and poured it forth to Athene."[^il10-spoils]
 
-[^il10-prayer]: "Listen now likewise to me, thou child of Zeus, unwearied maiden, and follow with me as when with my father thou didst follow, even noble Tydeus, into Thebes" (Iliad X.5856-5858, trans. Lang, Leaf, and Myers)
-[^il10-rhesus]: "the son of Tydeus came upon the king, he was the thirteenth from whom he took sweet life away, as he was breathing hard, for an evil dream stood above his head that night, even the seed of Oineus, through the device of Athene" (Iliad X.6064-6067, trans. Lang, Leaf, and Myers)
-[^il10-warning]: "Bethink thee of returning, O son of great-hearted Tydeus, to the hollow ships, lest perchance thou come thither in flight" (Iliad X.6078-6080, trans. Lang, Leaf, and Myers)
-[^il10-apollo]: "nor a vain watch kept Apollo of the silver bow, when he beheld Athene caring for the son of Tydeus; in wrath against her he stole among the crowded press of Trojans" (Iliad X.6087-6089, trans. Lang, Leaf, and Myers)
-[^il10-spoils]: "Odysseus placed the bloody spoils of Dolon in the stern of the ship, that they might make ready a sacred offering to Athene... they drew off the honey-sweet wine, and poured it forth to Athene" (Iliad X.6139-6148, trans. Lang, Leaf, and Myers)
+[^il10-prayer]: "Listen now likewise to me, thou child of Zeus, unwearied maiden, and follow with me as when with my father thou didst follow, even noble Tydeus, into Thebes" (Iliad 10.283-285, trans. Lang, Leaf, and Myers)
+[^il10-rhesus]: "the son of Tydeus came upon the king, he was the thirteenth from whom he took sweet life away, as he was breathing hard, for an evil dream stood above his head that night, even the seed of Oineus, through the device of Athene" (Iliad 10.490-493, trans. Lang, Leaf, and Myers)
+[^il10-warning]: "Bethink thee of returning, O son of great-hearted Tydeus, to the hollow ships, lest perchance thou come thither in flight" (Iliad 10.504-506, trans. Lang, Leaf, and Myers)
+[^il10-apollo]: "nor a vain watch kept Apollo of the silver bow, when he beheld Athene caring for the son of Tydeus; in wrath against her he stole among the crowded press of Trojans" (Iliad 10.513-515, trans. Lang, Leaf, and Myers)
+[^il10-spoils]: "Odysseus placed the bloody spoils of Dolon in the stern of the ship, that they might make ready a sacred offering to Athene... they drew off the honey-sweet wine, and poured it forth to Athene" (Iliad 10.565-574, trans. Lang, Leaf, and Myers)
 
 ### Wounded by Paris — "Bowman, Reviler" (Book XI)
 
 [Paris](paris.md) shot Diomedes through the foot with an arrow from behind cover (see [Paris — Wounding Diomedes](paris.md#wounding-diomedes-book-xi)). Diomedes' contemptuous reply encapsulates the contrast between the two heroes: "Bowman, reviler, proud in thy bow of horn, thou gaper after girls, verily if thou madest trial in full harness, man to man, thy bow and showers of shafts would nothing avail thee, but now thou boastest vainly, for that thou hast grazed the sole of my foot. I care not, more than if a woman had struck me or a senseless boy, for feeble is the dart of a craven man and a worthless."[^il11-paris]
 
-[^il11-paris]: "Bowman, reviler, proud in thy bow of horn, thou gaper after girls, verily if thou madest trial in full harness, man to man, thy bow and showers of shafts would nothing avail thee, but now thou boastest vainly, for that thou hast grazed the sole of my foot. I care not, more than if a woman had struck me or a senseless boy, for feeble is the dart of a craven man and a worthless" (Iliad XI.6525-6531, trans. Lang, Leaf, and Myers)
+[^il11-paris]: "Bowman, reviler, proud in thy bow of horn, thou gaper after girls, verily if thou madest trial in full harness, man to man, thy bow and showers of shafts would nothing avail thee, but now thou boastest vainly, for that thou hast grazed the sole of my foot. I care not, more than if a woman had struck me or a senseless boy, for feeble is the dart of a craven man and a worthless" (Iliad 11.388-395, trans. Lang, Leaf, and Myers)
 
 ### Apollo's Helm Saves Hector from Diomedes (Book XI)
 
 In [Iliad](../sources/iliad.md) Book XI, Diomedes hurls his spear at Hector's head, but [Apollo](../deities/apollo.md)'s gift protects the Trojan: "bronze by bronze was turned, nor reached his fair flesh, for it was stopped by the threefold helm with its socket, that Phoebus Apollo to Hector gave." Diomedes himself recognises the divine protection: "now hath Phoebus Apollo saved thee, to whom thou must surely pray when thou goest amid the clash of spears."[^il11-helm]
 
-[^il11-helm]: "bronze by bronze was turned, nor reached his fair flesh, for it was stopped by the threefold helm with its socket, that Phoebus Apollo to Hector gave... now hath Phoebus Apollo saved thee, to whom thou must surely pray when thou goest amid the clash of spears" (Iliad XI.6492-6504, trans. Lang, Leaf, and Myers)
+[^il11-helm]: "bronze by bronze was turned, nor reached his fair flesh, for it was stopped by the threefold helm with its socket, that Phoebus Apollo to Hector gave... now hath Phoebus Apollo saved thee, to whom thou must surely pray when thou goest amid the clash of spears" (Iliad 11.354-367, trans. Lang, Leaf, and Myers)
 
 ### Athena in the Chariot Race (Book XXIII)
 
@@ -156,7 +156,7 @@ Even in the funeral games for Patroklos, divine favour follows Diomedes. In the 
 
 Diomedes appears indirectly in the [Odyssey](../sources/odyssey.md). Menelaos recalls being in the Wooden Horse with "the son of Tydeus and goodly Odysseus" when [Helen](helen.md) circled the horse calling out in the voices of the warriors' wives.[^od4-horse]
 
-[^od4-horse]: "I and the son of Tydeus and goodly Odysseus sat in the midst and heard thy call" (Odyssey IV.2396-2397, trans. Butcher and Lang)
+[^od4-horse]: "I and the son of Tydeus and goodly Odysseus sat in the midst and heard thy call" (Odyssey 4.281-282, trans. Butcher and Lang)
 
 ## In the [Epic Cycle](../sources/epic-cycle.md)
 

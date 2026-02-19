@@ -13,8 +13,8 @@
 
 **Odysseus** is the king of Ithaca and protagonist of the [Odyssey](../sources/odyssey.md). He is the foremost Greek hero of cunning and resourcefulness, favoured above all mortals by [Athena](../deities/athena.md) and opposed by [Poseidon](../deities/poseidon.md). [Zeus](../deities/zeus.md) himself praises him: "how should I forget divine Odysseus, who in understanding is beyond mortals and beyond all men hath done sacrifice to the deathless gods?"[^od1-zeus-praise] Through [Hermes](../deities/hermes.md), his maternal grandfather Autolycus received the gifts of thievery and cunning from the god himself, and this divine favour passes into Odysseus's bloodline.[^od19-autolycus]
 
-[^od1-zeus-praise]: "how should I forget divine Odysseus, who in understanding is beyond mortals and beyond all men hath done sacrifice to the deathless gods, who keep the wide heaven?" (Odyssey I.789-792, trans. Butcher and Lang)
-[^od19-autolycus]: "Autolycus, his mother's noble father, who outdid all men in thievery and skill in swearing. This skill was the gift of the god himself, even Hermes, for that he burned to him the well-pleasing sacrifice of the thighs of lambs and kids; wherefore Hermes abetted him gladly." (Odyssey XIX.10544-10548, trans. Butcher and Lang)
+[^od1-zeus-praise]: "how should I forget divine Odysseus, who in understanding is beyond mortals and beyond all men hath done sacrifice to the deathless gods, who keep the wide heaven?" (Odyssey 1.70-73, trans. Butcher and Lang)
+[^od19-autolycus]: "Autolycus, his mother's noble father, who outdid all men in thievery and skill in swearing. This skill was the gift of the god himself, even Hermes, for that he burned to him the well-pleasing sacrifice of the thighs of lambs and kids; wherefore Hermes abetted him gladly." (Odyssey 19.399-403, trans. Butcher and Lang)
 
 ## Epithets
 
@@ -30,17 +30,17 @@
 - **"peer of Zeus in counsel"** — used in the [Iliad](../sources/iliad.md) Catalogue of Ships and elsewhere[^ep-peer]
 - **"insatiable of craft and toil"** — used by a Trojan warrior in the [Iliad](../sources/iliad.md)[^ep-insatiable]
 
-[^ep-devices]: "Son of Laertes, of the seed of Zeus, Odysseus of many devices" (Odyssey X.5716, trans. Butcher and Lang)
-[^ep-enduring]: "much-enduring noble Odysseus heard him not" (Iliad XI.4507, trans. Lang, Leaf, and Myers)
-[^ep-sacker]: "Achilles waster of cities" / "Odysseus, waster of cities, the son of Laertes" (Iliad XV.8785; Odyssey IX.5266, trans. Butcher and Lang)
-[^ep-steadfast]: "the steadfast goodly Odysseus" (Odyssey V.3147, trans. Butcher and Lang)
-[^ep-patient]: "even the return of the patient Odysseus" (Odyssey I.810, trans. Butcher and Lang)
-[^ep-godlike]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus" (Odyssey I.746-748, trans. Butcher and Lang)
-[^ep-heaven]: "Heaven-sprung son of Laertes, Odysseus of many devices" (Iliad II.946, trans. Lang, Leaf, and Myers)
-[^ep-wiles]: "son of Laertes, Odysseus of many wiles, in openness must I now declare" (Iliad IX.5219, trans. Lang, Leaf, and Myers)
-[^ep-counsels]: "And Odysseus of many counsels answered, and spake unto her" (Odyssey V.3194, trans. Butcher and Lang)
-[^ep-peer]: "Odysseus peer of Zeus in counsel" (Iliad II.1161, trans. Lang, Leaf, and Myers); also at II.1370, X.5714
-[^ep-insatiable]: "Odysseus, insatiable of craft and toil" (Iliad XI.6570)
+[^ep-devices]: "Son of Laertes, of the seed of Zeus, Odysseus of many devices" (Odyssey 10.401, trans. Butcher and Lang)
+[^ep-enduring]: "much-enduring noble Odysseus heard him not" (Iliad 8.105, trans. Lang, Leaf, and Myers)
+[^ep-sacker]: "Achilles waster of cities" / "Odysseus, waster of cities, the son of Laertes" (Iliad 15.80; Odyssey 9.526, trans. Butcher and Lang)
+[^ep-steadfast]: "the steadfast goodly Odysseus" (Odyssey 5.173, trans. Butcher and Lang)
+[^ep-patient]: "even the return of the patient Odysseus" (Odyssey 1.90, trans. Butcher and Lang)
+[^ep-godlike]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus" (Odyssey 1.27-29, trans. Butcher and Lang)
+[^ep-heaven]: "Heaven-sprung son of Laertes, Odysseus of many devices" (Iliad 2.174, trans. Lang, Leaf, and Myers)
+[^ep-wiles]: "son of Laertes, Odysseus of many wiles, in openness must I now declare" (Iliad 9.312, trans. Lang, Leaf, and Myers)
+[^ep-counsels]: "And Odysseus of many counsels answered, and spake unto her" (Odyssey 5.219, trans. Butcher and Lang)
+[^ep-peer]: "Odysseus peer of Zeus in counsel" (Iliad 2.398, trans. Lang, Leaf, and Myers); also at II.1370, X.5714
+[^ep-insatiable]: "Odysseus, insatiable of craft and toil" (Iliad 11.435)
 
 ## Appearance
 
@@ -54,13 +54,13 @@ On Ithaca, Athena transforms him into a beggar: "His fair flesh she withered on 
 
 After the slaying of the wooers and his reunion with Penelope, Athena restores him with the same imagery used at Phaeacia: "Athene shed great beauty from his head downwards, and made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower. And as when some skilful man overlays gold upon silver... even so did Athene shed grace about his head and shoulders, and forth from the bath he came, in form like to the immortals."[^app-xxiii-beautify]
 
-[^app-priam]: "Come now, tell me of this man too, dear child, who is he, shorter by a head than Agamemnon son of Atreus, but broader of shoulder and of chest to behold? His armour lieth upon the bounteous earth, and himself like a bell-wether rangeth the ranks of warriors. Yea, I liken him to a thick-fleeced ram ordering a great flock of ewes." (Iliad III.1810-1815, trans. Lang, Leaf, and Myers)
-[^app-antenor]: "when they mingled with the Trojans in the assembly, while all stood up Menelaos overpassed them all by the measure of his broad shoulders; but when both sat down, Odysseus was the more stately... whenever Odysseus full of wiles rose up, he stood and looked down, with eyes fixed upon the ground, and waved not his staff whether backwards or forwards, but held it stiff, like to a man of no understanding; one would deem him to be churlish, and naught but a fool. But when he uttered his great voice from his chest, and words like unto the snowflakes of winter, then could no mortal man contend with Odysseus; then marvelled we not thus to behold Odysseus' aspect." (Iliad III.1825-1838, trans. Lang, Leaf, and Myers)
-[^app-helmet]: "on his head set a helm made of leather, and with many a thong was it stiffly wrought within, while without the white teeth of a boar of flashing tusks were arrayed thick set on either side, well and cunningly, and in the midst was fixed a cap of felt. This casque Autolykos once stole from Amyntor son of Ormenos, out of Eleon" (Iliad X.5835-5840, trans. Lang, Leaf, and Myers)
-[^app-vi-beautify]: "Athene, the daughter of Zeus, made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower. And as when some skilful man overlays gold upon silver—one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork—even so did Athene shed grace about his head and shoulders." (Odyssey VI.3699-3704, trans. Butcher and Lang)
-[^app-viii-beautify]: "she made him greater and more mighty to behold, that he might win love and worship and honour among all the Phaeacians" (Odyssey VIII.4168-4169, trans. Butcher and Lang)
-[^app-beggar]: "Athene touched him with her wand. His fair flesh she withered on his supple limbs, and made waste his yellow hair from off his head, and over all his limbs she cast the skin of an old man, and dimmed his two eyes, erewhile so fair. And she changed his raiment to a vile wrap and a doublet, torn garments and filthy, stained with foul smoke." (Odyssey XIII.7415-7419, trans. Butcher and Lang)
-[^app-xxiii-beautify]: "Athene shed great beauty from his head downwards, and made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower. And as when some skilful man overlays gold upon silver, one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork, even so did Athene shed grace about his head and shoulders, and forth from the bath he came, in form like to the immortals." (Odyssey XXIII.12339-12346, trans. Butcher and Lang)
+[^app-priam]: "Come now, tell me of this man too, dear child, who is he, shorter by a head than Agamemnon son of Atreus, but broader of shoulder and of chest to behold? His armour lieth upon the bounteous earth, and himself like a bell-wether rangeth the ranks of warriors. Yea, I liken him to a thick-fleeced ram ordering a great flock of ewes." (Iliad 3.200-205, trans. Lang, Leaf, and Myers)
+[^app-antenor]: "when they mingled with the Trojans in the assembly, while all stood up Menelaos overpassed them all by the measure of his broad shoulders; but when both sat down, Odysseus was the more stately... whenever Odysseus full of wiles rose up, he stood and looked down, with eyes fixed upon the ground, and waved not his staff whether backwards or forwards, but held it stiff, like to a man of no understanding; one would deem him to be churlish, and naught but a fool. But when he uttered his great voice from his chest, and words like unto the snowflakes of winter, then could no mortal man contend with Odysseus; then marvelled we not thus to behold Odysseus' aspect." (Iliad 3.216-229, trans. Lang, Leaf, and Myers)
+[^app-helmet]: "on his head set a helm made of leather, and with many a thong was it stiffly wrought within, while without the white teeth of a boar of flashing tusks were arrayed thick set on either side, well and cunningly, and in the midst was fixed a cap of felt. This casque Autolykos once stole from Amyntor son of Ormenos, out of Eleon" (Iliad 10.262-267, trans. Lang, Leaf, and Myers)
+[^app-vi-beautify]: "Athene, the daughter of Zeus, made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower. And as when some skilful man overlays gold upon silver—one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork—even so did Athene shed grace about his head and shoulders." (Odyssey 6.232-237, trans. Butcher and Lang)
+[^app-viii-beautify]: "she made him greater and more mighty to behold, that he might win love and worship and honour among all the Phaeacians" (Odyssey 8.29-30, trans. Butcher and Lang)
+[^app-beggar]: "Athene touched him with her wand. His fair flesh she withered on his supple limbs, and made waste his yellow hair from off his head, and over all his limbs she cast the skin of an old man, and dimmed his two eyes, erewhile so fair. And she changed his raiment to a vile wrap and a doublet, torn garments and filthy, stained with foul smoke." (Odyssey 13.426-430, trans. Butcher and Lang)
+[^app-xxiii-beautify]: "Athene shed great beauty from his head downwards, and made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower. And as when some skilful man overlays gold upon silver, one that Hephaestus and Pallas Athene have taught all manner of craft, and full of grace is his handiwork, even so did Athene shed grace about his head and shoulders, and forth from the bath he came, in form like to the immortals." (Odyssey 23.165-172, trans. Butcher and Lang)
 
 ## In the Iliad
 
@@ -68,13 +68,13 @@ After the slaying of the wooers and his reunion with Penelope, Athena restores h
 
 When the Greeks rush to flee after Agamemnon's test, [Athena](../deities/athena.md) goes directly to Odysseus to rally the army. She addresses him as "Heaven-sprung son of Laertes, Odysseus of many devices, will ye indeed fling yourselves upon your benched ships to flee homeward to your dear native land?" He "knew the voice of the goddess" and through him [Athena](../deities/athena.md) restores order to the Greek host.[^il2-rally]
 
-[^il2-rally]: "bright-eyed Athene stood by him and said: 'Heaven-sprung son of Laertes, Odysseus of many devices, will ye indeed fling yourselves upon your benched ships to flee homeward to your dear native land?'" (Iliad II.946-948, trans. Lang, Leaf, and Myers)
+[^il2-rally]: "bright-eyed Athene stood by him and said: 'Heaven-sprung son of Laertes, Odysseus of many devices, will ye indeed fling yourselves upon your benched ships to flee homeward to your dear native land?'" (Iliad 2.174-176, trans. Lang, Leaf, and Myers)
 
 ### The Embassy to Achilles (Book IX)
 
 Odysseus leads the embassy to Achilles in Book IX, delivering the formal offer of gifts and reconciliation from Agamemnon. Achilles addresses him directly: "son of Laertes, Odysseus of many wiles, in openness must I now declare my saying" — before refusing the embassy and revealing his two fates.[^il9-embassy]
 
-[^il9-embassy]: "son of Laertes, Odysseus of many wiles, in openness must I now declare my saying" (Iliad IX.5219, trans. Lang, Leaf, and Myers)
+[^il9-embassy]: "son of Laertes, Odysseus of many wiles, in openness must I now declare my saying" (Iliad 9.312, trans. Lang, Leaf, and Myers)
 
 ### The Night Raid with Diomedes (Book X)
 
@@ -87,13 +87,13 @@ In Book X, Odysseus and Diomedes undertake the night raid (Doloneia). [Athena](.
 In Book XI, Odysseus is wounded by Sokos but [Athena](../deities/athena.md) protects him from a mortal blow, deflecting the spear so that it "did not suffer it to mingle with the bowels."[^il11-wound] [Zeus](../deities/zeus.md) had sent the personified Discord to stand on Odysseus's ship in the centre of the Greek line, marking his position as the army's midpoint.[^il11-discord]
 
 [^il11-wound]: "did not suffer it to mingle with the bowels" (Iliad XI, trans. Lang, Leaf, and Myers)
-[^il11-discord]: "she stood upon the huge black ship of Odysseus, that was in the midst, to make her voice heard on either side" (Iliad XI.6162-6164, trans. Lang, Leaf, and Myers)
+[^il11-discord]: "she stood upon the huge black ship of Odysseus, that was in the midst, to make her voice heard on either side" (Iliad 11.9-11, trans. Lang, Leaf, and Myers)
 
 ### The Funeral Games (Book XXIII)
 
 In the funeral games for Patroklos, [Athena](../deities/athena.md) aids Odysseus in the foot-race, making his limbs light and tripping Aias in ox-filth. Aias himself acknowledges the divine patronage: "the goddess who from of old like a mother standeth by Odysseus' side and helpeth him."[^il23-games]
 
-[^il23-games]: "the goddess who from of old like a mother standeth by Odysseus' side and helpeth him" (Iliad XXIII.13463-13464, trans. Lang, Leaf, and Myers)
+[^il23-games]: "the goddess who from of old like a mother standeth by Odysseus' side and helpeth him" (Iliad 23.857-858, trans. Lang, Leaf, and Myers)
 
 ## In the Odyssey
 
@@ -109,13 +109,13 @@ Throughout the poem, [Athena](../deities/athena.md) transforms Odysseus at will 
 
 In the final battle, she appears as Mentor, chides Odysseus for feeble courage, then holds up her destroying [aegis](../objects/aegis.md) from the roof to rout the wooers.[^od22-aegis] The poem ends with [Athena](../deities/athena.md) setting the final covenant of peace "in the likeness of Mentor, both in fashion and in voice."[^od24-covenant]
 
-[^od1-advocate]: "my heart is rent for wise Odysseus, that hapless one, who far from his friends this long while suffereth affliction in a seagirt isle" (Odyssey I.774-776, trans. Butcher and Lang)
-[^od13-craft]: "both of us practised in deceits, for that thou art of all men far the first in counsel and in discourse, and I in the company of all the gods win renown for my wit and wile" (Odyssey XIII.7280-7282, trans. Butcher and Lang)
-[^od13-poseidon]: "I had no mind to be at strife with Poseidon, my own father's brother" (Odyssey XIII.7320-7322, trans. Butcher and Lang)
-[^od6-beautify]: "Athene, the daughter of Zeus, made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower" (Odyssey VI.3700-3702, trans. Butcher and Lang)
-[^od23-dawn]: "the goddess, grey-eyed Athene, had other thoughts. The night she held long in the utmost West, and on the other side she stayed the golden-throned Dawn by the stream Oceanus, and suffered her not to harness the swift-footed steeds that bear light to men" (Odyssey XXIII.12421-12426, trans. Butcher and Lang)
-[^od22-aegis]: "Athene held up her destroying aegis on high from the roof, and their minds were scared, and they fled through the hall, like a drove of kine that the flitting gadfly falls upon and scatters hither and thither in spring time" (Odyssey XXII.11964-11967, trans. Butcher and Lang)
-[^od24-covenant]: "Pallas Athene set a covenant between them with sacrifice, she, the daughter of Zeus lord of the aegis, in the likeness of Mentor, both in fashion and in voice" (Odyssey XXIV.13114-13116, trans. Butcher and Lang)
+[^od1-advocate]: "my heart is rent for wise Odysseus, that hapless one, who far from his friends this long while suffereth affliction in a seagirt isle" (Odyssey 1.55-57, trans. Butcher and Lang)
+[^od13-craft]: "both of us practised in deceits, for that thou art of all men far the first in counsel and in discourse, and I in the company of all the gods win renown for my wit and wile" (Odyssey 13.295-297, trans. Butcher and Lang)
+[^od13-poseidon]: "I had no mind to be at strife with Poseidon, my own father's brother" (Odyssey 13.334-336, trans. Butcher and Lang)
+[^od6-beautify]: "Athene, the daughter of Zeus, made him greater and more mighty to behold, and from his head caused deep curling locks to flow, like the hyacinth flower" (Odyssey 6.233-235, trans. Butcher and Lang)
+[^od23-dawn]: "the goddess, grey-eyed Athene, had other thoughts. The night she held long in the utmost West, and on the other side she stayed the golden-throned Dawn by the stream Oceanus, and suffered her not to harness the swift-footed steeds that bear light to men" (Odyssey 23.247-252, trans. Butcher and Lang)
+[^od22-aegis]: "Athene held up her destroying aegis on high from the roof, and their minds were scared, and they fled through the hall, like a drove of kine that the flitting gadfly falls upon and scatters hither and thither in spring time" (Odyssey 22.302-304, trans. Butcher and Lang)
+[^od24-covenant]: "Pallas Athene set a covenant between them with sacrifice, she, the daughter of Zeus lord of the aegis, in the likeness of Mentor, both in fashion and in voice" (Odyssey 24.562-564, trans. Butcher and Lang)
 
 ### Poseidon's Wrath
 
@@ -123,16 +123,16 @@ In the final battle, she appears as Mentor, chides Odysseus for feeble courage, 
 
 When [Poseidon](../deities/poseidon.md) spots Odysseus near Phaeacia, he unleashes a full storm: "he gathered the clouds and troubled the waters of the deep, grasping his trident in his hands; and he roused all storms of all manner of winds." He smashes the raft with a great wave and departs with a final warning: "Even so, after all thy sufferings, go wandering over the deep."[^od5-storm]
 
-[^od1-rage]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus, till he came to his own country" (Odyssey I.746-748, trans. Butcher and Lang)
-[^od9-prayer]: "Hear me, Poseidon, girdler of the earth, god of the dark hair, if indeed I be thine, and thou avowest thee my sire,—grant that he may never come to his home, even Odysseus, waster of cities, the son of Laertes, whose dwelling is in Ithaca; yet if he is ordained to see his friends and come unto his well-builded house, and his own country, late may he come in evil case, with the loss of all his company, in the ship of strangers, and find sorrows in his house... So he spake in prayer, and the god of the dark locks heard him" (Odyssey IX.5263-5272, trans. Butcher and Lang)
-[^od5-storm]: "he gathered the clouds and troubled the waters of the deep, grasping his trident in his hands; and he roused all storms of all manner of winds, and shrouded in clouds the land and sea: and down sped night from heaven" (Odyssey V.3265-3268, trans. Butcher and Lang)
+[^od1-rage]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus, till he came to his own country" (Odyssey 1.27-29, trans. Butcher and Lang)
+[^od9-prayer]: "Hear me, Poseidon, girdler of the earth, god of the dark hair, if indeed I be thine, and thou avowest thee my sire,—grant that he may never come to his home, even Odysseus, waster of cities, the son of Laertes, whose dwelling is in Ithaca; yet if he is ordained to see his friends and come unto his well-builded house, and his own country, late may he come in evil case, with the loss of all his company, in the ship of strangers, and find sorrows in his house... So he spake in prayer, and the god of the dark locks heard him" (Odyssey 9.523-532, trans. Butcher and Lang)
+[^od5-storm]: "he gathered the clouds and troubled the waters of the deep, grasping his trident in his hands; and he roused all storms of all manner of winds, and shrouded in clouds the land and sea: and down sped night from heaven" (Odyssey 5.290-293, trans. Butcher and Lang)
 
 ### Calypso's Island
 
 Odysseus is held for years on the island of Ogygia by the nymph [Calypso](../deities/calypso.md), "the daughter of the wizard [Atlas](../deities/atlas.md), who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder."[^od1-calypso] When [Zeus](../deities/zeus.md) commands his release, [Hermes](../deities/hermes.md) is sent to Calypso with the message. Hermes binds on his golden sandals, takes his wand, and flies "like the cormorant" over the waves to deliver [Zeus](../deities/zeus.md)'s command: "surely it is in no wise possible for another god to go beyond or to make void the purpose of Zeus, lord of the aegis."[^od5-hermes]
 
-[^od1-calypso]: "the daughter of the wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder" (Odyssey I.780-782, trans. Butcher and Lang)
-[^od5-hermes]: "surely it is in no wise possible for another god to go beyond or to make void the purpose of Zeus, lord of the aegis" (Odyssey V.3079-3080, trans. Butcher and Lang)
+[^od1-calypso]: "the daughter of the wizard Atlas, who knows the depths of every sea, and himself upholds the tall pillars which keep earth and sky asunder" (Odyssey 1.61-63, trans. Butcher and Lang)
+[^od5-hermes]: "surely it is in no wise possible for another god to go beyond or to make void the purpose of Zeus, lord of the aegis" (Odyssey 5.105-106, trans. Butcher and Lang)
 
 ### Circe's Island
 
@@ -140,9 +140,9 @@ On the island of Aia, [Circe](../deities/circe.md) transforms Odysseus's men int
 
 When Odysseus resists her magic, [Circe](../deities/circe.md) recognises him at once because [Hermes](../deities/hermes.md) had foretold his coming: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither."[^od10-circe] After a year on Aia, [Circe](../deities/circe.md) directs him to the land of the dead to consult Teiresias, and upon his return delivers prophecies about the Sirens, Scylla, Charybdis, and the cattle of [Helius](../deities/helius.md).
 
-[^od10-swine]: "their mind abode even as of old" (Odyssey X.5550-5551, trans. Butcher and Lang)
-[^od10-moly]: "black at the root, but the flower was like to milk. Moly the gods call it, but it is hard for mortal men to dig; howbeit with the gods all things are possible" (Odyssey X.5612-5616, trans. Butcher and Lang)
-[^od10-circe]: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither, on his way from Troy with his swift black ship" (Odyssey X.5645-5647, trans. Butcher and Lang)
+[^od10-swine]: "their mind abode even as of old" (Odyssey 10.238-239, trans. Butcher and Lang)
+[^od10-moly]: "black at the root, but the flower was like to milk. Moly the gods call it, but it is hard for mortal men to dig; howbeit with the gods all things are possible" (Odyssey 10.299-303, trans. Butcher and Lang)
+[^od10-circe]: "Verily thou art Odysseus, ready at need, whom he of the golden wand, the slayer of Argos, full often told me was to come hither, on his way from Troy with his swift black ship" (Odyssey 10.331-333, trans. Butcher and Lang)
 
 ### The Nekuia (Book XI)
 
@@ -151,22 +151,22 @@ In the land of the dead, Odysseus consults the shade of Teiresias, who prophesie
 He sees the shade of his mother Anticleia, "the daughter of Autolycus the great-hearted, whom I left alive when I departed for the sacred land of Ilios."[^od11-anticleia] He also encounters the shade of Achilles, to whom he speaks words of comfort that Achilles famously rejects.
 
 [^od11-teiresias]: (Odyssey XI, trans. Butcher and Lang)
-[^od11-anticleia]: "Anon came up the soul of my mother dead, Anticleia, the daughter of Autolycus the great-hearted, whom I left alive when I departed for the sacred land of Ilios" (Odyssey XI.5979-5980, trans. Butcher and Lang)
+[^od11-anticleia]: "Anon came up the soul of my mother dead, Anticleia, the daughter of Autolycus the great-hearted, whom I left alive when I departed for the sacred land of Ilios" (Odyssey 11.87-88, trans. Butcher and Lang)
 
 ### The Bow of Eurytus and the Slaying of the Wooers
 
 The great bow that Odysseus uses to slay the suitors was a gift from Iphitus, son of Eurytus. Odysseus and Iphitus met as young men in Messene: Odysseus had gone to recover sheep stolen by the Messenians, while Iphitus was searching for twelve lost brood mares. Iphitus "gave him the bow, which of old great Eurytus bare and had left at his death to his son in his lofty house. And Odysseus gave Iphitus a sharp sword and a mighty spear, for the beginning of a loving friendship."[^od21-bow] Iphitus was later murdered by [Heracles](heracles.md) despite being his guest. Odysseus never took the bow to war, but kept it at home as a memorial of his friend.[^od21-memorial]
 
-[^od21-bow]: "he gave him the bow, which of old great Eurytus bare and had left at his death to his son in his lofty house. And Odysseus gave Iphitus a sharp sword and a mighty spear, for the beginning of a loving friendship" (Odyssey XXI.11217-11220, trans. Butcher and Lang)
-[^od21-memorial]: "goodly Odysseus would never take it with him on the black ships, as he went to the wars, but the bow was laid by at home in the halls as a memorial of a dear guest" (Odyssey XXI.11223-11225)
+[^od21-bow]: "he gave him the bow, which of old great Eurytus bare and had left at his death to his son in his lofty house. And Odysseus gave Iphitus a sharp sword and a mighty spear, for the beginning of a loving friendship" (Odyssey 21.32-35, trans. Butcher and Lang)
+[^od21-memorial]: "goodly Odysseus would never take it with him on the black ships, as he went to the wars, but the bow was laid by at home in the halls as a memorial of a dear guest" (Odyssey 21.38-39)
 
 [Zeus](../deities/zeus.md) provides direct divine sanction for Odysseus's vengeance. When Odysseus prays for an omen, "Zeus, the counsellor, heard him. Straightway he thundered from shining Olympus."[^od20-thunder] Zeus thunders again when Odysseus strings the great bow: "Zeus thundered loud showing forth his tokens. And the steadfast goodly Odysseus was glad thereat."[^od21-thunder]
 
 After the slaying, [Zeus](../deities/zeus.md) decrees the final peace: "let them make a firm covenant together with sacrifice, and let him be king all his days, and let us bring about oblivion of the slaying of their children and their brethren."[^od24-peace]
 
-[^od20-thunder]: "Zeus, the counsellor, heard him. Straightway he thundered from shining Olympus, from on high from the place of clouds; and goodly Odysseus was glad" (Odyssey XX.10858-10860, trans. Butcher and Lang)
-[^od21-thunder]: "Zeus thundered loud showing forth his tokens. And the steadfast goodly Odysseus was glad thereat, in that the son of deep-counselling Cronos had sent him a sign" (Odyssey XXI.11618-11620, trans. Butcher and Lang)
-[^od24-peace]: "let them make a firm covenant together with sacrifice, and let him be king all his days, and let us bring about oblivion of the slaying of their children and their brethren; so may both sides love one another as of old, and let peace and wealth abundant be their portion" (Odyssey XXIV.13036-13040, trans. Butcher and Lang)
+[^od20-thunder]: "Zeus, the counsellor, heard him. Straightway he thundered from shining Olympus, from on high from the place of clouds; and goodly Odysseus was glad" (Odyssey 20.99-101, trans. Butcher and Lang)
+[^od21-thunder]: "Zeus thundered loud showing forth his tokens. And the steadfast goodly Odysseus was glad thereat, in that the son of deep-counselling Cronos had sent him a sign" (Odyssey 21.409-411, trans. Butcher and Lang)
+[^od24-peace]: "let them make a firm covenant together with sacrifice, and let him be king all his days, and let us bring about oblivion of the slaying of their children and their brethren; so may both sides love one another as of old, and let peace and wealth abundant be their portion" (Odyssey 24.485-489, trans. Butcher and Lang)
 
 ## In the Epic Cycle
 

@@ -2,7 +2,7 @@
 
 > "The Archer-goddess was wroth and sent against him a creature of heaven, a fierce wild boar, white-tusked, that wrought sore ill continually on Oineus' garden land."[^epigraph]
 
-[^epigraph]: "the Archer-goddess was wroth and sent against him a creature of heaven, a fierce wild boar, white-tusked, that wrought sore ill continually on Oineus' garden land" (Iliad IX.5407-5409, trans. Lang, Leaf, and Myers)
+[^epigraph]: "the Archer-goddess was wroth and sent against him a creature of heaven, a fierce wild boar, white-tusked, that wrought sore ill continually on Oineus' garden land" (Iliad 9.525-527, trans. Lang, Leaf, and Myers)
 
 | | |
 |---|---|
@@ -24,9 +24,9 @@ Apollodorus gives the same cause: "In sacrificing the first fruits of the annual
 
 The Iliad describes the boar as "a fierce wild boar, white-tusked, that wrought sore ill continually on Oineus' garden land; many a tall tree laid he low utterly, even root and apple blossom therewith."[^il9-boar]
 
-[^il9-cause]: "Artemis of the golden throne had brought a plague upon them, in wrath that Oineus offered her not the harvest first-fruits on the fat of his garden land; for all the other gods had their feast of hecatombs, and only to the daughter of great Zeus offered he not, whether he forgat or marked it not; and therein sinned he sore in his heart" (Iliad IX.5402-5407, trans. Lang, Leaf, and Myers)
+[^il9-cause]: "Artemis of the golden throne had brought a plague upon them, in wrath that Oineus offered her not the harvest first-fruits on the fat of his garden land; for all the other gods had their feast of hecatombs, and only to the daughter of great Zeus offered he not, whether he forgat or marked it not; and therein sinned he sore in his heart" (Iliad 9.519-525, trans. Lang, Leaf, and Myers)
 [^apd-cause]: "In sacrificing the first fruits of the annual crops of the country to all the gods Oeneus forgot Artemis alone. But she in her wrath sent a boar of extraordinary size and strength, which prevented the land from being sown and destroyed the cattle and the people that fell in with it" (Bibliotheca 1.8.2, trans. Frazer)
-[^il9-boar]: "a fierce wild boar, white-tusked, that wrought sore ill continually on Oineus' garden land; many a tall tree laid he low utterly, even root and apple blossom therewith" (Iliad IX.5408-5410, trans. Lang, Leaf, and Myers)
+[^il9-boar]: "a fierce wild boar, white-tusked, that wrought sore ill continually on Oineus' garden land; many a tall tree laid he low utterly, even root and apple blossom therewith" (Iliad 9.526-528, trans. Lang, Leaf, and Myers)
 
 ## The Hunters
 
@@ -50,7 +50,7 @@ In the Iliad, the event is described more generally: "him slew Meleagros the son
 
 [^apd-call]: "To attack this boar Oeneus called together all the noblest men of Greece, and promised that to him who should kill the beast he would give the skin as a prize" (Bibliotheca 1.8.2, trans. Frazer)
 [^apd-catalogue]: "Meleager, son of Oeneus; Dryas, son of Ares; these came from Calydon; Idas and Lynceus, sons of Aphareus, from Messene; Castor and Pollux, sons of Zeus and Leda, from Lacedaemon; Theseus, son of Aegeus, from Athens; Admetus, son of Pheres, from Pherae; Ancaeus and Cepheus, sons of Lycurgus, from Arcadia; Jason, son of Aeson, from Iolcus" (Bibliotheca 1.8.2, trans. Frazer)
-[^il9-hunt]: "him slew Meleagros the son of Oineus, having gathered together from many cities huntsmen and hounds; for not of few men could the boar be slain, so mighty was he; and many an one brought he to the grievous pyre" (Iliad IX.5410-5413, trans. Lang, Leaf, and Myers)
+[^il9-hunt]: "him slew Meleagros the son of Oineus, having gathered together from many cities huntsmen and hounds; for not of few men could the boar be slain, so mighty was he; and many an one brought he to the grievous pyre" (Iliad 9.528-532, trans. Lang, Leaf, and Myers)
 
 ## The Kill and the Dispute
 
@@ -70,7 +70,7 @@ The sons of Thestius (Althaea's brothers) seized the skin from Atalanta, "thinki
 
 In the Iliad, the dispute is over "the boar's head and shaggy hide" and leads not to personal violence but to war: "the goddess made much turmoil over him and tumult concerning the boar's head and shaggy hide, between the Kuretes and great-hearted Aitolians."[^il9-turmoil]
 
-[^il9-turmoil]: "the goddess made much turmoil over him and tumult concerning the boar's head and shaggy hide, between the Kuretes and great-hearted Aitolians" (Iliad IX.5413-5415, trans. Lang, Leaf, and Myers)
+[^il9-turmoil]: "the goddess made much turmoil over him and tumult concerning the boar's head and shaggy hide, between the Kuretes and great-hearted Aitolians" (Iliad 9.532-534, trans. Lang, Leaf, and Myers)
 
 ## The Death of Meleager
 
@@ -89,9 +89,9 @@ The Iliad tells a different version, where Meleager withdrew from battle in ange
 
 Meleager withdrew to his wife Kleopatra and refused all pleas — from the elders of the Aetolians, from his father Oeneus, from his sisters and mother, and from his dearest comrades. Only when "his chamber was now hotly battered and the Kuretes were climbing upon the towers and firing the great city" did his wife persuade him to fight. "So he saved the Aitolians from the evil day, obeying his own will; but they paid him not now the gifts many and gracious; yet nevertheless he drave away destruction."[^il9-return]
 
-[^il9-fighting]: "So long as Meleagros dear to Ares fought, so long it went ill with the Kuretes, neither dared they face him without their city walls, for all they were very many" (Iliad IX.5416-5418, trans. Lang, Leaf, and Myers)
-[^il9-curse]: "she, grieved for her brethren's death, prayed instantly to the gods, and with her hands likewise beat instantly upon the fertile earth, calling on Hades and dread Persephone, while she knelt upon her knees and made her bosom wet with tears, to bring her son to death; and Erinnys that walketh in darkness, whose heart knoweth not ruth, heard her from Erebos" (Iliad IX.5429-5434, trans. Lang, Leaf, and Myers)
-[^il9-return]: "So he saved the Aitolians from the evil day, obeying his own will; but they paid him not now the gifts many and gracious; yet nevertheless he drave away destruction" (Iliad IX.5453-5455, trans. Lang, Leaf, and Myers)
+[^il9-fighting]: "So long as Meleagros dear to Ares fought, so long it went ill with the Kuretes, neither dared they face him without their city walls, for all they were very many" (Iliad 9.535-537, trans. Lang, Leaf, and Myers)
+[^il9-curse]: "she, grieved for her brethren's death, prayed instantly to the gods, and with her hands likewise beat instantly upon the fertile earth, calling on Hades and dread Persephone, while she knelt upon her knees and made her bosom wet with tears, to bring her son to death; and Erinnys that walketh in darkness, whose heart knoweth not ruth, heard her from Erebos" (Iliad 9.550-555, trans. Lang, Leaf, and Myers)
+[^il9-return]: "So he saved the Aitolians from the evil day, obeying his own will; but they paid him not now the gifts many and gracious; yet nevertheless he drave away destruction" (Iliad 9.577-579, trans. Lang, Leaf, and Myers)
 
 ### The Alternate Version (Apollodorus)
 
@@ -121,8 +121,8 @@ Phoenix tells the Meleager story in Iliad IX as a cautionary parallel to [Achill
 
 By the time of the Iliad's narrative present, "golden-haired Meleagros was dead, to whose hands all had been committed, for him to be king of the Aitolians."[^il2-dead]
 
-[^il9-moral]: "be not thine heart thus minded, neither let heaven so guide thee, dear son; that were a hard thing, to save the ships already burning. Nay, come for the gifts" (Iliad IX.5456-5458, trans. Lang, Leaf, and Myers)
-[^il2-dead]: "golden-haired Meleagros was dead, to whose hands all had been committed, for him to be king of the Aitolians" (Iliad II.1376-1377, trans. Lang, Leaf, and Myers)
+[^il9-moral]: "be not thine heart thus minded, neither let heaven so guide thee, dear son; that were a hard thing, to save the ships already burning. Nay, come for the gifts" (Iliad 9.580-583, trans. Lang, Leaf, and Myers)
+[^il2-dead]: "golden-haired Meleagros was dead, to whose hands all had been committed, for him to be king of the Aitolians" (Iliad 2.623-624, trans. Lang, Leaf, and Myers)
 
 ## In the Fabulae
 

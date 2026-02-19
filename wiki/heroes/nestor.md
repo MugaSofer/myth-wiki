@@ -2,7 +2,7 @@
 
 > "Then in their midst rose up Nestor, pleasant of speech, the clear-voiced orator of the Pylians, he from whose tongue flowed discourse sweeter than honey."[^epigraph]
 
-[^epigraph]: (Iliad I.427-429, trans. Lang, Leaf, and Myers)
+[^epigraph]: (Iliad 1.249-251, trans. Lang, Leaf, and Myers)
 
 | | |
 |---|---|
@@ -25,8 +25,8 @@
 - **"he from whose tongue flowed discourse sweeter than honey"** — the celebrated honeyed-speech image[^il1-honey]
 
 [^il1-knightly]: "knightly Nestor of Gerenia" (Iliad I, passim; e.g. II.1185, IV.2365, trans. Lang, Leaf, and Myers)
-[^il1-orator]: "Nestor, pleasant of speech, the clear-voiced orator of the Pylians" (Iliad I.427-428)
-[^il1-honey]: "he from whose tongue flowed discourse sweeter than honey" (Iliad I.428-429)
+[^il1-orator]: "Nestor, pleasant of speech, the clear-voiced orator of the Pylians" (Iliad 1.249-250)
+[^il1-honey]: "he from whose tongue flowed discourse sweeter than honey" (Iliad 1.250-251)
 
 ## In the Iliad
 
@@ -38,8 +38,8 @@ Nestor's age is his most remarkable attribute. "Two generations of mortal men al
 
 When [Machaon](../sources/iliad.md) is brought wounded to Nestor's tent, a remarkable cup is described: "a right goodly cup, that the old man brought from home, embossed with studs of gold, and four handles there were to it, and round each two golden doves were feeding, and to the cup were two feet below. Another man could scarce have lifted the cup from the table, when it was full, but Nestor the Old raised it easily."[^il11-cup]
 
-[^il1-generations]: "Two generations of mortal men already had he seen perish, that had been of old time born and nurtured with him in goodly Pylos, and he was king among the third" (Iliad I.429-431, trans. Lang, Leaf, and Myers)
-[^il11-cup]: "a right goodly cup, that the old man brought from home, embossed with studs of gold, and four handles there were to it, and round each two golden doves were feeding, and to the cup were two feet below. Another man could scarce have lifted the cup from the table, when it was full, but Nestor the Old raised it easily" (Iliad XI.6764-6769)
+[^il1-generations]: "Two generations of mortal men already had he seen perish, that had been of old time born and nurtured with him in goodly Pylos, and he was king among the third" (Iliad 1.251-253, trans. Lang, Leaf, and Myers)
+[^il11-cup]: "a right goodly cup, that the old man brought from home, embossed with studs of gold, and four handles there were to it, and round each two golden doves were feeding, and to the cup were two feet below. Another man could scarce have lifted the cup from the table, when it was full, but Nestor the Old raised it easily" (Iliad 11.638-643)
 
 ## In the Odyssey
 

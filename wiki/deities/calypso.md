@@ -2,7 +2,7 @@
 
 > "Hard are ye gods and jealous exceeding, who ever grudge goddesses openly to mate with men, if any make a mortal her dear bed-fellow."[^epigraph]
 
-[^epigraph]: (Odyssey V.3093-3094, trans. Butcher and Lang)
+[^epigraph]: (Odyssey 5.119-120, trans. Butcher and Lang)
 
 | | |
 |---|---|
@@ -20,19 +20,19 @@
 ## Epithets
 
 - **"that fair goddess"** / **"Calypso, the fair goddess"** — the most frequent epithet, used throughout [Odyssey](../sources/odyssey.md) V[^od5-fairgoddess]
-- **"the nymph of the braided tresses"** / **"Calypso, of the braided tresses"** — (Odyssey V.3012, 3038; VII.4040)[^od5-braided]
+- **"the nymph of the braided tresses"** / **"Calypso, of the braided tresses"** — (Odyssey 5.39, 3038; VII.4040)[^od5-braided]
 - **"an awful goddess"** — ([Odyssey](../sources/odyssey.md) VII.4040, 4047)[^od7-awful]
 - **"the bright goddess Calypso"** — ([Theogony](../sources/theogony.md) 1017)[^theog-bright]
 - **"crafty Calypso"** — ([Odyssey](../sources/odyssey.md) VII.4040)[^od7-awful]
 - **"the lady nymph Calypso"** — ([Odyssey](../sources/odyssey.md) I.742)[^od1-lady]
 - **"Calypso of the fair hair"** — ([Odyssey](../sources/odyssey.md) XII.6911)[^od12-fairhair]
 
-[^od5-fairgoddess]: "Calypso, that fair goddess, questioned Hermes" (Odyssey V.3059, trans. Butcher and Lang)
-[^od5-braided]: "tell unto the nymph of the braided tresses my unerring counsel" (Odyssey V.3012)
-[^od7-awful]: "crafty Calypso, of the braided tresses, an awful goddess, nor is any either of gods or mortals conversant with her" (Odyssey VII.4040-4041)
+[^od5-fairgoddess]: "Calypso, that fair goddess, questioned Hermes" (Odyssey 5.85, trans. Butcher and Lang)
+[^od5-braided]: "tell unto the nymph of the braided tresses my unerring counsel" (Odyssey 5.39)
+[^od7-awful]: "crafty Calypso, of the braided tresses, an awful goddess, nor is any either of gods or mortals conversant with her" (Odyssey 7.247-248)
 [^theog-bright]: "the bright goddess Calypso was joined to Odysseus in sweet love" (Theogony 1017-1018, trans. H.G. Evelyn-White)
-[^od1-lady]: "the lady nymph Calypso held, that fair goddess, in her hollow caves, longing to have him for her lord" (Odyssey I.742-743)
-[^od12-fairhair]: "This I heard from Calypso of the fair hair; and she said that she herself had heard it from Hermes the Messenger" (Odyssey XII.6911-6912)
+[^od1-lady]: "the lady nymph Calypso held, that fair goddess, in her hollow caves, longing to have him for her lord" (Odyssey 1.23-24)
+[^od12-fairhair]: "This I heard from Calypso of the fair hair; and she said that she herself had heard it from Hermes the Messenger" (Odyssey 12.388-389)
 
 ## Appearance
 
@@ -40,9 +40,9 @@ Calypso is more beautiful than mortal women. When she proposes that Odysseus sta
 
 Her clothing is described when she goes to find Odysseus after Hermes's visit: she "clad her in a great shining robe, light of woof and gracious, and about her waist she cast a fair golden girdle, and a veil withal upon her head."[^od5-attire]
 
-[^od5-form]: "Not in sooth that I avow me to be less noble than she in form or fashion, for it is in no wise meet that mortal women should match them with immortals, in shape and comeliness" (Odyssey V.3190-3192)
-[^od5-penelope]: "wise Penelope is meaner to look upon than thou, in comeliness and stature. But she is mortal and thou knowest not age nor death" (Odyssey V.3196-3197)
-[^od5-attire]: "the nymph clad her in a great shining robe, light of woof and gracious, and about her waist she cast a fair golden girdle, and a veil withal upon her head" (Odyssey V.3209-3211)
+[^od5-form]: "Not in sooth that I avow me to be less noble than she in form or fashion, for it is in no wise meet that mortal women should match them with immortals, in shape and comeliness" (Odyssey 5.215-217)
+[^od5-penelope]: "wise Penelope is meaner to look upon than thou, in comeliness and stature. But she is mortal and thou knowest not age nor death" (Odyssey 5.221-222)
+[^od5-attire]: "the nymph clad her in a great shining robe, light of woof and gracious, and about her waist she cast a fair golden girdle, and a veil withal upon her head" (Odyssey 5.234-236)
 
 ## Powers
 
@@ -50,9 +50,9 @@ Her clothing is described when she goes to find Odysseus after Hermes's visit: s
 - **Weaving:** She wove "with a shuttle of gold."[^od5-weaving]
 - **Navigation:** She instructed Odysseus in celestial navigation, telling him to keep the Bear on his left as he crossed the sea.[^od5-navigation]
 
-[^od5-immortality]: "Him have I loved and cherished, and I said that I would make him to know not death and age for ever" (Odyssey V.3106-3108)
-[^od5-weaving]: "the nymph within was singing with a sweet voice as she fared to and fro before the loom, and wove with a shuttle of gold" (Odyssey V.3041-3042)
-[^od5-navigation]: "This star, Calypso, the fair goddess, bade him to keep ever on the left as he traversed the deep" (Odyssey V.3248-3249)
+[^od5-immortality]: "Him have I loved and cherished, and I said that I would make him to know not death and age for ever" (Odyssey 5.132-134)
+[^od5-weaving]: "the nymph within was singing with a sweet voice as she fared to and fro before the loom, and wove with a shuttle of gold" (Odyssey 5.67-68)
+[^od5-navigation]: "This star, Calypso, the fair goddess, bade him to keep ever on the left as he traversed the deep" (Odyssey 5.273-274)
 
 ## Her Island
 
@@ -60,7 +60,7 @@ Ogygia is remote — [Hermes](hermes.md) complains that no mortal cities are nea
 
 "On the hearth there was a great fire burning, and from afar through the isle was smelt the fragrance of cleft cedar blazing, and of sandal wood. And the nymph within was singing with a sweet voice as she fared to and fro before the loom, and wove with a shuttle of gold. And round about the cave there was a wood blossoming, alder and poplar and sweet-smelling cypress. And therein roosted birds long of wing, owls and falcons and chattering sea-crows, which have their business in the waters. And lo, there about the hollow cave trailed a gadding garden vine, all rich with clusters. And fountains four set orderly were running with clear water, hard by one another, turned each to his own course. And all around soft meadows bloomed of violets and parsley, yea, even a deathless god who came thither might wonder at the sight and be glad at heart."[^od5-ogygia]
 
-[^od5-ogygia]: (Odyssey V.3038-3051, trans. Butcher and Lang)
+[^od5-ogygia]: (Odyssey 5.64-77, trans. Butcher and Lang)
 
 ## In the Odyssey
 
@@ -72,9 +72,9 @@ In [Odyssey](../sources/odyssey.md) Book I, Calypso is introduced holding Odysse
 
 Odysseus himself, when found by Hermes, "sat weeping on the shore even as aforetime, straining his soul with tears, and groans, and griefs, and as he wept he looked wistfully over the unharvested deep." By night "he would sleep by her, as needs he must, in the hollow caves, unwilling lover by a willing lady."[^od5-unwilling]
 
-[^od1-poseidon]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus, till he came to his own country" (Odyssey I.747-748)
-[^od5-perforce]: "he lieth in an island suffering strong pains, in the halls of the nymph Calypso, who holdeth him perforce" (Odyssey V.2995-2996)
-[^od5-unwilling]: "by night he would sleep by her, as needs he must, in the hollow caves, unwilling lover by a willing lady. And in the day-time he would sit on the rocks and on the beach, straining his soul with tears, and groans, and griefs" (Odyssey V.3129-3132)
+[^od1-poseidon]: "all the gods had pity on him save Poseidon, who raged continually against godlike Odysseus, till he came to his own country" (Odyssey 1.28-29)
+[^od5-perforce]: "he lieth in an island suffering strong pains, in the halls of the nymph Calypso, who holdeth him perforce" (Odyssey 5.22-23)
+[^od5-unwilling]: "by night he would sleep by her, as needs he must, in the hollow caves, unwilling lover by a willing lady. And in the day-time he would sit on the rocks and on the beach, straining his soul with tears, and groans, and griefs" (Odyssey 5.155-158)
 
 ### The Gods' Jealousy (Book V)
 
@@ -82,9 +82,9 @@ When [Hermes](hermes.md) delivers [Zeus](zeus.md)'s command, Calypso delivers a 
 
 Yet she yields: "forasmuch as it is no wise possible for another god to go beyond, or make void the purpose of Zeus, lord of the aegis, let him away over the unharvested seas."[^od5-yield]
 
-[^od5-jealousy]: "Hard are ye gods and jealous exceeding, who ever grudge goddesses openly to mate with men, if any make a mortal her dear bed-fellow" (Odyssey V.3093-3094)
-[^od5-loved]: "Him I saved as he went all alone bestriding the keel of a bark... And him have I loved and cherished, and I said that I would make him to know not death and age for ever" (Odyssey V.3102-3108)
-[^od5-yield]: "forasmuch as it is no wise possible for another god to go beyond, or make void the purpose of Zeus, lord of the aegis, let him away over the unharvested seas" (Odyssey V.3108-3110)
+[^od5-jealousy]: "Hard are ye gods and jealous exceeding, who ever grudge goddesses openly to mate with men, if any make a mortal her dear bed-fellow" (Odyssey 5.119-120)
+[^od5-loved]: "Him I saved as he went all alone bestriding the keel of a bark... And him have I loved and cherished, and I said that I would make him to know not death and age for ever" (Odyssey 5.128-134)
+[^od5-yield]: "forasmuch as it is no wise possible for another god to go beyond, or make void the purpose of Zeus, lord of the aegis, let him away over the unharvested seas" (Odyssey 5.134-136)
 
 ### The Farewell (Book V)
 
@@ -94,9 +94,9 @@ She makes one last attempt to dissuade him, comparing herself to [Penelope](../h
 
 She then helps him practically: showing him where tall trees grow, providing augers and web of cloth for sails, bathing him, clothing him in fragrant attire, provisioning the raft with wine, water, and corn, and sending a warm and gentle wind.[^od5-provisions]
 
-[^od5-pitiful]: "I too have a righteous mind, and my heart within me is not of iron, but pitiful even as thine" (Odyssey V.3165-3166)
-[^od5-farewell]: "Myself I know it well, how wise Penelope is meaner to look upon than thou, in comeliness and stature. But she is mortal and thou knowest not age nor death. Yet even so, I wish and long day by day to fare homeward and see the day of my returning" (Odyssey V.3196-3199)
-[^od5-provisions]: "the fair Calypso sent him on his way from the island, when she had bathed him and clad him in fragrant attire. Moreover, the goddess placed on board the ship two skins, one of dark wine, and another, a great one, of water, and corn too in a wallet, and she set therein a store of dainties to his heart's desire, and sent forth a warm and gentle wind to blow" (Odyssey V.3238-3243)
+[^od5-pitiful]: "I too have a righteous mind, and my heart within me is not of iron, but pitiful even as thine" (Odyssey 5.190-191)
+[^od5-farewell]: "Myself I know it well, how wise Penelope is meaner to look upon than thou, in comeliness and stature. But she is mortal and thou knowest not age nor death. Yet even so, I wish and long day by day to fare homeward and see the day of my returning" (Odyssey 5.221-224)
+[^od5-provisions]: "the fair Calypso sent him on his way from the island, when she had bathed him and clad him in fragrant attire. Moreover, the goddess placed on board the ship two skins, one of dark wine, and another, a great one, of water, and corn too in a wallet, and she set therein a store of dainties to his heart's desire, and sent forth a warm and gentle wind to blow" (Odyssey 5.263-268)
 
 ### Other References
 
@@ -106,8 +106,8 @@ Later, in Book IX, he compares Calypso and [Circe](circe.md): "Verily Calypso, t
 
 In Book XII, Odysseus reports that Calypso told him of [Zeus](zeus.md)'s vow to destroy his ship: "This I heard from Calypso of the fair hair; and she said that she herself had heard it from [Hermes](hermes.md) the Messenger."[^od12-fairhair]
 
-[^od7-recall]: "crafty Calypso, of the braided tresses, an awful goddess, nor is any either of gods or mortals conversant with her... She took me in, and with all care she cherished me and gave me sustenance, and said that she would make me to know not death nor age for all my days; but never did she win my heart within me" (Odyssey VII.4040-4050)
-[^od9-compare]: "Verily Calypso, the fair goddess, would fain have kept me with her in her hollow caves, longing to have me for her lord; and likewise too, guileful Circe of Aia, would have stayed me in her halls, longing to have me for her lord. But never did they prevail upon my heart within my breast" (Odyssey IX.4760-4764)
+[^od7-recall]: "crafty Calypso, of the braided tresses, an awful goddess, nor is any either of gods or mortals conversant with her... She took me in, and with all care she cherished me and gave me sustenance, and said that she would make me to know not death nor age for all my days; but never did she win my heart within me" (Odyssey 7.247-257)
+[^od9-compare]: "Verily Calypso, the fair goddess, would fain have kept me with her in her hollow caves, longing to have me for her lord; and likewise too, guileful Circe of Aia, would have stayed me in her halls, longing to have me for her lord. But never did they prevail upon my heart within my breast" (Odyssey 9.28-32)
 
 ## In the Theogony
 

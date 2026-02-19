@@ -46,7 +46,7 @@ In the description of [Tartarus](../places/tartarus.md), Iris serves as [Zeus](z
 
 In [Iliad](../sources/iliad.md) Book II, [Zeus](zeus.md) sends "fleet Iris the wind-footed" to warn the Trojans of the Greek advance. She disguises herself as Polites son of Priam, taking on the form of a mortal — "she made her voice like to the voice of Polites." She warns Hector to marshal the allies. "Hector failed not to know the voice of the goddess, and straightway dismissed the assembly."[^il2-iris]
 
-[^il2-iris]: "fleet Iris the wind-footed went to the Trojans, a messenger from aegis-bearing Zeus, with a grievous message... she made her voice like to the voice of Polites son of Priam... Hector failed not to know the voice of the goddess, and straightway dismissed the assembly, and they rushed to arms" (Iliad II.1512-1533, trans. Lang, Leaf, and Myers)
+[^il2-iris]: "fleet Iris the wind-footed went to the Trojans, a messenger from aegis-bearing Zeus, with a grievous message... she made her voice like to the voice of Polites son of Priam... Hector failed not to know the voice of the goddess, and straightway dismissed the assembly, and they rushed to arms" (Iliad 2.765-787, trans. Lang, Leaf, and Myers)
 
 ### Stopping Hera and Athena (Book VIII)
 
@@ -54,14 +54,14 @@ In [Iliad](../sources/iliad.md) Book VIII, [Zeus](zeus.md) sends Iris to interce
 
 Here Iris is called "whirlwind-footed" and "fleet-footed" — variant epithets that emphasize her speed.[^il8-speed]
 
-[^il8-vixen]: "Most fell art thou, reckless vixen! if thou indeed wilt dare to lift thy huge spear against the face of Zeus" (Iliad VIII.4813-4815, trans. Lang, Leaf, and Myers)
-[^il8-speed]: "whirlwind-footed Iris arose to bear the message" (Iliad VIII.4801)
+[^il8-vixen]: "Most fell art thou, reckless vixen! if thou indeed wilt dare to lift thy huge spear against the face of Zeus" (Iliad 8.427-429, trans. Lang, Leaf, and Myers)
+[^il8-speed]: "whirlwind-footed Iris arose to bear the message" (Iliad 8.415)
 
 ### Tactical Instructions to Hector (Book XI)
 
 In [Iliad](../sources/iliad.md) Book XI, [Zeus](zeus.md) sends "Iris of the golden wings" to Hector with precise battle instructions. "Wind-footed swift Iris" delivers the message faithfully: hold back while Agamemnon rages, then Zeus "will give thee strength to slay."[^il11-hector]
 
-[^il11-hector]: "Then sent he forth Iris of the golden wings, to bear his word: 'Up and go, swift Iris, and tell this word unto Hector'... So spake he, and wind-footed swift Iris disobeyed him not, but she went down from the hills of Ida to sacred Ilios" (Iliad XI.6332-6343, trans. Lang, Leaf, and Myers)
+[^il11-hector]: "Then sent he forth Iris of the golden wings, to bear his word: 'Up and go, swift Iris, and tell this word unto Hector'... So spake he, and wind-footed swift Iris disobeyed him not, but she went down from the hills of Ida to sacred Ilios" (Iliad 11.187-198, trans. Lang, Leaf, and Myers)
 
 ## In the [Argonautica](../sources/argonautica.md)
 

@@ -129,17 +129,17 @@ Later, she confronts [Zeus](zeus.md) about his secret dealings with Thetis: "It 
 
 According to Achilles, Hera was one of three gods (with [Poseidon](poseidon.md) and [Athena](athena.md)) who once tried to bind Zeus — until Thetis freed him by summoning Briareus.[^il1-binding]
 
-[^il1-oxeyed]: "Then Hera the ox-eyed queen made answer to him" (Iliad I.551, trans. Lang, Leaf, and Myers)
-[^il1-pity]: "in his mind did goddess Hera of the white arms put the thought, because she had pity on the Danaans when she beheld them perishing" (Iliad I.55-56)
-[^il1-quarrel]: "It is ever thy good pleasure to hold aloof from me and in secret meditation to give thy judgments, nor of thine own good will hast thou ever brought thyself to declare unto me the thing thou purposest" (Iliad I.541-543)
-[^il1-throne]: "beside him was Hera of the golden throne" (Iliad I.611)
-[^il1-binding]: "all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene" (Iliad I.399-400)
+[^il1-oxeyed]: "Then Hera the ox-eyed queen made answer to him" (Iliad 1.376, trans. Lang, Leaf, and Myers)
+[^il1-pity]: "in his mind did goddess Hera of the white arms put the thought, because she had pity on the Danaans when she beheld them perishing" (Iliad 1.55-56)
+[^il1-quarrel]: "It is ever thy good pleasure to hold aloof from me and in secret meditation to give thy judgments, nor of thine own good will hast thou ever brought thyself to declare unto me the thing thou purposest" (Iliad 1.366-368)
+[^il1-throne]: "beside him was Hera of the golden throne" (Iliad 1.437)
+[^il1-binding]: "all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene" (Iliad 1.220-221)
 
 ### Stopping the Retreat (Book II)
 
 When the Greeks rush to flee after Agamemnon's test, Hera intervenes again by sending [Athena](athena.md): "Shall the Argives thus indeed flee homeward to their dear native land over the sea's broad back? But they would leave to Priam and the Trojans their boast, even Helen of Argos, for whose sake many an Achaian hath perished in Troy." She instructs Athena to restrain the army "with thy gentle words."[^il2-retreat]
 
-[^il2-retreat]: "Hera spake a word to Athene: 'Out on it, daughter of aegis-bearing Zeus, unwearied maiden! Shall the Argives thus indeed flee homeward to their dear native land over the sea's broad back? But they would leave to Priam and the Trojans their boast, even Helen of Argos'" (Iliad II.932-936, trans. Lang, Leaf, and Myers)
+[^il2-retreat]: "Hera spake a word to Athene: 'Out on it, daughter of aegis-bearing Zeus, unwearied maiden! Shall the Argives thus indeed flee homeward to their dear native land over the sea's broad back? But they would leave to Priam and the Trojans their boast, even Helen of Argos'" (Iliad 2.159-163, trans. Lang, Leaf, and Myers)
 
 ### Thundering for Agamemnon / The Eilithyiai (Book XI)
 
@@ -147,8 +147,8 @@ In [Iliad](../sources/iliad.md) Book XI, Hera and [Athena](athena.md) honour Aga
 
 Later, the Eilithyiai — goddesses of childbirth — are identified as Hera's daughters: Agamemnon's wound-pain is compared to "the piercing shaft that the goddesses of the birth-pangs send, even the Eilithyiai, the daughters of Hera that have bitter pangs in their gift."[^il11-eilithyiai]
 
-[^il11-thunder]: "far forth from him into the heaven shone the bronze; and thereat Hera and Athene thundered, honouring the king of Mykene rich in gold" (Iliad XI.6196-6197, trans. Lang, Leaf, and Myers)
-[^il11-eilithyiai]: "even as when the keen shaft cometh upon a woman in her travail, the piercing shaft that the goddesses of the birth-pangs send, even the Eilithyiai, the daughters of Hera that have bitter pangs in their gift" (Iliad XI.6411-6413)
+[^il11-thunder]: "far forth from him into the heaven shone the bronze; and thereat Hera and Athene thundered, honouring the king of Mykene rich in gold" (Iliad 11.45-46, trans. Lang, Leaf, and Myers)
+[^il11-eilithyiai]: "even as when the keen shaft cometh upon a woman in her travail, the piercing shaft that the goddesses of the birth-pangs send, even the Eilithyiai, the daughters of Hera that have bitter pangs in their gift" (Iliad 11.269-272)
 
 ### The Deception of Zeus (Book XIV)
 
@@ -166,12 +166,12 @@ Hera overcomes his reluctance by offering Pasithea, "one of the younger of the [
 
 **The seduction:** On Ida, Zeus sees Hera and "love came over his deep heart." He lists his past conquests — none moved him as she does now — then wraps them in a golden cloud ("not even the sun might see through it") while "the divine earth sent forth fresh new grass, and dewy lotus, and crocus, and hyacinth, thick and soft."[^il14-earth]
 
-[^il14-adorn]: "With ambrosia first did she cleanse every stain from her winsome body, and anointed her with olive oil, ambrosial, soft, and of a sweet savour; if it were but shaken, in the bronze-floored mansion of Zeus, the savour thereof went right forth to earth and heaven. Therewith she anointed her fair body, and combed her hair, and with her hands plaited her shining tresses, fair and ambrosial, flowing from her immortal head" (Iliad XIV.8371-8377, trans. Lang, Leaf, and Myers)
-[^il14-girdle]: "from her breast she loosed the broidered girdle, fair-wrought, wherein are all her enchantments; therein are love, and desire, and loving converse, that steals the wits even of the wise" (Iliad XIV.8411-8413)
-[^il14-okeanos]: "Okeanos, father of the gods, and mother Tethys, who reared me well and nourished me in their halls, having taken me from Rhea, when far-seeing Zeus imprisoned Kronos beneath the earth and the unvintaged sea" (Iliad XIV.8398-8400)
-[^il14-sleep]: "he was wrathful, and dashed the gods about his mansion, and me above all he sought, and he would have cast me from the upper air to perish in the deep, if Night had not saved me, Night, that subdues both gods and men. To her I came as a suppliant in my flight, and he ceased from pursuing, wrathful as he was, for he was in awe of doing aught displeasing to swift Night" (Iliad XIV.8449-8454)
-[^il14-oath]: "she sware as he bade her, and called all the gods by name, even those below Tartaros that are called Titans" (Iliad XIV.8473-8474)
-[^il14-earth]: "beneath them the divine earth sent forth fresh new grass, and dewy lotus, and crocus, and hyacinth, thick and soft, that raised them aloft from the ground. Therein they lay, and were clad on with a fair golden cloud, whence fell drops of glittering dew" (Iliad XIV.8539-8542)
+[^il14-adorn]: "With ambrosia first did she cleanse every stain from her winsome body, and anointed her with olive oil, ambrosial, soft, and of a sweet savour; if it were but shaken, in the bronze-floored mansion of Zeus, the savour thereof went right forth to earth and heaven. Therewith she anointed her fair body, and combed her hair, and with her hands plaited her shining tresses, fair and ambrosial, flowing from her immortal head" (Iliad 14.174-181, trans. Lang, Leaf, and Myers)
+[^il14-girdle]: "from her breast she loosed the broidered girdle, fair-wrought, wherein are all her enchantments; therein are love, and desire, and loving converse, that steals the wits even of the wise" (Iliad 14.216-218)
+[^il14-okeanos]: "Okeanos, father of the gods, and mother Tethys, who reared me well and nourished me in their halls, having taken me from Rhea, when far-seeing Zeus imprisoned Kronos beneath the earth and the unvintaged sea" (Iliad 14.202-204)
+[^il14-sleep]: "he was wrathful, and dashed the gods about his mansion, and me above all he sought, and he would have cast me from the upper air to perish in the deep, if Night had not saved me, Night, that subdues both gods and men. To her I came as a suppliant in my flight, and he ceased from pursuing, wrathful as he was, for he was in awe of doing aught displeasing to swift Night" (Iliad 14.255-260)
+[^il14-oath]: "she sware as he bade her, and called all the gods by name, even those below Tartaros that are called Titans" (Iliad 14.280-281)
+[^il14-earth]: "beneath them the divine earth sent forth fresh new grass, and dewy lotus, and crocus, and hyacinth, thick and soft, that raised them aloft from the ground. Therein they lay, and were clad on with a fair golden cloud, whence fell drops of glittering dew" (Iliad 14.348-351)
 
 ### Recruiting Poseidon / Stopped by Zeus (Book VIII)
 
@@ -181,9 +181,9 @@ Then Hera and [Athena](athena.md) arm for battle — Hera "stirred her upon her 
 
 When Zeus returns and taunts them, Hera pushes back but ultimately yields: "Well know we, even we, that thy might is no wise puny; yet still have we pity for the Danaan spearmen... Yet will we refrain from battle, if thou biddest us."[^il8-yield]
 
-[^il8-poseidon]: "Did we but will, we that are confederate with the Danaans, to drive the Trojans back and withhold far-seeing Zeus, then would he vex himself that he should sit there alone in Ida" ... "I am not he that would fain see us all at strife with Zeus Kronion, for he verily is mightier far" (Iliad VIII.4607-4617, trans. Lang, Leaf, and Myers)
-[^il8-stopped]: "queen Hera had indignation, and stirred her upon her throne and made high Olympus quake" (Iliad VIII.4605-4606)
-[^il8-yield]: "Well know we, even we, that thy might is no wise puny; yet still have we pity for the Danaan spearmen, that now shall perish and fill up the measure of grievous fate. Yet will we refrain from battle, if thou biddest us" (Iliad VIII.4851-4856)
+[^il8-poseidon]: "Did we but will, we that are confederate with the Danaans, to drive the Trojans back and withhold far-seeing Zeus, then would he vex himself that he should sit there alone in Ida" ... "I am not he that would fain see us all at strife with Zeus Kronion, for he verily is mightier far" (Iliad 8.210-221, trans. Lang, Leaf, and Myers)
+[^il8-stopped]: "queen Hera had indignation, and stirred her upon her throne and made high Olympus quake" (Iliad 8.208-209)
+[^il8-yield]: "Well know we, even we, that thy might is no wise puny; yet still have we pity for the Danaan spearmen, that now shall perish and fill up the measure of grievous fate. Yet will we refrain from battle, if thou biddest us" (Iliad 8.467-472)
 
 ## In the [Argonautica](../sources/argonautica.md)
 
@@ -391,6 +391,6 @@ Jupiter agrees, smiling: "Jove's own sister thou art, and second seed of Saturn,
 [^apd-clashing]: "with hard rowing and the help of Hera, they passed through, the extremity of the ship's ornamented poop being shorn away right round" (Bibliotheca 1.9.22, trans. Frazer)
 [^apd-wandering]: "Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)
 
-[^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason." (Odyssey XII.6597-6600, trans. Butcher and Lang)
+[^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason." (Odyssey 12.72-75, trans. Butcher and Lang)
 [^cyp-judgment-hera]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite"
 [^cyp-thetis-hera]: "Thetis, to please Hera, avoided union with Zeus, at which he was enraged and swore that she should be the wife of a mortal" (Cypria, Fragment 4)

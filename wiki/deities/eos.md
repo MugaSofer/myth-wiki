@@ -49,13 +49,13 @@ In the [Homeric Hymn to Aphrodite](../sources/homeric-hymns.md) (V), [Aphrodite]
 
 In [Odyssey](../sources/odyssey.md) Book V, Calypso cites Eos's love for Orion as a precedent for the gods' jealousy toward goddesses who take mortal lovers: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste [Artemis](artemis.md), of the golden throne, slew him in Ortygia with the visitation of her gentle shafts."[^od5-orion]
 
-[^od5-orion]: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste Artemis, of the golden throne, slew him in Ortygia with the visitation of her gentle shafts" (Odyssey V.3095-3098, trans. Butcher and Lang)
+[^od5-orion]: "Even so when rosy-fingered Dawn took Orion for her lover, ye gods that live at ease were jealous thereof, till chaste Artemis, of the golden throne, slew him in Ortygia with the visitation of her gentle shafts" (Odyssey 5.121-124, trans. Butcher and Lang)
 
 ## Eos and Cleitus (Odyssey XV)
 
 In [Odyssey](../sources/odyssey.md) Book XV, another instance of Dawn's pattern of snatching beautiful mortals: "the golden-throned Dawn snatched away Cleitus for his very beauty's sake, that he might dwell with the Immortals."[^od15-cleitus] Like Tithonus and Orion before him, Cleitus was taken by Eos for his beauty — reinforcing the recurring motif of Dawn's desire for mortal men.
 
-[^od15-cleitus]: "the golden-throned Dawn snatched away Cleitus for his very beauty's sake, that he might dwell with the Immortals" (Odyssey XV.8212-8213, trans. Butcher and Lang)
+[^od15-cleitus]: "the golden-throned Dawn snatched away Cleitus for his very beauty's sake, that he might dwell with the Immortals" (Odyssey 15.258-259, trans. Butcher and Lang)
 
 ## In the Bibliotheca (1.4.4)
 

@@ -13,8 +13,8 @@
 
 **Achilles** is the central figure of the [Iliad](../sources/iliad.md), the son of the mortal Peleus and the sea-goddess [Thetis](../deities/thetis.md). He is the greatest warrior at Troy, fated to choose between a long life without fame and glory with an early death. His divine mother laments him from the first: "Ah me, my child, why reared I thee, cursed in my motherhood? Would thou hadst been left tearless and griefless amid the ships, seeing thy lot is very brief and endureth no long while; but now art thou made short-lived alike and lamentable beyond all men."[^il1-lament] [Zeus](../deities/zeus.md) himself pities the mortal condition through Achilles' immortal horses: "there is nothing more piteous than a man among all things that breathe and creep upon the earth."[^il17-horses]
 
-[^il1-lament]: "Ah me, my child, why reared I thee, cursed in my motherhood? Would thou hadst been left tearless and griefless amid the ships, seeing thy lot is very brief and endureth no long while; but now art thou made short-lived alike and lamentable beyond all men; in an evil hour I bare thee in our halls" (Iliad I.584-589, trans. Lang, Leaf, and Myers)
-[^il17-horses]: "Ah, hapless pair, why gave we you to king Peleus, a mortal man, while ye are deathless and ever young? Was it that ye should suffer sorrows among ill-fated men? For methinketh there is nothing more piteous than a man among all things that breathe and creep upon the earth" (Iliad XVII.10276-10280, trans. Lang, Leaf, and Myers)
+[^il1-lament]: "Ah me, my child, why reared I thee, cursed in my motherhood? Would thou hadst been left tearless and griefless amid the ships, seeing thy lot is very brief and endureth no long while; but now art thou made short-lived alike and lamentable beyond all men; in an evil hour I bare thee in our halls" (Iliad 1.410-415, trans. Lang, Leaf, and Myers)
+[^il17-horses]: "Ah, hapless pair, why gave we you to king Peleus, a mortal man, while ye are deathless and ever young? Was it that ye should suffer sorrows among ill-fated men? For methinketh there is nothing more piteous than a man among all things that breathe and creep upon the earth" (Iliad 17.463-470, trans. Lang, Leaf, and Myers)
 
 ## Epithets
 
@@ -25,11 +25,11 @@
 - **"godlike Achilles"** — used in narrative[^ep-godlike]
 - **"Aiakides"** — descendant of Aiakos, his grandfather[^ep-aiakides]
 
-[^ep-swift]: "swift-footed Achilles" / "fleet-footed goodly Achilles" (Iliad I.306; I.1417, trans. Lang, Leaf, and Myers)
-[^ep-peleus]: "Achilles Peleus' son" (Iliad I.193, trans. Lang, Leaf, and Myers)
-[^ep-breaker]: "Achilles, the breaker of the ranks of men" (Iliad XVI.9544, trans. Lang, Leaf, and Myers)
-[^ep-sacker]: "to honour Achilles, the sacker of cities" (Iliad XV.8785, trans. Lang, Leaf, and Myers)
-[^ep-godlike]: "noble swift-footed Achilles" (Iliad XVI.9437, trans. Lang, Leaf, and Myers)
+[^ep-swift]: "swift-footed Achilles" / "fleet-footed goodly Achilles" (Iliad 1.124; I.1417, trans. Lang, Leaf, and Myers)
+[^ep-peleus]: "Achilles Peleus' son" (Iliad 1.8, trans. Lang, Leaf, and Myers)
+[^ep-breaker]: "Achilles, the breaker of the ranks of men" (Iliad 16.173, trans. Lang, Leaf, and Myers)
+[^ep-sacker]: "to honour Achilles, the sacker of cities" (Iliad 15.80, trans. Lang, Leaf, and Myers)
+[^ep-godlike]: "noble swift-footed Achilles" (Iliad 16.15, trans. Lang, Leaf, and Myers)
 [^ep-aiakides]: "fleet-footed Aiakides" (Iliad XXI, trans. Lang, Leaf, and Myers)
 
 ## Appearance
@@ -40,9 +40,9 @@ His most vivid visual moment is supernatural rather than natural. In Book XVIII,
 
 In the pursuit of [Hector](hector.md) in Book XXII, the poem describes the effect of his appearance rather than the features themselves: "nigh on him came Achilles, peer of Enyalios warrior of the waving helm, brandishing from his right shoulder the Pelian ash, his terrible spear; and all around the bronze on him flashed like the gleam of blazing fire or of the Sun as he ariseth. And trembling seized Hector as he was aware of him."[^app-pursuit]
 
-[^app-golden-hair]: "She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her." (Iliad I.374-375, trans. Lang, Leaf, and Myers)
-[^app-fire]: "around his head the bright goddess set a crown of a golden cloud, and kindled therefrom a blazing flame... thus from the head of Achilles soared that blaze toward the heavens... the unwearying fire blaze fierce on the head of the great-hearted son of Peleus, for the bright-eyed goddess Athene made it blaze." (Iliad XVIII.10628-10647, trans. Lang, Leaf, and Myers)
-[^app-pursuit]: "nigh on him came Achilles, peer of Enyalios warrior of the waving helm, brandishing from his right shoulder the Pelian ash, his terrible spear; and all around the bronze on him flashed like the gleam of blazing fire or of the Sun as he ariseth. And trembling seized Hector as he was aware of him." (Iliad XXII.12412-12416, trans. Lang, Leaf, and Myers)
+[^app-golden-hair]: "She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her." (Iliad 1.194-195, trans. Lang, Leaf, and Myers)
+[^app-fire]: "around his head the bright goddess set a crown of a golden cloud, and kindled therefrom a blazing flame... thus from the head of Achilles soared that blaze toward the heavens... the unwearying fire blaze fierce on the head of the great-hearted son of Peleus, for the bright-eyed goddess Athene made it blaze." (Iliad 18.242-267, trans. Lang, Leaf, and Myers)
+[^app-pursuit]: "nigh on him came Achilles, peer of Enyalios warrior of the waving helm, brandishing from his right shoulder the Pelian ash, his terrible spear; and all around the bronze on him flashed like the gleam of blazing fire or of the Sun as he ariseth. And trembling seized Hector as he was aware of him." (Iliad 22.130-135, trans. Lang, Leaf, and Myers)
 
 ## In the Iliad
 
@@ -50,7 +50,7 @@ In the pursuit of [Hector](hector.md) in Book XXII, the poem describes the effec
 
 When the Greek embassy arrives at Achilles' camp, they find him "taking his pleasure of a loud lyre, fair, of curious work, with a silver cross-bar upon it; one that he had taken from the spoils when he laid Eëtion's city waste. Therein he was delighting his soul, and singing the glories of heroes. And over against him sate Patroklos alone in silence, watching till Aiakides should cease from singing."[^il9-lyre]
 
-[^il9-lyre]: "found their king taking his pleasure of a loud lyre, fair, of curious work, with a silver cross-bar upon it; one that he had taken from the spoils when he laid Eëtion's city waste. Therein he was delighting his soul, and singing the glories of heroes. And over against him sate Patroklos alone in silence, watching till Aiakides should cease from singing" (Iliad IX.5115-5120, trans. Lang, Leaf, and Myers)
+[^il9-lyre]: "found their king taking his pleasure of a loud lyre, fair, of curious work, with a silver cross-bar upon it; one that he had taken from the spoils when he laid Eëtion's city waste. Therein he was delighting his soul, and singing the glories of heroes. And over against him sate Patroklos alone in silence, watching till Aiakides should cease from singing" (Iliad 9.194-200, trans. Lang, Leaf, and Myers)
 
 ### Thetis, the Divine Mother
 
@@ -62,10 +62,10 @@ Thetis's claim on [Zeus](../deities/zeus.md) rests on a specific debt: she alone
 
 Her marriage to Peleus was forced. She describes it to [Hephaestus](../deities/hephaestus.md): "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will."[^il18-marriage] In the [Epic Cycle](../sources/epic-cycle.md), the reason is given: "Thetis, to please [Hera](../deities/hera.md), avoided union with [Zeus](../deities/zeus.md), at which he was enraged and swore that she should be the wife of a mortal."[^cyp-thetis]
 
-[^il1-mist]: "With speed arose she from the grey sea, like a mist, and sate her before the face of her weeping son, and stroked him with her hand" (Iliad I.532-534, trans. Lang, Leaf, and Myers)
-[^il1-supplicate]: "Father Zeus, if ever I gave thee aid amid the immortal gods, whether by word or deed, fulfil thou this my desire: do honour to my son, that is doomed to earliest death of all men" (Iliad I.669-674, trans. Lang, Leaf, and Myers)
-[^il1-binding]: "thou alone amid the immortals didst save the son of Kronos, lord of the storm-cloud, from shameful wreck, when all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene" (Iliad I.566-568, trans. Lang, Leaf, and Myers)
-[^il18-marriage]: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will" (Iliad XVIII.10737-10739, trans. Lang, Leaf, and Myers)
+[^il1-mist]: "With speed arose she from the grey sea, like a mist, and sate her before the face of her weeping son, and stroked him with her hand" (Iliad 1.356-358, trans. Lang, Leaf, and Myers)
+[^il1-supplicate]: "Father Zeus, if ever I gave thee aid amid the immortal gods, whether by word or deed, fulfil thou this my desire: do honour to my son, that is doomed to earliest death of all men" (Iliad 1.497-502, trans. Lang, Leaf, and Myers)
+[^il1-binding]: "thou alone amid the immortals didst save the son of Kronos, lord of the storm-cloud, from shameful wreck, when all the other Olympians would have bound him, even Hera and Poseidon and Pallas Athene" (Iliad 1.391-393, trans. Lang, Leaf, and Myers)
+[^il18-marriage]: "He chose me from among the sisters of the sea to enthrall me to a man, even Peleus Aiakos' son, and with a man I endured wedlock sore against my will" (Iliad 18.387-389, trans. Lang, Leaf, and Myers)
 [^cyp-thetis]: "Thetis, to please Hera, avoided union with Zeus, at which he was enraged and swore that she should be the wife of a mortal" (Cypria, Fragment 4, trans. H.G. Evelyn-White)
 
 ### Athena Restrains Him (Book I)
@@ -74,8 +74,8 @@ When Achilles is about to draw his sword against Agamemnon, [Athena](../deities/
 
 She promised him threefold recompense for restraining himself: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us."[^il1-promise]
 
-[^il1-athena]: "Athene came to him from heaven, sent forth of the white-armed goddess Hera, whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her. Then Achilles marvelled, and turned him about, and straightway knew Pallas Athene; and terribly shone her eyes" (Iliad I.195-200, trans. Lang, Leaf, and Myers)
-[^il1-promise]: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us" (Iliad I.213-214, trans. Lang, Leaf, and Myers)
+[^il1-athena]: "Athene came to him from heaven, sent forth of the white-armed goddess Hera, whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her. Then Achilles marvelled, and turned him about, and straightway knew Pallas Athene; and terribly shone her eyes" (Iliad 1.10-15, trans. Lang, Leaf, and Myers)
+[^il1-promise]: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us" (Iliad 1.29-30, trans. Lang, Leaf, and Myers)
 
 ### The Two Fates (Book IX)
 
@@ -83,13 +83,13 @@ In Book IX, Achilles reveals to the Greek embassy the prophecy his mother has to
 
 This is the defining choice of the poem. Achilles initially inclines toward the second fate — long life — but the death of Patroklos will bind him irrevocably to the first.
 
-[^il9-fates]: "my goddess mother telleth me, Thetis the silver-footed, that twain fates are bearing me to the issue of death. If I abide here and besiege the Trojans' city, then my returning home is taken from me, but my fame shall be imperishable; but if I go home to my dear native land, my high fame is taken from me, but my life shall endure long while, neither shall the issue of death soon reach me" (Iliad IX.5301-5307, trans. Lang, Leaf, and Myers)
+[^il9-fates]: "my goddess mother telleth me, Thetis the silver-footed, that twain fates are bearing me to the issue of death. If I abide here and besiege the Trojans' city, then my returning home is taken from me, but my fame shall be imperishable; but if I go home to my dear native land, my high fame is taken from me, but my life shall endure long while, neither shall the issue of death soon reach me" (Iliad 9.405-411, trans. Lang, Leaf, and Myers)
 
 ### Athena's Fire and the Triple Shout (Book XVIII)
 
 After the death of Patroklos, [Athena](../deities/athena.md) empowers Achilles for a moment of supernatural display. She casts her tasselled [aegis](../objects/aegis.md) about his shoulders, sets "a crown of golden cloud" on his head and kindles blazing fire from it, and adds her divine voice to his shout: "Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy." Thrice he shouted from the trench, and thrice the Trojans were thrown into confusion.[^il18-fire]
 
-[^il18-fire]: "the bright-eyed goddess Athene cast about his mighty shoulders the tasselled aegis, and around his head the divine goddess set a crown of golden cloud, and kindled therefrom a blazing fire... Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" (Iliad XVIII.10553-10562, trans. Lang, Leaf, and Myers)
+[^il18-fire]: "the bright-eyed goddess Athene cast about his mighty shoulders the tasselled aegis, and around his head the divine goddess set a crown of golden cloud, and kindled therefrom a blazing fire... Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" (Iliad 18.143-155, trans. Lang, Leaf, and Myers)
 
 ### Thetis and the Nereids Lament (Book XVIII)
 
@@ -97,8 +97,8 @@ When Achilles cries out in grief for Patroklos, [Thetis](../deities/thetis.md) h
 
 She confirms his fate with terrible clarity: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee."[^il18-fate]
 
-[^il18-nereids]: "Ay me unhappy, ay me that bare to my sorrow the first of men! For after I had borne a son noble and strong, the chief of heroes, and he shot up like a young branch, then when I had reared him as a plant in a very fruitful field I sent him in beaked ships to Ilios to fight against the men of Troy; but never again shall I welcome him back to his home, to the house of Peleus" (Iliad XVIII.10487-10494, trans. Lang, Leaf, and Myers)
-[^il18-fate]: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee" (Iliad XVIII.10527-10529, trans. Lang, Leaf, and Myers)
+[^il18-nereids]: "Ay me unhappy, ay me that bare to my sorrow the first of men! For after I had borne a son noble and strong, the chief of heroes, and he shot up like a young branch, then when I had reared him as a plant in a very fruitful field I sent him in beaked ships to Ilios to fight against the men of Troy; but never again shall I welcome him back to his home, to the house of Peleus" (Iliad 18.56-65, trans. Lang, Leaf, and Myers)
+[^il18-fate]: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee" (Iliad 18.109-111, trans. Lang, Leaf, and Myers)
 
 ### Divine Armour from Hephaestus (Book XVIII)
 
@@ -106,7 +106,7 @@ She confirms his fate with terrible clarity: "Short-lived, I ween, must thou be 
 
 Achilles' original armour, given by the gods at Peleus's wedding, had been lost when Patroklos wore it into battle and Hector stripped it from his body. His Pelian spear -- "from the peak of Pelion... which Cheiron gave to his dear father" -- alone could not be wielded by another man.[^il16-spear]
 
-[^il18-shield]: "There wrought he the earth, and the heavens, and the sea, and the unwearying sun, and the moon waxing to the full, and the signs every one wherewith the heavens are crowned, Pleiads and Hyads and Orion's might, and the Bear that men call also the Wain, her that turneth in her place and watcheth Orion, and alone hath no part in the baths of Ocean" (Iliad XVIII.10783-10788, trans. Lang, Leaf, and Myers)
+[^il18-shield]: "There wrought he the earth, and the heavens, and the sea, and the unwearying sun, and the moon waxing to the full, and the signs every one wherewith the heavens are crowned, Pleiads and Hyads and Orion's might, and the Bear that men call also the Wain, her that turneth in her place and watcheth Orion, and alone hath no part in the baths of Ocean" (Iliad 18.448-454, trans. Lang, Leaf, and Myers)
 [^il16-spear]: (Iliad XVI, XIX; Cypria Fragment 5: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head," trans. H.G. Evelyn-White)
 
 ### The Immortal Horses and Xanthos's Prophecy (Book XIX)
@@ -117,10 +117,10 @@ Then the [Erinyes](../creatures/erinyes.md) enforce the natural order: "Now when
 
 Achilles answers without flinching: "Xanthos, why prophesiest thou my death? no wise behoveth it thee. Well know I of myself that it is appointed me to perish here, far from my father dear and mother; howbeit anywise I will not refrain till I give the Trojans surfeit of war."[^il19-reply]
 
-[^il16-horses]: "the horses that the harpy Podarge bare to the West Wind, as she grazed on the meadow by the stream of Okeanos" (Iliad XVI.9547, trans. Lang, Leaf, and Myers)
-[^il19-xanthos]: "We even with the wind of Zephyr, swiftest, they say, of all winds, well might run; nathless to thee thyself it is appointed to be slain in fight by a god and by a man" (Iliad XIX.11276-11278, trans. Lang, Leaf, and Myers)
-[^il19-erinyes]: "Now when he had thus spoken the Erinyes stayed his voice" (Iliad XIX.11280, trans. Lang, Leaf, and Myers)
-[^il19-reply]: "Xanthos, why prophesiest thou my death? no wise behoveth it thee. Well know I of myself that it is appointed me to perish here, far from my father dear and mother; howbeit anywise I will not refrain till I give the Trojans surfeit of war" (Iliad XIX.11281-11285, trans. Lang, Leaf, and Myers)
+[^il16-horses]: "the horses that the harpy Podarge bare to the West Wind, as she grazed on the meadow by the stream of Okeanos" (Iliad 16.177, trans. Lang, Leaf, and Myers)
+[^il19-xanthos]: "We even with the wind of Zephyr, swiftest, they say, of all winds, well might run; nathless to thee thyself it is appointed to be slain in fight by a god and by a man" (Iliad 19.405-407, trans. Lang, Leaf, and Myers)
+[^il19-erinyes]: "Now when he had thus spoken the Erinyes stayed his voice" (Iliad 19.410, trans. Lang, Leaf, and Myers)
+[^il19-reply]: "Xanthos, why prophesiest thou my death? no wise behoveth it thee. Well know I of myself that it is appointed me to perish here, far from my father dear and mother; howbeit anywise I will not refrain till I give the Trojans surfeit of war" (Iliad 19.411-415, trans. Lang, Leaf, and Myers)
 
 ### The River Xanthos Fights Achilles (Book XXI)
 
@@ -134,7 +134,7 @@ When Achilles pursues Hector around the walls of Troy, [Zeus](../deities/zeus.md
 
 [Athena](../deities/athena.md) tricks Hector into standing his ground by appearing as his brother Deiphobus, then invisibly retrieves Achilles' thrown spear. As Hector dies, he prophesies Achilles' own death: "Paris and Phoebus Apollo slay thee... at the Skaian gate."[^il22-prophecy]
 
-[^il22-scales]: "then the Father hung his golden balances, and set therein two lots of dreary death, one of Achilles, one of horse-taming Hector, and held them by the midst and poised. Then Hector's fated day sank down, and fell to the house of Hades, and Phoebus Apollo left him" (Iliad XXII.12479-12482, trans. Lang, Leaf, and Myers)
+[^il22-scales]: "then the Father hung his golden balances, and set therein two lots of dreary death, one of Achilles, one of horse-taming Hector, and held them by the midst and poised. Then Hector's fated day sank down, and fell to the house of Hades, and Phoebus Apollo left him" (Iliad 22.205-208, trans. Lang, Leaf, and Myers)
 [^il22-prophecy]: "Paris and Phoebus Apollo slay thee... at the Skaian gate" (Iliad XXII, trans. Lang, Leaf, and Myers)
 
 ### Patroklos's Ghost and Afterlife Theology (Book XXIII)
@@ -147,7 +147,7 @@ At the funeral of Patroklos, his ghost appears to Achilles and speaks of the aft
 
 In the ransom scene, Achilles delivers the poem's great statement on the mortal condition: "For two urns stand upon the floor of [Zeus](../deities/zeus.md) filled with his evil gifts, and one with blessings. To whomsoever Zeus whose joy is in the lightning dealeth a mingled lot, that man chanceth now upon ill and now again on good, but to whom he giveth but of the bad kind him he bringeth to scorn." He concludes: "this is the lot the gods have spun for miserable men, that they should live in pain; yet themselves are sorrowless."[^il24-urns]
 
-[^il24-urns]: "For two urns stand upon the floor of Zeus filled with his evil gifts, and one with blessings. To whomsoever Zeus whose joy is in the lightning dealeth a mingled lot, that man chanceth now upon ill and now again on good, but to whom he giveth but of the bad kind him he bringeth to scorn... this is the lot the gods have spun for miserable men, that they should live in pain; yet themselves are sorrowless" (Iliad XXIV.13988-13997, trans. Lang, Leaf, and Myers)
+[^il24-urns]: "For two urns stand upon the floor of Zeus filled with his evil gifts, and one with blessings. To whomsoever Zeus whose joy is in the lightning dealeth a mingled lot, that man chanceth now upon ill and now again on good, but to whom he giveth but of the bad kind him he bringeth to scorn... this is the lot the gods have spun for miserable men, that they should live in pain; yet themselves are sorrowless" (Iliad 24.447-455, trans. Lang, Leaf, and Myers)
 
 ## In the Odyssey
 
@@ -157,7 +157,7 @@ Odysseus encounters Achilles' shade in the land of the dead and tries to comfort
 
 This speech inverts the choice of the [Iliad](../sources/iliad.md) -- the hero who chose glory and death now repudiates that choice from beyond the grave.
 
-[^od11-achilles]: "Nay, speak not comfortably to me of death, oh great Odysseus. Rather would I live on ground as the hireling of another, with a landless man who had no great livelihood, than bear sway among all the dead that be departed" (Odyssey XI.6363-6367, trans. Butcher and Lang)
+[^od11-achilles]: "Nay, speak not comfortably to me of death, oh great Odysseus. Rather would I live on ground as the hireling of another, with a landless man who had no great livelihood, than bear sway among all the dead that be departed" (Odyssey 11.476-480, trans. Butcher and Lang)
 
 ### Achilles' Funeral (Book XXIV)
 
@@ -165,9 +165,9 @@ Agamemnon's shade describes Achilles' funeral in the second Nekuia. [Thetis](../
 
 After the cremation, [Thetis](../deities/thetis.md) "gave a twy-handled golden urn, and said that it was the gift of [Dionysus](../deities/dionysus.md), and the workmanship of renowned [Hephaestus](../deities/hephaestus.md)." She then "asked the gods for glorious prizes in the games... for very dear wert thou to the gods."[^od24-urn]
 
-[^od24-arrival]: "forth from the sea came thy mother with the deathless maidens of the waters, when they heard the tidings; and a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans" (Odyssey XXIV.12600-12603, trans. Butcher and Lang)
-[^od24-muses]: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant" (Odyssey XXIV.12615-12617, trans. Butcher and Lang)
-[^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus... such glorious prizes did the goddess set there to honour thee, even Thetis, the silver-footed; for very dear wert thou to the gods" (Odyssey XXIV.12627-12643, trans. Butcher and Lang)
+[^od24-arrival]: "forth from the sea came thy mother with the deathless maidens of the waters, when they heard the tidings; and a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans" (Odyssey 24.54-57, trans. Butcher and Lang)
+[^od24-muses]: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant" (Odyssey 24.69-71, trans. Butcher and Lang)
+[^od24-urn]: "Thy mother gave a twy-handled golden urn, and said that it was the gift of Dionysus, and the workmanship of renowned Hephaestus... such glorious prizes did the goddess set there to honour thee, even Thetis, the silver-footed; for very dear wert thou to the gods" (Odyssey 24.81-97, trans. Butcher and Lang)
 
 ## In the Epic Cycle
 

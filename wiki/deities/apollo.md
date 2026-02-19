@@ -29,7 +29,7 @@ Apollo is described with more epithets than almost any other deity:
 
 [^desc-blade]: "Leto did not give Apollo, bearer of the golden blade, her breast; but Themis duly poured nectar and ambrosia" (Homeric Hymn III to Apollo 123-124, trans. H.G. Evelyn-White)
 [^desc-goldsword]: "own sister to Apollo with the golden sword" (Homeric Hymn XXVII to Artemis 3)
-[^il20-unshorn]: "to the Trojans went Ares of the glancing helm, and with him Phoebus of the unshorn hair, and archer Artemis" (Iliad XX.11336-11338, trans. Lang, Leaf, and Myers)
+[^il20-unshorn]: "to the Trojans went Ares of the glancing helm, and with him Phoebus of the unshorn hair, and archer Artemis" (Iliad 20.48-50, trans. Lang, Leaf, and Myers)
 [^desc-longhaired]: "So said Phoebus, the long-haired god who shoots afar and began to walk upon the wide-pathed earth; and all goddesses were amazed at him" (Homeric Hymn III to Apollo 134-135)
 
 ## Appearance
@@ -123,8 +123,8 @@ In [Iliad](../sources/iliad.md) Book I, Apollo sends a plague upon the Greek arm
 
 The plague continued for nine days until the Greeks returned Chryses's daughter and made sacrifice; then "Apollo the Far-darter sent them a favouring gale."[^il1-favour]
 
-[^il1-plague]: "Phoebus Apollo heard him, and came down from the peaks of Olympus wroth at heart, bearing on his shoulders his bow and covered quiver. And the arrows clanged upon his shoulders in wrath, as the god moved; and he descended like to night. Then he sate him aloof from the ships, and let an arrow fly; and there was heard a dread clanging of the silver bow" (Iliad I.43-49, trans. Lang, Leaf, and Myers)
-[^il1-favour]: "Apollo the Far-darter sent them a favouring gale" (Iliad I.479)
+[^il1-plague]: "Phoebus Apollo heard him, and came down from the peaks of Olympus wroth at heart, bearing on his shoulders his bow and covered quiver. And the arrows clanged upon his shoulders in wrath, as the god moved; and he descended like to night. Then he sate him aloof from the ships, and let an arrow fly; and there was heard a dread clanging of the silver bow" (Iliad 1.43-49, trans. Lang, Leaf, and Myers)
+[^il1-favour]: "Apollo the Far-darter sent them a favouring gale" (Iliad 1.302)
 [^apd-raven]: "Apollo cursed the raven that brought the tidings and made him black instead of white, as he had been before; but he killed Coronis" (Bibliotheca 3.10.3, trans. J.G. Frazer)
 [^apd-admetus-twins]: "he went to Admetus, son of Pheres, at Pherae, and served him as a herdsman, and caused all the cows to drop twins" (Bibliotheca 3.10.4, trans. J.G. Frazer)
 
@@ -140,17 +140,17 @@ During the duel between Aias and Hector, when Aias knocks Hector down with a gre
 
 In [Iliad](../sources/iliad.md) Book XI, Diomedes hurls his spear at Hector's head, hitting the crest, but "bronze by bronze was turned, nor reached his fair flesh, for it was stopped by the threefold helm with its socket, that Phoebus Apollo to Hector gave."[^il11-helm] Diomedes himself recognises the divine protection: "now hath Phoebus Apollo saved thee, to whom thou must surely pray when thou goest amid the clash of spears."[^il11-saved]
 
-[^il11-helm]: "bronze by bronze was turned, nor reached his fair flesh, for it was stopped by the threefold helm with its socket, that Phoebus Apollo to Hector gave" (Iliad XI.6492-6494, trans. Lang, Leaf, and Myers)
-[^il11-saved]: "now hath Phoebus Apollo saved thee, to whom thou must surely pray when thou goest amid the clash of spears" (Iliad XI.6503-6504)
+[^il11-helm]: "bronze by bronze was turned, nor reached his fair flesh, for it was stopped by the threefold helm with its socket, that Phoebus Apollo to Hector gave" (Iliad 11.354-356, trans. Lang, Leaf, and Myers)
+[^il11-saved]: "now hath Phoebus Apollo saved thee, to whom thou must surely pray when thou goest amid the clash of spears" (Iliad 11.366-367)
 
 ### Built Troy's Wall for Laomedon (Book VII)
 
 [Poseidon](poseidon.md) complains to [Zeus](zeus.md) about the Achaian wall: "men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon."[^il7-wall] This is a passing but significant reference to Apollo and Poseidon's forced service to the mortal king Laomedon — building Troy's walls.
 
-[^il7-meeting]: "Apollo rose to meet her, for he beheld her from Pergamos, and would have victory for the Trojans. So the twain met each the other by the oak-tree. To her spake first king Apollo son of Zeus: 'Why now art thou come thus eagerly from Olympus, thou daughter of great Zeus?'" (Iliad VII.3983-3987, trans. Lang, Leaf, and Myers)
-[^il7-vultures]: "Athene withal and Apollo of the silver bow, in the likeness of vulture birds, sate them upon a tall oak holy to aegis-bearing father Zeus, rejoicing in their warriors" (Iliad VII.4019-4021)
-[^il7-raises]: "Apollo straightway raised him up" (Iliad VII.4209)
-[^il7-wall]: "men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon" (Iliad VII.4375-4376)
+[^il7-meeting]: "Apollo rose to meet her, for he beheld her from Pergamos, and would have victory for the Trojans. So the twain met each the other by the oak-tree. To her spake first king Apollo son of Zeus: 'Why now art thou come thus eagerly from Olympus, thou daughter of great Zeus?'" (Iliad 7.26-30, trans. Lang, Leaf, and Myers)
+[^il7-vultures]: "Athene withal and Apollo of the silver bow, in the likeness of vulture birds, sate them upon a tall oak holy to aegis-bearing father Zeus, rejoicing in their warriors" (Iliad 7.65-67)
+[^il7-raises]: "Apollo straightway raised him up" (Iliad 7.269)
+[^il7-wall]: "men will forget the wall that I and Phoebus Apollo built with travail for the hero Laomedon" (Iliad 7.448-449)
 
 ### Healing Glaukos (Book XVI)
 
@@ -166,12 +166,12 @@ In the final encounter, Apollo attacks Patroklos from behind, hidden in mist: "P
 
 Apollo also bears Sarpedon's body home at [Zeus](zeus.md)'s command, anointing him with ambrosia and sending him "to be wafted by fleet convoy, the twin brethren Sleep and Death."[^il16-sarpedon-body]
 
-[^il16-glaukos]: "Phoebus Apollo heard him. Straightway he made his pains to cease, and in the grievous wound stanched the black blood, and put courage into his heart. And Glaukos knew it within him, and was glad, for that the great god speedily heard his prayer" (Iliad XVI.9768-9771, trans. Lang, Leaf, and Myers)
-[^il16-wall]: "Thrice clomb Patroklos on the corner of the lofty wall, and thrice did Apollo force him back and smote the shining shield with his immortal hands. But when for the fourth time he came on like a god, then cried far-darting Apollo terribly, and spake winged words: 'Give back, Patroklos of the seed of Zeus! Not beneath thy spear is it fated that the city of the valiant Trojans shall fall, nay nor beneath Achilles, a man far better than thou'" (Iliad XVI.9858-9865)
-[^il16-asios]: "Phoebus Apollo stood by him in the guise of a young man and a strong, Asios, who was the mother's brother of horse-taming Hector, being own brother of Hekabe, and son of Dymas, who dwelt in Phrygia... In his guise spake Apollo, son of Zeus, to Hector: 'Hector, wherefore dost thou cease from fight?... turn against Patroklos thy strong-hooved horses, if perchance thou mayst slay him, and Apollo give thee glory'" (Iliad XVI.9871-9879)
-[^il16-kills]: "Phoebus met thee in the strong battle, in dreadful wise. And Patroklos was not ware of him coming through the press, for hidden in thick mist did he meet him, and stood behind him, and smote his back and broad shoulders with a down-stroke of his hand, and his eyes were dazed. And from his head Phoebus Apollo smote the helmet... And all the long-shadowed spear was shattered in the hands of Patroklos... while from his shoulders the tasselled shield with the baldric fell to the ground. And the prince Apollo, son of Zeus, loosed his corslet, and blindness seized his heart and his shining limbs were unstrung" (Iliad XVI.9935-9947)
-[^il16-dying]: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying" (Iliad XVI.9988)
-[^il16-sarpedon-body]: "He went down the hills of Ida to the dread battle din, and straightway bore goodly Sarpedon out of the darts, and carried him far away and bathed him in the streams of the river, and anointed him with ambrosia, and clad him in garments that wax not old, and sent him to be wafted by fleet convoy, the twin brethren Sleep and Death, that swiftly set him down in the rich land of wide Lykia" (Iliad XVI.9839-9845)
+[^il16-glaukos]: "Phoebus Apollo heard him. Straightway he made his pains to cease, and in the grievous wound stanched the black blood, and put courage into his heart. And Glaukos knew it within him, and was glad, for that the great god speedily heard his prayer" (Iliad 16.504-508, trans. Lang, Leaf, and Myers)
+[^il16-wall]: "Thrice clomb Patroklos on the corner of the lofty wall, and thrice did Apollo force him back and smote the shining shield with his immortal hands. But when for the fourth time he came on like a god, then cried far-darting Apollo terribly, and spake winged words: 'Give back, Patroklos of the seed of Zeus! Not beneath thy spear is it fated that the city of the valiant Trojans shall fall, nay nor beneath Achilles, a man far better than thou'" (Iliad 16.637-647)
+[^il16-asios]: "Phoebus Apollo stood by him in the guise of a young man and a strong, Asios, who was the mother's brother of horse-taming Hector, being own brother of Hekabe, and son of Dymas, who dwelt in Phrygia... In his guise spake Apollo, son of Zeus, to Hector: 'Hector, wherefore dost thou cease from fight?... turn against Patroklos thy strong-hooved horses, if perchance thou mayst slay him, and Apollo give thee glory'" (Iliad 16.656-668)
+[^il16-kills]: "Phoebus met thee in the strong battle, in dreadful wise. And Patroklos was not ware of him coming through the press, for hidden in thick mist did he meet him, and stood behind him, and smote his back and broad shoulders with a down-stroke of his hand, and his eyes were dazed. And from his head Phoebus Apollo smote the helmet... And all the long-shadowed spear was shattered in the hands of Patroklos... while from his shoulders the tasselled shield with the baldric fell to the ground. And the prince Apollo, son of Zeus, loosed his corslet, and blindness seized his heart and his shining limbs were unstrung" (Iliad 16.750-768)
+[^il16-dying]: "me have ruinous Fate and the son of Leto slain, and of men Euphorbos, but thou art the third in my slaying" (Iliad 16.829)
+[^il16-sarpedon-body]: "He went down the hills of Ida to the dread battle din, and straightway bore goodly Sarpedon out of the darts, and carried him far away and bathed him in the streams of the river, and anointed him with ambrosia, and clad him in garments that wax not old, and sent him to be wafted by fleet convoy, the twin brethren Sleep and Death, that swiftly set him down in the rich land of wide Lykia" (Iliad 16.609-617)
 
 ## In the Bibliotheca
 
@@ -441,8 +441,8 @@ The Chorus later celebrates Apollo's time as a shepherd: "the Pythian Apollo, ma
 - **[Orestes](../sources/euripides-orestes.md)**: Commanded Orestes to kill Clytemnestra; gave him a bow to repel the Eumenides; appears as deus ex machina to resolve the crisis; admits "I, who compelled him to slay his mother"; saves Helen by Zeus's command; commands Orestes' exile in Arcadia and trial at the Areopagus; prophesies Neoptolemus's death at Delphi
 - **[Iphigenia in Tauris](../sources/euripides-iphigenia-tauris.md)**: Commanded [Orestes](../heroes/orestes.md) to steal [Artemis](artemis.md)'s image from Tauris to end the Furies' persecution; bore witness at the Areopagus trial; Chorus tells how infant Apollo slew the Python, displaced [Themis](themis.md) from Delphi, and [Zeus](zeus.md) restored his oracular authority against Earth's dream-oracles
 
-[^od11-aloadae]: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" (Odyssey XI.6201-6203, trans. Butcher and Lang)
-[^od15-amphiaraus]: "Zeus and Apollo loved him with all manner of love; yet he reached not the threshold of old age, but died in Thebes by reason of a woman's gifts" (Odyssey XV.8207-8210, trans. Butcher and Lang)
-[^od15-polypheides]: "Apollo made the high-souled Polypheides a seer, far the chief of human kind, Amphiaraus being now dead" (Odyssey XV.8215-8216, trans. Butcher and Lang)
-[^od15-syria]: "then comes Apollo of the silver bow, with Artemis, and slays them with the visitation of his gentle shafts" (Odyssey XV.8366-8367, trans. Butcher and Lang)
-[^od15-hawk]: "the swift messenger of Apollo" (Odyssey XV.8478-8479, trans. Butcher and Lang)
+[^od11-aloadae]: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" (Odyssey 11.312-314, trans. Butcher and Lang)
+[^od15-amphiaraus]: "Zeus and Apollo loved him with all manner of love; yet he reached not the threshold of old age, but died in Thebes by reason of a woman's gifts" (Odyssey 15.253-256, trans. Butcher and Lang)
+[^od15-polypheides]: "Apollo made the high-souled Polypheides a seer, far the chief of human kind, Amphiaraus being now dead" (Odyssey 15.261-262, trans. Butcher and Lang)
+[^od15-syria]: "then comes Apollo of the silver bow, with Artemis, and slays them with the visitation of his gentle shafts" (Odyssey 15.409-410, trans. Butcher and Lang)
+[^od15-hawk]: "the swift messenger of Apollo" (Odyssey 15.520-521, trans. Butcher and Lang)

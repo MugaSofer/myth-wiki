@@ -40,7 +40,7 @@ The Hesiodic Catalogue of Women also identifies him as "Cheiron the son of Phily
 
 In the Iliad, Chiron is called "the most righteous of the Centaurs" — Eurypylos asks Patroklos for healing herbs "whereof they say that thou hast learned from Achilles, whom Cheiron taught, the most righteous of the Centaurs."[^il11-righteous]
 
-[^il11-righteous]: "these good herbs whereof they say that thou hast learned from Achilles, whom Cheiron taught, the most righteous of the Centaurs" (Iliad XI.6941-6943, trans. Lang, Leaf, and Myers)
+[^il11-righteous]: "these good herbs whereof they say that thou hast learned from Achilles, whom Cheiron taught, the most righteous of the Centaurs" (Iliad 11.823-825, trans. Lang, Leaf, and Myers)
 
 ## As Teacher
 
@@ -52,7 +52,7 @@ Apollodorus gives the fullest account. After [Thetis](../deities/thetis.md) aban
 
 The Hesiodic Catalogue confirms: "Chiron was tending the son of Peleus, swift-footed Achilles, pre-eminent among men, on woody Pelion; for he was still a boy."[^cat-achilles]
 
-[^il4-medicine]: "cunningly spread thereon soothing drugs, such as Cheiron of his good will had imparted to his sire" (Iliad IV.2272-2274, trans. Lang, Leaf, and Myers)
+[^il4-medicine]: "cunningly spread thereon soothing drugs, such as Cheiron of his good will had imparted to his sire" (Iliad 4.223-225, trans. Lang, Leaf, and Myers)
 [^apd-achilles-rearing]: "Peleus brought the child to Chiron, who received him and fed him on the inwards of lions and wild swine and the marrows of bears, and named him Achilles, because he had not put his lips to the breast; but before that time his name was Ligyron" (Bibliotheca 3.13.6, trans. Frazer)
 [^cat-achilles]: "But Chiron was tending the son of Peleus, swift-footed Achilles, pre-eminent among men, on woody Pelion; for he was still a boy" (Catalogue of Women, ll. 100-106, trans. H.G. Evelyn-White)
 
@@ -95,7 +95,7 @@ In the Iliad, the spear becomes [Achilles](../heroes/achilles.md)' signature wea
 
 [^cyp-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5, trans. H.G. Evelyn-White)
 [^apd-spear]: "Chiron gave Peleus an ashen spear" (Bibliotheca 3.13.5, trans. Frazer)
-[^il19-spear]: "that spear could none other of the Achaians wield, but Achilles alone awaited to wield it, the Pelian ashen spear that Cheiron gave to his father dear, from a peak of Pelion, to be the death of warriors" (Iliad XIX.11252-11255, trans. Lang, Leaf, and Myers)
+[^il19-spear]: "that spear could none other of the Achaians wield, but Achilles alone awaited to wield it, the Pelian ashen spear that Cheiron gave to his father dear, from a peak of Pelion, to be the death of warriors" (Iliad 19.378-382, trans. Lang, Leaf, and Myers)
 
 ## Advisor to Peleus
 
