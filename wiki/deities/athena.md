@@ -513,6 +513,7 @@ Within sat Envy, "ravening the flesh of vipers, self-begot." Ovid describes her 
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.5: Entreated Zeus to send a tempest against the Greeks; threw a thunderbolt at Ajax's ship; Ajax was wrecked
 - **[Fabulae](../sources/hyginus.md)** §164: Contest with Neptune for Athens; Zeus as judge; won by planting the olive; founded Athens "said to be the first established in the world"; Neptune wanted to flood land in anger; Mercury forbade it at Zeus's command
 - **[Fabulae](../sources/hyginus.md)** §166: Vulcan granted choice from gods; Neptune urged him to ask for Minerva in marriage; defended virginity with arms in struggle; Vulcan's seed fell to earth producing Erichthonius (snake-formed below); gave him in chest to Cecrops's daughters; crow revealed secret; drove daughters mad; they threw themselves into sea
+- **[Iphigenia in Tauris](../sources/euripides-iphigenia-tauris.md)**: Deus ex machina; commands Thoas to release [Orestes](../heroes/orestes.md) and [Iphigenia](../heroes/iphigenia.md); has [Poseidon](poseidon.md) calm the sea; establishes cults at Halae (ritual blood-drawing) and Brauron (Iphigenia as guardian); broke tie vote at Areopagus trial
 
 [^apd-argo-timber]: "at the prow Athena fitted in a speaking timber from the oak of Dodona" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-dragon-teeth]: "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes" (Bibliotheca 1.9.23, trans. Frazer)

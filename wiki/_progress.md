@@ -1005,6 +1005,12 @@ Created dedicated pages for major entities across all previously processed sourc
 - **Pages updated (6):** agamemnon.md, achilles.md, artemis.md, odysseus.md, helen.md, menelaus.md
 - Wiki size: ~234 pages
 
+### Euripides' Iphigenia in Tauris — COMPLETE
+- Source page: euripides-iphigenia-tauris.md
+- **Pages created (0):** (none)
+- **Pages updated (5):** iphigenia.md, orestes.md, artemis.md, athena.md, apollo.md
+- Wiki size: ~235 pages
+
 ## Next
 
 ### Remaining Sources (in priority order)
