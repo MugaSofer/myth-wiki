@@ -112,6 +112,42 @@ Orestes came "and was the guest of the old man Strophios, who dwelt at the foot 
 [^pin-motives]: "Did then the slaughter of Iphigenia far from her own land on Euripos' shore so sting her mother to the arousal of a wrath of grievous act? Or had nocturnal loves misguided her, in thraldom to a paramour's embrace?" (Pindar, Pythian XI, trans. Ernest Myers)
 [^pin-vengeance]: "Orestes, in the tenderness of his youth, came and was the guest of the old man Strophios, who dwelt at the foot of Parnassos: but with long-tarrying sword he slew his mother, and left Aigisthos' body in its blood" (Pindar, Pythian XI, trans. Ernest Myers)
 
+## In Aeschylus' Libation-Bearers
+
+In the *[Libation-Bearers](../sources/aeschylus-libation-bearers.md)*, Orestes returns from exile to his father's tomb in [Argos](../places/argos.md) with his companion [Pylades](pylades.md). He dedicates two locks of hair—one to the river Inachus, one to his father—and prays to [Hermes](../deities/hermes.md) and [Zeus](../deities/zeus.md) for aid.
+
+### Apollo's Command
+
+Orestes reveals that [Apollo](../deities/apollo.md)'s oracle at [Delphi](../places/delphi.md) commanded the vengeance, threatening him with terrible consequences if he failed: "clear the voice rang out with many warnings, sternly threatening to my hot heart the wintry chill of pain, unless upon the slayers of my sire I pressed for vengeance."[^lb-oracle] The threatened punishments include leprosy, madness, and exile from all human society: "slow, friendless, cursed of all should be mine end."[^lb-curse]
+
+### The Serpent Dream
+
+When the Chorus reveals [Clytemnestra](clytemnestra.md)'s nightmare—she bore a serpent, nursed it at her breast, and it drew blood with the milk—Orestes interprets himself as that serpent: "I, 'tis I, in semblance of a serpent, that must slay her."[^lb-serpent]
+
+### The Disguise and the Killings
+
+Orestes poses as a Phocian traveler bringing news of his own death. Clytemnestra welcomes him as a guest. [Aegisthus](aegisthus.md) is summoned without his bodyguard (the Chorus persuades the nurse Kilissa to alter the message) and killed offstage. Then Orestes confronts his mother. She bares her breast: "this breast pillowed thine head full oft, while, drowsed with sleep, thy toothless mouth drew mother's milk from me."[^lb-breast] Orestes hesitates—"Can I my mother spare?"—and Pylades speaks his only lines: "Where then would fall the hest Apollo gave at Delphi?"[^lb-pylades] Orestes drives Clytemnestra inside and kills her.
+
+### Onset of Madness
+
+Standing over the bodies, Orestes displays the murder-robe and justifies his deed. But immediately his mind breaks: "breaking from the curb my spirit whirls me off, a conquered prey, borne as a charioteer by steeds distraught."[^lb-madness] He sees the [Furies](../creatures/erinyes.md)—"Gorgon shapes" with "dusky robes" and "hair enwound, snakes coiled with snakes," dripping "black blood of hatred" from their eyes—visible only to him.[^lb-furies] He flees to Apollo's shrine at Delphi.
+
+## In Aeschylus' Eumenides
+
+In the *[Eumenides](../sources/aeschylus-eumenides.md)*, Orestes is found at Apollo's altar in Delphi, surrounded by sleeping Furies. Apollo sends him to [Athens](../places/athens.md) to embrace [Athena](../deities/athena.md)'s statue and await judgment.
+
+### The Pursuit
+
+The ghost of [Clytemnestra](clytemnestra.md) rouses the sleeping Furies, who pursue Orestes across land and sea "flying without wings, swift as a sail."[^eum-pursuit] At Athens, Orestes clings to Athena's statue and declares himself cleansed: "the stain of blood is dull upon mine hand and wastes away... Time cleanses all."[^eum-clean]
+
+### The Trial at the Areopagus
+
+Athena establishes the court of the [Areopagus](../places/areopagus.md) to try the case. Apollo serves as Orestes' advocate, arguing that Zeus commanded the vengeance, and that "not the true parent is the woman's womb that bears the child; she doth but nurse the seed new-sown: the male is parent."[^eum-parent] Athena casts the deciding vote for acquittal: "if the votes equal do fall, Orestes shall prevail."[^eum-vote]
+
+### The Pledge
+
+Acquitted, Orestes pledges eternal alliance between Argos and Athens: "Nevermore, thro' all the manifold years of Time to be, shall any chieftain of mine Argive land bear hitherward his spears for fight arrayed."[^eum-pledge]
+
 ## Variant Traditions
 
 The sources give different accounts for who rescued the infant Orestes. The [Bibliotheca](../sources/apollodorus.md) (E.6.24) credits Electra; the [Fabulae](../sources/hyginus.md) (§117) credits Electra; Pindar's Pythian XI credits a nurse named Arsinoë.
@@ -133,6 +169,8 @@ The location of Agamemnon's murder also varies. Most sources place it at Mycenae
 - **[Pindar](../sources/pindar.md)**, Pythian XI: Arsinoë (his nurse) saves him from Klytaimnestra; [Agamemnon](agamemnon.md) murdered at Amyklai (not Mycenae); Kassandra slain with him; Orestes sheltered at Parnassos by Strophios; kills his mother and leaves Aigisthos's body in its blood; Klytaimnestra's motives left uncertain — vengeance for Iphigenia or "nocturnal loves"
 - **[Orestes](../sources/euripides-orestes.md)**: Central character; six days after matricide, tormented by madness and the Eumenides ("three virgins like the night," "gorgon-visaged"); condemned to death by Argive assembly; plots to kill [Helen](helen.md) and takes [Hermione](hermione.md) hostage; [Apollo](../deities/apollo.md) commands exile in Arcadia, trial at Areopagus, and marriage to Hermione
 - **[Iphigenia in Tauris](../sources/euripides-iphigenia-tauris.md)**: Still pursued by Erinyes after matricide; [Apollo](../deities/apollo.md) sends him to steal [Artemis](../deities/artemis.md)'s image from Tauris; suffers madness on shore, seeing Furies as serpents; recounts trial at Areopagus (equal votes, [Athena](../deities/athena.md) broke tie); proves identity to [Iphigenia](iphigenia.md) with golden lamb tapestry and Pelops's spear; escapes with image; [Athena](../deities/athena.md) commands him to enshrine image at Halae in Attica
+- **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Returns to Agamemnon's tomb with Pylades; Apollo's oracle commanded vengeance; interprets Clytemnestra's serpent dream as himself; disguises as Phocian traveler; kills Aegisthus; confronts and kills Clytemnestra; sees the Furies and flees to Delphi
+- **[Eumenides](../sources/aeschylus-eumenides.md)**: Pursued by the Furies; Apollo sends him to Athens; tried at the Areopagus; Apollo defends him; Athena casts deciding vote; acquitted; pledges Argos-Athens alliance
 
 [^apd-murder]: "After Agamemnon had returned to Mycenae with Cassandra, he was murdered by Aegisthus and Clytaemnestra; for she gave him a shirt without sleeves and without a neck, and while he was putting it on he was cut down, and Aegisthus reigned over Mycenae. And they killed Cassandra also" (Bibliotheca E.6.23, trans. J.G. Frazer)
 [^apd-smuggled]: "Electra, one of Agamemnon's daughters, smuggled away her brother Orestes and gave him to Strophius, the Phocian, to bring up; and he brought him up with Pylades, his own son" (Bibliotheca E.6.24, trans. J.G. Frazer)
@@ -147,3 +185,15 @@ The location of Agamemnon's murder also varies. Most sources place it at Mycenae
 [^apd-marriage]: "having come to Mycenae, he united his sister Electra in marriage to Pylades" (Bibliotheca E.6.28, trans. J.G. Frazer)
 [^apd-neoptolemus]: "when Orestes went mad, Neoptolemus carried off his wife Hermione, who had previously been betrothed to him in Troy; and for that reason he was slain by Orestes at Delphi" (Bibliotheca E.6.14, trans. J.G. Frazer)
 [^apd-death]: "having himself married Hermione, or, according to some, Erigone, he begat Tisamenus, and was killed by the bite of a snake at Oresteum in Arcadia" (Bibliotheca E.6.28, trans. J.G. Frazer)
+[^lb-oracle]: "clear the voice rang out with many warnings, sternly threatening to my hot heart the wintry chill of pain, unless upon the slayers of my sire I pressed for vengeance" (Libation-Bearers ~270-275, trans. E.D.A. Morshead)
+[^lb-curse]: "slow, friendless, cursed of all should be mine end, and pitiless horror wind me for the grave" (Libation-Bearers ~300, trans. E.D.A. Morshead)
+[^lb-serpent]: "I, 'tis I, in semblance of a serpent, that must slay her" (Libation-Bearers ~549, trans. E.D.A. Morshead)
+[^lb-breast]: "this breast pillowed thine head full oft, while, drowsed with sleep, thy toothless mouth drew mother's milk from me" (Libation-Bearers ~896-900, trans. E.D.A. Morshead)
+[^lb-pylades]: "Where then would fall the hest Apollo gave / At Delphi, where the solemn compact sworn? / Choose thou the hate of all men, not of gods." (Libation-Bearers ~900, trans. E.D.A. Morshead)
+[^lb-madness]: "breaking from the curb my spirit whirls me off, a conquered prey, borne as a charioteer by steeds distraught" (Libation-Bearers ~1020, trans. E.D.A. Morshead)
+[^lb-furies]: "Gorgon shapes... dusky their robes and all their hair enwound—snakes coiled with snakes... black blood of hatred dripping from their eyes" (Libation-Bearers ~1050-1060, trans. E.D.A. Morshead)
+[^eum-pursuit]: "flying without wings, swift as a sail I pressed upon his track" (Eumenides ~260, trans. E.D.A. Morshead)
+[^eum-clean]: "the stain of blood is dull upon mine hand and wastes away... Time cleanses all—Time, the coeval of all things that are" (Eumenides ~280-285, trans. E.D.A. Morshead)
+[^eum-parent]: "Not the true parent is the woman's womb that bears the child; she doth but nurse the seed new-sown: the male is parent" (Eumenides ~658-660, trans. E.D.A. Morshead)
+[^eum-vote]: "if the votes equal do fall, Orestes shall prevail" (Eumenides ~735, trans. E.D.A. Morshead)
+[^eum-pledge]: "Nevermore, thro' all the manifold years of Time to be, shall any chieftain of mine Argive land bear hitherward his spears for fight arrayed" (Eumenides ~770-775, trans. E.D.A. Morshead)

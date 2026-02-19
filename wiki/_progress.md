@@ -1011,12 +1011,65 @@ Created dedicated pages for major entities across all previously processed sourc
 - **Pages updated (5):** iphigenia.md, orestes.md, artemis.md, athena.md, apollo.md
 - Wiki size: ~235 pages
 
+### Sophocles, Oedipus Trilogy — COMPLETE
+
+**Source text:** F. Storr translation (1912), Loeb Classical Library, Project Gutenberg #31
+**Source pages created:** sophocles-oedipus-king.md, sophocles-oedipus-colonus.md, sophocles-antigone.md
+**Source file:** sources/sophocles-oedipus-trilogy-storr.txt (8,848 lines, 3 plays)
+
+**Plays processed:**
+- **Oedipus the King** (~1,530 lines): Plague in Thebes; Apollo's oracle; Teiresias's accusation; Jocasta's crossroads revelation; Corinthian messenger and herdsman; Jocasta's hanging; Oedipus's self-blinding
+- **Oedipus at Colonus** (~1,779 lines): Sacred grove of Eumenides at Colonus; Oedipus defends his innocence; Theseus's protection; Creon seizes daughters; Polyneices cursed; mysterious divine death
+- **Antigone** (~1,353 lines): Creon's edict; Antigone buries Polyneices; defense of divine law; Haemon's plea; Teiresias's warning; Antigone hanged; Haemon's suicide; Eurydice's suicide
+
+**Pages created (10):**
+- antigone.md, jocasta.md, creon.md, ismene.md, polyneices.md, eteocles.md, haemon.md, eurydice-creon.md, laius.md (heroes)
+- colonus.md, cithaeron.md (places)
+
+**Pages updated (7):**
+- oedipus.md (major — two new source sections)
+- tiresias.md (OT and Antigone sections)
+- theseus.md (OC section)
+- apollo.md (Appearances entries)
+- thebes.md (Appearances entries)
+- index.md (three new sources)
+
+**Wiki size:** ~248 pages.
+
+### Aeschylus, Oresteia — COMPLETE
+
+**Source text:** E.D.A. Morshead translation (1881), Project Gutenberg #7681
+**Source pages created:** aeschylus-agamemnon.md, aeschylus-libation-bearers.md, aeschylus-eumenides.md
+**Source file:** sources/aeschylus-oresteia-morshead.txt (6,288 lines, 3 plays)
+
+**Plays processed:**
+- **Agamemnon** (~1,673 lines): Watchman's vigil; Chorus recounts eagle omen, Iphigenia's sacrifice, Zeus hymn; beacon fires; Herald returns; Agamemnon arrives with Cassandra; purple tapestry scene; Cassandra's prophecy (Apollo's curse, Thyestes' feast, murder vision, Orestes' return); Agamemnon murdered in robe-net; Clytemnestra's confession; Aegisthus gloats; Chorus defies
+- **Libation-Bearers** (~1,076 lines): Orestes at Agamemnon's tomb; Electra bears libations; recognition scene (hair, footprints, robe); great kommos invoking Agamemnon; Apollo's oracle commands vengeance; Clytemnestra's serpent dream; Orestes disguises as traveler; Nurse Kilissa; Aegisthus killed; Clytemnestra bares breast; Pylades' three lines; matricide; Orestes sees Furies; flees to Delphi
+- **Eumenides** (~1,047 lines): Pythian priestess; succession of Delphi's oracle; Orestes at altar with sleeping Furies; Apollo protects him; Clytemnestra's ghost rouses Furies; pursuit to Athens; Athena establishes Areopagus; trial; Apollo's defense (male is parent); Athena's deciding vote; Orestes acquitted; Furies rage; Athena persuades them; transformed into Eumenides; bless Athens; procession to underground shrine
+
+**Pages created (8):**
+- cassandra.md, aegisthus.md, electra.md, pylades.md (heroes)
+- areopagus.md (place)
+- aeschylus-agamemnon.md, aeschylus-libation-bearers.md, aeschylus-eumenides.md (sources)
+
+**Pages updated (12):**
+- orestes.md (major — Libation-Bearers and Eumenides sections)
+- clytemnestra.md (major — Agamemnon, Libation-Bearers, Eumenides sections + Variant Traditions)
+- agamemnon.md (hero — Agamemnon and Libation-Bearers sections)
+- erinyes.md (major — Appearance, Powers, Libation-Bearers, Eumenides sections with transformation)
+- apollo.md, athena.md, hermes.md (Appearances entries)
+- delphi.md, athens.md (Appearances entries)
+- iphigenia.md, artemis.md (Appearances entries)
+- index.md (three new sources)
+
+**Wiki size:** ~260 pages.
+
 ## Next
 
 ### Remaining Sources (in priority order)
 
-1. **More Euripides** — remaining plays in Vol. I (Iphigenia in Aulis, Iphigenia in Tauris)
-2. **More Greek tragedies** — Sophocles, Aeschylus (rich character material, many plays on Gutenberg)
+1. **More Aeschylus** — Prometheus Bound, Seven Against Thebes, Suppliant Maidens, Persians (sources/aeschylus-four-plays-morshead.txt already downloaded)
+2. **More Greek tragedies** — Sophocles (Ajax, Electra, Trachiniae)
 3. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
 
 ### Minor Expansions — COMPLETE

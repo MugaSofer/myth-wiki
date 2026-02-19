@@ -109,6 +109,18 @@ Pindar's Pythian XI locates the murder at Amyklai — a variant from other accou
 
 [^pin-amyklai]: "Thus died the hero himself, the son of Atreus, when after long time he came unto famous Amyklai, and drew down with him to death the maiden prophetess, after that he consumed with fire the Trojans' habitations of softness" (Pindar, Pythian XI, trans. Ernest Myers)
 
+## In Aeschylus' Agamemnon
+
+In the *[Agamemnon](../sources/aeschylus-agamemnon.md)*, the king returns from [Troy](../places/troy.md) with [Cassandra](cassandra.md) as his war-prize. [Clytemnestra](clytemnestra.md) greets him with a lavish welcome and lays out purple tapestries for him to walk upon. Agamemnon recognizes the [hubris](../concepts/hubris.md) of the gesture—"strew not my path with robes; such honour well may rouse the gods' displeasure"—but yields to his wife's persuasion and enters the palace treading on the finery.[^ag-hubris]
+
+Inside, Clytemnestra traps him in a robe-net and strikes him three times. His death-cries are heard by the Chorus: "Ah! I am stricken with a stroke of death within!"[^ag-cry] Clytemnestra later describes the murder: she "trapped him round and round in the rich robe" and smote him until he fell.[^ag-murder]
+
+The Chorus reflects that the curse of the house of [Atreus](../heroes/atreus.md) has come full circle: the feast of [Thyestes](../heroes/thyestes.md), the sacrifice of [Iphigenia](iphigenia.md), and now this murder are all links in a chain of vengeance.
+
+## In Aeschylus' Libation-Bearers
+
+In the *[Libation-Bearers](../sources/aeschylus-libation-bearers.md)*, Agamemnon is dead but his presence dominates the play. [Orestes](orestes.md) and [Electra](electra.md) perform a great invocation at his tomb, calling on his spirit for aid. Orestes imagines how his father would have wanted to die: "Ah my father! hadst thou lain under Ilion's wall, by some Lycian spearman slain, thou hadst left in this thine hall honour."[^lb-ilion] The murder-robe that killed him is displayed again by Orestes after the matricide.
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I-XXIV: Commander of the Greek army; "eyes like flashing fire"; quarrel with [Achilles](achilles.md) over Briseis; divine sceptre (Hephaestus→Zeus→Hermes→Pelops→Atreus→Thyestes→Agamemnon); arming scene (Book XI) with Kinyras corslet, Gorgon shield, and two-crested helm; wounded in battle
@@ -123,6 +135,8 @@ Pindar's Pythian XI locates the murder at Amyklai — a variant from other accou
 - **[Fabulae](../sources/hyginus.md)** §117: Clytemnestra hears from Oiax (brother of Palamedes) false report about Cassandra; plots with Aegisthus; kills Agamemnon with axe as he sacrifices; kills Cassandra; Electra rescues infant Orestes and sends to Strophius
 - **[Pindar](../sources/pindar.md)**, Pythian XI: Murdered at Amyklai (not Mycenae) on his return from Troy; Kassandra ("the maiden prophetess") slain with him; variant location distinguishes Pindar from most sources
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Torn between love and duty; lures Iphigenia with false marriage to [Achilles](achilles.md); Menelaus and army compel sacrifice; Clytemnestra confronts him over first husband's murder; watches helplessly as Iphigenia volunteers to die; goddess substitutes a stag
+- **[Agamemnon](../sources/aeschylus-agamemnon.md)**: Returns with Cassandra; walks on purple tapestries; trapped in robe-net by Clytemnestra; killed with three blows; Chorus hears his death-cries
+- **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Dead; his tomb is the site of the great invocation by Orestes and Electra; his murder-robe displayed
 
 [^apd-parentage]: "Aerope became the wife of Plisthenes, who begat Agamemnon and Menelaus" (Bibliotheca 3.2.2, trans. J.G. Frazer)
 [^apd-sun]: "Zeus sent Hermes to Atreus and told him to stipulate with Thyestes that Atreus should be king if the sun should go backward; and when Thyestes agreed, the sun set in the east" (Bibliotheca E.2.12, trans. J.G. Frazer)
@@ -133,3 +147,7 @@ Pindar's Pythian XI locates the murder at Amyklai — a variant from other accou
 [^apd-iphigenia]: "the goddess was angry with Agamemnon, both because, on shooting a deer, he had said, 'Artemis herself could not (do it better),' and because Atreus had not sacrificed to her the golden lamb... Artemis carried her off to the Taurians and appointed her to be her priestess, substituting a deer for her at the altar; but some say that Artemis made her immortal" (Bibliotheca E.3.21-22, trans. J.G. Frazer)
 [^apd-murder]: "he was murdered by Aegisthus and Clytaemnestra; for she gave him a shirt without sleeves and without a neck, and while he was putting it on he was cut down, and Aegisthus reigned over Mycenae. And they killed Cassandra also" (Bibliotheca E.6.23, trans. J.G. Frazer)
 [^apd-orestes]: "Electra, one of Agamemnon's daughters, smuggled away her brother Orestes and gave him to Strophius, the Phocian, to bring up... he killed both his mother and Aegisthus. And not long afterwards, being afflicted with madness and pursued by the Furies, he repaired to Athens and was tried in the Areopagus... the votes at his trial being equal he was acquitted" (Bibliotheca E.6.24-25, trans. J.G. Frazer)
+[^ag-hubris]: Agamemnon protests walking on the purple: "strew not my path with robes; such honour well may rouse the gods' displeasure" (Agamemnon ~920, trans. E.D.A. Morshead)
+[^ag-cry]: "Ah! I am stricken with a stroke of death within!" (Agamemnon ~1343, trans. E.D.A. Morshead)
+[^ag-murder]: Clytemnestra describes trapping him in the robe-net and striking three times (Agamemnon ~1380-1390, trans. E.D.A. Morshead)
+[^lb-ilion]: "Ah my father! hadst thou lain under Ilion's wall, by some Lycian spearman slain, thou hadst left in this thine hall honour" (Libation-Bearers ~345-350, trans. E.D.A. Morshead)

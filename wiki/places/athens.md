@@ -66,3 +66,4 @@ The Bibliotheca traces the Athenian royal line:
 - **[Bibliotheca](../sources/apollodorus.md)** 3.14.7-3.15.6: Full Athenian king genealogy from Cecrops I to Aegeus
 - **[Fabulae](../sources/hyginus.md)** §164: "First city established in the world"; Athena vs. Neptune; Zeus as judge
 - **[Fabulae](../sources/hyginus.md)** §166: Birth of Erichthonius; chest entrusted to daughters of Cecrops
+- **[Eumenides](../sources/aeschylus-eumenides.md)**: Site of Orestes' trial; Athena establishes the [Areopagus](../places/areopagus.md) court; Furies transformed into Eumenides and enshrined beneath the hill; Orestes pledges Argos-Athens alliance

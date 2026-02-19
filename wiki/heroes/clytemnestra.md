@@ -50,6 +50,51 @@ After the divine substitution, the messenger tells her "thy child has evidently 
 [^eur-ia-threat]: "there wants but a little reason for me and my remaining daughters to give thee such a reception as you deserve to receive" (Iphigenia in Aulis ~1171-1173, trans. T.A. Buckley)
 [^eur-ia-hate]: "Hate not my father, yes, thy husband" / "He needs shall go through terrible trials on thy account" (Iphigenia in Aulis ~1488-1490, trans. T.A. Buckley)
 [^eur-ia-doubt]: "of whom of the Gods art thou the theft? How shall I address thee? What shall I say that these words do not offer me a vain comfort?" (Iphigenia in Aulis ~1616-1618, trans. T.A. Buckley)
+[^ag-net]: "even as men cast the close-hauled net around a shoal of fish, I trapped him round and round in the rich robe, and smote him, once, again" (Agamemnon ~1380-1385, trans. E.D.A. Morshead)
+[^ag-blows]: "with the third stroke he bows his knee and falls" (Agamemnon ~1385, trans. E.D.A. Morshead)
+[^ag-iphigenia]: "His daughter, blossom of my womb, he gave unto a deadly doom, Iphigenia, child of tears! And as he wrought, even so he fares" (Agamemnon ~1525-1530, trans. E.D.A. Morshead)
+[^ag-curse]: "The inborn frenzy of our house, is ended, by my deed!" (Agamemnon ~1570, trans. E.D.A. Morshead)
+[^ag-rule]: "I and thou will rule the palace and will order all things well" (Agamemnon ~1673, trans. E.D.A. Morshead)
+[^lb-dream]: Clytemnestra dreamed "her womb a serpent bare... she lull'd the thing... she proffered it the breast... and sucked forth a blood-gout in the milk" (Libation-Bearers ~535-545, trans. E.D.A. Morshead)
+[^lb-breast]: "Stay, child, and fear to strike. O son, this breast pillowed thine head full oft" (Libation-Bearers ~896, trans. E.D.A. Morshead)
+[^lb-hounds]: "Beware thy mother's vengeful hounds from hell" (Libation-Bearers ~924, trans. E.D.A. Morshead)
+[^lb-snake]: "Ah, me! this snake it was I bore and nursed" (Libation-Bearers ~928, trans. E.D.A. Morshead)
+[^eum-ghost]: "Sleep on! awake! what skills your sleep to me—me, among all the dead by you dishonoured" (Eumenides ~100, trans. E.D.A. Morshead)
+[^eum-blow]: "Blow forth on him the breath of wrath and blood, scorch him with reek of fire that burns in you" (Eumenides ~130, trans. E.D.A. Morshead)
+
+## In Aeschylus' Agamemnon
+
+In the *[Agamemnon](../sources/aeschylus-agamemnon.md)*, Clytemnestra is the dominant figure—cunning, eloquent, and terrifying. She has waited years for [Agamemnon](agamemnon.md)'s return, plotting with [Aegisthus](aegisthus.md).
+
+### The Beacon and the Welcome
+
+She describes a relay of beacon fires from Troy to [Argos](../places/argos.md), demonstrating her intelligence and command. When Agamemnon arrives, she lays out purple tapestries for him to walk upon—a gesture of divine honour that tempts him into [hubris](../concepts/hubris.md). Despite his reluctance, she persuades him to tread on the finery.
+
+### The Murder
+
+After Agamemnon enters the palace with [Cassandra](cassandra.md), his death-cries are heard. Clytemnestra emerges blood-spattered and reveals the bodies. She trapped him in a robe-net: "even as men cast the close-hauled net around a shoal of fish, I trapped him round and round in the rich robe, and smote him, once, again."[^ag-net] She struck three blows, and the third brought him down: "with the third stroke he bows his knee and falls."[^ag-blows]
+
+She justifies the killing as vengeance for [Iphigenia](iphigenia.md): "His daughter, blossom of my womb, he gave unto a deadly doom, Iphigenia, child of tears! And as he wrought, even so he fares."[^ag-iphigenia]
+
+### The Curse
+
+Clytemnestra claims to be an instrument of the ancient curse on the house: she prays that the "inborn frenzy of our house is ended, by my deed."[^ag-curse] When Aegisthus arrives and the Chorus defies them both, she asserts joint rule: "I and thou will rule the palace and will order all things well."[^ag-rule]
+
+## In Aeschylus' Libation-Bearers
+
+In the *[Libation-Bearers](../sources/aeschylus-libation-bearers.md)*, Clytemnestra is troubled by a prophetic nightmare: she dreamed she bore a serpent, swaddled it, and nursed it at her breast, and it drew blood with the milk.[^lb-dream] Frightened, she sends libations to [Agamemnon](agamemnon.md)'s tomb by her captive women.
+
+When [Orestes](orestes.md) arrives disguised as a traveler with news of his own death, Clytemnestra welcomes him as a guest. After Aegisthus is killed, she confronts Orestes directly. She bares her breast and pleads: "Stay, child, and fear to strike. O son, this breast pillowed thine head."[^lb-breast] When Orestes is unmoved, she warns: "Beware thy mother's vengeful hounds from hell."[^lb-hounds] Her last words before being driven inside to her death are: "Ah, me! this snake it was I bore and nursed"—fulfilling her own dream.[^lb-snake]
+
+## In Aeschylus' Eumenides
+
+In the *[Eumenides](../sources/aeschylus-eumenides.md)*, Clytemnestra appears as a ghost at [Delphi](../places/delphi.md), rising to rouse the sleeping [Furies](../creatures/erinyes.md). She rebukes them for letting Orestes escape: "Sleep on! awake! what skills your sleep to me—me, among all the dead by you dishonoured."[^eum-ghost] She reminds them of the libations and offerings she once made to them, and demands they resume the hunt: "Blow forth on him the breath of wrath and blood."[^eum-blow]
+
+## Variant Traditions
+
+Clytemnestra's role in the murder varies significantly across sources. In the [Odyssey](../sources/odyssey.md), she is a secondary figure alongside [Aegisthus](aegisthus.md). In the [Bibliotheca](../sources/apollodorus.md), both conspire equally. In the [Fabulae](../sources/hyginus.md), she is motivated by Oiax's false report about Cassandra. In Aeschylus' *Agamemnon*, she is the sole planner and executioner, with Aegisthus arriving only afterward to claim credit.
+
+The murder weapon also differs: the Bibliotheca describes "a shirt without sleeves and without a neck" (a garment-trap); Hyginus says "an axe"; Aeschylus describes a robe-net and a sword (or axe).
 
 ## Appearances
 
@@ -61,3 +106,6 @@ After the divine substitution, the messenger tells her "thy child has evidently 
 - **[Fabulae](../sources/hyginus.md)** §117: Hears of Cassandra from Oiax; plots with Aegisthus; kills Agamemnon with an axe
 - **[Orestes](../sources/euripides-orestes.md)**: Killed by [Orestes](orestes.md) and Electra (referenced throughout; her tomb a focal point)
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Arrives expecting wedding; discovers sacrifice plot; confronts Agamemnon; reveals her first marriage; tries to save Iphigenia; doubts the divine substitution
+- **[Agamemnon](../sources/aeschylus-agamemnon.md)**: Beacon speech; lays out purple tapestries; traps Agamemnon in robe-net; strikes three blows; justifies with Iphigenia; claims to end the curse; asserts joint rule with Aegisthus
+- **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Serpent dream; sends libations to Agamemnon's tomb; welcomes disguised Orestes; bares her breast and pleads; warned of her "vengeful hounds"; killed by Orestes
+- **[Eumenides](../sources/aeschylus-eumenides.md)**: Appears as ghost at Delphi; rouses the sleeping Furies to pursue Orestes

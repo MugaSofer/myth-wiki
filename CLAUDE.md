@@ -414,6 +414,6 @@ Additional sources available as needed:
 
 ## Status
 
-**Completed sources:** Theogony, Works and Days, Homeric Hymns, Shield of Heracles, Iliad (24 books), Odyssey (24 books), Epic Cycle fragments, Apollodorus Bibliotheca (all 3 books + Epitome), Hesiodic fragments (Catalogue of Women, Great Eoiae, Melampodia, Aegimius), Hyginus Fabulae, Ovid Metamorphoses (complete), Virgil Aeneid (12 books), Pindar's Odes, Apollonius Argonautica (4 books), Euripides' Medea, Euripides' Hippolytus, Euripides' Alcestis, Euripides' Bacchae, Euripides' Hecuba, Euripides' Heraclidae, Euripides' Orestes, Euripides' Phoenissae, Euripides' Iphigenia in Aulis, Euripides' Iphigenia in Tauris.
+**Completed sources:** Theogony, Works and Days, Homeric Hymns, Shield of Heracles, Iliad (24 books), Odyssey (24 books), Epic Cycle fragments, Apollodorus Bibliotheca (all 3 books + Epitome), Hesiodic fragments (Catalogue of Women, Great Eoiae, Melampodia, Aegimius), Hyginus Fabulae, Ovid Metamorphoses (complete), Virgil Aeneid (12 books), Pindar's Odes, Apollonius Argonautica (4 books), Euripides' Medea, Euripides' Hippolytus, Euripides' Alcestis, Euripides' Bacchae, Euripides' Hecuba, Euripides' Heraclidae, Euripides' Orestes, Euripides' Phoenissae, Euripides' Iphigenia in Aulis, Euripides' Iphigenia in Tauris, Sophocles' Oedipus the King, Sophocles' Oedipus at Colonus, Sophocles' Antigone, Aeschylus' Agamemnon, Aeschylus' Libation-Bearers, Aeschylus' Eumenides.
 
-**Wiki size:** ~235 pages across deities, heroes, creatures, places, events, objects, and sources.
+**Wiki size:** ~260 pages across deities, heroes, creatures, places, events, objects, and sources.

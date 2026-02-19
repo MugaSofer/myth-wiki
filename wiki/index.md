@@ -37,6 +37,12 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 - [Phoenissae](sources/euripides-phoenissae.md) - Euripides (c. 409 BCE)
 - [Iphigenia in Aulis](sources/euripides-iphigenia-aulis.md) - Euripides (c. 405 BCE)
 - [Iphigenia in Tauris](sources/euripides-iphigenia-tauris.md) - Euripides (c. 414-412 BCE)
+- [Oedipus the King](sources/sophocles-oedipus-king.md) - Sophocles (c. 429 BCE)
+- [Oedipus at Colonus](sources/sophocles-oedipus-colonus.md) - Sophocles (c. 401 BCE)
+- [Antigone](sources/sophocles-antigone.md) - Sophocles (c. 441 BCE)
+- [Agamemnon](sources/aeschylus-agamemnon.md) - Aeschylus (458 BCE)
+- [The Libation-Bearers](sources/aeschylus-libation-bearers.md) - Aeschylus (458 BCE)
+- [The Eumenides](sources/aeschylus-eumenides.md) - Aeschylus (458 BCE)
 
 ## Progress
 

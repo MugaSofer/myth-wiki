@@ -255,5 +255,6 @@ Meleager slew the boar "having gathered together from many cities huntsmen and h
 - **[Fabulae](../sources/hyginus.md)** §180: Actaeon saw Diana bathing and desired to ravish her; Diana made horns grow on his head; devoured by own dogs
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Demands [Iphigenia](../heroes/iphigenia.md)'s sacrifice for fair winds; at the moment of the blow, substitutes "a stag of mighty size to see and beautiful in appearance"; Calchas declares she "prefers greatly" the stag "lest her altar should be denied with generous blood"; the victim "has evidently flown to the Gods"
 - **[Iphigenia in Tauris](../sources/euripides-iphigenia-tauris.md)**: Her sacred image the object of [Orestes](../heroes/orestes.md)' quest; [Iphigenia](../heroes/iphigenia.md) questions whether the goddess truly desires human sacrifice — "I think not that any one of the Gods is bad"; [Athena](athena.md) establishes cult of Tauric Artemis at Halae and Brauron
+- **[Agamemnon](../sources/aeschylus-agamemnon.md)**: Her wrath at the omen of the eagles devouring a pregnant hare requires the sacrifice of [Iphigenia](../heroes/iphigenia.md) at Aulis
 
 [^cyp-iphigeneia]: Cypria, summary by Proclus: "Artemis, however, snatched her away and transported her to the Tauri, making her immortal, and putting a stag in place of the girl upon the altar"

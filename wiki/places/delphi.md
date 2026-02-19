@@ -76,3 +76,5 @@ Delphi serves throughout the [Bibliotheca](../sources/apollodorus.md) as the pla
 - **[Odyssey](../sources/odyssey.md)** XI: Tityos punished for assaulting Leto on her way to Pytho
 - **[Apollodorus](../sources/apollodorus.md)** 1.4.1: Themis's prior oracle; Python slain; Apollo takes over
 - **[Apollodorus](../sources/apollodorus.md)** passim: Heroes consult the oracle (Heracles, Cadmus, Oedipus, and many others)
+- **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Site of Apollo's oracle commanding Orestes' vengeance
+- **[Eumenides](../sources/aeschylus-eumenides.md)**: Opening scene; Pythian priestess recounts the succession of the oracle (Earth → Themis → Phoebe → Apollo); Orestes shelters at the altar surrounded by sleeping Furies; Apollo sends him to Athens
