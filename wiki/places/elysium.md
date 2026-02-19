@@ -25,6 +25,21 @@ In [Works and Days](../sources/works-and-days.md), Hesiod describes the fate of 
 
 Their dwelling is described: "they live untouched by sorrow in the islands of the blessed along the shore of deep swirling Ocean, happy heroes for whom the grain-giving earth bears honey-sweet fruit flourishing thrice a year, far from the deathless gods, and Cronos rules over them; for the father of men and gods released him from his bonds."[^wd-islands]
 
+## In [Pindar](../sources/pindar.md)
+
+### The Islands of the Blessed (Olympian II)
+
+Pindar gives the most vivid description of the afterlife rewards. The righteous dead enjoy "evenly ever in sunlight night and day an unlaborious life," and those who have kept their souls from iniquity through three lives "travel the road of Zeus unto the tower of Kronos."[^pin-tower]
+
+There "round the islands of the blest the Ocean-breezes blow, and golden flowers are glowing, some from the land on trees of splendour, and some the water feedeth, with wreaths whereof they entwine their hands."[^pin-flowers] Rhadamanthys judges there, seated at the right hand of [Cronos](../deities/cronos.md), "husband of [Rhea](../deities/rhea.md), throned above all worlds."[^pin-rhadamanthys]
+
+Named residents include [Peleus](../heroes/peleus.md) and [Kadmos](../heroes/cadmus.md), and [Achilles](../heroes/achilles.md), whose mother [Thetis](../deities/thetis.md) brought him there "when her prayer had moved the heart of [Zeus](../deities/zeus.md)."[^pin-achilles]
+
+[^pin-tower]: "whosoever have been of good courage to the abiding steadfast thrice on either side of death and have refrained their souls from all iniquity, travel the road of Zeus unto the tower of Kronos" (Pindar, Olympian II, trans. Ernest Myers)
+[^pin-flowers]: "round the islands of the blest the Ocean-breezes blow, and golden flowers are glowing, some from the land on trees of splendour, and some the water feedeth, with wreaths whereof they entwine their hands" (Pindar, Olympian II)
+[^pin-rhadamanthys]: "so ordereth Rhadamanthos' just decree, whom at his own right hand hath ever the father Kronos, husband of Rhea, throned above all worlds" (Pindar, Olympian II)
+[^pin-achilles]: "Peleus and Kadmos are counted of that company; and the mother of Achilles, when her prayer had moved the heart of Zeus, bare thither her son" (Pindar, Olympian II)
+
 ## In the Apollodorus
 
 The [Bibliotheca](../sources/apollodorus.md) mentions the Elysian Fields and the Islands of the Blessed in several contexts. [Poseidon](../deities/poseidon.md) made Lycus, son of Poseidon and Celaeno, "to dwell in the Islands of the Blest."[^apoll-lycus] Cadmus and Harmonia were "turned into a serpent and sent away by Zeus to the Elysian Fields."[^apoll-cadmus] [Circe](../deities/circe.md) sent Telegonos and Penelope "to the Islands of the Blest."[^apoll-circe]
@@ -41,6 +56,7 @@ The [Bibliotheca](../sources/apollodorus.md) mentions the Elysian Fields and the
 
 - **[Odyssey](../sources/odyssey.md)** IV: Proteus tells Menelaos he will go to the Elysian plain where Rhadamanthus dwells
 - **[Works and Days](../sources/works-and-days.md)** 156-173: Heroes of the Fourth Age dwell in the Islands of the Blessed under Cronos's rule
+- **[Pindar](../sources/pindar.md)**, Olympian II: "Round the islands of the blest the Ocean-breezes blow, and golden flowers are glowing"; Rhadamanthys judges beside Cronos; Peleus, Kadmos, and Achilles dwell there; souls who refrain from iniquity through three lives earn passage
 - **[Apollodorus](../sources/apollodorus.md)** 3.5.4: Cadmus and Harmonia sent to the Elysian Fields
 - **[Apollodorus](../sources/apollodorus.md)** 3.10.1: Lycus placed in the Islands of the Blest
 - **[Apollodorus](../sources/apollodorus.md)** E.7.37: Telegonos and Penelope sent to the Islands of the Blest by Circe
