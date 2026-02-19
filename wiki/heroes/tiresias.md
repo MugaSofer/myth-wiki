@@ -104,6 +104,27 @@ Tiresias warned Pentheus against opposing [Dionysus](../deities/dionysus.md): "O
 [^met-tir-narcissus]: "If he but fail to recognize himself, a long life he may have, beneath the sun" (Metamorphoses 3.348, trans. Brookes More)
 [^met-tir-pentheus]: "Oh glad the day to thee, if, light denied, thine eyes, most fortunate, should not behold the Bacchanalian rites! The day will come, and soon the light will dawn, when Bacchus, born of Semele, shall make his advent known" (Metamorphoses 3.513-518, trans. Brookes More)
 
+## In Euripides' Bacchae
+
+In the [Bacchae](../sources/euripides-bacchae.md), Tiresias defends [Dionysus](../deities/dionysus.md)'s divinity with a theological speech that is the play's intellectual centerpiece. He arrives dressed for worship — "to twine the thyrsi, and to put on the skins of deer, and to crown the head with ivy branches" — despite his blindness and old age.[^eur-bac-dress]
+
+### Theology of Dionysus
+
+Tiresias argues that Dionysus is one of two primary powers: "Two things are first among men; Ceres, the goddess... She nourishes mortals with dry food; but he who is come as a match to her, the son of Semele, has invented the liquid drink of the grape."[^eur-bac-two] Wine "delivers miserable mortals from grief" and "gives sleep an oblivion of daily evils: nor is there any other medicine for troubles."[^eur-bac-wine]
+
+He claims Dionysus has prophetic power — "Bacchanal excitement and frenzy have much divination in them" — and shares qualities of [Ares](../deities/ares.md): "terror flutters sometimes an army under arms and in its ranks, before they touch the spear; and this also is a frenzy from Bacchus."[^eur-bac-ares-tir]
+
+### Warning to Pentheus
+
+Tiresias warns [Pentheus](pentheus.md): "do not boast that sovereignty has power among men" and "receive the God into the land, and sacrifice to him." He defends the Bacchants' morality: "Bacchus will not compel women to be modest with regard to Venus, but in his nature modesty in all things is ever innate."[^eur-bac-modesty] After Pentheus refuses, Tiresias departs saying "you rave most grievously; nor can you procure any cure from medicine."[^eur-bac-rave]
+
+[^eur-bac-dress]: "to twine the thyrsi, and to put on the skins of deer, and to crown the head with ivy branches" (Bacchae 176-177, trans. T.A. Buckley)
+[^eur-bac-two]: "Two things are first among men; Ceres, the goddess... She nourishes mortals with dry food; but he who is come as a match to her, the son of Semele, has invented the liquid drink of the grape, and introduced it among mortals, which delivers miserable mortals from grief" (Bacchae 274-280, trans. T.A. Buckley)
+[^eur-bac-wine]: "gives sleep an oblivion of daily evils: nor is there any other medicine for troubles" (Bacchae 281-283, trans. T.A. Buckley)
+[^eur-bac-ares-tir]: "he also possesses some quality of Mars; for terror flutters sometimes an army under arms and in its ranks, before they touch the spear; and this also is a frenzy from Bacchus" (Bacchae 302-305, trans. T.A. Buckley)
+[^eur-bac-modesty]: "Bacchus will not compel women to be modest with regard to Venus, but in his nature modesty in all things is ever innate" (Bacchae 314-317, trans. T.A. Buckley)
+[^eur-bac-rave]: "you rave most grievously; nor can you procure any cure from medicine" (Bacchae 326-327, trans. T.A. Buckley)
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.316-350: Sex change by striking serpents; judgment between Zeus and Hera; blinded by Hera; compensated by Zeus with prophecy; prophecy of Narcissus
@@ -117,6 +138,7 @@ Tiresias warned Pentheus against opposing [Dionysus](../deities/dionysus.md): "O
 - **[Bibliotheca](../sources/apollodorus.md)** 3.7.3: Advises Theban flight from the Epigoni; dies at the spring of Tilphussa
 - **[Bibliotheca](../sources/apollodorus.md)** E.7.17: Odysseus consults him among the dead
 - **[Fabulae](../sources/hyginus.md)** §75: Shepherd on Cyllene; struck/trampled coupling snakes; changed to woman; oracle advised return transformation at same place; "joking dispute" between Zeus and Hera; judged in Zeus's favor; Hera struck him blind "with the back of her hand"; Zeus gave him "seven lives" and made him "seer wiser than other mortals"
+- **[Bacchae](../sources/euripides-bacchae.md)**: Dresses in fawnskin and ivy to worship Dionysus; delivers theological defense — Dionysus as one of two primary powers alongside Demeter; claims Dionysus has prophetic and martial qualities; warns Pentheus against opposing the god; departs saying Pentheus "raves most grievously"
 
 [^apd-secrets]: "some say that he was blinded by the gods because he revealed their secrets to men" (Bibliotheca 3.6.7, trans. J.G. Frazer)
 [^apd-athena]: "Pherecydes says that he was blinded by Athena; for Chariclo was dear to Athena... and Tiresias saw the goddess stark naked, and she covered his eyes with her hands, and so rendered him sightless. And when Chariclo asked her to restore his sight, she could not do so, but by cleansing his ears she caused him to understand every note of birds; and she gave him a staff of cornel-wood, wherewith he walked like those who see" (Bibliotheca 3.6.7, trans. J.G. Frazer)

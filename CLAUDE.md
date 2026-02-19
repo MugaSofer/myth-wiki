@@ -412,6 +412,6 @@ Additional sources available as needed:
 
 ## Status
 
-**Completed sources:** Theogony, Works and Days, Homeric Hymns, Shield of Heracles, Iliad (24 books), Odyssey (24 books), Epic Cycle fragments, Apollodorus Bibliotheca (all 3 books + Epitome), Hesiodic fragments (Catalogue of Women, Great Eoiae, Melampodia, Aegimius), Hyginus Fabulae, Ovid Metamorphoses (complete), Virgil Aeneid (12 books), Pindar's Odes, Apollonius Argonautica (4 books), Euripides' Medea, Euripides' Hippolytus, Euripides' Alcestis.
+**Completed sources:** Theogony, Works and Days, Homeric Hymns, Shield of Heracles, Iliad (24 books), Odyssey (24 books), Epic Cycle fragments, Apollodorus Bibliotheca (all 3 books + Epitome), Hesiodic fragments (Catalogue of Women, Great Eoiae, Melampodia, Aegimius), Hyginus Fabulae, Ovid Metamorphoses (complete), Virgil Aeneid (12 books), Pindar's Odes, Apollonius Argonautica (4 books), Euripides' Medea, Euripides' Hippolytus, Euripides' Alcestis, Euripides' Bacchae.
 
-**Wiki size:** ~222 pages across deities, heroes, creatures, places, events, objects, and sources.
+**Wiki size:** ~224 pages across deities, heroes, creatures, places, events, objects, and sources.

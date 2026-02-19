@@ -4,7 +4,7 @@
 |---|---|
 | **Also known as** | Joyous Dionysus, golden-haired Dionysus, the Insewn, Inspirer of frenzied women |
 | **Roman equivalent** | Bacchus |
-| **Domain** | Wine, revelry |
+| **Domain** | Wine, revelry, madness, prophecy |
 | **Parents** | [Zeus](zeus.md) and Semele (daughter of Cadmus) |
 | **Consort(s)** | Ariadne (daughter of Minos) |
 | **First appearance** | [Theogony](../sources/theogony.md) 940 |
@@ -22,6 +22,9 @@
 - **"Inspirer of frenzied women"** — (Hymn I, title)
 - **"ivy-crowned Dionysus, the loud-crying god"** — (Hymn XXVI 1)[^desc-ivy]
 - **"god of abundant clusters"** — (Hymn XXVI 10)[^desc-clusters]
+- **"Bromius"** — a frequent name in the [Bacchae](../sources/euripides-bacchae.md), used by the Chorus, Tiresias, and Cadmus (Bacchae passim)[^eur-bac-bromius]
+- **"Evius"** / **"Evoe"** — ritual cry and name (Bacchae passim)
+- **"Dithyrambus"** — Zeus's name for the child when sewing him in his thigh: "Go, O Dithyrambus, enter this my male womb" (Bacchae 526)[^eur-bac-dithyramb]
 
 [^desc-ivy]: "I begin to sing of ivy-crowned Dionysus, the loud-crying god, splendid son of Zeus and glorious Semele" (Homeric Hymn XXVI to Dionysus 1-2, trans. H.G. Evelyn-White)
 [^desc-clusters]: "And so hail to you, Dionysus, god of abundant clusters!" (Homeric Hymn XXVI to Dionysus 10)
@@ -33,6 +36,8 @@
 ## Appearance
 
 In the pirates' story, he appeared "seeming like a stripling in the first flush of manhood: his rich, dark hair was waving about him, and on his strong shoulders he wore a purple robe."[^desc-stripling] When they tried to bind him, "the bonds would not hold him, and the withes fell far away from his hands and feet: and he sat with a smile in his dark eyes."[^desc-smile]
+
+In the [Bacchae](../sources/euripides-bacchae.md), Pentheus describes the disguised stranger as having long hair "not through wrestling, scattered over your cheeks, full of desire," a white skin "from careful preparation," and hunting after beauty "not exposed to strokes of the sun, but kept beneath the shade."[^eur-bac-appearance] Later, when Pentheus is half-mad, Dionysus appears to him with horns: "you seem to guide me, being like a bull, and horns seem to grow on your head. But were you ever a beast? for you look like a bull."[^eur-bac-bull]
 
 In the [Metamorphoses](../sources/metamorphoses.md), his divine manifestation aboard the pirate ship includes an entourage of wild beasts: "Bacchus in the midst of all stood crowned with chaplets of grape-leaves, and shook a lance covered with twisted fronds of leafy vines. Around him crouched the visionary forms of tigers, lynxes, and the mottled shapes of panthers."[^met-dion-beasts]
 
@@ -49,6 +54,11 @@ In the [Metamorphoses](../sources/metamorphoses.md), his divine manifestation ab
 - **Summoning vine and ivy:** Wine, vines, and ivy appear spontaneously at his will — "sweet, fragrant wine ran streaming throughout all the black ship... a vine spread out both ways along the top of the sail."[^hh7-miracles]
 - **Descent to the underworld:** He "brought up his mother [Semele] from Hades and named her Thyone, and ascended up with her to heaven."[^apd-dion-semele-rescue]
 - **Rooting mortals:** In the [Metamorphoses](../sources/metamorphoses.md), he punished the Bacchantes who killed [Orpheus](../heroes/orpheus.md) by rooting them to the ground as oak trees.
+- **Earthquake and fire:** In the [Bacchae](../sources/euripides-bacchae.md), he shakes [Pentheus](../heroes/pentheus.md)'s palace from within prison, kindles flame on Semele's tomb, and creates a phantom of himself that Pentheus stabs at in the air.[^eur-bac-earthquake]
+- **Prophecy:** [Tiresias](../heroes/tiresias.md) says in the Bacchae that "Bacchanal excitement and frenzy have much divination in them. For when the God comes violent into the body, he makes the frantic to foretell the future."[^eur-bac-prophecy]
+- **Bending trees:** On Cithaeron, Dionysus "seizing hold of the extreme lofty branch of a pine, he pulled it down, pulled it, pulled it to the dark earth... doing no mortal's deed" to seat Pentheus upon it.[^eur-bac-pine]
+- **Voice from the sky:** He spoke from the heavens to direct the Maenads: "O youthful women, I bring you him who made you and me and my orgies a laughing-stock: but punish ye him."[^eur-bac-voice]
+- **Empowering worshippers:** The Bacchants on Cithaeron exhibit superhuman powers: tearing bulls apart with bare hands, immunity to spears (while their thyrsi drew blood), carrying fire in their hair unharmed, and summoning springs of water, wine, milk, and honey from the earth.[^eur-bac-miracles]
 
 ## Birth
 
@@ -269,6 +279,68 @@ Dionysus punished the Bacchantes by rooting them to the ground as oak trees. He 
 [^met-dion-orpheus]: "the clamor of the Berecynthian flutes, drums, breast-beatings, and Bacchic howlings, drowned the lyre" (Metamorphoses 11.15-18, trans. Brookes More)
 [^met-dion-midas]: "For his sake Bacchus gave the king the right to choose his own reward—a welcome gift, but ill he used the right" (Metamorphoses 11.100-102, trans. Brookes More)
 
+## In Euripides' Bacchae
+
+The [Bacchae](../sources/euripides-bacchae.md) is the fullest dramatic treatment of Dionysus, who appears as both protagonist and divine agent of destruction.
+
+### Prologue: The God's Purpose
+
+Dionysus arrives at [Thebes](../places/thebes.md) in mortal form to establish his worship — specifically to vindicate his mother Semele, whose sisters denied his divine parentage. He has already driven them mad: "I have now driven them from the house with frenzy, and they dwell on the mountain, insane of mind; and I have compelled them to wear the dress of my mysteries."[^eur-bac-prologue] His stated aim is that "this city must know, even though it be unwilling, that it is not initiated into my Bacchanalian rites, and that I plead the cause of my mother, Semele, in appearing manifest to mortals as a God whom she bore to Jove."[^eur-bac-purpose]
+
+He threatens military action if necessary: "if the city of the Thebans should in anger seek by arms to bring down the Bacchæ from the mountain, I, general of the Mænads, will join battle."[^eur-bac-general]
+
+### Self-Characterization
+
+The play presents Dionysus as fundamentally dual. After luring Pentheus to his death, he declares himself "at once the most terrible, and the mildest of deities."[^eur-bac-dual] He offers peace to those who accept his worship and annihilation to those who refuse.
+
+When imprisoned, he is serene: "thinking to bind me, he neither touched nor handled me, but fed on hope; and finding a bull in the stable... he cast halters round the knees of that." Meanwhile, "I, being near, sitting quietly, looked on."[^eur-bac-calm] He escapes effortlessly: "I delivered myself easily without trouble."[^eur-bac-escape]
+
+### Tiresias's Theology
+
+[Tiresias](../heroes/tiresias.md) articulates Dionysus's place among the gods in a theological speech: "Two things are first among men; Ceres, the goddess... She nourishes mortals with dry food; but he who is come as a match to her, the son of Semele, has invented the liquid drink of the grape, and introduced it among mortals, which delivers miserable mortals from grief."[^eur-bac-two-gods] Wine "gives sleep an oblivion of daily evils: nor is there any other medicine for troubles."[^eur-bac-medicine]
+
+Tiresias further claims Dionysus possesses a prophetic dimension and shares qualities of [Ares](../deities/ares.md): "he also possesses some quality of Mars; for terror flutters sometimes an army under arms and in its ranks, before they touch the spear; and this also is a frenzy from Bacchus."[^eur-bac-ares]
+
+### The Destruction of Pentheus
+
+Dionysus methodically brings about Pentheus's death. He first persuades the king to disguise himself in women's clothes to spy on the Bacchants, driving him half-mad so that he sees double: "I think I see two suns, and twin Thebes."[^eur-bac-two-suns] On Cithaeron, Dionysus performs a superhuman feat, bending a massive pine to the ground to seat Pentheus upon it, then from the sky commands the Maenads to attack. Pentheus's mother Agave, "possessed by Bacchus," leads the dismemberment, tearing off his shoulder despite his plea: "I, indeed, O mother, am thy child, Pentheus, whom you bore in the house of Echion; but pity me, O mother!"[^eur-bac-plea]
+
+### The Judgment
+
+After Agave returns to sanity and recognizes her son's severed head, Dionysus pronounces judgment on [Cadmus](../heroes/cadmus.md) and Harmonia: they will become serpents and lead a barbarian army that will sack Greek cities, including the oracle of [Apollo](../deities/apollo.md), before [Ares](../deities/ares.md) rescues them to the Islands of the Blessed.[^eur-bac-judgment] Cadmus protests that "It is not right for Gods to resemble mortals in anger." Dionysus replies: "My father, Jove, long ago decreed this."[^eur-bac-decree]
+
+### Ritual Elements
+
+The Chorus describes the Bacchic experience: "the plain flows with milk, and flows with wine, and flows with the nectar of bees; and the smoke is as of Syrian frankincense."[^eur-bac-flows] The god's worshippers wear fawnskins girded with serpents, carry ivy-clad thyrsi, and crown their heads with ivy, oak, and blossoming yew. The "raw-eaten delight" (omophagia) of consuming flesh is part of the mountain rites.[^eur-bac-rites]
+
+The Chorus reports that the drums used in Dionysus's worship were originally "the invention of the mother Rhea and myself" — connecting Bacchic worship to the Phrygian cult of the Great Mother and the Corybantes.[^eur-bac-rhea]
+
+[^eur-bac-prologue]: "I have now driven them from the house with frenzy, and they dwell on the mountain, insane of mind; and I have compelled them to wear the dress of my mysteries" (Bacchae 32-34, trans. T.A. Buckley)
+[^eur-bac-purpose]: "this city must know, even though it be unwilling, that it is not initiated into my Bacchanalian rites, and that I plead the cause of my mother, Semele, in appearing manifest to mortals as a God whom she bore to Jove" (Bacchae 39-42, trans. T.A. Buckley)
+[^eur-bac-general]: "if the city of the Thebans should in anger seek by arms to bring down the Bacchæ from the mountain, I, general of the Mænads, will join battle" (Bacchae 50-52, trans. T.A. Buckley)
+[^eur-bac-dual]: "he shall know Bacchus, the son of Jupiter, who is in fact to men at once the most terrible, and the mildest of deities" (Bacchae 860-861, trans. T.A. Buckley)
+[^eur-bac-calm]: "thinking to bind me, he neither touched nor handled me, but fed on hope; and finding a bull in the stable... he cast halters round the knees of that... But I, being near, sitting quietly, looked on" (Bacchae 616-622, trans. T.A. Buckley)
+[^eur-bac-escape]: "I delivered myself easily without trouble" (Bacchae 614, trans. T.A. Buckley)
+[^eur-bac-two-gods]: "Two things are first among men; Ceres, the goddess... She nourishes mortals with dry food; but he who is come as a match to her, the son of Semele, has invented the liquid drink of the grape, and introduced it among mortals, which delivers miserable mortals from grief" (Bacchae 274-280, trans. T.A. Buckley)
+[^eur-bac-medicine]: "gives sleep an oblivion of daily evils: nor is there any other medicine for troubles" (Bacchae 281-283, trans. T.A. Buckley)
+[^eur-bac-ares]: "he also possesses some quality of Mars; for terror flutters sometimes an army under arms and in its ranks, before they touch the spear; and this also is a frenzy from Bacchus" (Bacchae 302-305, trans. T.A. Buckley)
+[^eur-bac-two-suns]: "I think I see two suns, and twin Thebes, and seven-gated city; and you seem to guide me, being like a bull, and horns seem to grow on your head" (Bacchae 918-921, trans. T.A. Buckley)
+[^eur-bac-plea]: "I, indeed, O mother, am thy child, Pentheus, whom you bore in the house of Echion; but pity me, O mother! and do not slay me, thy child, for my sins" (Bacchae 1118-1121, trans. T.A. Buckley)
+[^eur-bac-judgment]: "you shall become a dragon, and your wife becoming a beast, shall receive in exchange the form of a serpent, Harmonia, the daughter of Mars... And as the oracle of Jove says, you shall drive with your wife a chariot of heifers, ruling over barbarians" (Bacchae 1330-1339, trans. T.A. Buckley)
+[^eur-bac-decree]: "It is not right for Gods to resemble mortals in anger" / "My father, Jove, long ago decreed this" (Bacchae 1348-1349, trans. T.A. Buckley)
+[^eur-bac-flows]: "the plain flows with milk, and flows with wine, and flows with the nectar of bees; and the smoke is as of Syrian frankincense" (Bacchae 142-144, trans. T.A. Buckley)
+[^eur-bac-rites]: "a sacred garment of deer-skin, seeking a sacrifice of goats, a raw-eaten delight, on his way to the Phrygian, the Lydian mountains" (Bacchae 136-139, trans. T.A. Buckley)
+[^eur-bac-rhea]: "take your drums, your native instruments in the Phrygian cities, the invention of the mother Rhea and myself" (Bacchae 58-59, trans. T.A. Buckley)
+[^eur-bac-bromius]: "escorting Bromius, a God, the son of a God, from the Phrygian mountains to the broad streets of Greece" (Bacchae 83-86, trans. T.A. Buckley)
+[^eur-bac-dithyramb]: "Go, O Dithyrambus, enter this my male womb, I will make you illustrious, O Bacchus, in Thebes, so that they shall call you by this name" (Bacchae 526-529, trans. T.A. Buckley)
+[^eur-bac-appearance]: "your hair is long, not through wrestling, scattered over your cheeks, full of desire, and you have a white skin from careful preparation; hunting after Venus by your beauty not exposed to strokes of the sun, but kept beneath the shade" (Bacchae 455-459, trans. T.A. Buckley)
+[^eur-bac-bull]: "you seem to guide me, being like a bull, and horns seem to grow on your head. But were you ever a beast? for you look like a bull" (Bacchae 920-922, trans. T.A. Buckley)
+[^eur-bac-earthquake]: "Bacchus coming, shook the house, and kindled flame on the tomb of his mother... Bacchus afflicts him with these other things; and threw down his house to the ground, and every thing was shivered in pieces" (Bacchae 623-632, trans. T.A. Buckley)
+[^eur-bac-prophecy]: "Bacchanal excitement and frenzy have much divination in them. For when the God comes violent into the body, he makes the frantic to foretell the future" (Bacchae 298-301, trans. T.A. Buckley)
+[^eur-bac-pine]: "seizing hold of the extreme lofty branch of a pine, he pulled it down, pulled it, pulled it to the dark earth... doing no mortal's deed" (Bacchae 1063-1068, trans. T.A. Buckley)
+[^eur-bac-voice]: "there was a certain voice from the sky... O youthful women, I bring you him who made you and me and my orgies a laughing-stock: but punish ye him" (Bacchae 1078-1081, trans. T.A. Buckley)
+[^eur-bac-miracles]: "one having taken a thyrsus, struck it against a rock, whence a dewy stream of water springs out; another placed her wand on the ground, and then the God sent up a spring of wine. And as many as had craving for the white drink, scratching the earth with the tips of their fingers, obtained abundance of milk; and from the ivy thyrsus sweet streams of honey dropped" (Bacchae 704-711, trans. T.A. Buckley)
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.253-315: Birth from Semele; Hera's trick; Zeus's thunderbolt; rescued from his mother's womb; twice-born
@@ -301,6 +373,7 @@ Dionysus punished the Bacchantes by rooting them to the ground as oak trees. He 
 - **[Fabulae](../sources/hyginus.md)** §134: Tyrrhenian pirates took him aboard to Naxos; wished to debauch him; pilot Acoetes restrained them; changed oars to thyrsi, sails to vine-leaves, ropes to ivy; lions and panthers appeared; pirates cast themselves into sea; changed to dolphins; sea called Tyrrhenian; saved Acoetes
 - **[Fabulae](../sources/hyginus.md)** §167: Son of Jove and Proserpine (variant); dismembered by Titans; heart given to Semele in drink; Juno disguised as nurse Beroe; suggested she ask Jove to come as to Juno; smitten by thunderbolt; Jove took Liber from womb; gave to Nysus; called "the one with two mothers"
 - **[Fabulae](../sources/hyginus.md)** §179: Jove desired Semele; Juno disguised as Beroe; suggested she ask Jove to come with lightning and thunder; Semele burned to death; Mercury snatched Liber from fire; gave to Nysus to be reared
+- **[Bacchae](../sources/euripides-bacchae.md)**: Protagonist — arrives at Thebes in mortal form to establish his worship; drives Semele's sisters mad; imprisioned by Pentheus but escapes; shakes palace with earthquake; persuades Pentheus to dress as woman; bends pine tree with superhuman strength; commands Maenads from the sky; Pentheus torn apart by mother Agave; decrees Cadmus and Harmonia will become serpents; "at once the most terrible, and the mildest of deities"
 
 [^apd-vine]: "Reigning over Calydon, Oeneus was the first who received a vine-plant from Dionysus" (Bibliotheca 1.8.1, trans. Frazer)
 [^apd-deianira]: "Deianira, who is said to have been begotten on Althaea by Dionysus" (Bibliotheca 1.8.1, trans. Frazer)

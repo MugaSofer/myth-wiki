@@ -140,6 +140,23 @@ Immediately "he saw and felt himself increase in length. His body coiled into a 
 [^met-cad-transform]: "he saw and felt himself increase in length. His body coiled into a serpent's form; bright scales enveloped his indurate skin, and azure macules in speckled pride, enriched his glowing folds... Come hither my unhappy wife, while aught is left of manhood; touch me, take my hand, unchanged as yet" (Metamorphoses 4.576-597)
 [^met-cad-gentle]: "these gentle serpents never shun mankind, nor wound, nor strike with poisoned fangs; for they are always conscious of the past" (Metamorphoses 4.601-603)
 
+## In Euripides' Bacchae
+
+In the [Bacchae](../sources/euripides-bacchae.md), Cadmus appears as an old man who has surrendered the kingship to his grandson [Pentheus](pentheus.md). He willingly accepts [Dionysus](../deities/dionysus.md)'s worship, dressing in fawnskin and ivy alongside [Tiresias](tiresias.md): "we needs must extol him, who is the son sprung from my daughter, Bacchus, who has appeared as a God to men, as much as is in our power."[^eur-bac-extol] He and Tiresias prepare to dance despite their age — "Gladly we forget that we are old."[^eur-bac-old]
+
+Cadmus pragmatically urges Pentheus to accept the god, even suggesting a pious lie: "although this may not be a God, as you say, let it be said by you that he is; and tell a glorious falsehood, that Semele may seem to have borne a God."[^eur-bac-pragmatic] He warns Pentheus of Actaeon's fate as a parallel.
+
+After Pentheus's death, Cadmus gathers his grandson's scattered remains from Cithaeron: "whose body here, laboring with immeasurable search, I bear, having found it in the defiles of Cithæron, torn to pieces, and finding nothing in the same place."[^eur-bac-gather] He gently brings Agave to recognize the head she carries as her son's.
+
+Dionysus then pronounces a harsh fate on Cadmus: "you shall become a dragon, and your wife becoming a beast, shall receive in exchange the form of a serpent, Harmonia, the daughter of Mars." He will drive a chariot of heifers and lead a barbarian army that sacks many cities, including [Apollo](../deities/apollo.md)'s oracle, before [Ares](../deities/ares.md) rescues him and Harmonia to the Islands of the Blessed.[^eur-bac-fate] Cadmus protests: "It is not right for Gods to resemble mortals in anger." Dionysus replies: "My father, Jove, long ago decreed this."[^eur-bac-anger]
+
+[^eur-bac-extol]: "we needs must extol him, who is the son sprung from my daughter, Bacchus, who has appeared as a God to men, as much as is in our power" (Bacchae 181-183, trans. T.A. Buckley)
+[^eur-bac-old]: "Gladly we forget that we are old" (Bacchae 188, trans. T.A. Buckley)
+[^eur-bac-pragmatic]: "although this may not be a God, as you say, let it be said by you that he is; and tell a glorious falsehood, that Semele may seem to have borne a God, and that honor may redound to all our race" (Bacchae 333-336, trans. T.A. Buckley)
+[^eur-bac-gather]: "whose body here, laboring with immeasurable search, I bear, having found it in the defiles of Cithæron, torn to pieces, and finding nothing in the same place, lying in a thicket, difficult to be searched" (Bacchae 1216-1221, trans. T.A. Buckley)
+[^eur-bac-fate]: "you shall become a dragon, and your wife becoming a beast, shall receive in exchange the form of a serpent, Harmonia, the daughter of Mars... And as the oracle of Jove says, you shall drive with your wife a chariot of heifers, ruling over barbarians" (Bacchae 1330-1339, trans. T.A. Buckley)
+[^eur-bac-anger]: "It is not right for Gods to resemble mortals in anger" / "My father, Jove, long ago decreed this" (Bacchae 1348-1349, trans. T.A. Buckley)
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** 3.1176-1179: Dragon's teeth origin — the fell teeth of the Aonian dragon that Cadmus slew at the spring of Ares; Athena split the teeth between Cadmus and Aeetes
@@ -149,3 +166,4 @@ Immediately "he saw and felt himself increase in length. His body coiled into a 
 - **[Metamorphoses](../sources/metamorphoses.md)** 4.563-603: In Illyria, Cadmus wishes to become a serpent; transforms — "bright scales... azure macules"; calls to Harmonia; Harmonia transformed too; "gentle serpents... always conscious of the past"
 - **[Fabulae](../sources/hyginus.md)** §6: Turned to snakes in Illyria by Mars' wrath for slaying dragon of Castalia; after children killed
 - **[Fabulae](../sources/hyginus.md)** §178: Europa abducted; Agenor sends sons; Phoenix to Africa (Phoenicians), Cilix to Cilicia; oracle tells Cadmus to follow ox with moon-mark; dragon at Castalia killed with stone; sowed teeth under Minerva's instruction; five Sparti survive; Boeotia named from ox
+- **[Bacchae](../sources/euripides-bacchae.md)**: Old Cadmus accepts Dionysus's worship; dresses in fawnskin with Tiresias; urges Pentheus to accept the god; gathers Pentheus's scattered body from Cithaeron; brings Agave to recognize her son's head; Dionysus decrees he and Harmonia will become serpents and lead a barbarian army

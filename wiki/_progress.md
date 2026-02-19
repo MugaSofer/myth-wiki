@@ -924,11 +924,26 @@ Created dedicated pages for major entities across all previously processed sourc
 
 **Wiki size:** ~223 pages.
 
+### Euripides, Bacchae — COMPLETE
+
+**Source page created:** euripides-bacchae.md
+**Source file:** sources/euripides-buckley-vol1.txt (lines 10929-12218)
+
+**Pages created (1):**
+- pentheus.md (new hero page — king of Thebes, defiance and death)
+
+**Pages updated (3):**
+- dionysus.md ("In Euripides' Bacchae" — prologue, self-characterization, Tiresias's theology, destruction of Pentheus, judgment on Cadmus, ritual elements; new epithets Bromius/Evius/Dithyrambus; new powers; new appearance details)
+- cadmus.md ("In Euripides' Bacchae" — accepts worship, urges Pentheus to accept, gathers body, serpent prophecy)
+- tiresias.md ("In Euripides' Bacchae" — theological defense of Dionysus, warns Pentheus)
+
+**Wiki size:** ~224 pages.
+
 ## Next
 
 ### Remaining Sources (in priority order)
 
-1. **More Euripides** — remaining plays in Vol. I (Hecuba, Orestes, Phoenissae, Hippolytus, Alcestis, Bacchae, Heraclidae)
+1. **More Euripides** — remaining plays in Vol. I (Hecuba, Orestes, Phoenissae, Heraclidae)
 2. **More Greek tragedies** — Sophocles, Aeschylus (rich character material, many plays on Gutenberg)
 3. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
 
