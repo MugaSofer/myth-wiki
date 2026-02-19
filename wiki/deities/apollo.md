@@ -332,6 +332,7 @@ Apollo punished the raven for bearing the news: "Disgrace reversed the raven's h
 - **[Metamorphoses](../sources/metamorphoses.md)** 5.329: Fled Typhoeus to Egypt; took the form of a crow
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.146-193: Defeats Pan in musical contest; gives Midas ass ears
 - **[Metamorphoses](../sources/metamorphoses.md)** 14.101-163: The [Sibyl of Cumae](../heroes/sibyl.md) — offered her eternal life for her virginity; she asked for years equal to grains of sand but forgot youth; refused him; will dwindle to nothing but a voice
+- **[Metamorphoses](../sources/metamorphoses.md)** 15.622-634: Delphi oracle directs plague-stricken Romans to his son [Asclepius](asclepius.md) — "you do not need Apollo to relieve your wasting plague, you need Apollo's son"
 - **[Theogony](../sources/theogony.md)** 14, 94-95, 918-920: Invocation; patron of singers; birth
 - **Catalogue of Women** Fragment 89: Crow brings news of Coronis's infidelity to "unshorn Phoebus" at Pytho
 - **Catalogue of Women** Fragment 90: [Zeus](zeus.md) smites Asclepius "with a lurid thunderbolt," arousing Apollo's anger
