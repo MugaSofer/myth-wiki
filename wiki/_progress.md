@@ -912,6 +912,18 @@ Created dedicated pages for major entities across all previously processed sourc
 
 **Wiki size:** ~222 pages.
 
+### Euripides, Alcestis — COMPLETE
+
+**Source page created:** euripides-alcestis.md
+**Source file:** sources/euripides-buckley-vol1.txt (lines 9405-10694)
+
+**Pages updated (3):**
+- apollo.md ("In Euripides' Alcestis" — servitude after killing Cyclopes, deluding the Fates, confrontation with Death, prophecy of Heracles, Chorus on Apollo as shepherd with charmed beasts)
+- heracles.md ("In Euripides' Alcestis" — en route to Diomedes' horses, fearless, hosted in mourning, ambushes and wrestles Death at the tomb, returns Alcestis)
+- asclepius.md ("In Euripides' Alcestis" — his death by thunderbolt is the play's premise, Chorus recalls his power to raise the dead)
+
+**Wiki size:** ~223 pages.
+
 ## Next
 
 ### Remaining Sources (in priority order)

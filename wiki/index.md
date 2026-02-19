@@ -29,6 +29,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 - [Argonautica](sources/argonautica.md) - Apollonius Rhodius (c. 3rd century BCE)
 - [Medea](sources/euripides-medea.md) - Euripides (431 BCE)
 - [Hippolytus](sources/euripides-hippolytus.md) - Euripides (428 BCE)
+- [Alcestis](sources/euripides-alcestis.md) - Euripides (438 BCE)
 
 ## Progress
 

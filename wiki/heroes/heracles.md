@@ -629,8 +629,27 @@ Pindar lists the first Olympic victors: "In the foot-race down the straight cour
 [^pin-altis]: "the mighty son of Zeus having gathered together all his host at Pisa, and all the booty, measured a sacred grove for his sovereign Father; and having fenced round the Altis he marked the bounds thereof in a clear space... and paid honour to the river Alpheos together with the twelve greatest gods. And he named it by the name of the Hill of Kronos; for theretofore it was without name, when Oinomaos was king" (Pindar, Olympian XI)
 [^pin-first-games]: "In the foot-race down the straight course of the stadion was Likymnios' son Oionos first... in the wrestling was Tegea glorified by Echemos: Doryklos won the prize of boxing, a dweller in the city of Tiryns, and with the four-horse chariot, Samos of Mantinea" (Pindar, Olympian XI)
 
+## In Euripides' [Alcestis](../sources/euripides-alcestis.md)
+
+### Wrestling Death
+
+Heracles arrives at Admetus's palace while on his way to capture the man-eating horses of Diomedes the Thracian, a labour for Eurystheus. He is characteristically fearless: "none there is, who shall ever see the son of Alcmena fearing the hand of his enemies."[^eur-alc-fearless] He mentions previous battles with sons of [Ares](../deities/ares.md): "if I must join in battle with the children whom Mars begat, first indeed with Lycaon, and again with Cycnus, and I come to this third combat."[^eur-alc-mars]
+
+Admetus conceals his wife's death and insists on hosting Heracles, who feasts and drinks heavily, unaware of the mourning. When a servant finally reveals the truth, Heracles is immediately moved to action: "I must rescue the woman lately dead, Alcestis, and place her again in this house, and perform this service for Admetus."[^eur-alc-resolve]
+
+He describes his plan to ambush Death at the tomb: "going I will lay wait for the sable-vested king of the departed, Death, and I think that I shall find him drinking of the libations near the tomb. And if having taken him by lying in wait, rushing from my ambush, I shall seize hold of him, and make a circle around him with mine arms, there is not who shall take him away panting as to his sides, until he release me the woman."[^eur-alc-ambush]
+
+Heracles succeeds and returns with the veiled Alcestis. He tells Admetus: "Having fought a battle with the prince of those beneath... At the tomb itself, having seized him from ambush with my hands."[^eur-alc-victory]
+
+[^eur-alc-fearless]: "none there is, who shall ever see the son of Alcmena fearing the hand of his enemies" (Alcestis 510-511, trans. T.A. Buckley)
+[^eur-alc-mars]: "if I must join in battle with the children whom Mars begat, first indeed with Lycaon, and again with Cycnus, and I come to this third combat, about to engage with the horses and their master" (Alcestis 500-504)
+[^eur-alc-resolve]: "I must rescue the woman lately dead, Alcestis, and place her again in this house, and perform this service for Admetus" (Alcestis 843-845)
+[^eur-alc-ambush]: "going I will lay wait for the sable-vested king of the departed, Death, and I think that I shall find him drinking of the libations near the tomb. And if having taken him by lying in wait, rushing from my ambush, I shall seize hold of him, and make a circle around him with mine arms, there is not who shall take him away panting as to his sides, until he release me the woman" (Alcestis 845-852)
+[^eur-alc-victory]: "Having fought a battle with the prince of those beneath... At the tomb itself, having seized him from ambush with my hands" (Alcestis 1140-1142)
+
 ## Appearances
 
+- **[Euripides' Alcestis](../sources/euripides-alcestis.md)** 476-567, 747-860, 1006-1163: En route to capture Diomedes' horses; "son of Alcmena"; fearless against Mars's children (Lycaon, Cycnus); hosted by Admetus in mourning; learns truth from servant; ambushes Death at the tomb; wrestles him and forces release of Alcestis; "Having fought a battle with the prince of those beneath"
 - **[Metamorphoses](../sources/metamorphoses.md)** 9.1-272: Wrestles Achelous; origin of Cornucopia; Nessus's poisoned tunic; agonizing death; lists his labours; builds pyre on Oeta; apotheosis among the stars
 - **[Homeric Hymn XV](../sources/homeric-hymns.md)**: "Son of Zeus and much the mightiest of men on earth"; born in Thebes of Alcmena; "wandered over unmeasured tracts of land and sea at the bidding of King Eurystheus"; now on Olympus with "neat-ankled Hebe for his wife"
 - **[Theogony](../sources/theogony.md)** 289-292, 316-318, 332, 526-532, 943-944, 950-955: Slaying monsters; freeing Prometheus; birth; marriage to Hebe and apotheosis

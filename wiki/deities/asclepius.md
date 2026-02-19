@@ -119,12 +119,22 @@ In Nemean III, Chiron's rearing of Asclepius is mentioned alongside that of Jaso
 [^pin-death]: "Yet hath even wisdom been led captive of desire of gain. Even him did gold in his hands glittering beguile for a great reward to bring back from death a man already prisoner thereto: wherefore the hands of the son of Kronos smote the twain of them through the midst, and bereft their breasts of breath, and the bright lightning dealt them doom" (Pindar, Pythian III, trans. Ernest Myers)
 [^pin-nem3]: "within his cavern of stone did deep-counselled Cheiron rear Jason, and next Asklepios, whom he taught to apportion healing drugs with gentle hand" (Pindar, Nemean III, trans. Ernest Myers)
 
+## In Euripides' [Alcestis](../sources/euripides-alcestis.md)
+
+Asclepius is not a character in the *Alcestis* but is the cause of the play's entire premise. [Apollo](apollo.md) opens the play explaining that [Zeus](zeus.md) killed his son "Æsculapius, hurling the lightning against his breast," and that Apollo killed the Cyclopes in revenge, which led to his servitude in Admetus's house.[^eur-alc-asclepius]
+
+The Chorus later recalls Asclepius's power: "only if the son of Phoebus were viewing with his eyes this light, could she come, having left the darksome habitations and the gates of Pluto: for he raised up the dead, before that the stroke of the lightning's fire hurled by Jove destroyed him."[^eur-alc-chorus]
+
+[^eur-alc-asclepius]: "Jove was the cause, by slaying my son Æsculapius, hurling the lightning against his breast: whereat enraged, I slay the Cyclops, forgers of Jove's fire" (Alcestis 3-5, trans. T.A. Buckley)
+[^eur-alc-chorus]: "only if the son of Phoebus were viewing with his eyes this light, could she come, having left the darksome habitations and the gates of Pluto: for he raised up the dead, before that the stroke of the lightning's fire hurled by Jove destroyed him" (Alcestis 122-129)
+
 ## Variant Traditions
 
 The sources differ on whom Asclepius raised from the dead. The Bibliotheca gives a long list including Capaneus, Lycurgus, Hippolytus, Tyndareus, Hymenaeus, and Glaucus. The Fabulae gives only two candidates — "either Glaucus, son of Minos, or Hippolytus" — expressing uncertainty between them.
 
 ## Appearances
 
+- **[Euripides' Alcestis](../sources/euripides-alcestis.md)** 3-5, 122-129: Apollo's son killed by Zeus's thunderbolt — the cause of Apollo's servitude; Chorus recalls "he raised up the dead" and wishes he lived to save Alcestis
 - **[Iliad](../sources/iliad.md)** II, IV, XI, XIV: Father of Machaon and Podaleirios, "the cunning leeches"; called "the noble leech" and "the good leech"
 - **Catalogue of Women** Fragment 90: Zeus smites him with a thunderbolt for raising the dead, arousing Apollo's anger
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.633-654: Infant rescued from Coronis's pyre; raised by [Chiron](../creatures/chiron.md); Ocyroe prophesies he will heal the world, raise the dead, be destroyed by Zeus's bolt, and become a god
