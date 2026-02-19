@@ -115,25 +115,25 @@ This is the first explicit reference to the Cerberus labour in any source proces
 
 ### The Erymanthian Boar and Departure
 
-Heracles arrived at the muster of Argonauts "carrying on his shoulders the Erymanthian boar"[^arg-herc-boar] — still in the midst of his Labours. In a rowing contest on the Propontis, Heracles snapped his oar from sheer strength and had to go ashore to cut a new one.
+Heracles arrived at the muster of Argonauts still carrying the Erymanthian boar[^arg-herc-boar] — still in the midst of his Labours. In a rowing contest on the Propontis, Heracles snapped his oar from sheer strength and had to go ashore to cut a new one.
 
 ### Loss of Hylas
 
 While searching for a suitable tree, his companion Hylas went to fetch water and was seized by a water nymph who fell in love with his beauty and pulled him beneath the surface. Heracles searched frantically through the forest, calling out for him. When dawn came the Argo sailed without him — the heroes were divided over whether they should wait or continue.[^arg-herc-hylas]
 
-The sea-god Glaucus appeared and explained Heracles' fate: he could not complete the voyage because his destiny was "to complete the tasks imposed by Eurystheus and to dwell with the immortals."[^arg-herc-fate] The heroes lamented his absence at several points during the subsequent voyage.
+The sea-god Glaucus appeared and explained Heracles' fate: "At Argos it is his fate to labour for insolent Eurystheus and to accomplish full twelve toils and dwell with the immortals."[^arg-herc-fate] The heroes lamented his absence at several points during the subsequent voyage.
 
 ### Remembered Deeds Along the Route
 
 Near Lycus's kingdom, Polydeuces was welcomed because Heracles had once visited Lycus's father Dascylus — he had defeated Titias the boxer, subdued the Mysians, Phrygians, and Bithynians, and won the girdle of [Hippolyte](../heroes/hippolyte.md).[^arg-herc-deeds]
 
-In Libya, Lynceus thought he glimpsed Heracles far off in the distance.[^arg-herc-libya] The heroes later found that Heracles had been in the garden of the Hesperides the previous day, where he had slain the serpent Ladon that guarded the apples and struck a rock with his foot to create a spring of water.[^arg-herc-hesperides]
+In Libya, Lynceus thought he glimpsed Heracles far off in the distance, "as a man at the month's beginning sees, or thinks he sees, the moon through a bank of cloud."[^arg-herc-libya] The heroes later found that Heracles had been in the garden of the Hesperides the previous day, where he had slain the serpent Ladon that guarded the apples and struck a rock with his foot to create a spring of water.[^arg-herc-hesperides]
 
-[^arg-herc-boar]: "Heracles, bearing on his back the Erymanthian boar bound in chains" (Argonautica 1.122-124, trans. R.C. Seaton)
+[^arg-herc-boar]: "the boar bound with chains he put down from his huge shoulders at the entrance to the market-place of Mycenae" (Argonautica 1.122-124, trans. R.C. Seaton)
 [^arg-herc-hylas]: Hylas went to draw water and a nymph, seizing him by the wrist as she gazed on his beauty, drew him down beneath the pool; Heracles searched in vain and was left behind when the Argo sailed at dawn (Argonautica 1.1207-1272, trans. R.C. Seaton)
-[^arg-herc-fate]: Glaucus: "For it is not the will of Zeus that Heracles should reach the land of Aeetes; his fate is to complete the tasks imposed by Eurystheus and to dwell with the immortals" (Argonautica 1.1315-1318, trans. R.C. Seaton)
+[^arg-herc-fate]: Glaucus: "Why against the counsel of mighty Zeus do ye purpose to lead bold Heracles to the city of Aeetes? At Argos it is his fate to labour for insolent Eurystheus and to accomplish full twelve toils and dwell with the immortals" (Argonautica 1.1315-1318, trans. R.C. Seaton)
 [^arg-herc-deeds]: Heracles had visited Dascylus, defeated Titias in boxing, subdued the Mysians, Phrygians, and Bithynians, and won the girdle of Hippolyte (Argonautica 2.774-795, trans. R.C. Seaton)
-[^arg-herc-libya]: Lynceus thought he glimpsed Heracles far off in Libya, "as one who sees, or seems to see, the moon through a cloud" (Argonautica 4.1477-1479, trans. R.C. Seaton)
+[^arg-herc-libya]: Lynceus thought he glimpsed Heracles far off in Libya, "as a man at the month's beginning sees, or thinks he sees, the moon through a bank of cloud" (Argonautica 4.1477-1479, trans. R.C. Seaton)
 [^arg-herc-hesperides]: Heracles had slain the serpent Ladon guarding the apples in the garden of the Hesperides the day before; he had struck a rock with his foot to create a spring (Argonautica 4.1396-1432, trans. R.C. Seaton)
 
 ## In the Bibliotheca (1.6.1-1.6.2)

@@ -60,20 +60,20 @@ He was eventually freed by [Heracles](../heroes/heracles.md), "the valiant son o
 
 ### Bound on Caucasus
 
-As the Argo passed the Caucasus, the heroes could hear the screams of Prometheus and see the eagle flying overhead on its way to feed on him. He was described as "bound on the Caucasus by cruel bronze fetters."[^arg-prom-bound] "The son of Iapetus himself groaned, his soul distraught with pain" when [Medea](../heroes/medea.md) later cut a root used in the charm of Prometheus.[^arg-prom-root]
+As the Argo passed the Caucasus, the heroes could hear the screams of Prometheus and see the eagle flying overhead on its way to feed on him. He was described as having his "limbs bound upon the hard rocks by galling fetters of bronze."[^arg-prom-bound] "The son of Iapetus himself groaned, his soul distraught with pain" when [Medea](../heroes/medea.md) later cut a root used in the charm of Prometheus.[^arg-prom-root]
 
 ### The Charm of Prometheus
 
-The drug Medea prepared to protect Jason — the "charm of Prometheus" — was a plant that had sprung from the earth where the eagle's droppings fell when it fed on Prometheus's liver. The root bled a dark juice "like the Caucasian rock."[^arg-prom-charm]
+The drug Medea prepared to protect Jason — the "charm of Prometheus" — was a plant that had sprung where "the blood-like ichor of tortured Prometheus" dripped from the eagle onto the flanks of the Caucasus. "The root was like newly-cut flesh" and yielded a "dark juice... like the sap of a mountain-oak."[^arg-prom-charm]
 
 ### Deucalion as Prometheus's Son
 
-Jason told Medea that Prometheus's son Deucalion "first founded cities and built temples to the immortal gods" in Haemonia (the old name for Thessaly), and that Jason himself came from there.[^arg-prom-deucalion]
+Jason told Medea that Prometheus's son Deucalion "first founded cities and reared temples to the immortal gods, and first ruled over men" in Haemonia (the old name for Thessaly), and that Jason himself came from there.[^arg-prom-deucalion]
 
-[^arg-prom-bound]: "bound there on the Caucasus by cruel bronze fetters" (Argonautica 2.1247-1249, trans. R.C. Seaton)
+[^arg-prom-bound]: "limbs bound upon the hard rocks by galling fetters of bronze" (Argonautica 2.1247-1249, trans. R.C. Seaton)
 [^arg-prom-root]: "The son of Iapetus himself groaned, his soul distraught with pain" when Medea cut the root of the charm (Argonautica 3.845-847, trans. R.C. Seaton)
-[^arg-prom-charm]: The charm of Prometheus — a plant sprung from the ichor where the eagle fed on his liver; "like Caucasian rock it bled dark juice" (Argonautica 3.844-856, trans. R.C. Seaton)
-[^arg-prom-deucalion]: "Deucalion, son of Prometheus... first founded cities and built temples to the immortal gods in Haemonian land" (Argonautica 3.1085-1089, trans. R.C. Seaton)
+[^arg-prom-charm]: The charm of Prometheus — a plant sprung from "the blood-like ichor of tortured Prometheus" where the eagle let it drip on the flanks of Caucasus; "the root was like newly-cut flesh" and yielded a "dark juice... like the sap of a mountain-oak" (Argonautica 3.844-856, trans. R.C. Seaton)
+[^arg-prom-deucalion]: "Prometheus, son of Iapetus, begat goodly Deucalion, who first founded cities and reared temples to the immortal gods, and first ruled over men" in Haemonia (Argonautica 3.1085-1089, trans. R.C. Seaton)
 
 ## In Works and Days
 

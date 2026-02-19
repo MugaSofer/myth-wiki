@@ -370,10 +370,10 @@ Hera recounts to Thetis, through Iris, the divine history behind the marriage: Z
 
 The Argonautica also mentions that Zeus gave the bronze giant **Talos** — who guarded Crete by running around the island three times daily and burning or crushing intruders — to Europa as her guardian.[^arg-zeus-talos] And Apollonius records that Sinope tricked Zeus himself: he promised her anything she wished, and she asked for virginity, which he was compelled to grant.[^arg-zeus-sinope]
 
-[^arg-zeus-apsyrtus]: "it was the will of Zeus that these things should be so, that they should reach Aeaean Circe and be purified from the murder" (Argonautica 4.557-561, trans. R.C. Seaton)
-[^arg-zeus-thetis]: "Zeus was wroth with Themis who had revealed these things... and gave Thetis to a mortal husband; and Hera herself, who had brought about the marriage, raised the bridal torch" (Argonautica 4.800-804, trans. R.C. Seaton)
-[^arg-zeus-talos]: "Zeus gave him to Europa to be the guardian of Crete... he ran round the island thrice every day with his bronze feet" (Argonautica 4.1641-1645, trans. R.C. Seaton)
-[^arg-zeus-sinope]: "she outwitted Zeus himself, for when in desire for her love he promised to give her whatever she craved, she asked of him virginity" (Argonautica 2.946-951, trans. R.C. Seaton)
+[^arg-zeus-apsyrtus]: "deadly fear seized them as they heard the voice that told of the grievous wrath of Zeus. For it proclaimed that they should not escape the paths of an endless sea nor grievous tempests, unless Circe should purge away the guilt of the ruthless murder of Apsyrtus" (Argonautica 4.557-561, trans. R.C. Seaton)
+[^arg-zeus-thetis]: "he ceased not from spying thee against thy will, until reverend Themis declared to him the whole truth, how that it was thy fate to bear a son mightier than his sire; wherefore he gave thee up... And with my own hand I raised the bridal torch, in return for the kindly honour thou didst pay me" (Argonautica 4.800-804, trans. R.C. Seaton)
+[^arg-zeus-talos]: "the son of Cronos gave him to Europa to be the warder of Crete and to stride round the island thrice a day with his feet of bronze" (Argonautica 4.1641-1645, trans. R.C. Seaton)
+[^arg-zeus-sinope]: "Zeus himself gave a home to Sinope, daughter of Asopus, and granted her virginity, beguiled by his own promises. For he longed for her love, and he promised to grant her whatever her hearts desire might be. And she in her craftiness asked of him virginity" (Argonautica 2.946-951, trans. R.C. Seaton)
 
 ## In the Bibliotheca (1.6.1-1.6.3)
 

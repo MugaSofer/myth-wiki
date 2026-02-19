@@ -31,11 +31,11 @@ The Argonautica gives the fullest account of the Argonauts' stop at Lemnos. The 
 
 When the Argo arrived, the women initially armed and came to the shore in fear. Hypsipyle welcomed the Argonauts and they stayed, consorting with the women. Jason and Hypsipyle became lovers, and she bade him a formal farewell when the heroes finally departed — urged to leave by [Heracles](../heroes/heracles.md), who had reproached them for lingering.[^arg-lemn-herc]
 
-Hypsipyle gave Jason a purple cloak woven by the Graces as a memorial of their time together.[^arg-lemn-cloak]
+Hypsipyle gave Jason a dark robe as a memorial of their time together.[^arg-lemn-cloak]
 
 [^arg-lemn-women]: The women killed all the men of Lemnos because Aphrodite afflicted them for dishonouring her; Hypsipyle spared her father Thoas by hiding him (Argonautica 1.609-639, trans. R.C. Seaton)
 [^arg-lemn-herc]: Heracles reproached the heroes for lingering at Lemnos and urged them to depart (Argonautica 1.861-874, trans. R.C. Seaton)
-[^arg-lemn-cloak]: "She gave him a great purple cloak to bear away, a memorial of many meetings with fond love" (Argonautica 1.992-994, trans. R.C. Seaton)
+[^arg-lemn-cloak]: Hypsipyle gave Jason "a dark robe... a memorial of many a loving embrace" (Argonautica 3.843-844, trans. R.C. Seaton)
 
 ## In the Apollodorus
 
@@ -66,7 +66,7 @@ In the [Odyssey](../sources/odyssey.md), Lemnos is mentioned in the tale of [Are
 
 ## Appearances
 
-- **[Argonautica](../sources/argonautica.md)** 1.609-994: Women slaughtered men for dishonoring Aphrodite; Thracian captive-women brought as replacements; Hypsipyle spared Thoas; Argonauts welcomed and linger; Heracles rebukes them to depart; Hypsipyle's farewell to Jason; purple cloak given as memorial
+- **[Argonautica](../sources/argonautica.md)** 1.609-994: Women slaughtered men for dishonoring Aphrodite; Thracian captive-women brought as replacements; Hypsipyle spared Thoas; Argonauts welcomed and linger; Heracles rebukes them to depart; Hypsipyle's farewell to Jason; dark robe given as memorial
 - **[Iliad](../sources/iliad.md)** I: Hephaestus recalls his fall from heaven onto Lemnos; the Sintians tended him
 - **[Iliad](../sources/iliad.md)** VII: Ships from Lemnos bring wine to the Achaean camp
 - **[Iliad](../sources/iliad.md)** XIV: Hera meets Sleep on Lemnos; they depart together to Ida

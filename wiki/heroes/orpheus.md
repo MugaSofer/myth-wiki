@@ -15,15 +15,15 @@
 
 ### Cosmogony at the Start of the Voyage
 
-Orpheus was among the Argonauts and opened the voyage with a song to settle a quarrel: "he sang how the earth, the heaven, and the sea, once mingled together in one form, after deadly strife were separated each from the other."[^arg-orph-cosmo] He sang of Ophion and Eurynome ruling Olympus before they yielded to Cronos and Rhea.[^arg-orph-ophion]
+Orpheus was among the Argonauts and opened the voyage with a song to settle a quarrel: "He sang how the earth, the heaven and the sea, once mingled together in one form, after deadly strife were separated each from other."[^arg-orph-cosmo] He sang of Ophion and Eurynome ruling Olympus before they yielded to Cronos and Rhea.[^arg-orph-ophion]
 
 ### Song of Apollo
 
-At Thrace, he sang how [Apollo](../deities/apollo.md) slew the serpent Delphyne and established himself at Delphi, "before he had finished high Parnassus."[^arg-orph-apollo]
+At Thrace, he sang of how [Apollo](../deities/apollo.md) "once beneath the rocky ridge of Parnassus... slew with his bow the monster Delphyne, he, still young and beardless."[^arg-orph-apollo]
 
 ### The Sirens
 
-When the Argo passed the [Sirens](../creatures/sirens.md), Orpheus drowned out their song with his lyre: "He struck his lyre in rivalry with them, and the ears of his comrades were filled with his song."[^arg-orph-sirens] Only Butes alone leapt overboard, drawn toward them — he was rescued by [Aphrodite](../deities/aphrodite.md). Orpheus afterwards named a nearby island "Apollo of the Dawn" and dedicated his lyre at the tomb of Sthenelus on the shore, at a place thereafter called Lyra.[^arg-orph-lyra]
+When the Argo passed the [Sirens](../creatures/sirens.md), Orpheus drowned out their song with his lyre: he "stringing in his hands his Bistonian lyre, rung forth the hasty snatch of a rippling melody so that their ears might be filled with the sound of his twanging."[^arg-orph-sirens] Only Butes alone leapt overboard, drawn toward them — he was rescued by [Aphrodite](../deities/aphrodite.md). Orpheus afterwards named a nearby island "Apollo of the Dawn" and dedicated his lyre at the tomb of Sthenelus on the shore, at a place thereafter called Lyra.[^arg-orph-lyra]
 
 ### The Rite of Rhea/Cybele
 
@@ -33,10 +33,10 @@ On Samothrace, Orpheus led the heroes in an armed dance to [Rhea](../deities/rhe
 
 At the wedding of Jason and [Medea](../heroes/medea.md) on Phaeacia, Orpheus sang the marriage hymn.[^arg-orph-wedding]
 
-[^arg-orph-cosmo]: "He sang how the earth, the heaven, and the sea, once mingled together in one form, after deadly strife were separated each from the other" (Argonautica 1.496-498, trans. R.C. Seaton)
-[^arg-orph-ophion]: Orpheus sang that "Ophion and Eurynome, daughter of Ocean, held the snowy Olympian height, and how through strength of arm one yielded his honour to Cronos and the other to Rhea" (Argonautica 1.503-506, trans. R.C. Seaton)
-[^arg-orph-apollo]: Orpheus sang of Apollo slaying the serpent Delphyne at Pytho, "before he had finished high Parnassus" (Argonautica 2.705-710, trans. R.C. Seaton)
-[^arg-orph-sirens]: "He struck his lyre in rivalry with them, and the ears of his comrades were filled with the sound of his song as he hurried on" (Argonautica 4.905-906, trans. R.C. Seaton)
+[^arg-orph-cosmo]: "He sang how the earth, the heaven and the sea, once mingled together in one form, after deadly strife were separated each from other" (Argonautica 1.496-498, trans. R.C. Seaton)
+[^arg-orph-ophion]: Orpheus sang that "Ophion and Eurynome, daughter of Ocean, held the sway of snowy Olympus, and how through strength of arm one yielded his prerogative to Cronos and the other to Rhea" (Argonautica 1.503-506, trans. R.C. Seaton)
+[^arg-orph-apollo]: Orpheus sang of Apollo slaying the monster Delphyne, "how once beneath the rocky ridge of Parnassus he slew with his bow the monster Delphyne, he, still young and beardless, still rejoicing in his long tresses" (Argonautica 2.705-710, trans. R.C. Seaton)
+[^arg-orph-sirens]: Orpheus "stringing in his hands his Bistonian lyre, rung forth the hasty snatch of a rippling melody so that their ears might be filled with the sound of his twanging; and the lyre overcame the maidens' voice" (Argonautica 4.905-906, trans. R.C. Seaton)
 [^arg-orph-lyra]: The island was called Lyra because Orpheus left his lyre there on the tomb of Sthenelus (Argonautica 4.909-911, trans. R.C. Seaton)
 [^arg-orph-rhea]: Orpheus led an armed dance to the goddess of Samothrace (Rhea/Cybele) to calm the storm (Argonautica 1.1134-1139, trans. R.C. Seaton)
 [^arg-orph-wedding]: Orpheus sang the wedding hymn at the marriage of Jason and Medea at Phaeacia (Argonautica 4.1159-1160, trans. R.C. Seaton)

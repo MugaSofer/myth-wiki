@@ -15,13 +15,13 @@
 
 ### The Eridanus
 
-The Argonauts sailed past the river Eridanus, where Phaethon son of [Helius](../deities/helius.md) had fallen when struck by [Zeus](../deities/zeus.md)'s thunderbolt. The daughters of Helius (the Heliades) still wept amber tears there, which hardened on the water's surface. "A heavy steam still rose from the scorched earth" where the chariot had burned the land.[^arg-phaethon-river] The heroes had to row through the grievous smell of smouldering.[^arg-phaethon-stench]
+The Argonauts sailed past the river Eridanus, where Phaethon son of [Helius](../deities/helius.md) had fallen when struck by [Zeus](../deities/zeus.md)'s thunderbolt. The place still "belcheth up heavy steam clouds from the smouldering wound." The daughters of Helius (the Heliades), "enclosed in tall poplars, wretchedly wail a piteous plaint; and from their eyes they shed on the ground bright drops of amber."[^arg-phaethon-river] The heroes had to row through the grievous smell of smouldering.[^arg-phaethon-stench]
 
 ### Apsyrtus Called Phaethon
 
 The Argonautica also records that Apsyrtus, prince of Colchis and [Medea](../heroes/medea.md)'s brother, was called "Phaethon" by the Colchians "because he outshone all the youths."[^arg-phaethon-apsyrtus] This is a honorific use of the name, unrelated to the myth of the sun chariot.
 
-[^arg-phaethon-river]: "the daughters of Helios still bewailed their brother, and their amber tears fell into the stream of the eddying river; a heavy steam still rose from the scorched earth" (Argonautica 4.596-605, trans. R.C. Seaton)
+[^arg-phaethon-river]: "it belcheth up heavy steam clouds from the smouldering wound... the maidens, the daughters of Helios, enclosed in tall poplars, wretchedly wail a piteous plaint; and from their eyes they shed on the ground bright drops of amber" (Argonautica 4.596-605, trans. R.C. Seaton)
 [^arg-phaethon-stench]: The Argonauts rowed past the Eridanus through a grievous smell of burning from the wound Phaethon left in the earth (Argonautica 4.617-618, trans. R.C. Seaton)
 [^arg-phaethon-apsyrtus]: Apsyrtus was called Phaethon by the Colchians "because he outshone all the youths" (Argonautica 3.245-247, trans. R.C. Seaton)
 

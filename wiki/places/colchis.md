@@ -29,11 +29,11 @@ The fleece hung in a sacred grove of [Ares](../deities/ares.md), where "an oak t
 
 ### Burial Customs
 
-The Argonautica records a distinctive Colchian custom: "It is not lawful for them to bury in the earth, nor even to burn, the bodies of men" — only women were buried in earth. Men's bodies were wrapped in oxhides and hung from trees in the fields outside the city.[^arg-col-burial]
+The Argonautica records a distinctive Colchian custom: "it is an abomination with the Colchians to burn dead men with fire; nor is it lawful to place them in the earth and raise a mound above, but to wrap them in untanned oxhides and suspend them from trees far from the city." Only women were buried in earth.[^arg-col-burial]
 
 [^arg-col-palace]: Aeetes' palace had brazen triglyphs and four fountains — of milk, wine, oil, and water — the work of Hephaestus (Argonautica 3.215-234, trans. R.C. Seaton)
 [^arg-col-grove]: The fleece hung on a great oak in the sacred grove of Ares, guarded by a sleepless serpent (Argonautica 2.401-407, trans. R.C. Seaton)
-[^arg-col-burial]: "It is not lawful for them to bury in the earth, nor even to burn, the bodies of men... but wrapped in oxhides to hang them on trees" (Argonautica 3.200-209, trans. R.C. Seaton)
+[^arg-col-burial]: "it is an abomination with the Colchians to burn dead men with fire; nor is it lawful to place them in the earth and raise a mound above, but to wrap them in untanned oxhides and suspend them from trees far from the city" (Argonautica 3.200-209, trans. R.C. Seaton)
 
 ## The Argonauts at Colchis
 

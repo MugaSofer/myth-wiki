@@ -112,16 +112,16 @@ As they depart, Circe sends them on their way with a favorable wind: "in the wak
 
 ## In the [Argonautica](../sources/argonautica.md)
 
-In Book IV, the Argo puts in at Aeaea — Circe's island — so that Jason and [Medea](../heroes/medea.md) can be purified for the murder of Apsyrtus. Apollonius's Circe is stranger than Homer's: when the Argonauts arrive, they find her on the shore performing what seems to be ritual bathing, "surrounded by monstrous beasts of mixed limbs" — not tame creatures but grotesque hybrid forms, "neither beasts nor men, but a mixture of limbs."[^arg-cir-beasts]
+In Book IV, the Argo puts in at Aeaea — Circe's island — so that Jason and [Medea](../heroes/medea.md) can be purified for the murder of Apsyrtus. Apollonius's Circe is stranger than Homer's: when the Argonauts arrive, they find her bathing her head in the salt sea-spray, surrounded by beasts not resembling the beasts of the wild, nor yet like men in body, but with a medley of limbs — creatures compacted of various limbs that Circe herself had produced from the primeval slime.[^arg-cir-beasts]
 
 Circe took the couple in as suppliants without speaking, and performed the rite of purification: she slaughtered a pig and sprinkled its blood over their hands, then offered atonement-cakes and libations to Zeus "the cleanser" (Zeus Catharsius) and to the Furies to appease them for blood guilt.[^arg-cir-purify]
 
 Only then did Circe ask the reason for the supplication. She recognised Medea immediately — not by name, but by the eyes: "the far-flashing eyes of Helius's race," a divine trait shared by her brother Aeetes and her niece.[^arg-cir-recognition] When Medea revealed what she had done, Circe was horrified and drove them away, refusing further hospitality — yet she was bound by the suppliant bond not to do more than dismiss them.[^arg-cir-judgment]
 
-[^arg-cir-beasts]: "she was cleansing her head in the salt wave... around her numberless beasts of the field, not mountain beasts, but such as had feet and limbs born of the sea's mud" (Argonautica 4.672-679, trans. R.C. Seaton)
-[^arg-cir-purify]: "She... began the rites of expiation... with the blood of a young sow whose dugs yet swelled from the litter... atonement cakes and libations unmixed she burned in honour of Zeus Catharsius and of the Furies" (Argonautica 4.702-716, trans. R.C. Seaton)
-[^arg-cir-recognition]: "for she marked the eyes of Medea, the far-flashing eyes of Helius's race; and she knew them by the like gleams of their eyes" (Argonautica 4.727-729, trans. R.C. Seaton)
-[^arg-cir-judgment]: "she feared the wrath of Zeus the god of suppliants, who is very wrathful in protecting suppliants, and she honoured the suppliant bond; but she would not approve the murder, nor comfort them by her words" (Argonautica 4.699-702, trans. R.C. Seaton)
+[^arg-cir-beasts]: "they found Circe bathing her head in the salt sea-spray... And beasts, not resembling the beasts of the wild, nor yet like men in body, but with a medley of limbs, went in a throng, as sheep from the fold in multitudes follow the shepherd" (Argonautica 4.672-679, trans. R.C. Seaton)
+[^arg-cir-purify]: "she held above their heads the young of a sow whose dugs yet swelled from the fruit of the womb, and, severing its neck, sprinkled their hands with the blood... Circe, standing by the hearth, kept burning atonement-cakes without wine, praying the while that she might stay from their wrath the terrible Furies, and that Zeus himself might be propitious" (Argonautica 4.702-716, trans. R.C. Seaton)
+[^arg-cir-recognition]: "For all those of the race of Helios were plain to discern, since by the far flashing of their eyes they shot in front of them a gleam as of gold" (Argonautica 4.727-729, trans. R.C. Seaton)
+[^arg-cir-judgment]: "in reverence for the ordinance of Zeus, the god of suppliants, who is a god of wrath yet mightily aids slayers of men, she began to offer the sacrifice... since thou art my suppliant and my kinswoman, no further ill shall I devise against thee at thy coming; but begone from my halls... for never will I approve thy counsels and thy shameful flight" (Argonautica 4.699-702, trans. R.C. Seaton)
 
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 

@@ -104,16 +104,16 @@ Apollo then chose his ministers by taking the form of a dolphin and leaping aboa
 
 ## In the [Argonautica](../sources/argonautica.md)
 
-Apollo appears three times in the Argonautica. In Book II, as the Argonauts rested on the island of Thynias before dawn, Apollo passed overhead on his way from Lycia to the Hyperboreans: "his golden locks streamed behind him as he hasten'd by." The island quaked at his coming; "none of the heroes dared to look face to face at the beautiful god; they stood with downcast eyes, and he went by... over the sea."[^arg-apo-thynias] At Orpheus's suggestion, the Argonauts built an altar on the spot and named the island the Sacred Isle of Apollo.
+Apollo appears three times in the Argonautica. In Book II, as the Argonauts rested on the island of Thynias before dawn, Apollo passed overhead on his way from Lycia to the Hyperboreans. His golden locks flowed in clusters about his cheeks, he carried a silver bow and a quiver on his back, and the island quaked beneath his feet. The heroes were awestruck and dared not look directly at the god.[^arg-apo-thynias] At Orpheus's suggestion, the Argonauts built an altar on the spot and named the island the Sacred Isle of Apollo.
 
 Earlier in Book I, [Orpheus](../heroes/orpheus.md) sang of Apollo's slaying of the serpent Delphyne at Parnassus as part of his cosmogonic song.[^arg-apo-delphyne] And near the voyage's end, Apollo appeared again from the Melantian rocks in darkness, flashing his golden bow and illuminating the night — by this light the Argonauts discovered the island of Anaphe and made landfall.[^arg-apo-anaphe]
 
-Apollo's sons appear as Argonauts: Idmon (acknowledged by his father as a true son before the voyage), Aristaeus (born to Cyrene in Libya, raised by the Hours and Gaia), and Mopsus (who received the art of augury from Apollo).[^arg-apo-sons]
+Apollo's sons appear as Argonauts: Idmon (who came knowing his fate, the son of Leto's son himself), Aristaeus (born to Cyrene in Libya, called "Hunter" and "Shepherd" by the Haemonians), and Mopsus (skilled in the seer's art).[^arg-apo-sons]
 
-[^arg-apo-thynias]: "they saw Apollo... going through the air above them... and the island all around quaked at his footsteps, and the sea was stirred up by his coming. Amazement seized on them as they looked; and no one dared to look full at the fair face of the god" (Argonautica 2.674-684, trans. R.C. Seaton)
-[^arg-apo-delphyne]: "how Apollo slew with his mighty bow the beast Delphyne, that huge and monstrous serpent, beneath the cliffs of Parnassus" (Argonautica 2.706-707, trans. R.C. Seaton)
-[^arg-apo-anaphe]: "Apollo... from the Melantian rocks shone forth, giving light to the dark night; and the gleam of his golden bow as he leaped forward lit up their way as he went past" (Argonautica 4.1706-1711, trans. R.C. Seaton)
-[^arg-apo-sons]: "Idmon... though he knew his doom, came for fear of the people's blame... Phoebus himself had told him that his father was Phoebus" (Argonautica 1.139-145, trans. R.C. Seaton); "Aristaeus, whom the Haemonians call the shepherd Apollo, whom Phoebus begat on Cyrene" (Argonautica 2.500-503); Mopsus received augury from Apollo (Argonautica 1.65)
+[^arg-apo-thynias]: "beneath his feet all the island quaked, and the waves surged high on the beach. Helpless amazement seized them as they looked; and no one dared to gaze face to face into the fair eyes of the god. And they stood with heads bowed to the ground; but he, far off, passed on to the sea through the air" (Argonautica 2.674-684, trans. R.C. Seaton)
+[^arg-apo-delphyne]: "how once beneath the rocky ridge of Parnassus he slew with his bow the monster Delphyne, he, still young and beardless, still rejoicing in his long tresses" (Argonautica 2.706-707, trans. R.C. Seaton)
+[^arg-apo-anaphe]: "Then darting upon one of the twin peaks, thou raisedst aloft in thy right hand thy golden bow; and the bow flashed a dazzling gleam all round. And to their sight appeared a small island of the Sporades" (Argonautica 4.1706-1711, trans. R.C. Seaton)
+[^arg-apo-sons]: "Idmon came last of all them that dwelt at Argos, for though he had learnt his own fate by augury, he came, that the people might not grudge him fair renown. He was not in truth the son of Abas, but Leto's son himself begat him" (Argonautica 1.139-145, trans. R.C. Seaton); "to Phoebus she bore Aristaeus whom the Haemonians, rich in corn-land, call 'Hunter' and 'Shepherd'" (Argonautica 2.500-503); Mopsus "skilled in the seer's art" (Argonautica 1.65)
 
 ## In the Iliad
 

@@ -29,7 +29,7 @@ At the land of Phineus, the blind seer had been tormented by the Harpies for ref
 
 Zetes and Calais, the winged sons of Boreas among the Argonauts, chased the Harpies through the air. Iris appeared and stopped them from killing the Harpies, swearing an oath that they would not trouble Phineus again. The Harpies then retreated to "their den in Minoan Crete."[^arg-harp-iris]
 
-[^arg-harp-phineus]: "swooping through the clouds, the Harpies with their crooked beaks incessantly snatched the food away from his mouth and hands... and poured forth a loathsome stench" (Argonautica 2.188-193, trans. R.C. Seaton)
+[^arg-harp-phineus]: "swooping through the clouds, the Harpies with their crooked beaks incessantly snatched the food away from his mouth and hands... and they poured forth over all a loathsome stench" (Argonautica 2.188-193, trans. R.C. Seaton)
 [^arg-harp-iris]: Iris stopped Zetes and Calais from killing the Harpies, swearing an oath; the Harpies retreated to "their den in Minoan Crete" (Argonautica 2.285-300, trans. R.C. Seaton)
 
 ## In the Iliad

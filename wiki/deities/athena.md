@@ -344,9 +344,9 @@ The Argo's most dangerous passage, through the Symplegades (Clashing Rocks), was
 
 In Book III, Athena joined [Hera](hera.md) in visiting [Aphrodite](aphrodite.md) to enlist [Eros](eros.md)'s help with Medea.
 
-[^arg-ath-build]: "Athena herself fitted in the speaking plank from the Dodonian oak which Argus wrought into the middle of the keel" (Argonautica 1.524-527, trans. R.C. Seaton)
-[^arg-ath-tiphys]: "Athena urged Tiphys the son of Hagnias, the steersman" (Argonautica 1.105-108, trans. R.C. Seaton)
-[^arg-ath-symplegades]: "but Athena with her left hand thrust back the one rock and with the other pushed the ship through; and the ship shot through the air like a winged arrow" (Argonautica 2.598-600, trans. R.C. Seaton)
+[^arg-ath-build]: "the beam of the hollow ship, which Athena had set in the centre of the stem, made of Dodonian oak" (Argonautica 1.524-527, trans. R.C. Seaton)
+[^arg-ath-tiphys]: "Tritonian Athena herself urged him to join the band of chiefs" (Argonautica 1.105-108, trans. R.C. Seaton)
+[^arg-ath-symplegades]: "Athena with her left hand thrust back one mighty rock and with her right pushed the ship through; and she, like a winged arrow, sped through the air" (Argonautica 2.598-600, trans. R.C. Seaton)
 
 ## In the Bibliotheca (1.6.1-1.6.2)
 

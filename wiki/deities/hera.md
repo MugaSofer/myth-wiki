@@ -199,17 +199,17 @@ In Book III, Hera and [Athena](athena.md) confer on how to aid Jason at Colchis 
 
 ### Concealing the Heroes
 
-As the Argo approaches Colchis, Hera spread mist across the sea to conceal the ship and crew from the Colchians until Jason could make his appeal to Aeetes.[^arg-hera-mist]
+As Jason and his companions walked from the ship to Aeetes' palace, Hera spread a thick mist through the city of Colchis to conceal them from the countless hosts of the Colchians.[^arg-hera-mist]
 
 ### Managing the Return
 
 On the homeward voyage Hera arranged safe passage at every stage. She sent [Iris](iris.md) to summon [Thetis](thetis.md) from the sea, with instructions to ask [Hephaestus](hephaestus.md) to still his fires while the Argo passed and Aeolus to lock up the winds. Thetis and the Nereids then guided the ship bodily through the Wandering Rocks.[^arg-hera-return] When the Argonauts reached Phaeacia, Hera devised the marriage of Jason and Medea there so that the Phaeacians could not be compelled to return her to Aeetes. She also sent nymphs to attend the wedding.[^arg-hera-wedding]
 
-[^arg-hera-jason]: "Her [Hera] it was who had put this into the mind of Jason... For when once Hera had decided to send Medea as a curse upon Pelias, who had cut her down on the very altars, she bound Jason with love for Medea" (Argonautica 3.61-75, trans. R.C. Seaton)
-[^arg-hera-conspire]: "the two goddesses went their way to the dwelling of Cypris... and found her in the hall, sitting upon a polished chair, and before her Eros was arranging her tresses" (Argonautica 3.36-52, trans. R.C. Seaton)
-[^arg-hera-mist]: "Hera, for Jason's sake, spread a thick mist over Pontus, so that they might land on Cytaean Colchis before they were seen" (Argonautica 3.210-214, trans. R.C. Seaton)
-[^arg-hera-return]: "Then Hera, with a view to the return of the Minyan chieftains, called Iris apart from the other gods... to go summon Thetis from the sea and to call Hephaestus to stay the streams of fire and to tell Aeolus, son of Hippotas, to stop all the blowing winds" (Argonautica 4.783-796, trans. R.C. Seaton)
-[^arg-hera-wedding]: "But Hera... planned that the Argonauts should have a speedy voyage and that Medea should come to the home of Pelias to be a curse to that man" (Argonautica 4.1635-1637, trans. R.C. Seaton)
+[^arg-hera-jason]: "so that Pelias may not mock at having escaped an evil doom—Pelias who left me unhonoured with sacrifice. Moreover Jason was greatly loved by me before, ever since at the mouth of Anaurus in flood, as I was making trial of men's righteousness, he met me on his return from the chase... And he took pity on me in the likeness of an old crone, and raising me on his shoulders himself bore me through the headlong tide. So he is honoured by me unceasingly" (Argonautica 3.61-75, trans. R.C. Seaton)
+[^arg-hera-conspire]: "she all alone was sitting within, on an inlaid seat facing the door. And her white shoulders on each side were covered with the mantle of her hair and she was parting it with a golden comb and about to braid up the long tresses; but when she saw the goddesses before her, she stayed and called them within, and rose from her seat" (Argonautica 3.36-52, trans. R.C. Seaton)
+[^arg-hera-mist]: "Hera with friendly thought spread a thick mist through the city, that they might fare to the palace of Aeetes unseen by the countless hosts of the Colchians" (Argonautica 3.210-214, trans. R.C. Seaton)
+[^arg-hera-return]: "Dear Iris, now come, if ever thou hast fulfilled my bidding, hie thee away on light pinions, and bid Thetis arise from the sea and come hither. For need of her is come upon me. Then go to the sea-beaches where the bronze anvils of Hephaestus are smitten by sturdy hammers, and tell him to still the blasts of fire until Argo pass by them. Then go to Aeolus too, Aeolus who rules the winds, children of the clear sky; and to him also tell my purpose so that he may make all winds cease under heaven" (Argonautica 4.783-796, trans. R.C. Seaton)
+[^arg-hera-wedding]: "Swiftly the wind blew, as the goddess Hera planned, so that most quickly Aeaean Medea might reach the Pelasgian land, a bane to the house of Pelias" (Argonautica 4.1635-1637, trans. R.C. Seaton)
 
 ## In the Bibliotheca (Book 2)
 
