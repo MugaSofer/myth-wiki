@@ -104,6 +104,16 @@ Tiresias warned Pentheus against opposing [Dionysus](../deities/dionysus.md): "O
 [^met-tir-narcissus]: "If he but fail to recognize himself, a long life he may have, beneath the sun" (Metamorphoses 3.348, trans. Brookes More)
 [^met-tir-pentheus]: "Oh glad the day to thee, if, light denied, thine eyes, most fortunate, should not behold the Bacchanalian rites! The day will come, and soon the light will dawn, when Bacchus, born of Semele, shall make his advent known" (Metamorphoses 3.513-518, trans. Brookes More)
 
+## In Sophocles' Oedipus the King
+
+[Oedipus](../heroes/oedipus.md) summons Tiresias to identify the murderer of [Laius](../heroes/laius.md). Tiresias at first refuses to speak: "Let me go home. It will be best for thee / And best for me, if thou wilt let me go" (~320-321).[^sot-tir-refuse] When Oedipus angrily accuses him of complicity, Tiresias reveals the truth: "Thou art the man, / Thou the accursed polluter of this land" (~353-354).[^sot-tir-accuse]
+
+Tiresias delivers an extended prophecy of Oedipus's fate: the killer "shall be proved / Father and brother both of his own children, / Of her who bare him son and husband both, / Co-partner and assassin of his sire" (~457-460).[^sot-tir-prophecy] He warns that "the eyes that now / See clear shall henceforward endless night" (~814-815) and that the killer, "now a stranger, shall be shown / A Theban true by birth" (~452-453).[^sot-tir-stranger] The Chorus describes him as one "in whom, of all men, lives the truth" (~298-299).[^sot-tir-truth]
+
+## In Sophocles' Antigone
+
+Tiresias warns [Creon](../heroes/creon.md) that the gods are angry over the unburied corpse of [Polyneices](../heroes/polyneices.md). The sacrificial fires will not kindle, and birds are maddened with the dead man's gore: "The altars of the city, one and all, / Have been polluted by the birds and dogs / With carrion from the hapless Polyneices" (~1016-1018).[^sa-tir-altars] He prophesies doom: "Thou shalt not live through many circling suns / Before thou yield'st a son of thine own loins / In quittance, dead for dead" (~1064-1066).[^sa-tir-prophecy] This warning finally breaks Creon's resolve — but too late.
+
 ## In Euripides' Bacchae
 
 In the [Bacchae](../sources/euripides-bacchae.md), Tiresias defends [Dionysus](../deities/dionysus.md)'s divinity with a theological speech that is the play's intellectual centerpiece. He arrives dressed for worship — "to twine the thyrsi, and to put on the skins of deer, and to crown the head with ivy branches" — despite his blindness and old age.[^eur-bac-dress]
@@ -138,8 +148,18 @@ Tiresias warns [Pentheus](pentheus.md): "do not boast that sovereignty has power
 - **[Bibliotheca](../sources/apollodorus.md)** 3.7.3: Advises Theban flight from the Epigoni; dies at the spring of Tilphussa
 - **[Bibliotheca](../sources/apollodorus.md)** E.7.17: Odysseus consults him among the dead
 - **[Fabulae](../sources/hyginus.md)** §75: Shepherd on Cyllene; struck/trampled coupling snakes; changed to woman; oracle advised return transformation at same place; "joking dispute" between Zeus and Hera; judged in Zeus's favor; Hera struck him blind "with the back of her hand"; Zeus gave him "seven lives" and made him "seer wiser than other mortals"
+- **[Oedipus the King](../sources/sophocles-oedipus-king.md)**: Summoned by Oedipus; refuses to speak; declares "Thou art the man"; prophesies Oedipus will be shown father and brother of his children, son and husband of his mother
+- **[Antigone](../sources/sophocles-antigone.md)**: Warns Creon of divine anger — altars polluted, sacrifices failing; prophesies a son's death "in quittance, dead for dead"
 - **[Bacchae](../sources/euripides-bacchae.md)**: Dresses in fawnskin and ivy to worship Dionysus; delivers theological defense — Dionysus as one of two primary powers alongside Demeter; claims Dionysus has prophetic and martial qualities; warns Pentheus against opposing the god; departs saying Pentheus "raves most grievously"
 - **[Phoenissae](../sources/euripides-phoenissae.md)**: Prophesies that Menoeceus must be sacrificed at the dragon's cave as a libation to Ares; only a descendant of the Sown Men will save Thebes
+
+[^sot-tir-refuse]: "Let me go home. It will be best for thee / And best for me, if thou wilt let me go" (Oedipus the King ~320-321, trans. F. Storr)
+[^sot-tir-accuse]: "Thou art the man, / Thou the accursed polluter of this land" (Oedipus the King ~353-354, trans. F. Storr)
+[^sot-tir-prophecy]: "shall be proved / Father and brother both of his own children, / Of her who bare him son and husband both, / Co-partner and assassin of his sire" (Oedipus the King ~457-460, trans. F. Storr)
+[^sot-tir-stranger]: "now a stranger, shall be shown / A Theban true by birth" (Oedipus the King ~452-453, trans. F. Storr)
+[^sot-tir-truth]: "in whom, of all men, lives the truth" (Oedipus the King ~298-299, trans. F. Storr)
+[^sa-tir-altars]: "The altars of the city, one and all, / Have been polluted by the birds and dogs / With carrion from the hapless Polyneices" (Antigone ~1016-1018, trans. F. Storr)
+[^sa-tir-prophecy]: "Thou shalt not live through many circling suns / Before thou yield'st a son of thine own loins / In quittance, dead for dead" (Antigone ~1064-1066, trans. F. Storr)
 
 [^apd-secrets]: "some say that he was blinded by the gods because he revealed their secrets to men" (Bibliotheca 3.6.7, trans. J.G. Frazer)
 [^apd-athena]: "Pherecydes says that he was blinded by Athena; for Chariclo was dear to Athena... and Tiresias saw the goddess stark naked, and she covered his eyes with her hands, and so rendered him sightless. And when Chariclo asked her to restore his sight, she could not do so, but by cleansing his ears she caused him to understand every note of birds; and she gave him a staff of cornel-wood, wherewith he walked like those who see" (Bibliotheca 3.6.7, trans. J.G. Frazer)

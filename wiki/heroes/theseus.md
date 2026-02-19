@@ -191,6 +191,15 @@ The Athenians celebrated Theseus with a song cataloguing his labours: "Did you n
 
 [^apd-theseus-death]: "Thence he was driven by Menestheus and went to Lycomedes, who threw him down an abyss and killed him" (Epitome 1.24, trans. J.G. Frazer)
 
+## In Sophocles' Oedipus at Colonus
+
+Theseus plays a major role as protector of the exiled [Oedipus](../heroes/oedipus.md). When Oedipus arrives at Colonus, Theseus offers him refuge and Athenian citizenship, moved by empathy: "I too was reared, like thee, in exile" (~562).[^soc-theseus-exile] He promises to protect Oedipus and fulfills this when [Creon](../heroes/creon.md) seizes [Antigone](../heroes/antigone.md) and [Ismene](../heroes/ismene.md) by force — Theseus rescues them and confronts Creon directly.
+
+In the play's climax, Theseus is the sole witness to Oedipus's mysterious death. The messenger reports that afterward Theseus was seen "with upraised hand / Shading his eyes as from some awful sight, / That no man might endure to look upon" (~1650-1652). He then "bent in prayer to Earth and prayer to Heaven at once" (~1654). "By what doom the stranger met his end / No man save Theseus knoweth" (~1655-1656).[^soc-theseus-witness] Oedipus's grave, its location known only to Theseus, becomes a sacred blessing for Athens.
+
+[^soc-theseus-exile]: "I too was reared, like thee, in exile" (Oedipus at Colonus ~562, trans. F. Storr)
+[^soc-theseus-witness]: "with upraised hand / Shading his eyes as from some awful sight... By what doom the stranger met his end / No man save Theseus knoweth" (Oedipus at Colonus ~1650-1656, trans. F. Storr)
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** 1.101-104: Absent from the voyage — "held in bonds beneath the earth at Taenarus with Peirithous"; invoked by Jason as a precedent when appealing to Medea
@@ -204,4 +213,5 @@ The Athenians celebrated Theseus with a song cataloguing his labours: "Did you n
 - **[Fabulae](../sources/hyginus.md)** §42: Ariadne loved him, betrayed her brother (Minotaur), showed way out of Labyrinth; Theseus killed Minotaur, escaped by thread; took Ariadne to marry her
 - **[Fabulae](../sources/hyginus.md)** §43: Detained by storm on Dia; thought it reproach to bring Ariadne to Athens, left her asleep; Dionysus took her as wife; Theseus forgot black sails; Aegeus threw himself into sea (called Aegean); married Phaedra
 - **[Euripides' Hippolytus](../sources/euripides-hippolytus.md)** 44-46, 887-890, 1283-1466: "Father Neptune" — Poseidon granted him three curses; invokes one to destroy Hippolytus after Phaedra's false accusation; Poseidon sends a monstrous sea-bull; Hippolytus dragged to death; Artemis reveals the truth; Hippolytus forgives him
+- **[Oedipus at Colonus](../sources/sophocles-oedipus-colonus.md)**: Offers refuge to Oedipus; rescues Antigone and Ismene from Creon; sole witness to Oedipus's mysterious death; guardian of the secret grave
 - **[Metamorphoses](../sources/metamorphoses.md)** 7.404-452: Medea brewed aconite poison (from Cerberus's froth); Aegeus offered it to Theseus unknowing; recognized ivory-hilted sword; struck cup away; Medea escaped in whirlwind; Athenians sang catalogue of his deeds (Cretan bull, Periphetes, Procrustes, Cercyon, Sinis, Sciron)

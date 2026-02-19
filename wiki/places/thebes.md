@@ -116,3 +116,6 @@ The [Iliad](../sources/iliad.md) contains multiple references to Thebes and the 
 - **[Epic Cycle](../sources/epic-cycle.md)** (Thebaid): Oedipus's curse on his sons
 - **[Iliad](../sources/iliad.md)** IV, V, X, XIV: References to Thebes and its wars
 - **[Phoenissae](../sources/euripides-phoenissae.md)**: Full dramatization of the civil war; seven gates defended against seven Argive champions; Capaneus struck by Zeus's thunderbolt on the walls; Sown Men's legacy in Menoeceus's sacrifice
+- **[Oedipus the King](../sources/sophocles-oedipus-king.md)**: Thebes stricken by plague; Apollo demands expulsion of Laius's murderer; Oedipus's curse and fall
+- **[Oedipus at Colonus](../sources/sophocles-oedipus-colonus.md)**: Thebes under power struggle between Eteocles and Polyneices; Creon sent to retrieve Oedipus
+- **[Antigone](../sources/sophocles-antigone.md)**: Creon's edict forbids burial of Polyneices; Antigone's defiance; divine anger pollutes the city's altars; Chorus invokes Dionysus as patron god of Thebes
