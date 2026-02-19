@@ -879,12 +879,46 @@ Created dedicated pages for major entities across all previously processed sourc
 - Converted all Argonautica citations from source-file line numbers to standard classical line numbers (using Theoi.com anchor mapping) across 13 pages (~180 citations)
 - Fixed 74 broken links across 29 wiki files: path corrections (prometheus, circe, cronus, fabulae→hyginus), de-linked references to ~40 nonexistent pages
 
+### Euripides, Medea — COMPLETE
+
+**Source text:** Theodore Alois Buckley prose translation (1850s), Project Gutenberg #15081 (Tragedies of Euripides, Vol. I)
+**Source page created:** euripides-medea.md
+**Source file:** sources/euripides-buckley-vol1.txt (lines 6170-7530)
+
+**Pages updated (6):**
+- medea.md (major — "In Euripides' Medea" section: condition of women speech, Creon's banishment, Hecate oath, confrontation with Jason, Aegeus asylum, poisoned gifts, child-murder, dragon chariot escape, prophecy of Jason's death)
+- jason.md (defense of remarriage, Aphrodite claim, loss of children, prophesied death by Argo timber)
+- hecate.md (Medea's patron "who dwells in the inmost recesses of my house")
+- argo.md (prophecy that Jason will die struck by a relic of the Argo)
+- helius.md (Medea's grandfather, provides dragon chariot, "from thy golden race they sprung")
+- aegeus.md (NEW — king of Athens, Delphic oracle, asylum oath, Medea's promise to cure childlessness)
+
+**Wiki size:** ~221 pages.
+
+### Euripides, Hippolytus — COMPLETE
+
+**Source text:** Theodore Alois Buckley prose translation (1850s), Project Gutenberg #15081 (same volume)
+**Source page created:** euripides-hippolytus.md
+**Source file:** sources/euripides-buckley-vol1.txt (lines 7746-9209)
+
+**Pages updated (4):**
+- aphrodite.md ("In Euripides' Hippolytus" — prologue speech, universal power, destroys Hippolytus for rejecting her, Phaedra as collateral)
+- artemis.md ("In Euripides' Hippolytus" — Hippolytus's garland from pure meadow, cannot shed tears, divine law, promise of vengeance on Aphrodite's favourite, establishes cult)
+- theseus.md ("In Euripides' Hippolytus" — Poseidon's three curses, invokes one, sea-bull, revelation and grief, Hippolytus forgives)
+- poseidon.md ("In Euripides' Hippolytus" — three curses for Theseus, bull from the sea, "a vast wave pillared in heaven")
+
+**New page created (1):**
+- euripides-hippolytus.md (source page with full Contents)
+
+**Wiki size:** ~222 pages.
+
 ## Next
 
-### New Sources (in priority order)
+### Remaining Sources (in priority order)
 
-1. **Greek tragedies** — Euripides, Sophocles, Aeschylus (rich character material, many plays on Gutenberg)
-2. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
+1. **More Euripides** — remaining plays in Vol. I (Hecuba, Orestes, Phoenissae, Hippolytus, Alcestis, Bacchae, Heraclidae)
+2. **More Greek tragedies** — Sophocles, Aeschylus (rich character material, many plays on Gutenberg)
+3. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
 
 ### Minor Expansions — COMPLETE
 

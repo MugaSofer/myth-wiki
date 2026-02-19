@@ -95,6 +95,13 @@ Pindar also calls Helius "the god who giveth light to men, Hyperion" and says th
 [^pin-hyperion]: "the god who giveth light to men, Hyperion, bade his beloved sons see that they guard the payment of the debt, that they should build first for the goddess an altar in the sight of all men" (Pindar, Olympian VII)
 [^pin-golden-rain]: "they though they had brands burning yet kindled not the seed of flame, but with fireless rites they made a grove on the hill of the citadel. For them Zeus brought a yellow cloud into the sky and rained much gold upon the land; and Glaukopis herself gave them to excel the dwellers upon earth in every art of handicraft" (Pindar, Olympian VII)
 
+## In Euripides' [Medea](../sources/euripides-medea.md)
+
+Euripides confirms Helius as [Medea](../heroes/medea.md)'s grandfather. She invokes him by oath — "Swear by the earth, and by the sun the father of my father" — and later escapes on a dragon chariot he provides: "such a chariot the sun my father's father gives me, a defense from the hostile hand."[^eur-helius-chariot] The Chorus appeals to him to intervene: "O thou earth, and thou all-illuming beam of the sun, look down upon, behold this abandoned woman... for from thy golden race they sprung."[^eur-helius-golden]
+
+[^eur-helius-chariot]: "such a chariot the sun my father's father gives me, a defense from the hostile hand" (Medea 1321-1322, trans. T.A. Buckley)
+[^eur-helius-golden]: "O thou earth, and thou all-illuming beam of the sun, look down upon, behold this abandoned woman, before she move her blood-stained hand itself about to inflict the blow against her children; for from thy golden race they sprung" (Medea 1251-1254)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### Mars and Venus (4.167-189)
@@ -114,6 +121,7 @@ The [Metamorphoses](../sources/metamorphoses.md) presents [Helius](helius.md) as
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.2: Born of [Hyperion](hyperion.md) and [Theia](theia.md) (as "Sun")
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.1: Father of Aeetes, [Circe](circe.md), and Pasiphae — "Aeetes, son of the Sun and of Perseis, and brother of Circe and Pasiphae, whom Minos married"[^apd-children]
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.28: Gave Medea a car drawn by winged dragons for her escape from Corinth — "having got from the Sun a car drawn by winged dragons she fled on it to Athens"[^apd-dragon-car]
+- **[Euripides' Medea](../sources/euripides-medea.md)** 746, 1321-1322: Medea's grandfather ("the sun the father of my father"); provides dragon chariot for her escape; the Chorus invokes him as ancestor of the children ("from thy golden race they sprung")
 - **[Pindar](../sources/pindar.md)**, Olympian VII: Missed the division of earth among the gods; claimed Rhodes as it rose from the sea; lay with Rhodos and begat seven sons (founders of Kameiros, Ialysos, and Lindos); called "the lord of fire-breathing steeds" and "Hyperion"; bade his sons build the first altar for [Athena](athena.md) at her birth
 
 [^apd-children]: "Aeetes, son of the Sun and of Perseis, and brother of Circe and Pasiphae, whom Minos married" (Bibliotheca 1.9.1, trans. Frazer)

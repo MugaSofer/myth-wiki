@@ -205,15 +205,30 @@ See [Athena](athena.md) §164. Poseidon contested with Athena for patronage of A
 
 ## In the [Argonautica](../sources/argonautica.md)
 
-Poseidon is not a direct participant in the Argonautic expedition but is named as father of several Argonauts and significant figures. **Amycus**, the brutish king of the Bebrycians who was killed by Pollux in a boxing match, was Poseidon's son by the Bithynian nymph Melie.[^arg-pos-amycus] **Euphemus**, the Argonaut who could run across the surface of the sea without wetting his feet, was also Poseidon's son.[^arg-pos-euphemus] **Periclymenus** of Pylos, who had the gift of shapeshifting, received that power from Poseidon.[^arg-pos-periclymenus] **Ancaeus** of Samos, one of the Argonauts who served as helmsman after Tiphys died, was Poseidon's son by Astypalaea.[^arg-pos-ancaeus]
+Poseidon is not a direct participant in the Argonautic expedition but is named as father of several Argonauts and significant figures. **Amycus**, the brutish king of the Bebrycians who was killed by Pollux in a boxing match, was Poseidon's son by the Bithynian nymph Melie.[^arg-pos-amycus] **Euphemus**, the Argonaut who could run across the surface of the sea without wetting his feet, was also Poseidon's son.[^arg-pos-euphemus] **Periclymenus** of Pylos, who had the gift of shapeshifting, received that power from Poseidon.[^arg-pos-periclymenus] **Ancaeus**, born near the waters of Imbrasus to Astypalaea and Poseidon, served as helmsman after Tiphys died.[^arg-pos-ancaeus]
 
 Poseidon is also named as father of **Triton**, the sea-god who appeared in Lake Tritonis and guided the Argo back to the sea on the Libyan plain, taking the form of a young man and giving the Argonauts a clod of earth as an omen of their descendants settling Cyrene.[^arg-pos-triton]
 
-[^arg-pos-amycus]: "son of Poseidon, and Bithynian Melie bore him" (Argonautica 2.4-5, trans. R.C. Seaton)
-[^arg-pos-euphemus]: "Euphemus, the swiftest of men, whom Europa, daughter of the mighty Tityos, bare to Poseidon. He could skim the swell of the grey sea, wetting not his swift feet" (Argonautica 1.179-182, trans. R.C. Seaton)
-[^arg-pos-periclymenus]: "Periclymenus, son of Neleus... Poseidon gave him boundless strength and the boon of prayer, that he might be transformed in battle to whatever shape he should desire" (Argonautica 1.156-160, trans. R.C. Seaton)
-[^arg-pos-ancaeus]: "Ancaeus who dwelt in Samos... Astypalaea bare him to Poseidon" (Argonautica 1.187-188, trans. R.C. Seaton)
-[^arg-pos-triton]: "Triton, son of sea-ruling Poseidon and Amphitrite" (Argonautica 4.1602-1603, trans. R.C. Seaton)
+[^arg-pos-amycus]: "whom once a nymph, Bithynian Melie, united to Poseidon Genethlius, bare the most arrogant of men" (Argonautica 2.4-5, trans. R.C. Seaton)
+[^arg-pos-euphemus]: "Euphemus whom, most swift-footed of men, Europe, daughter of mighty Tityos, bare to Poseidon. He was wont to skim the swell of the grey sea, and wetted not his swift feet, but just dipping the tips of his toes was borne on the watery path" (Argonautica 1.179-182, trans. R.C. Seaton)
+[^arg-pos-periclymenus]: "Neleian Periclymenus... eldest of all the sons of godlike Neleus who were born at Pylos; Poseidon had given him boundless strength and granted him that whatever shape he should crave during the fight, that he should take in the stress of battle" (Argonautica 1.156-160, trans. R.C. Seaton)
+[^arg-pos-ancaeus]: "whom near the waters of Imbrasus Astypalaea bore to Poseidon; for especially was he skilled in steering" (Argonautica 1.187-188, trans. R.C. Seaton)
+[^arg-pos-triton]: "my sire Poseidon has made me to be well versed in this sea. And I rule the shore" (Argonautica 4.1602-1603, trans. R.C. Seaton)
+
+## In Euripides' [Hippolytus](../sources/euripides-hippolytus.md)
+
+### Three Curses for Theseus
+
+In the *Hippolytus*, Poseidon (Neptune) is the divine father whose gift to [Theseus](../heroes/theseus.md) drives the tragedy. [Aphrodite](aphrodite.md) reveals in the prologue that Poseidon "granted as a privilege to Theseus, that he should make no prayer thrice to the God in vain."[^eur-hip-privilege]
+
+When Theseus believes Phaedra's false accusation against his son, he invokes the curse: "O father Neptune, by one of these three curses, which thou formerly didst promise me, by one of those destroy my son."[^eur-hip-invoke] Poseidon answers by sending a monstrous bull from the sea. A Messenger reports: "we beheld a vast wave pillared in heaven... the wave sent forth a bull, a fierce monster; with whose bellowing the whole land filled resounded fearfully."[^eur-hip-seabull] The bull pursues Hippolytus's chariot until it shatters and he is dragged to death.
+
+The dying Hippolytus laments: "Oh! the bitter gifts of thy father Neptune!"[^eur-hip-bitter-gifts]
+
+[^eur-hip-privilege]: "Neptune, king of the ocean, granted as a privilege to Theseus, that he should make no prayer thrice to the God in vain" (Hippolytus 44-46, trans. T.A. Buckley)
+[^eur-hip-invoke]: "O father Neptune, by one of these three curses, which thou formerly didst promise me, by one of those destroy my son, and let him not escape beyond this day" (Hippolytus 887-890)
+[^eur-hip-seabull]: "we beheld a vast wave pillared in heaven... the wave sent forth a bull, a fierce monster; with whose bellowing the whole land filled resounded fearfully" (Hippolytus 1206-1214)
+[^eur-hip-bitter-gifts]: "Oh! the bitter gifts of thy father Neptune!" (Hippolytus 1411)
 
 ## In the Bibliotheca (1.4.3-1.4.5, 1.6.2)
 
@@ -286,6 +301,7 @@ In Book XI, [Apollo](apollo.md) and Poseidon "assumed a mortal form: and those t
 
 ## Appearances
 
+- **[Euripides' Hippolytus](../sources/euripides-hippolytus.md)** 44-46, 887-890, 1206-1214: "Father Neptune" — granted [Theseus](../heroes/theseus.md) three curses that cannot fail; Theseus invokes one to destroy Hippolytus; Poseidon sends a monstrous bull from the sea in "a vast wave pillared in heaven"; the bull pursues Hippolytus's chariot to destruction
 - **[Argonautica](../sources/argonautica.md)** 1-4: Father of Amycus (by Bithynian Melie), Euphemus (who could run on water), Periclymenus (shapeshifting), and Ancaeus (by Astypalaea); father of Triton, who guided the Argo from Lake Tritonis
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.274-312: Aids Zeus in the flood — "Neptune with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare"; commands rivers to overflow; afterwards "laid his trident down and pacified the waves" and called Triton to sound retreat
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.798-837: With Apollo, built the walls of Troy in mortal form for wages; Laomedon refused payment; Neptune drove waves upon the shores; sent a sea-monster requiring Hesione; Hercules saved her but Laomedon defaulted again; Hercules captured Troy

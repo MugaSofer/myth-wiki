@@ -249,6 +249,25 @@ Pindar calls Medea "the murderess of Pelias" in a brief epithet summing up her l
 [^pin-dragon]: "The glaring speckled dragon, O Arkesilas, he slew by subtlety" (Pindar, Pythian IV, trans. Ernest Myers)
 [^pin-medea-pelias]: "by her own aid he stole away Medea, the murderess of Pelias" (Pindar, Pythian IV, trans. Ernest Myers)
 
+## In Euripides' [Medea](../sources/euripides-medea.md)
+
+### Jason's Defense
+
+In Euripides' play, set in Corinth after Jason has married Glauce, Jason defends his new marriage as a pragmatic choice. He claims [Aphrodite](../deities/aphrodite.md), not [Medea](medea.md), saved him: "Venus alone both of Gods and men was the protectress of my voyage."[^eur-med-venus] He argues the marriage was for the family's benefit: "I thought worthy to wed thee... that we might live honorably, and might not be in want... and that having begotten brothers to those children sprung from thee, I might place them on the same footing."[^eur-med-brothers] He even claims: "It were well then that men should generate children from some other source, and that the female race should not exist."[^eur-med-misogyny]
+
+[^eur-med-venus]: "Venus alone both of Gods and men was the protectress of my voyage" (Medea 527, trans. T.A. Buckley)
+[^eur-med-brothers]: "that we might live honorably, and might not be in want... and that having begotten brothers to those children sprung from thee, I might place them on the same footing, and having united the family, I might flourish" (Medea 559-564)
+[^eur-med-misogyny]: "It were well then that men should generate children from some other source, and that the female race should not exist, and thus there would not have been any evil among men" (Medea 573-575)
+
+### Loss and Prophesied Death
+
+After Medea kills their children, Jason arrives too late. The Chorus tells him: "Thy children are dead by their mother's hand."[^eur-med-dead] He calls Medea "a lioness, no woman, having a nature more savage than the Tuscan [Scylla](../creatures/scylla.md)."[^eur-med-lioness] He begs to touch the children's bodies: "Grant me, by the Gods, to touch the soft skin of my sons."[^eur-med-touch] Medea refuses and prophesies his death: "thou, wretch, as is fit, shalt die wretchedly, struck on thy head with a relic of thy ship [Argo](../objects/argo.md)."[^eur-med-prophecy]
+
+[^eur-med-dead]: "Thy children are dead by their mother's hand" (Medea 1309)
+[^eur-med-lioness]: "a lioness, no woman, having a nature more savage than the Tuscan Scylla" (Medea 1342-1343)
+[^eur-med-touch]: "Grant me, by the Gods, to touch the soft skin of my sons" (Medea 1403)
+[^eur-med-prophecy]: "thou, wretch, as is fit, shalt die wretchedly, struck on thy head with a relic of thy ship Argo, having seen the bitter end of my marriage" (Medea 1386-1388)
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** I-IV: Central protagonist; son of Aeson, grandson of Cretheus; compared to Apollo in beauty; carried Hera across the Anaurus; led the Argonauts; despaired repeatedly but always rallied; yoked fire-breathing bulls with Medea's charm of Prometheus; sowed dragon's teeth and slew earthborn men; snatched the Golden Fleece; swore marriage oath to Medea; murdered Apsyrtus by ambush; purified by Circe; married Medea at Phaeacia
@@ -263,3 +282,4 @@ Pindar calls Medea "the murderess of Pelias" in a brief epithet summing up her l
 - **[Fabulae](../sources/hyginus.md)** §24: Medea disguised as priestess of [Diana](../deities/artemis.md); tricks Pelias's daughters (Alcestis, Pelopia, Medusa, Pisidice, Hippothoe) into killing their father; hands kingdom to Acastus; departs for Corinth
 - **[Metamorphoses](../sources/metamorphoses.md)** 7.1-293: Medea's love and Jason's trials at Colchis; tames brazen-footed bulls; sows dragon's teeth; lulls the guardian dragon; takes the Golden Fleece; begs Medea to restore Aeson's youth
 - **[Pindar](../sources/pindar.md)**, Pythian IV: Raised by Chiron for twenty years; arrived at Iolkos in Magnesian garb with leopard-skin and uncut hair; single sandal on right foot; ancestral speech to Pelias; Pelias invokes ghost of Phrixos to send him for the fleece; crew assembled including Orpheus, Zetes and Kalaïs (winged sons of Boreas), Echion and Eurytos; [Aphrodite](../deities/aphrodite.md)'s wryneck charm used on Medea; ploughed with fire-breathing bulls; slew the dragon "by subtlety"
+- **[Euripides' Medea](../sources/euripides-medea.md)**: Married Glauce; claims [Aphrodite](../deities/aphrodite.md) saved him on the quest; defends remarriage as pragmatic; loses his children to Medea's revenge; denied even touching their bodies; prophesied to die "struck on thy head with a relic of thy ship [Argo](../objects/argo.md)"

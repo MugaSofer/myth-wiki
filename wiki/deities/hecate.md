@@ -70,15 +70,21 @@ Medea is described throughout as Hecate's special charge. Apollonius presents th
 
 ### The Midnight Invocation
 
-For Jason to receive Medea's protective charm, she required him to perform a midnight sacrifice to Hecate at a crossroads. The epiphany was terrifying: the goddess came "from the uttermost depths," and with her came the sounds of oak trees crashing and the earth bellowing; she was surrounded by "horrible serpents twined among the oak boughs," "countless torches," and "the hounds of hell baying shrilly."[^arg-hec-epiphany] Jason, forewarned by Medea, did not look back when these signs came and stood firm until morning.
+For Jason to receive Medea's protective charm, she required him to perform a midnight sacrifice to Hecate at a crossroads. The epiphany was terrifying: the goddess came "from the uttermost depths," and with her came the sounds of oak trees crashing and the earth bellowing; she was surrounded by "horrible serpents twined... among the oak boughs," "a gleam of countless torches," and the hounds of hell howling sharply.[^arg-hec-epiphany] Jason, forewarned by Medea, did not look back when these signs came and stood firm until morning.
 
 ### Mother of Scylla
 
 In a genealogical note, Apollonius names Hecate (under the epithet **Crataeis**) as the mother of [Scylla](../creatures/scylla.md), by [Phorcys](../creatures/scylla.md).[^arg-hec-scylla]
 
-[^arg-hec-brimo]: "adjuring Brimo the night-wanderer, the nurse of youth, the chthonian queen, to be her helper" (Argonautica 3.861-862, trans. R.C. Seaton)
-[^arg-hec-epiphany]: "the goddess moved with horrible serpents twined among oak boughs, and there was a gleam of countless torches; and the hounds of hell barked shrilly all around her" (Argonautica 3.1216-1222, trans. R.C. Seaton)
-[^arg-hec-scylla]: "Scylla, the destructive monster whom Crataeis bore... Crataeis is the mother of Scylla and she bore her to Phorcys" (Argonautica 4.828-829, trans. R.C. Seaton)
+[^arg-hec-brimo]: "called seven times on Brimo, nurse of youth, night-wandering Brimo, of the underworld, queen among the dead,—in the gloom of night, clad in dusky garments" (Argonautica 3.861-862, trans. R.C. Seaton)
+[^arg-hec-epiphany]: "round her horrible serpents twined themselves among the oak boughs; and there was a gleam of countless torches; and sharply howled around her the hounds of hell" (Argonautica 3.1216-1222, trans. R.C. Seaton)
+[^arg-hec-scylla]: "approach the hideous lair of Scylla, Ausonian Scylla the deadly, whom night-wandering Hecate, who is called Crataeis, bare to Phoreys" (Argonautica 4.828-829, trans. R.C. Seaton)
+
+## In Euripides' [Medea](../sources/euripides-medea.md)
+
+Medea invokes Hecate as her personal patron goddess: "I swear by my mistress whom I revere most of all, and have chosen for my assistant, Hecate, who dwells in the inmost recesses of my house."[^eur-hecate] This confirms Hecate's association with Medea's sorcery, placing the goddess at the very center of her domestic cult. The play also references Medea's ancestry through [Helius](helius.md) and her mastery of "charms" and "evil sciences."
+
+[^eur-hecate]: "I swear by my mistress whom I revere most of all, and have chosen for my assistant, Hecate, who dwells in the inmost recesses of my house, shall any one of them wring my heart with grief with impunity" (Medea 395-398, trans. T.A. Buckley)
 
 ## In the Bibliotheca (1.6.2)
 
@@ -97,6 +103,7 @@ During the battle with the [Giants](../creatures/giants.md), "Clytius [was kille
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)** 24-27, 51-58, 438-440: Hears Persephone's cry; aids Demeter's search; becomes Persephone's companion
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.4: "to Perses and Asteria was born Hecate" — confirms Theogonic parentage
 - **[Bibliotheca](../sources/apollodorus.md)** 1.6.2: Killed the giant Clytius with torches in the [Gigantomachy](../creatures/giants.md)
+- **[Euripides' Medea](../sources/euripides-medea.md)** 395-398: Medea's patron goddess — "my mistress whom I revere most of all, and have chosen for my assistant, Hecate, who dwells in the inmost recesses of my house"
 - **Catalogue of Women** Fragment 71: Iphigenia "was not killed but, by the will of [Artemis](artemis.md), became Hecate" — an extraordinary identification of the sacrificed princess with the goddess
 - **Great Eoiae** Fragment 13: Named as mother of [Scylla](../creatures/scylla.md) (with [Apollo](apollo.md) as father)
 

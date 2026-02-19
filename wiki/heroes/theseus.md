@@ -4,9 +4,9 @@ King of Athens, son of Aegeus (or **[Poseidon](../deities/poseidon.md)**) and Ae
 
 ## In the [Argonautica](../sources/argonautica.md)
 
-Theseus was absent from the Argonaut voyage. The Argonautica explains his absence: "he was held in bonds beneath the earth at Taenarus with Peirithous."[^arg-theseus-absent] Jason cited Theseus's story as a precedent when appealing to Medea — invoking how [Ariadne](ariadne.md) had helped Theseus escape the Labyrinth as an example of a woman aiding a hero at great personal cost.
+Theseus was absent from the Argonaut voyage. The Argonautica explains his absence: "an unseen bond kept beneath the land of Taenarus, for he had followed that path with Peirithous."[^arg-theseus-absent] Jason cited Theseus's story as a precedent when appealing to Medea — invoking how [Ariadne](ariadne.md) had helped Theseus escape the Labyrinth as an example of a woman aiding a hero at great personal cost.
 
-[^arg-theseus-absent]: "he was held in bonds beneath the earth at Taenarus with Peirithous" (Argonautica 1.101-104, trans. R.C. Seaton)
+[^arg-theseus-absent]: "an unseen bond kept beneath the land of Taenarus, for he had followed that path with Peirithous" (Argonautica 1.101-104, trans. R.C. Seaton)
 
 ## In the Bibliotheca (3.15.7-3.16.2, E.1.1-E.1.24)
 
@@ -116,6 +116,29 @@ The black sails follow: "when Theseus left, he forgot to change the black sails,
 [^hyg-43-dionysus]: "Liber, falling in love with her, took her from there as his wife" (Fabulae §43, trans. Mary Grant)
 [^hyg-43-aegeus]: "when Theseus left, he forgot to change the black sails, and so his father Aegeus judged that he had been devoured by the Minotaur. He threw himself into the sea, which was called Aegean from this. But Theseus married Phaedra, Ariadne's sister" (Fabulae §43, trans. Mary Grant)
 
+## In Euripides' [Hippolytus](../sources/euripides-hippolytus.md)
+
+### Poseidon's Three Curses
+
+In the *Hippolytus*, Theseus's divine paternity through [Poseidon](../deities/poseidon.md) is central to the plot. [Aphrodite](../deities/aphrodite.md) reveals in the prologue that "Neptune, king of the ocean, granted as a privilege to Theseus, that he should make no prayer thrice to the God in vain."[^eur-hip-curses]
+
+When Theseus discovers Phaedra's body and her false accusation against Hippolytus, he invokes one of these curses: "O father Neptune, by one of these three curses, which thou formerly didst promise me, by one of those destroy my son, and let him not escape beyond this day, if thou hast given me curses that shall be verified."[^eur-hip-curse] Poseidon answers by sending a monstrous bull from the sea that destroys Hippolytus's chariot.
+
+### The Sea-Bull
+
+A Messenger reports how, on the shore, "a vast wave pillared in heaven" rose from the sea, and "the wave sent forth a bull, a fierce monster; with whose bellowing the whole land filled resounded fearfully."[^eur-hip-bull] The bull pursued Hippolytus's chariot until the horses panicked, the chariot shattered, and "the unhappy man himself entangled in the reins is dragged along, bound in a difficult bond, his head dashed against the rocks."[^eur-hip-dragged]
+
+### Revelation and Grief
+
+[Artemis](../deities/artemis.md) appears and tells Theseus the truth — that Phaedra's accusation was false, and [Aphrodite](../deities/aphrodite.md) engineered everything. The dying Hippolytus addresses Theseus: "Oh! the bitter gifts of thy father Neptune!"[^eur-hip-bitter] At Artemis's urging, Hippolytus forgives his father: "I give up all enmity against my father at thy request."[^eur-hip-forgive]
+
+[^eur-hip-curses]: "Neptune, king of the ocean, granted as a privilege to Theseus, that he should make no prayer thrice to the God in vain" (Hippolytus 44-46, trans. T.A. Buckley)
+[^eur-hip-curse]: "O father Neptune, by one of these three curses, which thou formerly didst promise me, by one of those destroy my son, and let him not escape beyond this day, if thou hast given me curses that shall be verified" (Hippolytus 887-890)
+[^eur-hip-bull]: "we beheld a vast wave pillared in heaven... the wave sent forth a bull, a fierce monster; with whose bellowing the whole land filled resounded fearfully" (Hippolytus 1206-1214)
+[^eur-hip-dragged]: "the unhappy man himself entangled in the reins is dragged along, bound in a difficult bond, his head dashed against the rocks, and torn his flesh" (Hippolytus 1236-1239)
+[^eur-hip-bitter]: "Oh! the bitter gifts of thy father Neptune!" (Hippolytus 1411)
+[^eur-hip-forgive]: "I give up all enmity against my father at thy request" (Hippolytus 1442)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### Medea's Attempted Poisoning (7.404-424)
@@ -180,4 +203,5 @@ The Athenians celebrated Theseus with a song cataloguing his labours: "Did you n
 - **[Fabulae](../sources/hyginus.md)** §38: Six labours in detail — slew Corynetes (son of Neptune); killed Pityocamptes (pine-bender); killed Procrustes (son of Neptune, bed-fitter with anvils); cast Sciron into sea (Scironian rocks); killed Cercyon (son of Vulcan); killed Crommyonian boar; killed Marathonian bull; killed Minotaur at Cnossus
 - **[Fabulae](../sources/hyginus.md)** §42: Ariadne loved him, betrayed her brother (Minotaur), showed way out of Labyrinth; Theseus killed Minotaur, escaped by thread; took Ariadne to marry her
 - **[Fabulae](../sources/hyginus.md)** §43: Detained by storm on Dia; thought it reproach to bring Ariadne to Athens, left her asleep; Dionysus took her as wife; Theseus forgot black sails; Aegeus threw himself into sea (called Aegean); married Phaedra
+- **[Euripides' Hippolytus](../sources/euripides-hippolytus.md)** 44-46, 887-890, 1283-1466: "Father Neptune" — Poseidon granted him three curses; invokes one to destroy Hippolytus after Phaedra's false accusation; Poseidon sends a monstrous sea-bull; Hippolytus dragged to death; Artemis reveals the truth; Hippolytus forgives him
 - **[Metamorphoses](../sources/metamorphoses.md)** 7.404-452: Medea brewed aconite poison (from Cerberus's froth); Aegeus offered it to Theseus unknowing; recognized ivory-hilted sword; struck cup away; Medea escaped in whirlwind; Athenians sang catalogue of his deeds (Cretan bull, Periphetes, Procrustes, Cercyon, Sinis, Sciron)

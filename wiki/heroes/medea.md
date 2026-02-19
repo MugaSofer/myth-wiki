@@ -258,6 +258,75 @@ Pindar gives Medea the striking epithet "the murderess of Pelias" in passing, su
 [^pin-drugs]: "speedily she showed him the accomplishment of the tasks her father set, and mixing drugs with oil gave him for his anointment antidotes of cruel pain" (Pindar, Pythian IV, trans. Ernest Myers)
 [^pin-murderess]: "by her own aid he stole away Medea, the murderess of Pelias" (Pindar, Pythian IV, trans. Ernest Myers)
 
+## In Euripides' [Medea](../sources/euripides-medea.md)
+
+### Background
+
+Euripides' *Medea* opens in Corinth, where Medea has been abandoned by [Jason](jason.md) in favor of Glauce, daughter of King Creon. The Nurse recounts how Medea "deeply smitten in her mind with the love of Jason" had "persuaded the daughters of Pelias to slay their father" and come to Corinth.[^eur-med-nurse] Now betrayed, she lies prostrate: "as the rock, or the wave of the sea, does she listen to her friends when advised."[^eur-med-rock] The Nurse fears her: "violent is her mind, nor will it endure to suffer ills."[^eur-med-violent]
+
+[^eur-med-nurse]: "having persuaded the daughters of Pelias to slay their father would she have inhabited this country of Corinth with her husband and her children" (Medea 9-13, trans. T.A. Buckley)
+[^eur-med-rock]: "as the rock, or the wave of the sea, does she listen to her friends when advised" (Medea 28-29)
+[^eur-med-violent]: "violent is her mind, nor will it endure to suffer ills. I know her, and I fear her, lest she should force the sharpened sword through her heart" (Medea 38-44)
+
+### The Condition of Women
+
+Medea delivers a famous speech to the Corinthian women: "of all things as many as have life and intellect, we women are the most wretched race. Who indeed first must purchase a husband with excess of money, and receive him a lord of our persons."[^eur-med-women] She declares: "I would rather thrice stand in arms, than once suffer the pangs of child-birth."[^eur-med-arms] She asks the Chorus to keep silent about her plans: "when she is injured in her bed, no other disposition is more blood-thirsty."[^eur-med-blood]
+
+[^eur-med-women]: "of all things as many as have life and intellect, we women are the most wretched race. Who indeed first must purchase a husband with excess of money, and receive him a lord of our persons; for this is a still greater ill than the former" (Medea 230-234)
+[^eur-med-arms]: "I would rather thrice stand in arms, than once suffer the pangs of child-birth" (Medea 250-251)
+[^eur-med-blood]: "a woman in other respects is full of fear, and timid to look upon deeds of courage and the sword; but when she is injured in her bed, no other disposition is more blood-thirsty" (Medea 263-266)
+
+### Creon's Banishment and Hecate
+
+Creon banishes Medea, fearing her wisdom and sorcery: "Thou art wise, and skilled in many evil sciences."[^eur-med-creon] She manipulates him into granting one day's reprieve, during which she plans to kill "three of mine enemies... the father, the bride, and my husband."[^eur-med-three] She invokes [Hecate](../deities/hecate.md): "I swear by my mistress whom I revere most of all, and have chosen for my assistant, Hecate, who dwells in the inmost recesses of my house."[^eur-med-hecate]
+
+[^eur-med-creon]: "Thou art wise, and skilled in many evil sciences, and thou art exasperated, deprived of thy husband's bed" (Medea 285-286)
+[^eur-med-three]: "he hath granted me to stay this day in which three of mine enemies will I put to death, the father, the bride, and my husband" (Medea 372-375)
+[^eur-med-hecate]: "I swear by my mistress whom I revere most of all, and have chosen for my assistant, Hecate, who dwells in the inmost recesses of my house, shall any one of them wring my heart with grief with impunity" (Medea 395-398)
+
+### Confrontation with Jason
+
+When Jason claims he came to help, Medea accuses him of cowardice and enumerates her sacrifices: "I preserved thee... when sent to master the fire-breathing bulls with the yoke, and to sow the fatal seed: and having slain the dragon who watching around the golden fleece guarded it with spiry folds, a sleepless guard."[^eur-med-dragon] She adds: "I slew Pelias by a death which it is most miserable to die, by the hands of his own children."[^eur-med-pelias] Jason argues that [Aphrodite](../deities/aphrodite.md), not Medea, saved him: "Venus alone both of Gods and men was the protectress of my voyage."[^eur-med-venus]
+
+[^eur-med-dragon]: "I preserved thee... when sent to master the fire-breathing bulls with the yoke, and to sow the fatal seed: and having slain the dragon who watching around the golden fleece guarded it with spiry folds, a sleepless guard, I raised up to thee a light of safety" (Medea 476-483)
+[^eur-med-pelias]: "I slew Pelias by a death which it is most miserable to die, by the hands of his own children, and I freed thee from every fear" (Medea 486-487)
+[^eur-med-venus]: "Venus alone both of Gods and men was the protectress of my voyage" (Medea 527)
+
+### The Aegeus Scene
+
+[Aegeus](aegeus.md), king of Athens and son of Pandion, arrives from the oracle of [Apollo](../deities/apollo.md) at Delphi, where he sought a cure for his childlessness. The oracle told him cryptically "not to loose the projecting foot of the vessel" before returning home.[^eur-med-oracle] He is travelling to Pittheus of Troezen for interpretation. Medea secures his oath to shelter her: "Swear by the earth, and by the sun the father of my father, and join the whole race of Gods."[^eur-med-oath] In return, she promises: "I will free thee from being childless, and I will cause thee to raise up offspring, such charms I know."[^eur-med-charms]
+
+[^eur-med-oracle]: "That I was not to loose the projecting foot of the vessel... Before I revisit my paternal hearth" (Medea 679-681)
+[^eur-med-oath]: "Swear by the earth, and by the sun the father of my father, and join the whole race of Gods" (Medea 746)
+[^eur-med-charms]: "I will free thee from being childless, and I will cause thee to raise up offspring, such charms I know" (Medea 717-718)
+
+### Medea's Plan and Inner Conflict
+
+With refuge secured, Medea reveals her full plan: send poisoned gifts — "a fine-wrought robe, and a golden-twined wreath" — to the bride, then kill her own children.[^eur-med-gifts] She agonizes over the decision, and in the most famous lines of the play, declares: "I know indeed the ills that I am about to dare, but my rage is master of my counsels, which is indeed the cause of the greatest calamities to men."[^eur-med-rage]
+
+[^eur-med-gifts]: "I will send them bearing presents in their hands, both a fine-wrought robe, and a golden-twined wreath... with such charms will I anoint the presents" (Medea 789-793)
+[^eur-med-rage]: "I know indeed the ills that I am about to dare, but my rage is master of my counsels, which is indeed the cause of the greatest calamities to men" (Medea 1078-1080)
+
+### The Deaths of Glauce and Creon
+
+A Messenger reports the deaths in vivid detail. Glauce put on the robe and chaplet: "The golden chaplet indeed placed on her head was sending forth a stream of all-devouring fire wonderful to behold, but the fine-wrought robes, the presents of thy sons, were devouring the white flesh of the hapless woman."[^eur-med-fire] Her flesh dropped from her bones "as the tear from the pine-tree, by the hidden fangs of the poison."[^eur-med-flesh] Creon embraced his dying daughter and was held fast by the poisoned robes "as the ivy by the boughs of the laurel," tearing his flesh from his bones as he tried to pull free. Both perished.[^eur-med-creon-death]
+
+[^eur-med-fire]: "The golden chaplet indeed placed on her head was sending forth a stream of all-devouring fire wonderful to behold, but the fine-wrought robes, the presents of thy sons, were devouring the white flesh of the hapless woman" (Medea 1186-1189)
+[^eur-med-flesh]: "her flesh was dropping off her bones, as the tear from the pine-tree, by the hidden fangs of the poison; a sight of horror" (Medea 1200-1201)
+[^eur-med-creon-death]: "he was held, as the ivy by the boughs of the laurel, by the fine-wrought robes; and dreadful was the struggle... he tore the aged flesh from his bones. But at length the wretched man swooned away, and gave up his life" (Medea 1213-1219)
+
+### The Child-Murder and Escape
+
+Medea steeled herself and killed her children. Jason arrived too late: "Thy children are dead by their mother's hand."[^eur-med-dead] Medea appeared above the house on a dragon chariot given by [Helius](../deities/helius.md), her grandfather: "such a chariot the sun my father's father gives me, a defense from the hostile hand."[^eur-med-chariot] Jason called her "a lioness, no woman, having a nature more savage than the Tuscan [Scylla](../creatures/scylla.md)," and Medea accepted the title: "call me lioness, and Scylla who dwelt in the Tuscan plain. For thy heart, as is right, I have wounded."[^eur-med-lioness]
+
+She prophesied Jason's death: "thou, wretch, as is fit, shalt die wretchedly, struck on thy head with a relic of thy ship [Argo](../objects/argo.md)."[^eur-med-prophecy] She declared she would bury the children "at the shrine of [Hera](../deities/hera.md), the Goddess guardian of the citadel" and institute expiatory rites, then go to Athens to dwell with [Aegeus](aegeus.md).[^eur-med-burial] Jason's final appeal to touch his dead children was denied.
+
+[^eur-med-dead]: "Thy children are dead by their mother's hand" (Medea 1309)
+[^eur-med-chariot]: "such a chariot the sun my father's father gives me, a defense from the hostile hand" (Medea 1321-1322)
+[^eur-med-lioness]: "a lioness, no woman, having a nature more savage than the Tuscan Scylla" (Medea 1342-1343); "call me lioness, and Scylla who dwelt in the Tuscan plain. For thy heart, as is right, I have wounded" (Medea 1358-1360)
+[^eur-med-prophecy]: "thou, wretch, as is fit, shalt die wretchedly, struck on thy head with a relic of thy ship Argo, having seen the bitter end of my marriage" (Medea 1386-1388)
+[^eur-med-burial]: "I will bury them with this hand bearing them to the shrine of Juno, the Goddess guardian of the citadel, that no one of my enemies may insult them... But in this land of Sisyphus will I institute in addition to this a solemn festival and sacrifices hereafter to expiate this unhallowed murder" (Medea 1378-1383)
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** III-IV: Priestess of Hecate; daughter of Aeetes and Eidyia; shot by Eros; extended psychological portrait of love and anguish; wielded the charm of Prometheus; gave Jason instructions for propitiating Hecate; sang the guardian serpent to sleep; fled Colchis leaving a lock of hair; complicit in Apsyrtus's murder (proposed the ambush, averted her eyes); purified by Circe; bewitched and destroyed Talos on Crete; married Jason in the cave of Macris at Phaeacia
@@ -275,3 +344,4 @@ Pindar gives Medea the striking epithet "the murderess of Pelias" in passing, su
 - **[Fabulae](../sources/hyginus.md)** §27: Medus claims to be Hippotes; Medea arrives as priestess claiming to cure sterility; nearly kills her own son unknowingly; recognizes him; gives him sword; Medus kills Perses; gains kingdom; names country Media
 - **[Metamorphoses](../sources/metamorphoses.md)** 7.1-424: Full Medea arc — interior monologue of love for Jason; gives him magic herbs; panic during the trials; rejuvenation of Aeson (incantation, dragon chariot, herb-gathering, cauldron magic); murder of Pelias via his daughters; flight over many lands; burning of Corinth; infanticide; attempted poisoning of Theseus; escape in a whirlwind
 - **[Pindar](../sources/pindar.md)**, Pythian IV: Prophesied at Thera about Kyrene "from immortal lips"; [Aphrodite](../deities/aphrodite.md)'s wryneck charm used to inflame her with love; mixed drugs with oil for Jason's anointment; vowed with Jason to wed; called "the murderess of Pelias"
+- **[Euripides' Medea](../sources/euripides-medea.md)**: Set in Corinth after Jason abandons her for Glauce; speech on the condition of women; manipulates Creon for one day's reprieve; invokes [Hecate](../deities/hecate.md) as patron; confronts Jason over his ingratitude; secures asylum oath from [Aegeus](aegeus.md); sends poisoned robe and golden chaplet killing Glauce and Creon; murders her own children; escapes on dragon chariot from [Helius](../deities/helius.md); prophesies Jason's death by timber from the [Argo](../objects/argo.md); will bury children at [Hera](../deities/hera.md)'s shrine

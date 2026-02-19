@@ -77,6 +77,30 @@ In the [Homeric Hymn to Aphrodite](../sources/homeric-hymns.md) (V), Artemis is 
 
 [^hh5-immune]: "Nor does laughter-loving Aphrodite ever tame in love Artemis, the huntress with shafts of gold; for she loves archery and the slaying of wild beasts in the mountains" (Homeric Hymn V to Aphrodite 16-20, trans. H.G. Evelyn-White)
 
+## In Euripides' [Hippolytus](../sources/euripides-hippolytus.md)
+
+Artemis (Diana) appears at the climax of the *Hippolytus* as a deus ex machina, revealing the truth of Phaedra's false accusation and [Aphrodite](aphrodite.md)'s plot to [Theseus](../heroes/theseus.md).
+
+### Hippolytus's Devotion
+
+Throughout the play, Hippolytus is defined by his exclusive devotion to Artemis. He offers her a garland from a pure meadow: "For thee, my mistress, bear I this wreathed garland from the pure mead, where neither does the shepherd think fit to feed his flocks, nor yet came iron there, but the bee ranges over the pure and vernal mead."[^eur-hip-garland] His claim is of unique intimacy: the Argument states he "excelled in beauty and chastity" and devoted himself entirely to her worship.
+
+### Divine Limitations
+
+When Artemis appears to the dying Hippolytus, she reveals a key constraint on divine action. She explains why she could not prevent his death: the gods do not oppose one another's purposes. She tells Theseus: "that men should err, when the Gods dispose events, is but to be expected."[^eur-hip-err] She cannot even weep for him: "it is not lawful for me to shed a tear down mine eyes."[^eur-hip-tear]
+
+### Promise of Vengeance
+
+Artemis promises to avenge Hippolytus by destroying one of Aphrodite's favourites: "not even when thou art under the darkness of the earth shall the rage arising from the bent of the Goddess Venus descend upon thy body unrevenged: by reason of thy piety and thy excellent mind. For with these inevitable weapons from mine own hand will I revenge me on another, whoever to her be the dearest of mortals."[^eur-hip-vengeance] This is traditionally understood as a reference to Adonis.
+
+She also establishes a lasting cult for Hippolytus: "the unwedded virgins before their nuptials shall shear their locks to thee for many an age, owning the greatest sorrow tears can give; but ever among the virgins shall there be a remembrance of thee that shall awake the song."[^eur-hip-cult]
+
+[^eur-hip-garland]: "For thee, my mistress, bear I this wreathed garland from the pure mead, where neither does the shepherd think fit to feed his flocks, nor yet came iron there, but the bee ranges over the pure and vernal mead, and Reverence waters it with river dews" (Hippolytus 73-78, trans. T.A. Buckley)
+[^eur-hip-err]: "that men should err, when the Gods dispose events, is but to be expected" (Hippolytus 1434)
+[^eur-hip-tear]: "it is not lawful for me to shed a tear down mine eyes" (Hippolytus 1396)
+[^eur-hip-vengeance]: "not even when thou art under the darkness of the earth shall the rage arising from the bent of the Goddess Venus descend upon thy body unrevenged; by reason of thy piety and thy excellent mind. For with these inevitable weapons from mine own hand will I revenge me on another, whoever to her be the dearest of mortals" (Hippolytus 1416-1422)
+[^eur-hip-cult]: "the unwedded virgins before their nuptials shall shear their locks to thee for many an age, owning the greatest sorrow tears can give; but ever among the virgins shall there be a remembrance of thee that shall awake the song" (Hippolytus 1425-1430)
+
 ## In the Fabulae
 
 ### Iphigenia Substituted (§98)
@@ -188,6 +212,7 @@ After [Apollo](apollo.md) slew Niobe's seven sons, Artemis completed the punishm
 
 ## Appearances
 
+- **[Euripides' Hippolytus](../sources/euripides-hippolytus.md)** 73-78, 1283-1466: Hippolytus offers her a garland from a pure meadow; appears at the climax to reveal the truth; cannot shed tears ("it is not lawful"); explains divine law — gods do not oppose one another; promises to avenge Hippolytus by killing [Aphrodite](aphrodite.md)'s favourite; establishes cult of hair-shearing for unwedded virgins; Hippolytus forgives Theseus at her urging
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.401-530: Expels Callisto from her maidens for pregnancy
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.138-252: Actaeon sees her bathing; transforms him into a stag; he is torn apart by his own hounds
 - **[Metamorphoses](../sources/metamorphoses.md)** 5.330: Fled Typhoeus to Egypt; took the form of a cat

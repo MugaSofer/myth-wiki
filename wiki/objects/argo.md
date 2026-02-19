@@ -101,6 +101,12 @@ This passage places the Argo's voyage in the narrative past of the Homeric world
 
 [^od12-argo]: "One ship only of all that fare by sea hath passed that way, even Argo, that is in all men's minds, on her voyage from Aeetes. And even her the wave would lightly have cast there upon the mighty rocks, but Here sent her by for love of Jason" (Odyssey XII.6597-6600, trans. Butcher and Lang)
 
+## Prophecy of Jason's Death
+
+In Euripides' [Medea](../sources/euripides-medea.md), [Medea](../heroes/medea.md) prophesies that the Argo will be the instrument of [Jason](../heroes/jason.md)'s death: "thou, wretch, as is fit, shalt die wretchedly, struck on thy head with a relic of thy ship Argo."[^eur-argo-death] This tradition — that a timber from the Argo would fall and kill Jason — suggests the ship's sacred Dodonian beam retained its significance (and danger) long after the voyage.
+
+[^eur-argo-death]: "thou, wretch, as is fit, shalt die wretchedly, struck on thy head with a relic of thy ship Argo, having seen the bitter end of my marriage" (Medea 1386-1388, trans. T.A. Buckley)
+
 ## Dedication
 
 After the return, "he sailed with the chiefs to the Isthmus and dedicated the ship to Poseidon."[^apd-dedication]
@@ -125,3 +131,4 @@ Apollodorus provides a detailed catalogue of the Argonauts, including: Tiphys (h
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.24: The ship speaks, declaring Zeus's wrath will not cease until the Argonauts are purified by Circe
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25-26: Steered through Wandering Rocks by [Thetis](../deities/thetis.md) and Nereids; pelted by Talos on Crete; voyage completed in four months
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.27: Dedicated to [Poseidon](../deities/poseidon.md) at the Isthmus after the voyage
+- **[Euripides' Medea](../sources/euripides-medea.md)** 1386-1388: [Medea](../heroes/medea.md) prophesies Jason will die "struck on thy head with a relic of thy ship Argo"

@@ -101,7 +101,7 @@ In the Hymn, Aphrodite tells the story of [Eos](eos.md) and Tithonus as a cautio
 
 ### The Visit of Hera and Athena
 
-In Book III, [Hera](hera.md) and [Athena](athena.md) came to Aphrodite's home seeking [Eros](eros.md)'s services. When the two goddesses arrived, Apollonius pictures a domestic scene: Aphrodite was sitting combing her hair, "and before her Eros was arranging her tresses." She was flustered to receive such distinguished visitors unattended and without proper seats prepared for them.[^arg-aph-visit] She confessed to Hera that Eros was difficult to manage — threatening that she would break his bow and arrows in her exasperation with his unruliness — but agreed to bribe him with [Zeus](zeus.md)'s golden ball (a plaything made for him in the Idaean cave by his nurse Adrasteia) if he would shoot Medea.[^arg-aph-bribe]
+In Book III, [Hera](hera.md) and [Athena](athena.md) came to Aphrodite's home seeking [Eros](eros.md)'s services. When the two goddesses arrived, Apollonius pictures a domestic scene: Aphrodite was sitting alone, parting her hair with a golden comb, about to braid it up. She was flustered to receive such distinguished visitors unattended and without proper seats prepared for them.[^arg-aph-visit] She confessed to Hera that Eros was difficult to manage — threatening that she would break his bow and arrows in her exasperation with his unruliness — but agreed to bribe him with [Zeus](zeus.md)'s golden ball (a plaything made for him in the Idaean cave by his nurse Adrasteia) if he would shoot Medea.[^arg-aph-bribe]
 
 ### Rescuing Butes
 
@@ -111,10 +111,28 @@ When the Argo passed the Sirens, all the crew were enchanted except [Orpheus](..
 
 The cause of the Lemnian massacre — the killing of all their men by the Lemnian women — is explained in the Argonautica as Aphrodite's wrath: the Lemnian women had neglected to honor her, and the goddess afflicted them with a noisome smell so their husbands turned from them to Thracian concubines, provoking the slaughter.[^arg-aph-lemnos]
 
-[^arg-aph-visit]: "before her Eros was arranging her tresses as she sat on a polished chair, but seeing them she held up her locks of hair with both her hands and was about to leave her couch" (Argonautica 3.43-47, trans. R.C. Seaton)
-[^arg-aph-bribe]: "Often I rebuke him though it please him not, and I think I will break his arrows and his evil bow before his eyes... but he fears me not a whit" (Argonautica 3.89-91, trans. R.C. Seaton)
-[^arg-aph-butes]: "him alone the goddess that rules Eryx, Cypris, in pity snatched away as he swam" (Argonautica 4.912-914, trans. R.C. Seaton)
-[^arg-aph-lemnos]: "for they had not given due honour to Aphrodite, and she in anger smote them with a shameful plague... so that their husbands loathed them and bedded with captive maids from Thrace" (Argonautica 1.614-619, trans. R.C. Seaton)
+[^arg-aph-visit]: "she all alone was sitting within, on an inlaid seat facing the door. And her white shoulders on each side were covered with the mantle of her hair and she was parting it with a golden comb and about to braid up the long tresses; but when she saw the goddesses before her, she stayed and called them within, and rose from her seat" (Argonautica 3.43-47, trans. R.C. Seaton)
+[^arg-aph-bribe]: "overborne by his naughtiness, I purpose to break his ill-sounding arrows and his bow in his very sight. For in his anger he has threatened that if I shall not keep my hands off him while he still masters his temper, I shall have cause to blame myself thereafter" (Argonautica 3.89-91, trans. R.C. Seaton)
+[^arg-aph-butes]: "but the goddess that rules Eryx, Cypris, in pity snatched him away, while yet in the eddies, and graciously meeting him saved him to dwell on the Lilybean height" (Argonautica 4.912-914, trans. R.C. Seaton)
+[^arg-aph-lemnos]: "the men had rejected their lawful wives, loathing them, and had conceived a fierce passion for captive maids whom they themselves brought across the sea from their forays in Thrace; for the terrible wrath of Cypris came upon them, because for a long time they had grudged her the honours due" (Argonautica 1.614-619, trans. R.C. Seaton)
+
+## In Euripides' [Hippolytus](../sources/euripides-hippolytus.md)
+
+Aphrodite (Venus) delivers the prologue of the *Hippolytus*, establishing herself as the play's prime mover. She declares her universal power: "Great in the sight of mortals, and not without a name am I the Goddess Venus, and in heaven: and of as many as dwell within the ocean and the boundaries of Atlas, beholding the light of the sun, those indeed, who reverence my authority, I advance to honor; but overthrow as many as hold themselves high toward me."[^eur-hip-prologue]
+
+Hippolytus, son of [Theseus](../heroes/theseus.md) and the Amazon, has rejected her: he "says that I am of deities the vilest, and rejects the bridal bed, and will have nothing to do with marriage. But Dian, the sister of Phoebus, daughter of Jove, he honors, esteeming her the greatest of deities."[^eur-hip-rejection] Her vengeance is to cause Phaedra to fall in love with Hippolytus: "Phaedra... was smitten in her heart with fierce love by my design."[^eur-hip-phaedra]
+
+She reveals that [Poseidon](poseidon.md) has granted Theseus three curses — the mechanism by which Hippolytus will die: "Neptune, king of the ocean, granted as a privilege to Theseus, that he should make no prayer thrice to the God in vain."[^eur-hip-curses] Phaedra's death is accepted as collateral damage: "I will not make her ills of that high consequence, that will hinder my enemies from giving me such full vengeance as may content me."[^eur-hip-collateral]
+
+At the play's end, the dying Hippolytus recognises her as the cause: "One Venus hath destroyed us three" — himself, Phaedra, and Theseus.[^eur-hip-three] [Artemis](artemis.md) confirms her responsibility: "the crafty Venus hath so wrought."[^eur-hip-crafty]
+
+[^eur-hip-prologue]: "Great in the sight of mortals, and not without a name am I the Goddess Venus, and in heaven: and of as many as dwell within the ocean and the boundaries of Atlas, beholding the light of the sun, those indeed, who reverence my authority, I advance to honor; but overthrow as many as hold themselves high toward me" (Hippolytus 1-6, trans. T.A. Buckley)
+[^eur-hip-rejection]: "the son of Theseus, born of the Amazon, Hippolytus... says that I am of deities the vilest, and rejects the bridal bed, and will have nothing to do with marriage. But Dian, the sister of Phoebus, daughter of Jove, he honors, esteeming her the greatest of deities" (Hippolytus 10-16)
+[^eur-hip-phaedra]: "Phaedra, his father's noble wife, having seen him... was smitten in her heart with fierce love by my design" (Hippolytus 27-28)
+[^eur-hip-curses]: "Neptune, king of the ocean, granted as a privilege to Theseus, that he should make no prayer thrice to the God in vain" (Hippolytus 44-46)
+[^eur-hip-collateral]: "Phaedra dies, an illustrious woman indeed, yet still she must die; for I will not make her ills of that high consequence, that will hinder my enemies from giving me such full vengeance as may content me" (Hippolytus 47-50)
+[^eur-hip-three]: "One Venus hath destroyed us three" (Hippolytus 1400)
+[^eur-hip-crafty]: "the crafty Venus hath so wrought" (Hippolytus 1400)
 
 ## In the Iliad
 
@@ -252,6 +270,7 @@ She then lifted the veil from his mortal sight to reveal the gods destroying [Tr
 
 ## Appearances
 
+- **[Euripides' Hippolytus](../sources/euripides-hippolytus.md)** 1-57, 1400: Delivers prologue; declares universal power over mortals and gods; punishes Hippolytus for rejecting her worship and the bridal bed; causes Phaedra to fall in love with her stepson "by my design"; accepts Phaedra's death as collateral; "One Venus hath destroyed us three"
 - **[Argonautica](../sources/argonautica.md)** 1, 3, 4: Wrath against Lemnian women — cause of the massacre; found combing her hair when Hera and Athena visited; complained Eros was unruly and threatened to break his bow; bribed Eros with Zeus's golden ball (made in the Idaean cave by Adrasteia); rescued Butes from the Sirens at Lilybaeum — "the goddess that rules Eryx, Cypris, in pity snatched him away"
 - **[Theogony](../sources/theogony.md)** 16, 188-206: Mentioned in invocation; birth from sea-foam
 - **[Homeric Hymn V](../sources/homeric-hymns.md)**: The three immune; seduction of Anchises; birth of Aeneas; Eos and Tithonus
