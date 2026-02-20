@@ -9,7 +9,7 @@
 
 ## Overview
 
-The *Orestes* is set six days after [Orestes](../heroes/orestes.md) and [Electra](../heroes/electra.md) have killed [Clytemnestra](../heroes/clytemnestra.md). Orestes lies sick with madness, tormented by the [Eumenides](../creatures/eumenides.md). [Menelaus](../heroes/menelaus.md) arrives from Troy but refuses to help. [Tyndarus](../heroes/tyndarus.md), father of the slain queen, demands execution. The Argive assembly condemns Orestes and Electra to death by stoning, though they negotiate the right to die by their own hands. In desperation, Orestes, Electra, and [Pylades](../heroes/pylades.md) plot to murder [Helen](../heroes/helen.md) and take [Hermione](../heroes/hermione.md) hostage. [Apollo](../deities/apollo.md) intervenes as deus ex machina, revealing that he snatched Helen away to become a goddess alongside [Castor and Pollux](../heroes/dioscuri.md), and commanding Orestes to undergo trial at the Areopagus in Athens.
+The *Orestes* is set six days after [Orestes](../heroes/orestes.md) and [Electra](../heroes/electra.md) have killed [Clytemnestra](../heroes/clytemnestra.md). Orestes lies sick with madness, tormented by the [Eumenides](../creatures/eumenides.md). [Menelaus](../heroes/menelaus.md) arrives from Troy but refuses to help. [Tyndareus](../heroes/tyndareus.md), father of the slain queen, demands execution. The Argive assembly condemns Orestes and Electra to death by stoning, though they negotiate the right to die by their own hands. In desperation, Orestes, Electra, and [Pylades](../heroes/pylades.md) plot to murder [Helen](../heroes/helen.md) and take [Hermione](../heroes/hermione.md) hostage. [Apollo](../deities/apollo.md) intervenes as deus ex machina, revealing that he snatched Helen away to become a goddess alongside [Castor and Pollux](../heroes/dioscuri.md), and commanding Orestes to undergo trial at the Areopagus in Athens.
 
 The ancient argument notes: "The play is among the most celebrated on the stage, but infamous in its morals; for, with the exception of Pylades, all the characters are bad persons."
 
@@ -21,11 +21,11 @@ The ancient argument notes: "The play is among the most celebrated on the stage,
 ### Orestes' Madness (140–315)
 Orestes wakes from fitful sleep. In a lucid moment, he tends to Electra. Then the [Eumenides](../creatures/eumenides.md) return: he sees "three virgins like the night" and "dire Goddesses in the shape of dogs" with "gorgon-visaged ministers of hell." He seizes his bow, Apollo's gift, to repel them. He blames Apollo: "persuaded he Orestes to kill that mother that brought him forth... with words indeed consoled me, but not with deeds."
 
-### Menelaus and Tyndarus (316–629)
-[Menelaus](../heroes/menelaus.md) arrives. Orestes begs for help, invoking Agamemnon's sacrifices for him. [Tyndarus](../heroes/tyndarus.md) argues that Orestes should have prosecuted his mother legally, not murdered her. Orestes defends himself: Apollo commanded it, and the matricide was necessary to deter future wife-murders. Menelaus promises to try persuasion but refuses force. Orestes calls him "a mere cipher in other things except in warring for the sake of a woman."
+### Menelaus and Tyndareus (316–629)
+[Menelaus](../heroes/menelaus.md) arrives. Orestes begs for help, invoking Agamemnon's sacrifices for him. [Tyndareus](../heroes/tyndareus.md) argues that Orestes should have prosecuted his mother legally, not murdered her. Orestes defends himself: Apollo commanded it, and the matricide was necessary to deter future wife-murders. Menelaus promises to try persuasion but refuses force. Orestes calls him "a mere cipher in other things except in warring for the sake of a woman."
 
 ### The Trial (630–956)
-[Pylades](../heroes/pylades.md) arrives, himself exiled by his father for helping Orestes. A messenger reports the Argive assembly. Talthybius speaks ambiguously. Diomedes proposes exile, not death. An unnamed demagogue (prompted by Tyndarus) demands stoning. A plain farmer argues Orestes should be crowned for avenging his father. Orestes speaks but fails to persuade. He and Electra are condemned to die by suicide that day.
+[Pylades](../heroes/pylades.md) arrives, himself exiled by his father for helping Orestes. A messenger reports the Argive assembly. Talthybius speaks ambiguously. Diomedes proposes exile, not death. An unnamed demagogue (prompted by Tyndareus) demands stoning. A plain farmer argues Orestes should be crowned for avenging his father. Orestes speaks but fails to persuade. He and Electra are condemned to die by suicide that day.
 
 ### The Plot Against Helen (957–1352)
 Pylades proposes killing [Helen](../heroes/helen.md) as revenge against Menelaus and a service to all Greece. Electra adds: seize [Hermione](../heroes/hermione.md) as hostage. They enter the palace. A Phrygian slave narrates the attack: Helen vanished miraculously ("she vanished altogether from the chamber"), spirited away by the gods.
@@ -47,7 +47,7 @@ Orestes, Pylades, and Electra hold Hermione hostage on the palace roof, threaten
 - **[Helen](../heroes/helen.md)** — apotheosis; becomes a goddess, guardian of mariners
 - **[Menelaus](../heroes/menelaus.md)** — refuses to help; arrives too late
 - **[Apollo](../deities/apollo.md)** — commanded the matricide; resolves the crisis as deus ex machina
-- **[Tyndarus](../heroes/tyndarus.md)** — demands Orestes' execution
+- **[Tyndareus](../heroes/tyndareus.md)** — demands Orestes' execution
 
 ## Key Mythological Content
 
