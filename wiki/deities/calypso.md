@@ -20,12 +20,12 @@
 ## Epithets
 
 - **"that fair goddess"** / **"Calypso, the fair goddess"** — the most frequent epithet, used throughout [Odyssey](../sources/odyssey.md) V[^od5-fairgoddess]
-- **"the nymph of the braided tresses"** / **"Calypso, of the braided tresses"** — (Odyssey 5.39, 3038; VII.4040)[^od5-braided]
-- **"an awful goddess"** — ([Odyssey](../sources/odyssey.md) VII.4040, 4047)[^od7-awful]
+- **"the nymph of the braided tresses"** / **"Calypso, of the braided tresses"** — (Odyssey 5.39; 7.247)[^od5-braided]
+- **"an awful goddess"** — ([Odyssey](../sources/odyssey.md) 7.247-248)[^od7-awful]
 - **"the bright goddess Calypso"** — ([Theogony](../sources/theogony.md) 1017)[^theog-bright]
-- **"crafty Calypso"** — ([Odyssey](../sources/odyssey.md) VII.4040)[^od7-awful]
-- **"the lady nymph Calypso"** — ([Odyssey](../sources/odyssey.md) I.742)[^od1-lady]
-- **"Calypso of the fair hair"** — ([Odyssey](../sources/odyssey.md) XII.6911)[^od12-fairhair]
+- **"crafty Calypso"** — ([Odyssey](../sources/odyssey.md) 7.247)[^od7-awful]
+- **"the lady nymph Calypso"** — ([Odyssey](../sources/odyssey.md) 1.23-24)[^od1-lady]
+- **"Calypso of the fair hair"** — ([Odyssey](../sources/odyssey.md) 12.388-389)[^od12-fairhair]
 
 [^od5-fairgoddess]: "Calypso, that fair goddess, questioned Hermes" (Odyssey 5.85, trans. Butcher and Lang)
 [^od5-braided]: "tell unto the nymph of the braided tresses my unerring counsel" (Odyssey 5.39)
@@ -121,7 +121,7 @@ Later, she appears in the catalogue of goddesses who bore children to mortal men
 
 The [Bibliotheca](../sources/apollodorus.md) gives a compressed account. After Odysseus's ship was wrecked, "Calypso, daughter of [Atlas](atlas.md), received him, and bedding with him bore a son Latinus. He stayed with her five years, and then made a raft and sailed away."[^apd-calypso]
 
-> **VARIANT:** The Bibliotheca says Odysseus stayed five years (E.7.24), the [Odyssey](../sources/odyssey.md) says seven (VII.4051), and the [Fabulae](../sources/hyginus.md) says one year (§125). The child named here — Latinus — differs from the Theogony's Nausithous and Nausinous.
+> **VARIANT:** The Bibliotheca says Odysseus stayed five years (E.7.24), the [Odyssey](../sources/odyssey.md) says seven (7.259), and the [Fabulae](../sources/hyginus.md) says one year (§125). The child named here — Latinus — differs from the Theogony's Nausithous and Nausinous.
 
 [^apd-calypso]: "There Calypso, daughter of Atlas, received him, and bedding with him bore a son Latinus. He stayed with her five years, and then made a raft and sailed away" (Bibliotheca E.7.24, trans. J.G. Frazer)
 
@@ -143,11 +143,11 @@ In the genealogical preface, Hyginus lists Calypso among the children of [Atlas]
 
 ### Parentage
 
-Calypso's parentage is reported differently across sources. The [Theogony](../sources/theogony.md) lists her among the Oceanids, daughters of Ocean and Tethys (359). The [Odyssey](../sources/odyssey.md) calls her "the daughter of [Atlas](atlas.md)" (VII.4040). The [Fabulae](../sources/hyginus.md) lists her among the children of Atlas and Pleione (§p.9), grouping her with the Pleiades. The [Bibliotheca](../sources/apollodorus.md) also calls her "daughter of Atlas" (E.7.24).
+Calypso's parentage is reported differently across sources. The [Theogony](../sources/theogony.md) lists her among the Oceanids, daughters of Ocean and Tethys (359). The [Odyssey](../sources/odyssey.md) calls her "the daughter of [Atlas](atlas.md)" (7.245). The [Fabulae](../sources/hyginus.md) lists her among the children of Atlas and Pleione (§p.9), grouping her with the Pleiades. The [Bibliotheca](../sources/apollodorus.md) also calls her "daughter of Atlas" (E.7.24).
 
 ### Duration of Odysseus's Stay
 
-- Seven years: [Odyssey](../sources/odyssey.md) VII.4051
+- Seven years: [Odyssey](../sources/odyssey.md) 7.259
 - Five years: [Bibliotheca](../sources/apollodorus.md) E.7.24
 - One year: [Fabulae](../sources/hyginus.md) §125
 

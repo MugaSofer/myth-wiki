@@ -29,5 +29,5 @@ The second weighing is especially significant: the moment Hector's lot sinks, Ap
 
 ## Appearances
 
-- **[Iliad](../sources/iliad.md)** VIII.4474-4481: Zeus weighs the fates of Trojans and Achaians; the Achaians' day sinks down
-- **[Iliad](../sources/iliad.md)** XXII.12479-12482: Zeus weighs the fates of Achilles and Hector; Hector's lot sinks and [Apollo](../deities/apollo.md) abandons him
+- **[Iliad](../sources/iliad.md)** 8.70-78: Zeus weighs the fates of Trojans and Achaians; the Achaians' day sinks down
+- **[Iliad](../sources/iliad.md)** 22.205-208: Zeus weighs the fates of Achilles and Hector; Hector's lot sinks and [Apollo](../deities/apollo.md) abandons him

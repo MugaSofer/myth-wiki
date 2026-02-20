@@ -198,7 +198,7 @@ Inside the palace, she maintained her protection: "the steadfast goodly Odysseus
 
 ### Return to Ithaca (Books XIII-XVI)
 
-The reunion of [Athena](athena.md) and Odysseus on Ithaca in Book XIII is one of the great recognition scenes in the poem — two masters of craft delighting in each other's cunning.
+The reunion of Athena and Odysseus on Ithaca in Book XIII is one of the great recognition scenes in the poem — two masters of craft delighting in each other's cunning.
 
 **The mist and the disguise (XIII).** When the Phaeacians set sleeping Odysseus ashore, Athena shrouds his homeland from him: she "shed a mist about all things, that she might make him unknown, and might expound to him all matters."[^od13-mist] She first approaches him "in the guise of a young man, the herdsman of a flock, a young man most delicate, such as are the sons of kings."[^od13-herdsman] Odysseus, true to form, responds with an elaborate false tale — and the goddess is charmed rather than offended.
 
@@ -220,7 +220,7 @@ The transformation power displayed across these books — beggar to king to begg
 
 **Beautifying Penelope (XVIII).** In a scene that parallels her beautification of Odysseus, Athena transforms Penelope as she sleeps: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the [Graces](graces.md). And she made her taller and greater to behold, and made her whiter than new-sawn ivory."[^od18-penelope] The comparison to [Aphrodite](aphrodite.md) is striking — Athena applies the same cosmetic arts as the goddess of beauty herself.
 
-**As Mentor at the slaying (XXII).** When the battle with the wooers begins in earnest, [Athena](athena.md) appears "like Mentor in fashion and in voice," and Odysseus is glad.[^od22-mentor] But when the wooers threaten Mentor, Athena chides Odysseus: "thou hast no more steadfast might nor any prowess, as when for nine whole years continually thou didst battle with the Trojans."[^od22-chide] She does not yet grant full victory, but instead "she flew up to the roof timber of the murky hall, in such fashion as a swallow flies, and there sat down."[^od22-swallow]
+**As Mentor at the slaying (XXII).** When the battle with the wooers begins in earnest, Athena appears "like Mentor in fashion and in voice," and Odysseus is glad.[^od22-mentor] But when the wooers threaten Mentor, Athena chides Odysseus: "thou hast no more steadfast might nor any prowess, as when for nine whole years continually thou didst battle with the Trojans."[^od22-chide] She does not yet grant full victory, but instead "she flew up to the roof timber of the murky hall, in such fashion as a swallow flies, and there sat down."[^od22-swallow]
 
 When the wooers cast their spears, "Athene so wrought that they were all in vain."[^od22-vain] Then comes the decisive intervention: "Athene held up her destroying [aegis](../objects/aegis.md) on high from the roof, and their minds were scared, and they fled through the hall, like a drove of kine that the flitting gadfly falls upon and scatters hither and thither in spring time."[^od22-aegis] The aegis — the same weapon she bears in the [Iliad](../sources/iliad.md) arming scenes — here ends the contest in a moment of divine terror.
 
@@ -374,7 +374,7 @@ Athena continued her role as [Heracles](../heroes/heracles.md)' protector:
 - For the Stymphalian Birds, "Athena gave him brazen castanets, which she had received from [Hephaestus](hephaestus.md)."[^apd-ath-castanets]
 - Brought him to Phlegra to fight in the [Gigantomachy](../creatures/giants.md): "he came through Athena's agency to Phlegra, and sided with the gods."[^apd-ath-phlegra]
 - Gave him "a lock of the Gorgon's hair in a bronze jar" to use as a weapon against enemies.[^apd-ath-gorgon-lock]
-- Returned the golden apples to the [Hesperides](../creatures/echidna.md): "[Athena](athena.md) got them and conveyed them back again; for it was not lawful that they should be laid down anywhere."[^apd-ath-apples]
+- Returned the golden apples to the [Hesperides](../creatures/echidna.md): "Athena got them and conveyed them back again; for it was not lawful that they should be laid down anywhere."[^apd-ath-apples]
 
 [^apd-ath-danaus]: "by the advice of Athena he built a ship, being the first to do so" (Bibliotheca 2.1.4, trans. J.G. Frazer)
 [^apd-ath-purify]: "Athena and Hermes purified them at the command of Zeus" (Bibliotheca 2.1.5)

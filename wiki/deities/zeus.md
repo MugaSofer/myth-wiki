@@ -343,7 +343,7 @@ Sleep recalls that Zeus once "was wrathful, and dashed the gods about his mansio
 
 ### Sarpedon's Death and Bloody Raindrops (Book XVI)
 
-When Sarpedon faces Patroklos, [Zeus](zeus.md) debates whether to save his son: "Ah woe is me for that it is fated that Sarpedon, the best-beloved of men to me, shall be subdued under Patroklos... And in two ways my heart within my breast is divided, as I ponder whether I should catch him up alive out of the tearful war, and set him down in the rich land of Lykia, or whether I should now subdue him beneath the hands of the son of Menoitios."[^il16-sarpedon]
+When Sarpedon faces Patroklos, Zeus debates whether to save his son: "Ah woe is me for that it is fated that Sarpedon, the best-beloved of men to me, shall be subdued under Patroklos... And in two ways my heart within my breast is divided, as I ponder whether I should catch him up alive out of the tearful war, and set him down in the rich land of Lykia, or whether I should now subdue him beneath the hands of the son of Menoitios."[^il16-sarpedon]
 
 [Hera](hera.md) opposes this, warning that other gods would want to save their sons too: "round the great citadel of Priam war many sons of the Immortals, and among the Immortals wilt thou send terrible wrath."[^il16-hera-warns] Zeus yields, but honours Sarpedon with a portent: "he shed bloody raindrops on the earth, honouring his dear son, that Patroklos was about to slay in the deep-soiled land of Troia, far off from his own country."[^il16-raindrops]
 
@@ -431,7 +431,7 @@ After Hera sent storms against Heracles as he sailed from [Troy](../places/troy.
 
 ### The Ivory Sceptre and Restrained Thunderbolts (Books 1-2)
 
-When [Zeus](zeus.md) addresses the assembled gods about the impiety of mortals, the [Metamorphoses](../sources/metamorphoses.md) depicts him "leaning on his ivory scepter" as he "thrice, and once again he shook his awful locks, wherewith he moved the earth, and seas and stars."[^met-zeus-sceptre] The ivory sceptre appears again when he presides over [Cadmus](../heroes/cadmus.md)'s sowing of the dragon teeth, "distinguished by his ivory sceptre" as he sat surrounded by his court.[^met-zeus-sceptre2]
+When Zeus addresses the assembled gods about the impiety of mortals, the [Metamorphoses](../sources/metamorphoses.md) depicts him "leaning on his ivory scepter" as he "thrice, and once again he shook his awful locks, wherewith he moved the earth, and seas and stars."[^met-zeus-sceptre] The ivory sceptre appears again when he presides over [Cadmus](../heroes/cadmus.md)'s sowing of the dragon teeth, "distinguished by his ivory sceptre" as he sat surrounded by his court.[^met-zeus-sceptre2]
 
 During the flood, Zeus restrains himself from using his thunderbolts: "his thunder bolts would Jove wide scatter, but he feared the flames, unnumbered, sacred ether might ignite and burn the axle of the universe." Instead he chose water as punishment.[^met-zeus-restrain]
 

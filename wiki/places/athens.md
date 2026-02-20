@@ -11,7 +11,7 @@
 
 **Athens** was the chief city of Attica, sacred to [Athena](../deities/athena.md), who won it from [Poseidon](../deities/poseidon.md) in a contest judged by the twelve gods. The city was governed by a succession of earth-born kings — [Cecrops](../heroes/cecrops.md), Cranaus, Amphictyon, [Erichthonius](../heroes/erichthonius.md), [Pandion](../heroes/pandion.md), [Erechtheus](../heroes/erechtheus.md), and their descendants — before the age of [Theseus](../heroes/theseus.md). The Iliad calls it "the goodly citadel of Athens, the domain of [Erechtheus](../heroes/erechtheus.md) the high-hearted."[^il-athens]
 
-[^il-athens]: "the goodly citadel of Athens, the domain of Erechtheus the high-hearted, whom erst Athene daughter of Zeus fostered when Earth, the grain-giver, brought him to birth; and she gave him a resting-place in Athens in her own rich sanctuary" (Iliad 2.1282-1287, trans. Lang, Leaf, and Myers)
+[^il-athens]: "the goodly citadel of Athens, the domain of Erechtheus the high-hearted, whom erst Athene daughter of Zeus fostered when Earth, the grain-giver, brought him to birth; and she gave him a resting-place in Athens in her own rich sanctuary" (Iliad 2.546-551, trans. Lang, Leaf, and Myers)
 
 ## Contest of Athena and Poseidon
 

@@ -16,7 +16,7 @@
 - **"bulwark of the Achaians"** — used repeatedly in the [Iliad](../sources/iliad.md)[^il7-bulwark]
 - **"Aias of the seed of Zeus, son of Telamon, chieftain of the host"** — [Hector](hector.md)'s address to him before their duel[^il7-seed]
 
-[^il7-bulwark]: "So rose up huge Aias, bulwark of the Achaians, with a smile on his grim face" (Iliad 7.213, trans. Lang, Leaf, and Myers); also at III.1845, VIII.3467
+[^il7-bulwark]: "So rose up huge Aias, bulwark of the Achaians, with a smile on his grim face" (Iliad 7.213, passim, trans. Lang, Leaf, and Myers)
 [^il7-seed]: "Aias of the seed of Zeus, son of Telamon, chieftain of the host, tempt not thou me like some puny boy or woman" (Iliad 7.233-235)
 
 ## Appearance

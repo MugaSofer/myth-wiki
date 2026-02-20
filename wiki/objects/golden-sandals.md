@@ -49,7 +49,7 @@ In the [Bibliotheca](../sources/apollodorus.md), [Perseus](../heroes/perseus.md)
 
 On the [Shield of Heracles](../sources/shield-of-heracles.md), Perseus is depicted in flight: "On his feet he had winged sandals, and his black-sheathed sword was slung across his shoulders by a cross-belt of bronze. He was flying swift as thought."[^shield-perseus]
 
-[^od-formula]: (Odyssey 1.99-101 / V.3026-3028, trans. Butcher and Lang)
+[^od-formula]: (Odyssey 1.99-101, trans. Butcher and Lang)
 [^od1-athena]: "She bound beneath her feet her lovely golden sandals that wax not old, and bare her alike over the wet sea and over the limitless land, swift as the breath of the wind. And she seized her doughty spear, shod with sharp bronze, weighty and huge and strong, wherewith she quells the ranks of heroes with whomsoever she is wroth, the daughter of the mighty sire." (Odyssey 1.99-104, trans. Butcher and Lang)
 [^od5-hermes]: "Straightway he bound beneath his feet his lovely golden sandals, that wax not old, that bare him alike over the wet sea and over the limitless land, swift as the breath of the wind. And he took the wand wherewith he lulls the eyes of whomso he will, while others again he even wakes from out of sleep." (Odyssey 5.53-57, trans. Butcher and Lang)
 [^il24-hermes]: "Straightway beneath his feet he bound on his fair sandals, golden, divine, that bare him over wet sea and over the boundless land with the breathings of the wind. And he took up his wand wherewith he entranceth the eyes of such men as he will, and others he likewise waketh out of sleep." (Iliad 24.289-292, trans. Lang, Leaf, and Myers)

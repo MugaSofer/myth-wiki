@@ -7,7 +7,7 @@
 | **Domain** | Queen of the gods, marriage |
 | **Parents** | [Cronos](cronos.md) and [Rhea](rhea.md) |
 | **Consort(s)** | [Zeus](zeus.md) |
-| **Children** | Hebe, [Ares](ares.md), Eileithyia (with [Zeus](zeus.md)); Hephaestus (alone) |
+| **Children** | [Hebe](hebe.md), [Ares](ares.md), Eileithyia (with [Zeus](zeus.md)); [Hephaestus](hephaestus.md) (alone) |
 | **First appearance** | [Theogony](../sources/theogony.md) 11 |
 
 ## Overview
@@ -48,6 +48,8 @@ Hera's physical power is also conveyed through action: she "stirred her upon her
 
 [^apd-dion-wander-hera]: "Dionysus... being driven mad by Hera he roamed about Egypt and Syria" (Bibliotheca 3.5.1, trans. J.G. Frazer)
 [^apd-hera-menelaus]: "being made immortal by Hera he went to the Elysian Fields with Helen" (Bibliotheca E.6.29, trans. J.G. Frazer)
+[^theog-hydra]: "the goddess, white-armed Hera nourished, being angry beyond measure with the mighty Heracles" (Theogony 314-315, trans. H.G. Evelyn-White)
+[^theog-lion]: "Hera, the good wife of Zeus, brought up and made to haunt the hills of Nemea, a plague to men" (Theogony 328-329)
 
 ## Children
 
@@ -59,15 +61,6 @@ Hera's physical power is also conveyed through action: she "stirred her upon her
 
 [^theog-children]: "she was joined in love with the king of gods and men, and brought forth Hebe and Ares and Eileithyia" (Theogony 921-923, trans. H.G. Evelyn-White)
 [^theog-hephaestus]: "Hera without union with Zeus—for she was very angry and quarrelled with her mate—bare famous Hephaestus, who is skilled in crafts more than all the sons of Heaven" (Theogony 927-929)
-
-## Mythology
-
-Hera appears as an active figure in several passages:
-- She nourished the Hydra of Lerna, "being angry beyond measure with the mighty [Heracles](../heroes/heracles.md)."[^theog-hydra]
-- She "brought up and made to haunt the hills of Nemea" the Nemean lion, "a plague to men."[^theog-lion]
-
-[^theog-hydra]: "the goddess, white-armed Hera nourished, being angry beyond measure with the mighty Heracles" (Theogony 314-315)
-[^theog-lion]: "Hera, the good wife of Zeus, brought up and made to haunt the hills of Nemea, a plague to men" (Theogony 328-329)
 
 ## In the Hymn to Apollo
 
@@ -95,7 +88,7 @@ During Leto's labour on Delos, Hera "sat in the halls of cloud-gathering [Zeus](
 
 ### Ixion and the Cloud (§62)
 
-The [Fabulae](../sources/hyginus.md) tells the story of [Zeus](zeus.md)'s (Jove's) test of Ixion. "Ixion, son of Leonteus, attempted to embrace Juno [[Hera](hera.md)]."[^hyg-62-attempt] Zeus devised a trick: "Juno, by Jove's instructions, substituted a cloud, which Ixion believed to be the likeness of Juno."[^hyg-62-cloud]
+The [Fabulae](../sources/hyginus.md) tells the story of [Zeus](zeus.md)'s (Jove's) test of Ixion. "Ixion, son of Leonteus, attempted to embrace Juno [Hera]."[^hyg-62-attempt] Zeus devised a trick: "Juno, by Jove's instructions, substituted a cloud, which Ixion believed to be the likeness of Juno."[^hyg-62-cloud]
 
 The union had consequences: "From this the Centaurs were born."[^hyg-62-centaurs] The punishment was eternal: "But Mercury [[Hermes](hermes.md)], by Jove's instructions, bound Ixion in the Land of the Dead to a wheel, which is said to be still turning there."[^hyg-62-wheel]
 
@@ -328,7 +321,7 @@ Jupiter agrees, smiling: "Jove's own sister thou art, and second seed of Saturn,
 - **[Argonautica](../sources/argonautica.md)** 1-4: Divine patron of the expedition; motivated by Jason carrying her across the Anaurus; conspired with Athena and Aphrodite to deploy Eros against Medea; spread mist over the Argo at Colchis; summoned Thetis via Iris; arranged Hephaestus and Aeolus to give safe passage; devised the Phaeacian marriage; sent nymphs to attend the wedding
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.601-746: Detects Zeus's affair with Io; claims heifer; sets Argus to guard; decorates peacock with Argus's eyes; drives Io with a Fury
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.532-535: Peacock chariot — travels through the air with peacocks many-hued
-- **[Metamorphoses](../sources/metamorphoses.md)** 5.330: Fled Typhoeus to Egypt; took the form of a snow-white cow — "High in her graceful chariot through the air... with her peacocks many-hued"
+- **[Metamorphoses](../sources/metamorphoses.md)** 5.330: Fled Typhoeus to Egypt; took the form of a snow-white cow
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.253-315: Disguised as nurse Beroe, tricks Semele into fatal demand
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.316-338: Blinds Tiresias for siding with Zeus
 - **[Metamorphoses](../sources/metamorphoses.md)** 4.447-481: Descends to the Underworld to recruit the Furies against the House of Cadmus; Cerberus howls; Tisiphone agrees instantly; Iris purifies Hera on return

@@ -18,8 +18,8 @@
 
 The Iliad refers to Asclepius only as the father of the Greek healers at Troy. "Asklepios' two sons were leaders, the cunning leeches Podaleirios and Machaon" who commanded thirty ships from Oichalia.[^il-sons] He is called "Asklepios the noble leech" and "Asklepios the good leech."[^il-leech]
 
-[^il-sons]: "Asklepios' two sons were leaders, the cunning leeches Podaleirios and Machaon" (Iliad 2.1458-1459, trans. Lang, Leaf, and Myers)
-[^il-leech]: "Machaon hither, the hero son of Asklepios the noble leech" (Iliad 4.2250-2251); "Machaon, son of Asklepios the good leech" (Iliad 11.6654-6655)
+[^il-sons]: "Asklepios' two sons were leaders, the cunning leeches Podaleirios and Machaon" (Iliad 2.731-732, trans. Lang, Leaf, and Myers)
+[^il-leech]: "Machaon hither, the hero son of Asklepios the noble leech" (Iliad 4.193-194); "Machaon, son of Asklepios the good leech" (Iliad 11.614-615)
 
 ## In the Catalogue of Women
 

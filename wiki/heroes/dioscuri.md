@@ -22,8 +22,8 @@
 
 The narrator reveals the truth: "them the life-giving earth held fast there in Lakedaimon, in their dear native land."[^il-dead]
 
-[^il-helen]: "two captains of the host can I not see, even Kastor tamer of horses and Polydeukes the skilful boxer, mine own brethren, whom the same mother bare. Either they came not in the company from lovely Lakedaimon... for fear of the many scornings and revilings that are mine" (Iliad 3.1850-1855, trans. Lang, Leaf, and Myers)
-[^il-dead]: "them the life-giving earth held fast there in Lakedaimon, in their dear native land" (Iliad 3.1857-1858)
+[^il-helen]: "two captains of the host can I not see, even Kastor tamer of horses and Polydeukes the skilful boxer, mine own brethren, whom the same mother bare. Either they came not in the company from lovely Lakedaimon... for fear of the many scornings and revilings that are mine" (Iliad 3.236-242, trans. Lang, Leaf, and Myers)
+[^il-dead]: "them the life-giving earth held fast there in Lakedaimon, in their dear native land" (Iliad 3.243-244)
 
 ## In the [Odyssey](../sources/odyssey.md)
 
@@ -31,7 +31,7 @@ The narrator reveals the truth: "them the life-giving earth held fast there in L
 
 Odysseus sees Leda in the underworld, "the famous bed-fellow of Tyndareus, who bare to Tyndareus two sons, hardy of heart, Castor tamer of steeds, and Polydeuces the boxer." Their unique fate is described: "These twain yet live, but the quickening earth is over them; and even in the nether world they have honour at the hand of Zeus. And they possess their life in turn, living one day and dying the next, and they have gotten worship even as the gods."[^od-twins]
 
-[^od-twins]: "Castor tamer of steeds, and Polydeuces the boxer. These twain yet live, but the quickening earth is over them; and even in the nether world they have honour at the hand of Zeus. And they possess their life in turn, living one day and dying the next, and they have gotten worship even as the gods" (Odyssey 11.6184-6189, trans. Butcher and Lang)
+[^od-twins]: "Castor tamer of steeds, and Polydeuces the boxer. These twain yet live, but the quickening earth is over them; and even in the nether world they have honour at the hand of Zeus. And they possess their life in turn, living one day and dying the next, and they have gotten worship even as the gods" (Odyssey 11.298-304, trans. Butcher and Lang)
 
 ## In the Catalogue of Women
 

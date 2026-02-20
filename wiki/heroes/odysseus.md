@@ -39,7 +39,7 @@
 [^ep-heaven]: "Heaven-sprung son of Laertes, Odysseus of many devices" (Iliad 2.174, trans. Lang, Leaf, and Myers)
 [^ep-wiles]: "son of Laertes, Odysseus of many wiles, in openness must I now declare" (Iliad 9.312, trans. Lang, Leaf, and Myers)
 [^ep-counsels]: "And Odysseus of many counsels answered, and spake unto her" (Odyssey 5.219, trans. Butcher and Lang)
-[^ep-peer]: "Odysseus peer of Zeus in counsel" (Iliad 2.398, trans. Lang, Leaf, and Myers); also at II.1370, X.5714
+[^ep-peer]: "Odysseus peer of Zeus in counsel" (Iliad 2.398, trans. Lang, Leaf, and Myers)
 [^ep-insatiable]: "Odysseus, insatiable of craft and toil" (Iliad 11.435)
 
 ## Appearance

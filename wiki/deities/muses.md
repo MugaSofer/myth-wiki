@@ -83,7 +83,7 @@ The poet invokes the Muses before the Catalogue of Ships, acknowledging their un
 
 ## In the Bibliotheca
 
-Apollodorus names the nine [Muses](muses.md) in a different order from the Theogony, with Calliope listed first: "by Memory (Mnemosyne) he had the Muses, first Calliope, then Clio, Melpomene, Euterpe, Erato, Terpsichore, Urania, Thalia, and Polymnia."[^apd-muses-list] Their parentage ([Zeus](zeus.md) and [Mnemosyne](mnemosyne.md)) is the same as in the Theogony, and [Persephone](persephone.md) is listed as child of [Zeus](zeus.md) and [Styx](styx.md) rather than Zeus and [Demeter](demeter.md) (see [Persephone - Variant Traditions](persephone.md)).
+Apollodorus names the nine Muses in a different order from the Theogony, with Calliope listed first: "by Memory (Mnemosyne) he had the Muses, first Calliope, then Clio, Melpomene, Euterpe, Erato, Terpsichore, Urania, Thalia, and Polymnia."[^apd-muses-list] Their parentage ([Zeus](zeus.md) and [Mnemosyne](mnemosyne.md)) is the same as in the Theogony, and [Persephone](persephone.md) is listed as child of [Zeus](zeus.md) and [Styx](styx.md) rather than Zeus and [Demeter](demeter.md) (see [Persephone - Variant Traditions](persephone.md)).
 
 ### Calliope's Sons: Linus and Orpheus
 
@@ -99,7 +99,7 @@ Thamyris "engaged in a musical contest with the Muses, the agreement being that,
 
 ### Other Muses' Children
 
-- [Euterpe](muses.md) had by the river Strymon a son Rhesus, "whom Diomedes slew at Troy; but some say his mother was Calliope."[^apd-rhesus]
+- Euterpe had by the river Strymon a son Rhesus, "whom Diomedes slew at Troy; but some say his mother was Calliope."[^apd-rhesus]
 - Thalia had by [Apollo](apollo.md) the Corybantes.[^apd-corybantes]
 - Melpomene had by Achelous the [Sirens](../creatures/sirens.md).[^apd-sirens]
 

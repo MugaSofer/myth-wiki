@@ -24,7 +24,7 @@
 - **"pleasant of speech, the clear-voiced orator of the Pylians"** — his introduction in Book I[^il1-orator]
 - **"he from whose tongue flowed discourse sweeter than honey"** — the celebrated honeyed-speech image[^il1-honey]
 
-[^il1-knightly]: "knightly Nestor of Gerenia" (Iliad I, passim; e.g. II.1185, IV.2365, trans. Lang, Leaf, and Myers)
+[^il1-knightly]: "knightly Nestor of Gerenia" (Iliad I, passim, trans. Lang, Leaf, and Myers)
 [^il1-orator]: "Nestor, pleasant of speech, the clear-voiced orator of the Pylians" (Iliad 1.249-250)
 [^il1-honey]: "he from whose tongue flowed discourse sweeter than honey" (Iliad 1.250-251)
 

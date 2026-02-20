@@ -138,7 +138,7 @@ The prohibition was absolute, yet "Anchises, however, told it over the wine to h
 
 ### The Storm and Carthage (Book I)
 
-The *Aeneid* opens with [Aeneas](aeneas.md) sailing from Sicily toward Italy when [Juno](../deities/hera.md), still bitter from the judgment of Paris, enlists Aeolus to raise a catastrophic storm. Aeneas cries out in despair: "Ah, thrice and four times happy they who found their doom under high Troy town before their fathers' faces!"[^aen-ae-despair] [Neptune](../deities/poseidon.md) calms the sea, and the fleet makes landfall in Libya.
+The *Aeneid* opens with Aeneas sailing from Sicily toward Italy when [Juno](../deities/hera.md), still bitter from the judgment of Paris, enlists Aeolus to raise a catastrophic storm. Aeneas cries out in despair: "Ah, thrice and four times happy they who found their doom under high Troy town before their fathers' faces!"[^aen-ae-despair] [Neptune](../deities/poseidon.md) calms the sea, and the fleet makes landfall in Libya.
 
 Aeneas is characterised by a tension between outward composure and inner anguish: "sick with deep distress he feigns hope on his face, and keeps his anguish hidden deep in his breast."[^aen-ae-feign] He rallies his men with a speech: "Through chequered fortunes, through many perilous ways, we steer for Latium, where destiny points us a quiet home."[^aen-ae-rally]
 

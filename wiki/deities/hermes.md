@@ -22,7 +22,7 @@
 - **"bearer of the golden wand"** — (Hymn IV 529; Hymn V 117)[^desc-wand]
 - **"of many shifts, blandly cunning, a robber, a cattle driver, a bringer of dreams, a watcher by night, a thief at the gates"** — the remarkable string of epithets at his birth (Hymn IV 13-15)[^desc-shifts]
 - **"giver of grace, guide, and giver of good things"** — (Hymn XVIII 12)[^desc-grace]
-- **"the Helper"** / **"the Helper Hermes, pro-eminent in subtle thoughts"** — ([Iliad](../sources/iliad.md) XX.11334; XXIV passim)[^il20-helper]
+- **"the Helper"** / **"the Helper Hermes, pro-eminent in subtle thoughts"** — ([Iliad](../sources/iliad.md) XX; XXIV passim)[^il20-helper]
 - **"bearer of the golden rod, giver of good"** — paired with [Hestia](hestia.md) (Hymn XXIX 7-12)[^desc-rod]
 - **"Caduceus-Bearer"** — in the [Metamorphoses](../sources/metamorphoses.md) (2.708)[^met-caduceus]
 - **"the Wingfoot"** — in the [Metamorphoses](../sources/metamorphoses.md), used repeatedly (4.753, 8.627)[^met-wingfoot]
@@ -30,7 +30,7 @@
 [^desc-grace]: "Hail, Hermes, giver of grace, guide, and giver of good things!" (Homeric Hymn XVIII to Hermes 12, trans. H.G. Evelyn-White)
 [^desc-rod]: "And you, slayer of Argus, Son of Zeus and Maia, messenger of the blessed gods, bearer of the golden rod, giver of good, be favourable and help us, you and Hestia, the worshipful and dear" (Homeric Hymn XXIX to Hestia 7-10)
 
-[^il20-helper]: "the Helper Hermes, pro-eminent in subtle thoughts" (Iliad 20.45, trans. Lang, Leaf, and Myers); used repeatedly in XXIV (13835, 13914, 13927, 14129)
+[^il20-helper]: "the Helper Hermes, pro-eminent in subtle thoughts" (Iliad 20.45, trans. Lang, Leaf, and Myers); used repeatedly in XXIV
 [^met-caduceus]: "Caduceus-Bearer soared on balanced wings" (Metamorphoses 2.708, trans. Brookes More)
 [^met-wingfoot]: "to Mercury, the Wingfoot, and a bull" (Metamorphoses 8.627, trans. Brookes More); also at 4.753: "sped wing-footed through the liquid air"
 [^desc-luck]: "I sing of Cyllenian Hermes, the Slayer of Argus, lord of Cyllene and Arcadia rich in flocks, luck-bringing messenger of the deathless gods" (Homeric Hymn XVIII to Hermes 1-3, trans. H.G. Evelyn-White)

@@ -114,7 +114,7 @@ Demeter then "showed the conduct of her rites and taught them all her mysteries,
 
 ### Proserpina Seized (§146)
 
-The [Fabulae](../sources/hyginus.md) gives a concise account of [Persephone](persephone.md)'s (Proserpina) abduction. "[Hades](hades.md) (Pluto) asked from [Zeus](zeus.md) (Jove) that he give him in marriage Ceres' [[Demeter](demeter.md)'s] daughter and his own."[^hyg-146-request] Zeus facilitated the abduction rather than give open consent: "Jove said that Ceres would not permit her daughter to live in gloomy Tartarus, but bade him seize her as she was gathering flowers on Mount Etna, which is in Sicily."[^hyg-146-command]
+The [Fabulae](../sources/hyginus.md) gives a concise account of [Persephone](persephone.md)'s (Proserpina) abduction. "[Hades](hades.md) (Pluto) asked from [Zeus](zeus.md) (Jove) that he give him in marriage Ceres' [Demeter's] daughter and his own."[^hyg-146-request] Zeus facilitated the abduction rather than give open consent: "Jove said that Ceres would not permit her daughter to live in gloomy Tartarus, but bade him seize her as she was gathering flowers on Mount Etna, which is in Sicily."[^hyg-146-command]
 
 The abduction took place as planned: "While Proserpina was gathering flowers with Venus [[Aphrodite](aphrodite.md)], Diana [[Artemis](artemis.md)], and Minerva [[Athena](athena.md)], Pluto came in his four-horse chariot, and seized her."[^hyg-146-seized]
 

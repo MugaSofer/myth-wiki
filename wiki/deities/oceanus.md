@@ -27,7 +27,7 @@ Oceanus is listed first among the children of [Gaia](gaia.md) and [Uranus](uranu
 
 ## In Aeschylus' [Prometheus Bound](../sources/aeschylus-prometheus-bound.md)
 
-[Oceanus](oceanus.md) arrives mounted on a griffin to visit [Prometheus](prometheus.md) on his rock. He is characterized as well-meaning but cautious, urging Prometheus to submit: "A despot rules, harsh, resolute, supreme, whose law is will. Yet shall I go to him, with all endeavour to relieve thy plight — so thou wilt curb the tempest of thy tongue!"[^pb-oceanus-counsel] He offers to intercede with [Zeus](zeus.md) and insists: "I, Oceanus, am best of all thy friends, and trustiest."[^pb-oceanus-friend]
+Oceanus arrives mounted on a griffin to visit [Prometheus](prometheus.md) on his rock. He is characterized as well-meaning but cautious, urging Prometheus to submit: "A despot rules, harsh, resolute, supreme, whose law is will. Yet shall I go to him, with all endeavour to relieve thy plight — so thou wilt curb the tempest of thy tongue!"[^pb-oceanus-counsel] He offers to intercede with [Zeus](zeus.md) and insists: "I, Oceanus, am best of all thy friends, and trustiest."[^pb-oceanus-friend]
 
 Prometheus rejects his help, fearing the consequences for Oceanus and not wanting others drawn into his punishment: "I will not ease my woe by base relief in knowing others too involved therein."[^pb-oceanus-reject] He warns Oceanus to remember [Atlas](atlas.md)'s fate and [Typho](../creatures/typhoeus.md)'s doom. Oceanus departs on his "hippogriff," persuaded to return home.
 

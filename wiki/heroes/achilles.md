@@ -25,7 +25,7 @@
 - **"godlike Achilles"** — used in narrative[^ep-godlike]
 - **"Aiakides"** — descendant of Aiakos, his grandfather[^ep-aiakides]
 
-[^ep-swift]: "swift-footed Achilles" / "fleet-footed goodly Achilles" (Iliad 1.124; I.1417, trans. Lang, Leaf, and Myers)
+[^ep-swift]: "swift-footed Achilles" / "fleet-footed goodly Achilles" (Iliad 1.124, passim, trans. Lang, Leaf, and Myers)
 [^ep-peleus]: "Achilles Peleus' son" (Iliad 1.8, trans. Lang, Leaf, and Myers)
 [^ep-breaker]: "Achilles, the breaker of the ranks of men" (Iliad 16.173, trans. Lang, Leaf, and Myers)
 [^ep-sacker]: "to honour Achilles, the sacker of cities" (Iliad 15.80, trans. Lang, Leaf, and Myers)
@@ -74,8 +74,8 @@ When Achilles is about to draw his sword against Agamemnon, [Athena](../deities/
 
 She promised him threefold recompense for restraining himself: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us."[^il1-promise]
 
-[^il1-athena]: "Athene came to him from heaven, sent forth of the white-armed goddess Hera, whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her. Then Achilles marvelled, and turned him about, and straightway knew Pallas Athene; and terribly shone her eyes" (Iliad 1.10-15, trans. Lang, Leaf, and Myers)
-[^il1-promise]: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us" (Iliad 1.29-30, trans. Lang, Leaf, and Myers)
+[^il1-athena]: "Athene came to him from heaven, sent forth of the white-armed goddess Hera, whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her. Then Achilles marvelled, and turned him about, and straightway knew Pallas Athene; and terribly shone her eyes" (Iliad 1.194-200, trans. Lang, Leaf, and Myers)
+[^il1-promise]: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us" (Iliad 1.213-214, trans. Lang, Leaf, and Myers)
 
 ### The Two Fates (Book IX)
 
