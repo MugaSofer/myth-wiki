@@ -155,7 +155,7 @@ Prometheus's son was Deucalion, who "by the advice of Prometheus constructed a c
 
 ### The Chaining
 
-[Strength](../concepts/kratos.md) (Kratos) and Force (Bia), servants of [Zeus](zeus.md), bring Prometheus to a remote crag in Scythia. [Hephaestus](hephaestus.md) is ordered to chain him. Though reluctant — "kinship is a wondrous thing, and fellowship no less" — Hephaestus obeys: "I dare not leave this work undone; its dire accomplishment is Zeus' command."[^pb-heph] Prometheus is silent throughout the chaining; only after his tormentors depart does he speak.
+Strength (Kratos) and Force (Bia), servants of [Zeus](zeus.md), bring Prometheus to a remote crag in Scythia. [Hephaestus](hephaestus.md) is ordered to chain him. Though reluctant — "kinship is a wondrous thing, and fellowship no less" — Hephaestus obeys: "I dare not leave this work undone; its dire accomplishment is Zeus' command."[^pb-heph] Prometheus is silent throughout the chaining; only after his tormentors depart does he speak.
 
 ### Prometheus's Gifts to Humanity
 

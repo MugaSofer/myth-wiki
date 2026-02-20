@@ -14,7 +14,7 @@ The *Prometheus Bound* dramatizes the punishment of [Prometheus](../deities/prom
 
 ## Contents
 
-- **Prologue (~1-87)**: [Strength](../concepts/kratos.md) (Kratos) and Force (Bia) bring Prometheus to the Scythian rock. [Hephaestus](../deities/hephaestus.md), reluctant but obedient, chains him with iron bonds. Prometheus is silent throughout.
+- **Prologue (~1-87)**: Strength (Kratos) and Force (Bia) bring Prometheus to the Scythian rock. [Hephaestus](../deities/hephaestus.md), reluctant but obedient, chains him with iron bonds. Prometheus is silent throughout.
 - **Prometheus's monologue (~88-127)**: Left alone, Prometheus calls on the elements to witness his suffering. "I am he who in a fennel-stalk, by stealthy sleight, purveyed the fount of fire."
 - **Parodos (~128-192)**: The Chorus of Oceanides arrives in winged cars, drawn by the sound of Hephaestus's hammering. They weep at the sight.
 - **First Episode (~193-396)**: Prometheus tells how he sided with Zeus against the [Titans](../deities/titans.md), following his mother [Themis](../deities/themis.md)'s counsel. He describes Zeus's plan to destroy humanity and his own opposition: he gave mortals blind hope, fire, and all arts. He speaks of his brother [Atlas](../deities/atlas.md)'s burden and [Typho](../creatures/typhoeus.md)'s defeat.

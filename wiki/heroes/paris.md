@@ -82,7 +82,7 @@ Paris's first wife was Oenone, a nymph daughter of the river Cebren. "She had le
 
 ### The Judgment (E.3.2)
 
-[Strife](../deities/night.md) "threw an apple as a prize of beauty to be contended for by [Hera](../deities/hera.md), [Athena](../deities/athena.md), and [Aphrodite](../deities/aphrodite.md); and [Zeus](../deities/zeus.md) commanded [Hermes](../deities/hermes.md) to lead them to Alexander on Ida in order to be judged by him." Each goddess offered a bribe: "Hera said that if she were preferred to all women, she would give him the kingdom over all men; and Athena promised victory in war, and Aphrodite the hand of Helen. And he decided in favour of Aphrodite."[^apd-judgment]
+Strife "threw an apple as a prize of beauty to be contended for by [Hera](../deities/hera.md), [Athena](../deities/athena.md), and [Aphrodite](../deities/aphrodite.md); and [Zeus](../deities/zeus.md) commanded [Hermes](../deities/hermes.md) to lead them to Alexander on Ida in order to be judged by him." Each goddess offered a bribe: "Hera said that if she were preferred to all women, she would give him the kingdom over all men; and Athena promised victory in war, and Aphrodite the hand of Helen. And he decided in favour of Aphrodite."[^apd-judgment]
 
 [^apd-judgment]: "Strife threw an apple as a prize of beauty to be contended for by Hera, Athena, and Aphrodite; and Zeus commanded Hermes to lead them to Alexander on Ida in order to be judged by him. And they promised to give Alexander gifts. Hera said that if she were preferred to all women, she would give him the kingdom over all men; and Athena promised victory in war, and Aphrodite the hand of Helen. And he decided in favour of Aphrodite" (Bibliotheca E.3.2, trans. J.G. Frazer)
 

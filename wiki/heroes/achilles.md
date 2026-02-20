@@ -191,7 +191,7 @@ In the Returns, Achilles' ghost appeared to the departing Greek fleet, "trying t
 
 ### Peleus's Wedding Gifts (Cypria)
 
-At the wedding of Peleus and [Thetis](../deities/thetis.md) -- the occasion where [Strife](../deities/night.md) arrived and started the dispute leading to the Judgment of Paris -- the gods brought gifts: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and [Athena](../deities/athena.md), it is said, polished it, and [Hephaestus](../deities/hephaestus.md) fitted it with a head."[^cyp-spear] This is the same Pelian spear that Achilles alone can wield in the [Iliad](../sources/iliad.md).
+At the wedding of Peleus and [Thetis](../deities/thetis.md) -- the occasion where Strife arrived and started the dispute leading to the Judgment of Paris -- the gods brought gifts: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and [Athena](../deities/athena.md), it is said, polished it, and [Hephaestus](../deities/hephaestus.md) fitted it with a head."[^cyp-spear] This is the same Pelian spear that Achilles alone can wield in the [Iliad](../sources/iliad.md).
 
 [^cyp-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5, trans. H.G. Evelyn-White)
 

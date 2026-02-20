@@ -171,7 +171,7 @@ The Catalogue adds that Achilles was not among the suitors only because of his a
 
 ### The Cypria
 
-The Cypria is the primary source for events leading to the war. [Zeus](../deities/zeus.md) plans the Trojan War with [Themis](../deities/themis.md) to relieve the overpopulated earth, and the chain of causation runs through Helen: [Strife](../deities/night.md) arrives at the wedding of Peleus and [Thetis](../deities/thetis.md); [Aphrodite](../deities/aphrodite.md) wins the Judgment of Paris; Paris is promised Helen; "Alexandrus, lured by his promised marriage with Helen, decides in favour of Aphrodite."[^cyp-judgment]
+The Cypria is the primary source for events leading to the war. [Zeus](../deities/zeus.md) plans the Trojan War with [Themis](../deities/themis.md) to relieve the overpopulated earth, and the chain of causation runs through Helen: Strife arrives at the wedding of Peleus and [Thetis](../deities/thetis.md); [Aphrodite](../deities/aphrodite.md) wins the Judgment of Paris; Paris is promised Helen; "Alexandrus, lured by his promised marriage with Helen, decides in favour of Aphrodite."[^cyp-judgment]
 
 The Cypria also contains the Nemesis variant of Helen's birth (see Parentage above), which presents her not merely as a daughter of Zeus but as the offspring of divine retribution herself, born through violence and flight.
 
