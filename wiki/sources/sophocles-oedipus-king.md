@@ -29,7 +29,7 @@ Creon defends himself. Jocasta intervenes and, attempting to discredit prophecy,
 
 ### Third Episode (911-1085)
 
-A messenger from [Corinth](../heroes/corinth.md) arrives to announce that Polybus, Oedipus's supposed father, has died of natural causes. Oedipus and Jocasta rejoice — the oracle seems disproved. But the messenger reveals he himself gave the infant Oedipus to Polybus, having received the child from a Theban shepherd on [Cithaeron](../places/cithaeron.md): "thy ankles should attest. / ... / From this affliction thou deriv'st the name / Of Oedipus" (1032-1036). Jocasta, understanding the truth, begs Oedipus to stop his inquiry and flees.
+A messenger from [Corinth](../places/corinth.md) arrives to announce that Polybus, Oedipus's supposed father, has died of natural causes. Oedipus and Jocasta rejoice — the oracle seems disproved. But the messenger reveals he himself gave the infant Oedipus to Polybus, having received the child from a Theban shepherd on [Cithaeron](../places/cithaeron.md): "thy ankles should attest. / ... / From this affliction thou deriv'st the name / Of Oedipus" (1032-1036). Jocasta, understanding the truth, begs Oedipus to stop his inquiry and flees.
 
 ### Fourth Episode (1110-1185)
 
