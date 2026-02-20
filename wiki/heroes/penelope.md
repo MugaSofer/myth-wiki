@@ -13,7 +13,7 @@
 
 ## Appearance
 
-[Athena](../deities/athena.md) beautifies Penelope before she appears to the suitors, giving her "gifts immortal, that all the Achaeans might marvel at her. Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea [[Aphrodite](../deities/aphrodite.md)] is anointed, when she goes to the lovely dances of the [Graces](../deities/graces.md). And she made her taller and greater to behold, and made her whiter than new-sawn ivory."[^od18-beauty]
+[Athena](../deities/athena.md) beautifies Penelope before she appears to the suitors, giving her "gifts immortal, that all the Achaeans might marvel at her. Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea [[Aphrodite](../deities/aphrodite.md)] is anointed, when she goes to the lovely dances of the [Graces](../deities/groups/graces.md). And she made her taller and greater to behold, and made her whiter than new-sawn ivory."[^od18-beauty]
 
 When she greets [Telemachus](telemachus.md) on his return from Sparta, she is compared to two goddesses: "wise Penelope came forth from her chamber, like [Artemis](../deities/artemis.md) or golden [Aphrodite](../deities/aphrodite.md), and cast her arms about her dear son."[^od17-artemis]
 

@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Helius** (the Sun) is a son of the [Titans](titans.md) [Hyperion](hyperion.md) and [Theia](theia.md).
+**Helius** (the Sun) is a son of the [Titans](groups/titans.md) [Hyperion](hyperion.md) and [Theia](theia.md).
 
 ## Epithets
 

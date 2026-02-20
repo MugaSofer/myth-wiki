@@ -12,7 +12,7 @@
 
 ## Description
 
-The [Muses](../deities/muses.md) gladden [Zeus](../deities/zeus.md) in Olympus with their songs, and "the peaks of snowy Olympus resound" with their voices.[^theog-muses] The gods are said to "hold the peaks of snowy Olympus."[^theog-peaks]
+The [Muses](../deities/groups/muses.md) gladden [Zeus](../deities/zeus.md) in Olympus with their songs, and "the peaks of snowy Olympus resound" with their voices.[^theog-muses] The gods are said to "hold the peaks of snowy Olympus."[^theog-peaks]
 
 [^theog-muses]: "Come thou, let us begin with the Muses who gladden the great spirit of their father Zeus in Olympus with their songs" ... "the peaks of snowy Olympus resound, and the homes of the immortals." (Theogony 37-44, trans. H.G. Evelyn-White)
 [^theog-peaks]: "wide-bosomed Earth, the ever-sure foundations of all the deathless ones who hold the peaks of snowy Olympus" (Theogony 118)

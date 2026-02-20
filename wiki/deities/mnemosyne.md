@@ -3,22 +3,22 @@
 | | |
 |---|---|
 | **Also known as** | Memory |
-| **Type** | [Titan](titans.md) |
+| **Type** | [Titan](groups/titans.md) |
 | **Domain** | Memory |
 | **Parents** | [Gaia](gaia.md) and [Uranus](uranus.md) |
 | **Consort(s)** | [Zeus](zeus.md) |
-| **Children** | The nine [Muses](muses.md) |
+| **Children** | The nine [Muses](groups/muses.md) |
 | **First appearance** | [Theogony](../sources/theogony.md) 54 |
 
 ## Overview
 
-**Mnemosyne** (Memory) is a [Titan](titans.md), daughter of [Gaia](gaia.md) and [Uranus](uranus.md), and the mother of the nine [Muses](muses.md) by [Zeus](zeus.md). She "reigns over the hills of Eleuther."[^theog-eleuther]
+**Mnemosyne** (Memory) is a [Titan](groups/titans.md), daughter of [Gaia](gaia.md) and [Uranus](uranus.md), and the mother of the nine [Muses](groups/muses.md) by [Zeus](zeus.md). She "reigns over the hills of Eleuther."[^theog-eleuther]
 
 [^theog-eleuther]: "Mnemosyne (Memory), who reigns over the hills of Eleuther" (Theogony 54, trans. H.G. Evelyn-White)
 
 ## Mythology
 
-[Zeus](zeus.md) lay with Mnemosyne for nine nights, "entering her holy bed remote from the immortals." After a year, "she bare nine daughters, all of one mind, whose hearts are set upon song and their spirit free from care" — the [Muses](muses.md), born "a little way from the topmost peak of snowy [Olympus](../places/olympus.md)."[^theog-birth]
+[Zeus](zeus.md) lay with Mnemosyne for nine nights, "entering her holy bed remote from the immortals." After a year, "she bare nine daughters, all of one mind, whose hearts are set upon song and their spirit free from care" — the [Muses](groups/muses.md), born "a little way from the topmost peak of snowy [Olympus](../places/olympus.md)."[^theog-birth]
 
 The union is described as producing "a forgetting of ills and a rest from sorrow."[^theog-sorrow]
 

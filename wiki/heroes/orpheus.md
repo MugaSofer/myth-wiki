@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Also known as** | The bard of Rhodope, the Thracian poet |
-| **Parents** | Calliope (one of the [Muses](../deities/muses.md)) and Oeagrus (or [Apollo](../deities/apollo.md)) |
+| **Parents** | Calliope (one of the [Muses](../deities/groups/muses.md)) and Oeagrus (or [Apollo](../deities/apollo.md)) |
 | **Consort** | Eurydice |
 | **First appearance** | [Bibliotheca](../sources/apollodorus.md) 1.3.2 |
 

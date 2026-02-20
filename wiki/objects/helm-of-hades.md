@@ -15,7 +15,7 @@ The **helm of Hades** is a cap or helmet that renders its wearer invisible. Forg
 
 ## Origin
 
-The [Bibliotheca](../sources/apollodorus.md) records the helm's creation: the Cyclopes, freed by Zeus from [Tartarus](../places/tartarus.md), "gave Zeus thunder and lightning and a thunderbolt, and on Pluto they bestowed a helmet, and on Poseidon a trident."[^apd-forging] These were the weapons that enabled the three brothers to overthrow the [Titans](../deities/titans.md).
+The [Bibliotheca](../sources/apollodorus.md) records the helm's creation: the Cyclopes, freed by Zeus from [Tartarus](../places/tartarus.md), "gave Zeus thunder and lightning and a thunderbolt, and on Pluto they bestowed a helmet, and on Poseidon a trident."[^apd-forging] These were the weapons that enabled the three brothers to overthrow the [Titans](../deities/groups/titans.md).
 
 [^apd-forging]: "they gave Zeus thunder and lightning and a thunderbolt, and on Pluto they bestowed a helmet, and on Poseidon a trident" (Bibliotheca 1.2.1, trans. Frazer)
 

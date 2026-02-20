@@ -7,18 +7,18 @@
 | | |
 |---|---|
 | **Primary sources** | [Theogony](../sources/theogony.md) 617-735 |
-| **Key participants** | [Zeus](../deities/zeus.md), the [Hundred-Handers](../creatures/hundred-handers.md), Olympian gods vs. the [Titans](../deities/titans.md) |
+| **Key participants** | [Zeus](../deities/zeus.md), the [Hundred-Handers](../creatures/hundred-handers.md), Olympian gods vs. the [Titans](../deities/groups/titans.md) |
 | **Location** | [Olympus](../places/olympus.md) vs. Mount Othrys |
 | **Duration** | Ten years |
 | **Outcome** | Victory for Zeus; Titans imprisoned in [Tartarus](../places/tartarus.md) |
 
 ## Overview
 
-The **Titanomachy** was the ten-year war between [Zeus](../deities/zeus.md) and the Olympian gods, based on [Olympus](../places/olympus.md), against the [Titan](../deities/titans.md) gods, based on Mount Othrys. The war was decided by Zeus's release of the [Hundred-Handers](../creatures/hundred-handers.md) and his unleashing of thunder and lightning.
+The **Titanomachy** was the ten-year war between [Zeus](../deities/zeus.md) and the Olympian gods, based on [Olympus](../places/olympus.md), against the [Titan](../deities/groups/titans.md) gods, based on Mount Othrys. The war was decided by Zeus's release of the [Hundred-Handers](../creatures/hundred-handers.md) and his unleashing of thunder and lightning.
 
 ## Background
 
-The [Titans](../deities/titans.md) and the Olympians "had long been fighting together in stubborn war with heart-grieving toil, the lordly Titans from high Othrys, but the gods, givers of good, whom rich-haired [Rhea](../deities/rhea.md) bare in union with [Cronos](../deities/cronos.md), from [Olympus](../places/olympus.md)."[^theog-sides] The war lasted "ten full years, and the hard strife had no close or end for either side, and the issue of the war hung evenly balanced."[^theog-stalemate]
+The [Titans](../deities/groups/titans.md) and the Olympians "had long been fighting together in stubborn war with heart-grieving toil, the lordly Titans from high Othrys, but the gods, givers of good, whom rich-haired [Rhea](../deities/rhea.md) bare in union with [Cronos](../deities/cronos.md), from [Olympus](../places/olympus.md)."[^theog-sides] The war lasted "ten full years, and the hard strife had no close or end for either side, and the issue of the war hung evenly balanced."[^theog-stalemate]
 
 [^theog-sides]: "the lordly Titans from high Othrys, but the gods, givers of good, whom rich-haired Rhea bare in union with Cronos, from Olympus." (Theogony 629-634)
 [^theog-stalemate]: "for ten full years, and the hard strife had no close or end for either side, and the issue of the war hung evenly balanced." (Theogony 635-638)
@@ -88,7 +88,7 @@ The [Fabulae](../sources/hyginus.md) presents a unique version of the Titanomach
 
 Unlike the Theogony and Bibliotheca, which place the war immediately after Zeus's liberation from Cronos, the Fabulae connects it to [Hera](../deities/hera.md)'s jealousy of Io and Epaphus. "After Juno saw that Epaphus, born of a concubine, ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titans to drive Jove from the kingdom and restore it to Saturn."[^hyg-150-juno]
 
-This presents the war not as an inevitable succession conflict but as [Hera](../deities/hera.md)'s political retaliation — using the [Titans](../deities/titans.md) to depose [Zeus](../deities/zeus.md) (Jove) in favor of [Cronos](../deities/cronos.md) (Saturn).
+This presents the war not as an inevitable succession conflict but as [Hera](../deities/hera.md)'s political retaliation — using the [Titans](../deities/groups/titans.md) to depose [Zeus](../deities/zeus.md) (Jove) in favor of [Cronos](../deities/cronos.md) (Saturn).
 
 ### The Battle
 

@@ -53,7 +53,7 @@ In the shorter [Homeric Hymn to Aphrodite](../sources/homeric-hymns.md) (X): "Sh
 
 Additional epithets include **"violet-crowned Cytherea"** and **"sweetly-winning, coy-eyed goddess"** (Hymn VI 18, 19).[^desc-violet]
 
-In the [Iliad](../sources/iliad.md), when Aphrodite disguises herself as an old woman, Helen sees through it by recognising "the fair neck and lovely breast and sparkling eyes of the goddess."[^il3-disguise] Her raiment is described as "ambrosial" and woven by the [Graces](graces.md) themselves.[^il5-wound]
+In the [Iliad](../sources/iliad.md), when Aphrodite disguises herself as an old woman, Helen sees through it by recognising "the fair neck and lovely breast and sparkling eyes of the goddess."[^il3-disguise] Her raiment is described as "ambrosial" and woven by the [Graces](groups/graces.md) themselves.[^il5-wound]
 
 ### Appearance to Anchises (Hymn V)
 
@@ -163,7 +163,7 @@ Hephaestus summoned the gods to witness, crying: "Aphrodite, daughter of [Zeus](
 
 The male gods gathered — [Poseidon](poseidon.md), [Hermes](hermes.md), and [Apollo](apollo.md) — "but the lady goddesses abode each within her house for shame." [Apollo](apollo.md) asked Hermes if he would lie with golden Aphrodite despite the bonds; Hermes replied: "So might thrice as many bonds innumerable encompass me about, and all ye gods be looking on and all the goddesses, yet would I lie by golden Aphrodite."[^od8-hermes]
 
-After Poseidon guaranteed the fine, "laughter-loving Aphrodite went to Paphos of Cyprus, where is her precinct and fragrant altar. There the [Graces](graces.md) bathed and anointed her with oil imperishable, such as is laid upon the everlasting gods. And they clad her in lovely raiment, a wonder to see."[^od8-paphos]
+After Poseidon guaranteed the fine, "laughter-loving Aphrodite went to Paphos of Cyprus, where is her precinct and fragrant altar. There the [Graces](groups/graces.md) bathed and anointed her with oil imperishable, such as is laid upon the everlasting gods. And they clad her in lovely raiment, a wonder to see."[^od8-paphos]
 
 [^od8-adultery]: "he sang of the love of Ares and Aphrodite, of the fair crown, how at the first they lay together in the house of Hephaestus privily; and Ares gave her many gifts, and dishonoured the marriage bed of the lord Hephaestus. And anon there came to him one to report the thing, even Helios, that had seen them at their pastime" (Odyssey 8.265-269, trans. Butcher and Lang)
 [^od8-heph-cry]: "Aphrodite, daughter of Zeus, ever dishonours me by reason of my lameness, and sets her heart on Ares the destroyer, because he is fair and straight of limb, but as for me, feeble was I born. Howbeit, there is none to blame but my father and mother,—would they had never begotten me!" (Odyssey 8.304-308)
@@ -270,7 +270,7 @@ She then lifted the veil from his mortal sight to reveal the gods destroying [Tr
 
 ### Wounded by Diomedes / Ichor (Book V)
 
-In [Iliad](../sources/iliad.md) Book V, Aphrodite shields her son Aeneas from Diomedes: "About her dear son wound she her white arms, and spread before his face a fold of her radiant vesture." But Diomedes, empowered by [Athena](athena.md), "thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the [Graces](graces.md) themselves had woven her pierced the dart into the flesh."[^il5-wound]
+In [Iliad](../sources/iliad.md) Book V, Aphrodite shields her son Aeneas from Diomedes: "About her dear son wound she her white arms, and spread before his face a fold of her radiant vesture." But Diomedes, empowered by [Athena](athena.md), "thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the [Graces](groups/graces.md) themselves had woven her pierced the dart into the flesh."[^il5-wound]
 
 Then flows "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals."[^il5-ichor]
 
@@ -313,7 +313,7 @@ Apollodorus follows the Iliad tradition: "by [Dione](dione.md) he had Aphrodite.
 - **[Iliad](../sources/iliad.md)** XXIII: Protects Hector's body — "day and night Aphrodite daughter of Zeus kept off the dogs, and anointed him with rose-sweet oil ambrosial"
 - **[Odyssey](../sources/odyssey.md)** IV: Helen recalls "the blindness that Aphrodite gave me, when she led me thither away from mine own country"; Hermione is "as fair as golden Aphrodite"
 - **[Odyssey](../sources/odyssey.md)** VIII: The Song of Ares and Aphrodite — committed adultery with Ares in Hephaestus's house; "daughter of Zeus"; trapped in Hephaestus's net; goes to "Paphos of Cyprus, where is her precinct and fragrant altar"; the Graces bathe and anoint her
-- **[Odyssey](../sources/odyssey.md)** XVIII: Penelope beautified with "beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the [Graces](graces.md)" — Athena uses Aphrodite's own beauty standard as the measure[^od18-cytherea]
+- **[Odyssey](../sources/odyssey.md)** XVIII: Penelope beautified with "beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the [Graces](groups/graces.md)" — Athena uses Aphrodite's own beauty standard as the measure[^od18-cytherea]
 - **[Odyssey](../sources/odyssey.md)** XX: In the myth of the daughters of Pandareus — "fair Aphrodite cherished them with curds and sweet honey and delicious wine" and later went "wending to high [Olympus](../places/olympus.md), to pray that a glad marriage might be accomplished for the maidens"[^od20-pandareus]
 - **[Homeric Hymn X](../sources/homeric-hymns.md)**: "Smiles are ever on her lovely face"; "queen of well-built Salamis and sea-girt Cyprus"
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Her garments "which the Graces and Hours had made for her and dyed in flowers of spring — such flowers as the Seasons wear — in crocus and hyacinth and flourishing violet and the rose's lovely bloom";[^cyp-garments] competes with Hera and Athena in the Judgment of Paris; Paris chooses her and she promises him Helen[^cyp-judgment]

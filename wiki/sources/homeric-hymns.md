@@ -40,7 +40,7 @@ The **Homeric Hymns** are a collection of 33 anonymous Greek hymns, each address
 22. XXII. To [Poseidon](../deities/poseidon.md)
 23. XXIII. To [Zeus](../deities/zeus.md)
 24. XXIV. To [Hestia](../deities/hestia.md)
-25. XXV. To the [Muses](../deities/muses.md) and [Apollo](../deities/apollo.md)
+25. XXV. To the [Muses](../deities/groups/muses.md) and [Apollo](../deities/apollo.md)
 26. XXVI. To [Dionysus](../deities/dionysus.md)
 27. XXVII. To [Artemis](../deities/artemis.md)
 28. XXVIII. To [Athena](../deities/athena.md)

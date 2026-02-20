@@ -51,7 +51,7 @@ When he reveals himself to the Cretan sailors at Crisa, his divine radiance is b
 - **Plague and pestilence:** His arrows bring disease. In the [Iliad](../sources/iliad.md), he sends plague on the Greek camp: "he descended like to night... the arrows clanged upon his shoulders in wrath... and there was heard a dread clanging of the silver bow."[^il1-plague] He also sent a pestilence on Troy when Laomedon refused to pay for its walls.[^apd-apo-troy]
 - **Sudden death:** His arrows bring painless death to men, as [Artemis](artemis.md)'s do to women. In the [Odyssey](../sources/odyssey.md), he slays with "the visitation of his gentle shafts."[^od15-syria]
 - **Prophecy:** At birth he declared: "The lyre and the curved bow shall ever be dear to me, and I will declare to men the unfailing will of [Zeus](zeus.md)."[^hh3-words] He founded the oracle at Delphi.[^hh3-pytho]
-- **Music:** "Through the [Muses](muses.md) and far-shooting Apollo... there are singers and harpers upon the earth."[^theog-music] On [Olympus](../places/olympus.md), "the gods tremble before him" when he plays, and "a soft longing" takes hold of all who hear.[^hh3-olympus]
+- **Music:** "Through the [Muses](groups/muses.md) and far-shooting Apollo... there are singers and harpers upon the earth."[^theog-music] On [Olympus](../places/olympus.md), "the gods tremble before him" when he plays, and "a soft longing" takes hold of all who hear.[^hh3-olympus]
 - **Shapeshifting:** He took the form of a dolphin to guide the Cretan priests to Delphi.[^hh3-priests]
 - **Favouring wind:** After proper sacrifice, "Apollo the Far-darter sent them a favouring gale."[^il1-favour]
 - **Divine radiance:** When he reveals himself, "flashes of fire flew from him thick and their brightness reached to heaven."[^desc-star]
@@ -66,7 +66,7 @@ When he reveals himself to the Cretan sailors at Crisa, his divine radiance is b
 
 ## Domains
 
-"Through the [Muses](muses.md) and far-shooting Apollo... there are singers and harpers upon the earth."[^theog-music]
+"Through the [Muses](groups/muses.md) and far-shooting Apollo... there are singers and harpers upon the earth."[^theog-music]
 
 [^theog-music]: "For it is through the Muses and far-shooting Apollo that there are singers and harpers upon the earth" (Theogony 94-95)
 
@@ -82,7 +82,7 @@ The [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III) describes his bi
 
 ## On Olympus
 
-The Hymn describes Apollo's entrance among the gods: "As he goes through the house of [Zeus](zeus.md), the gods tremble before him and all spring up from their seats when he draws near, as he bends his bright bow." Only Leto stays calm, unstringing his bow and leading him to his seat. When he plays, "all the [Muses](muses.md) together, voice sweetly answering voice, hymn the unending gifts the gods enjoy," while the [Graces](graces.md) and [Artemis](artemis.md) dance, and "[Ares](ares.md) and the keen-eyed Slayer of Argus [[Hermes](hermes.md)]" sport among them.[^hh3-olympus]
+The Hymn describes Apollo's entrance among the gods: "As he goes through the house of [Zeus](zeus.md), the gods tremble before him and all spring up from their seats when he draws near, as he bends his bright bow." Only Leto stays calm, unstringing his bow and leading him to his seat. When he plays, "all the [Muses](groups/muses.md) together, voice sweetly answering voice, hymn the unending gifts the gods enjoy," while the [Graces](groups/graces.md) and [Artemis](artemis.md) dance, and "[Ares](ares.md) and the keen-eyed Slayer of Argus [[Hermes](hermes.md)]" sport among them.[^hh3-olympus]
 
 ## The Dragon and the Oracle at Pytho (Delphi)
 
@@ -237,7 +237,7 @@ After his birth, Apollo took vengeance: "Four days after they were born, Apollo 
 
 The Fabulae provides the full story of the musical contest. [Athena](athena.md) (Minerva) "is said to have been the first to make pipes from deer bones and to have come to the banquet of the gods to play."[^hyg-165-pipes] But "[Hera](hera.md) (Juno) and [Aphrodite](aphrodite.md) (Venus) made fun of her because she was grey-eyed and puffed out her cheeks."[^hyg-165-mocked] At a spring in Ida's forest, she "viewed herself in the water, and saw that she was rightly mocked. Because of this she threw away the pipes and vowed that whoever picked them up would be punished severely."[^hyg-165-vow]
 
-Marsyas "found them, and by practicing assiduously kept making sweeter sounds day by day, so that he challenged Apollo to play the lure in a contest with him."[^hyg-165-challenge] The [Muses](muses.md) served as judges. When "Marsyas was departing as victor, when Apollo turned his lyre upside down, and played the same tune — a thing which Marsyas couldn't do with the pipes. And so Apollo defeated Marsyas."[^hyg-165-trick]
+Marsyas "found them, and by practicing assiduously kept making sweeter sounds day by day, so that he challenged Apollo to play the lure in a contest with him."[^hyg-165-challenge] The [Muses](groups/muses.md) served as judges. When "Marsyas was departing as victor, when Apollo turned his lyre upside down, and played the same tune — a thing which Marsyas couldn't do with the pipes. And so Apollo defeated Marsyas."[^hyg-165-trick]
 
 The punishment was brutal: "bound him to a tree, and turned him over to a Scythian who stripped his skin off him limb by limb."[^hyg-165-skin] The river took his name: "From his blood the river Marsyas took its name."[^hyg-165-river]
 
@@ -419,7 +419,7 @@ The Chorus later celebrates Apollo's time as a shepherd: "the Pythian Apollo, ma
 - **[Iliad](../sources/iliad.md)** XXIV: Continues protecting Hector's body with golden aegis; rebukes the gods for not returning Hector — "an enduring soul have the Fates given unto men"; Niobe's sons "Apollo slew with arrows from his silver bow"; Hekabe: Hector looks "like one on whom Apollo... hath descended and slain him with his gentle darts"
 - **[Bibliotheca](../sources/apollodorus.md)** 1.7.8-1.7.9: Wooed Marpessa; fought Idas for her; Zeus let her choose, and she chose Idas fearing Apollo would desert her in old age
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.11: Taught Melampus divination at the Alpheus
-- **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Served Admetus as thrall; yoked lion and boar; obtained favour of the [Fates](fates.md) for Admetus
+- **[Bibliotheca](../sources/apollodorus.md)** 1.9.15: Served Admetus as thrall; yoked lion and boar; obtained favour of the [Fates](groups/fates.md) for Admetus
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.26: Flashed lightning from the Melantian ridges, guiding the Argonauts to the island of Anaphe
 - **[Bibliotheca](../sources/apollodorus.md)** 3.1.2: Miletus, son of Apollo by Aria, at the centre of the quarrel between Minos, Sarpedon, and Rhadamanthys
 - **[Bibliotheca](../sources/apollodorus.md)** 3.5.6: Shot down Niobe's sons on Cithaeron while [Artemis](artemis.md) killed the daughters; Chloris the elder was saved (variant: Amyclas and Meliboea saved per Telesilla)

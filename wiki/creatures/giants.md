@@ -21,7 +21,7 @@ The [Bibliotheca](../sources/apollodorus.md) provides the fullest surviving narr
 
 ### Origin and Description
 
-[Gaia](../deities/gaia.md) brought forth the Giants by [Uranus](../deities/uranus.md), provoked by the fate of the [Titans](../deities/titans.md). They were "matchless in the bulk of their bodies and invincible in their might; terrible of aspect did they appear, with long locks drooping from their head and chin, and with the scales of dragons for feet."[^apd-giants-desc] They were born "in Phlegrae, but according to others in Pallene," and "darted rocks and burning oaks at the sky."[^apd-giants-born]
+[Gaia](../deities/gaia.md) brought forth the Giants by [Uranus](../deities/uranus.md), provoked by the fate of the [Titans](../deities/groups/titans.md). They were "matchless in the bulk of their bodies and invincible in their might; terrible of aspect did they appear, with long locks drooping from their head and chin, and with the scales of dragons for feet."[^apd-giants-desc] They were born "in Phlegrae, but according to others in Pallene," and "darted rocks and burning oaks at the sky."[^apd-giants-born]
 
 > **VARIANT:** The [Theogony](../sources/theogony.md) says the Giants were born from the blood of [Uranus](../deities/uranus.md) falling on [Gaia](../deities/gaia.md) during his castration. The Bibliotheca says [Gaia](../deities/gaia.md) bore them by [Uranus](../deities/uranus.md), provoked by the Titans' imprisonment — a different mechanism entirely.
 
@@ -50,7 +50,7 @@ The remaining Giants were each slain by specific gods, always finished by [Herac
 - **Polybotes**: Chased by [Poseidon](../deities/poseidon.md) through the sea; Poseidon broke off the island of Nisyrum and threw it on him[^apd-polybotes]
 - **Hippolytus**: Slain by [Hermes](../deities/hermes.md) wearing the [helm of Hades](../objects/helm-of-hades.md)[^apd-hippolytus]
 - **Gration**: Slain by [Artemis](../deities/artemis.md)[^apd-gration]
-- **Agrius and Thoas**: Killed by the [Fates](../deities/fates.md) with brazen clubs[^apd-agrius-thoas]
+- **Agrius and Thoas**: Killed by the [Fates](../deities/groups/fates.md) with brazen clubs[^apd-agrius-thoas]
 
 "The other giants Zeus smote and destroyed with thunderbolts and all of them Hercules shot with arrows as they were dying."[^apd-finish]
 

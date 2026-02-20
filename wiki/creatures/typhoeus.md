@@ -27,7 +27,7 @@ His voices were extraordinary: "at one time they made sounds such that the gods 
 
 "Truly a thing past help would have happened on that day, and he would have come to reign over mortals and immortals, had not the father of men and gods been quick to perceive it."[^theog-threat]
 
-Zeus fought him directly: "he thundered hard and mightily... Great [Olympus](../places/olympus.md) reeled beneath the divine feet of the king as he arose and earth groaned thereat."[^theog-battle] The combat affected the entire cosmos: "[Hades](../deities/hades.md) trembled where he rules over the dead below, and the [Titans](../deities/titans.md) under [Tartarus](../places/tartarus.md) who live with [Cronos](../deities/cronos.md), because of the unending clamour."[^theog-cosmic]
+Zeus fought him directly: "he thundered hard and mightily... Great [Olympus](../places/olympus.md) reeled beneath the divine feet of the king as he arose and earth groaned thereat."[^theog-battle] The combat affected the entire cosmos: "[Hades](../deities/hades.md) trembled where he rules over the dead below, and the [Titans](../deities/groups/titans.md) under [Tartarus](../places/tartarus.md) who live with [Cronos](../deities/cronos.md), because of the unending clamour."[^theog-cosmic]
 
 Zeus "leaped from Olympus and struck him, and burned all the marvellous heads of the monster about him." Typhoeus "was hurled down, a maimed wreck, so that the huge earth groaned" and "a great part of huge earth was scorched by the terrible vapour and melted as tin melts."[^theog-defeat] Zeus cast him into [Tartarus](../places/tartarus.md).[^theog-cast]
 
@@ -71,7 +71,7 @@ He "put away the sinews there also, hidden in a bearskin, and he set to guard th
 
 ### Recovery and Victory
 
-[Hermes](../deities/hermes.md) and Aegipan "stole the sinews and fitted them unobserved to Zeus."[^apd-typh-hermes] Zeus recovered his strength and, "riding in a chariot of winged horses, pelted Typhon with thunderbolts and pursued him to the mountain called Nysa, where the [Fates](../deities/fates.md) beguiled the fugitive; for he tasted of the ephemeral fruits in the persuasion that he would be strengthened thereby."[^apd-typh-fates]
+[Hermes](../deities/hermes.md) and Aegipan "stole the sinews and fitted them unobserved to Zeus."[^apd-typh-hermes] Zeus recovered his strength and, "riding in a chariot of winged horses, pelted Typhon with thunderbolts and pursued him to the mountain called Nysa, where the [Fates](../deities/groups/fates.md) beguiled the fugitive; for he tasted of the ephemeral fruits in the persuasion that he would be strengthened thereby."[^apd-typh-fates]
 
 Typhon came to Thrace, "and in fighting at Mount Haemus he heaved whole mountains. But when these recoiled on him through the force of the thunderbolt, a stream of blood gushed out on the mountain, and they say that from that circumstance the mountain was called Haemus."[^apd-typh-haemus] Finally, "when he started to flee through the Sicilian sea, Zeus cast Mount Etna in Sicily upon him."[^apd-typh-etna]
 

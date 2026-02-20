@@ -6,12 +6,12 @@
 | **Domain** | Law, divine order |
 | **Parents** | [Gaia](gaia.md) and [Uranus](uranus.md) |
 | **Consort(s)** | [Zeus](zeus.md) |
-| **Children** | The [Horae](horae.md) (Hours), the [Fates](fates.md) (Moirai) |
+| **Children** | The [Horae](groups/horae.md) (Hours), the [Fates](groups/fates.md) (Moirai) |
 | **First appearance** | [Theogony](../sources/theogony.md) 16 |
 
 ## Overview
 
-**Themis** is one of the [Titans](titans.md), [Zeus](zeus.md)'s second wife, and mother of the [Horae](horae.md) and the [Fates](fates.md).
+**Themis** is one of the [Titans](groups/titans.md), [Zeus](zeus.md)'s second wife, and mother of the [Horae](groups/horae.md) and the [Fates](groups/fates.md).
 
 ## Birth
 
@@ -35,7 +35,7 @@ In [Odyssey](../sources/odyssey.md) Book II, Telemachus invokes Themis at the as
 
 The play identifies Themis as [Prometheus](prometheus.md)'s mother — a significant departure from the [Theogony](../sources/theogony.md), which names his mother as the Oceanid Clymene. Prometheus refers to "the counsels of my mother Themis" and calls her "one form of many names," apparently identifying her with [Gaia](gaia.md).[^pb-themis-mother] She is called "the ancient Titaness" who gave Prometheus prophetic knowledge: "Such knowledge of the future Themis gave, the ancient Titaness, to me her son."[^pb-themis-prophecy]
 
-Themis counselled Prometheus that craft, not force, would prevail in the war against the [Titans](titans.md), leading him to side with [Zeus](zeus.md).
+Themis counselled Prometheus that craft, not force, would prevail in the war against the [Titans](groups/titans.md), leading him to side with [Zeus](zeus.md).
 
 [^pb-themis-mother]: Prometheus refers to "the counsels of my mother Themis" who is "one form of many names" (Prometheus Bound ~211-213, trans. E.D.A. Morshead)
 [^pb-themis-prophecy]: "Such knowledge of the future Themis gave, the ancient Titaness, to me her son" (Prometheus Bound ~873, trans. E.D.A. Morshead)

@@ -39,7 +39,7 @@ After the tragedies of his house, "Cadmus and Harmonia quitted Thebes and went t
 
 ## The Sphinx
 
-[Hera](../deities/hera.md) sent the [Sphinx](../creatures/sphinx.md) to plague the city: she "had the face of a woman, the breast and feet and tail of a lion, and the wings of a bird. And having learned a riddle from the [Muses](../deities/muses.md), she sat on Mount Phicium, and propounded it to the Thebans."[^apoll-sphinx] The riddle asked what has one voice yet becomes four-footed, two-footed, and three-footed. "When they could not find it the Sphinx used to snatch away one of them and gobble him up."[^apoll-riddle]
+[Hera](../deities/hera.md) sent the [Sphinx](../creatures/sphinx.md) to plague the city: she "had the face of a woman, the breast and feet and tail of a lion, and the wings of a bird. And having learned a riddle from the [Muses](../deities/groups/muses.md), she sat on Mount Phicium, and propounded it to the Thebans."[^apoll-sphinx] The riddle asked what has one voice yet becomes four-footed, two-footed, and three-footed. "When they could not find it the Sphinx used to snatch away one of them and gobble him up."[^apoll-riddle]
 
 ## Oedipus
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-**Coeus** is one of the [Titans](titans.md), consort of [Phoebe](phoebe.md) and grandfather of [Apollo](apollo.md) and [Artemis](artemis.md).
+**Coeus** is one of the [Titans](groups/titans.md), consort of [Phoebe](phoebe.md) and grandfather of [Apollo](apollo.md) and [Artemis](artemis.md).
 
 ## Birth
 

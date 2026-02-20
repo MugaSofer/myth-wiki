@@ -3,12 +3,12 @@
 | | |
 |---|---|
 | **Type** | Sacred mountain |
-| **Associated with** | The [Muses](../deities/muses.md) |
+| **Associated with** | The [Muses](../deities/groups/muses.md) |
 | **First appearance** | [Theogony](../sources/theogony.md) 1 |
 
 ## Overview
 
-**Mount Helicon** is a mountain sacred to the [Muses](../deities/muses.md). It features prominently in the opening of the [Theogony](../sources/theogony.md) as the Muses' dwelling place.
+**Mount Helicon** is a mountain sacred to the [Muses](../deities/groups/muses.md). It features prominently in the opening of the [Theogony](../sources/theogony.md) as the Muses' dwelling place.
 
 ## Description
 

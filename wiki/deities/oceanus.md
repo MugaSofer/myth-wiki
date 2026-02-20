@@ -11,7 +11,7 @@
 
 ## Overview
 
-**Oceanus** is the eldest of the [Titans](titans.md), a deep-swirling river that encircles the world.
+**Oceanus** is the eldest of the [Titans](groups/titans.md), a deep-swirling river that encircles the world.
 
 ## Birth
 

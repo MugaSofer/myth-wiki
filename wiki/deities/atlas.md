@@ -8,7 +8,7 @@
 
 ## Overview
 
-**Atlas** is a son of the [Titan](titans.md) [Iapetus](iapetus.md) and the Oceanid Clymene. He bears the sky upon his shoulders as a punishment assigned by [Zeus](zeus.md).
+**Atlas** is a son of the [Titan](groups/titans.md) [Iapetus](iapetus.md) and the Oceanid Clymene. He bears the sky upon his shoulders as a punishment assigned by [Zeus](zeus.md).
 
 ## Description
 

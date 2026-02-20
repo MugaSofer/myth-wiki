@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Type** | [Titan](titans.md)-descended goddess |
+| **Type** | [Titan](groups/titans.md)-descended goddess |
 | **Domain** | Earth, sea, heaven; victory, judgement, wealth, nurture |
 | **Parents** | Perses (son of [Crius](crius.md) and Eurybia) and [Asteria](asteria.md) (daughter of [Phoebe](phoebe.md) and [Coeus](coeus.md)) |
 | **First appearance** | [Theogony](../sources/theogony.md) 411 |

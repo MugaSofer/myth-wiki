@@ -68,7 +68,7 @@ The ability to see gods is granted with a crucial restriction: "if any god come 
 
 ### Wounding Aphrodite and the Definition of Ichor (Book V)
 
-When [Aphrodite](../deities/aphrodite.md) shields her son [Aeneas](aeneas.md) from the battle, Diomedes attacks her: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the [Graces](../deities/graces.md) themselves had woven her pierced the dart into the flesh." The wound produces not blood but a divine substance: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals."[^il5-ichor]
+When [Aphrodite](../deities/aphrodite.md) shields her son [Aeneas](aeneas.md) from the battle, Diomedes attacks her: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the [Graces](../deities/groups/graces.md) themselves had woven her pierced the dart into the flesh." The wound produces not blood but a divine substance: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals."[^il5-ichor]
 
 Aphrodite flees to [Olympus](../places/olympus.md) and complains to [Dione](../deities/dione.md), calling Diomedes by name: "Tydeus' son wounded me, high-hearted Diomedes, because I was saving from the battle my dear son."[^il5-aphrodite-complaint]
 

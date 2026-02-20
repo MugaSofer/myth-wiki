@@ -9,7 +9,7 @@
 
 ## Overview
 
-**Crius** is one of the [Titans](titans.md).
+**Crius** is one of the [Titans](groups/titans.md).
 
 ## Birth
 

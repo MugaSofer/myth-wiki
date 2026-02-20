@@ -9,7 +9,7 @@
 
 ## Overview
 
-**Theia** is one of the [Titans](titans.md), mother of the celestial lights.
+**Theia** is one of the [Titans](groups/titans.md), mother of the celestial lights.
 
 ## Birth
 

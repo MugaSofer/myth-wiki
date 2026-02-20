@@ -55,7 +55,7 @@ In Book XIV, fighting openly while [Zeus](zeus.md) sleeps, he carries "a dread s
 
 ## Mythology
 
-Poseidon "fixed gates of bronze upon" [Tartarus](../places/tartarus.md) to imprison the [Titans](titans.md), "and a wall runs all round it on every side."[^theog-gates]
+Poseidon "fixed gates of bronze upon" [Tartarus](../places/tartarus.md) to imprison the [Titans](groups/titans.md), "and a wall runs all round it on every side."[^theog-gates]
 
 He lay with [Medusa](../creatures/gorgons.md) "in a soft meadow amid spring flowers," and from her slain body sprang [Pegasus](../creatures/pegasus.md) and Chrysaor.[^theog-medusa]
 

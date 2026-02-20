@@ -5,14 +5,14 @@
 | **Also known as** | Cronos the wily, the crafty counsellor |
 | **Roman equivalent** | Saturn |
 | **Parents** | [Gaia](gaia.md) and [Uranus](uranus.md) |
-| **Siblings** | The other [Titans](titans.md), [Cyclopes](../creatures/cyclopes.md), [Hundred-Handers](../creatures/hundred-handers.md) |
+| **Siblings** | The other [Titans](groups/titans.md), [Cyclopes](../creatures/cyclopes.md), [Hundred-Handers](../creatures/hundred-handers.md) |
 | **Consort(s)** | [Rhea](rhea.md) |
 | **Children** | [Hestia](hestia.md), [Demeter](demeter.md), [Hera](hera.md), [Hades](hades.md), [Poseidon](poseidon.md), [Zeus](zeus.md) |
 | **First appearance** | [Theogony](../sources/theogony.md) 137 |
 
 ## Overview
 
-**Cronos** was the youngest of the [Titans](titans.md), children of [Gaia](gaia.md) and [Uranus](uranus.md). He is described as the "youngest and most terrible of her children" who "hated his lusty sire."[^theog-youngest]
+**Cronos** was the youngest of the [Titans](groups/titans.md), children of [Gaia](gaia.md) and [Uranus](uranus.md). He is described as the "youngest and most terrible of her children" who "hated his lusty sire."[^theog-youngest]
 
 [^theog-youngest]: "After them was born Cronos the wily, youngest and most terrible of her children, and he hated his lusty sire" (Theogony 137-138, trans. H.G. Evelyn-White)
 

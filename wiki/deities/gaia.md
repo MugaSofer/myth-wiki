@@ -6,7 +6,7 @@
 | **Roman equivalent** | Terra |
 | **Domain** | The earth |
 | **Consort(s)** | [Uranus](uranus.md) (Heaven); also bore children without union |
-| **Children** | [Uranus](uranus.md) (Heaven), the Hills, [Pontus](pontus.md) (Sea); with Uranus: the [Titans](titans.md), [Cyclopes](../creatures/cyclopes.md), [Hundred-Handers](../creatures/hundred-handers.md) |
+| **Children** | [Uranus](uranus.md) (Heaven), the Hills, [Pontus](pontus.md) (Sea); with Uranus: the [Titans](groups/titans.md), [Cyclopes](../creatures/cyclopes.md), [Hundred-Handers](../creatures/hundred-handers.md) |
 | **First appearance** | [Theogony](../sources/theogony.md) 116 |
 
 ## Overview

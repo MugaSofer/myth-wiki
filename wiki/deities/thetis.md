@@ -95,7 +95,7 @@ In [Odyssey](../sources/odyssey.md) Book XXIV, Agamemnon's shade describes Achil
 
 The Nereids prepared his body: "Then round thee stood the daughters of the ancient one of the sea, holding a pitiful lament, and they clad thee about in raiment incorruptible."[^od24-nereids]
 
-The [Muses](muses.md) joined the mourning: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant."[^od24-muses] The mourning lasted "seventeen days and nights continually did we all bewail thee, immortal gods and mortal men."[^od24-seventeen]
+The [Muses](groups/muses.md) joined the mourning: "all the nine Muses one to the other replying with sweet voices began the dirge; there thou wouldest not have seen an Argive but wept, so mightily rose up the clear chant."[^od24-muses] The mourning lasted "seventeen days and nights continually did we all bewail thee, immortal gods and mortal men."[^od24-seventeen]
 
 After the cremation — "when the flame of [Hephaestus](hephaestus.md) had utterly abolished thee" — Thetis provided the urn for Achilles' bones: "Thy mother gave a twy-handled golden urn, and said that it was the gift of [Dionysus](dionysus.md), and the workmanship of renowned [Hephaestus](hephaestus.md)."[^od24-urn]
 

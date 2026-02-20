@@ -8,7 +8,7 @@
 
 ## Overview
 
-**Tartarus** is a primordial location (and implicitly a being) that came into existence after [Chaos](../deities/chaos.md) and alongside [Earth](../deities/gaia.md). It serves as the prison of the defeated [Titans](../deities/titans.md) after the [Titanomachy](../events/titanomachy.md).
+**Tartarus** is a primordial location (and implicitly a being) that came into existence after [Chaos](../deities/chaos.md) and alongside [Earth](../deities/gaia.md). It serves as the prison of the defeated [Titans](../deities/groups/titans.md) after the [Titanomachy](../events/titanomachy.md).
 
 ## Description
 

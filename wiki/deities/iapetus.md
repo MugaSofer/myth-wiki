@@ -9,7 +9,7 @@
 
 ## Overview
 
-**Iapetus** is one of the [Titans](titans.md), father of [Prometheus](prometheus.md) and [Atlas](atlas.md).
+**Iapetus** is one of the [Titans](groups/titans.md), father of [Prometheus](prometheus.md) and [Atlas](atlas.md).
 
 ## Birth
 

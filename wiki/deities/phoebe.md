@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Phoebe** is one of the [Titans](titans.md), mother of Leto and grandmother of [Apollo](apollo.md) and [Artemis](artemis.md).
+**Phoebe** is one of the [Titans](groups/titans.md), mother of Leto and grandmother of [Apollo](apollo.md) and [Artemis](artemis.md).
 
 ## Birth
 

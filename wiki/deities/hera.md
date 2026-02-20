@@ -155,7 +155,7 @@ As her cover story, Hera claims Okeanos and Tethys "reared me well and nourished
 
 **Recruiting Sleep:** Hera finds "Sleep, the brother of Death" on Lemnos and asks him to lull Zeus. Sleep refuses, recalling a previous time Hera used him: she had sent [Heracles](../heroes/heracles.md) to Kos with storm winds, and when Zeus woke "he was wrathful, and dashed the gods about his mansion, and me above all he sought, and he would have cast me from the upper air to perish in the deep, if [Night](night.md) had not saved me, Night, that subdues both gods and men... he was in awe of doing aught displeasing to swift Night."[^il14-sleep]
 
-Hera overcomes his reluctance by offering Pasithea, "one of the younger of the [Graces](graces.md)," as his wife. Sleep makes her swear by the inviolable water of [Styx](styx.md), calling "all the gods by name, even those below [Tartaros](../places/tartarus.md) that are called [Titans](titans.md)."[^il14-oath]
+Hera overcomes his reluctance by offering Pasithea, "one of the younger of the [Graces](groups/graces.md)," as his wife. Sleep makes her swear by the inviolable water of [Styx](styx.md), calling "all the gods by name, even those below [Tartaros](../places/tartarus.md) that are called [Titans](groups/titans.md)."[^il14-oath]
 
 **The seduction:** On Ida, Zeus sees Hera and "love came over his deep heart." He lists his past conquests — none moved him as she does now — then wraps them in a golden cloud ("not even the sun might see through it") while "the divine earth sent forth fresh new grass, and dewy lotus, and crocus, and hyacinth, thick and soft."[^il14-earth]
 

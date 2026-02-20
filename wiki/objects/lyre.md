@@ -24,7 +24,7 @@ When Hermes played the lyre for [Apollo](../deities/apollo.md), "the sweet throb
 
 ## Apollo and the Lyre
 
-After receiving the lyre, Apollo becomes inseparable from it. In the [Theogony](../sources/theogony.md), it is "through the [Muses](../deities/muses.md) and far-shooting Apollo that there are singers and harpers upon the earth."[^theog-song]
+After receiving the lyre, Apollo becomes inseparable from it. In the [Theogony](../sources/theogony.md), it is "through the [Muses](../deities/groups/muses.md) and far-shooting Apollo that there are singers and harpers upon the earth."[^theog-song]
 
 [^theog-song]: "For it is through the Muses and far-shooting Apollo that there are singers and harpers upon the earth; but princes are of Zeus" (Theogony 94-96, trans. H.G. Evelyn-White)
 

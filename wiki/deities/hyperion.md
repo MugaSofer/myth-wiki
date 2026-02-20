@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Hyperion** is one of the [Titans](titans.md), father of the celestial lights.
+**Hyperion** is one of the [Titans](groups/titans.md), father of the celestial lights.
 
 ## Birth
 

@@ -42,7 +42,7 @@
 ### Also appearing
 
 - [Zeus](../deities/zeus.md), [Prometheus](../deities/prometheus.md), [Epimetheus](../deities/epimetheus.md), [Athena](../deities/athena.md), [Aphrodite](../deities/aphrodite.md), [Hermes](../deities/hermes.md), [Hephaestus](../deities/hephaestus.md), [Demeter](../deities/demeter.md), [Cronos](../deities/cronos.md)
-- The [Graces](../deities/graces.md), the [Horae](../deities/horae.md) (Hours)
+- The [Graces](../deities/groups/graces.md), the [Horae](../deities/groups/horae.md) (Hours)
 
 ## Relationship to the Theogony
 

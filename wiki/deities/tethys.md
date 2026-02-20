@@ -11,7 +11,7 @@
 
 ## Overview
 
-**Tethys** is one of the [Titans](titans.md), consort of [Oceanus](oceanus.md) and mother of the rivers and Oceanids.
+**Tethys** is one of the [Titans](groups/titans.md), consort of [Oceanus](oceanus.md) and mother of the rivers and Oceanids.
 
 ## Birth
 

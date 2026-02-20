@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Type** | [Titan](titans.md) |
+| **Type** | [Titan](groups/titans.md) |
 | **Parents** | [Gaia](gaia.md) and [Uranus](uranus.md) |
 | **Consort(s)** | [Cronos](cronos.md) |
 | **Children** | [Hestia](hestia.md), [Demeter](demeter.md), [Hera](hera.md), [Hades](hades.md), [Poseidon](poseidon.md), [Zeus](zeus.md) |
@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Rhea** is a [Titan](titans.md), daughter of [Gaia](gaia.md) and [Uranus](uranus.md), and mother of the Olympian gods by [Cronos](cronos.md).
+**Rhea** is a [Titan](groups/titans.md), daughter of [Gaia](gaia.md) and [Uranus](uranus.md), and mother of the Olympian gods by [Cronos](cronos.md).
 
 ## Mythology
 

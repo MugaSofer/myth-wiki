@@ -80,7 +80,7 @@ The Catalogue names the Sirens' island and gives their individual names: "To the
 
 ## Parentage (Bibliotheca)
 
-Apollodorus names the Sirens' parents: "Melpomene had by Achelous the Sirens."[^apd-sirens-parents] This gives them a specific genealogy not found in the [Odyssey](../sources/odyssey.md), where they are unnamed as to parentage. Their mother is Melpomene (the [Muse](../deities/muses.md) of tragedy), and their father is Achelous (the river god).
+Apollodorus names the Sirens' parents: "Melpomene had by Achelous the Sirens."[^apd-sirens-parents] This gives them a specific genealogy not found in the [Odyssey](../sources/odyssey.md), where they are unnamed as to parentage. Their mother is Melpomene (the [Muse](../deities/groups/muses.md) of tragedy), and their father is Achelous (the river god).
 
 [^apd-sirens-parents]: "Melpomene had by Achelous the Sirens" (Bibliotheca 1.3.4, trans. Frazer)
 

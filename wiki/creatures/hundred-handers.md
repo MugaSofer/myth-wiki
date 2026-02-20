@@ -43,7 +43,7 @@ This passage introduces the **variant name Aigaion** (used by mortals), and desc
 
 Apollodorus confirms the Theogonic account and adds that the Hundred-Handers were "unsurpassed in size and might, each of them having a hundred hands and fifty heads."[^apd-hh-desc] He names them in a different order from Hesiod: Briareus, Gyes, Cottus (vs. Cottus, Briareos, Gyes in the Theogony).
 
-After the [Titans](../deities/titans.md) overthrew [Uranus](../deities/uranus.md), [Cronos](../deities/cronos.md) "again bound and shut them up in Tartarus."[^apd-hh-rebound] This double imprisonment — first by Uranus, then by Cronos — is stated more explicitly in Apollodorus than in the Theogony.
+After the [Titans](../deities/groups/titans.md) overthrew [Uranus](../deities/uranus.md), [Cronos](../deities/cronos.md) "again bound and shut them up in Tartarus."[^apd-hh-rebound] This double imprisonment — first by Uranus, then by Cronos — is stated more explicitly in Apollodorus than in the Theogony.
 
 In the [Titanomachy](../events/titanomachy.md), [Zeus](../deities/zeus.md) "slew their jailoress Campe, and loosed their bonds"[^apd-hh-campe] — the jailoress Campe is a detail not found in the Theogony. After the victory, the gods "appointed the Hundred-handers their guards" over the imprisoned Titans.[^apd-hh-guards]
 

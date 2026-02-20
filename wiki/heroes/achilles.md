@@ -161,7 +161,7 @@ This speech inverts the choice of the [Iliad](../sources/iliad.md) -- the hero w
 
 ### Achilles' Funeral (Book XXIV)
 
-Agamemnon's shade describes Achilles' funeral in the second Nekuia. [Thetis](../deities/thetis.md) emerged from the sea "with the deathless maidens of the waters" and "a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans."[^od24-arrival] The [Muses](../deities/muses.md) sang the dirge -- "all the nine Muses one to the other replying with sweet voices began the dirge" -- and mourning lasted seventeen days by both immortals and mortals.[^od24-muses]
+Agamemnon's shade describes Achilles' funeral in the second Nekuia. [Thetis](../deities/thetis.md) emerged from the sea "with the deathless maidens of the waters" and "a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans."[^od24-arrival] The [Muses](../deities/groups/muses.md) sang the dirge -- "all the nine Muses one to the other replying with sweet voices began the dirge" -- and mourning lasted seventeen days by both immortals and mortals.[^od24-muses]
 
 After the cremation, [Thetis](../deities/thetis.md) "gave a twy-handled golden urn, and said that it was the gift of [Dionysus](../deities/dionysus.md), and the workmanship of renowned [Hephaestus](../deities/hephaestus.md)." She then "asked the gods for glorious prizes in the games... for very dear wert thou to the gods."[^od24-urn]
 
@@ -175,7 +175,7 @@ After the cremation, [Thetis](../deities/thetis.md) "gave a twy-handled golden u
 
 After slaying Memnon (son of [Eos](../deities/eos.md), who wore armour made by [Hephaestus](../deities/hephaestus.md)), Achilles is killed rushing into the city: he "is killed by Paris and [Apollo](../deities/apollo.md)."[^aeth-death] This fulfils Hector's dying prophecy from [Iliad](../sources/iliad.md) XXII.
 
-[Thetis](../deities/thetis.md) arrives "with the [Muses](../deities/muses.md) and her sisters" to bewail him, then "catches away from the pyre and transports to the White Island."[^aeth-white] [Eos](../deities/eos.md) obtains immortality from [Zeus](../deities/zeus.md) for her son Memnon, but no similar favour is granted for Achilles -- [Thetis](../deities/thetis.md) instead removes him physically from the mortal world.
+[Thetis](../deities/thetis.md) arrives "with the [Muses](../deities/groups/muses.md) and her sisters" to bewail him, then "catches away from the pyre and transports to the White Island."[^aeth-white] [Eos](../deities/eos.md) obtains immortality from [Zeus](../deities/zeus.md) for her son Memnon, but no similar favour is granted for Achilles -- [Thetis](../deities/thetis.md) instead removes him physically from the mortal world.
 
 [^aeth-death]: Aethiopis, summary by Proclus: Achilles "is killed by Paris and Apollo" (trans. H.G. Evelyn-White)
 [^aeth-white]: Aethiopis, summary by Proclus: "Thetis, arriving with the Muses and her sisters, bewails her son, whom she afterwards catches away from the pyre and transports to the White Island" (trans. H.G. Evelyn-White)
@@ -348,7 +348,7 @@ At his death, "[Achilles] neither in death was forsaken of songs, for at his fun
 - **[Iliad](../sources/iliad.md)** XXIII: Patroklos's ghost appears; afterlife theology; funeral games
 - **[Iliad](../sources/iliad.md)** XXIV: The Two Urns speech; ransoms Hector's body to Priam; [Thetis](../deities/thetis.md) brings [Zeus](../deities/zeus.md)'s command
 - **[Odyssey](../sources/odyssey.md)** XI: Shade in Hades; "Nay, speak not comfortably to me of death"; asks about his son and father
-- **[Odyssey](../sources/odyssey.md)** XXIV: Funeral described (Agamemnon's shade); [Thetis](../deities/thetis.md) and the Nereids; nine [Muses](../deities/muses.md) sing dirge; seventeen days of mourning; golden urn (gift of [Dionysus](../deities/dionysus.md), work of [Hephaestus](../deities/hephaestus.md)); "very dear wert thou to the gods"
+- **[Odyssey](../sources/odyssey.md)** XXIV: Funeral described (Agamemnon's shade); [Thetis](../deities/thetis.md) and the Nereids; nine [Muses](../deities/groups/muses.md) sing dirge; seventeen days of mourning; golden urn (gift of [Dionysus](../deities/dionysus.md), work of [Hephaestus](../deities/hephaestus.md)); "very dear wert thou to the gods"
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Peleus's spear (Cheiron, [Athena](../deities/athena.md), [Hephaestus](../deities/hephaestus.md)); [Thetis](../deities/thetis.md)'s marriage; Paris and [Apollo](../deities/apollo.md) to slay him
 - **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Slays Penthesileia and Memnon; killed by Paris and [Apollo](../deities/apollo.md); [Thetis](../deities/thetis.md) transports him to the White Island; arms contested; Aias kills himself
 - **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Ghost appears to Neoptolemus

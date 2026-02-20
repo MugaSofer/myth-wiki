@@ -13,7 +13,7 @@
 
 ## Overview
 
-**Prometheus** is a son of the [Titan](titans.md) [Iapetus](iapetus.md), described as "clever... full of various wiles."[^theog-clever] He is central to two foundational myths: the trick at Mecone (which established the practice of sacrifice) and the theft of fire.
+**Prometheus** is a son of the [Titan](groups/titans.md) [Iapetus](iapetus.md), described as "clever... full of various wiles."[^theog-clever] He is central to two foundational myths: the trick at Mecone (which established the practice of sacrifice) and the theft of fire.
 
 [^theog-clever]: "clever Prometheus, full of various wiles" (Theogony 510-511)
 
@@ -85,8 +85,8 @@ The first woman is here **named**: "he called this woman Pandora, because all th
 
 - [Hephaestus](hephaestus.md) "moulded clay in the likeness of a modest maid"
 - [Athena](athena.md) "girded and clothed her" and "bedecked her form with all manners of finery"
-- The [Graces](graces.md) and Persuasion "put necklaces of gold upon her"
-- The [Horae](horae.md) (Hours) "crowned her head with spring flowers"
+- The [Graces](groups/graces.md) and Persuasion "put necklaces of gold upon her"
+- The [Horae](groups/horae.md) (Hours) "crowned her head with spring flowers"
 - [Hermes](hermes.md) "contrived within her lies and crafty words and a deceitful nature" and "put speech in her"
 - [Aphrodite](aphrodite.md) shed "grace upon her head and cruel longing and cares that weary the limbs"[^wd-creation]
 

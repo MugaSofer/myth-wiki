@@ -7,7 +7,7 @@
 | **Domain** | King of the gods, sky, thunder |
 | **Parents** | [Cronos](cronos.md) and [Rhea](rhea.md) |
 | **Consort(s)** | Metis, [Themis](themis.md), Eurynome, [Demeter](demeter.md), [Mnemosyne](mnemosyne.md), Leto, [Hera](hera.md), and others |
-| **Children** | [Athena](athena.md), the Horae, the Fates, the Graces, [Persephone](persephone.md), the [Muses](muses.md), [Apollo](apollo.md), [Artemis](artemis.md), Hebe, [Ares](ares.md), Eileithyia, [Hermes](hermes.md), [Dionysus](dionysus.md), [Heracles](../heroes/heracles.md) |
+| **Children** | [Athena](athena.md), the Horae, the Fates, the Graces, [Persephone](persephone.md), the [Muses](groups/muses.md), [Apollo](apollo.md), [Artemis](artemis.md), Hebe, [Ares](ares.md), Eileithyia, [Hermes](hermes.md), [Dionysus](dionysus.md), [Heracles](../heroes/heracles.md) |
 | **Symbols** | Lightning, thunderbolt (made by the [Cyclopes](../creatures/cyclopes.md)) |
 | **First appearance** | [Theogony](../sources/theogony.md) 11 |
 
@@ -45,7 +45,7 @@ His instruments are described as extensions of himself: the [golden scales](../o
 
 Zeus holds "the lightning and glowing [thunderbolt](../objects/thunderbolt.md)," having "overcome by might his father [Cronos](cronos.md)," after which "he distributed fairly to the immortals their portions and declared their privileges."[^theog-rule] The thunderbolt was given to him by the [Cyclopes](../creatures/cyclopes.md).[^theog-cyclopes]
 
-It is "through the [Muses](muses.md) and far-shooting [Apollo](apollo.md) that there are singers and harpers upon the earth; but princes are of Zeus."[^theog-princes]
+It is "through the [Muses](groups/muses.md) and far-shooting [Apollo](apollo.md) that there are singers and harpers upon the earth; but princes are of Zeus."[^theog-princes]
 
 Demonstrated powers across the sources:
 
@@ -82,7 +82,7 @@ Zeus's consorts are listed in order in the [Theogony](../sources/theogony.md):[^
 2. **[Themis](themis.md)** — bore the Horae (Hours): Eunomia (Order), Dike (Justice), and Eirene (Peace); and the Moerae (Fates): Clotho, Lachesis, and Atropos.[^theog-themis]
 3. **Eurynome** (daughter of [Oceanus](oceanus.md)) — bore the three Charites (Graces): Aglaea, Euphrosyne, and Thaleia.[^theog-graces]
 4. **[Demeter](demeter.md)** — bore "white-armed [Persephone](persephone.md) whom Aidoneus [[Hades](hades.md)] carried off from her mother; but wise Zeus gave her to him."[^theog-demeter]
-5. **[Mnemosyne](mnemosyne.md)** — bore "the nine gold-crowned [Muses](muses.md) who delight in feasts and the pleasures of song."[^theog-muses]
+5. **[Mnemosyne](mnemosyne.md)** — bore "the nine gold-crowned [Muses](groups/muses.md) who delight in feasts and the pleasures of song."[^theog-muses]
 6. **Leto** — bore "[Apollo](apollo.md) and [Artemis](artemis.md) delighting in arrows, children lovely above all the sons of Heaven."[^theog-leto]
 7. **[Hera](hera.md)** (final wife) — "brought forth Hebe and [Ares](ares.md) and Eileithyia."[^theog-hera]
 
@@ -117,7 +117,7 @@ Zeus's consorts are listed in order in the [Theogony](../sources/theogony.md):[^
 
 After the deception, Cronos's son was "left behind, unconquered and untroubled, and... he was soon to overcome him by force and might and drive him from his honours, himself to reign over the deathless gods."[^theog-rise]
 
-Before the battle with the [Titans](titans.md), Zeus called "all the deathless gods to great [Olympus](../places/olympus.md), and said that whosoever of the gods would fight with him against the Titans, he would not cast him out from his rights." Styx was the first to answer, bringing her children (Zelus, Nike, Cratos, Bia), and was rewarded by being made "the great oath of the gods."[^theog-styx]
+Before the battle with the [Titans](groups/titans.md), Zeus called "all the deathless gods to great [Olympus](../places/olympus.md), and said that whosoever of the gods would fight with him against the Titans, he would not cast him out from his rights." Styx was the first to answer, bringing her children (Zelus, Nike, Cratos, Bia), and was rewarded by being made "the great oath of the gods."[^theog-styx]
 
 [^theog-rise]: "his son was left behind, unconquered and untroubled, and that he was soon to overcome him by force and might and drive him from his honours, himself to reign over the deathless gods" (Theogony 485-491)
 [^theog-styx]: "whosoever of the gods would fight with him against the Titans, he would not cast him out from his rights, but each should have the office which he had before amongst the deathless gods... So deathless Styx came first to Olympus with her children through the wit of her dear father. And Zeus honoured her, and gave her very great gifts, for her he appointed to be the great oath of the gods" (Theogony 389-401)
@@ -131,7 +131,7 @@ Cronos "was beguiled by the deep suggestions of [Earth](gaia.md), and brought up
 
 ### The Titanomachy
 
-See [Titanomachy](../events/titanomachy.md). Zeus led the Olympian gods against the [Titans](titans.md) in a ten-year war, winning with the help of the [Hundred-Handers](../creatures/hundred-handers.md) and his thunderbolt.[^theog-titan]
+See [Titanomachy](../events/titanomachy.md). Zeus led the Olympian gods against the [Titans](groups/titans.md) in a ten-year war, winning with the help of the [Hundred-Handers](../creatures/hundred-handers.md) and his thunderbolt.[^theog-titan]
 
 [^theog-titan]: "the Titan gods and as many as sprang from Cronos had long been fighting together in stubborn war with heart-grieving toil... Then Zeus no longer held back his might; but straight his heart was filled with fury and he showed forth all his strength" (Theogony 617-735)
 
@@ -162,7 +162,7 @@ The nurse Amalthea "hung him in a cradle from a tree, so that he could be found 
 
 ### War with the Titans (§150)
 
-The Fabulae gives [Hera](hera.md) (Juno) an active role in instigating the [Titanomachy](../events/titanomachy.md). After seeing "that Epaphus, born of a concubine, ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titans to drive Jove from the kingdom and restore it to Saturn."[^hyg-150-juno] When the [Titans](titans.md) "tried to mount heaven, Jove with the help of Minerva [[Athena](athena.md)], Apollo, and Diana [[Artemis](artemis.md)], cast them headlong into Tartarus."[^hyg-150-war]
+The Fabulae gives [Hera](hera.md) (Juno) an active role in instigating the [Titanomachy](../events/titanomachy.md). After seeing "that Epaphus, born of a concubine, ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titans to drive Jove from the kingdom and restore it to Saturn."[^hyg-150-juno] When the [Titans](groups/titans.md) "tried to mount heaven, Jove with the help of Minerva [[Athena](athena.md)], Apollo, and Diana [[Artemis](artemis.md)], cast them headlong into Tartarus."[^hyg-150-war]
 
 The punishment of [Atlas](atlas.md) is specified: "On Atlas, who had been their leader, he put the vault of the sky; even now he is said to hold up the sky on his shoulders."[^hyg-150-atlas]
 

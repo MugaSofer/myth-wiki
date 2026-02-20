@@ -7,12 +7,12 @@
 | **Domain** | The sky |
 | **Parents** | [Gaia](gaia.md) (born without union) |
 | **Consort(s)** | [Gaia](gaia.md) |
-| **Children** | The [Titans](titans.md), the [Cyclopes](../creatures/cyclopes.md), the [Hundred-Handers](../creatures/hundred-handers.md) |
+| **Children** | The [Titans](groups/titans.md), the [Cyclopes](../creatures/cyclopes.md), the [Hundred-Handers](../creatures/hundred-handers.md) |
 | **First appearance** | [Theogony](../sources/theogony.md) 126 |
 
 ## Overview
 
-**Uranus** (Heaven) was the first-born child of [Gaia](gaia.md), brought forth "equal to herself, to cover her on every side, and to be an ever-sure abiding-place for the blessed gods."[^theog-born] He became Gaia's consort and father of the [Titans](titans.md), [Cyclopes](../creatures/cyclopes.md), and [Hundred-Handers](../creatures/hundred-handers.md).
+**Uranus** (Heaven) was the first-born child of [Gaia](gaia.md), brought forth "equal to herself, to cover her on every side, and to be an ever-sure abiding-place for the blessed gods."[^theog-born] He became Gaia's consort and father of the [Titans](groups/titans.md), [Cyclopes](../creatures/cyclopes.md), and [Hundred-Handers](../creatures/hundred-handers.md).
 
 [^theog-born]: "Earth first bare starry Heaven, equal to herself, to cover her on every side, and to be an ever-sure abiding-place for the blessed gods" (Theogony 126-128, trans. H.G. Evelyn-White)
 
