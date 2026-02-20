@@ -11,7 +11,7 @@
 
 ## Overview
 
-**Erebus** is a primordial deity of darkness, born from [Chaos](chaos.md) alongside [Night](night.md).
+**Erebus** is a [primordial](groups/primordials.md) deity of darkness, born from [Chaos](chaos.md) alongside [Night](night.md).
 
 ## Children
 

@@ -11,7 +11,7 @@
 
 ## Overview
 
-**Hermes** is a son of [Zeus](zeus.md) and Maia, serving as the herald of the gods.
+**Hermes** is a son of [Zeus](zeus.md) and Maia, one of the [Olympians](groups/olympians.md), and serves as the herald of the gods.
 
 ## Epithets
 

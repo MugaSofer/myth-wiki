@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Artemis** is a daughter of [Zeus](zeus.md) and Leto, twin sister of [Apollo](apollo.md).
+**Artemis** is a daughter of [Zeus](zeus.md) and Leto, twin sister of [Apollo](apollo.md), and one of the [Olympians](groups/olympians.md).
 
 ## Epithets
 

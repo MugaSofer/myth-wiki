@@ -9,7 +9,7 @@
 
 ## Overview
 
-**Eros** (Love) is a primordial deity who arose at the beginning of creation, alongside [Earth](gaia.md) and [Tartarus](../places/tartarus.md), shortly after [Chaos](chaos.md).
+**Eros** (Love) is a [primordial](groups/primordials.md) deity who arose at the beginning of creation, alongside [Earth](gaia.md) and [Tartarus](../places/tartarus.md), shortly after [Chaos](chaos.md).
 
 ## Description
 

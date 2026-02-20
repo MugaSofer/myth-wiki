@@ -11,7 +11,7 @@
 
 ## Overview
 
-**Poseidon** is a son of [Cronos](cronos.md) and [Rhea](rhea.md), god of the sea and earthquakes. He is one of the Olympians swallowed by Cronos and later freed by [Zeus](zeus.md).
+**Poseidon** is a son of [Cronos](cronos.md) and [Rhea](rhea.md), god of the sea and earthquakes. He is one of the [Olympians](groups/olympians.md) swallowed by Cronos and later freed by [Zeus](zeus.md).
 
 ## Epithets
 

@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Ares** is a son of [Zeus](zeus.md) and [Hera](hera.md), god of war.
+**Ares** is a son of [Zeus](zeus.md) and [Hera](hera.md), god of war and one of the [Olympians](groups/olympians.md).
 
 ## Epithets
 

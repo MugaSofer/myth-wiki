@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Apollo** is a son of [Zeus](zeus.md) and Leto, and twin brother of [Artemis](artemis.md).
+**Apollo** is a son of [Zeus](zeus.md) and Leto, twin brother of [Artemis](artemis.md), and one of the [Olympians](groups/olympians.md).
 
 ## Epithets
 

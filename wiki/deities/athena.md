@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Athena** is a daughter of [Zeus](zeus.md), born from his head after he swallowed her mother Metis. She is described with the epithets "bright-eyed," "the awful, the strife-stirring, the host-leader, the unwearying, the queen, who delights in tumults and wars and battles."[^theog-epithets]
+**Athena** is a daughter of [Zeus](zeus.md) and an [Olympian](groups/olympians.md) deity, born from his head after he swallowed her mother Metis. She is described with the epithets "bright-eyed," "the awful, the strife-stirring, the host-leader, the unwearying, the queen, who delights in tumults and wars and battles."[^theog-epithets]
 
 [^theog-epithets]: "bright-eyed Tritogeneia, the awful, the strife-stirring, the host-leader, the unwearying, the queen, who delights in tumults and wars and battles" (Theogony 924-926, trans. H.G. Evelyn-White)
 

@@ -11,7 +11,7 @@
 
 ## Overview
 
-**Hephaestus** is the god of craftsmanship, born of [Hera](hera.md) alone without union with [Zeus](zeus.md). He is "skilled in crafts more than all the sons of Heaven."[^theog-crafts]
+**Hephaestus** is an [Olympian](groups/olympians.md) god of craftsmanship, born of [Hera](hera.md) alone without union with [Zeus](zeus.md). He is "skilled in crafts more than all the sons of Heaven."[^theog-crafts]
 
 [^theog-crafts]: "Hera without union with Zeus—for she was very angry and quarrelled with her mate—bare famous Hephaestus, who is skilled in crafts more than all the sons of Heaven" (Theogony 927-929, trans. H.G. Evelyn-White)
 

@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Pontus** (Sea) was born of [Gaia](gaia.md) alone, "without sweet union of love." He is described as "the fruitless deep with his raging swell."[^theog-pontus]
+**Pontus** (Sea) was a [primordial](groups/primordials.md) being born of [Gaia](gaia.md) alone, "without sweet union of love." He is described as "the fruitless deep with his raging swell."[^theog-pontus]
 
 [^theog-pontus]: "She bare also the fruitless deep with his raging swell, Pontus, without sweet union of love" (Theogony 131-132, trans. H.G. Evelyn-White)
 

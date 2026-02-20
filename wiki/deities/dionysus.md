@@ -11,7 +11,7 @@
 
 ## Overview
 
-**Dionysus** is a son of [Zeus](zeus.md) and the mortal woman Semele, notable as a case of a mortal-born deity.
+**Dionysus** is a son of [Zeus](zeus.md) and the mortal woman Semele, an [Olympian](groups/olympians.md) notable as a case of a mortal-born deity.
 
 ## Epithets
 

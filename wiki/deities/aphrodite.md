@@ -15,7 +15,7 @@
 
 ## Overview
 
-**Aphrodite** is the goddess of love. In Hesiod's [Theogony](../sources/theogony.md), she was born from the sea-foam that gathered around the severed genitals of [Uranus](uranus.md) after [Cronos](cronos.md) cast them into the sea.
+**Aphrodite** is the goddess of love and one of the [Olympians](groups/olympians.md). In Hesiod's [Theogony](../sources/theogony.md), she was born from the sea-foam that gathered around the severed genitals of [Uranus](uranus.md) after [Cronos](cronos.md) cast them into the sea.
 
 ## Birth
 

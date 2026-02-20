@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Uranus** (Heaven) was the first-born child of [Gaia](gaia.md), brought forth "equal to herself, to cover her on every side, and to be an ever-sure abiding-place for the blessed gods."[^theog-born] He became Gaia's consort and father of the [Titans](groups/titans.md), [Cyclopes](../creatures/cyclopes.md), and [Hundred-Handers](../creatures/hundred-handers.md).
+**Uranus** (Heaven) was a [primordial](groups/primordials.md) being and the first-born child of [Gaia](gaia.md), brought forth "equal to herself, to cover her on every side, and to be an ever-sure abiding-place for the blessed gods."[^theog-born] He became Gaia's consort and father of the [Titans](groups/titans.md), [Cyclopes](../creatures/cyclopes.md), and [Hundred-Handers](../creatures/hundred-handers.md).
 
 [^theog-born]: "Earth first bare starry Heaven, equal to herself, to cover her on every side, and to be an ever-sure abiding-place for the blessed gods" (Theogony 126-128, trans. H.G. Evelyn-White)
 

@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Demeter** is a daughter of [Cronos](cronos.md) and [Rhea](rhea.md), one of the Olympians swallowed by Cronos and later freed. She is the mother of [Persephone](persephone.md).
+**Demeter** is a daughter of [Cronos](cronos.md) and [Rhea](rhea.md), one of the [Olympians](groups/olympians.md) swallowed by Cronos and later freed. She is the mother of [Persephone](persephone.md).
 
 ## Epithets
 

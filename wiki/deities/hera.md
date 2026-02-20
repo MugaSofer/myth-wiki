@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Hera** is the queen of the gods and wife of [Zeus](zeus.md). She is a daughter of [Cronos](cronos.md) and [Rhea](rhea.md), and thus one of the Olympians who were swallowed by Cronos and later freed.
+**Hera** is the queen of the gods and wife of [Zeus](zeus.md). She is a daughter of [Cronos](cronos.md) and [Rhea](rhea.md), and thus one of the [Olympians](groups/olympians.md) who were swallowed by Cronos and later freed.
 
 ## Epithets
 

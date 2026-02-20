@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Night** is a primordial deity born from [Chaos](chaos.md). She is one of the most prolific progenitors in the [Theogony](../sources/theogony.md), bearing numerous children both with [Erebus](erebus.md) and alone — most of them personifications of dark or difficult aspects of existence.
+**Night** is a [primordial](groups/primordials.md) deity born from [Chaos](chaos.md). She is one of the most prolific progenitors in the [Theogony](../sources/theogony.md), bearing numerous children both with [Erebus](erebus.md) and alone — most of them personifications of dark or difficult aspects of existence.
 
 ## Children
 

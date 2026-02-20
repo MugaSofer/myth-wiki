@@ -8,7 +8,7 @@
 
 ## Overview
 
-**Chaos** was the first being to come into existence. In Hesiod's [Theogony](../sources/theogony.md), Chaos precedes all other entities, including [Earth](gaia.md), [Tartarus](../places/tartarus.md), and [Eros](eros.md).
+**Chaos** was the first [primordial](groups/primordials.md) being to come into existence. In Hesiod's [Theogony](../sources/theogony.md), Chaos precedes all other entities, including [Earth](gaia.md), [Tartarus](../places/tartarus.md), and [Eros](eros.md).
 
 ## Cosmogonic Role
 

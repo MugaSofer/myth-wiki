@@ -11,7 +11,7 @@
 
 ## Overview
 
-**Gaia** (Earth) was among the first beings to come into existence, arising after [Chaos](chaos.md). She is described as "wide-bosomed Earth, the ever-sure foundations of all the deathless ones who hold the peaks of snowy [Olympus](../places/olympus.md)."[^theog-gaia] She is both a primordial entity and an active figure in the early divine succession, instigating the overthrow of [Uranus](uranus.md).
+**Gaia** (Earth) was among the first [primordial](groups/primordials.md) beings to come into existence, arising after [Chaos](chaos.md). She is described as "wide-bosomed Earth, the ever-sure foundations of all the deathless ones who hold the peaks of snowy [Olympus](../places/olympus.md)."[^theog-gaia] She is both a primordial entity and an active figure in the early divine succession, instigating the overthrow of [Uranus](uranus.md).
 
 [^theog-gaia]: "wide-bosomed Earth, the ever-sure foundations of all the deathless ones who hold the peaks of snowy Olympus" (Theogony 117-118, trans. H.G. Evelyn-White)
 

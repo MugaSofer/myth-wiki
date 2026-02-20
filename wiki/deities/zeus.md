@@ -13,7 +13,7 @@
 
 ## Overview
 
-**Zeus** is the king of the gods, ruling from [Olympus](../places/olympus.md). In the [Theogony](../sources/theogony.md), he is referred to frequently by his epithets before his birth narrative, reflecting his ultimate supremacy among the gods.
+**Zeus** is the king of the gods and an [Olympian](groups/olympians.md) deity, ruling from [Olympus](../places/olympus.md). In the [Theogony](../sources/theogony.md), he is referred to frequently by his epithets before his birth narrative, reflecting his ultimate supremacy among the gods.
 
 ## Epithets
 
