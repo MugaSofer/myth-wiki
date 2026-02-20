@@ -30,13 +30,9 @@ The **Fates** (Moirai/Moerae) are three goddesses who control destiny: **Clotho*
 
 During the battle with the [Giants](../creatures/giants.md), "the Fates, fighting with brazen clubs, killed Agrius and Thoas."[^apd-fates-giants]
 
-> **NEW DETAIL:** The Fates as combatants wielding brazen clubs is unique to this source and presents a striking image — the goddesses of destiny fighting physically rather than through fate alone.
-
 ### Beguiling Typhon (1.6.3)
 
 During [Zeus](zeus.md)'s pursuit of [Typhoeus](../creatures/typhoeus.md), the Fates played a crucial role in his defeat: at Mount Nysa, "the Fates beguiled the fugitive; for he tasted of the ephemeral fruits in the persuasion that he would be strengthened thereby."[^apd-fates-typhon]
-
-> **NEW DETAIL:** The "ephemeral fruits" — literally fruits that bring death rather than strength — were offered by the Fates as a trick. This is the only source that gives the Fates a role in the Typhon narrative.
 
 [^apd-fates-giants]: "the Fates, fighting with brazen clubs, killed Agrius and Thoas" (Bibliotheca 1.6.2, trans. Frazer)
 [^apd-fates-typhon]: "the Fates beguiled the fugitive; for he tasted of the ephemeral fruits in the persuasion that he would be strengthened thereby" (Bibliotheca 1.6.3, trans. Frazer)

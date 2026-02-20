@@ -150,8 +150,6 @@ In the battle's climactic moment, when Porphyrion attacked both Heracles and [He
 
 After the individual combats, "all of them Hercules shot with arrows as they were dying."[^apd-herc-finish]
 
-> **NEW DETAIL:** The Gigantomachy is not described in the [Theogony](../sources/theogony.md), [Iliad](../sources/iliad.md), or [Odyssey](../sources/odyssey.md). The Bibliotheca provides the only detailed account in our corpus, and places Heracles at its centre — the mortal ally without whom the gods could not prevail.
-
 [^apd-herc-summon]: "the gods had an oracle that none of the giants could perish at the hand of gods, but that with the help of a mortal they would be made an end of... by means of Athena summoned Hercules to his help" (Bibliotheca 1.6.1, trans. Frazer)
 [^apd-herc-alcyoneus]: "Hercules first shot Alcyoneus with an arrow, but when the giant fell on the ground he somewhat revived. However, at Athena's advice Hercules dragged him outside Pallene, and so the giant died" (Bibliotheca 1.6.1, trans. Frazer)
 [^apd-herc-porphyrion]: "Zeus smote him with a thunderbolt, and Hercules shot him dead with an arrow" (Bibliotheca 1.6.2, trans. Frazer)
@@ -512,8 +510,6 @@ The centaur's dying treachery is explicit: "As he died, Nessus, knowing how pois
 ### Iole and the Sack of Oechalia (§35)
 
 Heracles' assault on Oechalia was brutal. After being refused Iole's hand, he "attacked Oichalia. In order to bend the girl to his will, he threatened to kill her relatives in her presence. She, with resolute mind, suffered them to be slain before her eyes. When he had killed them all, he sent Iole as captive before him to Dejanira."[^hyg-35-iole]
-
-> **NEW DETAIL:** Hyginus alone emphasizes Iole's steadfastness — she refused to yield even as her family was slaughtered before her.
 
 [^hyg-35-iole]: "In order to bend the girl to his will, he threatened to kill her relatives in her presence. She, with resolute mind, suffered them to be slain before her eyes. When he had killed them all, he sent Iole as captive before him to Dejanira" (Fabulae §35, trans. Mary Grant)
 

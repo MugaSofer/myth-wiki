@@ -187,8 +187,6 @@ Apollo "learned the art of prophecy from Pan, the son of Zeus and Hybris."[^apd-
 
 Apollo came to Delphi, "where [Themis](themis.md) at that time used to deliver oracles; and when the snake Python, which guarded the oracle, would have hindered him from approaching the chasm, he killed it and took over the oracle."[^apd-python]
 
-> **NEW DETAIL:** The Bibliotheca specifies that [Themis](themis.md) was delivering oracles at Delphi before Apollo, and that Python *guarded* the oracle. In the [Homeric Hymn to Apollo](../sources/homeric-hymns.md) (III), the dragon is female and is slain near the site but is not described as guarding the oracle, and Themis's role is limited to feeding the newborn Apollo.
-
 ### Slaying of Tityus
 
 Apollo slew Tityus, "a son of Zeus and Elare, daughter of Orchomenus." Zeus had hidden Elare "under the earth for fear of [Hera](hera.md)," and she bore Tityus there, "of monstrous size." When Tityus assaulted [Leto](leto.md) at Pytho, "she called her children to her aid, and they shot him down with their arrows. And he is punished even after death; for vultures eat his heart in Hades."[^apd-tityus]

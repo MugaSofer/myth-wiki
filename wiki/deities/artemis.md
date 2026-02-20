@@ -148,8 +148,6 @@ The [Bibliotheca](../sources/apollodorus.md) adds several significant details ab
 
 [Leto](leto.md) came to Delos and "brought forth first Artemis, by the help of whose midwifery she afterwards gave birth to [Apollo](apollo.md)."[^apd-art-midwife]
 
-> **NEW DETAIL:** Artemis as midwife at Apollo's birth is not found in the [Homeric Hymn to Apollo](../sources/homeric-hymns.md), where Eileithyia serves as birth-goddess. Here Artemis, born first, assists with her twin's delivery.
-
 ### Virginity
 
 "Artemis devoted herself to the chase and remained a maid."[^apd-art-maid]

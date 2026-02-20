@@ -189,8 +189,6 @@ This passage is notable for showing Dionysus in fear and flight — "affrighted"
 
 During the battle with the [Giants](../creatures/giants.md), "Eurytus was killed by Dionysus with a thyrsus."[^apd-dion-eurytus]
 
-> **NEW DETAIL:** This is the only reference in our sources to Dionysus as a warrior. His weapon — the thyrsus, a staff tipped with ivy — is associated with his worship and revelry rather than combat.
-
 [^apd-dion-eurytus]: "Eurytus was killed by Dionysus with a thyrsus" (Bibliotheca 1.6.2, trans. Frazer)
 
 ## In the Bibliotheca (2.2.2)

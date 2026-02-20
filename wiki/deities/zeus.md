@@ -22,7 +22,7 @@ Zeus accumulates more epithets than any other figure across the sources:
 - **"the aegis-holder"** / **"who holds the aegis"** — the most frequent (Theogony 11, 13, 25, and throughout)
 - **"the loud-thunderer"** / **"who delights in thunder"** — (Theogony 41; Hymn III 2; Hymn XII 4)
 - **"the almighty son of Cronos"** — (Theogony 4)
-- **"far-seeing Zeus"** / **"far-seeing Olympian Zeus"** — used in council and judgment (Theogony 457, 884; [Works and Days](../sources/theogony.md) 169c, 267)
+- **"far-seeing Zeus"** / **"far-seeing Olympian Zeus"** — used in council and judgment (Theogony 457, 884; [Works and Days](../sources/works-and-days.md) 169c, 267)
 - **"the dark-clouded Son of Cronos"** / **"Zeus who drives the clouds"** — (Hymn to Demeter 316, 321; Theogony 558)
 - **"father of men and gods"** — used at moments of supreme authority (Theogony 457, 542, 838, 897)
 - **"all-seeing, the lord of all, the fulfiller"** — (Hymn XXIII 2)[^desc-allseeing]
@@ -314,7 +314,7 @@ During the main battle, Discord remained alone among the gods: "woful Discord wa
 
 In [Iliad](../sources/iliad.md) Book XV, Zeus wakes on Ida and discovers [Hera](hera.md)'s deception. He threatens her, recalling a previous punishment: "Dost thou not remember, when thou wert hung from on high, and from thy feet I suspended two anvils, and round thy hands fastened a golden bond that might not be broken? And thou didst hang in the clear air and the clouds, and the gods were wroth in high Olympus, but they could not come round and unloose thee." He also recalls the [Heracles](../heroes/heracles.md) incident: "Him didst thou drive, when thou hadst suborned the tempest... over the unvintaged deep... and then didst carry him away to well-peopled Kos."[^il15-hang]
 
-Zeus then lays out the entire remaining course of the war: [Apollo](apollo.md) will revive Hector, drive the Greeks back; [Patroclus](../heroes/heracles.md) will be slain by Hector, who will also kill Zeus's own son Sarpedon; Achilles will slay Hector in revenge; then the Greeks will take Troy "through the counsels of [Athena](athena.md)." All this to fulfil his promise to [Thetis](thetis.md).[^il15-prophecy]
+Zeus then lays out the entire remaining course of the war: [Apollo](apollo.md) will revive Hector, drive the Greeks back; [Patroclus](../heroes/patroclus.md) will be slain by Hector, who will also kill Zeus's own son Sarpedon; Achilles will slay Hector in revenge; then the Greeks will take Troy "through the counsels of [Athena](athena.md)." All this to fulfil his promise to [Thetis](thetis.md).[^il15-prophecy]
 
 ### The Three Lots (Book XV)
 
@@ -337,6 +337,7 @@ This list partially overlaps with the [Theogony](../sources/theogony.md)'s catal
 
 Sleep recalls that Zeus once "was wrathful, and dashed the gods about his mansion" and sought to destroy Sleep, but was stopped by the personified Night: "Night, that subdues both gods and men... he was in awe of doing aught displeasing to swift Night."[^il14-night] This is a remarkable passage — the only source in which Zeus acknowledges a power he will not challenge.
 
+[^il14-earth]: "and beneath them the divine earth blossomed with fresh new grass, and dewy lotus, and crocus, and hyacinth, thick and soft, that raised them aloft from the ground. Therein they lay, and were clad on with a fair golden cloud, whence fell drops of glittering dew" (Iliad 14.347-353, trans. Lang, Leaf, and Myers)
 [^il14-loves]: "Not when I loved the wife of Ixion, who bore Pirithoos, the peer of gods in counsel, nor when I loved Danae of the fair ankles, daughter of Akrisios, who bore Perseus, most renowned of all men, nor when I loved the famed daughter of Phoinix, who bore me Minos, and godlike Rhadamanthys, nay, nor even when I loved Semele, nor Alkmene in Thebes, and she bore Herakles, a child hardy of heart, but Semele bore Dionysos, a delight to mortals, nay, nor when I loved the fair-tressed queen, Demeter, nor renowned Leto, nay, nor thy very self, as now I love thee, and sweet desire possesses me" (Iliad 14.318-328, trans. Lang, Leaf, and Myers)
 [^il14-night]: "he was wrathful, and dashed the gods about his mansion, and me above all he sought, and he would have cast me from the upper air to perish in the deep, if Night had not saved me, Night, that subdues both gods and men. To her I came as a suppliant in my flight, and he ceased from pursuing, wrathful as he was, for he was in awe of doing aught displeasing to swift Night" (Iliad 14.255-260)
 
@@ -386,8 +387,6 @@ When [Gaia](gaia.md) sought an herb to protect the [Giants](../creatures/giants.
 ### The Battle with Typhon
 
 Zeus attacked [Typhoeus](../creatures/typhoeus.md) with thunderbolts at a distance, then struck with "an adamantine sickle" at close range. But at Mount Casius, Typhon "twined about him and gripped him in his coils, and wresting the sickle from him severed the sinews of his hands and feet" and imprisoned him in the Corycian cave.[^apd-zeus-sinews]
-
-> **NEW DETAIL:** Zeus's temporary defeat — sinews severed, imprisoned in a cave — is entirely absent from the [Theogony](../sources/theogony.md), where Zeus wins decisively.
 
 [Hermes](hermes.md) and Aegipan stole the sinews and restored them. Zeus then pursued Typhon in "a chariot of winged horses" until finally casting Mount Etna upon him in Sicily.[^apd-zeus-etna]
 

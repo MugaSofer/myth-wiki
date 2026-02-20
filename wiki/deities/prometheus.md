@@ -119,8 +119,6 @@ The gods each contributed: "Minerva [[Athena](athena.md)] gave it life, and the 
 
 She married into Prometheus's family: "She was given in marriage to Prometheus' brother Epimetheus."[^hyg-142-marriage] From this union came humanity's progenitor: "Pyrrha was her daughter, and was said to be the first mortal born."[^hyg-142-pyrrha]
 
-> **NEW DETAIL:** The Fabulae specifies that Prometheus created the first men himself from clay, and names Pyrrha (married to Deucalion in the flood story) as Pandora's daughter.
-
 [^hyg-142-men]: "Prometheus, son of Iapetus, first fashioned men from clay." (Fabulae §142, trans. Mary Grant)
 [^hyg-142-woman]: "Later Vulcan, at Jove's command, made a woman's form from clay." (Fabulae §142, trans. Mary Grant)
 [^hyg-142-pandora]: "Minerva gave it life, and the rest of the gods each gave come other gift. Because of this they named her Pandora." (Fabulae §142, trans. Mary Grant)
@@ -134,8 +132,6 @@ The Fabulae tells of the fire theft and its consequences. "Men in early times so
 The punishment was brutal and enduring: "Because of this, Mercury [[Hermes](hermes.md)], at Jove's command, bound him with iron spikes to a cliff on Mount Caucasus, and set an eagle to eat out his heart; as much as it devoured in the day, so much grew again at night."[^hyg-144-punishment]
 
 The duration was immense: "After 30,000 years Hercules [[Heracles](../heroes/heracles.md)] killed this eagle and freed Prometheus."[^hyg-144-freed]
-
-> **NEW DETAIL:** The Fabulae specifies 30,000 years for Prometheus's torment, a precise duration not given in the [Theogony](../sources/theogony.md).
 
 [^hyg-144-seeking]: "Men in early times sought fire from the gods, and did not know how to keep it alive." (Fabulae §144, trans. Mary Grant)
 [^hyg-144-fire]: "Later Prometheus brought it to earth in a fennel-stalk, and showed men how to keep it covered over with ashes." (Fabulae §144, trans. Mary Grant)

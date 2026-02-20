@@ -99,8 +99,6 @@ Hyginus provides the fullest account of Perseus's birth and Acrisius's delayed r
 
 "Because of her sin her father shut her up in a chest with Perseus and cast it into the sea. By Jove's will it was borne to the island of Seriphos, and when the fisherman Dictys found it and broke it open, he discovered the mother and child. He took them to King Polydectes, who married Danae and brought up Perseus in the temple of Minerva."[^hyg-63-seriphos]
 
-> **NEW DETAIL:** Polydectes *marries* Danae in Hyginus, not merely desires her. Perseus is raised in [Athena](../deities/athena.md)'s temple, explaining the goddess's special protection.
-
 Years later, "when Acrisius discovered they were staying at Polydectes' court, he started out to get them, but at his arrival Polydectes interceded for them, and Perseus swore an oath to his grandfather that he would never kill him."[^hyg-63-oath] Then "when Acrisius was detained there by a storm, Polydectes died, and at his funeral games the wind blew a discus from Perseus' hand at Acrisius' head which killed him. Thus what he did not do of his own will was accomplished by the gods."[^hyg-63-fulfilment] The oracle is fulfilled at Polydectes' funeral games, not at Larissa as in [Bibliotheca](../sources/apollodorus.md).
 
 [^hyg-63-prison]: "Danae was the daughter of Acrisius and Aganippe. A prophecy about her said that the child she bore would kill Acrisius, and Acrisius, fearing this, shut her in a stone-walled prison" (Fabulae §63, trans. Mary Grant)

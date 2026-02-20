@@ -63,15 +63,11 @@ After the gods overcame the [Giants](giants.md), [Gaia](../deities/gaia.md) "had
 
 When Typhon attacked heaven "hurling kindled rocks... with hissings and shouts, spouting a great jet of fire from his mouth," the gods "made for Egypt in flight, and being pursued they changed their forms into those of animals."[^apd-typh-egypt]
 
-> **NEW DETAIL:** This is the earliest surviving mythographic explanation for Egyptian animal-worship — the gods transforming into animals while fleeing Typhon to Egypt. This tradition is absent from Hesiod.
-
 ### Zeus's First Attack and Defeat
 
 [Zeus](../deities/zeus.md) attacked with [thunderbolts](../objects/thunderbolt.md) at a distance, then struck with "an adamantine sickle" at close range. He pursued Typhon to Mount Casius in Syria. But Typhon "twined about him and gripped him in his coils, and wresting the sickle from him severed the sinews of his hands and feet, and lifting him on his shoulders carried him through the sea to Cilicia and deposited him on arrival in the Corycian cave."[^apd-typh-sinews]
 
 He "put away the sinews there also, hidden in a bearskin, and he set to guard them the she-dragon Delphyne, who was a half-bestial maiden."[^apd-typh-delphyne]
-
-> **NEW DETAIL:** Zeus's temporary defeat by Typhon — the severing of his sinews, imprisonment in the Corycian cave, and the she-dragon guard Delphyne — is entirely absent from Hesiod's account, where Zeus wins decisively.
 
 ### Recovery and Victory
 

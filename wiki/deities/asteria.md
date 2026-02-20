@@ -22,8 +22,6 @@
 
 The [Bibliotheca](../sources/apollodorus.md) adds a vivid transformation story: "Asteria in the likeness of a quail flung herself into the sea in order to escape the amorous advances of Zeus, and a city was formerly called after her Asteria, but afterwards it was named Delos."[^apd-asteria]
 
-> **NEW DETAIL:** The [Theogony](../sources/theogony.md) mentions only Asteria's marriage to Perses. The Bibliotheca adds her flight from [Zeus](zeus.md) in quail form and her transformation into the island of Delos — explaining both the island's name and its connection to [Leto](leto.md)'s story.
-
 [^apd-asteria]: "Asteria in the likeness of a quail flung herself into the sea in order to escape the amorous advances of Zeus, and a city was formerly called after her Asteria, but afterwards it was named Delos." (Bibliotheca 1.4.1, trans. Frazer)
 
 ## Appearances

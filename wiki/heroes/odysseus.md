@@ -230,8 +230,6 @@ The [Fabulae](../sources/hyginus.md) provides the fullest account of Odysseus's 
 
 The deception is vivid: "when he learned that spokesmen would come to him, he put on a cap, pretending madness, and yoked a horse and an ox to the plow."[^hyg-95-plow] Palamedes saw through it: "taking his son Telemachus from the cradle, put him in front of the plow with the words: 'Give up your pretense and come and join the allies.' Then Ulysses promised that he would come; from that time he was hostile to Palamedes."[^hyg-95-palamedes]
 
-> **NEW DETAIL:** Odysseus knew from an oracle he would return "alone and in need, with his comrades lost, after twenty years" — the exact summary of the Odyssey's plot.
-
 [^hyg-95-oracle]: "He had been warned by an oracle that if he went to Troy he would return home alone and in need, with his comrades lost, after twenty years" (Fabulae §95, trans. Mary Grant)
 [^hyg-95-plow]: "when he learned that spokesmen would come to him, he put on a cap, pretending madness, and yoked a horse and an ox to the plow" (Fabulae §95, trans. Mary Grant)
 [^hyg-95-palamedes]: "Palamedes felt he was pretending when he saw this, and taking his son Telemachus from the cradle, put him in front of the plow with the words: 'Give up your pretense and come and join the allies.' Then Ulysses promised that he would come; from that time he was hostile to Palamedes" (Fabulae §95, trans. Mary Grant)

@@ -70,8 +70,6 @@ The [Fabulae](../sources/hyginus.md) provides a clean account of Theseus's dual 
 
 "When he had reached young manhood, his mother told him Aegeus' instructions, showed him the stone so that he could get the sword, and bade him set out for Athens to Aegeus... and he killed all those who made the road unsafe."[^hyg-37-labors]
 
-> **NEW DETAIL:** [Poseidon](../deities/poseidon.md) "conceded the child to Aegeus" — a striking acknowledgment of divine precedence yielding to mortal paternity.
-
 [^hyg-37-dual]: "Neptune and Aegeus, son of Pandion, one night in the shrine of Minerva both lay with Aethra, daughter of Pittheus. Neptune conceded the child to Aegeus" (Fabulae §37, trans. Mary Grant)
 [^hyg-37-token]: "put his sword under a stone, and told Aethra that when the boy could lift the stone and take his father's sword, she should send him to him. He would recognize his son by that" (Fabulae §37, trans. Mary Grant)
 [^hyg-37-labors]: "When he had reached young manhood, his mother told him Aegeus' instructions, showed him the stone so that he could get the sword, and bade him set out for Athens to Aegeus... and he killed all those who made the road unsafe" (Fabulae §37, trans. Mary Grant)

@@ -268,6 +268,37 @@ She then lifted the veil from his mortal sight to reveal the gods destroying [Tr
 [^aen-aph-revelation]: "Neptune with his great trident shakes wall and foundation out of their places, and upturns all the city from her base. Here Juno in all her terror holds the Scaean gates... Tritonian Pallas is planted in glittering halo and Gorgonian terror" (Aeneid 2.610-616)
 [^aen-aph-promise]: "Haste away, O son, and put an end to the struggle. I will never desert thee; I will set thee safe in the courts of thy father's house" (Aeneid 2.619-620)
 
+### Wounded by Diomedes / Ichor (Book V)
+
+In [Iliad](../sources/iliad.md) Book V, Aphrodite shields her son Aeneas from Diomedes: "About her dear son wound she her white arms, and spread before his face a fold of her radiant vesture." But Diomedes, empowered by [Athena](athena.md), "thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the [Graces](graces.md) themselves had woven her pierced the dart into the flesh."[^il5-wound]
+
+Then flows "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals."[^il5-ichor]
+
+She fled in pain to [Olympus](../places/olympus.md) and "fell upon [Dione](dione.md)'s knees that was her mother." [Zeus](zeus.md) told her gently: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet [Ares](ares.md) and Athene look."[^il5-zeus]
+
+[^il5-wound]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm" (Iliad 5.348-351, trans. Lang, Leaf, and Myers)
+[^il5-ichor]: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad 5.352-354)
+[^il5-zeus]: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet Ares and Athene look" (Iliad 5.441-443)
+
+## In the Bibliotheca (1.4.4)
+
+### Cursing Eos
+
+The [Bibliotheca](../sources/apollodorus.md) adds a detail about Aphrodite's jealousy: "Aphrodite caused [Eos](eos.md) to be perpetually in love, because she had bedded with [Ares](ares.md)."[^apd-aph-dawn]
+
+[^apd-aph-dawn]: "Aphrodite caused Dawn to be perpetually in love, because she had bedded with Ares" (Bibliotheca 1.4.4, trans. Frazer)
+
+## Variant Traditions
+
+### Birth from Uranus (Theogony) vs Daughter of Dione (Iliad / Bibliotheca)
+
+Hesiod's account of Aphrodite's birth from [Uranus](uranus.md)'s severed members is one of two major traditions. The Iliad presents the other: in Book V, when Aphrodite is wounded, "fair Aphrodite fell upon [Dione](dione.md)'s knees that was her mother."[^il5-dione] [Dione](dione.md) comforts her and speaks as her mother throughout the scene. [Zeus](zeus.md) also addresses Aphrodite as "my child," consistent with her being his daughter by Dione.
+
+Apollodorus follows the Iliad tradition: "by [Dione](dione.md) he had Aphrodite."[^apd-aphrodite-dione] This is notable because Apollodorus is generally drawing on Hesiodic material for his cosmogony — his adoption of the Dione parentage over the Theogony's sea-foam birth represents a deliberate choice.
+
+[^il5-dione]: "fair Aphrodite fell upon Dione's knees that was her mother. She took her daughter in her arms and stroked her with her hand" (Iliad 5.384-385)
+[^apd-aphrodite-dione]: "by Dione he had Aphrodite" (Bibliotheca 1.3.1, trans. Frazer)
+
 ## Appearances
 
 - **[Euripides' Hippolytus](../sources/euripides-hippolytus.md)** 1-57, 1400: Delivers prologue; declares universal power over mortals and gods; punishes Hippolytus for rejecting her worship and the bridal bed; causes Phaedra to fall in love with her stepson "by my design"; accepts Phaedra's death as collateral; "One Venus hath destroyed us three"
@@ -314,38 +345,5 @@ She then lifted the veil from his mortal sight to reveal the gods destroying [Tr
 
 [^cyp-garments]: "She clothed herself with garments which the Graces and Hours had made for her and dyed in flowers of spring—such flowers as the Seasons wear—in crocus and hyacinth and flourishing violet and the rose's lovely bloom, so sweet and delicious, and heavenly buds, the flowers of the narcissus and lily" (Cypria, Fragment 6)
 [^cyp-judgment]: Cypria, summary by Proclus: "Strife arrives while the gods are feasting at the marriage of Peleus and starts a dispute between Hera, Athena, and Aphrodite... Alexandrus, lured by his promised marriage with Helen, decides in favour of Aphrodite"
-
-### Wounded by Diomedes / Ichor (Book V)
-
-In [Iliad](../sources/iliad.md) Book V, Aphrodite shields her son Aeneas from Diomedes: "About her dear son wound she her white arms, and spread before his face a fold of her radiant vesture." But Diomedes, empowered by [Athena](athena.md), "thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the [Graces](graces.md) themselves had woven her pierced the dart into the flesh."[^il5-wound]
-
-Then flows "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals."[^il5-ichor]
-
-She fled in pain to [Olympus](../places/olympus.md) and "fell upon [Dione](dione.md)'s knees that was her mother." [Zeus](zeus.md) told her gently: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet [Ares](ares.md) and Athene look."[^il5-zeus]
-
-[^il5-wound]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm" (Iliad 5.348-351, trans. Lang, Leaf, and Myers)
-[^il5-ichor]: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad 5.352-354)
-[^il5-zeus]: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet Ares and Athene look" (Iliad 5.441-443)
-
-## In the Bibliotheca (1.4.4)
-
-### Cursing Eos
-
-The [Bibliotheca](../sources/apollodorus.md) adds a detail about Aphrodite's jealousy: "Aphrodite caused [Eos](eos.md) to be perpetually in love, because she had bedded with [Ares](ares.md)."[^apd-aph-dawn]
-
-> **NEW DETAIL:** This explains the pattern of Eos's mortal loves (Orion in [Odyssey](../sources/odyssey.md) V, Tithonus in [Homeric Hymn V](../sources/homeric-hymns.md), Cleitus in Odyssey XV) as punishment by Aphrodite. It connects to the Odyssey VIII Song of Ares and Aphrodite, where the affair between the two is well established.
-
-[^apd-aph-dawn]: "Aphrodite caused Dawn to be perpetually in love, because she had bedded with Ares" (Bibliotheca 1.4.4, trans. Frazer)
-
-## Variant Traditions
-
-### Birth from Uranus (Theogony) vs Daughter of Dione (Iliad / Bibliotheca)
-
-Hesiod's account of Aphrodite's birth from [Uranus](uranus.md)'s severed members is one of two major traditions. The Iliad presents the other: in Book V, when Aphrodite is wounded, "fair Aphrodite fell upon [Dione](dione.md)'s knees that was her mother."[^il5-dione] [Dione](dione.md) comforts her and speaks as her mother throughout the scene. [Zeus](zeus.md) also addresses Aphrodite as "my child," consistent with her being his daughter by Dione.
-
-Apollodorus follows the Iliad tradition: "by [Dione](dione.md) he had Aphrodite."[^apd-aphrodite-dione] This is notable because Apollodorus is generally drawing on Hesiodic material for his cosmogony — his adoption of the Dione parentage over the Theogony's sea-foam birth represents a deliberate choice.
-
-[^il5-dione]: "fair Aphrodite fell upon Dione's knees that was her mother. She took her daughter in her arms and stroked her with her hand" (Iliad 5.384-385)
-[^apd-aphrodite-dione]: "by Dione he had Aphrodite" (Bibliotheca 1.3.1, trans. Frazer)
 [^od18-cytherea]: "Her fair face first she steeped with beauty imperishable, such as that wherewith the crowned Cytherea is anointed, when she goes to the lovely dances of the Graces" (Odyssey 18.195-198, trans. Butcher and Lang)
 [^od20-pandareus]: "fair Aphrodite cherished them with curds and sweet honey and delicious wine... Now while fair Aphrodite was wending to high Olympus, to pray that a glad marriage might be accomplished for the maidens" (Odyssey 20.67-72, trans. Butcher and Lang)

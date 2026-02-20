@@ -226,8 +226,6 @@ Hermes is also listed as father of Autolycus among the Argonauts.[^apd-autolycus
 
 During the battle with [Typhoeus](../creatures/typhoeus.md), after Typhon severed [Zeus](zeus.md)'s sinews and hid them in the Corycian cave, "Hermes and Aegipan stole the sinews and fitted them unobserved to Zeus."[^apd-herm-sinews]
 
-> **NEW DETAIL:** Hermes as rescuer of Zeus is not found in the [Theogony](../sources/theogony.md). Aegipan (a goat-like figure sometimes identified with [Pan](pan.md)) is his partner in this exploit.
-
 ### Slaying Hippolytus in the Gigantomachy (1.6.2)
 
 During the [Gigantomachy](../creatures/giants.md), "Hermes, wearing the helmet of Hades, slew Hippolytus in the fight."[^apd-herm-hippolytus]

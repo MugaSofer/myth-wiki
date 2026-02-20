@@ -63,8 +63,6 @@ In [Odyssey](../sources/odyssey.md) Book XV, another instance of Dawn's pattern 
 
 The [Bibliotheca](../sources/apollodorus.md) provides an explanation for Eos's pattern of falling in love with mortal men: "[Eos] fell in love with Orion and carried him off and brought him to Delos; for [Aphrodite](aphrodite.md) caused [Eos] to be perpetually in love, because she had bedded with [Ares](ares.md)."[^apd-eos-curse]
 
-> **NEW DETAIL:** This is the only source in our corpus that explains *why* Eos keeps falling in love with mortals. The [Odyssey](../sources/odyssey.md) V and [Homeric Hymn V](../sources/homeric-hymns.md) mention her abductions of Orion and Tithonus but give no reason. The Bibliotheca traces it to Aphrodite's jealousy over Eos's affair with Ares.
-
 [^apd-eos-curse]: "Dawn fell in love with Orion and carried him off and brought him to Delos; for Aphrodite caused Dawn to be perpetually in love, because she had bedded with Ares" (Bibliotheca 1.4.4, trans. Frazer)
 
 ## In the [Metamorphoses](../sources/metamorphoses.md)

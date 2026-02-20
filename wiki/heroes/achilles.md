@@ -277,8 +277,6 @@ The contest for his armor follows: "When Achilles was killed and given burial, T
 
 Ajax's madness and suicide: "Ajax, harbouring rage, in madness slaughtered his flocks, and killed himself with that sword he had received from Hector as a gift when the two met in battle line."[^hyg-107-suicide]
 
-> **NEW DETAIL:** [Athena](../deities/athena.md)'s anger against Ajax is explicit — she arranged for the arms to go to Odysseus.
-
 [^hyg-107-death]: "After Hector's burial, when Achilles was wandering along the ramparts of the Trojans and saying that he alone had reduced Troy, Apollo in anger, taking the form of Alexander Paris, struck him with an arrows on the heel which was said to be vulnerable, and killed him" (Fabulae §107, trans. Mary Grant)
 [^hyg-107-ajax]: "When Achilles was killed and given burial, Telamonian Ajax demanded from the Danaans the arms of Achilles, on the grounds that he was cousin on his father's side" (Fabulae §107, trans. Mary Grant)
 [^hyg-107-ulysses]: "Through the anger of Minerva they were denied him by Agamemnon and Menelaus, and given to Ulysses" (Fabulae §107, trans. Mary Grant)
@@ -311,32 +309,6 @@ After Troy's fall, when the Greek fleet was moored on the Thracian shore, Achill
 [^met-ach-ghost]: "from wide gaping earth, Achilles rose, as large as when he lived, with look as fierce, as when his sword once threatened Agamemnon. 'Forgetting me do you depart, O Greeks?' He said, 'And is your grateful memory of all my worth interred with my bones?... let Polyxena be immolated to appease the ghost of dead Achilles'" (Metamorphoses 13.440-456, trans. Brookes More)
 [^met-ach-polyxena]: "Do not delay my generous gift of blood, with no resistance thrust the ready steel into my throat or breast!... Polyxena would never wish to live in slavery" (Metamorphoses 13.457-473, trans. Brookes More)
 
-## Appearances
-
-- **[Iliad](../sources/iliad.md)** I: Quarrel with Agamemnon; [Athena](../deities/athena.md) restrains him ("terribly shone her eyes"); weeps by the sea; [Thetis](../deities/thetis.md) rises "like a mist"; supplicates [Zeus](../deities/zeus.md) on his behalf
-- **[Iliad](../sources/iliad.md)** IX: Playing the lyre and singing "the glories of heroes" with Patroklos; reveals his two fates; rejects the embassy
-- **[Iliad](../sources/iliad.md)** XVI: Sends Patroklos into battle in his armour; his immortal horses Xanthos and Balios (born of harpy Podarge and the West Wind)
-- **[Iliad](../sources/iliad.md)** XVIII: Mourns Patroklos; [Thetis](../deities/thetis.md) laments among the Nereids; [Athena](../deities/athena.md)'s [aegis](../objects/aegis.md), fire, and triple shout; [Thetis](../deities/thetis.md) commissions armour from [Hephaestus](../deities/hephaestus.md); the [Shield of Achilles](../objects/shield-of-achilles.md)
-- **[Iliad](../sources/iliad.md)** XIX: [Zeus](../deities/zeus.md) sends [Athena](../deities/athena.md) to feed him nectar and ambrosia; horse Xanthos prophesies his death ("a god and a man"); [Erinyes](../creatures/erinyes.md) silence the horse; Achilles accepts his fate
-- **[Iliad](../sources/iliad.md)** XX: Aristeia; [Poseidon](../deities/poseidon.md) saves Aineias from him and prophesies Aineias's dynasty
-- **[Iliad](../sources/iliad.md)** XXI: Battles the River Xanthos; [Poseidon](../deities/poseidon.md) and [Athena](../deities/athena.md) save him; [Hephaestus](../deities/hephaestus.md) burns the river
-- **[Iliad](../sources/iliad.md)** XXII: Pursues Hector; [Zeus](../deities/zeus.md) weighs the golden scales; [Athena](../deities/athena.md) tricks Hector as Deiphobus; Hector prophesies Achilles' death at the Skaian gate
-- **[Iliad](../sources/iliad.md)** XXIII: Patroklos's ghost appears; afterlife theology; funeral games
-- **[Iliad](../sources/iliad.md)** XXIV: The Two Urns speech; ransoms Hector's body to Priam; [Thetis](../deities/thetis.md) brings [Zeus](../deities/zeus.md)'s command
-- **[Odyssey](../sources/odyssey.md)** XI: Shade in Hades; "Nay, speak not comfortably to me of death"; asks about his son and father
-- **[Odyssey](../sources/odyssey.md)** XXIV: Funeral described (Agamemnon's shade); [Thetis](../deities/thetis.md) and the Nereids; nine [Muses](../deities/muses.md) sing dirge; seventeen days of mourning; golden urn (gift of [Dionysus](../deities/dionysus.md), work of [Hephaestus](../deities/hephaestus.md)); "very dear wert thou to the gods"
-- **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Peleus's spear (Cheiron, [Athena](../deities/athena.md), [Hephaestus](../deities/hephaestus.md)); [Thetis](../deities/thetis.md)'s marriage; Paris and [Apollo](../deities/apollo.md) to slay him
-- **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Slays Penthesileia and Memnon; killed by Paris and [Apollo](../deities/apollo.md); [Thetis](../deities/thetis.md) transports him to the White Island; arms contested; Aias kills himself
-- **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Ghost appears to Neoptolemus
-- **[Epic Cycle](../sources/epic-cycle.md)** (Returns): Ghost warns the departing fleet
-- **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): Polyxena sacrificed at his tomb
-- **[Metamorphoses](../sources/metamorphoses.md)** 12.64-145: Duel with Cygnus (son of Neptune) — spears useless; Cygnus claimed invulnerability from his father; Achilles strangled him with helmet thongs; Cygnus transformed to white bird
-- **[Metamorphoses](../sources/metamorphoses.md)** 12.146-628: Hosted feast during truce; story of Cygnus's invulnerability led to Nestor's tale of Caeneus and the centauromachy
-- **[Metamorphoses](../sources/metamorphoses.md)** 13.440-467: Ghost rose from earth at Thrace, "as large as when he lived"; demanded sacrifice of Polyxena; obeyed by Greeks; Polyxena died with courage, refusing slavery
-- **[Fabulae](../sources/hyginus.md)** §96: Thetis sent him to Scyros to King Lycomedes (would die if went to Troy); kept among virgin daughters in woman's attire; called "Pyrrha" (tawny-haired, pyrrhos = redhead); Achaeans sent spokesmen; Lycomedes denied, gave permission to search; Odysseus put women's trinkets with shield and spear in forecourt; trumpet blast and war-cries; Achilles seized weapons, revealed; promised aid and Myrmidons
-- **[Fabulae](../sources/hyginus.md)** §106: Agamemnon took Briseis (Moesian captive, daughter of priest Brisa); Achilles withdrew, "amused himself with cithara in tent"; Patroclus wore armor, slew Sarpedon, killed by Hector; Thetis got armor from Vulcan, Nereids brought it over sea; Achilles slew Hector, dragged body round walls; refused burial; Zeus commanded; Priam came with Mercury as guide, ransomed body for equal weight of gold
-- **[Fabulae](../sources/hyginus.md)** §107: After Hector's burial, wandering ramparts saying he alone reduced Troy; Apollo in anger (as Paris) shot heel, killed him; Ajax demanded arms (cousin on father's side); through Minerva's anger, Agamemnon and Menelaus gave them to Odysseus; Ajax in madness slaughtered flocks, killed himself with sword from Hector (gift from battle-line meeting)
-
 ## In [Pindar](../sources/pindar.md)
 
 ### Young Achilles with Chiron (Nemean III)
@@ -363,8 +335,31 @@ At his death, "[Achilles] neither in death was forsaken of songs, for at his fun
 [^pin-ist7-deeds]: "He it was who stained the vine-clad Mysian plain with the dark blood of Telephos that he shed thereon, and made for the sons of Atreus a safe return across the sea, and delivered Helen, when that he had cut asunder with his spear the sinews of Troy... the strength of Memnon and high-hearted Hektor, and other chiefs of pride" (Pindar, Isthmian VII, trans. Ernest Myers)
 [^pin-ist7-funeral]: "neither in death was he of songs forsaken, for at his funeral pyre and beside his tomb stood the Helikonian maiden-choir, and poured thereon a dirge of many melodies. For so the immortals willed, to give charge unto the songs of goddesses over that valorous man even in his death" (Pindar, Isthmian VII)
 
-## Appearances (continued)
+## Appearances
 
+- **[Iliad](../sources/iliad.md)** I: Quarrel with Agamemnon; [Athena](../deities/athena.md) restrains him ("terribly shone her eyes"); weeps by the sea; [Thetis](../deities/thetis.md) rises "like a mist"; supplicates [Zeus](../deities/zeus.md) on his behalf
+- **[Iliad](../sources/iliad.md)** IX: Playing the lyre and singing "the glories of heroes" with Patroklos; reveals his two fates; rejects the embassy
+- **[Iliad](../sources/iliad.md)** XVI: Sends Patroklos into battle in his armour; his immortal horses Xanthos and Balios (born of harpy Podarge and the West Wind)
+- **[Iliad](../sources/iliad.md)** XVIII: Mourns Patroklos; [Thetis](../deities/thetis.md) laments among the Nereids; [Athena](../deities/athena.md)'s [aegis](../objects/aegis.md), fire, and triple shout; [Thetis](../deities/thetis.md) commissions armour from [Hephaestus](../deities/hephaestus.md); the [Shield of Achilles](../objects/shield-of-achilles.md)
+- **[Iliad](../sources/iliad.md)** XIX: [Zeus](../deities/zeus.md) sends [Athena](../deities/athena.md) to feed him nectar and ambrosia; horse Xanthos prophesies his death ("a god and a man"); [Erinyes](../creatures/erinyes.md) silence the horse; Achilles accepts his fate
+- **[Iliad](../sources/iliad.md)** XX: Aristeia; [Poseidon](../deities/poseidon.md) saves Aineias from him and prophesies Aineias's dynasty
+- **[Iliad](../sources/iliad.md)** XXI: Battles the River Xanthos; [Poseidon](../deities/poseidon.md) and [Athena](../deities/athena.md) save him; [Hephaestus](../deities/hephaestus.md) burns the river
+- **[Iliad](../sources/iliad.md)** XXII: Pursues Hector; [Zeus](../deities/zeus.md) weighs the golden scales; [Athena](../deities/athena.md) tricks Hector as Deiphobus; Hector prophesies Achilles' death at the Skaian gate
+- **[Iliad](../sources/iliad.md)** XXIII: Patroklos's ghost appears; afterlife theology; funeral games
+- **[Iliad](../sources/iliad.md)** XXIV: The Two Urns speech; ransoms Hector's body to Priam; [Thetis](../deities/thetis.md) brings [Zeus](../deities/zeus.md)'s command
+- **[Odyssey](../sources/odyssey.md)** XI: Shade in Hades; "Nay, speak not comfortably to me of death"; asks about his son and father
+- **[Odyssey](../sources/odyssey.md)** XXIV: Funeral described (Agamemnon's shade); [Thetis](../deities/thetis.md) and the Nereids; nine [Muses](../deities/muses.md) sing dirge; seventeen days of mourning; golden urn (gift of [Dionysus](../deities/dionysus.md), work of [Hephaestus](../deities/hephaestus.md)); "very dear wert thou to the gods"
+- **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Peleus's spear (Cheiron, [Athena](../deities/athena.md), [Hephaestus](../deities/hephaestus.md)); [Thetis](../deities/thetis.md)'s marriage; Paris and [Apollo](../deities/apollo.md) to slay him
+- **[Epic Cycle](../sources/epic-cycle.md)** (Aethiopis): Slays Penthesileia and Memnon; killed by Paris and [Apollo](../deities/apollo.md); [Thetis](../deities/thetis.md) transports him to the White Island; arms contested; Aias kills himself
+- **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Ghost appears to Neoptolemus
+- **[Epic Cycle](../sources/epic-cycle.md)** (Returns): Ghost warns the departing fleet
+- **[Epic Cycle](../sources/epic-cycle.md)** (Sack of Ilium): Polyxena sacrificed at his tomb
+- **[Metamorphoses](../sources/metamorphoses.md)** 12.64-145: Duel with Cygnus (son of Neptune) — spears useless; Cygnus claimed invulnerability from his father; Achilles strangled him with helmet thongs; Cygnus transformed to white bird
+- **[Metamorphoses](../sources/metamorphoses.md)** 12.146-628: Hosted feast during truce; story of Cygnus's invulnerability led to Nestor's tale of Caeneus and the centauromachy
+- **[Metamorphoses](../sources/metamorphoses.md)** 13.440-467: Ghost rose from earth at Thrace, "as large as when he lived"; demanded sacrifice of Polyxena; obeyed by Greeks; Polyxena died with courage, refusing slavery
+- **[Fabulae](../sources/hyginus.md)** §96: Thetis sent him to Scyros to King Lycomedes (would die if went to Troy); kept among virgin daughters in woman's attire; called "Pyrrha" (tawny-haired, pyrrhos = redhead); Achaeans sent spokesmen; Lycomedes denied, gave permission to search; Odysseus put women's trinkets with shield and spear in forecourt; trumpet blast and war-cries; Achilles seized weapons, revealed; promised aid and Myrmidons
+- **[Fabulae](../sources/hyginus.md)** §106: Agamemnon took Briseis (Moesian captive, daughter of priest Brisa); Achilles withdrew, "amused himself with cithara in tent"; Patroclus wore armor, slew Sarpedon, killed by Hector; Thetis got armor from Vulcan, Nereids brought it over sea; Achilles slew Hector, dragged body round walls; refused burial; Zeus commanded; Priam came with Mercury as guide, ransomed body for equal weight of gold
+- **[Fabulae](../sources/hyginus.md)** §107: After Hector's burial, wandering ramparts saying he alone reduced Troy; Apollo in anger (as Paris) shot heel, killed him; Ajax demanded arms (cousin on father's side); through Minerva's anger, Agamemnon and Menelaus gave them to Odysseus; Ajax in madness slaughtered flocks, killed himself with sword from Hector (gift from battle-line meeting)
 - **[Pindar](../sources/pindar.md)**, Nemean III: Six-year-old child killing lions and boars and dragging them to [Chiron](../creatures/chiron.md); slew deer by pure speed of foot — [Artemis](../deities/artemis.md) and [Athena](../deities/athena.md) marvelled; Chiron reared his soul "in a life of harmony"
 - **[Pindar](../sources/pindar.md)**, Nemean VI: Descended from chariot, slew Memnon "son of the bright Morn" with his spear
 - **[Pindar](../sources/pindar.md)**, Isthmian VII: Wounded Telephus in Mysia; delivered Helen by "cutting the sinews of Troy"; slew Memnon, Hector, "and other chiefs of pride"; the Muses' choir sang dirge at his pyre; in the Islands of the Blessed (Olympian II)
