@@ -200,6 +200,13 @@ Link aggressively. Every mention of an entity with its own page should be linked
     cronos.md          (Titans here too)
     gaia.md            (Primordials here too)
     ...
+    /groups
+      olympians.md
+      titans.md
+      primordials.md
+      muses.md
+      fates.md
+      ...
   /heroes
     heracles.md
     perseus.md
@@ -241,7 +248,7 @@ Link aggressively. Every mention of an entity with its own page should be linked
 - Use Greek names by default, not Roman (Zeus not Jupiter, Heracles not Hercules)
 - Use the most common English transliteration (Achilles not Akhilleus, Cronus not Kronos)
 - Note Roman equivalents in the infobox
-- Create **group pages** (e.g., `olympians.md`, `titans.md`, `muses.md`) with crosslinks to all members, for navigation
+- **Group pages** live in `wiki/deities/groups/` (e.g., `olympians.md`, `titans.md`, `muses.md`). These have a Members list near the top, then source-based content sections with citations, following the same pattern as individual deity pages. A deity can appear in multiple group pages.
 
 ---
 
@@ -375,6 +382,7 @@ These patterns have developed through use and should be maintained:
 - **Homer/Hesiod citations** use standard book-and-line numbers (e.g., "Iliad 1.43-49", "Odyssey 9.105"). Line numbers are approximate (±10 lines) since they were derived by proportional mapping from the prose translation's file line numbers. All citations include full quotes for exact verification.
 - **Hero pages** go in `wiki/heroes/` regardless of gender (Helen is in heroes/).
 - **Circe** is in `wiki/deities/` (she's called a goddess in the Odyssey).
+- **Group pages** (Titans, Muses, Fates, Graces, Horae, Olympians, Primordials, etc.) live in `wiki/deities/groups/`. Individual deity pages stay in `wiki/deities/`. Links from group pages use `../` to reach individual deities and `../../` for other categories.
 
 ---
 
