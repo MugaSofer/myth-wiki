@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Also known as** | Furies (Roman) |
+| **Also known as** | Furies (Roman), Eumenides ("Kindly Ones") |
 | **Type** | Chthonic beings |
 | **Parents** | [Gaia](../deities/gaia.md), from the blood of [Uranus](../deities/uranus.md) |
 | **First appearance** | [Theogony](../sources/theogony.md) 185 |
