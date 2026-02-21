@@ -2,11 +2,9 @@
 
 | | |
 |---|---|
-| **Also known as** | Achilles (no distinct Roman equivalent) |
-| **Type** | Hero / Mortal (divine mother) |
+| **Also known as** | Pyrrha (disguise name on Scyros), Aiakides, Ligyron (birth name per Apollodorus) |
 | **Parents** | Peleus and [Thetis](../deities/thetis.md) |
-| **Spouse** | None named in the sources |
-| **Children** | Neoptolemus |
+| **Children** | [Neoptolemus](neoptolemus.md) (by Deidamia) |
 | **First appearance** | [Iliad](../sources/iliad.md) I |
 
 ## Overview
@@ -29,14 +27,14 @@
 [^ep-peleus]: "Achilles Peleus' son" (Iliad 1.8, trans. Lang, Leaf, and Myers)
 [^ep-breaker]: "Achilles, the breaker of the ranks of men" (Iliad 16.173, trans. Lang, Leaf, and Myers)
 [^ep-sacker]: "to honour Achilles, the sacker of cities" (Iliad 15.80, trans. Lang, Leaf, and Myers)
-[^ep-godlike]: "noble swift-footed Achilles" (Iliad 16.15, trans. Lang, Leaf, and Myers)
+[^ep-godlike]: "godlike Achilles" (Iliad 1.131, trans. Lang, Leaf, and Myers)
 [^ep-aiakides]: "fleet-footed Aiakides" (Iliad XXI, trans. Lang, Leaf, and Myers)
 
 ## Appearance
 
-The [Iliad](../sources/iliad.md) gives few direct descriptions of Achilles' natural form but marks him through two distinctive physical details. In Book I, when [Athena](../deities/athena.md) descends to restrain him from drawing on Agamemnon, "she stood behind Peleus' son and caught him by his golden hair."[^app-golden-hair] This detail -- golden hair -- is the only specific feature of his person described in the poem.
+The [Iliad](../sources/iliad.md) gives few direct descriptions of Achilles' natural form but marks him through two distinctive physical details. In Book I, when [Athena](../deities/athena.md) descends to restrain him from drawing on Agamemnon, "she stood behind Peleus' son and caught him by his golden hair."[^app-golden-hair] This detail —golden hair —is the only specific feature of his person described in the poem.
 
-His most vivid visual moment is supernatural rather than natural. In Book XVIII, when he goes to the trench unarmed to recover Patroklos's body, Athena "around his head the bright goddess set a crown of a golden cloud, and kindled therefrom a blazing flame." The fire is compared to a besieged city's beacon-fires: "thus from the head of Achilles soared that blaze toward the heavens." The Trojans see "the unwearying fire blaze fierce on the head of the great-hearted son of Peleus, for the bright-eyed goddess Athene made it blaze."[^app-fire]
+His most vivid visual moment is supernatural rather than natural. In Book XVIII, when he goes to the trench unarmed to recover Patroclus's body, Athena "around his head the bright goddess set a crown of a golden cloud, and kindled therefrom a blazing flame." The fire is compared to a besieged city's beacon-fires: "thus from the head of Achilles soared that blaze toward the heavens." The Trojans see "the unwearying fire blaze fierce on the head of the great-hearted son of Peleus, for the bright-eyed goddess Athene made it blaze."[^app-fire]
 
 In the pursuit of [Hector](hector.md) in Book XXII, the poem describes the effect of his appearance rather than the features themselves: "nigh on him came Achilles, peer of Enyalios warrior of the waving helm, brandishing from his right shoulder the Pelian ash, his terrible spear; and all around the bronze on him flashed like the gleam of blazing fire or of the Sun as he ariseth. And trembling seized Hector as he was aware of him."[^app-pursuit]
 
@@ -45,12 +43,6 @@ In the pursuit of [Hector](hector.md) in Book XXII, the poem describes the effec
 [^app-pursuit]: "nigh on him came Achilles, peer of Enyalios warrior of the waving helm, brandishing from his right shoulder the Pelian ash, his terrible spear; and all around the bronze on him flashed like the gleam of blazing fire or of the Sun as he ariseth. And trembling seized Hector as he was aware of him." (Iliad 22.130-135, trans. Lang, Leaf, and Myers)
 
 ## In the Iliad
-
-### The Musician in His Tent (Book IX)
-
-When the Greek embassy arrives at Achilles' camp, they find him "taking his pleasure of a loud lyre, fair, of curious work, with a silver cross-bar upon it; one that he had taken from the spoils when he laid Eëtion's city waste. Therein he was delighting his soul, and singing the glories of heroes. And over against him sate Patroklos alone in silence, watching till Aiakides should cease from singing."[^il9-lyre]
-
-[^il9-lyre]: "found their king taking his pleasure of a loud lyre, fair, of curious work, with a silver cross-bar upon it; one that he had taken from the spoils when he laid Eëtion's city waste. Therein he was delighting his soul, and singing the glories of heroes. And over against him sate Patroklos alone in silence, watching till Aiakides should cease from singing" (Iliad 9.194-200, trans. Lang, Leaf, and Myers)
 
 ### Thetis, the Divine Mother
 
@@ -77,23 +69,29 @@ She promised him threefold recompense for restraining himself: "hereafter shall 
 [^il1-athena]: "Athene came to him from heaven, sent forth of the white-armed goddess Hera, whose heart loved both alike and had care for them. She stood behind Peleus' son and caught him by his golden hair, to him only visible, and of the rest no man beheld her. Then Achilles marvelled, and turned him about, and straightway knew Pallas Athene; and terribly shone her eyes" (Iliad 1.194-200, trans. Lang, Leaf, and Myers)
 [^il1-promise]: "hereafter shall goodly gifts come to thee, yea in threefold measure, by reason of this despite; hold thou thine hand, and hearken to us" (Iliad 1.213-214, trans. Lang, Leaf, and Myers)
 
+### The Musician in His Tent (Book IX)
+
+When the Greek embassy arrives at Achilles' camp, they find him "taking his pleasure of a loud lyre, fair, of curious work, with a silver cross-bar upon it; one that he had taken from the spoils when he laid Eëtion's city waste. Therein he was delighting his soul, and singing the glories of heroes. And over against him sate [Patroclus](patroclus.md) alone in silence, watching till Aiakides should cease from singing."[^il9-lyre]
+
+[^il9-lyre]: "found their king taking his pleasure of a loud lyre, fair, of curious work, with a silver cross-bar upon it; one that he had taken from the spoils when he laid Eëtion's city waste. Therein he was delighting his soul, and singing the glories of heroes. And over against him sate Patroclus alone in silence, watching till Aiakides should cease from singing" (Iliad 9.194-200, trans. Lang, Leaf, and Myers)
+
 ### The Two Fates (Book IX)
 
 In Book IX, Achilles reveals to the Greek embassy the prophecy his mother has told him: "my goddess mother telleth me, Thetis the silver-footed, that twain fates are bearing me to the issue of death. If I abide here and besiege the Trojans' city, then my returning home is taken from me, but my fame shall be imperishable; but if I go home to my dear native land, my high fame is taken from me, but my life shall endure long while, neither shall the issue of death soon reach me."[^il9-fates]
 
-This is the defining choice of the poem. Achilles initially inclines toward the second fate — long life — but the death of Patroklos will bind him irrevocably to the first.
+This is the defining choice of the poem. Achilles initially inclines toward the second fate — long life — but the death of Patroclus will bind him irrevocably to the first.
 
 [^il9-fates]: "my goddess mother telleth me, Thetis the silver-footed, that twain fates are bearing me to the issue of death. If I abide here and besiege the Trojans' city, then my returning home is taken from me, but my fame shall be imperishable; but if I go home to my dear native land, my high fame is taken from me, but my life shall endure long while, neither shall the issue of death soon reach me" (Iliad 9.405-411, trans. Lang, Leaf, and Myers)
 
 ### Athena's Fire and the Triple Shout (Book XVIII)
 
-After the death of Patroklos, [Athena](../deities/athena.md) empowers Achilles for a moment of supernatural display. She casts her tasselled [aegis](../objects/aegis.md) about his shoulders, sets "a crown of golden cloud" on his head and kindles blazing fire from it, and adds her divine voice to his shout: "Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy." Thrice he shouted from the trench, and thrice the Trojans were thrown into confusion.[^il18-fire]
+After the death of Patroclus, [Athena](../deities/athena.md) empowers Achilles for a moment of supernatural display. She casts her tasselled [aegis](../objects/aegis.md) about his shoulders, sets "a crown of golden cloud" on his head and kindles blazing fire from it, and adds her divine voice to his shout: "Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy." Thrice he shouted from the trench, and thrice the Trojans were thrown into confusion.[^il18-fire]
 
 [^il18-fire]: "the bright-eyed goddess Athene cast about his mighty shoulders the tasselled aegis, and around his head the divine goddess set a crown of golden cloud, and kindled therefrom a blazing fire... Pallas Athene uttered her voice, and spread terror unspeakable among the men of Troy" (Iliad 18.143-155, trans. Lang, Leaf, and Myers)
 
 ### Thetis and the Nereids Lament (Book XVIII)
 
-When Achilles cries out in grief for Patroklos, [Thetis](../deities/thetis.md) hears him "as she sate in the depths of the sea beside her ancient sire." She leads the Nereids in a lament that is both personal and prophetic: "Ay me unhappy, ay me that bare to my sorrow the first of men! For after I had borne a son noble and strong, the chief of heroes, and he shot up like a young branch, then when I had reared him as a plant in a very fruitful field I sent him in beaked ships to Ilios... but never again shall I welcome him back to his home."[^il18-nereids]
+When Achilles cries out in grief for Patroclus, [Thetis](../deities/thetis.md) hears him "as she sate in the depths of the sea beside her ancient sire." She leads the Nereids in a lament that is both personal and prophetic: "Ay me unhappy, ay me that bare to my sorrow the first of men! For after I had borne a son noble and strong, the chief of heroes, and he shot up like a young branch, then when I had reared him as a plant in a very fruitful field I sent him in beaked ships to Ilios... but never again shall I welcome him back to his home."[^il18-nereids]
 
 She confirms his fate with terrible clarity: "Short-lived, I ween, must thou be then, my child, by what thou sayest, for straightway after Hector is death appointed unto thee."[^il18-fate]
 
@@ -102,18 +100,18 @@ She confirms his fate with terrible clarity: "Short-lived, I ween, must thou be 
 
 ### Divine Armour from Hephaestus (Book XVIII)
 
-[Thetis](../deities/thetis.md) commissions new armour from [Hephaestus](../deities/hephaestus.md), whose debt to her is old -- she rescued him when he was cast into the sea. He forges for Achilles the [Shield of Achilles](../objects/shield-of-achilles.md), an entire cosmos wrought in metal: earth, heavens, sea, sun, moon, and constellations; two cities (one at peace, one at war); scenes of agriculture, herding, and dance; and "the great might of the River of Ocean around the uttermost rim."[^il18-shield]
+[Thetis](../deities/thetis.md) commissions new armour from [Hephaestus](../deities/hephaestus.md), whose debt to her is old —she rescued him when he was cast into the sea. He forges for Achilles the [Shield of Achilles](../objects/shield-of-achilles.md), an entire cosmos wrought in metal: earth, heavens, sea, sun, moon, and constellations; two cities (one at peace, one at war); scenes of agriculture, herding, and dance; and "the great might of the River of Ocean around the uttermost rim."[^il18-shield]
 
-Achilles' original armour, given by the gods at Peleus's wedding, had been lost when Patroklos wore it into battle and Hector stripped it from his body. His Pelian spear -- "from the peak of Pelion... which Cheiron gave to his dear father" -- alone could not be wielded by another man.[^il16-spear]
+Achilles' original armour, given by the gods at Peleus's wedding, had been lost when Patroclus wore it into battle and Hector stripped it from his body. His Pelian spear —"from the peak of Pelion... which Cheiron gave to his dear father" —alone could not be wielded by another man.[^il16-spear]
 
 [^il18-shield]: "There wrought he the earth, and the heavens, and the sea, and the unwearying sun, and the moon waxing to the full, and the signs every one wherewith the heavens are crowned, Pleiads and Hyads and Orion's might, and the Bear that men call also the Wain, her that turneth in her place and watcheth Orion, and alone hath no part in the baths of Ocean" (Iliad 18.448-454, trans. Lang, Leaf, and Myers)
-[^il16-spear]: (Iliad XVI, XIX; Cypria Fragment 5: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head," trans. H.G. Evelyn-White)
+[^il16-spear]: "that spear could none other of the Achaians wield, but Achilles alone availed to wield it, the Pelian ashen spear that Cheiron gave to his father dear, from a peak of Pelion, to be the death of warriors" (Iliad 19.388-391, trans. Lang, Leaf, and Myers; cf. Cypria Fragment 5: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head," trans. H.G. Evelyn-White)
 
 ### The Immortal Horses and Xanthos's Prophecy (Book XIX)
 
 Achilles' chariot horses Xanthos and Balios are themselves divine: "the horses that the harpy Podarge bare to the West Wind, as she grazed on the meadow by the stream of Okeanos."[^il16-horses] Before battle, the horse Xanthos is given speech by [Hera](../deities/hera.md) and prophesies Achilles' death: "We even with the wind of Zephyr, swiftest, they say, of all winds, well might run; nathless to thee thyself it is appointed to be slain in fight by a god and by a man."[^il19-xanthos]
 
-Then the [Erinyes](../creatures/erinyes.md) enforce the natural order: "Now when he had thus spoken the Erinyes stayed his voice" -- silencing the horse and restoring the boundary between animal and human speech.[^il19-erinyes]
+Then the [Erinyes](../creatures/erinyes.md) enforce the natural order: "Now when he had thus spoken the Erinyes stayed his voice" —silencing the horse and restoring the boundary between animal and human speech.[^il19-erinyes]
 
 Achilles answers without flinching: "Xanthos, why prophesiest thou my death? no wise behoveth it thee. Well know I of myself that it is appointed me to perish here, far from my father dear and mother; howbeit anywise I will not refrain till I give the Trojans surfeit of war."[^il19-reply]
 
@@ -126,7 +124,7 @@ Achilles answers without flinching: "Xanthos, why prophesiest thou my death? no 
 
 In Book XXI, the River Xanthos (Skamandros) rises against Achilles in divine rage after he chokes the stream with Trojan dead. The river nearly overwhelms him until [Poseidon](../deities/poseidon.md) and [Athena](../deities/athena.md) appear "in the likeness of men" to save him, and [Hera](../deities/hera.md) calls [Hephaestus](../deities/hephaestus.md) to burn the river with fire until it submits and swears an oath.[^il21-river]
 
-[^il21-river]: (Iliad XXI, trans. Lang, Leaf, and Myers)
+[^il21-river]: The River speaks: "O Achilles, thy might and thy evil work are beyond the measure of men; for gods themselves are ever helping thee... filled with dead men is my pleasant bed, nor can I pour my stream to the great sea, being choked with dead, and thou slayest ruthlessly." The River then rises in flood against him: "the stream smote violently against his shield, nor availed he to stand firm upon his feet" (Iliad 21.214-240, trans. Lang, Leaf, and Myers)
 
 ### The Golden Scales and Hector's Death (Book XXII)
 
@@ -135,13 +133,13 @@ When Achilles pursues Hector around the walls of Troy, [Zeus](../deities/zeus.md
 [Athena](../deities/athena.md) tricks Hector into standing his ground by appearing as his brother Deiphobus, then invisibly retrieves Achilles' thrown spear. As Hector dies, he prophesies Achilles' own death: "Paris and Phoebus Apollo slay thee... at the Skaian gate."[^il22-prophecy]
 
 [^il22-scales]: "then the Father hung his golden balances, and set therein two lots of dreary death, one of Achilles, one of horse-taming Hector, and held them by the midst and poised. Then Hector's fated day sank down, and fell to the house of Hades, and Phoebus Apollo left him" (Iliad 22.205-208, trans. Lang, Leaf, and Myers)
-[^il22-prophecy]: "Paris and Phoebus Apollo slay thee... at the Skaian gate" (Iliad XXII, trans. Lang, Leaf, and Myers)
+[^il22-prophecy]: "Take heed now lest I draw upon thee wrath of gods, in the day when Paris and Phoebus Apollo slay thee, for all thy valour, at the Skaian gate" (Iliad 22.356-360, trans. Lang, Leaf, and Myers)
 
-### Patroklos's Ghost and Afterlife Theology (Book XXIII)
+### Patroclus's Ghost and Afterlife Theology (Book XXIII)
 
-At the funeral of Patroklos, his ghost appears to Achilles and speaks of the afterlife: "spirits banish me, the phantoms of men outworn... vainly I wander along the wide-gated dwelling of Hades." He makes a significant theological statement: "there remaineth then even in the house of Hades a spirit and phantom of the dead, albeit the life be not anywise therein."[^il23-ghost]
+At the funeral of Patroclus, his ghost appears to Achilles and speaks of the afterlife: "spirits banish me, the phantoms of men outworn... vainly I wander along the wide-gated dwelling of Hades." He makes a significant theological statement: "there remaineth then even in the house of Hades a spirit and phantom of the dead, albeit the life be not anywise therein."[^il23-ghost]
 
-[^il23-ghost]: "there remaineth then even in the house of Hades a spirit and phantom of the dead, albeit the life be not anywise therein" (Iliad XXIII, trans. Lang, Leaf, and Myers)
+[^il23-ghost]: "there remaineth then even in the house of Hades a spirit and phantom of the dead, albeit the life be not anywise therein" (Iliad 23.103-104, trans. Lang, Leaf, and Myers)
 
 ### The Two Urns (Book XXIV)
 
@@ -155,13 +153,13 @@ In the ransom scene, Achilles delivers the poem's great statement on the mortal 
 
 Odysseus encounters Achilles' shade in the land of the dead and tries to comfort him: "of old, in the days of thy life, we Argives gave thee one honour with the gods, and now thou art a great prince here among the dead. Wherefore let not thy death be any grief to thee, Achilles." Achilles rejects this utterly: "Nay, speak not comfortably to me of death, oh great Odysseus. Rather would I live on ground as the hireling of another, with a landless man who had no great livelihood, than bear sway among all the dead that be departed."[^od11-achilles]
 
-This speech inverts the choice of the [Iliad](../sources/iliad.md) -- the hero who chose glory and death now repudiates that choice from beyond the grave.
+This speech inverts the choice of the [Iliad](../sources/iliad.md) —the hero who chose glory and death now repudiates that choice from beyond the grave.
 
 [^od11-achilles]: "Nay, speak not comfortably to me of death, oh great Odysseus. Rather would I live on ground as the hireling of another, with a landless man who had no great livelihood, than bear sway among all the dead that be departed" (Odyssey 11.476-480, trans. Butcher and Lang)
 
 ### Achilles' Funeral (Book XXIV)
 
-Agamemnon's shade describes Achilles' funeral in the second Nekuia. [Thetis](../deities/thetis.md) emerged from the sea "with the deathless maidens of the waters" and "a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans."[^od24-arrival] The [Muses](../deities/groups/muses.md) sang the dirge -- "all the nine Muses one to the other replying with sweet voices began the dirge" -- and mourning lasted seventeen days by both immortals and mortals.[^od24-muses]
+Agamemnon's shade describes Achilles' funeral in the second Nekuia. [Thetis](../deities/thetis.md) emerged from the sea "with the deathless maidens of the waters" and "a wonderful wailing rose over the deep, and trembling fell on the limbs of all the Achaeans."[^od24-arrival] The [Muses](../deities/groups/muses.md) sang the dirge —"all the nine Muses one to the other replying with sweet voices began the dirge" —and mourning lasted seventeen days by both immortals and mortals.[^od24-muses]
 
 After the cremation, [Thetis](../deities/thetis.md) "gave a twy-handled golden urn, and said that it was the gift of [Dionysus](../deities/dionysus.md), and the workmanship of renowned [Hephaestus](../deities/hephaestus.md)." She then "asked the gods for glorious prizes in the games... for very dear wert thou to the gods."[^od24-urn]
 
@@ -175,7 +173,7 @@ After the cremation, [Thetis](../deities/thetis.md) "gave a twy-handled golden u
 
 After slaying Memnon (son of [Eos](../deities/eos.md), who wore armour made by [Hephaestus](../deities/hephaestus.md)), Achilles is killed rushing into the city: he "is killed by Paris and [Apollo](../deities/apollo.md)."[^aeth-death] This fulfils Hector's dying prophecy from [Iliad](../sources/iliad.md) XXII.
 
-[Thetis](../deities/thetis.md) arrives "with the [Muses](../deities/groups/muses.md) and her sisters" to bewail him, then "catches away from the pyre and transports to the White Island."[^aeth-white] [Eos](../deities/eos.md) obtains immortality from [Zeus](../deities/zeus.md) for her son Memnon, but no similar favour is granted for Achilles -- [Thetis](../deities/thetis.md) instead removes him physically from the mortal world.
+[Thetis](../deities/thetis.md) arrives "with the [Muses](../deities/groups/muses.md) and her sisters" to bewail him, then "catches away from the pyre and transports to the White Island."[^aeth-white] [Eos](../deities/eos.md) obtains immortality from [Zeus](../deities/zeus.md) for her son Memnon, but no similar favour is granted for Achilles —[Thetis](../deities/thetis.md) instead removes him physically from the mortal world.
 
 [^aeth-death]: Aethiopis, summary by Proclus: Achilles "is killed by Paris and Apollo" (trans. H.G. Evelyn-White)
 [^aeth-white]: Aethiopis, summary by Proclus: "Thetis, arriving with the Muses and her sisters, bewails her son, whom she afterwards catches away from the pyre and transports to the White Island" (trans. H.G. Evelyn-White)
@@ -191,7 +189,7 @@ In the Returns, Achilles' ghost appeared to the departing Greek fleet, "trying t
 
 ### Peleus's Wedding Gifts (Cypria)
 
-At the wedding of Peleus and [Thetis](../deities/thetis.md) -- the occasion where Strife arrived and started the dispute leading to the Judgment of Paris -- the gods brought gifts: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and [Athena](../deities/athena.md), it is said, polished it, and [Hephaestus](../deities/hephaestus.md) fitted it with a head."[^cyp-spear] This is the same Pelian spear that Achilles alone can wield in the [Iliad](../sources/iliad.md).
+At the wedding of Peleus and [Thetis](../deities/thetis.md) —the occasion where Strife arrived and started the dispute leading to the Judgment of Paris —the gods brought gifts: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and [Athena](../deities/athena.md), it is said, polished it, and [Hephaestus](../deities/hephaestus.md) fitted it with a head."[^cyp-spear] This is the same Pelian spear that Achilles alone can wield in the [Iliad](../sources/iliad.md).
 
 [^cyp-spear]: "Cheiron gave him a stout ashen shaft which he had cut for a spear, and Athena, it is said, polished it, and Hephaestus fitted it with a head" (Cypria, Fragment 5, trans. H.G. Evelyn-White)
 
@@ -286,15 +284,15 @@ Ajax's madness and suicide: "Ajax, harbouring rage, in madness slaughtered his f
 
 ### The Battle with Cygnus (12.64-145)
 
-In the Metamorphoses, Achilles' arrival at Troy is marked by his duel with Cygnus, son of [Poseidon](../deities/poseidon.md), who had already slain a thousand Greeks. Achilles drove his chariot straight through the Trojan army, "making a lane with his great spear, shaped from a Pelion tree," and challenged Cygnus directly.[^met-ach-charge]
+In the Metamorphoses, Achilles' arrival at Troy is marked by his duel with [Cygnus](cygnus.md), son of [Poseidon](../deities/poseidon.md), who had already slain a thousand Greeks. Achilles drove his chariot straight through the Trojan army, "making a lane with his great spear, shaped from a Pelion tree," and challenged Cygnus directly.[^met-ach-charge]
 
-Cygnus proved invulnerable to weapons. Achilles' spear struck true but "only bruised, as with a blunted stroke, the breast of Cygnus." Cygnus mocked him: "This helmet crowned, great with its tawny horse-hair, and this shield, broad-hollowed, on my left arm, are not held for help in war: they are but ornament... It is a privilege that I was born not as you, of a Nereid but of him whose powerful rule is over Nereus, his daughters and their ocean."[^met-ach-cygnus]
+[Cygnus](cygnus.md) proved [invulnerable](../concepts/invulnerability.md) to weapons. Achilles' spear struck true but "only bruised, as with a blunted stroke, the breast of Cygnus." Cygnus mocked him: "This helmet crowned, great with its tawny horse-hair, and this shield, broad-hollowed, on my left arm, are not held for help in war: they are but ornament... It is a privilege that I was born not as you, of a Nereid but of him whose powerful rule is over Nereus, his daughters and their ocean."[^met-ach-cygnus]
 
 After multiple spears failed, Achilles tested his weapon on a Lycian soldier, Menoetes, and confirmed the spear was still deadly. Enraged, he leaped from his chariot and attacked Cygnus hand-to-hand: "with his sword-hilt and his shield he battered wildly the uncovered face and hollow-temples of his Trojan foe." He forced Cygnus backward over a stone, strangled him with his own helmet thongs, and rose "eager to strip his conquered foe but found his empty armor, for the god of ocean had changed the victim into that white bird whose name he lately bore."[^met-ach-strangle]
 
 ### The Banquet and Tales (12.146-628)
 
-After the Cygnus battle, during a truce, Achilles hosted a feast for the Greek chiefs. They "talked of their own deeds and valor, all that thrilling night," and the conversation turned to the invulnerability of Cygnus, which led the old warrior Nestor to tell the long story of Caeneus and the battle of the Lapiths and Centaurs.[^met-ach-feast]
+After the Cygnus battle, during a truce, Achilles hosted a feast for the Greek chiefs. They "talked of their own deeds and valor, all that thrilling night," and the conversation turned to the [invulnerability](../concepts/invulnerability.md) of Cygnus, which led the old warrior [Nestor](nestor.md) to tell the long story of [Caeneus](caeneus.md) and the battle of the Lapiths and [Centaurs](../creatures/centaurs.md).[^met-ach-feast]
 
 ### The Ghost at Thrace (13.440-467)
 
@@ -338,14 +336,14 @@ At his death, "[Achilles] neither in death was forsaken of songs, for at his fun
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I: Quarrel with Agamemnon; [Athena](../deities/athena.md) restrains him ("terribly shone her eyes"); weeps by the sea; [Thetis](../deities/thetis.md) rises "like a mist"; supplicates [Zeus](../deities/zeus.md) on his behalf
-- **[Iliad](../sources/iliad.md)** IX: Playing the lyre and singing "the glories of heroes" with Patroklos; reveals his two fates; rejects the embassy
-- **[Iliad](../sources/iliad.md)** XVI: Sends Patroklos into battle in his armour; his immortal horses Xanthos and Balios (born of harpy Podarge and the West Wind)
-- **[Iliad](../sources/iliad.md)** XVIII: Mourns Patroklos; [Thetis](../deities/thetis.md) laments among the Nereids; [Athena](../deities/athena.md)'s [aegis](../objects/aegis.md), fire, and triple shout; [Thetis](../deities/thetis.md) commissions armour from [Hephaestus](../deities/hephaestus.md); the [Shield of Achilles](../objects/shield-of-achilles.md)
+- **[Iliad](../sources/iliad.md)** IX: Playing the lyre and singing "the glories of heroes" with Patroclus; reveals his two fates; rejects the embassy
+- **[Iliad](../sources/iliad.md)** XVI: Sends Patroclus into battle in his armour; his immortal horses Xanthos and Balios (born of harpy Podarge and the West Wind)
+- **[Iliad](../sources/iliad.md)** XVIII: Mourns Patroclus; [Thetis](../deities/thetis.md) laments among the Nereids; [Athena](../deities/athena.md)'s [aegis](../objects/aegis.md), fire, and triple shout; [Thetis](../deities/thetis.md) commissions armour from [Hephaestus](../deities/hephaestus.md); the [Shield of Achilles](../objects/shield-of-achilles.md)
 - **[Iliad](../sources/iliad.md)** XIX: [Zeus](../deities/zeus.md) sends [Athena](../deities/athena.md) to feed him nectar and ambrosia; horse Xanthos prophesies his death ("a god and a man"); [Erinyes](../creatures/erinyes.md) silence the horse; Achilles accepts his fate
 - **[Iliad](../sources/iliad.md)** XX: Aristeia; [Poseidon](../deities/poseidon.md) saves Aineias from him and prophesies Aineias's dynasty
 - **[Iliad](../sources/iliad.md)** XXI: Battles the River Xanthos; [Poseidon](../deities/poseidon.md) and [Athena](../deities/athena.md) save him; [Hephaestus](../deities/hephaestus.md) burns the river
 - **[Iliad](../sources/iliad.md)** XXII: Pursues Hector; [Zeus](../deities/zeus.md) weighs the golden scales; [Athena](../deities/athena.md) tricks Hector as Deiphobus; Hector prophesies Achilles' death at the Skaian gate
-- **[Iliad](../sources/iliad.md)** XXIII: Patroklos's ghost appears; afterlife theology; funeral games
+- **[Iliad](../sources/iliad.md)** XXIII: Patroclus's ghost appears; afterlife theology; funeral games
 - **[Iliad](../sources/iliad.md)** XXIV: The Two Urns speech; ransoms Hector's body to Priam; [Thetis](../deities/thetis.md) brings [Zeus](../deities/zeus.md)'s command
 - **[Odyssey](../sources/odyssey.md)** XI: Shade in Hades; "Nay, speak not comfortably to me of death"; asks about his son and father
 - **[Odyssey](../sources/odyssey.md)** XXIV: Funeral described (Agamemnon's shade); [Thetis](../deities/thetis.md) and the Nereids; nine [Muses](../deities/groups/muses.md) sing dirge; seventeen days of mourning; golden urn (gift of [Dionysus](../deities/dionysus.md), work of [Hephaestus](../deities/hephaestus.md)); "very dear wert thou to the gods"

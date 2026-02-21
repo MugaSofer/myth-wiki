@@ -18,6 +18,8 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 **Primordials:** [Gaia](deities/gaia.md) · [Uranus](deities/uranus.md) · [Chaos](deities/chaos.md) · [Eros](deities/eros.md) · [Night](deities/night.md) · [Erebus](deities/erebus.md) · [Pontus](deities/pontus.md)
 
+...and [many more](deities/).
+
 ## [Heroes](heroes/)
 
 111 pages. Mortals and semi-divine figures.
