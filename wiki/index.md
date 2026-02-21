@@ -6,7 +6,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ---
 
-## Deities
+## [Deities](deities/)
 
 63 pages. Major gods, Titans, and primordial beings.
 
@@ -18,37 +18,37 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 **Primordials:** [Gaia](deities/gaia.md) · [Uranus](deities/uranus.md) · [Chaos](deities/chaos.md) · [Eros](deities/eros.md) · [Night](deities/night.md) · [Erebus](deities/erebus.md) · [Pontus](deities/pontus.md)
 
-## Heroes
+## [Heroes](heroes/)
 
 111 pages. Mortals and semi-divine figures.
 
 [Heracles](heroes/heracles.md) · [Achilles](heroes/achilles.md) · [Odysseus](heroes/odysseus.md) · [Perseus](heroes/perseus.md) · [Theseus](heroes/theseus.md) · [Jason](heroes/jason.md) · [Agamemnon](heroes/agamemnon.md) · [Hector](heroes/hector.md) · [Helen](heroes/helen.md) · [Oedipus](heroes/oedipus.md) · [Medea](heroes/medea.md) · [Orpheus](heroes/orpheus.md) · [Antigone](heroes/antigone.md) · [Clytemnestra](heroes/clytemnestra.md) · [Orestes](heroes/orestes.md) · [Electra](heroes/electra.md) · [Ajax](heroes/ajax.md) · [Patroclus](heroes/patroclus.md) · [Priam](heroes/priam.md) · [Diomedes](heroes/diomedes.md) and [many more...](heroes/)
 
-## Creatures
+## [Creatures](creatures/)
 
 18 pages. Monsters, divine beings, and mythical races.
 
 [Cyclopes](creatures/cyclopes.md) · [Hundred-Handers](creatures/hundred-handers.md) · [Erinyes](creatures/erinyes.md) · [Typhoeus](creatures/typhoeus.md) · [Cerberus](creatures/cerberus.md) · [Sphinx](creatures/sphinx.md) · [Sirens](creatures/sirens.md) · [Hydra](creatures/hydra.md) and [more...](creatures/)
 
-## Places
+## [Places](places/)
 
 18 pages. Locations in the divine and mortal worlds.
 
 [Olympus](places/olympus.md) · [Tartarus](places/tartarus.md) · [Troy](places/troy.md) · [Thebes](places/thebes.md) · [Argos](places/argos.md) · [Athens](places/athens.md) · [Colchis](places/colchis.md) and [more...](places/)
 
-## Events
+## [Events](events/)
 
 7 pages. Wars, quests, and mythological episodes.
 
 [Trojan War](events/trojan-war.md) · [Titanomachy](events/titanomachy.md) · [Seven Against Thebes](events/seven-against-thebes.md) · [Calydonian Boar](events/calydonian-boar.md) · [Judgment of Paris](events/judgment-of-paris.md) · [Deucalion's Flood](events/deucalions-flood.md) · [Five Ages](events/five-ages.md)
 
-## Objects
+## [Objects](objects/)
 
 19 pages. Weapons, artifacts, and magical items.
 
 [Aegis](objects/aegis.md) · [Golden Fleece](objects/golden-fleece.md) · [Thunderbolt](objects/thunderbolt.md) · [Poseidon's Trident](objects/poseidons-trident.md) and [more...](objects/)
 
-## Concepts
+## [Concepts](concepts/)
 
 4 pages. Cultural and religious ideas central to Greek myth.
 
