@@ -20,14 +20,14 @@
 - **"son of Peleus"** / **"Peleus' son"** — the standard patronymic[^ep-peleus]
 - **"breaker of men"** / **"breaker of the ranks of men"** — used in battle descriptions[^ep-breaker]
 - **"waster of cities"** / **"sacker of cities"** — shared with Odysseus[^ep-sacker]
-- **"godlike Achilles"** — used in narrative[^ep-godlike]
+- **"godlike Achilles"** — used by characters and narrator alike[^ep-godlike]
 - **"Aiakides"** — descendant of Aiakos, his grandfather[^ep-aiakides]
 
 [^ep-swift]: "swift-footed Achilles" / "fleet-footed goodly Achilles" (Iliad 1.124, passim, trans. Lang, Leaf, and Myers)
 [^ep-peleus]: "Achilles Peleus' son" (Iliad 1.8, trans. Lang, Leaf, and Myers)
 [^ep-breaker]: "Achilles, the breaker of the ranks of men" (Iliad 16.173, trans. Lang, Leaf, and Myers)
 [^ep-sacker]: "to honour Achilles, the sacker of cities" (Iliad 15.80, trans. Lang, Leaf, and Myers)
-[^ep-godlike]: "godlike Achilles" (Iliad 1.131, trans. Lang, Leaf, and Myers)
+[^ep-godlike]: "strong as thou art, O godlike Achilles, beguile thou me by craft" (Iliad 1.131); also e.g. "thou godlike Achilles, that thou mayest yet save me" (Iliad 9.494); "no wise yet, godlike Achilles, has it been thy lot" (Iliad 22.279, trans. Lang, Leaf, and Myers)
 [^ep-aiakides]: "fleet-footed Aiakides" (Iliad XXI, trans. Lang, Leaf, and Myers)
 
 ## Appearance
