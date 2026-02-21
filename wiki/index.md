@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**274 pages** across 8 categories, drawing from **33 primary sources**.
+**276 pages** across 8 categories, drawing from **33 primary sources**.
 
 ---
 
@@ -30,7 +30,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 18 pages. Monsters, divine beings, and mythical races.
 
-[Cyclopes](creatures/cyclopes.md) · [Hundred-Handers](creatures/hundred-handers.md) · [Erinyes](creatures/erinyes.md) · [Typhoeus](creatures/typhoeus.md) · [Cerberus](creatures/cerberus.md) · [Sphinx](creatures/sphinx.md) · [Sirens](creatures/sirens.md) · [Hydra](creatures/hydra.md) and [more...](creatures/)
+[Cyclopes](creatures/cyclopes.md) · [Hundred-Handers](creatures/hundred-handers.md) · [Centaurs](creatures/centaurs.md) · [Erinyes](creatures/erinyes.md) · [Typhoeus](creatures/typhoeus.md) · [Cerberus](creatures/cerberus.md) · [Sphinx](creatures/sphinx.md) · [Sirens](creatures/sirens.md) · [Hydra](creatures/hydra.md) and [more...](creatures/)
 
 ## [Places](places/)
 
@@ -52,9 +52,9 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## [Concepts](concepts/)
 
-4 pages. Cultural and religious ideas central to Greek myth.
+5 pages. Cultural and religious ideas central to Greek myth.
 
-[Xenia](concepts/xenia.md) (guest-friendship) · [Hubris](concepts/hubris.md) · [Ananke](concepts/ananke.md) (necessity) · [Justice](concepts/justice.md)
+[Xenia](concepts/xenia.md) (guest-friendship) · [Hubris](concepts/hubris.md) · [Invulnerability](concepts/invulnerability.md) · [Ananke](concepts/ananke.md) (necessity) · [Justice](concepts/justice.md)
 
 ---
 
