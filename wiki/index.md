@@ -2,13 +2,13 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**281 pages** across 8 categories, drawing from **33 primary sources**.
+**282 pages** across 8 categories, drawing from **33 primary sources**.
 
 ---
 
 ## [Deities](deities/)
 
-63 pages. Major gods, Titans, and primordial beings.
+64 pages. Major gods, Titans, and primordial beings.
 
 **Groups:** [Olympians](deities/groups/olympians.md) · [Titans](deities/groups/titans.md) · [Primordials](deities/groups/primordials.md) · [Muses](deities/groups/muses.md) · [Fates](deities/groups/fates.md) · [Graces](deities/groups/graces.md) · [Horae](deities/groups/horae.md)
 
