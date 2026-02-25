@@ -1136,13 +1136,15 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 **Up next:**
 1. **Statius, Achilleid** (trans. J.H. Mozley, 1928) — COMPLETE
 2. **Quintus Smyrnaeus, Posthomerica** (Fall of Troy) — COMPLETE. 14 books read and processed. Source page summaries complete. Entity pages created: Penthesilea, Memnon, Antilochus, Eurypylus, Oenone, Sinon, Laocoon, Deiphobus, Andromache. Entity pages updated: Ajax, Neoptolemus, Philoctetes, Priam, Achilles, Hecuba, Helen, Wooden Horse, Cassandra, Aeneas, Odysseus, Diomedes, Menelaus, Troy, Paris, Thetis, Nestor.
-3. **Callimachus, Hymns** (trans. A.W. Mair, 1921) — IN PROGRESS. All 6 hymns read. Source text saved and source page created. Entity pages updated: Teiresias (Hymn V blinding), Erysichthon (Hymn VI + Variant Traditions), Actaeon (Hymn V prophecy), Artemis (Hymn III childhood), Delos (Hymn IV wandering). Remaining: Zeus, Apollo, Athena, Demeter, Leto, Hera, Cyclopes updates.
+3. **Callimachus, Hymns** (trans. A.W. Mair, 1921) — COMPLETE. All 6 hymns read and processed. Source text saved, source page created. Entity pages updated: Teiresias (Hymn V blinding), Erysichthon (Hymn VI + Variant Traditions), Actaeon (Hymn V prophecy), Artemis (Hymn III childhood/companions), Delos (Hymn IV Asteria/wandering), Zeus (Hymn I Arcadian birth, sovereignty variant), Apollo (Hymn II appearance/skills, Hymn IV womb prophecy), Athena (Hymn V character/Teiresias), Demeter (Hymn VI stature/Erysichthon), Hera (Hymn IV persecution of Leto), Leto (Hymn IV wandering), Cyclopes (Hymn III physical description/forge).
+
+4. **Sophocles, Remaining Plays** (trans. Lewis Campbell, 1883, Gutenberg #14484) — COMPLETE. All 4 remaining plays read and processed (Ajax, Trachiniae, Electra, Philoctetes). Source pages created for all 4. Entity pages updated: Ajax (madness, deception speech, suicide, burial dispute), Odysseus (pity, magnanimity, Philoctetes deception), Deianira (Achelous, Nessus's robe, suicide), Heracles (Trachiniae agony, prophecy fulfilment, Philoctetes deus ex machina), Hyllus (messenger, orphaned, forced marriage), Electra (suffering, urn scene, matricide), Orestes (oracle, recognition, revenge), Clytemnestra (Iphigenia defence, dream, death), Aegisthus (entombment plan, discovers corpse), Philoctetes (10 years on Lemnos, paroxysm, bow, Heracles' command), Neoptolemus (moral crisis, defying Odysseus). Pages created: Teucer, Tecmessa, Chrysothemis. Pages updated by subagent: Athena, Menelaus, Agamemnon.
 
 **Later:**
-4. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
-5. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
-6. **More Greek tragedies** — Sophocles (Ajax, Philoctetes, Trachiniae); Euripides (Trojan Women, Heracles, Electra, Ion)
-7. **Aeschylus, Persians** — historical rather than mythological, low priority
+5. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
+6. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
+7. **More Greek tragedies** — Euripides (Trojan Women, Heracles, Electra, Ion)
+8. **Aeschylus, Persians** — historical rather than mythological, low priority
 
 ### Minor Expansions — COMPLETE
 
