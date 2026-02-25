@@ -64,6 +64,40 @@ Mortal women are transformed into trees in several myths — [Daphne](../heroes/
 
 Catasterism — transformation into a star or constellation — represents a common form of divine honour. [Callisto](../heroes/callisto.md) became the Bear, the [Dioscuri](../deities/groups/dioscuri.md) became the constellation Gemini, [Ariadne](../heroes/ariadne.md)'s crown became the Corona Borealis, and Orion became his constellation.
 
+## Mechanisms of Transformation
+
+Most divine powers in the sources are grounded in specific objects or substances — [Zeus](../deities/zeus.md)' thunderbolt, [Athena](../deities/athena.md)'s [aegis](../objects/aegis.md), [Hades](../deities/hades.md)' cap of invisibility, [Hermes](../deities/hermes.md)' winged sandals, [ambrosia](../concepts/ambrosia.md) and nectar as the food of immortality. Transformation, however, is one of the few major divine abilities that the sources treat as largely innate. When Zeus becomes a swan or Poseidon takes the form of a horse, Homer and the other poets simply state it happened with no implement or ritual described.
+
+But the sources are not entirely silent on mechanism, particularly when a god transforms *someone else*:
+
+### Wands
+
+[Athena](../deities/athena.md) uses a physical wand when transforming [Odysseus](../heroes/odysseus.md). To disguise him as an old beggar: "Athene touched him with her wand. His fair flesh she withered on his supple limbs, and made waste his yellow hair from off his head, and over all his limbs she cast the skin of an old man, and dimmed his two eyes, erewhile so fair."[^od13-wand] To restore him: "Athene touched him with her golden wand. First she cast about his breast a fresh linen robe and a doublet, and she increased his bulk and bloom. Dark his colour grew again, and his cheeks filled out."[^od16-wand] She repeats this process multiple times throughout the [Odyssey](../sources/odyssey.md), always with the wand.[^od16-wand-again]
+
+[Circe](../deities/circe.md) also uses a wand, but in combination with drugs: "she mixed harmful drugs with the food to make them utterly forget their own country. Now when she had given them the cup and they had drunk it off, presently she smote them with a wand, and in the styes of the swine she penned them."[^od10-circe] Both ingredients appear necessary — the drug alone does not transform, and the wand completes the change.
+
+[Hermes](../deities/hermes.md)' golden wand (the caduceus) is associated not with transformation but with a related power: "he held in his hand his wand that is fair and golden, wherewith he lulls the eyes of men, of whomso he will, while others again he even wakens out of sleep."[^od24-hermes]
+
+### Counter-Agents
+
+The herb moly, given by [Hermes](../deities/hermes.md) to Odysseus to resist Circe's magic, is described as a tangible counter-transformative substance: "the slayer of Argos gave me the plant that he had plucked from the ground, and he showed me the growth thereof. It was black at the root, but the flower was like to milk. Moly the gods call it, but it is hard for mortal men to dig; howbeit with the gods all things are possible."[^od10-moly] With this herb consumed, Circe's drugs and wand have no effect — she strikes Odysseus and commands him to the sty, but he remains human and draws his sword on her instead.
+
+### Aphrodite's Girdle
+
+[Aphrodite](../deities/aphrodite.md)'s power of allure is located in a physical, transferable object. When [Hera](../deities/hera.md) borrows it to seduce Zeus, Aphrodite "from her breast she loosed the broidered girdle, fair-wrought, wherein are all her enchantments; therein are love, and desire, and loving converse, that steals the wits even of the wise."[^il14-girdle] This is not transformation in the strict sense, but it is a change in how others perceive and respond to the wearer — and notably, it works for Hera just as well as for Aphrodite. The power is in the object, not the goddess.
+
+### Ambrosia as Cosmetic
+
+In the same episode, Hera prepares herself before borrowing the girdle: "with ambrosia first did she cleanse every stain from her winsome body, and anointed her with olive oil, ambrosial, soft, and of a sweet savour."[^il14-ambrosia] The substance that grants immortality when consumed is here used externally, as a beautifying agent — suggesting that ambrosia's power extends beyond nourishment to a more general divine enhancement.
+
+### Constructed Likenesses
+
+When the gods create the *appearance* of another being without transforming themselves, the sources describe it as an act of craft. Zeus "made a cloud in the likeness of Hera and laid it beside him" to test [Ixion](../heroes/ixion.md).[^apd-cloud] Athena "made a phantom, and fashioned it after the likeness of a woman, Iphthime" to send to [Penelope](../heroes/penelope.md) in a dream.[^od4-phantom] The language of making and fashioning implies deliberate construction rather than innate power.
+
+### Divine Self-Transformation: No Mechanism
+
+By contrast, when gods transform *themselves* — Zeus becoming a bull, Athena appearing as Mentor, Apollo taking mortal guise — no implement, substance, or craft is described. Homer uses bare formulae: "in the likeness of" (*eïdomenos*), or simply states the god appeared as someone or something. This stands in marked contrast to the rich material detail surrounding transformation of others. Whether this reflects a genuine theological distinction (self-transformation as inherently divine, transformation of others requiring tools) or simply a narrative convention is not addressed in the sources themselves.
+
 ## Patterns
 
 Several patterns emerge from the sources:
@@ -96,3 +130,13 @@ Several patterns emerge from the sources:
 [^apd-periclymenus]: Periclymenus "turned himself into a lion, a snake, and a bee" in battle, and was killed by Heracles (Bibliotheca 1.9.9, trans. J.G. Frazer)
 [^apd-achelous]: Achelous "assumed the likeness of a bull" wrestling Heracles for Deianira's hand, and lost a horn (Bibliotheca 2.7.5, trans. J.G. Frazer)
 [^apd-stones]: "the stones which Deucalion threw became men, and the stones which Pyrrha threw became women" (Bibliotheca 1.7.2, trans. J.G. Frazer)
+[^od13-wand]: "Athene touched him with her wand. His fair flesh she withered on his supple limbs, and made waste his yellow hair from off his head, and over all his limbs she cast the skin of an old man, and dimmed his two eyes, erewhile so fair" (Odyssey 13.429-433, trans. Butcher & Lang)
+[^od16-wand]: "Athene touched him with her golden wand. First she cast about his breast a fresh linen robe and a doublet, and she increased his bulk and bloom. Dark his colour grew again, and his cheeks filled out, and the black beard spread thick around his chin" (Odyssey 16.172-176, trans. Butcher & Lang)
+[^od16-wand-again]: Athena also "smote him with her wand, and made him into an old man again" when the swineherd returns (Odyssey 16.456-457, trans. Butcher & Lang)
+[^od10-circe]: "she mixed harmful drugs with the food to make them utterly forget their own country. Now when she had given them the cup and they had drunk it off, presently she smote them with a wand, and in the styes of the swine she penned them. So they had the head and voice, the bristles and the shape of swine, but their mind abode even as of old" (Odyssey 10.235-240, trans. Butcher & Lang)
+[^od24-hermes]: "he held in his hand his wand that is fair and golden, wherewith he lulls the eyes of men, of whomso he will, while others again he even wakens out of sleep" (Odyssey 24.3-4, trans. Butcher & Lang)
+[^od10-moly]: "the slayer of Argos gave me the plant that he had plucked from the ground, and he showed me the growth thereof. It was black at the root, but the flower was like to milk. Moly the gods call it, but it is hard for mortal men to dig; howbeit with the gods all things are possible" (Odyssey 10.302-306, trans. Butcher & Lang)
+[^il14-girdle]: "from her breast she loosed the broidered girdle, fair-wrought, wherein are all her enchantments; therein are love, and desire, and loving converse, that steals the wits even of the wise" (Iliad 14.214-217, trans. Lang, Leaf, & Myers)
+[^il14-ambrosia]: "with ambrosia first did she cleanse every stain from her winsome body, and anointed her with olive oil, ambrosial, soft, and of a sweet savour; if it were but shaken, in the bronze-floored mansion of Zeus, the savour thereof went right forth to earth and heaven" (Iliad 14.170-175, trans. Lang, Leaf, & Myers)
+[^apd-cloud]: "Zeus, wishing to know if the thing were so, made a cloud in the likeness of Hera and laid it beside him" (Epitome 1.20, trans. J.G. Frazer)
+[^od4-phantom]: "the goddess, grey-eyed Athene... made a phantom, and fashioned it after the likeness of a woman, Iphthime, daughter of great-hearted Icarius" (Odyssey 4.795-797, trans. Butcher & Lang)
