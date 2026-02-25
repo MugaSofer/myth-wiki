@@ -330,6 +330,75 @@ On the voyage to Troy, Odysseus comforts the love-struck Achilles with a speech 
 [^ach-reveal]: "Why dost thou hesitate? We know thee, thou art the pupil of the half-beast Chiron, thou art the grandson of the sky and sea... he seemed to surpass by head and shoulders the Ithacan and the Aetolian chief" (Achilleid 1.866-880, trans. J.H. Mozley)
 [^ach-speech]: Achilleid 2.49-85. Odysseus comforts and inspires Achilles on the voyage to Troy.
 
+## In the [Posthomerica](../sources/posthomerica.md)
+
+### Defence of Achilles' Body (Book III)
+
+When [Achilles](achilles.md) has fallen and the Greeks fight to recover his body, Odysseus joins [Ajax](ajax.md) at the centre of the struggle. He kills Maenalus ("Peisander's fleetfoot son, / The warrior Maenalus, who left his home / In far-renowned Abydos"), Atymnius (son of the bright-haired Nymph Pegasis and Emathion, born by [Granicus](../places/granicus.md)' stream), and Proteus (son of Orestius, "who dwelt 'neath lofty Ida's folds").[^post-b3-kills] During the fighting, Alcon, son of Megacles, drives his spear into Odysseus's right knee, drawing dark blood — but Odysseus does not leave the field. He kills Alcon through the shield with his own spear and fights on through the wound.[^post-b3-wound]
+
+[^post-b3-kills]: "As he smote down Peisander's fleetfoot son, / The warrior Maenalus, who left his home / In far-renowned Abydos: down on him / He hurled Atymnius, the goodly son / Whom Pegasis the bright-haired Nymph had borne / To strong Emathion by Granicus' stream. / Dead by his side he laid Orestius' son, / Proteus, who dwelt 'neath lofty Ida's folds" (Posthomerica 3.2637-2644, trans. A.S. Way)
+[^post-b3-wound]: "Yet Alcon, son of Megacles battle-swift, / Hard by Odysseus' right knee drave the spear / Home, and about the glittering greave the blood / Dark-crimson welled. He recked not of the wound, / But was unto his smiter sudden death; / For clear through his shield he stabbed him with his spear / Amidst his battle-fury... Rushed on his comrades, in his wound's despite, / Odysseus, nor from that stern battle-toil / Refrained him" (Posthomerica 3.2650-2665, trans. A.S. Way)
+
+### The Funeral Games and the Wound (Book IV)
+
+At Achilles' funeral games, Odysseus is prevented from competing by the knee wound Alcon dealt him during the battle over the body: he "inly grieved to be withheld / From contests of the strong, how fain soe'er, / By that sore wound which Alcon dealt to him / In the grim fight around dead Aeacas' son."[^post-b4-wound]
+
+[^post-b4-wound]: "the son of the old war-lord, / Laertes, inly grieved to be withheld / From contests of the strong, how fain soe'er, / By that sore wound which Alcon dealt to him / In the grim fight around dead Aeacas' son" (Posthomerica 4.3937-3940, trans. A.S. Way)
+
+### The Judgment of the Arms (Book V)
+
+After Thetis sets Achilles' divine armour as a prize for the hero who most deserved it, both Ajax and Odysseus claim the arms. Ajax proposes the three senior leaders — [Idomeneus](../heroes/idomeneus.md), Nestor, and [Agamemnon](../heroes/agamemnon.md) — as judges; Odysseus agrees, calling them "prudent of their wit / ... and princeliest of all Danaan men."[^post-b5-agree] Nestor persuades the three leaders to instead put the question to Trojan captives, who as prisoners of both heroes will have no favouritism; Agamemnon consents.[^post-b5-nestor]
+
+Ajax speaks first, calling Odysseus a "craven and a weakling wretch / Frail in comparison of me, as is / A cur beside a lion thunder-voiced," accusing him of shirking at the start of the war, of abandoning Philoctetes on Lemnos, of conspiring against Palamedes, and of placing his ships in the protected centre of the fleet from cowardice.[^post-b5-ajax-speech]
+
+Odysseus responds, asserting superiority in "wit and speech, which things increase / The strength of men," and argues that it was he who brought Achilles to the war in the first place, who infiltrated Troy's walls as a spy with scarred body, who bore Achilles' body from the field, and who was never in flight. He also draws attention to his still-festering wound: "my grievous hurt / With pain still vexeth me, the wound I gat / In fighting for these arms and their slain lord."[^post-b5-od-speech]
+
+The Trojan captives judge in favour of Odysseus, awarding him the arms; the text notes that "Greatly his soul rejoiced." Ajax in consequence is struck with madness.[^post-b5-verdict]
+
+[^post-b5-agree]: "To these I also trust most utterly, / Odysseus said, for prudent of their wit / Be these, and princeliest of all Danaan men" (Posthomerica 5.4110-4112, trans. A.S. Way)
+[^post-b5-nestor]: "Therefore let us ordain to judge this cause / 'Twixt godlike Aias and war-fain Odysseus, / Our Trojan captives. They shall say whom most / Our foes dread, and who saved Peleides' corse / From that most deadly fight" (Posthomerica 5.4137-4141, trans. A.S. Way)
+[^post-b5-ajax-speech]: "Thy dam / Bare thee a craven and a weakling wretch / Frail in comparison of me, as is / A cur beside a lion thunder-voiced! / No battle-biding heart is in thy breast, / But wiles and treachery be all thy care" (Posthomerica 5.4171-4176, trans. A.S. Way)
+[^post-b5-od-speech]: "I boast me better far / Than thou in wit and speech, which things increase / The strength of men... my grievous hurt / With pain still vexeth me, the wound I gat / In fighting for these arms and their slain lord. / In me as in Achilles is Zeus' blood" (Posthomerica 5.4239-4297, trans. A.S. Way)
+[^post-b5-verdict]: "The sons of Troy gave judgment. Victory / And those immortal arms awarded they / With one consent to Odysseus mighty in war. / Greatly his soul rejoiced" (Posthomerica 5.4333-4336, trans. A.S. Way)
+
+### Fetching Neoptolemus from Scyros (Book VII)
+
+After [Eurypylus](../heroes/eurypylus.md) inflicts heavy losses on the Greeks, Calchas prophecies that they must bring [Neoptolemus](../heroes/neoptolemus.md) from [Scyros](../places/scyros.md). Odysseus sails there with [Diomedes](diomedes.md).[^post-b7-sent] Finding Neoptolemus training in arms outside the palace, they are struck by his resemblance to his father. Odysseus speaks first, identifying himself and offering gifts: Achilles' own armour ("these be like no mortal's battle-gear, / But splendid as the very War-god's arms"), and the promise of a royal marriage with [Menelaus](../heroes/menelaus.md)' daughter.[^post-b7-speech] The widowed [Deidamia](../heroes/deidamia.md) lies awake that night, bearing in mind "the names / Of crafty Odysseus and of Diomede / The godlike, how these twain had widowed her / Of battle-fain Achilles, how their words / Had won his aweless heart to fare with them / To meet the war-cry where stern Fate met him."[^post-b7-deidamia]
+
+[^post-b7-sent]: "unto Lemnos, land / Of stately mansions, sent they Tydeus' son / And battle-staunch Odysseus oversea" — error by Quintus; the destination is Scyros (Posthomerica 7.5716, trans. A.S. Way)
+[^post-b7-speech]: "Of Ithaca am I... sent by voice of prophecy. / I pray thee, pity us: come thou to Troy / And help us... I myself / Will give to thee thy godlike father's arms... these be like no mortal's battle-gear, / But splendid as the very War-god's arms" (Posthomerica 7.5736-5748, trans. A.S. Way)
+[^post-b7-deidamia]: "she bore in mind the names / Of crafty Odysseus and of Diomede / The godlike, how these twain had widowed her / Of battle-fain Achilles, how their words / Had won his aweless heart to fare with them / To meet the war-cry where stern Fate met him" (Posthomerica 7.5805-5810, trans. A.S. Way)
+
+### Fetching Philoctetes from Lemnos (Book IX)
+
+At Calchas' counsel, Agamemnon sends Odysseus and Diomedes by sea to [Lemnos](../places/lemnos.md) to retrieve [Philoctetes](../heroes/philoctetes.md), whose presence and the bow of Heracles are required for Troy to fall.[^post-b9-sent] They find Philoctetes in his cave, emaciated and clothed in feathers from the birds he has shot, his ulcerous wound never ceasing to fester. When the heroes approach, Philoctetes springs for his bow — he recognizes them as those who abandoned him years before — but Athena dissolves his wrath before he shoots.[^post-b9-arrival] The two sit down on either side of him and speak words of comfort, deflecting blame for his abandonment onto the Fates rather than themselves: "no man of them all / Was cause of thine affliction, but the Fates, / The cruel ones, whom none that walk the earth / Escape."[^post-b9-speech] Persuaded, Philoctetes goes gladly with them to the ship, and they bear him leaning on their arms to the shore.[^post-b9-departure]
+
+[^post-b9-sent]: "unto Lemnos, land / Of stately mansions, sent they Tydeus' son / And battle-staunch Odysseus oversea" (Posthomerica 9.7329-7331, trans. A.S. Way)
+[^post-b9-arrival]: "Now when that solitary spied these twain / Draw nigh his cave, he sprang to his bow, he laid / The deadly arrow on the string; for now / Fierce memory of his wrongs awoke against / These, who had left him years agone, in pain / Groaning upon the desolate sea-shore. / Yea, and his heart's stem will he had swiftly wrought, / But, even as upon that godlike twain / He gazed, Athena caused his bitter wrath / To melt away" (Posthomerica 9.7401-7410, trans. A.S. Way)
+[^post-b9-speech]: "no man of them all / Was cause of thine affliction, but the Fates, / The cruel ones, whom none that walk the earth / Escape, but aye they visit hapless men / Unseen... Hearkening he sat / To Odysseus and to godlike Diomede" (Posthomerica 9.7420-7428, trans. A.S. Way)
+[^post-b9-departure]: "Straight to the strand dull-thundering and the ship, / Laughing for joy, they bare him with his bow" (Posthomerica 9.7432-7433, trans. A.S. Way)
+
+### The Wooden Horse (Book XII)
+
+After years of futile siege, Calchas calls the Greek chiefs together and advises that only guile, not force, will take Troy. It is Odysseus — "Laertes' son / Discerned it of his wisdom" — who proposes the stratagem: a great wooden horse to be built, filled with the best warriors, while the fleet sails away to [Tenedos](../places/tenedos.md). A brave man unknown to the Trojans will wait outside the horse and tell a prepared story — that the Greeks have sailed home and left the horse as an offering to Athena. When Troy sleeps, the man outside will give a torch-signal to the fleet; the warriors inside will hear the cry "Come forth the Horse!" and pour out to sack the city.[^post-b12-plan]
+
+Calchas praises the scheme: "Let your hearts seek none other stratagem, / Friends; to war-strong Odysseus' rede give ear. / His wise thought shall not miss accomplishment."[^post-b12-calchas] When [Neoptolemus](../heroes/neoptolemus.md) protests that brave men fight face to face and not by trickery, Odysseus reminds him that even his father's invincible might never broke Troy's walls, and that Epeius the craftsman, guided by Athena, should build the horse.[^post-b12-reply]
+
+Odysseus is among the warriors listed entering the horse, third after Neoptolemus and Menelaus.[^post-b12-entry] Inside the horse, when Sinon's torch-signal is given and the Trojans lie drunk and asleep, the warriors hear and press to leap out — but Odysseus in his subtlety holds them back from surging forth all at once. He is first to slip out himself, scanning from the opened flank of the horse "as when a wolf, / With hunger stung to the heart, comes from the hills, / And ravenous for flesh draws nigh the flock / Penned in the wide fold, slinking past the men / And dogs that watch... / So stole Odysseus down from the Horse."[^post-b12-exit]
+
+[^post-b12-plan]: "A great Horse let us fashion, in the which / Our mightiest shall take ambush. Let the host / Burn all their tents, and sail from hence away / To Tenedos... Let some brave man, unknown of any in Troy, / With a stout heart abide without the Horse... Then shall war's signal unto us be given— / To them at sea, by sudden flash of torch, / To the ambush, by the cry, 'Come forth the Horse!' / When unsuspecting sleep the sons of Troy" (Posthomerica 12.8745-8764, trans. A.S. Way)
+[^post-b12-calchas]: "Let your hearts seek none other stratagem, / Friends; to war-strong Odysseus' rede give ear. / His wise thought shall not miss accomplishment" (Posthomerica 12.8771-8773, trans. A.S. Way)
+[^post-b12-reply]: "thine invincible sire's unquailing might / Availed not to smite Priam's wealthy burg, / Nor we, for all our travail. Nay, with speed, / As counselleth Calchas, go we to the ships, / And fashion we the Horse by Epeius' hands, / Who in the woodwright's craft is chiefest far / Of Argives, for Athena taught his lore" (Posthomerica 12.8799-8805, trans. A.S. Way)
+[^post-b12-entry]: "Into that cavernous Horse Achilles' son / First entered, strong Menelaus followed then, / Odysseus, Sthenelus, godlike Diomede..." (Posthomerica 12.9070-9072, trans. A.S. Way)
+[^post-b12-exit]: "They heard, and to Odysseus all inclined / Their ears: he bade them urgently go forth / Softly and fearlessly... in his subtlety / He stayed them from all thrusting eagerly forth. / But first himself with swift unfaltering hands... / A little he raised his head, and gazed around / On all sides, if he haply might descry / One Trojan waking yet. As when a wolf... / So stole Odysseus down from the Horse" (Posthomerica 13.9418-9435, trans. A.S. Way)
+
+### The Sack of Troy and Hecuba (Books XIII–XIV)
+
+During the sack, Odysseus restrains his companions from rushing blindly out of the horse before it is safe.[^post-b13-restraint] In the aftermath of Troy's fall, Hecuba falls to Odysseus as his prize: "Hecuba / Odysseus dragged unto his ship. The tears / Poured from her eyes as water from a spring; / Trembled her limbs, fear-frenzied was her heart; / Rent were her hoary tresses and besprent / With ashes of the hearth."[^post-b14-hecuba]
+
+[^post-b13-restraint]: "They heard, and to Odysseus all inclined / Their ears: he bade them urgently go forth / Softly and fearlessly; and they obeyed / That battle-summons, pressing in hot haste / To leap to earth: but in his subtlety / He stayed them from all thrusting eagerly forth" (Posthomerica 13.9418-9423, trans. A.S. Way)
+[^post-b14-hecuba]: "Hecuba / Odysseus dragged unto his ship. The tears / Poured from her eyes as water from a spring; / Trembled her limbs, fear-frenzied was her heart; / Rent were her hoary tresses and besprent / With ashes of the hearth, cast by her hands / When she saw Priam slain and Troy aflame" (Posthomerica 14.10058-10064, trans. A.S. Way)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Rallies the army at [Athena](../deities/athena.md)'s urging; his ship in the centre of the fleet; "Odysseus of many devices"
@@ -363,3 +432,10 @@ On the voyage to Troy, Odysseus comforts the love-struck Achilles with a speech 
 - **[Hecuba](../sources/euripides-hecuba.md)**: Persuades Greeks to sacrifice Polyxena at Achilles' tomb; Hecuba reminds him she saved his life as a spy in Troy; acknowledges the debt but insists on honoring the dead; "that subtle adviser, that babbling knave, honeyed in speech, pleasing to the populace"
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Called "son of Sisyphus" (alternate parentage tradition); will lead the mob to seize [Iphigenia](iphigenia.md); "chosen willingly" to conduct her to sacrifice; represents the dangerous power of the multitude
 - **[Achilleid](../sources/achilleid.md)** 1.538-960, 2.1-85: Sails to Scyros with Diomedes to retrieve Achilles; enters Lycomedes' court under false pretence; spots Achilles among the maidens; plants weapons among gifts; whispers the revelation; comforts Achilles on the voyage to Troy
+- **[Posthomerica](../sources/posthomerica.md)** III: Fights beside Ajax to defend Achilles' body; kills Maenalus, Atymnius, and Proteus; wounded in the right knee by Alcon but fights on
+- **[Posthomerica](../sources/posthomerica.md)** IV: Sidelined from the funeral games by Alcon's wound
+- **[Posthomerica](../sources/posthomerica.md)** V: Contest of Arms with Ajax — proposes Trojan captives as judges; defends himself against Ajax's charges; wins the arms; Ajax is driven mad
+- **[Posthomerica](../sources/posthomerica.md)** VII: Sails with Diomedes to Scyros to fetch Neoptolemus; promises him Achilles' arms and a royal marriage
+- **[Posthomerica](../sources/posthomerica.md)** IX: Sails with Diomedes to Lemnos to fetch Philoctetes; Athena dissolves Philoctetes' murderous wrath; the two deflect blame for his abandonment onto the Fates
+- **[Posthomerica](../sources/posthomerica.md)** XII: Devises the stratagem of the Wooden Horse; persuades the assembled chiefs; third to enter the horse; restrains the warriors from rushing out; first to slip out and scout
+- **[Posthomerica](../sources/posthomerica.md)** XIII–XIV: Emerges from the horse and leads the sortie; claims Hecuba as his prize and drags her to his ship
