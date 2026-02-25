@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**309 pages** across 8 categories, drawing from **35 primary sources**.
+**310 pages** across 8 categories, drawing from **36 primary sources**.
 
 ---
 
@@ -22,11 +22,11 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## [Heroes](heroes/)
 
-128 pages. Mortals and semi-divine figures.
+130 pages. Mortals and semi-divine figures.
 
 **Groups:** [Amazons](heroes/groups/amazons.md)
 
-[Heracles](heroes/heracles.md) · [Achilles](heroes/achilles.md) · [Odysseus](heroes/odysseus.md) · [Perseus](heroes/perseus.md) · [Theseus](heroes/theseus.md) · [Jason](heroes/jason.md) · [Agamemnon](heroes/agamemnon.md) · [Hector](heroes/hector.md) · [Helen](heroes/helen.md) · [Oedipus](heroes/oedipus.md) · [Medea](heroes/medea.md) · [Orpheus](heroes/orpheus.md) · [Antigone](heroes/antigone.md) · [Clytemnestra](heroes/clytemnestra.md) · [Orestes](heroes/orestes.md) · [Electra](heroes/electra.md) · [Ajax](heroes/ajax.md) · [Patroclus](heroes/patroclus.md) · [Priam](heroes/priam.md) · [Diomedes](heroes/diomedes.md) and [many more...](heroes/)
+[Heracles](heroes/heracles.md) · [Achilles](heroes/achilles.md) · [Odysseus](heroes/odysseus.md) · [Perseus](heroes/perseus.md) · [Theseus](heroes/theseus.md) · [Jason](heroes/jason.md) · [Agamemnon](heroes/agamemnon.md) · [Hector](heroes/hector.md) · [Helen](heroes/helen.md) · [Oedipus](heroes/oedipus.md) · [Medea](heroes/medea.md) · [Orpheus](heroes/orpheus.md) · [Antigone](heroes/antigone.md) · [Clytemnestra](heroes/clytemnestra.md) · [Orestes](heroes/orestes.md) · [Electra](heroes/electra.md) · [Ajax](heroes/ajax.md) · [Patroclus](heroes/patroclus.md) · [Priam](heroes/priam.md) · [Andromache](heroes/andromache.md) · [Diomedes](heroes/diomedes.md) and [many more...](heroes/)
 
 ## [Creatures](creatures/)
 
@@ -62,7 +62,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## Sources
 
-34 processed texts, organized by author.
+36 processed texts, organized by author.
 
 ### Epic Poetry
 
@@ -78,6 +78,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 | Argonautica | Apollonius Rhodius | c. 3rd cent. BCE | [Link](sources/argonautica.md) |
 | Odes | Pindar | c. 5th cent. BCE | [Link](sources/pindar.md) |
 | Posthomerica | Quintus Smyrnaeus | c. mid-4th cent. CE | [Link](sources/posthomerica.md) |
+| Hymns | Callimachus | c. mid-3rd cent. BCE | [Link](sources/callimachus-hymns.md) |
 
 ### Mythological Handbooks
 

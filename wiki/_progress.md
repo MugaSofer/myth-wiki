@@ -1135,8 +1135,8 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 **Up next:**
 1. **Statius, Achilleid** (trans. J.H. Mozley, 1928) — COMPLETE
-2. **Quintus Smyrnaeus, Posthomerica** (Fall of Troy) — NEARLY COMPLETE. 14 books read. Source page summaries complete. Entity pages created: Penthesilea, Memnon, Antilochus, Eurypylus, Oenone, Sinon, Laocoon, Deiphobus. Entity pages updated: Ajax, Neoptolemus, Philoctetes, Priam, Achilles, Hecuba, Helen, Wooden Horse, Cassandra, Aeneas, Odysseus, Diomedes, Menelaus, Troy, Paris. Remaining minor updates: Andromache (needs own page), Thetis (funeral scenes), Nestor (consolation speeches).
-3. **Callimachus, Hymns** — Short. Unique material: Bath of Pallas (Tiresias's blinding), Erysichthon, Artemis as a child, Delos.
+2. **Quintus Smyrnaeus, Posthomerica** (Fall of Troy) — COMPLETE. 14 books read and processed. Source page summaries complete. Entity pages created: Penthesilea, Memnon, Antilochus, Eurypylus, Oenone, Sinon, Laocoon, Deiphobus, Andromache. Entity pages updated: Ajax, Neoptolemus, Philoctetes, Priam, Achilles, Hecuba, Helen, Wooden Horse, Cassandra, Aeneas, Odysseus, Diomedes, Menelaus, Troy, Paris, Thetis, Nestor.
+3. **Callimachus, Hymns** (trans. A.W. Mair, 1921) — IN PROGRESS. All 6 hymns read. Source text saved and source page created. Entity pages updated: Teiresias (Hymn V blinding), Erysichthon (Hymn VI + Variant Traditions), Actaeon (Hymn V prophecy), Artemis (Hymn III childhood), Delos (Hymn IV wandering). Remaining: Zeus, Apollo, Athena, Demeter, Leto, Hera, Cyclopes updates.
 
 **Later:**
 4. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
