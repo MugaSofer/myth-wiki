@@ -12,7 +12,7 @@ Two distinct figures bear the name Periclymenus in the sources: a shape-shifting
 | **Homeland** | Pylos |
 | **Known for** | Shape-shifting; slain by [Heracles](../heroes/heracles.md) |
 | **Divine patron** | [Poseidon](../deities/poseidon.md) (grandfather) |
-| **First appearance** | Hesiod, [Catalogue of Women](../sources/hesiod.md) (Fragment 10) |
+| **First appearance** | Hesiod, [Catalogue of Women](../sources/theogony.md) (Fragment 10) |
 
 ### Overview
 
@@ -22,7 +22,7 @@ Two distinct figures bear the name Periclymenus in the sources: a shape-shifting
 
 Periclymenus's shape-shifting ability is described in remarkable detail across the sources, more so than any other shape-shifter except [Proteus](../deities/proteus.md).
 
-The [Catalogue of Women](../sources/hesiod.md) gives the fullest account of his gift: "earth-shaking Poseidon gave him all manner of gifts. At one time he would appear among birds, an eagle; and again at another he would be an ant, a marvel to see; and then a shining swarm of bees; and again at another time a dread relentless snake. And he possessed all manner of gifts which cannot be told."[^hes-gifts]
+The [Catalogue of Women](../sources/theogony.md) gives the fullest account of his gift: "earth-shaking Poseidon gave him all manner of gifts. At one time he would appear among birds, an eagle; and again at another he would be an ant, a marvel to see; and then a shining swarm of bees; and again at another time a dread relentless snake. And he possessed all manner of gifts which cannot be told."[^hes-gifts]
 
 [Apollodorus](../sources/apollodorus.md) states simply that "Poseidon granted the power of changing his shape."[^apd-power] The [Argonautica](../sources/argonautica.md) specifies that Poseidon "had given him boundless strength and granted him that whatever shape he should crave during the fight, that he should take in the stress of battle."[^arg-power]
 
@@ -52,7 +52,7 @@ Nestor concludes bitterly: "why should I sing the praise of Hercules? But for my
 
 ### As Argonaut
 
-Multiple sources list Periclymenus among the [Argonauts](../events/argonautica-voyage.md). Apollodorus includes "Periclymenus, son of Neleus" in the crew list.[^apd-argonaut] [Apollonius](../sources/argonautica.md) calls him "Neleian Periclymenus... eldest of all the sons of godlike Neleus who were born at Pylos."[^arg-argonaut] Hyginus lists him as "Periclymenus, son of Neleus and Chloris, daughter of Amphion and Niobe; he was from Pylos."[^hyg-argonaut]
+Multiple sources list Periclymenus among the Argonauts. Apollodorus includes "Periclymenus, son of Neleus" in the crew list.[^apd-argonaut] [Apollonius](../sources/argonautica.md) calls him "Neleian Periclymenus... eldest of all the sons of godlike Neleus who were born at Pylos."[^arg-argonaut] Hyginus lists him as "Periclymenus, son of Neleus and Chloris, daughter of Amphion and Niobe; he was from Pylos."[^hyg-argonaut]
 
 ### In the Odyssey
 
@@ -97,8 +97,8 @@ A lost epic, the *Thebais*, also credited Periclymenus with killing Parthenopaeu
 ## Appearances
 
 ### Periclymenus of Pylos
-- **[Catalogue of Women](../sources/hesiod.md)** Fragment 10: Shape-shifting gifts from Poseidon; death at Heracles' hands with Athena's aid
-- **[Catalogue of Women](../sources/hesiod.md)** Fragment 11: Heracles slew eleven sons of Neleus; Nestor survived
+- **[Catalogue of Women](../sources/theogony.md)** Fragment 10: Shape-shifting gifts from Poseidon; death at Heracles' hands with Athena's aid
+- **[Catalogue of Women](../sources/theogony.md)** Fragment 11: Heracles slew eleven sons of Neleus; Nestor survived
 - **[Odyssey](../sources/odyssey.md)** 11.286: Listed among children of Neleus and Chloris
 - **[Argonautica](../sources/argonautica.md)** 1.156-160: Listed among the Argonauts with shape-shifting power
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.9: Shape-shifting power; forms taken; slain by Heracles
@@ -111,7 +111,7 @@ A lost epic, the *Thebais*, also credited Periclymenus with killing Parthenopaeu
 ### Periclymenus of Thebes
 - **[Phoenissae](../sources/euripides-phoenissae.md)**: Kills Parthenopaeus with a stone from the battlements
 - **[Bibliotheca](../sources/apollodorus.md)** 3.6.8: Kills Parthenopaeus (per Euripides); pursues Amphiaraus
-- **[Thebais](../sources/hesiod.md)** (lost): Credited with killing Parthenopaeus
+- **Thebais** (lost): Credited with killing Parthenopaeus
 
 [^hes-gifts]: "earth-shaking Poseidon gave him all manner of gifts. At one time he would appear among birds, an eagle; and again at another he would be an ant, a marvel to see; and then a shining swarm of bees; and again at another time a dread relentless snake. And he possessed all manner of gifts which cannot be told" (Catalogue of Women, Fragment 10, trans. H.G. Evelyn-White)
 [^apd-power]: "Poseidon granted the power of changing his shape" (Bibliotheca 1.9.9, trans. J.G. Frazer)

@@ -2,24 +2,24 @@
 
 | | |
 |---|---|
-| **Parents** | [Menelaus](../deities/menelaus.md) and [Helen](helen.md) |
+| **Parents** | [Menelaus](menelaus.md) and [Helen](helen.md) |
 | **Consorts** | [Neoptolemus](neoptolemus.md), [Orestes](orestes.md) |
 | **Known for** | Being a prize and pawn between suitors |
 | **First appearance** | [Odyssey](../sources/odyssey.md) Book 4 |
 
 ## Overview
 
-**Hermione** was the daughter of [Menelaus](../deities/menelaus.md) and [Helen](helen.md), born before the [Trojan War](../events/trojan-war.md). She became a focal point of succession disputes, being betrothed to [Neoptolemus](neoptolemus.md) before the war and later married to [Orestes](orestes.md) after his purification.
+**Hermione** was the daughter of [Menelaus](menelaus.md) and [Helen](helen.md), born before the [Trojan War](../events/trojan-war.md). She became a focal point of succession disputes, being betrothed to [Neoptolemus](neoptolemus.md) before the war and later married to [Orestes](orestes.md) after his purification.
 
 ## In the Odyssey
 
-When [Menelaus](../deities/menelaus.md) and [Helen](helen.md) were feasting in Sparta, they displayed Hermione before guests. She is described as beautiful: "Hermione, as fair as golden Aphrodite."[^od4-hermione]
+When [Menelaus](menelaus.md) and [Helen](helen.md) were feasting in Sparta, they displayed Hermione before guests. She is described as beautiful: "Hermione, as fair as golden Aphrodite."[^od4-hermione]
 
 [^od4-hermione]: "Hermione, as fair as golden Aphrodite. So they were feasting through the great vaulted hall" (Odyssey 4.129, trans. Butcher and Lang)
 
 ## In Euripides' Orestes
 
-When [Orestes](orestes.md) was pursued by the Furies for his matricide, he and [Electra](electra.md) took Hermione as a hostage. [Electra](electra.md) proposed seizing her while she visited [Clytaemnestra](clytaemnestra.md)'s tomb to pour libations. She advised [Orestes](orestes.md): "Seize her as a pledge as she is coming back" and to threaten her life if [Menelaus](../deities/menelaus.md) should move against them.[^orestes-hostage]
+When [Orestes](orestes.md) was pursued by the Furies for his matricide, he and [Electra](electra.md) took Hermione as a hostage. [Electra](electra.md) proposed seizing her while she visited [Clytemnestra](clytemnestra.md)'s tomb to pour libations. She advised [Orestes](orestes.md): "Seize her as a pledge as she is coming back" and to threaten her life if [Menelaus](menelaus.md) should move against them.[^orestes-hostage]
 
 [^orestes-hostage]: "Seize her as a pledge as she is coming back...thou oughtest to draw thy sword, and hold it to the neck of the virgin" (Euripides, Orestes, trans. T.A. Buckley)
 
@@ -29,7 +29,7 @@ When [Apollo](../deities/apollo.md) appeared and resolved the conflicts, he comm
 
 ## In Apollodorus
 
-According to [Apollodorus](../sources/apollodorus.md), Hermione was born to [Menelaus](../deities/menelaus.md) and [Helen](helen.md), and was betrothed to [Neoptolemus](neoptolemus.md) while he was at Troy.[^apd-birth] After the [Trojan War](../events/trojan-war.md), when [Neoptolemus](neoptolemus.md) carried her off, [Orestes](orestes.md) pursued them in madness and slew [Neoptolemus](neoptolemus.md) at Delphi.[^apd-neoptolemus] [Orestes](orestes.md) then married Hermione himself and ruled Argos, begetting [Tisamenus](tisamenus.md).[^apd-orestes-marriage]
+According to [Apollodorus](../sources/apollodorus.md), Hermione was born to [Menelaus](menelaus.md) and [Helen](helen.md), and was betrothed to [Neoptolemus](neoptolemus.md) while he was at Troy.[^apd-birth] After the [Trojan War](../events/trojan-war.md), when [Neoptolemus](neoptolemus.md) carried her off, [Orestes](orestes.md) pursued them in madness and slew [Neoptolemus](neoptolemus.md) at Delphi.[^apd-neoptolemus] [Orestes](orestes.md) then married Hermione himself and ruled Argos, begetting [Tisamenus](tisamenus.md).[^apd-orestes-marriage]
 
 [^apd-birth]: "Now Menelaus had by Helen a daughter Hermione and, according to some, a son Nicostratus" (Apollodorus, Bibliotheca 3.11.1, trans. J.G. Frazer)
 
@@ -43,8 +43,8 @@ According to [Apollodorus](../sources/apollodorus.md), Hermione was born to [Men
 
 ## Appearances
 
-- **[Odyssey](../sources/odyssey.md)** 4.129: Called fair as golden Aphrodite, displayed at [Menelaus](../deities/menelaus.md)' feast
-- **[Apollodorus](../sources/apollodorus.md)** 3.11.1: Mentioned as daughter of [Menelaus](../deities/menelaus.md) and [Helen](helen.md)
+- **[Odyssey](../sources/odyssey.md)** 4.129: Called fair as golden Aphrodite, displayed at [Menelaus](menelaus.md)' feast
+- **[Apollodorus](../sources/apollodorus.md)** 3.11.1: Mentioned as daughter of [Menelaus](menelaus.md) and [Helen](helen.md)
 - **[Apollodorus](../sources/apollodorus.md)** E.6.14: Carried off by [Neoptolemus](neoptolemus.md) and later avenged by [Orestes](orestes.md)
 - **[Apollodorus](../sources/apollodorus.md)** E.6.28: Married to [Orestes](orestes.md); mother of [Tisamenus](tisamenus.md)
 - **Euripides, Orestes**: Taken hostage by [Orestes](orestes.md) and [Electra](electra.md); betrothed to [Orestes](orestes.md) by [Apollo](../deities/apollo.md)

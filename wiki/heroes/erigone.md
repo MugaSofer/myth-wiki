@@ -2,13 +2,13 @@
 
 | | |
 |---|---|
-| **Parents** | [Aegisthus](aegisthus.md) and [Clytaemnestra](clytaemnestra.md) |
+| **Parents** | [Aegisthus](aegisthus.md) and [Clytemnestra](clytemnestra.md) |
 | **Known for** | Daughter of the murderers of Agamemnon; brought Orestes to trial |
 | **First appearance** | [Bibliotheca](../sources/apollodorus.md) E.6.25 |
 
 ## Overview
 
-**Erigone** was the daughter of [Aegisthus](aegisthus.md) and [Clytaemnestra](clytaemnestra.md), the pair who murdered [Agamemnon](../heroes/agamemnon.md) and seized the throne of [Mycenae](../places/mycenae.md). After [Orestes](../heroes/orestes.md) killed both his mother and her lover in revenge, Erigone pursued him through the courts, bringing him to trial for their murders.
+**Erigone** was the daughter of [Aegisthus](aegisthus.md) and [Clytemnestra](clytemnestra.md), the pair who murdered [Agamemnon](../heroes/agamemnon.md) and seized the throne of [Mycenae](../places/mycenae.md). After [Orestes](../heroes/orestes.md) killed both his mother and her lover in revenge, Erigone pursued him through the courts, bringing him to trial for their murders.
 
 ## In the Bibliotheca
 

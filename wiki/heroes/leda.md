@@ -4,7 +4,7 @@
 |---|---|
 | **Parents** | [Thestius](thestius.md) |
 | **Consort** | [Tyndareus](tyndareus.md) |
-| **Children** | [Helen](helen.md), [Clytaemnestra](clytaemnestra.md), [Castor](castor.md), [Polydeuces](polydeuces.md) (Pollux) |
+| **Children** | [Helen](helen.md), [Clytemnestra](clytemnestra.md), [Castor](castor.md), [Polydeuces](polydeuces.md) (Pollux) |
 | **Known for** | Mother of [Helen](helen.md) and the Dioscuri; seduction by [Zeus](../deities/zeus.md) in the form of a swan |
 | **First appearance** | [Apollodorus](../sources/apollodorus.md) Bibliotheca 3.10.5 |
 
@@ -60,8 +60,8 @@ A fragment attributed to Hesiod presents yet another version: "Hesiod, however, 
 
 ## Appearances
 
-- **[Apollodorus](../sources/apollodorus.md)** 3.10.5: Marries [Tyndareus](tyndareus.md) after he flees [Lacedaemon](../places/lacedaemon.md)
-- **[Apollodorus](../sources/apollodorus.md)** 3.10.6: Mother of [Clytaemnestra](clytaemnestra.md) and [Timandra](timandra.md) by [Tyndareus](tyndareus.md), and (with variant traditions) of [Helen](helen.md)
-- **[Apollodorus](../sources/apollodorus.md)** 3.10.7: Seduced by [Zeus](../deities/zeus.md) in the form of a swan; mother of [Pollux](polydeuces.md) and [Helen](helen.md) by Zeus, and [Castor](castor.md) and [Clytaemnestra](clytaemnestra.md) by [Tyndareus](tyndareus.md)
+- **[Apollodorus](../sources/apollodorus.md)** 3.10.5: Marries [Tyndareus](tyndareus.md) after he flees [Lacedaemon](../places/sparta.md)
+- **[Apollodorus](../sources/apollodorus.md)** 3.10.6: Mother of [Clytemnestra](clytemnestra.md) and [Timandra](timandra.md) by [Tyndareus](tyndareus.md), and (with variant traditions) of [Helen](helen.md)
+- **[Apollodorus](../sources/apollodorus.md)** 3.10.7: Seduced by [Zeus](../deities/zeus.md) in the form of a swan; mother of [Pollux](polydeuces.md) and [Helen](helen.md) by Zeus, and [Castor](castor.md) and [Clytemnestra](clytemnestra.md) by [Tyndareus](tyndareus.md)
 - **Hesiod Fragments**: Described as "neat-ankled"; mother of the Dioscuri at Mount Taygetus
-- **[Hesiod](../sources/hesiod.md), Homeric Hymn XXXIII to the Dioscuri**: Mother of [Castor](castor.md) and [Polydeuces](polydeuces.md)
+- **[Homeric Hymn XXXIII](../sources/homeric-hymns.md) to the Dioscuri**: Mother of [Castor](castor.md) and [Polydeuces](polydeuces.md)
