@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**285 pages** across 8 categories, drawing from **33 primary sources**.
+**286 pages** across 8 categories, drawing from **33 primary sources**.
 
 ---
 
@@ -34,7 +34,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## [Places](places/)
 
-19 pages. Locations in the divine and mortal worlds.
+20 pages. Locations in the divine and mortal worlds.
 
 [Olympus](places/olympus.md) · [Tartarus](places/tartarus.md) · [Troy](places/troy.md) · [Thebes](places/thebes.md) · [Sparta](places/sparta.md) · [Argos](places/argos.md) · [Athens](places/athens.md) · [Colchis](places/colchis.md) and [more...](places/)
 
