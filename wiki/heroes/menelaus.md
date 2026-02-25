@@ -58,6 +58,24 @@ After Troy's fall, Menelaus reached Egypt and encountered Proteus, "the propheti
 
 Proteus revealed that "the gods were angry because Troy had been taken, and on that account an offering should be made which the Greeks call hekatombe, a hundred animals being slain. And so Menelaus offered a hekatombe. Then at length, the eighth year after he left Troy, he returned home with Helen."[^hyg-118-hekatombe]
 
+## In the [Posthomerica](../sources/posthomerica.md)
+
+### Testing Greek Resolve (Book VI)
+
+When [Eurypylus](eurypylus.md) arrived with his massive Ceteian host and the Trojan cause seemed to be turning, Menelaus tested the Greeks' resolve by proposing retreat. [Diomedes](diomedes.md) rebuked him sharply, and the Greeks held firm.[^post-test]
+
+### Killing Deiphobus (Book XIII)
+
+During the sack of [Troy](../places/troy.md), Menelaus burst into [Helen](helen.md)'s chamber and "found, heavy with wine, ill-starred [Deiphobus](deiphobus.md), and slew him with the sword." Helen had fled. Menelaus exulted over the corpse: "Dog! I, even I have dealt thee unwelcome death this day!... though thou vaunt thyself spouse of the child of [Zeus](../deities/zeus.md) the thunder-voiced!" He invoked [Themis](../deities/themis.md)'s justice: "wicked men never elude pure Themis: night and day her eyes are on them." Then he passed on, "dealing merciless death to foes, for maddened was his soul with jealousy."[^post-deiphobus]
+
+### Reunion with Helen (Book XIV)
+
+As the Greeks led the captive Trojan women to the ships, "amidst of these Menelaus led his wife forth of the burning city, having wrought a mighty triumph — joy and shame were his." That night, unable to sleep, "the Cyprian Queen brooded above their souls, that olden love might be renewed, and heart-ache chased away." Helen pleaded her innocence; Menelaus answered: "No more remember past griefs: seal them up hid in thine heart. Let all be locked within the dim dark mansion of forgetfulness." They embraced and clung together "as a vine and ivy entwine their stems."[^post-reunion]
+
+[^post-test]: Posthomerica 6. Menelaus proposes retreat; Diomedes rebukes him.
+[^post-deiphobus]: "in Helen's bower found, heavy with wine, ill-starred Deiphobus, and slew him with the sword... Dog! I, even I have dealt thee unwelcome death this day!... wicked men never elude pure Themis: night and day her eyes are on them" (Posthomerica 13.9789-9808, trans. A.S. Way)
+[^post-reunion]: "Menelaus led his wife forth of the burning city, having wrought a mighty triumph — joy and shame were his... No more remember past griefs: seal them up hid in thine heart... as a vine and ivy entwine their stems each around other, that no might of wind avails to sever them" (Posthomerica 14.10053-10239)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Single combat with Paris; nearly kills him; [Aphrodite](../deities/aphrodite.md) rescues Paris
@@ -77,6 +95,10 @@ Proteus revealed that "the gods were angry because Troy had been taken, and on t
 - **[Fabulae](../sources/hyginus.md)** §118: Menelaus binds Proteus in Egypt; offers hekatombe; returns home after eight years
 - **[Orestes](../sources/euripides-orestes.md)**: Arrives from Troy; refuses to defend Orestes by force against Tyndarus and the Argives; Orestes calls him "a mere cipher in other things except in warring for the sake of a woman"; Helen vanishes during attack; Apollo commands him to rule Sparta
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Intercepts Agamemnon's letter; quarrels over sacrifice; then reverses and urges Agamemnon to spare Iphigenia — "I recommend you neither to slay your child, nor to take my part"; too late, as Calchas and the army will force it
+- **[Posthomerica](../sources/posthomerica.md)** VI: Tests Greek resolve by proposing retreat; rebuked by [Diomedes](diomedes.md)
+- **[Posthomerica](../sources/posthomerica.md)** XII: Enters the Wooden Horse (second after [Neoptolemus](neoptolemus.md))
+- **[Posthomerica](../sources/posthomerica.md)** XIII: Kills [Deiphobus](deiphobus.md) in [Helen](helen.md)'s chamber; invokes [Themis](../deities/themis.md)'s justice; "maddened was his soul with jealousy"
+- **[Posthomerica](../sources/posthomerica.md)** XIV: Leads Helen from the burning city; reconciled that night; "as a vine and ivy entwine their stems"
 
 [^apd-marriage]: "Tyndareus put the suitors on their oath, and while he chose Menelaus to be the bridegroom of Helen, he solicited Icarius to bestow Penelope on Ulysses" (Bibliotheca 3.10.9, trans. J.G. Frazer)
 [^apd-hermione]: "Menelaus had by Helen a daughter Hermione" (Bibliotheca 3.11.1, trans. J.G. Frazer)
