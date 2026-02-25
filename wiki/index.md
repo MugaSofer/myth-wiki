@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**298 pages** across 8 categories, drawing from **34 primary sources**.
+**299 pages** across 8 categories, drawing from **34 primary sources**.
 
 ---
 
@@ -22,7 +22,9 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## [Heroes](heroes/)
 
-118 pages. Mortals and semi-divine figures.
+119 pages. Mortals and semi-divine figures.
+
+**Groups:** [Amazons](heroes/groups/amazons.md)
 
 [Heracles](heroes/heracles.md) · [Achilles](heroes/achilles.md) · [Odysseus](heroes/odysseus.md) · [Perseus](heroes/perseus.md) · [Theseus](heroes/theseus.md) · [Jason](heroes/jason.md) · [Agamemnon](heroes/agamemnon.md) · [Hector](heroes/hector.md) · [Helen](heroes/helen.md) · [Oedipus](heroes/oedipus.md) · [Medea](heroes/medea.md) · [Orpheus](heroes/orpheus.md) · [Antigone](heroes/antigone.md) · [Clytemnestra](heroes/clytemnestra.md) · [Orestes](heroes/orestes.md) · [Electra](heroes/electra.md) · [Ajax](heroes/ajax.md) · [Patroclus](heroes/patroclus.md) · [Priam](heroes/priam.md) · [Diomedes](heroes/diomedes.md) and [many more...](heroes/)
 
