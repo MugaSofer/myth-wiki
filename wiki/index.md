@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**277 pages** across 8 categories, drawing from **33 primary sources**.
+**278 pages** across 8 categories, drawing from **33 primary sources**.
 
 ---
 
