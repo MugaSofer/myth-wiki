@@ -330,6 +330,23 @@ On the voyage to Troy, Odysseus comforts the love-struck Achilles with a speech 
 [^ach-reveal]: "Why dost thou hesitate? We know thee, thou art the pupil of the half-beast Chiron, thou art the grandson of the sky and sea... he seemed to surpass by head and shoulders the Ithacan and the Aetolian chief" (Achilleid 1.866-880, trans. J.H. Mozley)
 [^ach-speech]: Achilleid 2.49-85. Odysseus comforts and inspires Achilles on the voyage to Troy.
 
+## In Sophocles' [Ajax](../sources/sophocles-ajax.md)
+
+### Pity for the Maddened Ajax
+
+In the prologue, [Athena](../deities/athena.md) reveals to Odysseus what [Ajax](ajax.md) has done in the night — slaughtering livestock in a frenzy, believing them the Greek commanders. She summons the still-deranged Ajax to display his madness. Despite their bitter rivalry, Odysseus responds with pity rather than triumph: "I pity him, for all that he is my foe, seeing he is bound fast to a dreadful doom. I think of mine own lot no less than his. For I see well, none of us that live are more than phantoms all, or empty shadow."[^soph-od-pity]
+
+### Magnanimity in the Burial Dispute
+
+After Ajax's suicide, [Menelaus](menelaus.md) and [Agamemnon](agamemnon.md) attempt to deny Ajax burial. [Teucer](teucer.md) defends his brother but cannot overcome the two kings' authority. Odysseus arrives and surprises everyone by arguing for burial, telling Agamemnon: "Be not so hard thus without ruth tombless to cast him forth; nor be so vanquished by a vehement will, that to thy hate even Justice' self must bow." He acknowledges Ajax was his worst enemy, but insists: "save Achilles' self, I have not seen so noble an Argive on the fields of Troy."[^soph-od-noble] When Agamemnon resists, Odysseus delivers the play's central moral: "Hatred gives way to magnanimity."[^soph-od-mag]
+
+Agamemnon yields reluctantly. Teucer praises Odysseus as "best of men" — his "worst thought" of Odysseus "foiled by thy staunch kindness to the man who was thy rancorous foe" — but declines his offer to help with the rites, fearing it might offend Ajax's spirit. Odysseus accepts gracefully.[^soph-od-best]
+
+[^soph-od-pity]: "I pity him, for all that he is my foe, seeing he is bound fast to a dreadful doom. I think of mine own lot no less than his. For I see well, none of us that live are more than phantoms all, or empty shadow" (Sophocles, Ajax, trans. Lewis Campbell)
+[^soph-od-noble]: "save Achilles' self, I have not seen so noble an Argive on the fields of Troy. Then 'twere not just in thee to slight him now" (Sophocles, Ajax)
+[^soph-od-mag]: "Hatred gives way to magnanimity" (Sophocles, Ajax)
+[^soph-od-best]: "Odysseus, best of men, thine every word hath my heart's praise, and my worst thought of thee is foiled by thy staunch kindness to the man who was thy rancorous foe" (Sophocles, Ajax)
+
 ## In the [Posthomerica](../sources/posthomerica.md)
 
 ### Defence of Achilles' Body (Book III)
@@ -431,6 +448,7 @@ Odysseus leads the heroes out of the horse after Sinon's signal (see above), res
 - **[Hecuba](../sources/euripides-hecuba.md)**: Persuades Greeks to sacrifice Polyxena at Achilles' tomb; Hecuba reminds him she saved his life as a spy in Troy; acknowledges the debt but insists on honoring the dead; "that subtle adviser, that babbling knave, honeyed in speech, pleasing to the populace"
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Called "son of Sisyphus" (alternate parentage tradition); will lead the mob to seize [Iphigenia](iphigenia.md); "chosen willingly" to conduct her to sacrifice; represents the dangerous power of the multitude
 - **[Achilleid](../sources/achilleid.md)** 1.538-960, 2.1-85: Sails to Scyros with Diomedes to retrieve Achilles; enters Lycomedes' court under false pretence; spots Achilles among the maidens; plants weapons among gifts; whispers the revelation; comforts Achilles on the voyage to Troy
+- **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Pities maddened Ajax — "none of us that live are more than phantoms all, or empty shadow"; argues for Ajax's burial against Menelaus and Agamemnon; "Hatred gives way to magnanimity"; praised by Teucer as "best of men"
 - **[Posthomerica](../sources/posthomerica.md)** III: Fights beside Ajax to defend Achilles' body; kills Maenalus, Atymnius, and Proteus; wounded in the right knee by Alcon but fights on
 - **[Posthomerica](../sources/posthomerica.md)** IV: Sidelined from the funeral games by Alcon's wound
 - **[Posthomerica](../sources/posthomerica.md)** V: Contest of Arms with Ajax — proposes Trojan captives as judges; defends himself against Ajax's charges; wins the arms; Ajax is driven mad

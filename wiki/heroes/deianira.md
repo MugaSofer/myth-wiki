@@ -7,11 +7,53 @@
 | **Children** | Hyllus, Ctesippus, Glenus, Onites |
 | **Homeland** | Calydon |
 | **Known for** | Unwitting cause of Heracles' death |
-| **First appearance** | [Bibliotheca](../sources/apollodorus.md) |
+| **First appearance** | [Sophocles, Trachiniae](../sources/sophocles-trachiniae.md) (earliest dramatic treatment) |
 
 ## Overview
 
 **Deianira** was the daughter of Oeneus of Calydon and the wife of [Heracles](heracles.md). She is best known for inadvertently causing her husband's death by sending him a tunic smeared with the poisoned blood of the centaur Nessus, believing it to be a love charm.
+
+## In Sophocles' [Trachiniae](../sources/sophocles-trachiniae.md)
+
+Sophocles' Trachiniae gives the fullest dramatic portrait of Deianira.
+
+### Early Life and Courtship
+
+Deianira recalls that the river-god Achelous courted her "in three forms; now in his own bull-likeness, now a serpent of coiling sheen, and now with manlike build but bovine front, while from the shadowy beard sprang fountain-waters in perpetual spray."[^soph-tr-achelous] She dreaded such a husband and "still prayed that Death might find me, ere I knew that nuptial."[^soph-tr-death-wish] [Heracles](heracles.md) came and defeated Achelous, freeing her — but marriage to Heracles has brought its own torment.
+
+### Anxiety and the Prophecy
+
+Since marrying Heracles, Deianira's life has been "one continual terror for his fate. Night brings him, and, ere morning, some fresh toil drives him afar."[^soph-tr-terror] She compares him to "some strange husbandman that farms a distant field, finds but at sowing time and once in harvest."
+
+Before his latest departure, Heracles left a scroll — "Which Heracles had never heretofore, in former labours, cared to let me see, as bound for bright achievement, not for death" — setting out his will and a prophecy: "either he must die, or, this one feat performed, his following time should grace his life with fair prosperity." The oracle came from "the ancient oak-tree... in high Dodona through the sacred Doves."[^soph-tr-prophecy]
+
+### Compassion for the Captives
+
+When the captive women from Oechalia arrive, Deianira pities them — especially the silent [Iole](iole.md): "Poor friendless beings, in a foreign land wandering forlorn in homeless orphanhood! Erewhile, free daughters of a freeborn race, now, snared in strong captivity for life."[^soph-tr-pity] She prays she may never see [Zeus](../deities/zeus.md) turn so cruelly against her own children.
+
+### Response to the Truth
+
+When the messenger reveals that Heracles sacked Oechalia solely for love of Iole, Deianira confronts Lichas with remarkable composure: "Love leads even Immortals at his will, and me. Then how not others, like to me? 'Twere madness, sure, in me to blame my lord when this hath caught him, or the woman there, his innocent accomplice in a thing, no shame to either, and no harm to me."[^soph-tr-composure]
+
+### The Robe and the Discovery
+
+Deianira sends the robe smeared with Nessus's blood, believing it a love-charm. But then she notices the wool she used to apply it: "the stuff wherewith I dressed that robe, a flock of soft and milkwhite wool, is shrivelled out of sight, not gnawn by tooth of any creature here, but, self-consumed, frittered and wasting on the courtyard-stones."[^soph-tr-wool] She realises with horror that the centaur's gift was revenge, not kindness: "wherefore should the Centaur, for what end, show kindness to the cause for whom he died? That cannot be."[^soph-tr-realisation] She resolves that "if aught harm him, my death shall follow in the self-same hour."[^soph-tr-resolve]
+
+### Suicide
+
+When [Hyllus](hyllus.md) returns and accuses her of murder, Deianira withdraws in silence. The nurse describes her death: she wandered through the house weeping over familiar objects, then sat on the marriage-bed and cried: "Farewell, my bridal bed, for never more shalt thou give me the comfort I have known thee give."[^soph-tr-farewell] She stabbed herself with a sword. Hyllus, learning too late that she had acted from the centaur's deception, "groaned forth that he had slain her with false breath of evil accusation, and was left orphaned of both, his mother and his sire."[^soph-tr-hyllus-grief]
+
+[^soph-tr-achelous]: "a river-god, swift Achelôüs, was my suitor there and sought me from my father in three forms; now in his own bull-likeness, now a serpent of coiling sheen, and now with manlike build but bovine front, while from the shadowy beard sprang fountain-waters in perpetual spray" (Sophocles, Trachiniae, trans. Lewis Campbell)
+[^soph-tr-death-wish]: "Looking for such a husband, I, poor girl! still prayed that Death might find me, ere I knew that nuptial" (Sophocles, Trachiniae)
+[^soph-tr-terror]: "since, assigned by that day's conquest, I have known the couch of Heracles, my life is spent in one continual terror for his fate. Night brings him, and, ere morning, some fresh toil drives him afar" (Sophocles, Trachiniae)
+[^soph-tr-prophecy]: "either he must die, or, this one feat performed, his following time should grace his life with fair prosperity... So once the ancient oak-tree had proclaimed in high Dodona through the sacred Doves" (Sophocles, Trachiniae)
+[^soph-tr-pity]: "Poor friendless beings, in a foreign land wandering forlorn in homeless orphanhood! Erewhile, free daughters of a freeborn race, now, snared in strong captivity for life" (Sophocles, Trachiniae)
+[^soph-tr-composure]: "Love leads even Immortals at his will, and me. Then how not others, like to me? 'Twere madness, sure, in me to blame my lord when this hath caught him, or the woman there, his innocent accomplice" (Sophocles, Trachiniae)
+[^soph-tr-wool]: "the stuff wherewith I dressed that robe, a flock of soft and milkwhite wool, is shrivelled out of sight, not gnawn by tooth of any creature here, but, self-consumed, frittered and wasting on the courtyard-stones" (Sophocles, Trachiniae)
+[^soph-tr-realisation]: "wherefore should the Centaur, for what end, show kindness to the cause for whom he died? That cannot be. But seeking to destroy his slayer, he cajoled me" (Sophocles, Trachiniae)
+[^soph-tr-resolve]: "my resolve is firm, if aught harm him, my death shall follow in the self-same hour. She cannot bear to live in evil fame, who cares to have a nature pure from ill" (Sophocles, Trachiniae)
+[^soph-tr-farewell]: "Farewell, my bridal bed, for never more shalt thou give me the comfort I have known thee give" (Sophocles, Trachiniae)
+[^soph-tr-hyllus-grief]: "he had slain her with false breath of evil accusation, and was left orphaned of both, his mother and his sire" (Sophocles, Trachiniae)
 
 ## In the Bibliotheca
 
@@ -96,6 +138,7 @@ She gave the tunic to Lichas "unknowingly" — emphasising her innocence in the 
 
 ## Appearances
 
+- **[Sophocles, Trachiniae](../sources/sophocles-trachiniae.md)**: Central figure of the first half; recalls Achelous's courtship in three monstrous forms; constant anxiety for Heracles; pities the captives, especially Iole; responds to Heracles' infidelity with dignity ("Love leads even Immortals at his will"); sends Nessus's robe as love-charm; discovers the wool dissolving; kills herself with a sword; Hyllus mourns her innocence
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.5: Won by Heracles after he wrestled Achelous
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.6: Attempted violation by Nessus; receives the poisoned love charm
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Sends the poisoned shirt to Heracles; hangs herself on learning the result

@@ -463,6 +463,24 @@ The hymn closes with a confirmation of Athena's unique birth: "no mother bare th
 [^call-ath-gifts]: "I will make him a seer to be sung of men hereafter, yea, more excellent than any other. He shall know the birds... Also will I give him a great staff which shall guide his feet as he hath need, and I will give him a long term of life. And he only, when he dies, shall walk among the dead having understanding, honoured of the great Leader of Peoples" (Hymn V 121-130)
 [^call-ath-birth]: "no mother bare that goddess, but the head of Zeus. The head of Zeus bows not in falsehood, and in falsehood his daughter hath no part" (Hymn V 133-135)
 
+## In Sophocles' Ajax
+
+### Driving Ajax Mad
+
+Athena is the central divine agent of [Sophocles' Ajax](../sources/sophocles-ajax.md). She explains to [Odysseus](../heroes/odysseus.md) that after [Ajax](../heroes/ajax.md) resolved to slaughter the Greek commanders in revenge for losing the arms contest, she intervened: "I turned delusive phantasies upon him, and launched him on the flocks and mingled droves yet unallotted, the herdsmen's spoil of war."[^soph-aj-athena-turn] She then redirected his fury onto the camp's livestock, so that he tortured cattle believing them to be his enemies.
+
+### Displaying Ajax's Madness
+
+Athena summons the still-deranged Ajax before Odysseus so that Odysseus can witness his rival's degradation. She addresses the mad Ajax cheerfully, asking him about his captives. Ajax, in his delusion, describes Odysseus as his bound prisoner whom he is whipping. Athena displays his madness as a deliberate spectacle. Though Odysseus is Ajax's enemy, he responds with pity and dread: "I pity him, for all that he is my foe... I think of mine own lot no less than his. For I see well, none of us that live are more than phantoms all, or empty shadow."[^soph-aj-athena-pity]
+
+### The Moral
+
+After dismissing Ajax back into his tent, Athena delivers the play's governing moral to Odysseus: "See then, and utter thou no swelling speech against the gods, nor take upon thee any boast of pride, though thou prevail in might of hand, or height of deep-piled wealth. A day can press down all things human, and a day can raise them up. The wise of heart are those whom Heaven loves, but the perverse are hated."[^soph-aj-athena-moral]
+
+[^soph-aj-athena-turn]: "I turned delusive phantasies upon him, and launched him on the flocks and mingled droves yet unallotted, the herdsmen's spoil of war" (Sophocles, Ajax, trans. Lewis Campbell)
+[^soph-aj-athena-pity]: "I pity him, for all that he is my foe, seeing he is bound fast to a dreadful doom. I think of mine own lot no less than his. For I see well, none of us that live are more than phantoms all, or empty shadow" (Sophocles, Ajax)
+[^soph-aj-athena-moral]: "See then, and utter thou no swelling speech against the gods, nor take upon thee any boast of pride, though thou prevail in might of hand, or height of deep-piled wealth. A day can press down all things human, and a day can raise them up. The wise of heart are those whom Heaven loves, but the perverse are hated" (Sophocles, Ajax)
+
 ## Appearances
 
 - **[Callimachus, Hymns](../sources/callimachus-hymns.md)** V: Character — spurns perfume and mirrors; at the Judgment of Paris, used only olive oil while Aphrodite constantly primped; "Sacker of Cities, golden-helmeted"; blinding of Teiresias — he saw her bathing, she blinded him by divine law; compensated him with prophecy, guiding staff, long life, and full understanding in death; "no mother bare that goddess, but the head of Zeus"
@@ -546,6 +564,7 @@ The hymn closes with a confirmation of Athena's unique birth: "no mother bare th
 - **[Fabulae](../sources/hyginus.md)** §166: Vulcan granted choice from gods; Neptune urged him to ask for Minerva in marriage; defended virginity with arms in struggle; Vulcan's seed fell to earth producing Erichthonius (snake-formed below); gave him in chest to Cecrops's daughters; crow revealed secret; drove daughters mad; they threw themselves into sea
 - **[Iphigenia in Tauris](../sources/euripides-iphigenia-tauris.md)**: Deus ex machina; commands Thoas to release [Orestes](../heroes/orestes.md) and [Iphigenia](../heroes/iphigenia.md); has [Poseidon](poseidon.md) calm the sea; establishes cults at Halae (ritual blood-drawing) and Brauron (Iphigenia as guardian); broke tie vote at Areopagus trial
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: Arrives from Troy propelled by her aegis; establishes the [Areopagus](../places/areopagus.md); casts deciding vote to acquit [Orestes](../heroes/orestes.md); persuades the Furies to become the Eumenides; leads them in procession to their underground shrine; reveals she alone can access Zeus' thunderbolts
+- **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Drives Ajax mad after the arms contest, redirecting his fury onto livestock; displays his deranged state to Odysseus; delivers the play's moral — "A day can press down all things human, and a day can raise them up"
 
 [^apd-argo-timber]: "at the prow Athena fitted in a speaking timber from the oak of Dodona" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-dragon-teeth]: "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes" (Bibliotheca 1.9.23, trans. Frazer)

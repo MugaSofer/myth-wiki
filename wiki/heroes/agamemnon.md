@@ -117,6 +117,18 @@ Inside, Clytemnestra traps him in a robe-net and strikes him three times. His de
 
 The Chorus reflects that the curse of the house of [Atreus](../heroes/atreus.md) has come full circle: the feast of [Thyestes](../heroes/thyestes.md), the sacrifice of [Iphigenia](iphigenia.md), and now this murder are all links in a chain of vengeance.
 
+## In [Sophocles' Ajax](../sources/sophocles-ajax.md)
+
+After [Ajax](ajax.md)'s suicide, Agamemnon joins [Menelaus](menelaus.md) in opposing burial. He attacks [Teucer](teucer.md) personally, taunting him for his birth: "thou speak'st as if thou wert somebody — thou, the she-captive's offspring!"[^soph-aj-insult] He dismisses Teucer's standing by pointing to his mother Hesione's origins as a captured Trojan princess.
+
+Teucer retorts that Agamemnon's own grandfather Pelops "was a Phrygian" and that his father Atreus "served his brother with the abominable dire feast of his own flesh."[^soph-aj-retort] Teucer catalogues Ajax's battlefield services — defending the ships when Hector set fire to them, fighting Hector in single combat — as grounds for burial honours.
+
+[Odysseus](odysseus.md) then arrives and argues for burial. Agamemnon yields reluctantly when Odysseus insists that "Hatred gives way to magnanimity," but he makes clear the concession is Odysseus's rather than his own.[^soph-aj-agamemnon-yield]
+
+[^soph-aj-insult]: "thou speak'st as if thou wert somebody — thou, the she-captive's offspring!" (Sophocles, Ajax, trans. Lewis Campbell)
+[^soph-aj-retort]: "Who was thy father's father? A barbarian, Pelops, the Phrygian, if you trace him far! And what was Atreus, thine own father? One who served his brother with the abominable dire feast of his own flesh" (Sophocles, Ajax)
+[^soph-aj-agamemnon-yield]: "Hatred gives way to magnanimity" (Sophocles, Ajax). Agamemnon yields to Odysseus's argument but attributes the permission to Odysseus personally.
+
 ## In Aeschylus' Libation-Bearers
 
 In the *[Libation-Bearers](../sources/aeschylus-libation-bearers.md)*, Agamemnon is dead but his presence dominates the play. [Orestes](orestes.md) and [Electra](electra.md) perform a great invocation at his tomb, calling on his spirit for aid. Orestes imagines how his father would have wanted to die: "Ah my father! hadst thou lain under Ilion's wall, by some Lycian spearman slain, thou hadst left in this thine hall honour."[^lb-ilion] The murder-robe that killed him is displayed again by Orestes after the matricide.
@@ -137,6 +149,7 @@ In the *[Libation-Bearers](../sources/aeschylus-libation-bearers.md)*, Agamemnon
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Torn between love and duty; lures Iphigenia with false marriage to [Achilles](achilles.md); Menelaus and army compel sacrifice; Clytemnestra confronts him over first husband's murder; watches helplessly as Iphigenia volunteers to die; goddess substitutes a stag
 - **[Agamemnon](../sources/aeschylus-agamemnon.md)**: Returns with Cassandra; walks on purple tapestries; trapped in robe-net by Clytemnestra; killed with three blows; Chorus hears his death-cries
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Dead; his tomb is the site of the great invocation by Orestes and Electra; his murder-robe displayed
+- **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Attempts to block [Ajax](ajax.md)'s burial; insults [Teucer](teucer.md)'s birth ("she-captive's offspring"); yields reluctantly when [Odysseus](odysseus.md) argues for magnanimity
 
 [^apd-parentage]: "Aerope became the wife of Plisthenes, who begat Agamemnon and Menelaus" (Bibliotheca 3.2.2, trans. J.G. Frazer)
 [^apd-sun]: "Zeus sent Hermes to Atreus and told him to stipulate with Thyestes that Atreus should be king if the sun should go backward; and when Thyestes agreed, the sun set in the east" (Bibliotheca E.2.12, trans. J.G. Frazer)

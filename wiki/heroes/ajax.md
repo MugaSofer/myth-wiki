@@ -140,6 +140,68 @@ The fullest Pindaric account of Ajax's birth and naming appears in Isthmian V (s
 
 [^pin-ist5-naming]: "after the bird's name that had appeared unto them he said that the child's name should be the mighty Aias, terrible in the strife of warring hosts" (Pindar, Isthmian V, trans. Ernest Myers)
 
+## In Sophocles' Ajax
+
+Sophocles' [Ajax](../sources/sophocles-ajax.md) is the fullest dramatic treatment of the hero's final hours.
+
+### Athena's Display of Ajax's Madness
+
+The play opens after the judgment of [Achilles](achilles.md)' arms has already gone to [Odysseus](odysseus.md). In the night, Ajax armed himself and set out to kill the Greek commanders — but [Athena](../deities/athena.md) "turned delusive phantasies upon him" and redirected his fury onto the camp's livestock.[^soph-aj-phantasy] She summons the still-deranged Ajax before Odysseus, who watches in horror. Despite their rivalry, Odysseus responds with pity: "I pity him, for all that he is my foe... I think of mine own lot no less than his. For I see well, none of us that live are more than phantoms all, or empty shadow."[^soph-aj-pity]
+
+Athena draws a moral from the spectacle: "See then, and utter thou no swelling speech against the gods, nor take upon thee any boast of pride... A day can press down all things human, and a day can raise them up. The wise of heart are those whom Heaven loves, but the perverse are hated."[^soph-aj-athena-moral]
+
+### The Night's Events (Tecmessa's Account)
+
+[Tecmessa](tecmessa.md), Ajax's captive-wife, describes the night to the chorus. Ajax left armed in darkness, returned dragging sheep and cattle into the tent, and tortured them — "some he beheaded; some, wrenching back the throat, he cleft in twain; others, bound as they were, he kept assailing, wreaking on the cattle his wrath, as if they had been men."[^soph-aj-slaughter] He took a ram and lashed it to a pillar, beating it with a doubled horse-rein and cursing it as Odysseus.[^soph-aj-ram]
+
+### Ajax's Lament
+
+When Ajax emerges from the tent amid the carnage, lucid again, his first words are: "Darkness! my only light! / Gloom, to my soul more bright than sunniest sky! / Take, take me to your realm."[^soph-aj-darkness] He laments that his father [Telamon](telamon.md) "won the prime crown of valour before the Trojan walls," while he, who came "with no less might," is ruined: "trampled upon with foul indignity, / Thrust down from every honour."[^soph-aj-telamon]
+
+He considers returning home — impossible, since he cannot face his father empty-handed. He cannot fight on against Troy. He resolves on death: "For the brave man there's but one lot — to live with honour, or with honour die."[^soph-aj-honour]
+
+### The Deception Speech
+
+Ajax emerges again and speaks of yielding to the gods and to time: "all things dread and strong / Bow to authority. Winter's snowy roads / Yield to the mellow fruitage of the year."[^soph-aj-deception] He speaks of going to purify himself by the sea and burying his sword. The speech is deliberately ambiguous — the chorus rejoices, thinking he has relented, but Ajax is in fact preparing for death.
+
+### Suicide
+
+Alone on the seashore, Ajax plants [Hector](hector.md)'s sword upright in the earth. He prays to [Zeus](../deities/zeus.md) to send [Teucer](teucer.md) first to find and protect his body; to [Hermes](../deities/hermes.md) for easy passage to death; to the [Erinyes](../creatures/erinyes.md) to punish the Atreidae; and to [Helius](../deities/helius.md) to carry word of his death to his parents in [Salamis](../places/salamis.md). His final words: "O fair light! / O sacred fields of Salamis my home!... Ah, Troy! and ye proud Trojan men-at-arms, / Know all my greatness, whom ye have given to die!"[^soph-aj-death] He falls on the sword.
+
+### Hector's Sword
+
+[Teucer](teucer.md), lamenting over the body, reflects on the fateful exchange of gifts after the duel between Ajax and [Hector](hector.md): "This was Hector's gift... the sword he fell on. The gird he gave to Hector was the gird / Whence bound unto the rail he hung and rolled / And ever was chafed, till he gave up the ghost."[^soph-aj-gifts] Both gifts proved deadly to their recipients.
+
+### The Burial Dispute
+
+[Menelaus](menelaus.md) arrives and forbids burial, declaring Ajax an insubordinate enemy. Teucer defies him: Ajax came to [Troy](../places/troy.md) as a free commander, not Menelaus's subject.[^soph-aj-teucer-defiance]
+
+[Agamemnon](agamemnon.md) then joins, insulting Teucer's birth — his mother [Hesione](hesione.md) was a captive — calling him the son of a "she-captive" and a "barbarous" mother.[^soph-aj-agamemnon] Teucer retorts that Agamemnon's own grandfather Pelops was "a barbarian, a Phrygian," and his father Atreus served his brother the "abominable dire feast of his own flesh."[^soph-aj-teucer-retort] He catalogues Ajax's battlefield deeds — defending the ships when Hector reached them, fighting Hector in single combat — and threatens to die defending the body.
+
+### Odysseus's Intervention
+
+[Odysseus](odysseus.md) arrives and, to general surprise, argues for burial: "Be not so hard thus without ruth tombless to cast him forth; nor be so vanquished by a vehement will, that to thy hate even Justice' self must bow."[^soph-aj-odysseus1] He acknowledges Ajax was his worst enemy but declares him, "save Achilles' self," the noblest Argive at Troy. When Agamemnon protests, Odysseus delivers the play's moral centre-point: "Hatred gives way to magnanimity."[^soph-aj-magnanimity]
+
+Agamemnon yields reluctantly. Teucer praises Odysseus as "best of men" but declines his offer to help with the rites, fearing it might offend Ajax's spirit. Odysseus accepts gracefully.[^soph-aj-best]
+
+[^soph-aj-phantasy]: "I turned delusive phantasies upon him, and launched him on the flocks and mingled droves yet unallotted, the herdsmen's spoil of war" (Sophocles, Ajax, trans. Lewis Campbell)
+[^soph-aj-pity]: "I pity him, for all that he is my foe, seeing he is bound fast to a dreadful doom. I think of mine own lot no less than his. For I see well, none of us that live are more than phantoms all, or empty shadow" (Sophocles, Ajax)
+[^soph-aj-athena-moral]: "See then, and utter thou no swelling speech against the gods, nor take upon thee any boast of pride... A day can press down all things human, and a day can raise them up. The wise of heart are those whom Heaven loves, but the perverse are hated" (Sophocles, Ajax)
+[^soph-aj-slaughter]: "some he beheaded; some, wrenching back the throat, he cleft in twain; others, bound as they were, he kept assailing, wreaking on the cattle his wrath, as if they had been men" (Sophocles, Ajax)
+[^soph-aj-ram]: Sophocles, Ajax. He "lashed him to a pillar, with a horse-rein doubled" and beat the ram, cursing it "with words no mortal, but a fiend had taught him"
+[^soph-aj-darkness]: "Darkness! my only light! / Gloom, to my soul more bright than sunniest sky! / Take, take me to your realm" (Sophocles, Ajax)
+[^soph-aj-telamon]: "my father won the prime crown of valour before the Trojan walls, and came back laden with fair renown: while I, his son, who came to the same field with no less might... am trampled upon with foul indignity, thrust down from every honour" (Sophocles, Ajax)
+[^soph-aj-honour]: "For the brave man there's but one lot — to live with honour, or with honour die" (Sophocles, Ajax)
+[^soph-aj-deception]: "all things dread and strong / Bow to authority. Winter's snowy roads / Yield to the mellow fruitage of the year" (Sophocles, Ajax)
+[^soph-aj-death]: "O fair light! / O sacred fields of Salamis my home!... Ah, Troy! and ye proud Trojan men-at-arms, / Know all my greatness, whom ye have given to die!" (Sophocles, Ajax)
+[^soph-aj-gifts]: Sophocles, Ajax. Teucer reflects on the exchange of gifts between Ajax and Hector: both proved fatal to their recipients.
+[^soph-aj-teucer-defiance]: Sophocles, Ajax. Teucer: "Ajax sailed not in Menelaus's service, but as a free commander"
+[^soph-aj-agamemnon]: "Thou, the she-captive's offspring!... Were but thy mother noble" (Sophocles, Ajax)
+[^soph-aj-teucer-retort]: "Who was thy father's father? A barbarian, Pelops, the Phrygian, if you trace him far! And what was Atreus, thine own father? One who served his brother with the abominable dire feast of his own flesh" (Sophocles, Ajax)
+[^soph-aj-odysseus1]: "Be not so hard thus without ruth tombless to cast him forth; nor be so vanquished by a vehement will, that to thy hate even Justice' self must bow" (Sophocles, Ajax)
+[^soph-aj-magnanimity]: "Hatred gives way to magnanimity" (Sophocles, Ajax)
+[^soph-aj-best]: "Odysseus, best of men, thine every word hath my heart's praise, and my worst thought of thee is foiled by thy staunch kindness to the man who was thy rancorous foe" (Sophocles, Ajax)
+
 ## In the Posthomerica
 
 ### Defence of Achilles' Body (Book III)
@@ -186,6 +248,7 @@ Teucer nearly killed himself in grief. [Tecmessa](tecmessa.md), his captive-brid
 - **[Pindar](../sources/pindar.md)**, Nemean VII: Homer's fame for Odysseus exceeds justice; "never would stalwart Aias... have struck through his midriff the sharp sword" had the truth been known; "after Achilles was best in battle of all men"
 - **[Pindar](../sources/pindar.md)**, Nemean VIII: "Envy slay the son of Telamon, thrusting him through with his own sword"; the Danaoi voted secretly to favour Odysseus and robbed him of the golden arms
 - **[Pindar](../sources/pindar.md)**, Isthmian V: Named Aias after the eagle (*aietos*) sent by Zeus in response to [Heracles](heracles.md)'s prayer; "terrible in the strife of warring hosts"
+- **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Athena displays his madness to Odysseus; Tecmessa describes the night's slaughter; "Darkness! my only light!"; deception speech; suicide on Hector's sword; burial dispute (Menelaus, Agamemnon vs Teucer); Odysseus argues for burial — "Hatred gives way to magnanimity"
 - **[Posthomerica](../sources/posthomerica.md)** III: Bestrides Achilles' body; kills Glaucus; wounds Aeneas; routs entire Trojan host; carries the body to the ships
 - **[Posthomerica](../sources/posthomerica.md)** IV: Wins discus at funeral games; wrestles Diomedes (loses by craft); challenges for the arms
 - **[Posthomerica](../sources/posthomerica.md)** V: Claims arms by deeds; Trojan captives judge for Odysseus; Athena sends madness; slaughters sheep thinking them Greeks; kills himself with Hector's sword through the throat; mourned by Teucer, Tecmessa, Odysseus; buried at Rhoeteium

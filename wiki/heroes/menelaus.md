@@ -76,6 +76,15 @@ As the Greeks led the captive Trojan women to the ships, "amidst of these Menela
 [^post-deiphobus]: "in Helen's bower found, heavy with wine, ill-starred Deiphobus, and slew him with the sword... Dog! I, even I have dealt thee unwelcome death this day!... wicked men never elude pure Themis: night and day her eyes are on them" (Posthomerica 13.9789-9808, trans. A.S. Way)
 [^post-reunion]: "Menelaus led his wife forth of the burning city, having wrought a mighty triumph — joy and shame were his... No more remember past griefs: seal them up hid in thine heart... as a vine and ivy entwine their stems each around other, that no might of wind avails to sever them" (Posthomerica 14.10053-10239)
 
+## In [Sophocles' Ajax](../sources/sophocles-ajax.md)
+
+After [Ajax](ajax.md)'s suicide, Menelaus arrives and forbids burial, declaring Ajax an enemy who must be left unburied as a lesson in obedience to commanders: "No man can himself ordain / His life or death, unless his governor permit."[^soph-aj-menelaus] He maintains that Ajax came to Troy as an ally but behaved as an enemy, and that the army's authority must be upheld.
+
+[Teucer](teucer.md) defies him, arguing that Ajax sailed to Troy as a free commander, not subject to Menelaus's authority. Menelaus and Teucer exchange threats and insults. Ultimately Menelaus is overruled when [Odysseus](odysseus.md) intervenes and persuades [Agamemnon](agamemnon.md) to permit burial.[^soph-aj-menelaus-overruled]
+
+[^soph-aj-menelaus]: "No man can himself ordain / His life or death, unless his governor permit" (Sophocles, Ajax, trans. Lewis Campbell)
+[^soph-aj-menelaus-overruled]: Sophocles, Ajax. Menelaus departs after the standoff; Agamemnon then takes up the dispute and is similarly overruled by Odysseus.
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Single combat with Paris; nearly kills him; [Aphrodite](../deities/aphrodite.md) rescues Paris
@@ -99,6 +108,7 @@ As the Greeks led the captive Trojan women to the ships, "amidst of these Menela
 - **[Posthomerica](../sources/posthomerica.md)** XII: Enters the Wooden Horse (second after [Neoptolemus](neoptolemus.md))
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Kills [Deiphobus](deiphobus.md) in [Helen](helen.md)'s chamber; invokes [Themis](../deities/themis.md)'s justice; "maddened was his soul with jealousy"
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Leads Helen from the burning city; reconciled that night; "as a vine and ivy entwine their stems"
+- **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Forbids [Ajax](ajax.md)'s burial, declaring him an insubordinate enemy who deserves to lie unburied; [Teucer](teucer.md) defies him, arguing Ajax came to Troy as a free commander; ultimately overruled when [Odysseus](odysseus.md) argues for burial
 
 [^apd-marriage]: "Tyndareus put the suitors on their oath, and while he chose Menelaus to be the bridegroom of Helen, he solicited Icarius to bestow Penelope on Ulysses" (Bibliotheca 3.10.9, trans. J.G. Frazer)
 [^apd-hermione]: "Menelaus had by Helen a daughter Hermione" (Bibliotheca 3.11.1, trans. J.G. Frazer)

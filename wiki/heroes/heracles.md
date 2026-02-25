@@ -643,8 +643,43 @@ Heracles succeeds and returns with the veiled Alcestis. He tells Admetus: "Havin
 [^eur-alc-ambush]: "going I will lay wait for the sable-vested king of the departed, Death, and I think that I shall find him drinking of the libations near the tomb. And if having taken him by lying in wait, rushing from my ambush, I shall seize hold of him, and make a circle around him with mine arms, there is not who shall take him away panting as to his sides, until he release me the woman" (Alcestis 845-852)
 [^eur-alc-victory]: "Having fought a battle with the prince of those beneath... At the tomb itself, having seized him from ambush with my hands" (Alcestis 1140-1142)
 
+## In Sophocles' [Trachiniae](../sources/sophocles-trachiniae.md)
+
+### The Death of Heracles
+
+Sophocles' Trachiniae dramatises Heracles' destruction through the poisoned robe of Nessus. While offstage for most of the play, Heracles is carried in on a litter near the end, raving in agony.
+
+### The Poisoned Robe
+
+Returning from the sack of Oechalia, Heracles sends the captive [Iole](iole.md) ahead to [Deianira](deianira.md). At Cape Cenaeum, he prepares to sacrifice to [Zeus](../deities/zeus.md). The herald Lichas brings a robe from Deianira, smeared (unknown to both) with the blood of Nessus. When warmed by the sacrificial flames, "close to every limb clung, like stone-drapery from the craftsman's hand, the garment, glued unto his side. Then came the tearing pangs within his bones, and then the poison feasted like the venomed tooth of murderous basilisk."[^soph-tr-poison] In his agony, Heracles seizes Lichas by the ankle and hurls him onto a reef in the sea, killing him.[^soph-tr-lichas]
+
+### Agony and the Catalogue of Labours
+
+Carried to Trachis, Heracles catalogues the labours his hands have conquered — "the dweller of the Némean wild, the lion unapproachable and rude, the oxherd's plague, and Hydra of the lake of Lerna, and the twi-form prancing throng of Centaurs — insolent, unsociable, lawless, ungovernable: — the tuskèd pest of Erymanthine glades; then underground Pluto's three-headed cur — a perilous fear, born from the monster-worm; and, on the verge of Earth, the dragon, guarding fruits of gold" — and laments that none of these could subdue him, yet "a soft woman without manhood's strain alone and weaponless hath conquered me."[^soph-tr-labours]
+
+He begs to be killed: "O breast and back, O shrivelling arms and hands, ye are the same that crushed the dweller of the Némean wild."[^soph-tr-arms] He cries like a girl — "me, who, like a tender girl, am heard to weep aloud! This none could say he knew in me of old; for, murmuring not, I went with evil fortune, silent still."[^soph-tr-weeping]
+
+### The Fulfilment of Prophecy
+
+When [Hyllus](hyllus.md) reveals that Nessus's blood caused the robe's poison and that Deianira acted innocently, Heracles recognises the fulfilment of two prophecies: his father [Zeus](../deities/zeus.md) "forewarned me long ago that I should die by none who lived and breathed, but from the will of one now dwelling in the house of death" — the dead centaur.[^soph-tr-prophecy1] And the oak at Dodona, through "the Selli," had prophesied that his labours would now end — which he had interpreted as rest, but which meant death: "No labour is appointed for the dead."[^soph-tr-prophecy2]
+
+### The Final Commands
+
+Heracles commands Hyllus to carry him to Mount Oeta and burn him on a pyre of oak and wild olive, "silent, with dry gaze, if thou art mine." He also commands Hyllus to marry Iole — "the maid of Eurytus" — a demand Hyllus finds repugnant but obeys under his father's curse: "I will do it, for the act is thine. I will not cast it off."[^soph-tr-commands] The play ends as Heracles is carried toward the pyre, mastering his pain: "Stubborn heart, ere yet again wakes the fierce rebound of pain... curb thy cry, with forcèd will seeming to do gladly still!"[^soph-tr-final]
+
+[^soph-tr-poison]: "close to every limb clung, like stone-drapery from the craftsman's hand, the garment, glued unto his side. Then came the tearing pangs within his bones, and then the poison feasted like the venomed tooth of murderous basilisk" (Sophocles, Trachiniae, trans. Lewis Campbell)
+[^soph-tr-lichas]: Sophocles, Trachiniae. Hyllus: "While the shooting spasm had fastened on the lungs, seized him by the foot where the ankle turns i' the socket, and, with a thought, hurl'd on a surf-vex'd reef that showed i' the sea: and rained the grey pulp from the hair"
+[^soph-tr-labours]: "the dweller of the Némean wild, the lion unapproachable and rude, the oxherd's plague, and Hydra of the lake of Lerna, and the twi-form prancing throng of Centaurs... the tuskèd pest of Erymanthine glades; then underground Pluto's three-headed cur... the dragon, guarding fruits of gold... But a soft woman without manhood's strain alone and weaponless hath conquered me" (Sophocles, Trachiniae)
+[^soph-tr-arms]: "O breast and back, O shrivelling arms and hands, ye are the same that crushed the dweller of the Némean wild" (Sophocles, Trachiniae)
+[^soph-tr-weeping]: "me, who, like a tender girl, am heard to weep aloud! This none could say he knew in me of old; for, murmuring not, I went with evil fortune, silent still. Now, such a foe hath found the woman in me!" (Sophocles, Trachiniae)
+[^soph-tr-prophecy1]: "My great father forewarned me long ago that I should die by none who lived and breathed, but from the will of one now dwelling in the house of death. And so this Centaur, as the voice Divine then prophesied, in death hath slain me living" (Sophocles, Trachiniae)
+[^soph-tr-prophecy2]: "Declaring that my ever instant toils should in the time that now hath being and life end and release me. And I look'd for joy. But the true meaning plainly was my death. — No labour is appointed for the dead" (Sophocles, Trachiniae)
+[^soph-tr-commands]: Sophocles, Trachiniae. Heracles demands Hyllus marry Iole under threat of curse; Hyllus: "I will do it, for the act is thine. I will not cast it off. Obeying thee, my sire, the Gods will ne'er reprove my deed"
+[^soph-tr-final]: "Stubborn heart, ere yet again wakes the fierce rebound of pain, thou, with bit of diamond proof, curb thy cry, with forcèd will seeming to do gladly still!" (Sophocles, Trachiniae)
+
 ## Appearances
 
+- **[Sophocles, Trachiniae](../sources/sophocles-trachiniae.md)**: Poisoned by Nessus's blood on the robe; agony at Cape Cenaeum; kills Lichas; carried to Trachis; catalogues labours (lion, Hydra, centaurs, boar, Cerberus, dragon); "a soft woman... hath conquered me"; recognises fulfilment of two prophecies (Zeus, Dodona); commands pyre on Oeta and Hyllus's marriage to Iole
 - **[Euripides' Alcestis](../sources/euripides-alcestis.md)** 476-567, 747-860, 1006-1163: En route to capture Diomedes' horses; "son of Alcmena"; fearless against Mars's children (Lycaon, Cycnus); hosted by Admetus in mourning; learns truth from servant; ambushes Death at the tomb; wrestles him and forces release of Alcestis; "Having fought a battle with the prince of those beneath"
 - **[Metamorphoses](../sources/metamorphoses.md)** 9.1-272: Wrestles Achelous; origin of Cornucopia; Nessus's poisoned tunic; agonizing death; lists his labours; builds pyre on Oeta; apotheosis among the stars
 - **[Homeric Hymn XV](../sources/homeric-hymns.md)**: "Son of Zeus and much the mightiest of men on earth"; born in Thebes of Alcmena; "wandered over unmeasured tracts of land and sea at the bidding of King Eurystheus"; now on Olympus with "neat-ankled Hebe for his wife"
