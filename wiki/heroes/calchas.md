@@ -59,6 +59,23 @@ Calchas reads the omen of two eagles devouring a pregnant hare, interpreting it 
 
 [^aesch-ag]: Aeschylus, Agamemnon ~104-159
 
+## In the Achilleid
+
+When the Greek army assembles at Aulis and yearns for the absent [Achilles](achilles.md), [Protesilaus](protesilaus.md) rebukes Calchas, demanding he reveal where Achilles is hidden: "O son of Thestor, forgetful of Phoebus and thy own tripods, when wilt thou open thy god-possessed lips more surely, or why dost thou hide the secret things of Fate?"[^ach-rebuke]
+
+Calchas is then seized by prophetic frenzy. Statius gives the most vivid description in ancient literature of the physical experience of divine possession:
+
+> "Long since has the son of Thestor been glancing round about him with excited movements, and by his first pallor betrayed the incoming of the god; soon he rolls fiery, bloodshot eyes, seeing neither his comrades nor the camp, but blind and absent from the scene he now overhears the mighty councils of gods in the upper air, now accosts the prescient birds, now the stern sisters' threads, now anxiously consults the incense-laden altars, and quickly scans the shooting flames and feeds upon the sacred vapours. His hair streams out, and the fillet totters on his stiffened locks, his head rolls and he staggers in his gait."[^ach-frenzy]
+
+When the vision breaks through, Calchas reveals both [Thetis](../deities/thetis.md)'s deception and Achilles' location on [Scyros](../places/scyros.md): "Whither bearest thou, O Nereid, by thy woman's guile great Chiron's mighty pupil? Send him hither: why dost thou carry him away? I will not suffer it: mine is he, mine!" He sees Thetis "all bewildered among the Cyclades, in base stealth seeking out the coast" and cries: "The accomplice land of Lycomedes finds favour. Ah! horrid deed! see, flowing garments drape his breast. Rend them, boy, rend them, and yield not to thy timid mother."[^ach-vision]
+
+After the vision, "tottering he ceased, the madness lost its force, and with a shudder he collapsed and fell before the altar." His prophecy sends [Odysseus](odysseus.md) and [Diomedes](diomedes.md) to Scyros to retrieve Achilles.[^ach-collapse]
+
+[^ach-rebuke]: "O son of Thestor, forgetful of Phoebus and thy own tripods, when wilt thou open thy god-possessed lips more surely, or why dost thou hide the secret things of Fate?" (Achilleid 1.493-498, trans. J.H. Mozley)
+[^ach-frenzy]: Achilleid 1.514-524, trans. J.H. Mozley
+[^ach-vision]: "Whither bearest thou, O Nereid, by thy woman's guile great Chiron's mighty pupil?... The accomplice land of Lycomedes finds favour. Ah! horrid deed! see, flowing garments drape his breast. Rend them, boy, rend them" (Achilleid 1.526-535, trans. J.H. Mozley)
+[^ach-collapse]: "tottering he ceased, the madness lost its force, and with a shudder he collapsed and fell before the altar" (Achilleid 1.536-537)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** 1.69-100: Introduced as greatest of augurs; reveals cause of Apollo's plague
@@ -69,3 +86,4 @@ Calchas reads the omen of two eagles devouring a pregnant hare, interpreting it 
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.2-4: Death by broken heart at Colophon after Mopsus proves wiser
 - **[Aeschylus, Agamemnon](../sources/aeschylus-agamemnon.md)** ~104-159: Reads the eagle omen; warns of Artemis's anger
 - **[Euripides, Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Proclaims the sacrifice; central to the plot
+- **[Achilleid](../sources/achilleid.md)** 1.491-537: Rebuked by Protesilaus; seized by prophetic frenzy; reveals Achilles' location on Scyros in divine vision; collapses before the altar

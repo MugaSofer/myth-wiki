@@ -207,6 +207,28 @@ On the timing of the wedding night: "on the evening of the mid-month moon shall 
 [^pin-ist7-counsel]: "'Cease ye herefrom: let her enter a mortal's couch and see her son fall in war, who shall be as Ares in the might of his hands, and as the lightning in the swiftness of his feet. My counsel is that ye give her to be the heaven-sent prize of Peleus son of Aiakos, whom the speech of men showeth to be their most righteous, an offspring of Iolkos' plain'" (Pindar, Isthmian VII)
 [^pin-ist7-night]: "on the evening of the mid-month moon shall she unbind for the hero the fair girdle of her virginity" (Pindar, Isthmian VII)
 
+## In the [Achilleid](../sources/achilleid.md)
+
+The Achilleid gives Thetis her most sustained characterisation — as a mother consumed by fear, whose every stratagem fails against fate.
+
+### The Styx and the Plea to Neptune
+
+Thetis is the only source to explicitly describe dipping Achilles in the [Styx](styx.md). She alludes to it while persuading him to accept his disguise: "if at thy birth I fortified thee with the stern waters of Styx — ay, would I had wholly!"[^ach-styx] The "would I had wholly" implies the incomplete protection — one part of his body left vulnerable.
+
+When she sees Paris's fleet, she panics and begs [Poseidon](poseidon.md) to sink the ships. He refuses: the war is fated. But he promises her revenge on the Greek return voyage.[^ach-neptune]
+
+### Cunning and Deception
+
+Unable to prevent the war, Thetis resorts to deception. She goes to [Chiron](../creatures/chiron.md)'s cave and lies — claiming she needs Achilles for a purification rite. She dares not "confess to the old man the soft raiment and dishonourable garb."[^ach-lie] She then carries the sleeping boy by dolphin-chariot across the night sea to [Scyros](../places/scyros.md), where she disguises him as a maiden and presents "her daughter" to King Lycomedes.[^ach-disguise]
+
+Her prayer as she departs is poignant: "O land that I love, to whom by timid cunning I have committed the pledge of my anxious care... mayst thou prosper and be silent, I beg, as Crete was silent for [Rhea](rhea.md)."[^ach-prayer]
+
+[^ach-styx]: "if at thy birth I fortified thee with the stern waters of Styx — ay, would I had wholly!" (Achilleid 1.269-270, trans. J.H. Mozley)
+[^ach-neptune]: "'Tis the sure ordinance of heaven that Europe and Asia should join in bloody conflict" (Achilleid 1.80-83)
+[^ach-lie]: "nor would he have given him up, had she dared to confess to the old man the soft raiment and dishonourable garb" (Achilleid 1.141-142)
+[^ach-disguise]: Achilleid 1.242-396. Thetis disguises Achilles and presents him to Lycomedes.
+[^ach-prayer]: "O land that I love, to whom by timid cunning I have committed the pledge of my anxious care... mayst thou prosper and be silent, I beg, as Crete was silent for Rhea" (Achilleid 1.384-388)
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** 4: Summoned by Iris at Hera's bidding; backstory — Zeus desired her but Themis prophesied her son would be mightier; Hera arranged the wedding and raised the bridal torch; Thetis tried to make Achilles immortal by fire and ambrosia; Peleus interrupted; she left in fury; guided the Argo past the Wandering Rocks, setting her hand to the rudder; Nereids passed the ship through "like a ball"
@@ -231,6 +253,8 @@ On the timing of the wedding night: "on the evening of the mid-month moon shall 
 - **[Bibliotheca](../sources/apollodorus.md)** 1.9.25: Steered the Argo through the Wandering Rocks with the Nereids — "Thetis with the Nereids steered the ship through them at the summons of [Hera](hera.md)"[^apd-wandering]
 - **[Pindar](../sources/pindar.md)**, Nemean IV: Shapeshifted into fire and lion's claws and "teeth most terrible" to resist [Peleus](../heroes/peleus.md); he held firm through all
 - **[Pindar](../sources/pindar.md)**, Isthmian VII: Both Zeus and Poseidon desired her; [Themis](../deities/themis.md) warned her son would wield "a bolt more terrible than the lightning or the dread trident"; counselled both gods to yield her to Peleus; prophesied wedding night on the mid-month moon
+- **[Achilleid](../sources/achilleid.md)** 1: Dipped infant Achilles in the Styx ("would I had wholly!"); begged Neptune to sink Paris's fleet (refused); lied to Chiron to take Achilles; carried him by dolphin-chariot to Scyros; disguised him as a maiden; prayed for Scyros's silence
+- **[Achilleid](../sources/achilleid.md)** 2.10-14: Achilles sacrifices a heifer to appease her before departing for Troy
 
 [^apd-wandering]: "Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)
 [^hyg-54-prophecy]: "A prediction about Thetis, the Nereid, was that her son would be greater than his father" (Fabulae §54, trans. Mary Grant)

@@ -315,6 +315,21 @@ In the aftermath of Troy's fall, Odysseus claimed Hecuba as his prize "only beca
 [^met-od-lemnos]: "The conqueror, Ulysses, now set sail, for Lemnos... that he might capture and bring back with him the arrows of brave Hercules. When these were given back to the Greeks, their lord with them, a final hand at last prevailed to end that long fought war" (Metamorphoses 13.399-403, trans. Brookes More)
 [^met-od-hecuba]: "The conquering Ulysses only claimed her his because she had brought Hector forth... Ulysses came with ruthless hands and bore her off, his prize" (Metamorphoses 13.481-497, trans. Brookes More)
 
+## In the [Achilleid](../sources/achilleid.md)
+
+Statius portrays Odysseus as the mastermind behind retrieving [Achilles](achilles.md) from [Scyros](../places/scyros.md). After [Calchas](calchas.md)' prophetic frenzy reveals that [Thetis](../deities/thetis.md) has hidden Achilles among the daughters of Lycomedes, [Diomedes](diomedes.md) volunteers to accompany him: "Do thou but keep alert the cunning and foresight of thy watchful mind, and arouse thy fertile craft: no prophet, methinks, would make bold in perplexity to see the truth before thee."[^ach-diomedes-praise]
+
+Odysseus sails to Scyros with Diomedes and employs his characteristic cunning. He first gains entry to Lycomedes' palace under a false pretence, claiming they have come "to spy out the approaches to Troy." During the banquet he scans the maidens with "intent gaze," searching for one whose features betray a disguise. He spots a figure "with head erect and wandering gaze, one who preserves no sign of virgin modesty."[^ach-scan]
+
+The discovery itself is a trap of Odysseus's design: Diomedes sets out gifts among the princesses — wands, timbrels, jewels — but mixed among them are a shield and spear. The maidens reach for ornaments, but Achilles seizes the weapons. Odysseus goes to his side and whispers: "Why dost thou hesitate? We know thee, thou art the pupil of the half-beast Chiron, thou art the grandson of the sky and sea." A trumpet blast confirms the revelation, and Achilles stands revealed — "he seemed to surpass by head and shoulders the Ithacan and the Aetolian chief."[^ach-reveal]
+
+On the voyage to Troy, Odysseus comforts the love-struck Achilles with a speech designed to stoke his martial pride, painting vivid pictures of glory and reminding him that [Deidamia](deidamia.md) is safer in his absence than she would be if some enemy came to "carry off Deidamia from her native shores."[^ach-speech]
+
+[^ach-diomedes-praise]: "Do thou but keep alert the cunning and foresight of thy watchful mind, and arouse thy fertile craft: no prophet, methinks, would make bold in perplexity to see the truth before thee" (Achilleid 1.539-542, trans. J.H. Mozley)
+[^ach-scan]: "Ulysses with intent gaze ponder carefully both forms and features... One nevertheless with head erect and wandering gaze, one who preserves no sign of virgin modesty, he marks" (Achilleid 1.758-766, trans. J.H. Mozley)
+[^ach-reveal]: "Why dost thou hesitate? We know thee, thou art the pupil of the half-beast Chiron, thou art the grandson of the sky and sea... he seemed to surpass by head and shoulders the Ithacan and the Aetolian chief" (Achilleid 1.866-880, trans. J.H. Mozley)
+[^ach-speech]: Achilleid 2.49-85. Odysseus comforts and inspires Achilles on the voyage to Troy.
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Rallies the army at [Athena](../deities/athena.md)'s urging; his ship in the centre of the fleet; "Odysseus of many devices"
@@ -347,3 +362,4 @@ In the aftermath of Troy's fall, Odysseus claimed Hecuba as his prize "only beca
 - **[Fabulae](../sources/hyginus.md)** §127: Telegonus (son by Circe) came to Ithaca seeking father; ravaged fields; Odysseus and Telemachus fought him unknowing; Telegonus killed Odysseus (oracle: beware death at son's hands); Telegonus married Penelope, Telemachus married Circe (Minerva's advice); Latinus born (from Circe/Telemachus, named Latin language); Italus born (from Penelope/Telegonus, named Italy)
 - **[Hecuba](../sources/euripides-hecuba.md)**: Persuades Greeks to sacrifice Polyxena at Achilles' tomb; Hecuba reminds him she saved his life as a spy in Troy; acknowledges the debt but insists on honoring the dead; "that subtle adviser, that babbling knave, honeyed in speech, pleasing to the populace"
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Called "son of Sisyphus" (alternate parentage tradition); will lead the mob to seize [Iphigenia](iphigenia.md); "chosen willingly" to conduct her to sacrifice; represents the dangerous power of the multitude
+- **[Achilleid](../sources/achilleid.md)** 1.538-960, 2.1-85: Sails to Scyros with Diomedes to retrieve Achilles; enters Lycomedes' court under false pretence; spots Achilles among the maidens; plants weapons among gifts; whispers the revelation; comforts Achilles on the voyage to Troy

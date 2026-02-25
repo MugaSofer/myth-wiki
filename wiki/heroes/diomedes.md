@@ -176,6 +176,15 @@ After Troy's fall, Diomedes returned to find his grandfather in distress. "When 
 
 "Afterwards Agrius, expelled from the kingdom, killed himself."[^hyg-175-death] This variant adds a post-Trojan action not mentioned in the Homeric poems, showing Diomedes fulfilling his family obligations upon return.
 
+## In the [Achilleid](../sources/achilleid.md)
+
+Diomedes accompanies [Odysseus](odysseus.md) to [Scyros](../places/scyros.md) to retrieve [Achilles](achilles.md). He volunteers eagerly after [Calchas](calchas.md)' prophecy reveals Achilles' hiding-place, praising Odysseus's cunning: "Do thou but keep alert the cunning and foresight of thy watchful mind, and arouse thy fertile craft."[^ach-volunteer]
+
+At Lycomedes' palace, it is Diomedes who sets out the trap: "the son of Tydeus had long since set out gifts that should attract maidens' eyes" — wands, timbrels, and jewels, with a gleaming shield and spear hidden among them. When Achilles seizes the weapons and stands revealed, "he seemed to surpass by head and shoulders the Ithacan and the Aetolian chief."[^ach-gifts]
+
+[^ach-volunteer]: "Do thou but keep alert the cunning and foresight of thy watchful mind, and arouse thy fertile craft: no prophet, methinks, would make bold in perplexity to see the truth before thee" (Achilleid 1.539-542, trans. J.H. Mozley)
+[^ach-gifts]: "the son of Tydeus had long since set out gifts that should attract maidens' eyes... he seemed to surpass by head and shoulders the Ithacan and the Aetolian chief" (Achilleid 1.841-880, trans. J.H. Mozley)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Named in the Catalogue of Ships as leader of the Argives from Argos, Tiryns, and nearby cities
@@ -193,6 +202,7 @@ After Troy's fall, Diomedes returned to find his grandfather in distress. "When 
 - **[Epic Cycle](../sources/epic-cycle.md)** (Returns): Gets safely home with Nestor
 - **[Bibliotheca](../sources/apollodorus.md)** 1.8.5: Parentage -- Tydeus and Deipyle, daughter of Adrastus
 - **[Fabulae](../sources/hyginus.md)** §175: After Troy, returns to find Oeneus driven out by Agrius; comes to Aitolia with Sthenelus; kills Lycopeus; restores Oeneus's kingdom
+- **[Achilleid](../sources/achilleid.md)** 1.538-880: Accompanies Odysseus to Scyros; sets out the gift-trap (weapons hidden among trinkets); Achilles stands revealed surpassing both heroes in stature
 
 [^hyg-175-usurp]: "When Agrius, son of Parthaon, saw his brother Oineus bereft of children and in need, he drove him out of his kingdom, and took it over himself" (Fabulae §175, trans. Mary Grant)
 [^hyg-175-restore]: "In the meantime, after the fall of Troy, Diomede, son of Tydeus and Deipyle, hearing that his grandfather had been driven from his kingdom came to Aitolia with Sthenelus, son of Capaneus, and fought with Agrius' son, Lycopeus. He killed him, and expelled the needy Agrius from the kingdom, and restored it to his grandfather Oineus" (Fabulae §175, trans. Mary Grant)
