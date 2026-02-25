@@ -2,15 +2,15 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**289 pages** across 8 categories, drawing from **33 primary sources**.
+**290 pages** across 8 categories, drawing from **33 primary sources**.
 
 ---
 
 ## [Deities](deities/)
 
-65 pages. Major gods, Titans, and primordial beings.
+66 pages. Major gods, Titans, and primordial beings.
 
-**Groups:** [Olympians](deities/groups/olympians.md) · [Titans](deities/groups/titans.md) · [Primordials](deities/groups/primordials.md) · [Muses](deities/groups/muses.md) · [Fates](deities/groups/fates.md) · [Graces](deities/groups/graces.md) · [Horae](deities/groups/horae.md)
+**Groups:** [Olympians](deities/groups/olympians.md) · [Titans](deities/groups/titans.md) · [Primordials](deities/groups/primordials.md) · [Nymphs](deities/groups/nymphs.md) · [Muses](deities/groups/muses.md) · [Fates](deities/groups/fates.md) · [Graces](deities/groups/graces.md) · [Horae](deities/groups/horae.md)
 
 **Olympians:** [Zeus](deities/zeus.md) · [Hera](deities/hera.md) · [Poseidon](deities/poseidon.md) · [Athena](deities/athena.md) · [Apollo](deities/apollo.md) · [Artemis](deities/artemis.md) · [Ares](deities/ares.md) · [Aphrodite](deities/aphrodite.md) · [Hermes](deities/hermes.md) · [Hephaestus](deities/hephaestus.md) · [Demeter](deities/demeter.md) · [Dionysus](deities/dionysus.md)
 
