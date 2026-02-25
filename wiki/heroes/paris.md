@@ -8,7 +8,7 @@
 |---|---|
 | **Also known as** | Alexandros, Alexander |
 | **Parentage** | [Priam](priam.md) and [Hecuba](hecuba.md) |
-| **Consort** | [Helen](helen.md); Oenone (first wife) |
+| **Consort** | [Helen](helen.md); [Oenone](oenone.md) (first wife) |
 | **Homeland** | [Troy](../places/troy.md) |
 | **Known for** | Judgment of Paris; abduction of [Helen](helen.md); killing [Achilles](achilles.md) |
 | **First appearance** | [Iliad](../sources/iliad.md) III |
