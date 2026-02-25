@@ -229,6 +229,57 @@ Her prayer as she departs is poignant: "O land that I love, to whom by timid cun
 [^ach-disguise]: Achilleid 1.242-396. Thetis disguises Achilles and presents him to Lycomedes.
 [^ach-prayer]: "O land that I love, to whom by timid cunning I have committed the pledge of my anxious care... mayst thou prosper and be silent, I beg, as Crete was silent for Rhea" (Achilleid 1.384-388)
 
+## In the Posthomerica
+
+### Lament and Arrival at Troy (Book III)
+
+When Achilles fell to Apollo's arrow, the sound of mourning reached Thetis in the sea depths. She and the Nereids came rushing up "with dark mantles overpalled... with one wild cry they floated up; it rang, a sound as when fleet-flying cranes forebode a great storm."[^post3-arrival] The Muses came from Helicon to join them, drawn "for love and honour to the Nereid starry-eyed."[^post3-muses]
+
+Thetis cast herself onto Achilles' body, kissed him, and poured out her grief — blaming Zeus for the bargain he had struck with her: "Zeus promised me to make him glorious in the Aeacid halls, in recompense for the bridal I so loathed that into wild wind now I changed me, now to water, now in fashion as a bird I was, now as the blast of flame; nor might a mortal win me for his bride... until the Olympian pledged him to bestow a godlike son on me, a lord of war."[^post3-lament] She declared her intent to ascend to Zeus and challenge him for his broken promises and for having given her, unwilling, to a mortal husband whose old age had already come.
+
+[Calliope](../deities/groups/muses.md) consoled her: "From lamentation, Thetis, now forbear... even sons of Zeus, the Thunder-king, have perished, overborne by evil fate. Immortal though I be, mine own son Orpheus died... for to the sons of earth minstrels shall chant his glory and his might, by mine and by my sisters' inspiration, unto the end of time."[^post3-calliope] Thetis remained wakeful through the night by the sea, while the Muses spoke comforting words to her.
+
+[^post3-arrival]: "with dark mantles overpalled they sped swiftly to where the Argive men were thronged... With one wild cry they floated up; it rang, a sound as when fleet-flying cranes forebode a great storm" (Posthomerica 3.2977-2984, trans. A.S. Way)
+[^post3-muses]: "Swiftly from Helicon the Muses came heart-burdened with undying grief, for love and honour to the Nereid starry-eyed" (Posthomerica 3.2987-2989, trans. A.S. Way)
+[^post3-lament]: "Zeus promised me to make him glorious in the Aeacid halls, in recompense for the bridal I so loathed that into wild wind now I changed me, now to water, now in fashion as a bird I was, now as the blast of flame; nor might a mortal win me for his bride, who seemed all shapes in turn that earth and heaven contain, until the Olympian pledged him to bestow a godlike son on me, a lord of war" (Posthomerica 3.3017-3025, trans. A.S. Way)
+[^post3-calliope]: "From lamentation, Thetis, now forbear, and do not, in the frenzy of thy grief for thy lost son, provoke to wrath the Lord of Gods and men... for to the sons of earth minstrels shall chant his glory and his might, by mine and by my sisters' inspiration, unto the end of time" (Posthomerica 3.3038-3053, trans. A.S. Way)
+
+### Snatching Achilles from the Pyre (Book III)
+
+After many days of mourning, the Argives built a great pyre and burned Achilles' body. Athena, who "pitied him, and showered upon his head ambrosia," had preserved the body before cremation, giving it "a stern frown, even as when he lay, with wrath darkening his grim face, clasping his slain friend Patroclus; and she made his frame to be more massive, like a war-god to behold."[^post3-athena] During the cremation, Zeus sent the winds at Thetis's behest to speed the pyre, and the Nereids shed ambrosia and precious nards over the gathered bones.[^post3-bones]
+
+Thetis provided the golden vase to hold Achilles' bones: "A golden vase his mother gave, the gift in old time of the Wine-god, glorious work of the craft-master Fire-god."[^post3-urn]
+
+Poseidon then appeared among the Nereids and spoke consolation directly to Thetis: "Refrain from endless mourning for thy son. Not with the dead shall he abide, but dwell with Gods, as doth the might of Herakles, and Dionysus ever fair... To the light of Zeus soon shall he rise; and I will give to him a holy island for my gift: it lies within the Euxine Sea: there evermore a God thy son shall be."[^post3-poseidon] The narrators confirms: "a little in her breast revived the spirit of Thetis: and the God brought this to pass thereafter."[^post3-revived]
+
+[^post3-athena]: "The Trito-born, the passing-wise, beheld and pitied him, and showered upon his head ambrosia... She made him: over that dead face she drew a stern frown, even as when he lay, with wrath darkening his grim face, clasping his slain friend Patroclus; and she made his frame to be more massive, like a war-god to behold" (Posthomerica 3.2914-2923, trans. A.S. Way)
+[^post3-bones]: "Nereus' daughters shed ambrosia over them, and precious nards for honour to Achilles" (Posthomerica 3.3161-3163, trans. A.S. Way)
+[^post3-urn]: "A golden vase his mother gave, the gift in old time of the Wine-god, glorious work of the craft-master Fire-god, in the which they laid the casket that enclosed the bones of mighty-souled Achilles" (Posthomerica 3.3165-3169, trans. A.S. Way)
+[^post3-poseidon]: "Refrain from endless mourning for thy son. Not with the dead shall he abide, but dwell with Gods, as doth the might of Herakles, and Dionysus ever fair. Not him dread doom shall prison in darkness evermore, nor Hades keep him. To the light of Zeus soon shall he rise; and I will give to him a holy island for my gift: it lies within the Euxine Sea: there evermore a God thy son shall be. The tribes that dwell around shall as mine own self honour him with incense and with steam of sacrifice" (Posthomerica 3.3208-3220, trans. A.S. Way)
+[^post3-revived]: "a little in her breast revived the spirit of Thetis: and the God brought this to pass thereafter" (Posthomerica 3.3224-3226, trans. A.S. Way)
+
+### Funeral Games for Achilles (Book IV)
+
+At the funeral games, Thetis arrived from the sea "like the still breath of dawn, and suddenly was with the Argive throng."[^post4-arrival] She set out the prizes and summoned the Achaean champions. When Nestor sang her praises — singing "how she in willsomeness of beauty was of all the Sea-maids chief," and then sang the bridal of Peleus and "the ambrosial feast when the swift Hours brought in immortal hands meats not of earth" — she "well-pleased... hearkened," and rewarded him.[^post4-nestor]
+
+She awarded prizes throughout the games: fleet-footed horses (Telephus's gift to Achilles) to Nestor; kine for the footrace; captive handmaids from Lesbos to Ajax and Diomedes; a chariot with horses to Idomeneus; silver bowls to Epeius and Acamas; Memnon's armour to Ajax for the iron-bar throw; Cycnus's battle-gear to Agapenor for the leaping contest; a silver oil-flask to Euryalus for the javelin cast; two silver talents to Ajax (uncontested) for fighting; Eetion's golden cup to Menelaus for the chariot race; and prizes to all the riders. "His stately height called to her mind her dear son, and she sighed."[^post4-sigh]
+
+[^post4-arrival]: "the Bride of Peleus gliding came forth of the sea, like the still breath of dawn, and suddenly was with the Argive throng" (Posthomerica 4.3377-3380, trans. A.S. Way)
+[^post4-nestor]: "he sang once more... how she in willsomeness of beauty was of all the Sea-maids chief. Well-pleased she hearkened" (Posthomerica 4.3398-3402, trans. A.S. Way)
+[^post4-sigh]: "His stately height called to her mind her dear son, and she sighed" (Posthomerica 4.3823-3824, trans. A.S. Way)
+
+### Guiding Neoptolemus to Troy (Book VII)
+
+When Neoptolemus departed from Scyros, "Thetis and the Nereids joyed thereat," glad to see Achilles' son coming to Troy.[^post7-joy]
+
+[^post7-joy]: "Thetis and the Nereids joyed thereat" (Posthomerica 7.5934, trans. A.S. Way)
+
+### Speeding the Fleet at the Sack (Book XIII)
+
+During the sack of Troy, when the Greek fleet sailed from Tenedos to Troy's shore, "Thetis made their paths straight, and behind them sent a driving wind speeding them, and the hearts Achaean glowed."[^post13-fleet]
+
+[^post13-fleet]: "Thetis made their paths straight, and behind them sent a driving wind speeding them, and the hearts Achaean glowed" (Posthomerica 13.9452-9454, trans. A.S. Way)
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** 4: Summoned by Iris at Hera's bidding; backstory — Zeus desired her but Themis prophesied her son would be mightier; Hera arranged the wedding and raised the bridal torch; Thetis tried to make Achilles immortal by fire and ambrosia; Peleus interrupted; she left in fury; guided the Argo past the Wandering Rocks, setting her hand to the rudder; Nereids passed the ship through "like a ball"
@@ -255,6 +306,10 @@ Her prayer as she departs is poignant: "O land that I love, to whom by timid cun
 - **[Pindar](../sources/pindar.md)**, Isthmian VII: Both Zeus and Poseidon desired her; [Themis](../deities/themis.md) warned her son would wield "a bolt more terrible than the lightning or the dread trident"; counselled both gods to yield her to Peleus; prophesied wedding night on the mid-month moon
 - **[Achilleid](../sources/achilleid.md)** 1: Dipped infant Achilles in the Styx ("would I had wholly!"); begged Neptune to sink Paris's fleet (refused); lied to Chiron to take Achilles; carried him by dolphin-chariot to Scyros; disguised him as a maiden; prayed for Scyros's silence
 - **[Achilleid](../sources/achilleid.md)** 2.10-14: Achilles sacrifices a heifer to appease her before departing for Troy
+- **[Posthomerica](../sources/posthomerica.md)** III: Arrives from the sea with the Nereids and Muses to mourn Achilles; laments that Zeus broke his promise to her; Calliope consoles her; watches through the night; Nereids shed ambrosia over bones; provides golden urn (gift of Dionysus, made by Hephaestus); Poseidon promises Achilles will become a god on an island in the Euxine Sea
+- **[Posthomerica](../sources/posthomerica.md)** IV: Arrives from the sea to set out funeral games prizes; rewards Nestor for his song praising her beauty and the Peleus bridal; distributes prizes throughout the games; "his stately height called to her mind her dear son, and she sighed"
+- **[Posthomerica](../sources/posthomerica.md)** VII: Rejoices with the Nereids at the departure of Neoptolemus from Scyros
+- **[Posthomerica](../sources/posthomerica.md)** XIII: Speeds the Greek fleet from Tenedos to Troy during the sack
 
 [^apd-wandering]: "Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)
 [^hyg-54-prophecy]: "A prediction about Thetis, the Nereid, was that her son would be greater than his father" (Fabulae §54, trans. Mary Grant)

@@ -31,6 +31,33 @@ The hymn describes the Ionian gathering at Delos in Apollo's honour: "there the 
 
 The maidens of Delos, handmaidens of Apollo, are celebrated as a wonder: "they can imitate the tongues of all men and their clattering speech: each would say that he himself were singing, so close to truth is their sweet song."[^hymn-maidens]
 
+## In Callimachus's Hymns
+
+### Origin as Asteria (Hymn IV.36-50)
+
+[Callimachus](../sources/callimachus-hymns.md) gives the fullest account of the island's wandering origin. When [Poseidon](../deities/poseidon.md) "smote the mountains with the three-forked sword... and wrought the islands in the sea," Delos was not rooted but floated free. Her former name was Asteria, "since like a star thou didst leap from heaven into the deep moat, fleeing wedlock with [Zeus](../deities/zeus.md)." Before she received [Leto](../deities/leto.md), sailors could see her off Troezen one day and find her gone the next — she wandered from the Saronic gulf to Euripus to Sunium to Chios to Samos.[^call-asteria]
+
+### Hera's Persecution and Leto's Wandering (Hymn IV.55-152)
+
+[Hera](../deities/hera.md) set two sentinels to keep all lands from receiving Leto: [Ares](../deities/ares.md) watching the continent from Thracian Haemus, and Iris watching the islands from Mimas. All lands fled from Leto — Arcadia, the Peloponnese (except Aegialos and Argos, which belonged to Hera through Inachus), Boeotia, Thessaly. Even rivers fled: Dirce, Ismenus, Asopus. [Apollo](../deities/apollo.md), still in the womb, prophesied against [Thebes](../places/thebes.md): "Thebe, wherefore, wretched one, dost thou ask the doom that shall be thine anon?" — foretelling Niobe's future punishment.[^call-apollo-womb]
+
+The river Peneius alone showed compassion, offering to receive Leto despite Hera's threats: "Let my destined day take its course. I will endure for thy sake, even if I must wander evermore with ebbing flood." But Ares threatened to hurl the peaks of Pangaeum into his waters and "smote his shield with the point of his spear" until all Thessaly "danced for fear." Leto released him: "Save thyself, farewell!"[^call-peneius]
+
+### Asteria Receives Leto (Hymn IV.196-264)
+
+When all other islands fled, Asteria alone welcomed her: "Hera, do to me what thou wilt. For I heed not thy threats. Cross, cross over, Leto, unto me." Leto "sat by the stream of Inopus... and she loosed her girdle and leaned back her shoulders against the trunk of a palm-tree." Seven swans circled and sang over the birth — hence Apollo strung the lyre with seven strings. "No eighth time sang they: ere that the child leapt forth." At his birth, "all thy foundations became of gold: with gold thy round lake flowed all day, and golden foliage thy natal olive-tree put forth."[^call-birth]
+
+Hera's reaction mixed fury with grudging respect: she was angry at Leto but honoured Asteria "for that she did not desecrate my bed, but instead of Zeus preferred the sea."[^call-hera]
+
+The island took its new name Delos from no longer being "obscure" (*adēlos*) — it rooted itself and became a fixed place.[^call-name]
+
+[^call-asteria]: "thy name of old was Asteria, since like a star thou didst leap from heaven into the deep moat, fleeing wedlock with Zeus" (Callimachus, Hymn IV.37-40, trans. A.W. Mair)
+[^call-apollo-womb]: "Thebe, wherefore, wretched one, dost thou ask the doom that shall be thine anon? Force me not yet to prophesy against my will" (Callimachus, Hymn IV.88-90)
+[^call-peneius]: "Let my destined day take its course. I will endure for thy sake, even if I must wander evermore with ebbing flood and thirsty" (Callimachus, Hymn IV.131-133)
+[^call-birth]: "with music the swans, the gods' own minstrels, left Maeonian Pactolus and circled seven times round Delos, and sang over the bed of child-birth... all thy foundations became of gold: with gold thy round lake flowed all day" (Callimachus, Hymn IV.249-263)
+[^call-hera]: "I honour her exceedingly for that she did not desecrate my bed, but instead of Zeus preferred the sea" (Callimachus, Hymn IV.240-243)
+[^call-name]: Callimachus, Hymn IV.51-53. Etymology: no longer *adēlos* (obscure/unseen)
+
 ## In the Odyssey
 
 In the [Odyssey](../sources/odyssey.md), Odysseus tells Nausicaa that he once visited Delos and saw there a palm tree by Apollo's altar: "Yet in Delos once I saw as goodly a thing: a young sapling of a palm tree springing by the altar of Apollo."[^od-delos]
@@ -58,4 +85,5 @@ In the [Odyssey](../sources/odyssey.md), Odysseus tells Nausicaa that he once vi
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 16-178: Leto's wandering; Delos's speech and fear; Leto's oath; birth of Apollo; Ionian festival; maidens of Delos
 - **[Apollodorus](../sources/apollodorus.md)** 1.4.1: Asteria becomes the island; Leto gives birth to Artemis and Apollo
 - **[Apollodorus](../sources/apollodorus.md)** 1.4.3-4: Artemis slays Orion in Delos; Eos brings Orion there
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** IV: Fullest account of Delos's wandering; origin as Asteria fleeing Zeus; Hera's sentinels (Ares and Iris); all lands and rivers flee Leto; Apollo prophesies from the womb; Peneius's compassion; Asteria alone welcomes Leto; seven swans circle at birth; island becomes golden and rooted; etymology of name
 - **[Odyssey](../sources/odyssey.md)** VI: Odysseus recalls the palm tree by Apollo's altar at Delos

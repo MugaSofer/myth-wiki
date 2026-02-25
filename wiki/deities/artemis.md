@@ -125,6 +125,45 @@ The Fabulae gives a brief account of Actaeon's punishment. "Actaeon, son of Aris
 [^hyg-180-saw]: "Actaeon, son of Aristaeus and Autonoe, a shepherd, saw Diana bathing and desired to ravish her." (Fabulae §180, trans. Mary Grant)
 [^hyg-180-punishment]: "Angry at this, Diana made horns grow on his head, and he was devoured by his own dogs." (Fabulae §180, trans. Mary Grant)
 
+## In Callimachus's Hymns
+
+### Childhood Requests (Hymn III.1-27)
+
+[Callimachus](../sources/callimachus-hymns.md) gives the most detailed account of Artemis as a child. Sitting on her father's knees, "still a little maid," she made a series of specific requests: "Give me to keep my maidenhood, Father, forever: and give me to be of many names, that Phoebus may not vie with me." She asked for bow and arrows (saying the [Cyclopes](../creatures/cyclopes.md) would make them), a knee-length tunic with embroidered border, sixty daughters of [Oceanus](oceanus.md) as her choir ("all nine years old, all maidens yet ungirdled"), twenty nymphs of Amnisus as handmaidens, and all mountains as her domain. She would visit cities only when women in childbirth called her: "even in the hour when I was born the Fates ordained that I should be their helper, forasmuch as my mother suffered no pain either when she gave me birth or when she carried me in her womb, but without travail put me from her body."[^call-requests]
+
+[Zeus](zeus.md) smiled and said: "When goddesses bear me children like this, little need I heed the wrath of jealous [Hera](hera.md). Take, child, all that thou askest, heartily." He added thirty cities and the title "Watcher over Streets and harbours."[^call-zeus-grants]
+
+### Visit to the Cyclopes (Hymn III.46-79)
+
+At age three, Artemis visited the Cyclopes at their forge on the isle of Lipara (called Meligunis in earlier times). The nymphs were terrified: the Cyclopes were "like unto the crags of Ossa: all had single eyes beneath their brows, like a shield of fourfold hide for size, glaring terribly from under." Even the daughters of the gods shuddered at them — mothers used to frighten disobedient children by calling the Cyclopes' names. But the three-year-old Artemis, when Brontes set her on his knees, "plucked the shaggy hair of his great breast and tore it out by force. And even unto this day the mid part of his breast remains hairless."[^call-cyclopes]
+
+She boldly commissioned her bow: "Cyclopes, for me too fashion ye a Cydonian bow and arrows and a hollow casket for my shafts; for I also am a child of Leto, even as [Apollo](apollo.md)."[^call-bow-request]
+
+### Hounds from Pan (Hymn III.87-97)
+
+She went to the fold of [Pan](pan.md) in Arcadia, who "was cutting up the flesh of a lynx of Maenalus." He gave her seven Cynosurian bitches "swifter than the winds" and other hounds that could pull down lions.[^call-pan-hounds]
+
+### The Golden-Horned Deer (Hymn III.98-109)
+
+She found five deer "larger than bulls, and from their horns shone gold" by the river Anaurus. She captured four by speed of foot alone to draw her chariot, but the fifth escaped across the river Celadon "by devising of [Hera](hera.md), that it might be in the after days a labour for [Heracles](../heroes/heracles.md)" — this became the Cerynitian hind.[^call-deer]
+
+### Companions (Hymn III.206-224)
+
+Callimachus names her favourite companions: the nymph Britomartis (Dictyna), whom Minos pursued for nine months until she leaped into the sea; Cyrene, who won a hunting-dog prize; Procris, wife of Cephalus; Anticleia, mother of [Odysseus](../heroes/odysseus.md); and [Atalanta](../heroes/atalanta.md), "the slayer of boars, daughter of Arcadian Iasius," whom she "taught hunting with dogs and good archery." Of Atalanta's prowess at the Calydonian boar hunt: "the tokens of victory came into Arcadia which still holds the tusks of the beast."[^call-companions]
+
+### Heracles as Glutton (Hymn III.134-161)
+
+In a comic passage, Callimachus describes [Heracles](../heroes/heracles.md) at Olympus, standing at the gates waiting for Artemis's game: "the Anvil of Tiryns stands ever before the gates, waiting to see if thou wilt come home with some fat morsel. And all the gods laugh at him with laughter unceasingly." Though deified, "hath he not ceased from gluttony. Still hath he that belly wherewith he met Theiodamas at the plough."[^call-heracles]
+
+[^call-requests]: "Give me to keep my maidenhood, Father, forever... give me to be Bringer of Light and give me to gird me in a tunic with embroidered border reaching to the knee, that I may slay wild beasts... even in the hour when I was born the Fates ordained that I should be their helper" (Callimachus, Hymn III.6-25, trans. A.W. Mair)
+[^call-zeus-grants]: "When goddesses bear me children like this, little need I heed the wrath of jealous Hera. Take, child, all that thou askest, heartily" (Callimachus, Hymn III.28-30)
+[^call-cyclopes]: "like unto the crags of Ossa: all had single eyes beneath their brows, like a shield of fourfold hide for size, glaring terribly from under... thou didst pluck the shaggy hair of his great breast and tore it out by force. And even unto this day the mid part of his breast remains hairless" (Callimachus, Hymn III.53-55, 72-75)
+[^call-bow-request]: "Cyclopes, for me too fashion ye a Cydonian bow and arrows and a hollow casket for my shafts; for I also am a child of Leto, even as Apollo" (Callimachus, Hymn III.80-83)
+[^call-pan-hounds]: Callimachus, Hymn III.87-97
+[^call-deer]: Callimachus, Hymn III.98-109. "But one escaped over the river Celadon, by devising of Hera, that it might be in the after days a labour for Heracles"
+[^call-companions]: "Atalanta, the slayer of boars, daughter of Arcadian Iasius... taught her hunting with dogs and good archery" (Callimachus, Hymn III.215-224)
+[^call-heracles]: "the Anvil of Tiryns stands ever before the gates, waiting to see if thou wilt come home with some fat morsel. And all the gods laugh at him with laughter unceasingly" (Callimachus, Hymn III.145-152)
+
 ## In the Iliad
 
 ### Slayer of Mortals (Book VI)
@@ -221,6 +260,7 @@ Meleager slew the boar "having gathered together from many cities huntsmen and h
 
 ## Appearances
 
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** III: Longest and richest hymn; childhood requests to Zeus (maidenhood, bow, nymphs, mountains); visits Cyclopes at age 3, plucks hair from Brontes; commissions her bow; gets hounds from Pan; captures golden-horned deer (one becomes Heracles' labour); favourite companions (Britomartis, Cyrene, Atalanta); Amazons found temple at Ephesus; punishes Oeneus and Agamemnon; Heracles as glutton at her gate
 - **[Euripides' Hippolytus](../sources/euripides-hippolytus.md)** 73-78, 1283-1466: Hippolytus offers her a garland from a pure meadow; appears at the climax to reveal the truth; cannot shed tears ("it is not lawful"); explains divine law — gods do not oppose one another; promises to avenge Hippolytus by killing [Aphrodite](aphrodite.md)'s favourite; establishes cult of hair-shearing for unwedded virgins; Hippolytus forgives Theseus at her urging
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.401-530: Expels Callisto from her maidens for pregnancy
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.138-252: Actaeon sees her bathing; transforms him into a stag; he is torn apart by his own hounds
