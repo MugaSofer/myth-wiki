@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**279 pages** across 8 categories, drawing from **33 primary sources**.
+**280 pages** across 8 categories, drawing from **33 primary sources**.
 
 ---
 
@@ -52,9 +52,9 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## [Concepts](concepts/)
 
-5 pages. Cultural and religious ideas central to Greek myth.
+6 pages. Cultural and religious ideas central to Greek myth.
 
-[Xenia](concepts/xenia.md) (guest-friendship) · [Hubris](concepts/hubris.md) · [Invulnerability](concepts/invulnerability.md) · [Ananke](concepts/ananke.md) (necessity) · [Justice](concepts/justice.md)
+[Xenia](concepts/xenia.md) (guest-friendship) · [Hubris](concepts/hubris.md) · [Metamorphosis](concepts/metamorphosis.md) · [Invulnerability](concepts/invulnerability.md) · [Ananke](concepts/ananke.md) (necessity) · [Justice](concepts/justice.md)
 
 ---
 
