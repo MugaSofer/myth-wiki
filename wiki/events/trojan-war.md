@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Primary sources** | [Iliad](../sources/iliad.md), [Epic Cycle](../sources/epic-cycle.md), [Bibliotheca](../sources/apollodorus.md), [Fabulae](../sources/hyginus.md), [Aeneid](../sources/aeneid.md), [Metamorphoses](../sources/metamorphoses.md) |
+| **Primary sources** | [Iliad](../sources/iliad.md), [Epic Cycle](../sources/epic-cycle.md), [Bibliotheca](../sources/apollodorus.md), [Fabulae](../sources/hyginus.md), [Posthomerica](../sources/posthomerica.md), [Aeneid](../sources/aeneid.md), [Metamorphoses](../sources/metamorphoses.md) |
 | **Key participants** | [Achilles](../heroes/achilles.md), [Agamemnon](../heroes/agamemnon.md), [Hector](../heroes/hector.md), [Odysseus](../heroes/odysseus.md), [Paris](../heroes/paris.md), [Ajax](../heroes/ajax.md), [Priam](../heroes/priam.md), [Helen](../heroes/helen.md) |
 | **Location** | [Troy](../places/troy.md) (Ilium) |
 | **Duration** | Ten years |
@@ -12,7 +12,7 @@
 
 The **Trojan War** was the central conflict of Greek mythology, a ten-year siege of [Troy](../places/troy.md) by a coalition of Greek kingdoms. The war was caused by [Paris](../heroes/paris.md)'s abduction of [Helen](../heroes/helen.md) from [Menelaus](../heroes/menelaus.md), though the sources attribute deeper causes to [Zeus](../deities/zeus.md)'s plan to reduce the human population.
 
-No single ancient source tells the complete story. The [Iliad](../sources/iliad.md) covers only a few weeks in the tenth year. The full narrative must be pieced together from the [Epic Cycle](../sources/epic-cycle.md) (surviving in fragments and summaries), the [Bibliotheca](../sources/apollodorus.md), and other sources.
+No single ancient source tells the complete story. The [Iliad](../sources/iliad.md) covers only a few weeks in the tenth year. The [Posthomerica](../sources/posthomerica.md) picks up where the Iliad leaves off, covering events from the death of [Penthesilea](../heroes/penthesilea.md) through the fall of Troy and its aftermath. The full narrative must be pieced together from the [Epic Cycle](../sources/epic-cycle.md) (surviving in fragments and summaries), the [Bibliotheca](../sources/apollodorus.md), and other sources.
 
 ## Causes
 
@@ -95,6 +95,7 @@ The Trojan War narrative is distributed across many texts:
 - **[Bibliotheca](../sources/apollodorus.md)** — Most complete continuous narrative (Epitome 3-6)
 - **[Fabulae](../sources/hyginus.md)** — Various episodes
 - **[Aeneid](../sources/aeneid.md)** — Fall of Troy from the Trojan perspective (Book 2)
+- **[Posthomerica](../sources/posthomerica.md)** — Events from Penthesilea's arrival through the fall of Troy and the Greek departure (14 books)
 - **[Metamorphoses](../sources/metamorphoses.md)** — Selected episodes (Books 12-13)
 - **[Aeschylus, Agamemnon](../sources/aeschylus-agamemnon.md)** — Agamemnon's return and murder
 - **[Euripides](../sources/euripides-hecuba.md)** — Various aftermath plays (Hecuba, Orestes, Iphigenia plays)
