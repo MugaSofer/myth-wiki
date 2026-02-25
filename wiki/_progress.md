@@ -1135,7 +1135,7 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 **Up next:**
 1. **Statius, Achilleid** (trans. J.H. Mozley, 1928) — COMPLETE
-2. **Quintus Smyrnaeus, Posthomerica** (Fall of Troy) — IN PROGRESS. 14 books read. Source page summaries complete. Entity pages created: Penthesilea, Memnon, Antilochus. Entity pages updated: Ajax. Remaining: Neoptolemus, Philoctetes, Paris, Eurypylus, Oenone, and updates to Achilles, Odysseus, Helen, Priam, Hecuba, Cassandra, Aeneas, Deiphobus, Andromache, etc.
+2. **Quintus Smyrnaeus, Posthomerica** (Fall of Troy) — IN PROGRESS. 14 books read. Source page summaries complete. Entity pages created: Penthesilea, Memnon, Antilochus, Eurypylus, Oenone, Sinon, Laocoon. Entity pages updated: Ajax, Neoptolemus (merged duplicate pages), Philoctetes, Priam, Achilles, Hecuba, Helen, Wooden Horse, Cassandra, Aeneas (in progress). Remaining: Odysseus, Deiphobus, Andromache, Menelaus, Diomedes, and other minor updates.
 3. **Callimachus, Hymns** — Short. Unique material: Bath of Pallas (Tiresias's blinding), Erysichthon, Artemis as a child, Delos.
 
 **Later:**

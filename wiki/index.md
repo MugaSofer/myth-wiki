@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**306 pages** across 8 categories, drawing from **35 primary sources**.
+**308 pages** across 8 categories, drawing from **35 primary sources**.
 
 ---
 
@@ -22,7 +22,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## [Heroes](heroes/)
 
-125 pages. Mortals and semi-divine figures.
+127 pages. Mortals and semi-divine figures.
 
 **Groups:** [Amazons](heroes/groups/amazons.md)
 
