@@ -121,6 +121,24 @@ The [Epic Cycle](../sources/epic-cycle.md) fragments describe the final fall of 
 [^apd-horse]: "as most were in favour of sparing it as a votive offering sacred to a divinity, they betook them to sacrifice and feasting" (Bibliotheca E.5.17, trans. J.G. Frazer)
 [^apd-fall]: "having slain the Trojans, they set fire to the city and divided the spoil among them" (Bibliotheca E.5.23, trans. J.G. Frazer)
 
+## In the [Posthomerica](../sources/posthomerica.md)
+
+### Evil Omens (Book XII)
+
+After the Trojans dragged the Horse within and celebrated, terrible signs appeared: "the victims burned not, and the flames died out, as though 'neath heavy-hissing rain; and writhed the smoke-wreaths blood-red." Drink-offerings turned to blood, the statues of the gods wept, temple walls dripped gore, the gate-bolts slid open by themselves, night-birds screamed "Desolation!", [Apollo](../deities/apollo.md)'s laurels withered, and wolves and jackals came howling within the gates. [Cassandra](../heroes/cassandra.md) alone was "clear-eyed" but the Trojans mocked her and "thrust her back from that huge Horse."[^post-omens]
+
+### The Sack (Book XIII)
+
+The Greeks emerged from the Horse at midnight. [Sinon](../heroes/sinon.md) raised the torch signal, and the fleet returned from Tenedos. "Over fair-fenced Troy smoke and a glare of fire went up: in every quarter the grim battle raged." [Neoptolemus](../heroes/neoptolemus.md) killed [Priam](../heroes/priam.md) at the altar; [Menelaus](../heroes/menelaus.md) killed [Deiphobus](../heroes/deiphobus.md); [Aeneas](../heroes/aeneas.md) escaped with Anchises and his son under [Aphrodite](../deities/aphrodite.md)'s protection.[^post-sack]
+
+### The Mourning of Xanthus (Book XIV)
+
+After Troy fell, the river Xanthus himself mourned: "scarce drawing breath from bloody war, mourned with his Nymphs for ruin fallen on Troy." His grief was "undying... immortal though he was." Simois, Ida, and all who dwelt on Ida "wailed from afar the ruin of Priam's town."[^post-xanthus]
+
+[^post-omens]: "the victims burned not, and the flames died out... drink-offerings turned to blood, Gods' statues wept, and temple-walls dripped gore... One heart was steadfast, and one soul clear-eyed, Cassandra" (Posthomerica 12.9283-9306, trans. A.S. Way)
+[^post-sack]: Posthomerica 13.9377-9787. The sack of Troy by night.
+[^post-xanthus]: "scarce drawing breath from bloody war, mourned with his Nymphs for ruin fallen on Troy... grief undying was his, immortal though he was" (Posthomerica 14.10112-10125)
+
 ## Appearances
 
 - **Catalogue of Women** Fragment 102: Dardanus and Trojan genealogy — Electra bore Dardanus and Eetion to [Zeus](../deities/zeus.md); from Dardanus came Erichthonius, Tros, Ilus, Assaracus, and Ganymede
@@ -141,3 +159,6 @@ The [Epic Cycle](../sources/epic-cycle.md) fragments describe the final fall of 
 - **[Fabulae](../sources/hyginus.md)** §89: Poseidon and Apollo built walls for Laomedon; he defaulted on vow; sea-monster sent; Hesione offered; Heracles killed monster; Laomedon refused payment; Heracles sacked Troy; Priam renamed
 - **[Fabulae](../sources/hyginus.md)** §91: Hecuba's firebrand dream; Paris exposed; raised by shepherds; won funeral games in his own honor; recognized by Cassandra; received into palace
 - **[Fabulae](../sources/hyginus.md)** §108: Wooden Horse built by Epeus; heroes hidden inside; "The Danaans give it as a gift to Minerva"; Cassandra warned but not believed; Greeks emerged at night; Troy taken
+- **[Posthomerica](../sources/posthomerica.md)** XII: Evil omens — sacrifices fail, blood from offerings, god-statues weep, wolves and jackals inside gates; [Cassandra](../heroes/cassandra.md) sees clearly but is mocked; Trojans break their own walls to admit the Horse
+- **[Posthomerica](../sources/posthomerica.md)** XIII: Sack by night — Greeks emerge from Horse and signal fleet; [Neoptolemus](../heroes/neoptolemus.md) kills [Priam](../heroes/priam.md); [Menelaus](../heroes/menelaus.md) kills [Deiphobus](../heroes/deiphobus.md); [Aeneas](../heroes/aeneas.md) escapes
+- **[Posthomerica](../sources/posthomerica.md)** XIV: Xanthus and his nymphs mourn the fallen city; [Hecuba](../heroes/hecuba.md) transformed to stone
