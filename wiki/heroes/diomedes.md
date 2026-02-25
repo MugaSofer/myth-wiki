@@ -191,8 +191,8 @@ At Lycomedes' palace, it is Diomedes who sets out the trap: "the son of Tydeus h
 
 When [Achilles](achilles.md) kills [Thersites](../heroes/thersites.md) for mocking him over the body of [Penthesilea](../heroes/penthesilea.md), Diomedes alone among the Argives is stirred to anger -- because the two are kinsmen. The text explains the connection: Thersites is seed of godlike Agrius, and "Brother of noble Oeneus Agrius was; And Oeneus in the Danaan land begat Tydeus the battle-eager, son to whom Was stalwart Diomedes."[^post-thersites-kin] Diomedes nearly raises his hand against Achilles, and is only restrained by the crowd of Achaean nobles who throng around both men to separate them.[^post-thersites-held]
 
-[^post-thersites-kin]: "The one, proud Tydeus' battle-eager son, The other, seed of godlike Agrius: Brother of noble Oeneus Agrius was; And Oeneus in the Danaan land begat Tydeus the battle-eager, son to whom Was stalwart Diomedes" (Posthomerica 1.720-726, trans. A.S. Way)
-[^post-thersites-held]: "Therefore wroth Was he for slain Thersites, yea, had raised Against the son of Peleus vengeful hands, Except the noblest of Achaea's sons Had thronged around him, and besought him sore, And held him back therefrom" (Posthomerica 1.726-731, trans. A.S. Way)
+[^post-thersites-kin]: "The one, proud Tydeus' battle-eager son, The other, seed of godlike Agrius: Brother of noble Oeneus Agrius was; And Oeneus in the Danaan land begat Tydeus the battle-eager, son to whom Was stalwart Diomedes" (Posthomerica 1.1321-1326, trans. A.S. Way)
+[^post-thersites-held]: "Therefore wroth Was he for slain Thersites, yea, had raised Against the son of Peleus vengeful hands, Except the noblest of Achaea's sons Had thronged around him, and besought him sore, And held him back therefrom" (Posthomerica 1.1326-1331, trans. A.S. Way)
 
 ### Wrestling at the Funeral Games of Achilles (Book III)
 
@@ -200,10 +200,10 @@ At the games held in honour of [Achilles](achilles.md), Diomedes urges the Greek
 
 He then enters the wrestling contest against [Aias the Great](aias.md). The two are described as matched like lions fighting over prey. In the first fall, Diomedes wins by craft: "with wrestling-craft and strength combined, Shifted his hip 'neath Telamon's son, and heaved The giant up; with a side-twist wrenched free From Aias' ankle-lock his thigh, and so With one huge shoulder-heave to earth he threw That mighty champion."[^post-games-wrestling] In the second fall Aias returns the throw. Nestor stops the contest at two falls each, calling them "mightiest Of Argives since the great Achilles died."[^post-games-nestor] They share equally in the prize of four handmaids captured from Lesbos.[^post-games-prize]
 
-[^post-games-speech]: "If we be battle-biders, friends, indeed, More fiercely fight we now the hated foe, Lest they take heart because Achilles lives No longer. Come, with armour, car, and steed Let us beset them. Glory waits our toil?" (Posthomerica 3.340-345, trans. A.S. Way)
-[^post-games-wrestling]: "with wrestling-craft and strength combined, Shifted his hip 'neath Telamon's son, and heaved The giant up; with a side-twist wrenched free From Aias' ankle-lock his thigh, and so With one huge shoulder-heave to earth he threw That mighty champion, and himself came down Astride him" (Posthomerica 3.510-516, trans. A.S. Way)
-[^post-games-nestor]: "For all we know that ye be mightiest Of Argives since the great Achilles died" (Posthomerica 3.553-554, trans. A.S. Way)
-[^post-games-prize]: "These Tydeus' son and giant Aias shared, And, parted two and two, unto their ships Sent they those fair and serviceable ones" (Posthomerica 3.570-572, trans. A.S. Way)
+[^post-games-speech]: "If we be battle-biders, friends, indeed, More fiercely fight we now the hated foe, Lest they take heart because Achilles lives No longer. Come, with armour, car, and steed Let us beset them. Glory waits our toil?" (Posthomerica 3.3341-3345, trans. A.S. Way)
+[^post-games-wrestling]: "with wrestling-craft and strength combined, Shifted his hip 'neath Telamon's son, and heaved The giant up; with a side-twist wrenched free From Aias' ankle-lock his thigh, and so With one huge shoulder-heave to earth he threw That mighty champion, and himself came down Astride him" (Posthomerica 3.3510-3516, trans. A.S. Way)
+[^post-games-nestor]: "For all we know that ye be mightiest Of Argives since the great Achilles died" (Posthomerica 3.3553-3554, trans. A.S. Way)
+[^post-games-prize]: "These Tydeus' son and giant Aias shared, And, parted two and two, unto their ships Sent they those fair and serviceable ones" (Posthomerica 3.3570-3572, trans. A.S. Way)
 
 ### Rebuking Menelaus; Sent to Fetch Neoptolemus (Book VI)
 
@@ -213,11 +213,11 @@ Following this, the prophet [Calchas](calchas.md) declares that victory can come
 
 Note: Deidameia, Achilles' mother, lies sleepless that night, blaming these two men specifically for having previously persuaded Achilles to go to Troy to his death, and fearing now for her son.[^post-deidameia-blame]
 
-[^post-rebuke]: "O coward Atreus' son, what craven fear Hath gripped thee, that thou speakest so to us As might a weakling child or woman speak? Not unto thee Achaea's noblest sons Will hearken, ere Troy's coronal of towers Be wholly dashed to the dust: for unto men Valour is high renown, and flight is shame!" (Posthomerica 6.805-811, trans. A.S. Way)
-[^post-rebuke-threat]: "If any man shall hearken to the words Of this thy counsel, I will smite from him His head with sharp blue steel, and hurl it down For soaring kites to feast on" (Posthomerica 6.813-816, trans. A.S. Way)
-[^post-odysseus-condition]: "I will Accomplish, so Tydeides fare with me; For, if we twain go, we shall surely bring, Won by our words, war-fain Achilles' son, Yea, though his mother, weeping sore, should strive Within her halls to keep him" (Posthomerica 6.848-853, trans. A.S. Way)
-[^post-sail-scyros]: "Then with the wise Odysseus Tydeus' son Drew down a swift ship to the boundless sea, And victual and all tackling cast therein. Then stepped they aboard, and with them twenty men, Men skilled to row when winds were contrary, Or when the unrippled sea slept 'neath a calm" (Posthomerica 6.872-877, trans. A.S. Way)
-[^post-deidameia-blame]: "She bore in mind the names Of crafty Odysseus and of Diomede The godlike, how these twain had widowed her Of battle-fain Achilles, how their words Had won his aweless heart to fare with them To meet the war-cry where stern Fate met him" (Posthomerica 7.805-810, trans. A.S. Way)
+[^post-rebuke]: "O coward Atreus' son, what craven fear Hath gripped thee, that thou speakest so to us As might a weakling child or woman speak? Not unto thee Achaea's noblest sons Will hearken, ere Troy's coronal of towers Be wholly dashed to the dust: for unto men Valour is high renown, and flight is shame!" (Posthomerica 6.4805-4811, trans. A.S. Way)
+[^post-rebuke-threat]: "If any man shall hearken to the words Of this thy counsel, I will smite from him His head with sharp blue steel, and hurl it down For soaring kites to feast on" (Posthomerica 6.4813-4816, trans. A.S. Way)
+[^post-odysseus-condition]: "I will Accomplish, so Tydeides fare with me; For, if we twain go, we shall surely bring, Won by our words, war-fain Achilles' son, Yea, though his mother, weeping sore, should strive Within her halls to keep him" (Posthomerica 6.4848-4853, trans. A.S. Way)
+[^post-sail-scyros]: "Then with the wise Odysseus Tydeus' son Drew down a swift ship to the boundless sea, And victual and all tackling cast therein. Then stepped they aboard, and with them twenty men, Men skilled to row when winds were contrary, Or when the unrippled sea slept 'neath a calm" (Posthomerica 6.4872-4877, trans. A.S. Way)
+[^post-deidameia-blame]: "She bore in mind the names Of crafty Odysseus and of Diomede The godlike, how these twain had widowed her Of battle-fain Achilles, how their words Had won his aweless heart to fare with them To meet the war-cry where stern Fate met him" (Posthomerica 7.5804-5810, trans. A.S. Way)
 
 ### The Embassy to Scyros (Book VII)
 

@@ -365,7 +365,7 @@ The Trojan captives judge in favour of Odysseus, awarding him the arms; the text
 
 After [Eurypylus](../heroes/eurypylus.md) inflicts heavy losses on the Greeks, Calchas prophecies that they must bring [Neoptolemus](../heroes/neoptolemus.md) from [Scyros](../places/scyros.md). Odysseus sails there with [Diomedes](diomedes.md).[^post-b7-sent] Finding Neoptolemus training in arms outside the palace, they are struck by his resemblance to his father. Odysseus speaks first, identifying himself and offering gifts: Achilles' own armour ("these be like no mortal's battle-gear, / But splendid as the very War-god's arms"), and the promise of a royal marriage with [Menelaus](../heroes/menelaus.md)' daughter.[^post-b7-speech] The widowed [Deidamia](../heroes/deidamia.md) lies awake that night, bearing in mind "the names / Of crafty Odysseus and of Diomede / The godlike, how these twain had widowed her / Of battle-fain Achilles, how their words / Had won his aweless heart to fare with them / To meet the war-cry where stern Fate met him."[^post-b7-deidamia]
 
-[^post-b7-sent]: "unto Lemnos, land / Of stately mansions, sent they Tydeus' son / And battle-staunch Odysseus oversea" — error by Quintus; the destination is Scyros (Posthomerica 7.5716, trans. A.S. Way)
+[^post-b7-sent]: "Meanwhile the black ship on to Scyros ran" (Posthomerica 7.5716, trans. A.S. Way)
 [^post-b7-speech]: "Of Ithaca am I... sent by voice of prophecy. / I pray thee, pity us: come thou to Troy / And help us... I myself / Will give to thee thy godlike father's arms... these be like no mortal's battle-gear, / But splendid as the very War-god's arms" (Posthomerica 7.5736-5748, trans. A.S. Way)
 [^post-b7-deidamia]: "she bore in mind the names / Of crafty Odysseus and of Diomede / The godlike, how these twain had widowed her / Of battle-fain Achilles, how their words / Had won his aweless heart to fare with them / To meet the war-cry where stern Fate met him" (Posthomerica 7.5805-5810, trans. A.S. Way)
 
@@ -394,9 +394,8 @@ Odysseus is among the warriors listed entering the horse, third after Neoptolemu
 
 ### The Sack of Troy and Hecuba (Books XIII–XIV)
 
-During the sack, Odysseus restrains his companions from rushing blindly out of the horse before it is safe.[^post-b13-restraint] In the aftermath of Troy's fall, Hecuba falls to Odysseus as his prize: "Hecuba / Odysseus dragged unto his ship. The tears / Poured from her eyes as water from a spring; / Trembled her limbs, fear-frenzied was her heart; / Rent were her hoary tresses and besprent / With ashes of the hearth."[^post-b14-hecuba]
+Odysseus leads the heroes out of the horse after Sinon's signal (see above), restraining them from rushing forth all at once. In the aftermath of Troy's fall, [Hecuba](../heroes/hecuba.md) falls to him as his prize: "Hecuba / Odysseus dragged unto his ship. The tears / Poured from her eyes as water from a spring; / Trembled her limbs, fear-frenzied was her heart; / Rent were her hoary tresses and besprent / With ashes of the hearth."[^post-b14-hecuba]
 
-[^post-b13-restraint]: "They heard, and to Odysseus all inclined / Their ears: he bade them urgently go forth / Softly and fearlessly; and they obeyed / That battle-summons, pressing in hot haste / To leap to earth: but in his subtlety / He stayed them from all thrusting eagerly forth" (Posthomerica 13.9418-9423, trans. A.S. Way)
 [^post-b14-hecuba]: "Hecuba / Odysseus dragged unto his ship. The tears / Poured from her eyes as water from a spring; / Trembled her limbs, fear-frenzied was her heart; / Rent were her hoary tresses and besprent / With ashes of the hearth, cast by her hands / When she saw Priam slain and Troy aflame" (Posthomerica 14.10058-10064, trans. A.S. Way)
 
 ## Appearances
