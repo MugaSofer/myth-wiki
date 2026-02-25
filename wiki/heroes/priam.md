@@ -98,6 +98,34 @@ Neoptolemus dragged him "quivering to the very altar, slipping in the pool of hi
 [^aen-pr-rebuke]: "not such to a foe was the Achilles whose parentage thou beliest; but he revered a suppliant's right and trust, restored to the tomb Hector's pallid corpse, and sent me back to my realm" (Aeneid 2.540-543)
 [^aen-pr-death]: "drew him quivering to the very altar, slipping in the pool of his child's blood, and wound his left hand in his hair, while in his right the sword flashed out and plunged to the hilt in his side. This was the end of Priam's fortunes... once magnificent lord over so many peoples and lands of Asia. The great corpse lies along the shore, a head severed from the shoulders and a body without a name" (Aeneid 2.550-558)
 
+## In the Posthomerica
+
+### Memnon's Arrival (Book II)
+
+When the Trojan cause grows desperate after Penthesileia's death, Priam urges the assembled Trojans not to abandon the city but to hold on from the walls until their new champion arrives. He reveals that he sent Memnon an urgent summons: "in sore distress of soul, I sent him urgent summons. Yea, and he promised me, gladly promised me, to come to Troy, and make all end of all our woes."[^post-priam-memnon-urge] The speech ends with Priam counselling endurance: "better far it is like brave men in the fight to die than flee, and live in shame mid alien folk."[^post-priam-memnon-endure]
+
+Memnon arrives shortly after with a vast host of Ethiopians, and Priam welcomes him with gifts and a great feast.[^post-priam-memnon-welcome] At the banquet, Priam pledges Memnon with a golden cup of extraordinary lineage: Hephaestus crafted it as a masterpiece and brought it to Zeus, who received it when he gave Aphrodite to Hephaestus as a bride. Zeus then bestowed it on his son Dardanus, who passed it to Erichthonius, who gave it to Tros, who bequeathed it to Ilus, who gave it to Laomedon, and Laomedon to Priam — "who had thought to leave the same to his own son. Fate ordered otherwise."[^post-priam-cup]
+
+### Death at the Altar (Book XIII)
+
+During the sack of Troy, [Neoptolemus](neoptolemus.md) kills three of Priam's sons in quick succession — Pammon, Polites, and Antiphonus — before finding the king himself at the altar of Zeus the Hearth-lord.[^post-priam-sons]
+
+Priam does not flee or beg for mercy. Seeing Neoptolemus, "Old Priam knew him and quaked not; for he longed himself to lay his life down midst his sons."[^post-priam-quaked] He addresses Neoptolemus directly, requesting death: "Fierce-hearted son of Achilles strong in war, slay me, and pity not my misery. I have no will to see the sun's light more, who have suffered woes so many and so dread. With my sons would I die, and so forget anguish and horror of war."[^post-priam-speech] He adds a bitter reflection — he had wished [Achilles](achilles.md) had killed him when he came to ransom [Hector](hector.md)'s body: "He spared me — so the Fates had spun my thread of destiny."[^post-priam-fates]
+
+Neoptolemus grants the request without hesitation: "Fain am I, yea, in haste to grant thy prayer. A foe like thee will I not leave alive."[^post-neo-answer] The execution is swift and almost casual: "With one stroke swept he off that hoary head lightly as when a reaper lops an ear in a parched cornfield at the harvest-tide."[^post-priam-death] The poet closes with an elegy: "So lay he, chiefest once of all the world in lineage, wealth, in many and goodly sons."[^post-priam-elegy]
+
+[^post-priam-memnon-urge]: "in sore distress of soul, I sent him urgent summons. Yea, and he promised me, gladly promised me, to come to Troy, and make all end of all our woes" (Posthomerica 2.1460-1463, trans. A.S. Way)
+[^post-priam-memnon-endure]: "better far it is like brave men in the fight to die than flee, and live in shame mid alien folk" (Posthomerica 2.1464-1467)
+[^post-priam-memnon-welcome]: "with all observance welcomed he the strong son of the Lady of the Dawn with goodly gifts and with abundant cheer" (Posthomerica 2.1566-1568)
+[^post-priam-cup]: "Then in his hands a chalice deep and wide he raised, and Memnon in all love he pledged in that huge golden cup, a gift of Gods... To Priam, who had thought to leave the same to his own son. Fate ordered otherwise" (Posthomerica 2.1602-1615)
+[^post-priam-sons]: "Achilles' son with his resistless lance smote godlike Pammon; then his javelin pierced Polites in mid-rush: Antiphonus dead upon these he laid, all Priam's sons" (Posthomerica 13.9630-9633)
+[^post-priam-quaked]: "Old Priam knew him and quaked not; for he longed himself to lay his life down midst his sons" (Posthomerica 13.9640-9641)
+[^post-priam-speech]: "Fierce-hearted son of Achilles strong in war, slay me, and pity not my misery. I have no will to see the sun's light more, who have suffered woes so many and so dread. With my sons would I die, and so forget anguish and horror of war" (Posthomerica 13.9643-9648)
+[^post-priam-fates]: "He spared me — so the Fates had spun my thread of destiny" (Posthomerica 13.9652-9653)
+[^post-neo-answer]: "Fain am I, yea, in haste to grant thy prayer. A foe like thee will I not leave alive" (Posthomerica 13.9656-9657)
+[^post-priam-death]: "With one stroke swept he off that hoary head lightly as when a reaper lops an ear in a parched cornfield at the harvest-tide" (Posthomerica 13.9660-9662)
+[^post-priam-elegy]: "So lay he, chiefest once of all the world in lineage, wealth, in many and goodly sons" (Posthomerica 13.9666-9667)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Watches the duel from the walls; swears the oath
@@ -113,6 +141,8 @@ Neoptolemus dragged him "quivering to the very altar, slipping in the pool of hi
 - **[Fabulae](../sources/hyginus.md)** §90: List of fifty-five children including Hector, Deiphobus, Alexander (Paris), Cassandra, Polites, Troilus, Creusa
 - **[Fabulae](../sources/hyginus.md)** §91: Hecuba's firebrand dream; Paris exposed and raised by shepherds; won funeral games held in his own honor; recognized by Cassandra; received into palace
 - **[Aeneid](../sources/aeneid.md)** II: Dons armour despite old age; Hecuba draws him to the altar; watches Polites killed by Neoptolemus; hurls a feeble spear and rebukes Neoptolemus ("not such to a foe was the Achilles whose parentage thou beliest"); dragged to the altar and killed; "a head severed from the shoulders and a body without a name"
+- **[Posthomerica](../sources/posthomerica.md)** II: Urges Trojans to hold out from the walls until Memnon arrives; pledges Memnon with the golden cup of Hephaestus, a heirloom passed down through the royal line from Zeus through Dardanus, Erichthonius, Tros, Ilus, and Laomedon
+- **[Posthomerica](../sources/posthomerica.md)** XIII: Sons Pammon, Polites, and Antiphonus slain by Neoptolemus; Priam found at the altar of Zeus the Hearth-lord; "quaked not" and requests death from Neoptolemus; wishes Achilles had killed him during Hector's ransom; beheaded "lightly as when a reaper lops an ear in a parched cornfield"
 
 [^apd-line]: "Tros called the country Troy after himself, and marrying Callirrhoe, daughter of Scamander, he begat a daughter Cleopatra, and sons, Ilus, Assaracus, and Ganymede" (Bibliotheca 3.12.2, trans. J.G. Frazer)
 [^apd-name]: "after that Ilium was captured by Hercules, as we have related a little before, Podarces, who was called Priam, came to the throne" (Bibliotheca 3.12.5, trans. J.G. Frazer)

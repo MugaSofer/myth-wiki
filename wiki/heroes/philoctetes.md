@@ -42,6 +42,50 @@ In the war, "Philoctetes with Alexander; Alexander was killed."[^hyg-combat] Thi
 [^hyg-persuade]: "Then Agamemnon sent Ulysses and Diomede as scouts to visit him. They persuaded him to be reconciled and to help in attacking Troy, and took him off with them" (Fabulae §102, trans. Mary Grant)
 [^hyg-combat]: "Philoctetes with Alexander; Alexander was killed" (Fabulae §112, trans. Mary Grant)
 
+## In the Posthomerica
+
+### Retrieval from Lemnos
+
+When [Calchas](calchas.md) prophesied that Troy could not fall without Philoctetes' aid, the sons of Atreus sent [Odysseus](odysseus.md) and [Diomedes](diomedes.md) to [Lemnos](../places/lemnos.md) to retrieve him. The two heroes found him in a cave in a wretched state: "Horror came on them / When they beheld the hero of their quest / Groaning with bitter pangs, on the hard earth / Lying, with many feathers round him strewn."[^post-found] His body had been utterly consumed by years of suffering: "all his frame was wasted: naught but skin / Covered his bones. Unwashen there he crouched / With famine-haggard cheeks, with sunken eyes / Glaring his misery 'neath cavernous brows."[^post-wasted] The wound itself was graphically described: "the ulcerous black wound, eating to the bone, / Festered with thrills of agonizing pain."[^post-wound] Beside him lay [Heracles'](heracles.md) great bow and a quiver of arrows smeared with the venom of the water-snake that had bit him.
+
+When Philoctetes saw the two men approach he seized his bow in fury, ready to shoot — but [Athena](../deities/athena.md) dissolved his rage: "even as upon that godlike twain / He gazed, Athena caused his bitter wrath / To melt away."[^post-athena] Odysseus and Diomedes persuaded him to return, promising he would be healed. They carried him to the ship and departed with Athena sending a favoring wind.
+
+### Healing and Reconciliation
+
+Upon arriving at the Greek camp, [Podaleirius](podaleirius.md) healed him on the spot: "Swifter than thought he made him whole and sound; / For deftly on the wound he spread his salves, / Calling on his physician-father's name."[^post-healing] The transformation was immediate — health and strength returned and "Over the bloodless face the flush of health / Glowed, and for wretched weakness mighty strength / Thrilled through him: goodly and great waxed all his limbs."[^post-restored]
+
+[Agamemnon](agamemnon.md) then made a formal apology, conceding that the abandonment had been wrong and offering gifts: "Dear friend, since by the will of Heaven our souls / Were once perverted, that in sea-girt Lemnos / We left thee, harbour not thine heart within / Fierce wrath for this."[^post-apology] He offered seven handmaids, forty swift horses, and twelve tripods. Philoctetes forgave him freely: "Friend, I forgive thee freely, and all beside / Whoso against me haply hath transgressed. / I know how good men's minds sometimes be warped: / Nor meet it is that one be obdurate / Ever, and nurse mean rancours."[^post-forgive]
+
+### Killing Paris
+
+The next day Philoctetes returned to battle clad in Heracles' arms, which were elaborately decorated with mythological scenes wrought by Hephaestus — wild beasts on the belt, and on the quiver the slaying of Argus by Hermes, Phaethon's fall, Perseus killing Medusa, and Prometheus chained on Caucasus: "All these Hephaestus' cunning hands had wrought / For Hercules; and these to Poeas' son, / Most near of friends and dear, he gave to bear."[^post-arms]
+
+[Paris](paris.md) challenged him with his bow. Paris's arrow missed Philoctetes by a hair's breadth and instead struck and killed a nearby warrior named Cleodorus. Philoctetes then shot back: the first arrow merely grazed Paris's wrist. His second shot found its mark: "the barbed shaft of Poeas' son had plunged, / Ere he could swerve, 'twixt flank and groin."[^post-paris] Paris fled the field and sought out the nymph Oenone on Mount Ida, who refused to heal him. He died of the wound.
+
+### Attack on Aeneas (Book XI)
+
+During the assault on Troy's walls, Philoctetes shot at [Aeneas](../deities/aeneas.md) on the battlements. The arrow was turned aside by [Aphrodite](../deities/aphrodite.md) and her shield, deflecting it onto a nearby warrior named Medon instead, who fell from the tower.[^post-aeneas] Aeneas responded by hurling a stone that killed Philoctetes' companion Toxaechmes. Philoctetes taunted Aeneas to come out and fight him in the open: "Aeneas, thou, forsooth, dost deem thyself / A mighty champion, fighting from a tower / Whence craven women war with foes! / Now if / Thou be a man, come forth without the wall / In battle-harness, and so learn to know / In spear-craft and in bow-craft Poeas' son!"[^post-taunt] Aeneas did not answer the challenge.
+
+### The Wooden Horse
+
+When the stratagem of the Wooden Horse was proposed, Philoctetes and [Neoptolemus](neoptolemus.md) were the only leaders who refused, both still hungry for open battle: "Save twain, fierce-hearted Neoptolemus / And Philoctetes mighty-souled; for these / Still were insatiate for the bitter fray."[^post-horse] They pressed forward against the walls independently, and might have taken Troy by themselves, but Zeus intervened with a thunderbolt: "from the sky Zeus showed his wrath; he shook / The earth beneath their feet, and all the air / Shuddered, as down before those heroes twain / He hurled his thunderbolt."[^post-zeus] Compelled by the sign, they fell in with Calchas's counsel and joined the ruse. Philoctetes is listed among the warriors who entered the Horse.[^post-horse-enter]
+
+[^post-found]: "Horror came on them / When they beheld the hero of their quest / Groaning with bitter pangs, on the hard earth / Lying, with many feathers round him strewn" (Posthomerica 9.7351-7356, trans. A.S. Way)
+[^post-wasted]: "all his frame was wasted: naught but skin / Covered his bones. Unwashen there he crouched / With famine-haggard cheeks, with sunken eyes / Glaring his misery 'neath cavernous brows" (Posthomerica 9.7371-7374, trans. A.S. Way)
+[^post-wound]: "the ulcerous black wound, eating to the bone, / Festered with thrills of agonizing pain" (Posthomerica 9.7376-7377, trans. A.S. Way)
+[^post-athena]: "even as upon that godlike twain / He gazed, Athena caused his bitter wrath / To melt away" (Posthomerica 9.7408-7410, trans. A.S. Way)
+[^post-healing]: "Swifter than thought he made him whole and sound; / For deftly on the wound he spread his salves, / Calling on his physician-father's name" (Posthomerica 9.7475-7477, trans. A.S. Way)
+[^post-restored]: "Over the bloodless face the flush of health / Glowed, and for wretched weakness mighty strength / Thrilled through him: goodly and great waxed all his limbs" (Posthomerica 9.7485-7487, trans. A.S. Way)
+[^post-apology]: "Dear friend, since by the will of Heaven our souls / Were once perverted, that in sea-girt Lemnos / We left thee, harbour not thine heart within / Fierce wrath for this" (Posthomerica 9.7509-7512, trans. A.S. Way)
+[^post-forgive]: "Friend, I forgive thee freely, and all beside / Whoso against me haply hath transgressed. / I know how good men's minds sometimes be warped: / Nor meet it is that one be obdurate / Ever, and nurse mean rancours" (Posthomerica 9.7541-7545, trans. A.S. Way)
+[^post-arms]: "All these Hephaestus' cunning hands had wrought / For Hercules; and these to Poeas' son, / Most near of friends and dear, he gave to bear" (Posthomerica 10.7811-7813, trans. A.S. Way)
+[^post-paris]: "the barbed shaft of Poeas' son had plunged, / Ere he could swerve, 'twixt flank and groin" (Posthomerica 10.7856-7857, trans. A.S. Way)
+[^post-aeneas]: "godlike Poeas' war-triumphant son / Marked where Aeneas stormed along the wall / In lion-like strength, and straightway shot a shaft / Aimed at that glorious hero, neither missed / The man: yet not through his unyielding targe / To the fair flesh it won, being turned aside / By Cytherea and the shield" (Posthomerica 11.8678-8684, trans. A.S. Way)
+[^post-taunt]: "Aeneas, thou, forsooth, dost deem thyself / A mighty champion, fighting from a tower / Whence craven women war with foes! Now if / Thou be a man, come forth without the wall / In battle-harness, and so learn to know / In spear-craft and in bow-craft Poeas' son!" (Posthomerica 11.8696-8701, trans. A.S. Way)
+[^post-horse]: "Save twain, fierce-hearted Neoptolemus / And Philoctetes mighty-souled; for these / Still were insatiate for the bitter fray" (Posthomerica 12.8808-8810, trans. A.S. Way)
+[^post-zeus]: "from the sky Zeus showed his wrath; he shook / The earth beneath their feet, and all the air / Shuddered, as down before those heroes twain / He hurled his thunderbolt" (Posthomerica 12.8817-8820, trans. A.S. Way)
+[^post-horse-enter]: "Into that cavernous Horse Achilles' son / First entered, strong Menelaus followed then, / Odysseus, Sthenelus, godlike Diomede, / Philoctetes and Menestheus..." (Posthomerica 13.9070-9073, trans. A.S. Way)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Father Poeas lights [Heracles'](heracles.md) pyre; [Heracles](heracles.md) bestows his bow on Poeas
@@ -50,3 +94,8 @@ In the war, "Philoctetes with Alexander; Alexander was killed."[^hyg-combat] Thi
 - **[Fabulae](../sources/hyginus.md)** §102: Punished by Hera with snakebite; cared for by shepherd Iphimachus on [Lemnos](../places/lemnos.md); persuaded to join the Greeks
 - **[Fabulae](../sources/hyginus.md)** §112: Kills Alexander in single combat
 - **[Fabulae](../sources/hyginus.md)** §114: Slew 3 Trojans in the war
+- **[Posthomerica](../sources/posthomerica.md)** 9: Found wasting on [Lemnos](../places/lemnos.md); rage dissolved by [Athena](../deities/athena.md); healed by [Podaleirius](podaleirius.md); reconciled with [Agamemnon](agamemnon.md)
+- **[Posthomerica](../sources/posthomerica.md)** 10: Returns to battle in [Heracles'](heracles.md) arms; shoots [Paris](paris.md) between flank and groin; Paris dies seeking [Oenone](oenone.md)
+- **[Posthomerica](../sources/posthomerica.md)** 11: Shoots at [Aeneas](../deities/aeneas.md) on the walls; arrow deflected by [Aphrodite](../deities/aphrodite.md); taunts Aeneas to fight in the open
+- **[Posthomerica](../sources/posthomerica.md)** 12: Resists the Wooden Horse stratagem alongside [Neoptolemus](neoptolemus.md); compelled by Zeus's thunderbolt to comply
+- **[Posthomerica](../sources/posthomerica.md)** 13: Enters the Wooden Horse
