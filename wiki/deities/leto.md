@@ -121,8 +121,29 @@ The [Fabulae](../sources/hyginus.md) gives a dramatically different version of L
 
 Apollo then "put Python's bones in a cauldron, deposited them in his temple, and instituted funeral games for him which are called Pythian."[^hyg-140-games] This detail — that the Pythian Games were funeral games for Python — is remarkable and appears nowhere else in the tradition.
 
+## In Callimachus's Hymns
+
+### The Wandering and Birth on Delos (Hymn IV)
+
+[Callimachus](../sources/callimachus-hymns.md)'s fourth hymn gives the fullest and most dramatic account of Leto's wandering. [Hera](hera.md) was "angered in her heart greatly and beyond telling, and she prevented Leto who was holden in the pangs of childbirth." She stationed two sentinels: "[Ares](ares.md) sitting armed on the high top of Thracian Haemus, and his horses were stalled by the seven-chambered cave of Boreas. And the other kept watch over the far-flung islands, even the daughter of Thaumas [Iris] seated on Mimas."[^call-leto-sentinels]
+
+All lands fled from Leto. Arcadia, the Arcadian hills, Pheneius, the land of Pelops, Aonia, Dirce and Strophia fled — "and the earth-born nymph Melia wheeled about thereat and ceased from the dance and her cheek paled."[^call-leto-flee] Even the river Peneius wanted to help but was cowed: "Leto, Necessity is a great goddess. It is not I who refuse, O Lady, they travail; for I know of others who have washed the soilure of birth in me – but Hera hath largely threatened me."[^call-leto-peneius] Ares threatened to bury the river under the peaks of Pangaeum, "and from on high he made a din as of thunder and smote his shield with the point of his spear, and it rang with a warlike noise. And the hills of Ossa trembled and the plain of Crannon, and the windswept skirts of Pindus, and all Thessaly danced for fear."[^call-leto-ares] Only then did Peneius relent, though Leto released him from his offer.
+
+From the womb, [Apollo](apollo.md) warned away the cities that refused Leto, prophesying blood against Thebes. Apollo also directed her away from Cos (reserved by fate for another god) toward the floating island Asteria: "there is to be seen in the water a tiny island, wandering over the seas... Thither do thou carry me. For she shall welcome thy coming."[^call-leto-asteria]
+
+When Asteria/Delos received her, Leto "gladly ceased from her grievous wandering and sat by the stream of Inopus... And she loosed her girdle and leaned back her shoulders against the trunk of a palm-tree, oppressed by the grievous distress, and the sweat poured over her flesh like rain."[^call-leto-birth-pos] A messenger hastened to report to Hera. At the moment of birth, seven swans circled Delos singing, setting the number of the lyre's strings. The brazen sky echoed back the chant, "and Hera grudged it not, because Zeus had taken away her anger."[^call-leto-hera]
+
+[^call-leto-sentinels]: "The space of the continent did bold Ares watch, sitting armed on the high top of Thracian Haemus, and his horses were stalled by the seven-chambered cave of Boreas. And the other kept watch over the far-flung islands, even the daughter of Thaumas seated on Mimas" (Callimachus, Hymn IV to Delos 68-71, trans. A.W. Mair, 1921)
+[^call-leto-flee]: "Fled Arcadia, fled Auge's holy hill Parthenium, fled after her aged Pheneius, fled all the land of Pelops that lies beside the Isthmus... and the earth-born nymph Melia wheeled about thereat and ceased from the dance and her cheek paled as she panted for her coeval oak" (Hymn IV 74-79)
+[^call-leto-peneius]: "Leto, Necessity is a great goddess. It is not I who refuse, O Lady, they travail; for I know of others who have washed the soilure of birth in me – but Hera hath largely threatened me. Behold what manner of watcher keeps vigil on the mountain top, who would lightly drag me forth from the depths" (Hymn IV 131-135)
+[^call-leto-ares]: "from on high he made a din as of thunder and smote his shield with the point of his spear, and it rang with a warlike noise. And the hills of Ossa trembled and the plain of Crannon, and the windswept skirts of Pindus, and all Thessaly danced for fear" (Hymn IV 137-141)
+[^call-leto-asteria]: "'But mark thou, mother: there is to be seen in the water a tiny island, wandering over the seas. Her feet abide not in one place, but on the tide she swims even as stalks of asphodel, where the South wind or the East wind blows, withersoever the sea carried her. Thither do thou carry me. For she shall welcome thy coming'" (Hymn IV 191-196)
+[^call-leto-birth-pos]: "she gladly ceased from her grievous wandering and sat by the stream of Inopus, which the earth sends forth in deepest flood at the season when the Nile comes down in full torrent from the Aethiopian steep. And she loosed her girdle and leaned back her shoulders against the trunk of a palm-tree, oppressed by the grievous distress, and the sweat poured over her flesh like rain" (Hymn IV 205-210)
+[^call-leto-hera]: "the brazen sky echoed back the far-reaching chant and Hera grudged it not, because Zeus had taken away her anger" (Hymn IV 255-257)
+
 ## Appearances
 
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** IV: Full wandering account — Hera set Ares on Thracian Haemus and Iris on Mimas as sentinels; all lands fled; Apollo prophesied against Thebes from the womb; Peneius's compassion and Ares's threat; Apollo directed her to Asteria; birth by the Inopus stream leaning on a palm tree, sweat pouring; seven swans sang; Hera relented
 - **[Theogony](../sources/theogony.md)** 918-920: Sixth consort of Zeus; bore Apollo and Artemis
 - **[Homeric Hymn III](../sources/homeric-hymns.md)**: Wanders seeking a birthplace; labours on Delos; stays calm by Zeus's side on Olympus
 - **[Homeric Hymn XXVII](../sources/homeric-hymns.md)**: Praised in song as mother of children "supreme among the immortals"

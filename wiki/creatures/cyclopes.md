@@ -102,8 +102,36 @@ In Book XIV, the Greek Achaemenides (left behind on Sicily in the [Odyssey](../s
 [^met-cyc-acis]: "a youth emerged, the water flowing clear about his waist, his new horns circled with entwining reeds, and the youth certainly was Acis, though he was of larger stature and his face and features all were azure" (Metamorphoses 13.885-897, trans. Brookes More)
 [^met-cyc-macareus]: "a ghastly horror took possession of me when I saw his face and every feature streaming yet with blood, his ruthless hands, and the vile open space where his one eye had been, and his coarse limbs, and his beard matted through with human blood" (Metamorphoses 14.164-169, trans. Brookes More)
 
+## In Callimachus's Hymns
+
+### At the Forge on Lipara (Hymn III)
+
+[Callimachus](../sources/callimachus-hymns.md)'s Hymn to Artemis includes a vivid scene of the young [Artemis](../deities/artemis.md) visiting the Cyclopes at their forge. They were at work "in the isle of Lipara – Lipara in later days, but at that time its name was Meligunis – at the anvils of Hephaestus, standing round a molten mass of iron. For a great work was being hastened on: they fashioned a horse-trough for Poseidon."[^call-cyc-lipara]
+
+### Physical Description (Hymn III)
+
+The nymphs travelling with Artemis were terrified by the sight: "the terrible monsters like unto the crags of Ossa: all had single eyes beneath their brows, like a shield of fourfold hide for size, glaring terribly from under; and when they heard the din of the anvil echoing loudly, and the great blast of the bellows and the heavy groaning of the Cyclopes themselves."[^call-cyc-desc] The noise was immense — Aetna, Trinacia, Italy, and Corsica all "cried aloud" when the Cyclopes "lifted their hammers above their shoulders and smote with rhythmic swing the bronze glowing from the furnace or iron, labouring greatly."[^call-cyc-noise]
+
+This is a notably different emphasis from the [Theogony](../sources/theogony.md)'s craftsmen: Callimachus foregrounds their overwhelming, terrifying physical presence rather than their skill.
+
+### Used to Frighten Children (Hymn III)
+
+Callimachus notes a popular function of the Cyclopes as bogeymen: "But when any of the maidens doth disobedience to her mother, the mother calls the Cyclopes to her child – Arges or Steropes; and from within the house comes Hermes, stained with burnt ashes. And straightway he plays bogey to the child, and she runs into her mother's lap, with her hands upon her eyes."[^call-cyc-bogey]
+
+### Brontes and the Young Artemis (Hymn III)
+
+The infant Artemis, "while yet but three years old," visited the forge. "Brontes set thee on his stout knees – thou didst pluck the shaggy hair of his great breast and tear it out by force. And even unto this day the mid part of his breast remains hairless, even when mange settles on a man's temples and eats the hair away."[^call-cyc-brontes] Artemis then commissioned her bow: "Cyclopes, for me too fashion ye a Cydonian bow and arrows and a hollow casket for my shafts; for I also am a child of Leto, even as Apollo. And if I with my bow shall slay some wild creature or monstrous beast, that shall the Cyclopes eat."[^call-cyc-bow]
+
+[^call-cyc-lipara]: "she went to visit the Cyclopes. Them she found in the isle of Lipara – Lipara in later days, but at that time its name was Meligunis – at the anvils of Hephaestus, standing round a molten mass of iron. For a great work was being hastened on: they fashioned a horse-trough for Poseidon" (Callimachus, Hymn III to Artemis 46-49, trans. A.W. Mair, 1921)
+[^call-cyc-desc]: "the terrible monsters like unto the crags of Ossa: all had single eyes beneath their brows, like a shield of fourfold hide for size, glaring terribly from under" (Hymn III 52-54)
+[^call-cyc-noise]: "Aetna cried aloud, and Trinacia cried, the seat of the Sicanians, cried too their neighbour Italy, and Cyrnos therewithal uttered a mighty noise, when they lifted their hammers above their shoulders and smote with rhythmic swing the bronze glowing from the furnace or iron, labouring greatly" (Hymn III 55-60)
+[^call-cyc-bogey]: "when any of the maidens doth disobedience to her mother, the mother calls the Cyclopes to her child – Arges or Steropes; and from within the house comes Hermes, stained with burnt ashes. And straightway he plays bogey to the child, and she runs into her mother's lap, with her hands upon her eyes" (Hymn III 68-73)
+[^call-cyc-brontes]: "while yet but three years old, when Leto came bearing thee in her arms at the bidding of Hephaestus that he might give thee handsel and Brontes set thee on his stout knees – thou didst pluck the shaggy hair of his great breast and tear it out by force. And even unto this day the mid part of his breast remains hairless" (Hymn III 73-77)
+[^call-cyc-bow]: "'Cyclopes, for me too fashion ye a Cydonian bow and arrows and a hollow casket for my shafts; for I also am a child of Leto, even as Apollo. And if I with my bow shall slay some wild creature or monstrous beast, that shall the Cyclopes eat'" (Hymn III 81-85)
+
 ## Appearances
 
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** III: Forging a horse-trough for Poseidon on the isle of Lipara; description — "like unto the crags of Ossa," single eyes "like a shield of fourfold hide for size"; used by mothers to frighten disobedient children ("Arges or Steropes"); infant Artemis plucked hair from Brontes's chest — his breast still hairless; Artemis commissioned her bow and arrows
 - **[Odyssey](../sources/odyssey.md)** I: Polyphemus named as "mightiest amongst all the Cyclôpes"; son of Poseidon and the nymph Thoösa; blinded by Odysseus
 - **[Odyssey](../sources/odyssey.md)** VII: Near of kin to the Phaeacians and the Giants; gods "appear manifest" to them
 - **[Odyssey](../sources/odyssey.md)** IX: Described as "a froward and a lawless folk" who plant nothing and have no laws; Polyphemus — "monstrous... like a wooded peak of the towering hills"; defies Zeus ("we are better men than they"); blinded by Odysseus; prays to Poseidon who hears him; soothsayer Telemus had foretold the blinding

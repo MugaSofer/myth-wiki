@@ -431,8 +431,41 @@ Within sat Envy, "ravening the flesh of vipers, self-begot." Ovid describes her 
 [^met-ath-envy-desc]: "Her face is pale, her body long and lean, her shifting eyes glance to the left and right, her snaggle teeth are covered with black rust, her hanging paps overflow with bitter gall, her slavered tongue drips venom to the ground" (Metamorphoses 2.788-792)
 [^met-ath-envy-command]: "Instil thy poison in Aglauros, child of Cecrops; I command thee; do my will" (Metamorphoses 2.801-802)
 
+## In Callimachus's Hymns
+
+### Character at the Bath (Hymn V)
+
+[Callimachus](../sources/callimachus-hymns.md)'s fifth hymn is set during the ritual bathing of Athena's image at Argos. The poem establishes her character in contrast to [Aphrodite](aphrodite.md): "bring not, ye companions of the Bath, for Pallas perfume nor alabasters (for Athena loves not mixed unguents), neither bring ye a mirror. Always her face is fair."[^call-ath-fair]
+
+### At the Judgment of Paris (Hymn V)
+
+When Paris judged the three goddesses, "the great goddess looked not into orichalc nor into the transparent eddy of Simois, nor did Hera. But Cypris took the shining bronze and often altered and again altered the same lock. But Pallas, after running twice sixty double courses, even as beside the Eurotas the Lacedaemonian Stars, took and skillfully anointed her with simple unguents, the birth of her own tree."[^call-ath-paris] Callimachus presents her as disdaining vanity: no mirror, no perfume — only the olive oil that bears her name, used after athletic exercise.
+
+### Epithets (Hymn V)
+
+She is called here: **"Sacker of Cities, golden-helmeted"** — addressing her directly as she comes to the bath.[^call-ath-sacker]
+
+### The Blinding of Teiresias (Hymn V)
+
+In a companion narrative to the bath ritual, Callimachus tells how [Teiresias](../heroes/teiresias.md) came to be blinded. Athena "loved much, yea beyond all her companions, even the mother of Teiresias" — the nymph Chariclo, who accompanied her everywhere. One day the two bathed together at the Fountain of the Horse on Helicon: "Only Teiresias, on whose cheek the down was just darkening, still ranged with his hounds the holy place. And, athirst beyond telling, he came unto the flowing fountain, wretched man! And unwillingly saw that which is not lawful to be seen. And Athena was angered, yet said to him: 'What god, O son of Everes, led thee on this grievous way? Hence shalt thou never more take back thine eyes!'"[^call-ath-blind]
+
+When Chariclo lamented, Athena explained: "It is not I that made thy child blind. For no sweet thing is it for Athena to snatch away the eyes of children. But the laws of Cronius order thus: Whosoever shall behold any of the immortals, when the god himself chooses not, at a heavy price shall he behold."[^call-ath-law] As compensation, Athena granted Teiresias the gift of prophecy, a guiding staff, long life, and understanding even after death: "He only, when he dies, shall walk among the dead having understanding, honoured of the great Leader of Peoples."[^call-ath-gifts]
+
+### Birth Confirmed (Hymn V)
+
+The hymn closes with a confirmation of Athena's unique birth: "no mother bare that goddess, but the head of Zeus. The head of Zeus bows not in falsehood, and in falsehood his daughter hath no part."[^call-ath-birth]
+
+[^call-ath-fair]: "bring not, ye companions of the Bath, for Pallas perfume nor alabasters (for Athena loves not mixed unguents), neither bring ye a mirror. Always her face is fair" (Callimachus, Hymn V On the Bath of Pallas 13-15, trans. A.W. Mair, 1921)
+[^call-ath-paris]: "the great goddess looked not into orichalc nor into the transparent eddy of Simois, nor did Hera. But Cypris took the shining bronze and often altered and again altered the same lock. But Pallas, after running twice sixty double courses, even as beside the Eurotas the Lacedaemonian Stars, took and skillfully anointed her with simple unguents, the birth of her own tree" (Hymn V 17-22)
+[^call-ath-sacker]: "Come forth, Athena! A company pleasing to thy heart awaits thee... Come forth, Athena, Sacker of Cities, golden-helmeted, who rejoicest in the din of horse and shield" (Hymn V 33-44)
+[^call-ath-blind]: "Only Teiresias, on whose cheek the down was just darkening, still ranged with his hounds the holy place. And, athirst beyond telling, he came unto the flowing fountain, wretched man! And unwillingly saw that which is not lawful to be seen. And Athena was angered, yet said to him: 'What god, O son of Everes, led thee on this grievous way? Hence shalt thou never more take back thine eyes!'" (Hymn V 73-78)
+[^call-ath-law]: "It is not I that made thy child blind. For no sweet thing is it for Athena to snatch away the eyes of children. But the laws of Cronius order thus: Whosoever shall behold any of the immortals, when the god himself chooses not, at a heavy price shall he behold" (Hymn V 100-104)
+[^call-ath-gifts]: "I will make him a seer to be sung of men hereafter, yea, more excellent than any other. He shall know the birds... Also will I give him a great staff which shall guide his feet as he hath need, and I will give him a long term of life. And he only, when he dies, shall walk among the dead having understanding, honoured of the great Leader of Peoples" (Hymn V 121-130)
+[^call-ath-birth]: "no mother bare that goddess, but the head of Zeus. The head of Zeus bows not in falsehood, and in falsehood his daughter hath no part" (Hymn V 133-135)
+
 ## Appearances
 
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** V: Character — spurns perfume and mirrors; at the Judgment of Paris, used only olive oil while Aphrodite constantly primped; "Sacker of Cities, golden-helmeted"; blinding of Teiresias — he saw her bathing, she blinded him by divine law; compensated him with prophecy, guiding staff, long life, and full understanding in death; "no mother bare that goddess, but the head of Zeus"
 - **[Argonautica](../sources/argonautica.md)** 1, 2, 3: Helped build the Argo with Argus; set the Dodonian oak timber in the stem; urged Tiphys to be helmsman; pushed the ship through the Symplegades with her hands; conspired with Hera to approach Aphrodite about Eros
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.760-802: Visited the Cave of Envy; struck door-posts with spear; commanded Envy to poison Aglauros
 - **[Metamorphoses](../sources/metamorphoses.md)** 4.794-803: Punished Medusa by turning her hair to serpents after Poseidon defiled her temple

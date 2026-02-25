@@ -464,8 +464,57 @@ When [Heracles](../heroes/heracles.md) lies dying on his pyre atop Mount Oeta, t
 [^met-zeus-4]: "Your sudden fear is surely my delight, O heavenly Gods! my heart is lifted up and joy prevails upon me, in the thought that I am called the Father and the King of all this grateful race of Gods" (Metamorphoses 9.243-249, trans. Brookes More)
 [^met-zeus-5]: "the glorious father of the Gods in the great chariot drawn by four swift steeds, took up above the wide-encircling clouds, and set him there amid the glittering stars" (Metamorphoses 9.267-272, trans. Brookes More)
 
+## In Callimachus's Hymns
+
+### Birth in Arcadia (Hymn I)
+
+[Callimachus](../sources/callimachus-hymns.md)'s first hymn opens by contesting the claim that Zeus was born on Crete. "Cretans are ever liars. Yea, a tomb, O Lord, for thee the Cretans builded; but thou didst not die, for thou art for ever."[^call-z-cretans] Instead, Callimachus places the birth in Parrhasia in Arcadia: "In Parrhasia it was that Rheia bare thee, where was a hill sheltered with thickest brush."[^call-z-parrhasia]
+
+At the time, Arcadia was waterless — Ladon and Erymanthus had not yet flowed. [Rhea](rhea.md) struck the mountain with her staff: "lifting her great arm aloft she smote the mountain with her staff; and it was greatly rent in twain for her and poured forth a mighty flood."[^call-z-staff] She then cleansed Zeus and gave him "to Neda to carry within the Cretan covert, that thou mightst be reared secretly: Neda, eldest of the nymphs who then were about her bed."[^call-z-neda]
+
+In Crete, Zeus was laid "in a cradle of gold" by Adrasteia, suckled by the she-goat Amaltheia, and fed honey. "And lustily round thee danced the Curetes a war-dance, beating their armour, that Cronus might hear with his ears the din of the shield, but not thine infant noise."[^call-z-curetes]
+
+### Sovereignty by Might (Hymn I)
+
+Callimachus presents Zeus's sovereignty as won by strength, not by lot: "For they said that the lot assigned to the sons of Cronus their three several abodes. But who would draw lots for Olympos and for Hades – save a very fool? For equal chances should one cast lots; but these are the wide world apart. Thou wert made sovereign of the gods not by casting of lots but by the deeds of thy hands, thy might and that strength which thou hast set beside thy throne."[^call-z-might]
+
+This is a direct variant from the tradition in Homer and Apollodorus, where the three brothers cast lots to divide the cosmos.
+
+### Kings and the Eagle (Hymn I)
+
+Zeus chose kings as his special portion: "thou didst choose the rulers of cities themselves, beneath whose hand is the lord of the soil, the skilled in spearmanship, the oarsman, yea, all things that are... From Zeus come kings; for nothing is diviner than the kings of Zeus."[^call-z-kings] His messenger was the eagle: "the most excellent of birds didst thou make the messenger of thy signs."[^call-z-eagle]
+
+### Response to Young Artemis (Hymn III)
+
+When the infant [Artemis](artemis.md) sat on Zeus's knee and listed her wishes, "her father smiled and bowed assent. And as he caressed her, he said: 'When goddesses bear me children like this, little need I heed the wrath of jealous Hera.'"[^call-z-artemis] He then granted her all she asked, and more: thirty cities to be called her own.
+
+### Role in Hera's Persecution of Leto (Hymn IV)
+
+In the [Hymn to Delos](../sources/callimachus-hymns.md), Zeus took away Hera's anger at the moment of Apollo's birth. The swans sang, "the brazen sky echoed back the far-reaching chant and Hera grudged it not, because Zeus had taken away her anger."[^call-z-hera-anger] When the birth messenger reported to Hera, she acknowledged that she honoured Asteria/Delos precisely because the island "did not desecrate my bed, but instead of Zeus preferred the sea."[^call-z-asteria]
+
+[^call-z-cretans]: "Cretans are ever liars. Yea, a tomb, O Lord, for thee the Cretans builded; but thou didst not die, for thou art for ever" (Callimachus, Hymn I to Zeus 8-9, trans. A.W. Mair, 1921)
+[^call-z-parrhasia]: "In Parrhasia it was that Rheia bare thee, where was a hill sheltered with thickest brush. Thence is the place holy, and no fourfooted thing that hath need of Eileithyia nor any woman approacheth thereto, but the Apidanians call it the primeval childbed of Rheia" (Hymn I 10-13)
+[^call-z-staff]: "lifting her great arm aloft she smote the mountain with her staff; and it was greatly rent in twain for her and poured forth a mighty flood. Therein, O Lord, she cleansed they body" (Hymn I 30-31)
+[^call-z-neda]: "she gave thee to Neda to carry within the Cretan covert, that thou mightst be reared secretly: Neda, eldest of the nymphs who then were about her bed, earliest birth after Styx and Philyra" (Hymn I 35-38)
+[^call-z-curetes]: "Adrasteia laid thee to rest in a cradle of gold, and thou didst suck the rich teat of the she-goat Amaltheia, and thereto eat the sweet honey-comb... And lustily round thee danced the Curetes a war-dance, beating their armour, that Cronus might hear with his ears the din of the shield, but not thine infant noise" (Hymn I 47-54)
+[^call-z-might]: "For they said that the lot assigned to the sons of Cronus their three several abodes. But who would draw lots for Olympos and for Hades – save a very fool? For equal chances should one cast lots; but these are the wide world apart... Thou wert made sovereign of the gods not by casting of lots but by the deeds of thy hands, thy might and that strength which thou hast set beside thy throne" (Hymn I 60-66)
+[^call-z-kings]: "thou didst choose the rulers of cities themselves, beneath whose hand is the lord of the soil, the skilled in spearmanship, the oarsman, yea, all things that are... From Zeus come kings; for nothing is diviner than the kings of Zeus" (Hymn I 79-84)
+[^call-z-eagle]: "the most excellent of birds didst thou make the messenger of thy signs; favourable to my friends be the signs thou showest!" (Hymn I 66-68)
+[^call-z-artemis]: "And her father smiled and bowed assent. And as he caressed her, he said: 'When goddesses bear me children like this, little need I heed the wrath of jealous Hera'" (Hymn III 28-29)
+[^call-z-hera-anger]: "the brazen sky echoed back the far-reaching chant and Hera grudged it not, because Zeus had taken away her anger" (Hymn IV 255-257)
+[^call-z-asteria]: "I honour her exceedingly for that she did not desecrate my bed, but instead of Zeus preferred the sea" (Hymn IV 228-229)
+
+## Variant Traditions
+
+### Sovereignty by Lot or by Might?
+
+[Homer](../sources/iliad.md) (Iliad XV) and [Apollodorus](../sources/apollodorus.md) (Bibliotheca 1.2.1) record that the three sons of Cronos drew lots to divide the cosmos, with Zeus receiving the sky. [Callimachus](../sources/callimachus-hymns.md) (Hymn I 60-66) explicitly rejects this: Zeus took sovereignty "not by casting of lots but by the deeds of thy hands, thy might and that strength." Callimachus frames the lot-casting tradition as a fiction, calling lot-casting between Olympus and Hades the idea of "a very fool."
+
 ## Appearances
 
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** I: Born in Parrhasia in Arcadia (not Crete); Rhea smote mountain for water; carried by Neda, nursed by Amaltheia; Curetes danced; sovereign by might not by lot; chose kings for his portion; eagle as messenger
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** III: Grants infant Artemis her wishes; "when goddesses bear me children like this, little need I heed the wrath of jealous Hera"
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** IV: Took away Hera's anger at Apollo's birth; Hera acknowledges Asteria's honour for refusing Zeus's bed
 - **[Theogony](../sources/theogony.md)** 4-96, 141, 389-401, 453-506, 617-735, 820-885, 886-944: Pervasive throughout
 - **[Iliad](../sources/iliad.md)** I: Bound by Hera/Poseidon/Athena, freed by Thetis and Briareus; pledges to honour Achilles; his nod shakes Olympus; quarrels with Hera
 - **[Iliad](../sources/iliad.md)** II: Sends deceptive Dream to Agamemnon; accepts sacrifice but denies fulfilment

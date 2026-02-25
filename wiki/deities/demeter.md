@@ -234,8 +234,42 @@ Demeter appealed to [Zeus](zeus.md) as both mother and father of Proserpina: "If
 [^met-dem-plea]: "O Jupiter, a suppliant to thee, both for my own offspring as well as thine" (Metamorphoses 5.514-515, trans. Brookes More)
 [^met-dem-seeds]: "The virgin, thoughtless while she strayed among the cultivated Stygian fields, had broken fast. While there she plucked the fruit by bending a pomegranate tree, and plucked, and chewed seven grains, picked from the pallid rind" (Metamorphoses 5.534-538, trans. Brookes More)
 
+## In Callimachus's Hymns
+
+### Appearance (Hymn VI)
+
+[Callimachus](../sources/callimachus-hymns.md)'s sixth hymn gives a striking detail of Demeter's divine stature when she reveals her true form to the tree-cutter Erysichthon: "And Demeter was angered beyond telling and put on her goddess shape. Her steps touched the earth, but her head reached unto Olympus."[^call-dem-stature] This massive scale appears in no other source for Demeter.
+
+### The Search for Persephone (Hymn VI)
+
+The hymn alludes briefly to Demeter's wandering during the search for [Persephone](persephone.md): "Lady, how were thy feet able to carry thee unto the West, unto the black men and where the golden apples are? Thou didst not drink nor didst thou eat during that time nor didst thou wash. Thrice didst thou cross Achelous with his silver eddies, and as often didst thou pass over each of the ever-flowing rivers, and thrice didst thou seat thee on the ground beside the fountain Callichorus, parched and without drinking, and didst not eat nor wash."[^call-dem-search] It was Hesperus alone who persuaded her to drink during this time.
+
+### Triptolemus (Hymn VI)
+
+In a brief allusion, Callimachus mentions that Demeter "was the first to cut straw and holy sheaves of corn-ears and put in oxen to tread them, what time Triptolemus was taught the good craft."[^call-dem-triptolemus]
+
+### The Erysichthon Story (Hymn VI)
+
+The central narrative is the punishment of Erysichthon, son of Triopas. While the Pelasgians still dwelt in holy Dotium, they had made Demeter a fair grove "abounding in trees" that she loved "to madness, even as Eleusis."[^call-dem-grove] Erysichthon came with twenty attendants to cut the trees, ignoring Demeter's warning when she appeared disguised as her own priestess Nicippe. On his defiance, Demeter revealed her full form — head reaching to Olympus — and cursed him: "Yea, yea, build thy house, dog, dog, that thou art, wherein thou shalt hold festival; for frequent banquets shall be thine hereafter."[^call-dem-curse]
+
+She sent on him a "cruel and evil hunger — a burning hunger and a strong — and he was tormented by a grievous disease. Wretched man, as much as he ate, so much did he desire again. Twenty prepared the banquet for him."[^call-dem-hunger] He devoured his family's cattle, the heifer reserved for [Hestia](hestia.md), racing horses, and the cat. His parents invented excuses to keep him from public gatherings. Finally "the king's son sat at the crossways, begging for crusts and the cast out refuse of the feast."[^call-dem-crossways]
+
+His father Triopas called on [Poseidon](poseidon.md) (his own divine father) in vain: "Either do thou remove from him his cruel disease or take and feed him thyself; for my tables are already exhausted."[^call-dem-triopas]
+
+See also [Erysichthon](../heroes/erysichthon.md).
+
+[^call-dem-stature]: "And Demeter was angered beyond telling and put on her goddess shape. Her steps touched the earth, but her head reached unto Olympus" (Callimachus, Hymn VI to Demeter 57-59, trans. A.W. Mair, 1921)
+[^call-dem-search]: "how were thy feet able to carry thee unto the West, unto the black men and where the golden apples are? Thou didst not drink nor didst thou eat during that time nor didst thou wash. Thrice didst thou cross Achelous with his silver eddies, and as often didst thou pass over each of the ever-flowing rivers, and thrice didst thou seat thee on the ground beside the fountain Callichorus, parched and without drinking, and didst not eat nor wash" (Hymn VI 9-15)
+[^call-dem-triptolemus]: "she was the first to cut straw and holy sheaves of corn-ears and put in oxen to tread them, what time Triptolemus was taught the good craft" (Hymn VI 17-19)
+[^call-dem-grove]: "unto thyself they made a fair grove abounding in trees; hardly would an arrow have passed through them. Therein was pine, and therein were mighty elms, and therein were pear-trees, and therein were fair sweet-apples; and from the ditches gushes up water as it were of amber. And the goddess loved the place to madness, even as Eleusis" (Hymn VI 25-30)
+[^call-dem-curse]: "Yea, yea, build thy house, dog, dog, that thou art, wherein thou shalt hold festival; for frequent banquets shall be thine hereafter" (Hymn VI 61-62)
+[^call-dem-hunger]: "Straightway she sent on him a cruel and evil hunger – a burning hunger and a strong – and he was tormented by a grievous disease. Wretched man, as much as he ate, so much did he desire again. Twenty prepared the banquet for him" (Hymn VI 66-68)
+[^call-dem-crossways]: "when his teeth dried up the rich house, then the king's son sat at the crossways, begging for crusts and the cast out refuse of the feast" (Hymn VI 111-114)
+[^call-dem-triopas]: "Either do thou remove from him his cruel disease or take and feed him thyself; for my tables are already exhausted" (Hymn VI 104-105)
+
 ## Appearances
 
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** VI: Appearance — "steps touched the earth, but her head reached unto Olympus"; wandered to the West and the black men fasting; sat thrice at the fountain Callichorus without eating or drinking; Triptolemus taught the craft of harvest; Erysichthon's punishment — insatiable hunger; father Triopas's failed appeal to Poseidon
 - **[Metamorphoses](../sources/metamorphoses.md)** 5.341-571: Search for Proserpina with torches; transforms a mocking boy into a lizard; blights Sicily and the world; appeals to Zeus; year divided equally between Persephone and Hades
 - **[Theogony](../sources/theogony.md)** 454, 912-914, 969-974: Named among Cronos's children; bears Persephone; bears Plutus with Iasion
 - **[Homeric Hymn to Demeter](../sources/homeric-hymns.md)**: Search for Persephone; famine; Eleusinian Mysteries

@@ -316,8 +316,29 @@ Jupiter agrees, smiling: "Jove's own sister thou art, and second seed of Saturn,
 [^aen-hera-terms]: "bid thou not the native Latins change their name of old, nor become Trojans and take the Teucrian name, or change their language, or alter their attire: let Latium be, let Alban kings endure through ages, let Italian valour be potent in the race of Rome. Troy is fallen; let her and her name lie where they fell" (Aeneid 12.823-828)
 [^aen-hera-concession]: "I give thee thy will, and yield thee ungrudged victory. Ausonia shall keep her native speech and usage, and as her name is, it shall be. The Trojans shall sink mingling into their blood; I will add their sacred law and ritual, and make all Latins and of a single speech. Hence shall spring a race of tempered Ausonian blood, whom thou shalt see outdo men and gods in duty; nor shall any nation so observe thy worship" (Aeneid 12.833-840)
 
+## In Callimachus's Hymns
+
+### Persecution of Leto (Hymn IV)
+
+[Callimachus](../sources/callimachus-hymns.md)'s fourth hymn gives the most elaborate account of Hera's campaign against [Leto](../deities/leto.md). Hera was "angered in her heart greatly and beyond telling" that Leto "was to bear to Zeus a son dearer even than Ares."[^call-hera-anger] She stationed two sentinels: "The space of the continent did bold Ares watch, sitting armed on the high top of Thracian Haemus... And the other kept watch over the far-flung islands, even the daughter of Thaumas [Iris] seated on Mimas, whither she had sped. There they sat and threatened all the cities which Leto approached and prevented them from receiving her."[^call-hera-watch]
+
+Every land fled. When the river Peneius showed compassion and offered to receive Leto, Ares threatened to hurl the peaks of Pangaeum into his waters and bury his streams. He "smote his shield with the point of his spear, and it rang with a warlike noise. And the hills of Ossa trembled and the plain of Crannon, and the windswept skirts of Pindus, and all Thessaly danced for fear."[^call-hera-ares]
+
+After the birth, a messenger rushed to report to Hera. The scene is vivid: "Hera was grievously angered and spake to her: 'So now, O shameful creatures of Zeus, may ye all wed in secret and bring forth in darkness, not even where the poor mill-women bring forth in difficult labour, but where the seals of the sea bring forth, amid the desolate rocks.'"[^call-hera-speech]
+
+### Mixed Reaction to Asteria (Hymn IV)
+
+Though furious, Hera made an exception for Asteria (the island Delos): "But against Asteria am I no wise angered for this sin, nor can I do to her so unkindly as I should – for very wrongly has she done a favour to Leto. Howbeit I honour her exceedingly for that she did not desecrate my bed, but instead of Zeus preferred the sea."[^call-hera-asteria] Hera's anger at Leto is thus distinguished from her continued honour of the island that had earlier refused Zeus's advances.
+
+[^call-hera-anger]: "she prevented Leto who was holden in the pangs of childbirth... for that she only was to bear to Zeus a son dearer even than Ares" (Callimachus, Hymn IV to Delos 57-59, trans. A.W. Mair, 1921)
+[^call-hera-watch]: "The space of the continent did bold Ares watch, sitting armed on the high top of Thracian Haemus, and his horses were stalled by the seven-chambered cave of Boreas. And the other kept watch over the far-flung islands, even the daughter of Thaumas seated on Mimas... There they sat and threatened all the cities which Leto approached and prevented them from receiving her" (Hymn IV 68-74)
+[^call-hera-ares]: "he made a din as of thunder and smote his shield with the point of his spear, and it rang with a warlike noise. And the hills of Ossa trembled and the plain of Crannon, and the windswept skirts of Pindus, and all Thessaly danced for fear" (Hymn IV 138-142)
+[^call-hera-speech]: "Hera was grievously angered and spake to her: 'So now, O shameful creatures of Zeus, may ye all wed in secret and bring forth in darkness, not even where the poor mill-women bring forth in difficult labour, but where the seals of the sea bring forth, amid the desolate rocks'" (Hymn IV 204-207)
+[^call-hera-asteria]: "But against Asteria am I no wise angered for this sin, nor can I do to her so unkindly as I should – for very wrongly has she done a favour to Leto. Howbeit I honour her exceedingly for that she did not desecrate my bed, but instead of Zeus preferred the sea" (Hymn IV 207-209)
+
 ## Appearances
 
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** IV: Persecution of Leto — stationed Ares on Haemus and Iris on Mimas to drive all lands from receiving Leto; Ares threatened Peneius with burial under Pangaeum; message brought to Hera of the birth; bitter speech against "shameful creatures of Zeus"; mixed reaction to Delos — honoured for refusing Zeus's bed
 - **[Argonautica](../sources/argonautica.md)** 1-4: Divine patron of the expedition; motivated by Jason carrying her across the Anaurus; conspired with Athena and Aphrodite to deploy Eros against Medea; spread mist over the Argo at Colchis; summoned Thetis via Iris; arranged Hephaestus and Aeolus to give safe passage; devised the Phaeacian marriage; sent nymphs to attend the wedding
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.601-746: Detects Zeus's affair with Io; claims heifer; sets Argus to guard; decorates peacock with Argus's eyes; drives Io with a Fury
 - **[Metamorphoses](../sources/metamorphoses.md)** 2.532-535: Peacock chariot — travels through the air with peacocks many-hued

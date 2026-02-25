@@ -369,8 +369,55 @@ The Chorus later celebrates Apollo's time as a shepherd: "the Pythian Apollo, ma
 [^eur-alc-prophecy]: "such a man will come to the house of Pheres, whom Eurystheus hath sent after the chariot and its horses, to bring them from the wintry regions of Thrace, who in sooth, being welcomed in the mansions of Admetus, shall take away by force this woman from thee" (Alcestis 65-69)
 [^eur-alc-shepherd]: "the Pythian Apollo, master of the lyre, deigned to inhabit, and endured to become a shepherd in thine abodes, through the sloping hills piping to thy flocks his pastoral nuptial hymns. And there were wont to feed with them, through delight of his lays, both the spotted lynxes, and the bloody troop of lions... disported too around thy cithern, Phoebus, the dappled fawn" (Alcestis 569-580)
 
+## In Callimachus's Hymns
+
+### Appearance and Qualities (Hymn II)
+
+Callimachus's second hymn opens with a vivid description of Apollo's divine appearance at his epiphany: "Golden is the tunic of Apollo and golden his mantle, his lyre and his Lyctian bow and his quiver: golden too are his sandals; for rich in gold is Apollo, rich also in possessions."[^call-apo-golden] His youth is permanent: "ever beautiful is he and ever young: never on the girl cheeks of Apollo hath come so much as the down of manhood."[^call-apo-young] His hair has a distinctive quality: "His locks distil fragrant oils upon the ground; not oil of fat do the locks of Apollo distil but he very Healing of All. And in whatsoever city whose dews fall upon the ground, in that city all things are free from harm."[^call-apo-locks]
+
+### Skills and Domains (Hymn II)
+
+"None is so abundant in skill as Apollo. To him belongs the archer, to him the minstrel; for unto Apollo is given in keeping alike archery and song. His are the lots of the diviner and his the seers; and from Phoebus do leeches know the deferring of death."[^call-apo-skills]
+
+### As Herdsman of Admetus (Hymn II)
+
+Callimachus gives Apollo the cult name Nomius (the Herdsman) because of his service to Admetus: "Phoebus and Nomius we call him, ever since that when by Amphrysus he tended the yokemares, fired with love of young Admetus. Lightly would the herd of cattle wax larger, nor would the she-goats of the flock lack young, whereon as they feed Apollo casts his eye; nor without milk would the ewes be nor barren, but all would have lambs at foot; and she that bare one would soon be the mother of twins."[^call-apo-nomius]
+
+### The Altar of Horns (Hymn II)
+
+At age four, Apollo built his first altar on Ortygia (Delos): "Four years of age was Phoebus when he framed his first foundations in fair Ortygia near the round lake. Artemis hunted and brought continually the heads of Cynthian goats and Phoebus plaited an altar. With horns builded he the foundations, and of horns framed he the altar, and of horns were the walls he built around. Thus did Phoebus learn to raise his first foundations."[^call-apo-horns]
+
+### Slaying the Serpent (Hymn II)
+
+The refrain "Hië Paeëon" originated when Apollo slew the Python: "As thou wert going down to Pytho, there met thee a beast unearthly, a dread snake. And him thou didst slay, shooting swift arrows one upon the other; and the folk cried 'Hië, Hië, Paeëon, shoot an arrow!'"[^call-apo-python]
+
+### Cult Names (Hymn II)
+
+Apollo is called by several cult titles here: **Boëdromius** ("Helper in Distress"), **Clarius** (from Claros), and most prominently **Carneius**, the form worshipped at Sparta, Thera, and Cyrene. Callimachus traces the genealogy of the Carnean cult from Sparta through six generations of the sons of Oedipus to their colony of Thera, and from Thera to Cyrene.[^call-apo-carneius]
+
+### Prophesying from the Womb (Hymn IV)
+
+In the [Hymn to Delos](../sources/callimachus-hymns.md), while still in [Leto](../deities/leto.md)'s womb, Apollo prophesied against Thebes. He rebuked the city for trying to receive Leto: "Flee on! Swiftly shall I overtake thee and wash my bow in blood. Thou hast in thy keeping the children of a slanderous woman. Not thou shalt be my dear nurse, nor Cithaeron. Pure am I and may I be the care of them that are pure."[^call-apo-womb]
+
+### Seven Swans and Seven Strings (Hymn IV)
+
+When Apollo was born on Delos, "with music the swans, the gods' own minstrels, left Maeonian Pactolus and circled seven times round Delos, and sang over the bed of child-birth, the Muses' birds, most musical of all birds that fly. Hence that child in after days strung the lyre with just so many strings – seven strings, since seven times the swans sang over the pangs of birth."[^call-apo-swans]
+
+[^call-apo-golden]: "Golden is the tunic of Apollo and golden his mantle, his lyre and his Lyctian bow and his quiver: golden too are his sandals; for rich in gold is Apollo, rich also in possessions" (Callimachus, Hymn II to Apollo 32-34, trans. A.W. Mair, 1921)
+[^call-apo-young]: "ever beautiful is he and ever young: never on the girl cheeks of Apollo hath come so much as the down of manhood" (Hymn II 36-37)
+[^call-apo-locks]: "His locks distil fragrant oils upon the ground; not oil of fat do the locks of Apollo distil but he very Healing of All. And in whatsoever city whose dews fall upon the ground, in that city all things are free from harm" (Hymn II 38-41)
+[^call-apo-skills]: "None is so abundant in skill as Apollo. To him belongs the archer, to him the minstrel; for unto Apollo is given in keeping alike archery and song. His are the lots of the diviner and his the seers; and from Phoebus do leeches know the deferring of death" (Hymn II 42-46)
+[^call-apo-nomius]: "Phoebus and Nomius we call him, ever since that when by Amphrysus he tended the yokemares, fired with love of young Admetus. Lightly would the herd of cattle wax larger, nor would the she-goats of the flock lack young, whereon as they feed Apollo casts his eye; nor without milk would the ewes be nor barren, but all would have lambs at foot; and she that bare one would soon be the mother of twins" (Hymn II 47-54)
+[^call-apo-horns]: "Four years of age was Phoebus when he framed his first foundations in fair Ortygia near the round lake. Artemis hunted and brought continually the heads of Cynthian goats and Phoebus plaited an altar. With horns builded he the foundations, and of horns framed he the altar, and of horns were the walls he built around" (Hymn II 55-62)
+[^call-apo-python]: "As thou wert going down to Pytho, there met thee a beast unearthly, a dread snake. And him thou didst slay, shooting swift arrows one upon the other; and the folk cried 'Hië, Hië, Paeëon, shoot an arrow!'" (Hymn II 97-101)
+[^call-apo-carneius]: "Many there be that call thee Boëdromius, and many there be that call thee Clarius: everywhere is thy name on the lips of many. But I call thee Carneius; for such is the manner of my fathers" (Hymn II 69-71)
+[^call-apo-womb]: "Flee on! Swiftly shall I overtake thee and wash my bow in blood. Thou hast in thy keeping the children of a slanderous woman. Not thou shalt be my dear nurse, nor Cithaeron. Pure am I and may I be the care of them that are pure" (Hymn IV 91-94)
+[^call-apo-swans]: "with music the swans, the gods' own minstrels, left Maeonian Pactolus and circled seven times round Delos, and sang over the bed of child-birth, the Muses' birds, most musical of all birds that fly. Hence that child in after days strung the lyre with just so many strings – seven strings, since seven times the swans sang over the pangs of birth" (Hymn IV 249-253)
+
 ## Appearances
 
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** II: Physical appearance — golden tunic, mantle, lyre, bow, quiver, and sandals; "ever beautiful and ever young"; locks distil healing oils; archery, song, divination, and medicine all his; Nomius from service to Admetus; built horn altar at age four; slew Python; cult names Boëdromius, Clarius, Carneius
+- **[Callimachus, Hymns](../sources/callimachus-hymns.md)** IV: Prophesied against Thebes from the womb; seven swans circled Delos at his birth hence seven strings on the lyre
 - **[Euripides' Alcestis](../sources/euripides-alcestis.md)** 1-76, 569-580: Opens the play from Admetus's house; served as slave after killing the Cyclopes in revenge for Asclepius; deluded the Fates; confronts Death directly; prophesies Heracles will rescue Alcestis; Chorus celebrates him as shepherd whose music charmed lynxes, lions, and the dappled fawn
 - **[Argonautica](../sources/argonautica.md)** 1, 2, 4: Orpheus sang of his slaying of Delphyne at Parnassus; appeared at island of Thynias passing from Lycia to Hyperboreans — golden locks, island quaked, none could look at his face; appeared in darkness at the Melantian rocks, golden bow illuminating the night and revealing the isle of Anaphe; sons among the Argonauts — Idmon (acknowledged before the voyage), Aristaeus (by Cyrene), and Mopsus (given augury)
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.438-567: Slays Python; institutes Pythian Games; pursues Daphne; claims laurel as sacred tree
