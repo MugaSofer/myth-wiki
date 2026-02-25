@@ -140,6 +140,30 @@ The fullest Pindaric account of Ajax's birth and naming appears in Isthmian V (s
 
 [^pin-ist5-naming]: "after the bird's name that had appeared unto them he said that the child's name should be the mighty Aias, terrible in the strife of warring hosts" (Pindar, Isthmian V, trans. Ernest Myers)
 
+## In the Posthomerica
+
+### Defence of Achilles' Body (Book III)
+
+When [Achilles](achilles.md) fell, Ajax was the first to act. He "bestrode the dead" and thrust back [Paris](paris.md), Glaucus, [Aeneas](aeneas.md), and Agenor with his long lance. He killed Glaucus over the corpse, and wounded Aeneas in the right forearm. [Odysseus](odysseus.md) fought beside him, but it was Ajax who single-handedly routed the entire Trojan host back to their walls, then carried Achilles' giant body to the ships — "yet never touched he with his feet the ground, but aye he trod on dead men, arms, and blood."[^post-body]
+
+### The Judgment of Arms (Book V)
+
+[Thetis](../deities/thetis.md) set down Achilles' divine arms as the prize for whoever best rescued the body. Both Ajax and [Odysseus](odysseus.md) claimed them. [Nestor](nestor.md) suggested Trojan captives as impartial judges. Ajax made an impassioned speech, boasting: "I with heart unquailing there stood fast facing the fire and Hector" and accusing Odysseus of cowardice: "Thy dam bare thee a craven and a weakling wretch." He challenged Odysseus to trial by combat: "Silver-footed Thetis set in the midst this prize for prowess, not for pestilent words."[^post-speech] Odysseus countered with his own achievements. The Trojan captives judged Odysseus the greater threat.
+
+### Madness, Slaughter, and Death (Book V)
+
+Ajax "would none of meat or drink, nor clasped him round the arms of sleep." He armed himself with sword drawn, planning to set the ships aflame and slaughter the Greeks — "nay, had soon accomplished all, had Pallas not with madness smitten him; for over Odysseus, strong to endure, her heart yearned." He fell on the sheep like a lion, "deeming he dealt to Danaans evil doom." Standing over a slaughtered ram, he laughed and mocked it as Odysseus: "Lie there in dust; be meat for dogs and kites! Achilles' glorious arms have saved not thee."[^post-madness]
+
+When [Athena](../deities/athena.md) lifted the madness, Ajax saw the sheep and "sore amazed he stood, for he divined that by the Blessed Ones his senses had been cheated." He lamented: "Ah me! why do the Gods abhor me so?" Then "he thrust the sword of Hector through his throat. Forth rushed the blood in torrent: in the dust outstretched he lay, like Typhon, when the bolts of Zeus had blasted him."[^post-death2]
+
+Teucer nearly killed himself in grief. [Tecmessa](tecmessa.md), his captive-bride, wailed over him: "All thine heart was kindness unto me the hapless, and thou madest me thy wife... thou promisedst to throne me queen of fair-towered Salamis." Agamemnon promised to protect her and their son Eurysaces. Odysseus spoke with genuine remorse: "Would to God that ne'er yon Trojans in the strife for Achilles' arms had crowned me with that victory... had mine heart foreboded aught of this... never for victory had I striven with him."[^post-odysseus-remorse] Ajax was burned on a great pyre, his bones placed in a golden casket, and buried beside Rhoeteium's headland.
+
+[^post-body]: "yet never touched he with his feet the ground, but aye he trod on dead men, arms, and blood; for countless corpses lay o'er that wide stretch even from broad-wayed Troy to Hellespont" (Posthomerica 3.2721-2725, trans. A.S. Way)
+[^post-speech]: "I with heart unquailing there stood fast facing the fire and Hector... Silver-footed Thetis set in the midst this prize for prowess, not for pestilent words" (Posthomerica 5.4206-4231, trans. A.S. Way)
+[^post-madness]: "Lie there in dust; be meat for dogs and kites! Achilles' glorious arms have saved not thee, for which thy folly strove with a better man!" (Posthomerica 5.4481-4483, trans. A.S. Way)
+[^post-death2]: "he thrust the sword of Hector through his throat. Forth rushed the blood in torrent: in the dust outstretched he lay, like Typhon, when the bolts of Zeus had blasted him" (Posthomerica 5.4531-4534, trans. A.S. Way)
+[^post-odysseus-remorse]: "Would to God that ne'er yon Trojans in the strife for Achilles' arms had crowned me with that victory... had mine heart foreboded aught of this, this desperation of a soul distraught, never for victory had I striven with him" (Posthomerica 5.4647-4658, trans. A.S. Way)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** VII: Single combat with [Hector](hector.md); "bulwark of the Achaians"; tower-like sevenfold shield; nearly defeats Hector; parted by heralds
@@ -162,6 +186,9 @@ The fullest Pindaric account of Ajax's birth and naming appears in Isthmian V (s
 - **[Pindar](../sources/pindar.md)**, Nemean VII: Homer's fame for Odysseus exceeds justice; "never would stalwart Aias... have struck through his midriff the sharp sword" had the truth been known; "after Achilles was best in battle of all men"
 - **[Pindar](../sources/pindar.md)**, Nemean VIII: "Envy slay the son of Telamon, thrusting him through with his own sword"; the Danaoi voted secretly to favour Odysseus and robbed him of the golden arms
 - **[Pindar](../sources/pindar.md)**, Isthmian V: Named Aias after the eagle (*aietos*) sent by Zeus in response to [Heracles](heracles.md)'s prayer; "terrible in the strife of warring hosts"
+- **[Posthomerica](../sources/posthomerica.md)** III: Bestrides Achilles' body; kills Glaucus; wounds Aeneas; routs entire Trojan host; carries the body to the ships
+- **[Posthomerica](../sources/posthomerica.md)** IV: Wins discus at funeral games; wrestles Diomedes (loses by craft); challenges for the arms
+- **[Posthomerica](../sources/posthomerica.md)** V: Claims arms by deeds; Trojan captives judge for Odysseus; Athena sends madness; slaughters sheep thinking them Greeks; kills himself with Hector's sword through the throat; mourned by Teucer, Tecmessa, Odysseus; buried at Rhoeteium
 
 [^apd-birth]: "when Hercules had prayed that he might have a male child, an eagle appeared after the prayer" (Bibliotheca 3.12.7, trans. J.G. Frazer)
 [^apd-ships]: "Of the Salaminians, Telamonian Ajax: he brought twelve ships" (Bibliotheca E.3.11, trans. J.G. Frazer)
