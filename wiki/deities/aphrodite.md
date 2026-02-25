@@ -153,6 +153,18 @@ Helen obeys in fear. Aphrodite then serves her directly: "laughter-loving Aphrod
 [^il3-threat]: "Provoke me not, rash woman, lest in mine anger I desert thee, and hate thee even as now I love thee beyond measure, and lest I devise grievous enmities between both, even betwixt Trojans and Achaians, and so thou perish in evil wise" (Iliad 3.409-413)
 [^il3-chair]: "laughter-loving Aphrodite took for her a chair and brought it, even she the goddess, and set it before the face of Paris" (Iliad 3.421-422)
 
+### Wounded by Diomedes (Book V)
+
+Aphrodite shields her son Aeneas from [Diomedes](../heroes/diomedes.md): "About her dear son wound she her white arms, and spread before his face a fold of her radiant vesture." But Diomedes, empowered by [Athena](athena.md), "thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the [Graces](groups/graces.md) themselves had woven her pierced the dart into the flesh."[^il5-wound]
+
+Then flows "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals."[^il5-ichor]
+
+She fled in pain to [Olympus](../places/olympus.md) and "fell upon [Dione](dione.md)'s knees that was her mother." [Zeus](zeus.md) told her gently: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet [Ares](ares.md) and Athene look."[^il5-zeus]
+
+[^il5-wound]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm" (Iliad 5.348-351, trans. Lang, Leaf, and Myers)
+[^il5-ichor]: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad 5.352-354)
+[^il5-zeus]: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet Ares and Athene look" (Iliad 5.441-443)
+
 ## In the Odyssey
 
 ### The Song of Ares and Aphrodite (Book VIII)
@@ -268,19 +280,7 @@ She then lifted the veil from his mortal sight to reveal the gods destroying [Tr
 [^aen-aph-revelation]: "Neptune with his great trident shakes wall and foundation out of their places, and upturns all the city from her base. Here Juno in all her terror holds the Scaean gates... Tritonian Pallas is planted in glittering halo and Gorgonian terror" (Aeneid 2.610-616)
 [^aen-aph-promise]: "Haste away, O son, and put an end to the struggle. I will never desert thee; I will set thee safe in the courts of thy father's house" (Aeneid 2.619-620)
 
-### Wounded by Diomedes / Ichor (Book V)
-
-In [Iliad](../sources/iliad.md) Book V, Aphrodite shields her son Aeneas from Diomedes: "About her dear son wound she her white arms, and spread before his face a fold of her radiant vesture." But Diomedes, empowered by [Athena](athena.md), "thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the [Graces](groups/graces.md) themselves had woven her pierced the dart into the flesh."[^il5-wound]
-
-Then flows "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals."[^il5-ichor]
-
-She fled in pain to [Olympus](../places/olympus.md) and "fell upon [Dione](dione.md)'s knees that was her mother." [Zeus](zeus.md) told her gently: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet [Ares](ares.md) and Athene look."[^il5-zeus]
-
-[^il5-wound]: "great-hearted Tydeus' son thrust with his keen spear, and leapt on her and wounded the skin of her weak hand; straight through the ambrosial raiment that the Graces themselves had woven her pierced the dart into the flesh, above the springing of the palm" (Iliad 5.348-351, trans. Lang, Leaf, and Myers)
-[^il5-ichor]: "the goddess's immortal blood, such ichor as floweth in the blessed gods; for they eat no bread neither drink they gleaming wine, wherefore they are bloodless and are named immortals" (Iliad 5.352-354)
-[^il5-zeus]: "Not unto thee, my child, are given the works of war; but follow thou after the loving tasks of wedlock, and to all these things shall fleet Ares and Athene look" (Iliad 5.441-443)
-
-## In the Bibliotheca (1.4.4)
+## In the Bibliotheca
 
 ### Cursing Eos
 
