@@ -61,6 +61,10 @@ After the divine substitution, the messenger tells her "thy child has evidently 
 [^lb-snake]: "Ah, me! this snake it was I bore and nursed" (Libation-Bearers ~928, trans. E.D.A. Morshead)
 [^eum-ghost]: "Sleep on! awake! what skills your sleep to me—me, among all the dead by you dishonoured" (Eumenides ~100, trans. E.D.A. Morshead)
 [^eum-blow]: "Blow forth on him the breath of wrath and blood, scorch him with reek of fire that burns in you" (Eumenides ~130, trans. E.D.A. Morshead)
+[^soph-el-justice]: "So I did: I know it well: that I deny not; for not I alone but Justice slew him" (Sophocles' Electra, trans. Lewis Campbell, 1883)
+[^soph-el-mother]: "To be a mother hath a marvellous power: no injury can make one hate one's child" (Sophocles' Electra, trans. Lewis Campbell)
+[^soph-el-freed]: "this day's chance hath freed me from all fear of him" (Sophocles' Electra, trans. Lewis Campbell)
+[^soph-el-womb]: "O son, have pity! Pity the womb that bare thee" (Sophocles' Electra, trans. Lewis Campbell)
 
 ## In Aeschylus' Agamemnon
 
@@ -90,6 +94,22 @@ When [Orestes](orestes.md) arrives disguised as a traveler with news of his own 
 
 In the *[Eumenides](../sources/aeschylus-eumenides.md)*, Clytemnestra appears as a ghost at [Delphi](../places/delphi.md), rising to rouse the sleeping [Furies](../creatures/erinyes.md). She rebukes them for letting Orestes escape: "Sleep on! awake! what skills your sleep to me—me, among all the dead by you dishonoured."[^eum-ghost] She reminds them of the libations and offerings she once made to them, and demands they resume the hunt: "Blow forth on him the breath of wrath and blood."[^eum-blow]
 
+## In Sophocles' Electra
+
+In [Sophocles](../sources/sophocles-electra.md)' tragedy, Clytemnestra openly justifies killing [Agamemnon](agamemnon.md): he sacrificed [Iphigenia](iphigenia.md) for the sake of Menelaus's war, and therefore deserved death. She is challenged by [Electra](electra.md), who retorts that Agamemnon acted under divine compulsion and that Clytemnestra's real motive was [Aegisthus](aegisthus.md). Clytemnestra's own defence is unambiguous: "So I did: I know it well: that I deny not; for not I alone but Justice slew him."[^soph-el-justice]
+
+### The Prophetic Dream
+
+Clytemnestra has been frightened by a prophetic dream: Agamemnon's ghost returned and planted his sceptre on the hearth, and from it a shoot grew that shadowed all Mycenae. She sends [Chrysothemis](chrysothemis.md) with offerings to Agamemnon's tomb in response. She also prays to [Apollo](../deities/apollo.md) for protection and release from her fears.
+
+### The False Report
+
+When the tutor arrives with the false news of Orestes' death in a chariot race, Clytemnestra receives it with mixed feeling: "To be a mother hath a marvellous power: no injury can make one hate one's child."[^soph-el-mother] Yet she is ultimately relieved — the threat to her life is removed: "this day's chance hath freed me from all fear of him."[^soph-el-freed]
+
+### Death
+
+Killed by Orestes offstage. Her cries are heard within: "O son, have pity! Pity the womb that bare thee."[^soph-el-womb] Electra, standing at the door, answers her.
+
 ## Variant Traditions
 
 Clytemnestra's role in the murder varies significantly across sources. In the [Odyssey](../sources/odyssey.md), she is a secondary figure alongside [Aegisthus](aegisthus.md). In the [Bibliotheca](../sources/apollodorus.md), both conspire equally. In the [Fabulae](../sources/hyginus.md), she is motivated by Oiax's false report about Cassandra. In Aeschylus' *Agamemnon*, she is the sole planner and executioner, with Aegisthus arriving only afterward to claim credit.
@@ -109,3 +129,4 @@ The murder weapon also differs: the Bibliotheca describes "a shirt without sleev
 - **[Agamemnon](../sources/aeschylus-agamemnon.md)**: Beacon speech; lays out purple tapestries; traps Agamemnon in robe-net; strikes three blows; justifies with Iphigenia; claims to end the curse; asserts joint rule with Aegisthus
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Serpent dream; sends libations to Agamemnon's tomb; welcomes disguised Orestes; bares her breast and pleads; warned of her "vengeful hounds"; killed by Orestes
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: Appears as ghost at Delphi; rouses the sleeping Furies to pursue Orestes
+- **[Sophocles' Electra](../sources/sophocles-electra.md)**: Defends killing Agamemnon as justice; confronted by Electra; frightened by prophetic dream of Agamemnon's sceptre-tree; sends Chrysothemis with offerings; relieved by false news of Orestes' death; killed by Orestes offstage; her cries heard within

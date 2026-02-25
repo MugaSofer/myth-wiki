@@ -78,6 +78,31 @@ He gave Helenus his mother Deidamia in marriage, and "when Peleus was expelled f
 
 In one tradition, the kinfolk of Penelope's slain suitors "submitted the case to the judgment of Neoptolemus, king of the islands off Epirus; that Neoptolemus, thinking to get possession of Cephallenia if once Ulysses were put out of the way, condemned him to exile."[^apd-judge]
 
+## In Sophocles' [Philoctetes](../sources/sophocles-philoctetes.md)
+
+### The Mission to Lemnos
+
+In Sophocles' play, Neoptolemus is sent with [Odysseus](odysseus.md) to retrieve [Philoctetes](philoctetes.md) and [Heracles'](heracles.md) bow from [Lemnos](../places/lemnos.md). Odysseus tells him he must use deception — but Neoptolemus objects: "'Tis not my nature, no, nor, as they tell, my father's, to work aught by craft and guile."[^soph-phil-nature] Odysseus persuades him that "Words and not deeds give mastery over men," and that Troy cannot fall otherwise.[^soph-phil-words]
+
+### The Moral Crisis
+
+Neoptolemus deceives Philoctetes with a false story and wins his trust so completely that Philoctetes entrusts him with the irreplaceable bow. But when Philoctetes wakes from a pain-induced collapse and thanks him for his faithfulness, Neoptolemus cannot sustain the lie: "My baseness will appear. That wrings my soul."[^soph-phil-baseness] He reveals the truth — that Philoctetes must go to Troy.
+
+When Odysseus takes over and declares Philoctetes dispensable, Neoptolemus is increasingly troubled: "My heart is pressed with a strange pity for him, not now beginning, but long since begun."[^soph-phil-pity]
+
+### Defying Odysseus
+
+Neoptolemus returns to give back the bow, defying Odysseus. When Odysseus threatens him with the army's wrath, Neoptolemus responds: "In doing right I fear not them nor thee."[^soph-phil-right] They nearly come to swords before Odysseus retreats. Neoptolemus returns the bow and reveals the full prophecy from [Helenus](helenus.md): Philoctetes bears his wound from approaching the serpent-guardian of Chrysa, and the sons of [Asclepius](asclepius.md) will heal him at Troy.
+
+When Philoctetes still refuses, Neoptolemus agrees to take him home instead, honouring his promise. [Heracles](heracles.md)' intervention as deus ex machina resolves the impasse. Heracles tells Neoptolemus that neither hero can conquer Troy without the other: "like twin lions hunting the same hill, guard thou him, and he thee!"[^soph-phil-lions] Neoptolemus obeys "with gladdened heart."
+
+[^soph-phil-nature]: "'Tis not my nature, no, nor, as they tell, my father's, to work aught by craft and guile" (Sophocles, Philoctetes, trans. Lewis Campbell)
+[^soph-phil-words]: "Words and not deeds give mastery over men" (Sophocles, Philoctetes)
+[^soph-phil-baseness]: "My baseness will appear. That wrings my soul" (Sophocles, Philoctetes)
+[^soph-phil-pity]: "My heart is pressed with a strange pity for him, / Not now beginning, but long since begun" (Sophocles, Philoctetes)
+[^soph-phil-right]: "In doing right I fear not them nor thee" (Sophocles, Philoctetes)
+[^soph-phil-lions]: "like twin lions hunting the same hill, / Guard thou him, and he thee!" (Sophocles, Philoctetes)
+
 ## In the Posthomerica
 
 The [Posthomerica](../sources/posthomerica.md) gives the most extended account of Neoptolemus at Troy, where he is the dominant Greek warrior from his arrival through the sack of the city.
@@ -210,6 +235,7 @@ The sources agree on Neoptolemus's ferocity at Troy but differ on his fate and c
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.21-23: Slays Priam at the altar of Zeus of the Courtyard; receives Andromache as spoil
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.5, E.6.12-14: Thetis persuades him to wait two days; conquers Molossia; begets Molossus; succeeds Peleus at Phthia; slain at Delphi
 - **[Bibliotheca](../sources/apollodorus.md)** E.7.40: Judges Odysseus's case, condemns him to exile
+- **[Sophocles, Philoctetes](../sources/sophocles-philoctetes.md)**: Sent with [Odysseus](odysseus.md) to deceive [Philoctetes](philoctetes.md); moral crisis over using guile; defies Odysseus to return the bow; "In doing right I fear not them nor thee"; paired with Philoctetes by [Heracles](heracles.md) as "twin lions"
 - **[Posthomerica](../sources/posthomerica.md)** VII: Fetched from Scyros by Odysseus and Diomedes; Deidameia's grief; dons Achilles' arms and seems Achilles reborn; Phoenix weeps for joy; Agamemnon greets him
 - **[Posthomerica](../sources/posthomerica.md)** VIII: Rides Achilles' immortal horses; duels and kills Eurypylus (Pelian lance through throat); routs Trojans to their gates; fights on undaunted when Ares intervenes; Thetis charms weariness from him
 - **[Posthomerica](../sources/posthomerica.md)** IX: Weeps at Achilles' tomb

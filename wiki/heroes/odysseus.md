@@ -347,6 +347,22 @@ Agamemnon yields reluctantly. Teucer praises Odysseus as "best of men" — his "
 [^soph-od-mag]: "Hatred gives way to magnanimity" (Sophocles, Ajax)
 [^soph-od-best]: "Odysseus, best of men, thine every word hath my heart's praise, and my worst thought of thee is foiled by thy staunch kindness to the man who was thy rancorous foe" (Sophocles, Ajax)
 
+## In Sophocles' [Philoctetes](../sources/sophocles-philoctetes.md)
+
+### The Architect of Deception
+
+Odysseus devises the plan to retrieve [Philoctetes](philoctetes.md) and [Heracles'](heracles.md) bow from [Lemnos](../places/lemnos.md). He instructs [Neoptolemus](neoptolemus.md) to deceive Philoctetes with a false story, telling the reluctant youth: "Words and not deeds give mastery over men."[^soph-od-phil-words] He cannot approach Philoctetes himself — "I was the man who set thee on this shore" — so he remains hidden while Neoptolemus works the deception.
+
+When the plan falters and Neoptolemus's conscience revolts, Odysseus intervenes directly. He claims divine sanction: "'Tis Zeus, I tell thee, monarch of this isle, who thus hath willed. I am his minister."[^soph-od-phil-zeus] He declares Philoctetes himself dispensable — the bow is what matters: "What further use of thee, when we have ta'en these arms? Have we not Teucer, skilled in this mystery?"[^soph-od-phil-teucer]
+
+### Defeated by Honour
+
+When Neoptolemus returns to give back the bow, Odysseus threatens him with the army's punishment. But Neoptolemus stands firm, and when Odysseus reaches for his sword, he backs down — retreating to report to the army instead. He reappears once more to protest when Neoptolemus hands over the bow, but Philoctetes aims an arrow at him and he flees. The play thus shows Odysseus's pragmatic cunning defeated by the combination of Neoptolemus's honour and Philoctetes' fury.
+
+[^soph-od-phil-words]: "Words and not deeds give mastery over men" (Sophocles, Philoctetes, trans. Lewis Campbell)
+[^soph-od-phil-zeus]: "'Tis Zeus, I tell thee, monarch of this isle, / Who thus hath willed. I am his minister" (Sophocles, Philoctetes)
+[^soph-od-phil-teucer]: "What further use of thee, / When we have ta'en these arms? Have we not Teucer, / Skilled in this mystery?" (Sophocles, Philoctetes)
+
 ## In the [Posthomerica](../sources/posthomerica.md)
 
 ### Defence of Achilles' Body (Book III)
@@ -448,6 +464,7 @@ Odysseus leads the heroes out of the horse after Sinon's signal (see above), res
 - **[Hecuba](../sources/euripides-hecuba.md)**: Persuades Greeks to sacrifice Polyxena at Achilles' tomb; Hecuba reminds him she saved his life as a spy in Troy; acknowledges the debt but insists on honoring the dead; "that subtle adviser, that babbling knave, honeyed in speech, pleasing to the populace"
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Called "son of Sisyphus" (alternate parentage tradition); will lead the mob to seize [Iphigenia](iphigenia.md); "chosen willingly" to conduct her to sacrifice; represents the dangerous power of the multitude
 - **[Achilleid](../sources/achilleid.md)** 1.538-960, 2.1-85: Sails to Scyros with Diomedes to retrieve Achilles; enters Lycomedes' court under false pretence; spots Achilles among the maidens; plants weapons among gifts; whispers the revelation; comforts Achilles on the voyage to Troy
+- **[Sophocles, Philoctetes](../sources/sophocles-philoctetes.md)**: Devises the deception of [Philoctetes](philoctetes.md); "Words and not deeds give mastery over men"; claims Zeus's authority; declares Philoctetes dispensable; defeated by [Neoptolemus](neoptolemus.md)'s honour; flees Philoctetes' arrow
 - **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Pities maddened Ajax — "none of us that live are more than phantoms all, or empty shadow"; argues for Ajax's burial against Menelaus and Agamemnon; "Hatred gives way to magnanimity"; praised by Teucer as "best of men"
 - **[Posthomerica](../sources/posthomerica.md)** III: Fights beside Ajax to defend Achilles' body; kills Maenalus, Atymnius, and Proteus; wounded in the right knee by Alcon but fights on
 - **[Posthomerica](../sources/posthomerica.md)** IV: Sidelined from the funeral games by Alcon's wound

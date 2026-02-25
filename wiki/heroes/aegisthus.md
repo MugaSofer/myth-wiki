@@ -41,6 +41,12 @@ Aegisthus claims the murder as rightful vengeance: "I, who else? this murder wov
 
 In the *[Libation-Bearers](../sources/aeschylus-libation-bearers.md)*, Aegisthus is summoned to meet the disguised [Orestes](orestes.md). The Chorus conspires with the Nurse Kilissa to ensure he comes without a bodyguard. He enters the palace and is killed offstage—his death-cry is heard: "Help, help, alas!"[^lb-death] A slave announces: "Aegisthus gone!"
 
+## In Sophocles' Electra
+
+In [Sophocles](../sources/sophocles-electra.md)' tragedy, Aegisthus is almost entirely offstage. [Electra](electra.md) describes his usurpation in detail: he sits on [Agamemnon](agamemnon.md)'s throne, wears his robes, and shares [Clytemnestra](clytemnestra.md)'s bed. He plans to entomb Electra in a rock-hewn chamber if she continues mourning.
+
+When the false report of [Orestes](orestes.md)'s death arrives, Aegisthus is absent from the city. He returns near the play's end, expecting to view the corpse. Instead, he finds Clytemnestra's body under a veil and realizes the deception. Orestes forces him to the spot where Agamemnon was murdered and takes him inside to die there. His final words are: "Is there no help but this abode must see the past and future ills of Pelops' race?"[^soph-el-pelops]
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** 1.29-43: Zeus cites him as example of mortal folly; Hermes warned him in vain
@@ -52,6 +58,7 @@ In the *[Libation-Bearers](../sources/aeschylus-libation-bearers.md)*, Aegisthus
 - **[Fabulae](../sources/hyginus.md)** §117: Kills Agamemnon with axe alongside Clytemnestra
 - **[Agamemnon](../sources/aeschylus-agamemnon.md)**: Enters after the murder; tells Thyestes story; claims credit; taunted as coward
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Summoned without bodyguard; killed offstage by Orestes
+- **[Sophocles' Electra](../sources/sophocles-electra.md)**: Mostly offstage; described sitting on Agamemnon's throne and wearing his robes; plans to entomb Electra; returns expecting to view Orestes' corpse; discovers Clytemnestra's body instead; forced to the spot where Agamemnon died and killed there
 
 [^od-zeus]: "Aegisthus would in no wise hearken" (Odyssey 1.35-43, trans. Butcher and Lang)
 [^od-nestor]: "straightway contrived a guileful thing... slew him at the feast, as one slays an ox at the stall" (Odyssey 3.263-310, trans. Butcher and Lang)
@@ -64,3 +71,4 @@ In the *[Libation-Bearers](../sources/aeschylus-libation-bearers.md)*, Aegisthus
 [^ag-coward]: "Thou womanish man, waiting till war did cease, / Home-watcher and defiler of the couch, / And arch-deviser of the chieftain's doom!" (Agamemnon ~1630, trans. E.D.A. Morshead)
 [^ag-rule]: "I and thou will rule the palace and will order all things well" (Agamemnon ~1673, trans. E.D.A. Morshead)
 [^lb-death]: "Help, help, alas!" (Libation-Bearers ~869, trans. E.D.A. Morshead)
+[^soph-el-pelops]: "Is there no help but this abode must see the past and future ills of Pelops' race?" (Sophocles' Electra, trans. Lewis Campbell, 1883)

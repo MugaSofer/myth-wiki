@@ -86,6 +86,44 @@ When the stratagem of the Wooden Horse was proposed, Philoctetes and [Neoptolemu
 [^post-zeus]: "from the sky Zeus showed his wrath; he shook / The earth beneath their feet, and all the air / Shuddered, as down before those heroes twain / He hurled his thunderbolt" (Posthomerica 12.8817-8820, trans. A.S. Way)
 [^post-horse-enter]: "Into that cavernous Horse Achilles' son / First entered, strong Menelaus followed then, / Odysseus, Sthenelus, godlike Diomede, / Philoctetes and Menestheus..." (Posthomerica 13.9070-9073, trans. A.S. Way)
 
+## In Sophocles' [Philoctetes](../sources/sophocles-philoctetes.md)
+
+### Ten Years on Lemnos
+
+Sophocles dramatises [Philoctetes](philoctetes.md)' situation ten years into his exile on [Lemnos](../places/lemnos.md). He lives in a cave with two openings, sleeping on a bed of leaves, with a crude wooden cup and rags drying in the sun. He has survived by hunting birds with [Heracles'](heracles.md) bow: "only now and then with wingèd things, by his wingèd shafts brought low, he stayed his hunger from his bow."[^soph-phil-survive] He has had no wine in ten years, drinking only from stagnant pools. He found a leaf that soothes the pain of his wound. He crawls "like infant whom the nurse lets go, with tottering movement here and there" when his attacks subside.[^soph-phil-crawl]
+
+He is consumed with bitterness toward [Odysseus](odysseus.md) and the Atreidae who abandoned him. He reflects on the injustice of the war's casualties: [Ajax](ajax.md) dead, [Patroclus](patroclus.md) dead, [Antilochus](antilochus.md) dead, while Thersites and Odysseus live. "War doth not willingly snatch off the wicked, but still takes the good."[^soph-phil-war] When he praises the gods, he "finds evil in the Gods" — they shelter wickedness and crush the good.[^soph-phil-gods]
+
+### The Deception and Trust
+
+[Neoptolemus](neoptolemus.md), [Achilles'](achilles.md) son, arrives with a false story of having been denied his father's arms by the Atreidae. Philoctetes recognises a fellow victim and pleads to be taken home. He offers Neoptolemus the supreme privilege of holding Heracles' bow: "Here in my hand. The world hath only one." He grants Neoptolemus the honour of touching it "as on a thing from Heaven," saying: "Thou, that hast given me light and life... may'st vaunt alone of mortals for thine excellence to have held this in thy touch."[^soph-phil-bow]
+
+### The Paroxysm
+
+As they prepare to leave, Philoctetes' wound erupts in devastating agony. He screams for Neoptolemus to cut off his foot, calls on death: "O Death, Death, Death! I call thee daily — wilt thou never come?"[^soph-phil-death] He entrusts the bow to Neoptolemus, making him swear never to surrender it. He passes out from pain, and when he wakes, is grateful beyond measure for Neoptolemus's faithfulness.
+
+### Betrayal and Rage
+
+When Neoptolemus reveals the truth — that Philoctetes must go to Troy — Philoctetes is devastated: "Me miserable! I am betrayed, undone!" He demands his bow back. When [Odysseus](odysseus.md) appears and claims the bow, Philoctetes delivers a bitter denunciation, recounting his seven ships volunteered freely for the war and his reward of exile: "I am nothing, dead to you this many a year."[^soph-phil-nothing] He curses the Atreidae and Odysseus and prays to see their ruin.
+
+### The Restored Bow
+
+After Neoptolemus defies Odysseus and returns the bow, Philoctetes forgives him: "Thou hast proved thy birthright, dearest boy. Not from the loins of Sisyphus thou earnest, but from Achilles."[^soph-phil-birthright] But he still refuses to go to Troy — the hatred runs too deep. He asks Neoptolemus to take him home, and Neoptolemus agrees.
+
+### Heracles' Command
+
+[Heracles](heracles.md) appears from above and commands Philoctetes to go willingly to Troy, promising healing by the sons of [Asclepius](../heroes/asclepius.md), victory over [Paris](paris.md) with the bow, and glory. Philoctetes obeys at once: "Thou whom I have longed to see, thy dear voice is law to me."[^soph-phil-obey] He bids farewell to Lemnos — the cave, the nymphs, the headland — and departs.
+
+[^soph-phil-survive]: "only now and then / With wingèd things, by his wing'd shafts brought low, / He stayed his hunger from his bow. / Poor soul, that never through ten years of dearth / Had pleasure from the fruitage of the vine" (Sophocles, Philoctetes, trans. Lewis Campbell)
+[^soph-phil-crawl]: "Like infant whom the nurse lets go, / With tottering movement here and there, / He crawled for comfort, whensoe'er / His soul-devouring plague relaxed its cruel strain" (Sophocles, Philoctetes)
+[^soph-phil-war]: "War doth not willingly / Snatch off the wicked, but still takes the good" (Sophocles, Philoctetes)
+[^soph-phil-gods]: "When I praise / Things god-like, I find evil in the Gods" (Sophocles, Philoctetes)
+[^soph-phil-bow]: "Here in my hand. The world hath only one... Thou, that hast given me light and life, the joy / Of seeing Mount Oeta and my father's home... may'st vaunt / Alone of mortals for thine excellence / To have held this in thy touch" (Sophocles, Philoctetes)
+[^soph-phil-death]: "O Death, Death, Death! / I call thee daily — wilt thou never come? / Will it not be?" (Sophocles, Philoctetes)
+[^soph-phil-nothing]: "I am nothing, dead to you this many a year. / How, O thou Heaven-abhorred! am I not now / Lame and of evil smell?" (Sophocles, Philoctetes)
+[^soph-phil-birthright]: "Thou hast proved thy birthright, dearest boy. / Not from the loins of Sisyphus thou earnest, / But from Achilles, who in life was held / Noblest of men alive, and now o' the dead" (Sophocles, Philoctetes)
+[^soph-phil-obey]: "Thou whom I have longed to see, / Thy dear voice is law to me" (Sophocles, Philoctetes)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 2.7.7: Father Poeas lights [Heracles'](heracles.md) pyre; [Heracles](heracles.md) bestows his bow on Poeas
@@ -94,6 +132,7 @@ When the stratagem of the Wooden Horse was proposed, Philoctetes and [Neoptolemu
 - **[Fabulae](../sources/hyginus.md)** §102: Punished by Hera with snakebite; cared for by shepherd Iphimachus on [Lemnos](../places/lemnos.md); persuaded to join the Greeks
 - **[Fabulae](../sources/hyginus.md)** §112: Kills Alexander in single combat
 - **[Fabulae](../sources/hyginus.md)** §114: Slew 3 Trojans in the war
+- **[Sophocles, Philoctetes](../sources/sophocles-philoctetes.md)**: Ten years marooned on [Lemnos](../places/lemnos.md); deceived by [Neoptolemus](neoptolemus.md); bow taken and returned; paroxysm of wound; refuses to go to Troy; commanded by [Heracles](heracles.md) ex machina; obeys and departs
 - **[Posthomerica](../sources/posthomerica.md)** 9: Found wasting on [Lemnos](../places/lemnos.md); rage dissolved by [Athena](../deities/athena.md); healed by [Podaleirius](podaleirius.md); reconciled with [Agamemnon](agamemnon.md)
 - **[Posthomerica](../sources/posthomerica.md)** 10: Returns to battle in [Heracles'](heracles.md) arms; shoots [Paris](paris.md) between flank and groin; Paris dies seeking [Oenone](oenone.md)
 - **[Posthomerica](../sources/posthomerica.md)** 11: Shoots at [Aeneas](../deities/aeneas.md) on the walls; arrow deflected by [Aphrodite](../deities/aphrodite.md); taunts Aeneas to fight in the open

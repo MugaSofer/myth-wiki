@@ -148,6 +148,24 @@ Athena establishes the court of the [Areopagus](../places/areopagus.md) to try t
 
 Acquitted, Orestes pledges eternal alliance between Argos and Athens: "Nevermore, thro' all the manifold years of Time to be, shall any chieftain of mine Argive land bear hitherward his spears for fight arrayed."[^eum-pledge]
 
+## In Sophocles' Electra
+
+In [Sophocles](../sources/sophocles-electra.md)' tragedy, Orestes returns to Mycenae with his old tutor — the man who saved him as a child — and his companion [Pylades](pylades.md). He has consulted [Apollo](../deities/apollo.md)'s oracle, which commanded vengeance by stealth rather than open force: "No shielded host, but thine own craft, O King! The righteous death-blow to thine arm shall bring."[^soph-el-oracle]
+
+### The Deception
+
+Orestes' plan is for the tutor to enter the palace as a Phocian messenger claiming to bring news of Orestes' death — killed in a chariot race at the Pythian games, his ashes in a bronze urn. Orestes himself will follow bearing the urn. He frames this stratagem as itself sanctioned by Apollo.
+
+### Recognition
+
+When [Electra](electra.md) laments over the urn, Orestes is overcome and reveals himself. He shows her their father's signet ring as proof of his identity.
+
+### The Revenge
+
+Orestes and Pylades enter the palace and kill [Clytemnestra](clytemnestra.md) first, offstage. Her cries are heard from within. He then emerges, and when [Aegisthus](aegisthus.md) arrives expecting to view Orestes' corpse, he discovers Clytemnestra's body under a veil instead. Orestes forces Aegisthus to the very spot where Agamemnon was killed, and takes him inside to die there.
+
+The play ends triumphantly, without the arrival of the Erinyes. Orestes' final words are: "If Apollo spake rightfully, the state within is well."[^soph-el-apollo] No Furies pursue him.
+
 ## Variant Traditions
 
 The sources give different accounts for who rescued the infant Orestes. The [Bibliotheca](../sources/apollodorus.md) (E.6.24) credits Electra; the [Fabulae](../sources/hyginus.md) (§117) credits Electra; Pindar's Pythian XI credits a nurse named Arsinoë.
@@ -171,6 +189,7 @@ The location of Agamemnon's murder also varies. Most sources place it at Mycenae
 - **[Iphigenia in Tauris](../sources/euripides-iphigenia-tauris.md)**: Still pursued by Erinyes after matricide; [Apollo](../deities/apollo.md) sends him to steal [Artemis](../deities/artemis.md)'s image from Tauris; suffers madness on shore, seeing Furies as serpents; recounts trial at Areopagus (equal votes, [Athena](../deities/athena.md) broke tie); proves identity to [Iphigenia](iphigenia.md) with golden lamb tapestry and Pelops's spear; escapes with image; [Athena](../deities/athena.md) commands him to enshrine image at Halae in Attica
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Returns to Agamemnon's tomb with Pylades; Apollo's oracle commanded vengeance; interprets Clytemnestra's serpent dream as himself; disguises as Phocian traveler; kills Aegisthus; confronts and kills Clytemnestra; sees the Furies and flees to Delphi
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: Pursued by the Furies; Apollo sends him to Athens; tried at the Areopagus; Apollo defends him; Athena casts deciding vote; acquitted; pledges Argos-Athens alliance
+- **[Sophocles' Electra](../sources/sophocles-electra.md)**: Returns with old tutor and Pylades; Apollo's oracle commands vengeance by stealth; false death report used to gain access; shows signet ring in recognition scene; kills Clytemnestra (offstage) then Aegisthus; play ends triumphantly without the Erinyes
 
 [^apd-murder]: "After Agamemnon had returned to Mycenae with Cassandra, he was murdered by Aegisthus and Clytaemnestra; for she gave him a shirt without sleeves and without a neck, and while he was putting it on he was cut down, and Aegisthus reigned over Mycenae. And they killed Cassandra also" (Bibliotheca E.6.23, trans. J.G. Frazer)
 [^apd-smuggled]: "Electra, one of Agamemnon's daughters, smuggled away her brother Orestes and gave him to Strophius, the Phocian, to bring up; and he brought him up with Pylades, his own son" (Bibliotheca E.6.24, trans. J.G. Frazer)
@@ -197,3 +216,5 @@ The location of Agamemnon's murder also varies. Most sources place it at Mycenae
 [^eum-parent]: "Not the true parent is the woman's womb that bears the child; she doth but nurse the seed new-sown: the male is parent" (Eumenides ~658-660, trans. E.D.A. Morshead)
 [^eum-vote]: "if the votes equal do fall, Orestes shall prevail" (Eumenides ~735, trans. E.D.A. Morshead)
 [^eum-pledge]: "Nevermore, thro' all the manifold years of Time to be, shall any chieftain of mine Argive land bear hitherward his spears for fight arrayed" (Eumenides ~770-775, trans. E.D.A. Morshead)
+[^soph-el-oracle]: "No shielded host, but thine own craft, O King! The righteous death-blow to thine arm shall bring" (Sophocles' Electra, trans. Lewis Campbell, 1883)
+[^soph-el-apollo]: "If Apollo spake rightfully, the state within is well" (Sophocles' Electra, trans. Lewis Campbell)

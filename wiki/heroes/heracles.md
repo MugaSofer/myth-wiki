@@ -677,8 +677,17 @@ Heracles commands Hyllus to carry him to Mount Oeta and burn him on a pyre of oa
 [^soph-tr-commands]: Sophocles, Trachiniae. Heracles demands Hyllus marry Iole under threat of curse; Hyllus: "I will do it, for the act is thine. I will not cast it off. Obeying thee, my sire, the Gods will ne'er reprove my deed"
 [^soph-tr-final]: "Stubborn heart, ere yet again wakes the fierce rebound of pain, thou, with bit of diamond proof, curb thy cry, with forcèd will seeming to do gladly still!" (Sophocles, Trachiniae)
 
+## In Sophocles' [Philoctetes](../sources/sophocles-philoctetes.md)
+
+Heracles appears as deus ex machina at the play's climax. When [Philoctetes](philoctetes.md) refuses to go to Troy despite [Neoptolemus](neoptolemus.md)'s pleas, Heracles descends from heaven to command obedience. He tells Philoctetes of his own journey from suffering to glory: "after my long toils by strange adventure I have found and won immortal glory, which thine eyes perceive; and the like lot, I tell thee, shall be thine, after these pains to rise to glorious fame."[^soph-phil-her-glory] He promises that Philoctetes will be healed, will kill [Paris](paris.md) with the bow, and will capture Troy. He pairs Philoctetes and Neoptolemus as interdependent: "like twin lions hunting the same hill, guard thou him, and he thee!"[^soph-phil-her-lions] He also promises to send [Asclepius](asclepius.md) to Troy to heal the wound. His final charge is reverence: "our great Father counteth piety far above all. This follows men in death, and fails them not when they resign their breath."[^soph-phil-her-piety]
+
+[^soph-phil-her-glory]: "after my long toils / By strange adventure I have found and won / Immortal glory, which thine eyes perceive; / And the like lot, I tell thee, shall be thine, / After these pains to rise to glorious fame" (Sophocles, Philoctetes, trans. Lewis Campbell)
+[^soph-phil-her-lions]: "like twin lions hunting the same hill, / Guard thou him, and he thee!" (Sophocles, Philoctetes)
+[^soph-phil-her-piety]: "our great Father counteth piety / Far above all. This follows men in death, / And fails them not when they resign their breath" (Sophocles, Philoctetes)
+
 ## Appearances
 
+- **[Sophocles, Philoctetes](../sources/sophocles-philoctetes.md)**: Deus ex machina; descends from heaven to command [Philoctetes](philoctetes.md) to go to Troy; promises healing, glory, and victory; "like twin lions hunting the same hill"; warns of piety
 - **[Sophocles, Trachiniae](../sources/sophocles-trachiniae.md)**: Poisoned by Nessus's blood on the robe; agony at Cape Cenaeum; kills Lichas; carried to Trachis; catalogues labours (lion, Hydra, centaurs, boar, Cerberus, dragon); "a soft woman... hath conquered me"; recognises fulfilment of two prophecies (Zeus, Dodona); commands pyre on Oeta and Hyllus's marriage to Iole
 - **[Euripides' Alcestis](../sources/euripides-alcestis.md)** 476-567, 747-860, 1006-1163: En route to capture Diomedes' horses; "son of Alcmena"; fearless against Mars's children (Lycaon, Cycnus); hosted by Admetus in mourning; learns truth from servant; ambushes Death at the tomb; wrestles him and forces release of Alcestis; "Having fought a battle with the prince of those beneath"
 - **[Metamorphoses](../sources/metamorphoses.md)** 9.1-272: Wrestles Achelous; origin of Cornucopia; Nessus's poisoned tunic; agonizing death; lists his labours; builds pyre on Oeta; apotheosis among the stars
