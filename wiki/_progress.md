@@ -1135,7 +1135,7 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 **Up next:**
 1. **Statius, Achilleid** (trans. J.H. Mozley, 1928) — COMPLETE
-2. **Quintus Smyrnaeus, Posthomerica** (Fall of Troy) — 14 books. Fills the biggest narrative gap: Penthesilea, Memnon, Ajax's suicide, Philoctetes' return, the Wooden Horse, the sack of Troy. A.S. Way translation on Gutenberg or Theoi.
+2. **Quintus Smyrnaeus, Posthomerica** (Fall of Troy) — IN PROGRESS. 14 books read. Source page summaries complete. Entity pages created: Penthesilea, Memnon, Antilochus. Entity pages updated: Ajax. Remaining: Neoptolemus, Philoctetes, Paris, Eurypylus, Oenone, and updates to Achilles, Odysseus, Helen, Priam, Hecuba, Cassandra, Aeneas, Deiphobus, Andromache, etc.
 3. **Callimachus, Hymns** — Short. Unique material: Bath of Pallas (Tiresias's blinding), Erysichthon, Artemis as a child, Delos.
 
 **Later:**
