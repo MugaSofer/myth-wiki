@@ -85,7 +85,34 @@ The blinded Polymestor prophesies Hecuba's transformation: "Thou shalt become a 
 [^eur-hec-dog-prophecy]: "Thou shalt become a dog with a fiery aspect... The tomb of the wretched dog, a mark to mariners" (Hecuba 1265-1273, trans. T.A. Buckley)
 [^eur-hec-agamemnon]: "the murderous bath at Argos awaits thee" (Hecuba 1279, trans. T.A. Buckley)
 
+## In the [Posthomerica](../sources/posthomerica.md)
+
+### Enslavement (Book XIV)
+
+After the sack of Troy, [Odysseus](odysseus.md) "dragged" Hecuba to his ship. "The tears poured from her eyes as water from a spring; trembled her limbs, fear-frenzied was her heart; rent were her hoary tresses and besprent with ashes of the hearth, cast by her hands when she saw [Priam](priam.md) slain and Troy aflame."[^post-hec-slave]
+
+### Lament at Polyxena's Sacrifice (Book XIV)
+
+When [Achilles](achilles.md)' ghost demanded the sacrifice of Polyxena, "yet sharper pain fell on the heart of hapless Hecuba." She recalled an ominous dream: "Herseemed that on Achilles' tomb she stood moaning, her hair down-streaming to the ground, and from her breasts blood dripped to earth the while." She wailed: "Ah me! what sorrows first or last shall I lament heart-anguished, who am full of woes?... a dead man's heart, Achilles' heart, is by our blood made warm with life to-day! O child, dear child, that I might die with thee."[^post-hec-polyxena]
+
+### Transformation to Stone (Book XIV)
+
+As the Greeks prepared to depart, "all-unhappy Priam's queen was changed from woman's form into a pitiful hound; and all men gathered round in wondering awe. Then all her body a God transformed to stone — a mighty marvel for men yet unborn!" At [Calchas](calchas.md)' bidding, the Greeks carried the stone across to the far side of the Hellespont.[^post-hec-stone]
+
+[^post-hec-slave]: "Hecuba Odysseus dragged unto his ship. The tears poured from her eyes as water from a spring; trembled her limbs, fear-frenzied was her heart; rent were her hoary tresses and besprent with ashes of the hearth" (Posthomerica 14.10059-10064, trans. A.S. Way)
+[^post-hec-polyxena]: "Herseemed that on Achilles' tomb she stood moaning, her hair down-streaming to the ground, and from her breasts blood dripped to earth... Ah me! what sorrows first or last shall I lament heart-anguished, who am full of woes?... a dead man's heart, Achilles' heart, is by our blood made warm with life to-day!" (Posthomerica 14.10347-10377)
+[^post-hec-stone]: "all-unhappy Priam's queen was changed from woman's form into a pitiful hound; and all men gathered round in wondering awe. Then all her body a God transformed to stone — a mighty marvel for men yet unborn!" (Posthomerica 14.10428-10432)
+
+## Variant Traditions
+
+All three sources agree on Hecuba's transformation into a dog, but differ in the details:
+
+- In the [Metamorphoses](../sources/metamorphoses.md), Hecuba is transformed while still alive, as a consequence of her frenzy after blinding Polymestor — she snaps and growls at Thracians throwing stones, and when she tries to speak she barks.
+- In Euripides' [Hecuba](../sources/euripides-hecuba.md), the transformation is only prophesied by the blinded Polymestor: she will become "a dog with a fiery aspect" and her tomb "a mark to mariners."
+- In the [Posthomerica](../sources/posthomerica.md), the transformation happens in two stages — first into a "pitiful hound," then a god turns her entire body to stone — and the petrified form is carried across the Hellespont.
+
 ## Appearances
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.404-575: Queen of Troy; witnessed fall (Priam killed at altar, Cassandra dragged away, Astyanax thrown from tower); Polyxena sacrificed at Achilles' tomb; claimed as Odysseus's prize; lament for all she lost; found Polydorus murdered on shore by Polymnestor; lured Polymnestor and gouged out his eyes; attacked by Thracians; transformed into dog; howled through Thracian fields; pitied by gods and mortals alike
 - **[Hecuba](../sources/euripides-hecuba.md)**: Protagonist — Achilles' ghost demands Polyxena; debates xenia with Odysseus; Polyxena dies heroically ("let me die free"); finds Polydorus murdered by Polymestor; appeals to Agamemnon for justice; lures Polymestor and blinds him; Polymestor prophesies she will become "a dog with a fiery aspect" and her tomb "a mark to mariners"; reflects on universal slavery
+- **[Posthomerica](../sources/posthomerica.md)** XIV: Dragged to Odysseus's ship; hoary tresses rent, covered in ashes; laments at Polyxena's sacrifice — dream of blood dripping from her breasts onto Achilles' tomb; transformed first into a pitiful hound, then to stone; carried across Hellespont at Calchas' bidding
