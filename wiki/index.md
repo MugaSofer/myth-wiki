@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**291 pages** across 8 categories, drawing from **33 primary sources**.
+**292 pages** across 8 categories, drawing from **34 primary sources**.
 
 ---
 
@@ -89,6 +89,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 |------|--------|------|------|
 | Metamorphoses | Ovid | c. 8 CE | [Link](sources/metamorphoses.md) |
 | Aeneid | Virgil | c. 19 BCE | [Link](sources/aeneid.md) |
+| Achilleid | Statius | c. 95 CE (unfinished) | [Link](sources/achilleid.md) |
 
 ### Athenian Tragedy
 

@@ -333,6 +333,45 @@ At his death, "[Achilles] neither in death was forsaken of songs, for at his fun
 [^pin-ist7-deeds]: "He it was who stained the vine-clad Mysian plain with the dark blood of Telephos that he shed thereon, and made for the sons of Atreus a safe return across the sea, and delivered Helen, when that he had cut asunder with his spear the sinews of Troy... the strength of Memnon and high-hearted Hektor, and other chiefs of pride" (Pindar, Isthmian VII, trans. Ernest Myers)
 [^pin-ist7-funeral]: "neither in death was he of songs forsaken, for at his funeral pyre and beside his tomb stood the Helikonian maiden-choir, and poured thereon a dirge of many melodies. For so the immortals willed, to give charge unto the songs of goddesses over that valorous man even in his death" (Pindar, Isthmian VII)
 
+## In the [Achilleid](../sources/achilleid.md)
+
+Statius's unfinished epic is the only surviving ancient text that explicitly describes [Thetis](../deities/thetis.md) dipping the infant Achilles in the [Styx](../deities/styx.md) to make him invulnerable. Thetis herself alludes to this when persuading Achilles to accept his disguise on Scyros: "if at thy birth I fortified thee with the stern waters of Styx — ay, would I had wholly!"[^ach-styx] The narrator later confirms the tradition through the Greek army's talk: "Whom else did a Nereid take by stealth through the Stygian waters and make his fair limbs impenetrable to steel?"[^ach-styx-army] The note "would I had wholly" implies the famous incomplete dipping — that one part of his body remained unprotected.
+
+### Thetis's Fear and the Journey to Scyros
+
+When Paris's fleet sails past, Thetis panics at what it portends for her son. She begs [Poseidon](../deities/poseidon.md) to sink the ships, but he refuses: "the fates forbid it, 'tis the sure ordinance of heaven that Europe and Asia should join in bloody conflict." He promises she will have her revenge on the Greek return voyage.[^ach-neptune]
+
+Unable to prevent the war, Thetis goes to [Chiron](../creatures/chiron.md)'s cave and claims Achilles under a false pretext — a purification rite. She carries the sleeping boy by dolphin-chariot across the sea to Scyros by night, while Chiron watches them disappear. The nymphs of Thessaly mourn, and [Patroclus](patroclus.md) is left behind.[^ach-journey]
+
+### Appearance and Character
+
+The Achilleid gives the fullest physical description of the young Achilles. Returning from a hunt at Chiron's cave: "a radiant glow shimmers on his snow-white countenance, and his locks shine more comely than tawny gold. The bloom of youth is not yet changed by new-springing down, a tranquil flame burns in his glance, and there is much of his mother in his look." He is compared to "the hunter Apollo" returning from Lycia.[^ach-appearance] He is already tall enough to equal Thetis, "already violent in his embrace and equal to her in height."[^ach-height]
+
+### The Disguise and Deidamia
+
+On Scyros, Thetis disguises Achilles as a maiden among King Lycomedes' daughters. He resists until he sees [Deidamia](deidamia.md): "the lad, ungentle as he was and heart-whole from any touch of passion, stood spellbound and drank in strange fire through all his frame."[^ach-deidamia] Desire makes the disguise tolerable. During a Bacchic festival, he seizes Deidamia; she conceals the pregnancy and bears a son, Pyrrhus ([Neoptolemus](neoptolemus.md)).[^ach-pyrrhus]
+
+### Discovery by Odysseus
+
+[Calchas](calchas.md) at Aulis is seized by prophetic frenzy and reveals that Achilles is hidden among maidens on Scyros.[^ach-calchas] [Odysseus](odysseus.md) and [Diomedes](diomedes.md) arrive with a trap: gifts of feminine trinkets mixed with a shield and spear. The princesses choose the trinkets; Achilles seizes the arms. A trumpet blast sounds. "From his breast the raiment fell without his touching, already the shield and puny spear are lost in the grasp of his hand — and he seemed to surpass by head and shoulders the Ithacan and the Aetolian chief."[^ach-reveal]
+
+### Training Under Chiron
+
+In Book 2, Achilles himself describes his upbringing: "Even in my years of crawling infancy... I am said to have devoured no wonted food, nor to have sated my hunger at the nourishing breast, but to have gnawed the tough entrails of lions and the bowels of a half-slain she-wolf."[^ach-diet] Chiron trained him to outrun deer and horses, stand against raging rivers, fight bears and tigers, master every form of warfare, and instructed him in medicine and "the precepts of divine justice."[^ach-training] The poem breaks off with: "So much do I remember, friends, of the training of my earliest years, and sweet is their remembrance; the rest my mother knows."
+
+[^ach-styx]: "if at thy birth I fortified thee with the stern waters of Styx — ay, would I had wholly!" (Achilleid 1.269-270, trans. J.H. Mozley)
+[^ach-styx-army]: "Whom else did a Nereid take by stealth through the Stygian waters and make his fair limbs impenetrable to steel?" (Achilleid 1.480-481)
+[^ach-neptune]: "'Tis the sure ordinance of heaven that Europe and Asia should join in bloody conflict, and Jupiter hath issued his decree of war" (Achilleid 1.80-83)
+[^ach-journey]: Achilleid 1.198-241. Thetis carries the sleeping Achilles by dolphin-chariot to Scyros.
+[^ach-appearance]: "A radiant glow shimmers on his snow-white countenance, and his locks shine more comely than tawny gold. The bloom of youth is not yet changed by new-springing down, a tranquil flame burns in his glance, and there is much of his mother in his look" (Achilleid 1.161-165)
+[^ach-height]: "Already violent in his embrace and equal to her in height" (Achilleid 1.172)
+[^ach-deidamia]: "The lad, ungentle as he was and heart-whole from any touch of passion, stood spellbound and drank in strange fire through all his frame" (Achilleid 1.303-305)
+[^ach-pyrrhus]: Achilleid 1.640-674. Deidamia conceals the pregnancy; bears a son.
+[^ach-calchas]: "Whither bearest thou, O Nereid, by thy woman's guile great Chiron's mighty pupil? Send him hither: why dost thou carry him away?" (Achilleid 1.526-528)
+[^ach-reveal]: "From his breast the raiment fell without his touching, already the shield and puny spear are lost in the grasp of his hand — and he seemed to surpass by head and shoulders the Ithacan and the Aetolian chief" (Achilleid 1.875-878)
+[^ach-diet]: "Even in my years of crawling infancy... I am said to have devoured no wonted food, nor to have sated my hunger at the nourishing breast, but to have gnawed the tough entrails of lions and the bowels of a half-slain she-wolf" (Achilleid 2.96-99)
+[^ach-training]: Achilleid 2.96-167. Chiron's training: running, river-standing, hunting, warfare, medicine, justice.
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** I: Quarrel with Agamemnon; [Athena](../deities/athena.md) restrains him ("terribly shone her eyes"); weeps by the sea; [Thetis](../deities/thetis.md) rises "like a mist"; supplicates [Zeus](../deities/zeus.md) on his behalf
@@ -363,3 +402,5 @@ At his death, "[Achilles] neither in death was forsaken of songs, for at his fun
 - **[Pindar](../sources/pindar.md)**, Isthmian VII: Wounded Telephus in Mysia; delivered Helen by "cutting the sinews of Troy"; slew Memnon, Hector, "and other chiefs of pride"; the Muses' choir sang dirge at his pyre; in the Islands of the Blessed (Olympian II)
 - **[Hecuba](../sources/euripides-hecuba.md)**: Ghost appears above his tomb in golden arms, restrains the fleet, demands sacrifice of Polyxena; Neoptolemus performs the rite
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Races in armour against Eumelus's chariot at Aulis; outraged his name used for marriage ruse; pledges to protect [Iphigenia](iphigenia.md); Myrmidons turn against him; Iphigenia refuses his help; genealogy traced (Aegina→Aeacus→Peleus→Achilles); raised by [Chiron](../creatures/chiron.md) on Pelion; Chorus sings of wedding of Peleus and [Thetis](../deities/thetis.md) where Chiron prophesied his glory at Troy
+- **[Achilleid](../sources/achilleid.md)** 1: Thetis dipped him in [Styx](../deities/styx.md) at birth ("would I had wholly!"); hidden on Scyros disguised as maiden; fell in love with Deidamia; fathered Pyrrhus/Neoptolemus; discovered by Odysseus's shield-and-trumpet trick; stood revealed, towering over the Greeks
+- **[Achilleid](../sources/achilleid.md)** 2: Describes own training under Chiron — fed on lion's entrails, outran deer and horses, fought bears and tigers, mastered all warfare; poem breaks off

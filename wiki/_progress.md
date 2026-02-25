@@ -1133,9 +1133,16 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 ### Remaining Sources (in priority order)
 
-1. **More Aeschylus** — Persians (sources/aeschylus-four-plays-morshead.txt already downloaded)
-2. **More Greek tragedies** — Sophocles (Ajax, Electra, Trachiniae)
-3. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — geography-heavy, places and cult traditions
+**Up next:**
+1. **Statius, Achilleid** (trans. J.H. Mozley, 1928) — COMPLETE
+2. **Quintus Smyrnaeus, Posthomerica** (Fall of Troy) — 14 books. Fills the biggest narrative gap: Penthesilea, Memnon, Ajax's suicide, Philoctetes' return, the Wooden Horse, the sack of Troy. A.S. Way translation on Gutenberg or Theoi.
+3. **Callimachus, Hymns** — Short. Unique material: Bath of Pallas (Tiresias's blinding), Erysichthon, Artemis as a child, Delos.
+
+**Later:**
+4. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
+5. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
+6. **More Greek tragedies** — Sophocles (Ajax, Philoctetes, Trachiniae); Euripides (Trojan Women, Heracles, Electra, Ion)
+7. **Aeschylus, Persians** — historical rather than mythological, low priority
 
 ### Minor Expansions — COMPLETE
 
