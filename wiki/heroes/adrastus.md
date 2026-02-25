@@ -17,7 +17,7 @@
 
 Adrastus is introduced as the son of [Talaus](talaus.md), who had "three daughters, Argia, Deipyle, and Aegialia, and two sons, Aegialeus and Cyanippus."[^apd-children]
 
-When [Polynices](polynices.md) arrived at Argos seeking aid, Adrastus remembered a prophecy: he "had been told by a certain seer... to yoke his daughters in marriage to a boar and a lion." When he discovered that Polynices and [Tydeus](tydeus.md) bore these symbols on their shields, he "accepted them both as bridegrooms... And Tydeus married Deipyle, and Polynices married Argia; and Adrastus promised that he would restore them both to their native lands."[^apd-marriage]
+When [Polynices](polyneices.md) arrived at Argos seeking aid, Adrastus remembered a prophecy: he "had been told by a certain seer... to yoke his daughters in marriage to a boar and a lion." When he discovered that Polynices and [Tydeus](tydeus.md) bore these symbols on their shields, he "accepted them both as bridegrooms... And Tydeus married Deipyle, and Polynices married Argia; and Adrastus promised that he would restore them both to their native lands."[^apd-marriage]
 
 ### The Seven Against Thebes
 

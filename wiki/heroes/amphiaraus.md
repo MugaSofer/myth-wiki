@@ -18,7 +18,7 @@ Amphiaraus is identified as "son of Oicles" and is listed among the great hunter
 
 ### The War Against Thebes
 
-As a seer, "Amphiaraus, son of Oicles, being a seer and foreseeing that all who joined in the expedition except Adrastus were destined to perish, shrank from it himself and discouraged the rest."[^apd-foreknowing] However, [Polynices](polynices.md) circumvented his refusal by bribing [Eriphyle](eriphyle.md) with a magical necklace. [Eriphyle](eriphyle.md) "accepted the necklace and persuaded him to march with Adrastus. Thus forced to go to the war, Amphiaraus laid his commands on his sons, that, when they were grown up, they should slay their mother and march against Thebes."[^apd-compelled]
+As a seer, "Amphiaraus, son of Oicles, being a seer and foreseeing that all who joined in the expedition except Adrastus were destined to perish, shrank from it himself and discouraged the rest."[^apd-foreknowing] However, [Polynices](polyneices.md) circumvented his refusal by bribing [Eriphyle](eriphyle.md) with a magical necklace. [Eriphyle](eriphyle.md) "accepted the necklace and persuaded him to march with Adrastus. Thus forced to go to the war, Amphiaraus laid his commands on his sons, that, when they were grown up, they should slay their mother and march against Thebes."[^apd-compelled]
 
 At Nemea, Amphiaraus distinguished himself: "they celebrated the Nemean games in his honor; and Adrastus won the horse race... Amphiaraus the leaping and quoit-throwing match."[^apd-games] At the gates of Thebes, "Amphiaraus... at the Proetidian [gate]" took his position.[^apd-gate]
 
