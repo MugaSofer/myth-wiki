@@ -85,6 +85,19 @@ After [Ajax](ajax.md)'s suicide, Menelaus arrives and forbids burial, declaring 
 [^soph-aj-menelaus]: "No man can himself ordain / His life or death, unless his governor permit" (Sophocles, Ajax, trans. Lewis Campbell)
 [^soph-aj-menelaus-overruled]: Sophocles, Ajax. Menelaus departs after the standoff; Agamemnon then takes up the dispute and is similarly overruled by Odysseus.
 
+## In Euripides' Trojan Women
+
+Menelaus enters the play "a prey to violent and conflicting emotions."[^tw-men-entrance] He announces he has come not for Helen's sake but for Paris, the "cozener / And thief" who ate at his table; now Paris is dead, and he has come to claim Helen. The Greek army has given her to him to kill or keep as he pleases: "The host whose labouring swords / Won her, have given her up to me, to fill / My pleasure; perchance kill her, or not kill, / But lead her home."[^tw-men-claim] He adds, almost to himself, that he has already reconsidered killing her at Troy and decided to take her home for her punishment there.
+
+[Hecuba](hecuba.md) blesses him and urges him to kill Helen, warning only that he must not look at her face, lest she snare him. Helen is brought out by soldiers. Hecuba insists she be allowed to speak in rebuttal — confident that the full case against Helen will secure the death sentence.
+
+After Hecuba's prosecution, Menelaus pronounces judgment: "Thy thought doth walk with mine in one intent. / 'Tis sure; her heart was willing, when she went / Forth to a stranger's bed."[^tw-men-judgment] He orders Helen to go to be stoned. But Helen kneels and clasps his knees, and his resolve immediately falters — he puts her on a separate ship rather than executing her on the spot. Hecuba warns: "A lover once, will alway love again."[^tw-lover-men] Menelaus insists that if what he loved is evil, he will hate it — but concedes the separate ship.
+
+[^tw-men-entrance]: Menelaus enters "a prey to violent and conflicting emotions" (Trojan Women, stage direction, trans. Gilbert Murray)
+[^tw-men-claim]: "The host whose labouring swords / Won her, have given her up to me, to fill / My pleasure; perchance kill her, or not kill, / But lead her home" (Trojan Women, trans. Gilbert Murray)
+[^tw-men-judgment]: "Thy thought doth walk with mine in one intent. / 'Tis sure; her heart was willing, when she went / Forth to a stranger's bed. And all her fair / Tale of enchantment, 'tis a thing of air!" (Trojan Women, trans. Gilbert Murray)
+[^tw-lover-men]: "A lover once, will alway love again" (Trojan Women, trans. Gilbert Murray)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Single combat with Paris; nearly kills him; [Aphrodite](../deities/aphrodite.md) rescues Paris
@@ -109,6 +122,7 @@ After [Ajax](ajax.md)'s suicide, Menelaus arrives and forbids burial, declaring 
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Kills [Deiphobus](deiphobus.md) in [Helen](helen.md)'s chamber; invokes [Themis](../deities/themis.md)'s justice; "maddened was his soul with jealousy"
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Leads Helen from the burning city; reconciled that night; "as a vine and ivy entwine their stems"
 - **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Forbids [Ajax](ajax.md)'s burial, declaring him an insubordinate enemy who deserves to lie unburied; [Teucer](teucer.md) defies him, arguing Ajax came to Troy as a free commander; ultimately overruled when [Odysseus](odysseus.md) argues for burial
+- **[Trojan Women](../sources/euripides-trojan-women.md)**: Arrives "a prey to violent and conflicting emotions"; claims army has given [Helen](helen.md) to him to kill or keep; presides over Helen's trial with [Hecuba](hecuba.md) prosecuting; declares Helen's guilt but puts her on a separate ship rather than killing her; Hecuba warns "a lover once, will alway love again"
 
 [^apd-marriage]: "Tyndareus put the suitors on their oath, and while he chose Menelaus to be the bridegroom of Helen, he solicited Icarius to bestow Penelope on Ulysses" (Bibliotheca 3.10.9, trans. J.G. Frazer)
 [^apd-hermione]: "Menelaus had by Helen a daughter Hermione" (Bibliotheca 3.11.1, trans. J.G. Frazer)

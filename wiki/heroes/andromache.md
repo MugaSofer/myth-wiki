@@ -92,6 +92,40 @@ After the sack, in the distribution of captives, "to Achilles' son Andromache ha
 [^post-assigned]: "to Achilles' son Andromache had fallen" (Posthomerica 14.10057-10058, trans. A.S. Way)
 [^post-neopt]: Posthomerica 14.10057-10058, 10380-10406: distribution of captives; sacrifice of Polyxena; preparation for departure
 
+## In Euripides' Trojan Women
+
+### Arrival and the Death of Polyxena
+
+Andromache arrives on a Greek chariot heaped with spoils, holding [Astyanax](astyanax.md) in her arms. The Chorus leader describes the scene: "Lo, yonder on the heapèd crest / Of a Greek wain, Andromachê... on her wave-borne breast / Her loved one clingeth, Hector's child, / Astyanax."[^tw-arrival]
+
+Speaking with [Hecuba](hecuba.md), Andromache reveals what Talthybius had obscured — that [Polyxena](polyxena.md) has been sacrificed on [Achilles](achilles.md)' tomb: "Polyxena across Achilles' tomb / Lies slain, a gift flung to the dreamless dead."[^tw-polyxena] She adds: "I saw her lie, and stayed this chariot; / And raiment wrapt on her dead limbs, and beat / My breast for her."[^tw-polyxena-2]
+
+### Death vs. Slavery
+
+Andromache and Hecuba debate whether death or slavery is worse. Andromache argues for death's superiority: "To die is only not to be; / And better to be dead than grievously / Living. They have no pain, they ponder not / Their own wrong."[^tw-death] Hecuba insists death "cannot be what Life is... the cup / Of Death is empty, and Life hath always hope."[^tw-hope]
+
+### Virtue and Its Consequences
+
+Andromache gives a long speech on how her very virtue — her devotion to modesty, silence, and [Hector](hector.md) — has become the cause of her downfall. She had never roamed abroad, had kept silent at home, had brought Hector "fair silence and a tranquil eye": "And, lo! some rumour of this peace, being gone / Forth to the Greek, hath cursed me. Achilles' son, / So soon as I was taken, for his thrall / Chose me."[^tw-virtue] Now she faces an impossible choice between loyalty to Hector's memory and submission to her new master [Neoptolemus](neoptolemus.md): "How? Shall I thrust aside / Hector's beloved face, and open wide / My heart to this new lord? Oh, I should stand / A traitor to the dead."[^tw-traitor]
+
+### The Death Sentence for Astyanax
+
+[Talthybius](talthybius.md) returns with news that Odysseus has prevailed in council: Astyanax must die, lest the son of so dangerous a father grow to manhood. He reports the decree: "That the son / Of one so perilous be not fostered on / To manhood — / ... But from this crested wall / Of Troy be dashed, and die."[^tw-sentence]
+
+### Farewell to Astyanax
+
+Andromache's farewell to her son is the emotional centrepiece of the scene. She begs him to kiss her, knowing it is the last time, and addresses him directly: "Go, die, my best-beloved, my cherished one, / In fierce men's hands, leaving me here alone. / Thy father was too valiant; that is why / They slay thee! Other children, like to die, / Might have been spared for that. But on thy head / His good is turned to evil."[^tw-farewell] She then is set back on the chariot and driven toward the ships, while Talthybius takes the child.
+
+[^tw-arrival]: "Lo, yonder on the heapèd crest / Of a Greek wain, Andromachê, / As one that o'er an unknown sea / Tosseth; and on her wave-borne breast / Her loved one clingeth, Hector's child, / Astyanax" (Trojan Women, trans. Gilbert Murray)
+[^tw-polyxena]: "Polyxena across Achilles' tomb / Lies slain, a gift flung to the dreamless dead" (Trojan Women, trans. Gilbert Murray)
+[^tw-polyxena-2]: "I saw her lie, and stayed this chariot; / And raiment wrapt on her dead limbs, and beat / My breast for her" (Trojan Women, trans. Gilbert Murray)
+[^tw-death]: "To die is only not to be; / And better to be dead than grievously / Living. They have no pain, they ponder not / Their own wrong" (Trojan Women, trans. Gilbert Murray)
+[^tw-hope]: "Death cannot be what Life is, Child; the cup / Of Death is empty, and Life hath always hope" (Trojan Women, trans. Gilbert Murray)
+[^tw-virtue]: "And, lo! some rumour of this peace, being gone / Forth to the Greek, hath cursed me. Achilles' son, / So soon as I was taken, for his thrall / Chose me" (Trojan Women, trans. Gilbert Murray)
+[^tw-traitor]: "How? Shall I thrust aside / Hector's beloved face, and open wide / My heart to this new lord? Oh, I should stand / A traitor to the dead" (Trojan Women, trans. Gilbert Murray)
+[^tw-sentence]: "That the son / Of one so perilous be not fostered on / To manhood — / ... But from this crested wall / Of Troy be dashed, and die" (Trojan Women, trans. Gilbert Murray)
+[^tw-farewell]: "Go, die, my best-beloved, my cherished one, / In fierce men's hands, leaving me here alone. / Thy father was too valiant; that is why / They slay thee! Other children, like to die, / Might have been spared for that. But on thy head / His good is turned to evil" (Trojan Women, trans. Gilbert Murray)
+
 ## Variant Traditions
 
 The fate of Astyanax differs in detail between sources. In the [Posthomerica](../sources/posthomerica.md), it is "those Danaan car-lords" collectively who throw him from the wall while Andromache watches. In the [Epic Cycle](../sources/epic-cycle.md) (Little Iliad), it is specifically [Neoptolemus](neoptolemus.md) who kills him. The [Bibliotheca](../sources/apollodorus.md) records that "Neoptolemus slew Astyanax" (E.5.23) without specifying the method; Hyginus (Fabulae 109) also attributes the killing to Neoptolemus.
@@ -107,3 +141,4 @@ The fate of Astyanax differs in detail between sources. In the [Posthomerica](..
 - **[Posthomerica](../sources/posthomerica.md)** III: Among captive women mourning Achilles after his death; described as captive from Thebes, Eetion's town
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Astyanax torn from her arms and hurled from the wall; she begged for her own death; dragged into captivity as "daughter of King Eetion"
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Assigned to Neoptolemus in the division of captives
+- **[Trojan Women](../sources/euripides-trojan-women.md)**: Arrives on a chariot heaped with spoils holding Astyanax; reveals Polyxena's sacrifice; argues death is better than slavery; describes her own virtue as the cause of her enslavement; receives the death sentence for Astyanax (Odysseus's counsel); bids Astyanax farewell — "Thy father was too valiant; that is why they slay thee!"

@@ -1140,11 +1140,13 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 4. **Sophocles, Remaining Plays** (trans. Lewis Campbell, 1883, Gutenberg #14484) — COMPLETE. All 4 remaining plays read and processed (Ajax, Trachiniae, Electra, Philoctetes). Source pages created for all 4. Entity pages updated: Ajax (madness, deception speech, suicide, burial dispute), Odysseus (pity, magnanimity, Philoctetes deception), Deianira (Achelous, Nessus's robe, suicide), Heracles (Trachiniae agony, prophecy fulfilment, Philoctetes deus ex machina), Hyllus (messenger, orphaned, forced marriage), Electra (suffering, urn scene, matricide), Orestes (oracle, recognition, revenge), Clytemnestra (Iphigenia defence, dream, death), Aegisthus (entombment plan, discovers corpse), Philoctetes (10 years on Lemnos, paroxysm, bow, Heracles' command), Neoptolemus (moral crisis, defying Odysseus). Pages created: Teucer, Tecmessa, Chrysothemis. Pages updated by subagent: Athena, Menelaus, Agamemnon.
 
+5. **Euripides, Trojan Women** (trans. Gilbert Murray, 1915, Gutenberg #10096) — COMPLETE. Full play read and processed. Source page created. Entity pages created: Astyanax, Polyxena. Entity pages updated: Hecuba (central figure — awakening, lots, Cassandra's madness, Astyanax's death, Helen's trial, lament over Astyanax, Troy's burning), Cassandra (mad bridal scene, prophecy of Agamemnon's death, Troy's dead happier), Andromache (Polyxena's death revealed, virtue speech, farewell to Astyanax), Helen (trial — blames Aphrodite, Hecuba demolishes arguments), Menelaus (claims Helen, resolve wavers).
+
 **Later:**
-5. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
-6. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
-7. **More Greek tragedies** — Euripides (Trojan Women, Heracles, Electra, Ion)
-8. **Aeschylus, Persians** — historical rather than mythological, low priority
+6. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
+7. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
+8. **More Greek tragedies** — Euripides (Heracles, Electra, Ion)
+9. **Aeschylus, Persians** — historical rather than mythological, low priority
 
 ### Minor Expansions — COMPLETE
 

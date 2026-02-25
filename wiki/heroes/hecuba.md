@@ -103,6 +103,47 @@ As the Greeks prepared to depart, "all-unhappy Priam's queen was changed from wo
 [^post-hec-polyxena]: "Herseemed that on Achilles' tomb she stood moaning, her hair down-streaming to the ground, and from her breasts blood dripped to earth... Ah me! what sorrows first or last shall I lament heart-anguished, who am full of woes?... a dead man's heart, Achilles' heart, is by our blood made warm with life to-day!" (Posthomerica 14.10347-10377)
 [^post-hec-stone]: "all-unhappy Priam's queen was changed from woman's form into a pitiful hound; and all men gathered round in wondering awe. Then all her body a God transformed to stone — a mighty marvel for men yet unborn!" (Posthomerica 14.10428-10432)
 
+## In Euripides' Trojan Women
+
+The [Trojan Women](../sources/euripides-trojan-women.md) places Hecuba at the centre of every scene, enduring loss upon loss in the immediate aftermath of Troy's fall.
+
+### Awakening Amid the Ruins
+
+Hecuba lies on the ground before the Greek ships as the play opens. She was queen of [Troy](../places/troy.md); now she describes herself as "a winter-frozen bee, a slave death-shapen, as the stones that lie hewn on a dead man's grave."[^tw-hec-slave] She calls the other captive women from their huts, comparing herself to "a wide-wing'd bird" calling its flock.
+
+### The Lots
+
+The herald Talthybius announces the division of captives. [Cassandra](cassandra.md) has been taken as [Agamemnon](agamemnon.md)'s concubine; [Andromache](andromache.md) is given to [Neoptolemus](neoptolemus.md). [Polyxena](polyxena.md) "rests apart, to watch [Achilles](achilles.md)' tomb" — Talthybius euphemistically tells Hecuba to "count thy maid happy," concealing that the girl has been sacrificed. Hecuba herself falls to [Odysseus](odysseus.md): "A lying man and a pitiless shall be lord of me, a heart full-flown with scorn of righteousness."[^tw-hec-odysseus]
+
+### Cassandra's Madness
+
+When [Cassandra](cassandra.md) emerges bearing a torch and singing wildly of her "wedding" to Agamemnon, Hecuba can only mourn: "How little dreamed I then of wars or red spears of the Greek to lay thy bridal bed!" She takes the torch from her daughter's hands.
+
+### The Death of Astyanax
+
+[Andromache](andromache.md) reveals that Polyxena has been slain: "Polyxena across [Achilles](achilles.md)' tomb lies slain, a gift flung to the dreamless dead." Hecuba responds: "My sorrow!... 'Tis but what Talthybius said: so plain a riddle, and I read it not."[^tw-hec-riddle] She counsels Andromache to accept her new master for the sake of [Astyanax](astyanax.md) — "rear this babe among his foes, my [Hector](hector.md)'s child, to manhood and great aid for Ilion." But Talthybius returns with the decree: by [Odysseus](odysseus.md)'s counsel, Astyanax must be hurled from Troy's walls.
+
+### The Trial of Helen
+
+When [Menelaus](menelaus.md) arrives to claim [Helen](helen.md), Hecuba urges him to kill her but warns: "fear to see her visage, lest she snare thee and thou fall! She snareth strong men's eyes; she snareth tall cities."[^tw-hec-snare] After Helen blames [Aphrodite](../deities/aphrodite.md) and the Judgement of [Paris](paris.md) for her flight, Hecuba demolishes every argument: the goddesses would not have bartered their own cities for vanity; Helen's own desire was the "Aphrodite" that drove her — "My son was passing beautiful... and thine own heart, that saw and conned his face, became a spirit enchanting thee. For all wild things that in mortality have being, are Aphroditê."[^tw-hec-aphrodite] She charges that Helen never cried for help, never attempted escape, and dressed in finery rather than mourning. She concludes: "Slay this woman, and upraise the law for evermore."
+
+### Lament Over Astyanax
+
+Talthybius returns bearing the dead child on [Hector](hector.md)'s great shield. Hecuba prepares the tiny body for burial, delivering one of the play's most devastating speeches: "There lieth here a babe whom the Greeks feared, and in their fear slew him."[^tw-hec-epitaph] She recalls how Astyanax had once promised: "Grandmother, when thou art dead, I will cut close my hair and lead out all the captains to ride by thy tomb."[^tw-hec-promise]
+
+### The Burning of Troy
+
+As the city is set ablaze, Hecuba cries: "O thou whose breath was mighty on the swell of orient winds, my Troy! Even thy name shall soon be taken from thee." She springs toward the flames to die with her city but is seized and held by soldiers.[^tw-hec-flames] She is led away to the ships as Odysseus's slave.
+
+[^tw-hec-slave]: "a winter-frozen bee, a slave death-shapen, as the stones that lie hewn on a dead man's grave" (Trojan Women, trans. Gilbert Murray)
+[^tw-hec-odysseus]: "A lying man and a pitiless shall be lord of me, a heart full-flown with scorn of righteousness" (Trojan Women, trans. Gilbert Murray)
+[^tw-hec-riddle]: "'Tis but what Talthybius said: so plain a riddle, and I read it not" (Trojan Women, trans. Gilbert Murray)
+[^tw-hec-snare]: "fear to see her visage, lest she snare thee and thou fall! She snareth strong men's eyes; she snareth tall cities" (Trojan Women, trans. Gilbert Murray)
+[^tw-hec-aphrodite]: "My son was passing beautiful... and thine own heart, that saw and conned his face, became a spirit enchanting thee. For all wild things that in mortality have being, are Aphroditê" (Trojan Women, trans. Gilbert Murray)
+[^tw-hec-epitaph]: "There lieth here a babe whom the Greeks feared, and in their fear slew him" (Trojan Women, trans. Gilbert Murray)
+[^tw-hec-promise]: "Grandmother, when thou art dead, I will cut close my hair and lead out all the captains to ride by thy tomb" (Trojan Women, trans. Gilbert Murray)
+[^tw-hec-flames]: "O thou whose breath was mighty on the swell of orient winds, my Troy! Even thy name shall soon be taken from thee... Quick, to the flames! O, in thine agony, my Troy, mine own, take me to die with thee!" (Trojan Women, trans. Gilbert Murray)
+
 ## Variant Traditions
 
 All three sources agree on Hecuba's transformation into a dog, but differ in the details:
@@ -115,4 +156,5 @@ All three sources agree on Hecuba's transformation into a dog, but differ in the
 
 - **[Metamorphoses](../sources/metamorphoses.md)** 13.404-575: Queen of Troy; witnessed fall (Priam killed at altar, Cassandra dragged away, Astyanax thrown from tower); Polyxena sacrificed at Achilles' tomb; claimed as Odysseus's prize; lament for all she lost; found Polydorus murdered on shore by Polymnestor; lured Polymnestor and gouged out his eyes; attacked by Thracians; transformed into dog; howled through Thracian fields; pitied by gods and mortals alike
 - **[Hecuba](../sources/euripides-hecuba.md)**: Protagonist — Achilles' ghost demands Polyxena; debates xenia with Odysseus; Polyxena dies heroically ("let me die free"); finds Polydorus murdered by Polymestor; appeals to Agamemnon for justice; lures Polymestor and blinds him; Polymestor prophesies she will become "a dog with a fiery aspect" and her tomb "a mark to mariners"; reflects on universal slavery
+- **[Trojan Women](../sources/euripides-trojan-women.md)**: Central figure; awakens amid ruins as "a winter-frozen bee, a slave death-shapen"; learns the lots — Cassandra to Agamemnon, Andromache to Neoptolemus, herself to Odysseus; Polyxena's death concealed then revealed; counsels Andromache to accept slavery for Astyanax's sake; prosecutes Helen before Menelaus; laments over dead Astyanax on Hector's shield; tries to throw herself into Troy's flames; led away as Odysseus's slave
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Dragged to Odysseus's ship; hoary tresses rent, covered in ashes; laments at Polyxena's sacrifice — dream of blood dripping from her breasts onto Achilles' tomb; transformed first into a pitiful hound, then to stone; carried across Hellespont at Calchas' bidding

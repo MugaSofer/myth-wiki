@@ -58,6 +58,40 @@ Knowing she will die, Cassandra willingly enters the palace. She addresses her o
 
 In [Euripides](../sources/euripides-hecuba.md)' *Hecuba*, Cassandra is referenced as having been allotted to Agamemnon after Troy's fall. [Hecuba](hecuba.md) invokes her as one of the sources of her grief.[^eur-hec]
 
+## In Euripides' Trojan Women
+
+Cassandra has a striking entrance in the *[Trojan Women](../sources/euripides-trojan-women.md)*. While still confined inside a hut, she is heard singing — a light shines through the crevices, and [Talthybius](talthybius.md) mistakes it for fire. [Hecuba](hecuba.md) explains: "There is no fire, no peril: 'tis my child, / Cassandra, by the breath of God made wild."[^tw-entrance]
+
+### The Torch-Song
+
+Cassandra enters white-robed and wreathed like a priestess, bearing a great torch, singing softly of her wedding. She does not see the herald or the scene before her. She calls on Hymen, the god of marriage, and dances in prophetic ecstasy, celebrating her bridal: "Blessèd is he that shall wed, / And blessèd, blessèd am I / In Argos: a bride to lie / With a king in a king's bed."[^tw-torch-song]
+
+### "A Bloodier Bride than Helen"
+
+When Hecuba urges her to cast off her bridal state, Cassandra breaks out of her apparent frenzy with startling clarity, declaring herself a more destructive bride than [Helen](helen.md) — she will kill [Agamemnon](agamemnon.md) and destroy his house: "So liveth Loxias, / A bloodier bride than ever Helen was / Go I to Agamemnon, Lord most high / Of Hellas!... I shall kill him, mother; I / Shall kill him, and lay waste his house with fire / As he laid ours."[^tw-bloodier]
+
+She then checks herself, hinting at what she will not say aloud — the fall of the House of Atreus through [Orestes](orestes.md)' matricide: "Not the axe that craveth me, / And more than me; not the dark wanderings / Of mother-murder that my bridal brings, / And all the House of Atreus down, down, down...."[^tw-atreus]
+
+### Troy's Dead Are Happier
+
+Cassandra then makes a sustained argument that the Trojans are in fact happier than the Greeks. The Greeks wasted ten years for a woman, died in a foreign land far from family, their bodies unburied by loved ones; the Trojans died defending their homeland, were buried in their own earth by those who loved them, and Hector's glory was revealed to all by the very war that killed him. She ends with a famous line: "Would ye be wise, ye Cities, fly from war! / Yet if war come, there is a crown in death / For her that striveth well and perisheth / Unstained: to die in evil were the stain!"[^tw-crown]
+
+### Odysseus's Future Suffering
+
+Cassandra foresees [Odysseus](odysseus.md)'s ten years of wandering and declares that all of Troy's suffering will seem like gold by comparison: "Little he knows, that hard-beset / Spirit, what deeps of woe await him yet; / Till all these tears of ours and harrowings / Of Troy, by his, shall be as golden things. / Ten years behind ten years athwart his way / Waiting: and home, lost and unfriended...."[^tw-odysseus]
+
+### Tearing Off the Wreaths
+
+Before departing with Talthybius, Cassandra tears off her sacred wreaths and gives them back to [Apollo](../deities/apollo.md), declaring her flesh still clean: "O, ye wreaths! / Ye garlands of my God, whose love yet breathes / About me... Begone! I tear ye, so, / From off me!... With flesh still clean I give them back to thee, / Still white, O God, O light that leadest me!"[^tw-wreaths]
+
+[^tw-entrance]: "There is no fire, no peril: 'tis my child, / Cassandra, by the breath of God made wild" (Trojan Women, trans. Gilbert Murray)
+[^tw-torch-song]: "Blessèd is he that shall wed, / And blessèd, blessèd am I / In Argos: a bride to lie / With a king in a king's bed" (Trojan Women, trans. Gilbert Murray)
+[^tw-bloodier]: "So liveth Loxias, / A bloodier bride than ever Helen was / Go I to Agamemnon, Lord most high / Of Hellas!... I shall kill him, mother; I / Shall kill him, and lay waste his house with fire / As he laid ours" (Trojan Women, trans. Gilbert Murray)
+[^tw-atreus]: "Not the axe that craveth me, / And more than me; not the dark wanderings / Of mother-murder that my bridal brings, / And all the House of Atreus down, down, down...." (Trojan Women, trans. Gilbert Murray)
+[^tw-crown]: "Would ye be wise, ye Cities, fly from war! / Yet if war come, there is a crown in death / For her that striveth well and perisheth / Unstained: to die in evil were the stain!" (Trojan Women, trans. Gilbert Murray)
+[^tw-odysseus]: "Little he knows, that hard-beset / Spirit, what deeps of woe await him yet; / Till all these tears of ours and harrowings / Of Troy, by his, shall be as golden things. / Ten years behind ten years athwart his way / Waiting: and home, lost and unfriended...." (Trojan Women, trans. Gilbert Murray)
+[^tw-wreaths]: "O, ye wreaths! / Ye garlands of my God, whose love yet breathes / About me... Begone! I tear ye, so, / From off me!... With flesh still clean I give them back to thee, / Still white, O God, O light that leadest me!" (Trojan Women, trans. Gilbert Murray)
+
 ## In the [Posthomerica](../sources/posthomerica.md)
 
 ### The Warning at the Wooden Horse (Book XII)
@@ -94,6 +128,7 @@ In Book XIV [Athena](../deities/athena.md) complains to [Zeus](../deities/zeus.m
 - **[Pindar](../sources/pindar.md)**, Pythian XI: "The maiden prophetess" slain alongside Agamemnon at Amyklai
 - **[Agamemnon](../sources/aeschylus-agamemnon.md)**: War-prize of Agamemnon; reveals Apollo's curse; prophesies murder; goes willingly to death
 - **[Hecuba](../sources/euripides-hecuba.md)**: Referenced as allotted to Agamemnon
+- **[Trojan Women](../sources/euripides-trojan-women.md)**: Enters as torch-bearing bride singing of her "wedding"; declares herself "a bloodier bride than ever Helen was"; prophesies the fall of the House of Atreus; argues Troy's dead are happier than the Greek victors; foresees Odysseus's ten years of suffering; tears off her sacred wreaths and gives them back to Apollo "with flesh still clean"
 - **[Metamorphoses](../sources/metamorphoses.md)** 13: Referenced in the fall of Troy
 - **[Posthomerica](../sources/posthomerica.md)** XII: Sees evil portents; prophesies Troy's doom; tries to burn and hack the Wooden Horse; driven away and mocked by the Trojans
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Violated by Ajax at Athena's temple during the sack; Coroebus had come to Troy hoping to win her as bride

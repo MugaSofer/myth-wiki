@@ -242,6 +242,41 @@ That night, while other Greeks slept, Menelaus and Helen lay talking, "for on th
 [^post-helen-beauty]: "No man dared or secretly or openly to cast reproach on her. As on a Goddess all gazed on her with adoring wistful eyes... so joyed the Danaans all, no man of them remembered any more war's travail and pain. Such thoughts Cytherea stirred in them, for grace to Helen starry-eyed, and Zeus her sire" (Posthomerica 14.10098-10109)
 [^post-helen-reunion]: "Not of my will I left thy roof, thy bed, but Alexander and the sons of Troy came upon me, and snatched away... No more remember past griefs: seal them up hid in thine heart... as a vine and ivy entwine their stems each around other, that no might of wind avails to sever them, so clung these twain twined in the passionate embrace of love" (Posthomerica 14.10210-10239)
 
+## In Euripides' Trojan Women
+
+### The Trial Scene
+
+[Menelaus](menelaus.md) arrives at Troy to reclaim [Helen](helen.md), declaring that the army has given her to him to do with as he pleases — kill her, or take her home. He orders soldiers to drag her out by the hair, then controls himself: "And when there come / Fair breezes, my long ships shall bear her home."[^tw-menelaus-arrival] [Hecuba](hecuba.md) blesses him and urges him to kill Helen, but warns against looking at her face: "lest she snare thee and thou fall!"[^tw-hecuba-warning]
+
+Helen enters from her confinement. The stage direction in Murray's translation notes that she comes through the soldiers "gentle and unafraid; there is no disorder in her raiment."[^tw-helen-entrance] Menelaus declares he intends to kill her; Helen asks to speak in her own defence; Hecuba insists on a hearing, confident it will secure Helen's death: "All the wrong she wrought / Away from thee, in Troy, thou knowest not. / The whole tale set together is a death / Too sure; she shall not 'scape thee!"[^tw-hearing]
+
+### Helen's Defence
+
+Helen's defence rests on four arguments. First, she blames [Hecuba](hecuba.md) and Priam for not destroying Paris at birth. Second, she describes the Judgment of Paris: [Pallas](../deities/athena.md) offered war and conquest of Greece; [Hera](../deities/hera.md) offered sovereignty from Phrygia to the western world; [Aphrodite](../deities/aphrodite.md) offered Helen: "Cypris, if he deemed her loveliest, / Beyond all heaven, made dreams about my face / And for her grace gave me."[^tw-judgment] She argues that Aphrodite's victory actually benefited Greece by preventing an Eastern conquest. Third, she cannot be blamed for following Aphrodite's irresistible compulsion: "Surely it was not I, / But Cypris, there!"[^tw-cypris] Fourth, she claims she tried to escape Troy and return to the Greeks: "how I strove to fly! / The old Gate-Warden could have told thee all... / It was not once they took me, with the rope / Tied, and this body swung in the air."[^tw-escape]
+
+### Hecuba's Rebuttal
+
+Hecuba demolishes each argument in turn. The gods would not demean themselves by bartering cities and their own worshippers for a shepherd's prize on Ida. The true "Aphrodite" was Helen's own desire, kindled by Paris's beauty and the wealth of Troy: "Thou sawest him in gold and orient vest / Shining, and lo, a fire about thy breast / Leapt!"[^tw-desire] The so-called escape attempts would have been heard by Castor or the guards if real — "No cry, no sudden prayer / Rang from thy rooms that night." And as for coming before Menelaus "gentle and unafraid" with her raiment in order and her face adorned: "Low, low, with ravaged hair, / Rent raiment, and flesh shuddering... / So face him if thou canst!"[^tw-rebuttal]
+
+Hecuba closes with a demand for execution: "Slay this woman, and upraise / The law for evermore: she that betrays / Her husband's bed, let her be judged and die."[^tw-judgment-close]
+
+### Menelaus's Wavering Resolution
+
+Menelaus declares that he agrees with Hecuba — Helen's heart was willing when she fled with Paris. He orders her to go to be stoned: "There be those that seek thee yet / With stones!"[^tw-stones] But Helen falls to her knees and embraces him, and his resolve is already wavering — he orders her to a separate ship rather than executing her at Troy. Hecuba warns him: "A lover once, will alway love again."[^tw-lover] Menelaus replies that it will make no difference if what he once loved has shown itself evil — but concedes to a separate ship.
+
+[^tw-menelaus-arrival]: "The host whose labouring swords / Won her, have given her up to me, to fill / My pleasure; perchance kill her, or not kill, / But lead her home" (Trojan Women, trans. Gilbert Murray)
+[^tw-hecuba-warning]: "I bless thee, Menelaus, I bless thee, / If thou wilt slay her! Only fear to see / Her visage, lest she snare thee and thou fall!" (Trojan Women, trans. Gilbert Murray)
+[^tw-helen-entrance]: Helen "comes through them, gentle and unafraid; there is no disorder in her raiment" (Trojan Women, stage direction, trans. Gilbert Murray)
+[^tw-hearing]: "All the wrong she wrought / Away from thee, in Troy, thou knowest not. / The whole tale set together is a death / Too sure; she shall not 'scape thee!" (Trojan Women, trans. Gilbert Murray)
+[^tw-judgment]: "Cypris, if he deemed her loveliest, / Beyond all heaven, made dreams about my face / And for her grace gave me. And, lo! her grace / Was judged the fairest, and she stood above / Those twain. Thus was I loved, and thus my love / Hath holpen Hellas" (Trojan Women, trans. Gilbert Murray)
+[^tw-cypris]: "Surely it was not I, / But Cypris, there! Lay thou thy rod on her, / And be more high than Zeus and bitterer" (Trojan Women, trans. Gilbert Murray)
+[^tw-escape]: "how I strove to fly! / The old Gate-Warden could have told thee all... / It was not once they took me, with the rope / Tied, and this body swung in the air, to grope / Its way toward thee, from that dim battlement" (Trojan Women, trans. Gilbert Murray)
+[^tw-desire]: "Thou sawest him in gold and orient vest / Shining, and lo, a fire about thy breast / Leapt!" (Trojan Women, trans. Gilbert Murray)
+[^tw-rebuttal]: "Low, low, with ravaged hair, / Rent raiment, and flesh shuddering, and within— / O shame at last, not glory for thy sin; / So face him if thou canst!" (Trojan Women, trans. Gilbert Murray)
+[^tw-judgment-close]: "Slay this woman, and upraise / The law for evermore: she that betrays / Her husband's bed, let her be judged and die" (Trojan Women, trans. Gilbert Murray)
+[^tw-stones]: "Out, woman! There be those that seek thee yet / With stones! Go, meet them. So shall thy long debt / Be paid at last" (Trojan Women, trans. Gilbert Murray)
+[^tw-lover]: "A lover once, will alway love again" (Trojan Women, trans. Gilbert Murray)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Searches for her brothers Castor and Pollux — "mine own brethren, whom the same mother bare"; they are already dead ("the life-giving earth held fast")
@@ -264,4 +299,5 @@ That night, while other Greeks slept, Menelaus and Helen lay talking, "for on th
 - **[Fabulae](../sources/hyginus.md)** §92: The apple of Discord at wedding of Peleus and [Thetis](../deities/thetis.md); Judgment of Paris; bribes from [Juno](../deities/hera.md) (lands and wealth), [Minerva](../deities/athena.md) (bravery and skill), and [Venus](../deities/aphrodite.md) (Helen); Paris chooses Venus; takes Helen from Menelaus; brings handmaids Aethra and Thisiadie
 - **[Orestes](../sources/euripides-orestes.md)**: Sent to Argos by night (Menelaus fears stoning); sends Hermione to Clytemnestra's tomb; Electra scorns her vanity ("she has shorn off the extremities of her hair, in order to preserve her beauty"); Orestes and Pylades attack her but she vanishes — [Apollo](../deities/apollo.md) reveals she was saved by [Zeus](../deities/zeus.md) and raised to divine status beside [Castor and Pollux](dioscuri.md), "the guardian of mariners," honoured with libations
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Cause of the entire crisis; Clytemnestra argues Hermione should die for Helen's sake, not Iphigenia; Iphigenia laments "thou daughter of Tyndarus, who hast brought many sufferings upon the Greeks"; Chorus questions the swan birth ("if indeed the report is true, that Leda met with a winged bird")
+- **[Trojan Women](../sources/euripides-trojan-women.md)**: Enters "gentle and unafraid; there is no disorder in her raiment"; defends herself by blaming Aphrodite, Paris, and her own helplessness; claims she tried to escape Troy; [Hecuba](hecuba.md) demolishes each argument ("Thou sawest him in gold and orient vest / Shining, and lo, a fire about thy breast / Leapt!"); [Menelaus](menelaus.md) declares she will die but his resolve wavers; Hecuba warns "a lover once, will alway love again"
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Led from Troy by [Menelaus](menelaus.md); shame on her "dark-blue eyes"; veiled and shame-crimsoned; yet all men gazed "as on a Goddess"; [Aphrodite](../deities/aphrodite.md) stirs the Greeks to forget their anger; reunited with Menelaus that night; pleads innocence; reconciled "as a vine and ivy entwine their stems"
