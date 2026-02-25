@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**300 pages** across 8 categories, drawing from **34 primary sources**.
+**301 pages** across 8 categories, drawing from **35 primary sources**.
 
 ---
 
@@ -22,7 +22,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## [Heroes](heroes/)
 
-120 pages. Mortals and semi-divine figures.
+121 pages. Mortals and semi-divine figures.
 
 **Groups:** [Amazons](heroes/groups/amazons.md)
 
@@ -62,7 +62,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## Sources
 
-33 processed texts, organized by author.
+34 processed texts, organized by author.
 
 ### Epic Poetry
 
@@ -77,6 +77,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 | Epic Cycle | Various | c. 8th-6th cent. BCE | [Link](sources/epic-cycle.md) |
 | Argonautica | Apollonius Rhodius | c. 3rd cent. BCE | [Link](sources/argonautica.md) |
 | Odes | Pindar | c. 5th cent. BCE | [Link](sources/pindar.md) |
+| Posthomerica | Quintus Smyrnaeus | c. mid-4th cent. CE | [Link](sources/posthomerica.md) |
 
 ### Mythological Handbooks
 

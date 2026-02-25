@@ -36,7 +36,7 @@ Queens Otrere and Antiope built a stone temple of [Ares](../../deities/ares.md) 
 | Name | Role | Sources |
 |------|------|---------|
 | [Hippolyte](../hippolyte.md) | Queen; wore the belt of Ares; married [Theseus](../theseus.md); mother of [Hippolytus](../hippolytus.md) | [Bibliotheca](../../sources/apollodorus.md), [Argonautica](../../sources/argonautica.md) |
-| Penthesilea | Daughter of Otrere and [Ares](../../deities/ares.md); came to Troy as Priam's ally; killed by [Achilles](../achilles.md) | [Bibliotheca](../../sources/apollodorus.md) E.5.1, [Epic Cycle](../../sources/epic-cycle.md) |
+| [Penthesilea](../penthesilea.md) | Daughter of Otrere and [Ares](../../deities/ares.md); came to Troy as Priam's ally; killed by [Achilles](../achilles.md) | [Bibliotheca](../../sources/apollodorus.md) E.5.1, [Epic Cycle](../../sources/epic-cycle.md), [Posthomerica](../../sources/posthomerica.md) I |
 | Otrere | Queen; mother of Penthesilea; built temple of Ares | [Bibliotheca](../../sources/apollodorus.md), [Argonautica](../../sources/argonautica.md) |
 | Antiope | Queen; built temple of Ares with Otrere; in some accounts the Amazon captured by [Theseus](../theseus.md) | [Bibliotheca](../../sources/apollodorus.md), [Argonautica](../../sources/argonautica.md) |
 | Melanippe | Sister of Hippolyte; captured by [Heracles](../heracles.md); ransomed for the belt | [Argonautica](../../sources/argonautica.md) |
