@@ -2,13 +2,13 @@
 
 | | |
 |---|---|
-| **Also known as** | Pyrrhus |
-| **Parents** | [Achilles](achilles.md) and Deidamia |
+| **Also known as** | Pyrrhus ("the red-haired") |
+| **Parents** | [Achilles](achilles.md) and Deidamia, daughter of Lycomedes |
 | **Consort** | [Andromache](andromache.md); [Hermione](hermione.md) |
-| **Children** | Molossus (by Andromache) |
-| **Homeland** | Scyros; later Molossia and Phthia |
-| **Known for** | Sack of [Troy](../places/troy.md); killing [Priam](priam.md) |
-| **First appearance** | [Odyssey](../sources/odyssey.md) 11.506 |
+| **Children** | Molossus (by Andromache, per Apollodorus); Amphialus (by Andromache, per Hyginus) |
+| **Homeland** | Scyros; later Molossia (Epirus) and Phthia |
+| **Known for** | Sack of [Troy](../places/troy.md); killing [Priam](priam.md); death at [Delphi](../places/delphi.md) |
+| **First appearance** | [Epic Cycle](../sources/epic-cycle.md) (Little Iliad) |
 
 ## Overview
 
@@ -16,7 +16,25 @@
 
 ## Names
 
-[Hyginus](../sources/hyginus.md) explains both names: "he was called Pyrrhus from his father who was disguised as the girl Pyrrha," since [Achilles](achilles.md) had tawny hair and "in Greek a redhead is called *pyrrhos*."[^hyg-name] The name Neoptolemus ("new warrior") reflects his arrival late in the war.
+[Hyginus](../sources/hyginus.md) explains both names: the girls at Lycomedes' court "called him Pyrrha, since he had tawny hair, and in Greek a redhead is called *pyrrhos*,"[^hyg-name] and in the catalogue of ships he "was called Pyrrhus from his father who was disguised as the girl Pyrrha."[^hyg-ships] The name Neoptolemus ("new warrior") reflects his arrival late in the war.
+
+## In the Epic Cycle
+
+### Ghost of Achilles (Little Iliad)
+
+After the fall of Troy, the ghost of [Achilles](achilles.md) appeared to Neoptolemus.[^ec-ghost]
+
+### Astyanax's Death (Little Iliad)
+
+Neoptolemus killed Hector's infant son: he "snatched him from the bosom of his rich-haired nurse and seized him by the foot and cast him from a tower."[^ec-astyanax]
+
+### Aeneas Taken Captive (Little Iliad)
+
+Neoptolemus "put Aeneas, the famous son of horse-taming Anchises, on board his sea-faring ships, a prize surpassing those of all the Danaans."[^ec-aeneas]
+
+### Journey Home (Returns)
+
+Warned by [Thetis](../deities/thetis.md), Neoptolemus journeyed overland rather than by sea, avoiding the storm that wrecked many of the Greek fleet. He buried Phoenix along the way and was recognized by [Peleus](peleus.md) among the Molossi.[^ec-returns]
 
 ## In the Odyssey
 
@@ -56,13 +74,9 @@ He gave Helenus his mother Deidamia in marriage, and "when Peleus was expelled f
 
 "When Orestes went mad, Neoptolemus carried off his wife Hermione, who had previously been betrothed to him in Troy; and for that reason he was slain by Orestes at Delphi."[^apd-death-orestes] Apollodorus adds a variant: "some say that he went to Delphi to demand satisfaction from Apollo for the death of his father, and that he rifled the votive offerings and set fire to the temple, and was on that account slain by Machaereus the Phocian."[^apd-death-delphi]
 
-## In the Aeneid
+### Judge of Odysseus
 
-[Virgil](../sources/aeneid.md) gives the most dramatic account of Neoptolemus at the sack of Troy, narrated by [Aeneas](aeneas.md) himself: "Myself I saw in the gateway Neoptolemus mad in slaughter."[^aen-gateway]
-
-He is introduced with a vivid simile: "right before the vestibule and in the front doorway Pyrrhus moves rejoicingly in the sparkle of arms and gleaming brass: like as when a snake fed on poisonous herbs, whom chill winter kept hid and swollen underground, now fresh from his weeds outworn and shining in youth, wreathes his slippery body into the daylight, his upreared breast meets the sun, and his triple-cloven tongue flickers in his mouth."[^aen-snake]
-
-The killing of Priam is extended into a scene of horror. First Pyrrhus kills Polites, one of Priam's sons, before his parents' eyes. Priam hurls a feeble spear and denounces him: "not such to a foe was the Achilles whose parentage thou beliest; but he revered a suppliant's right and trust, restored to the tomb Hector's pallid corpse, and sent me back to my realm."[^aen-priam-speech] Pyrrhus replies: "thou then shalt tell this, and go with the message to my sire the son of Peleus: remember to tell him of my baleful deeds, and the degeneracy of Neoptolemus. Now die." He "drew him quivering to the very altar, slipping in the pool of his child's blood, and wound his left hand in his hair, while in his right the sword flashed out and plunged to the hilt in his side."[^aen-priam-death]
+In one tradition, the kinfolk of Penelope's slain suitors "submitted the case to the judgment of Neoptolemus, king of the islands off Epirus; that Neoptolemus, thinking to get possession of Cephallenia if once Ulysses were put out of the way, condemned him to exile."[^apd-judge]
 
 ## In the Posthomerica
 
@@ -124,31 +138,78 @@ But the ghost also demanded [Polyxena](polyxena.md)'s sacrifice at his tomb, thr
 
 Neoptolemus assembled the host and relayed his father's command. A storm immediately confirmed the threat. He led Polyxena to the tomb, laid his hand upon it, and prayed: "Hear, father, thy son's prayer... Lo, unto thee now all thine heart's desire will we fulfil. Be gracious to us thou, and to our praying grant sweet home-return." He then "into the maid's throat plunged the blade of death: the dear life straightway sobbed she forth." The waves were stilled at once.[^post-polyxena]
 
+## In the Aeneid
+
+[Virgil](../sources/aeneid.md) gives the most dramatic account of Neoptolemus at the sack of Troy, narrated by [Aeneas](aeneas.md) himself: "Myself I saw in the gateway Neoptolemus mad in slaughter."[^aen-gateway]
+
+He is introduced with a vivid simile: "right before the vestibule and in the front doorway Pyrrhus moves rejoicingly in the sparkle of arms and gleaming brass: like as when a snake fed on poisonous herbs, whom chill winter kept hid and swollen underground, now fresh from his weeds outworn and shining in youth, wreathes his slippery body into the daylight, his upreared breast meets the sun, and his triple-cloven tongue flickers in his mouth."[^aen-snake]
+
+The killing of Priam is extended into a scene of horror. First Pyrrhus kills Polites, one of Priam's sons, before his parents' eyes. Priam hurls a feeble spear and denounces him: "not such to a foe was the Achilles whose parentage thou beliest; but he revered a suppliant's right and trust, restored to the tomb Hector's pallid corpse, and sent me back to my realm."[^aen-priam-speech] Pyrrhus replies: "thou then shalt tell this, and go with the message to my sire the son of Peleus: remember to tell him of my baleful deeds, and the degeneracy of Neoptolemus. Now die." He "drew him quivering to the very altar, slipping in the pool of his child's blood, and wound his left hand in his hair, while in his right the sword flashed out and plunged to the hilt in his side."[^aen-priam-death]
+
 ## In the Fabulae
 
-[Hyginus](../sources/hyginus.md) lists Neoptolemus among the warriors in the wooden horse and notes he "slew 6" Trojans in the war.[^hyg-kills] In the list of combat matchups: "Neoptolemus with Eurypylus; Eurypylus was killed."[^hyg-combat]
+### Birth and Name
+
+[Hyginus](../sources/hyginus.md) records the name Pyrrhus as deriving from Achilles' disguise: the girls at Lycomedes' court "called him Pyrrha, since he had tawny hair, and in Greek a redhead is called pyrrhos."[^hyg-name] In the catalogue of ships, Neoptolemus is listed as "son of Achilles and Deidamia, from the island of Scyros; he was called Pyrrhus from his father who was disguised as the girl Pyrrha."[^hyg-ships]
+
+### At Troy
+
+Neoptolemus was among those who hid within the Wooden Horse.[^hyg-horse] He killed Eurypylus in combat and [Priam](priam.md) personally, and is credited with slaying six Trojans in all.[^hyg-kills]
+
+### Death
+
+"Neoptolemus, son of Achilles and Deidamia, begat Amphialus by captive Andromache, daughter of Eetion." He went to Lacedaemon to claim Hermione, his betrothed, who had been given to [Orestes](orestes.md) in marriage. "Menelaus did not wish to go back on his word, and took Hermione from Orestes and gave her to Neoptolemus. Orestes, thus insulted, slew Neoptolemus as he was sacrificing to Delphi. The bones of Neoptolemus were scattered through the land of Ambracia, which is in the district of Epirus."[^hyg-death]
+
+### Attack on Harpalycus
+
+"When Neoptolemus, returning from Troy, attacked Harpalycus and wounded him severely," the warrior-maiden Harpalyce "saved her father from death by making an attack and putting the enemy to flight."[^hyg-harpalycus]
+
+## In Pindar
+
+### Troy and Homecoming (Nemean VII)
+
+[Pindar](../sources/pindar.md) records that Neoptolemus "sacked the city of Priam where the Danaoi toiled with him."[^pin-sack] After the war he did not return to Scyros: "He sailing thence missed Skyros, and they wandered till they came to Ephyra, and in Molossia he was king for a little while: howbeit his race held this state continually."[^pin-molossia]
+
+### Death at Delphi (Nemean VII)
+
+Neoptolemus went to Delphi carrying spoils from Troy, and there met his end: "in quarrel concerning meats a man smote him with a knife."[^pin-death] But Pindar frames this death as divinely ordained rather than shameful: "it was needful that in that most ancient grove someone of the lords the sons of Aiakos should abide within thenceforward, beside the goodly walls of the god's house, and that when with plenteous sacrifice the processions do honour to the heroes, he should keep watch that fair right be done."[^pin-fate]
+
+Neoptolemus thus became a presiding spirit at Delphi: "Three words shall be enough: when he presideth over the games there is no lie found in his testimony thereof."[^pin-games]
+
+Pindar closes the ode by insisting on his respect for the hero: "Never shall my heart confess that I have outraged Neoptolemus with irreclaimable words."[^pin-defense]
+
+### Epirus and Descendants (Nemean VII, Nemean V, Olympian VIII)
+
+Neoptolemus's realm in Epirus, where "his race held this state continually," gave rise to the Molossian dynasty.[^pin-molossia] In Nemean V, Neoptolemus is placed in "wide Epeiros, where cattle-pasturing headlands, from Dodona onwards, slope forward to the Ionian Sea."[^pin-nem5]
+
+In Olympian VIII, Apollo prophesied that Troy would fall "with the first and fourth" of [Aeacus](aeacus.md)'s line — Telamon with [Heracles](heracles.md), and Neoptolemus in the Wooden Horse.[^pin-ol8]
 
 ## Variant Traditions
 
 The sources agree on Neoptolemus's ferocity at Troy but differ on his fate and character:
 
-- In [Apollodorus](../sources/apollodorus.md), he is killed at Delphi either by [Orestes](orestes.md) (over [Hermione](hermione.md)) or by a Phocian (for desecrating the temple).
+**Death at Delphi.** The circumstances vary across sources:
+- **Pindar** (Nemean VII): Killed "in quarrel concerning meats" by "a man" with a knife; his death was fated so that an Aiakid prince would preside over the sanctuary forever.
+- **[Apollodorus](../sources/apollodorus.md)** (E.6.14): Slain by [Orestes](orestes.md) in revenge for carrying off [Hermione](hermione.md). Alternatively, killed by the Phocian Machaereus after rifling votive offerings and burning the temple.
+- **[Hyginus](../sources/hyginus.md)** (§123): Slain by Orestes "as he was sacrificing to Delphi" over the Hermione dispute. His bones were scattered through Ambracia.
 - In the [Odyssey](../sources/odyssey.md), he departs Troy unscathed with no mention of a later death.
-- [Virgil](../sources/aeneid.md) condemns him through Aeneas's eyes as a savage, while Homer's Odysseus portrays him as admirably brave.
 
-Priam's dying speech in the Aeneid explicitly contrasts Neoptolemus unfavourably with his father — Achilles respected suppliants and returned Hector's body, while Pyrrhus slaughters at the altar. In the [Posthomerica](../sources/posthomerica.md), the scene is somewhat different: Priam does not rebuke Neoptolemus but actively requests death, and Neoptolemus frames the killing as granting a wish — though the beheading simile ("lightly as when a reaper lops an ear") suggests casual brutality.
+**Character.** [Virgil](../sources/aeneid.md) condemns him through Aeneas's eyes as a savage — Priam's dying speech explicitly contrasts Neoptolemus unfavourably with his father, since Achilles respected suppliants and returned Hector's body while Pyrrhus slaughters at the altar. Homer's Odysseus instead portrays him as admirably brave. In the [Posthomerica](../sources/posthomerica.md), the scene is somewhat different: Priam does not rebuke Neoptolemus but actively requests death, and Neoptolemus frames the killing as granting a wish — though the beheading simile ("lightly as when a reaper lops an ear") suggests casual brutality.
 
-The Posthomerica also uniquely portrays Neoptolemus as initially opposed to the Wooden Horse stratagem, preferring open combat — a detail absent from all other sources, which present his entry into the Horse without protest.
+**The Wooden Horse.** The Posthomerica uniquely portrays Neoptolemus as initially opposed to the Wooden Horse stratagem, preferring open combat — a detail absent from all other sources, which present his entry into the Horse without protest.
+
+**Son by Andromache.** Apollodorus names the child Molossus (E.6.12), while Hyginus names him Amphialus (§123).
 
 ## Appearances
 
+- **[Epic Cycle](../sources/epic-cycle.md)** (Little Iliad): Ghost of [Achilles](achilles.md) appears to him; kills Astyanax; takes [Aeneas](aeneas.md) captive
+- **[Epic Cycle](../sources/epic-cycle.md)** (Returns): Warned by [Thetis](../deities/thetis.md), journeys overland; buries Phoenix; recognized by Peleus among the Molossi
 - **[Odyssey](../sources/odyssey.md)** 11.506-537: Odysseus tells Achilles' ghost of Neoptolemus's prowess, eloquence, and courage in the wooden horse
 - **[Bibliotheca](../sources/apollodorus.md)** 3.13.8: Born on Scyros to Achilles and Deidamia; called Pyrrhus, then Neoptolemus
-- **[Bibliotheca](../sources/apollodorus.md)** E.5.10-11: Fetched from Scyros as condition for taking Troy; receives Achilles' arms; slays many Trojans and Eurypylus
-- **[Bibliotheca](../sources/apollodorus.md)** E.5.21: Slays Priam at the altar of Zeus of the Courtyard
-- **[Bibliotheca](../sources/apollodorus.md)** E.5.23: Receives Andromache as spoil
-- **[Bibliotheca](../sources/apollodorus.md)** E.6.5: Thetis persuades him to wait two days; avoids the storm
-- **[Bibliotheca](../sources/apollodorus.md)** E.6.12-14: Conquers Molossia; begets Molossus; succeeds Peleus at Phthia; slain at Delphi
+- **[Bibliotheca](../sources/apollodorus.md)** E.5.10-12: Fetched from Scyros as condition for taking Troy; receives Achilles' arms; slays many Trojans and Eurypylus
+- **[Bibliotheca](../sources/apollodorus.md)** E.5.21-23: Slays Priam at the altar of Zeus of the Courtyard; receives Andromache as spoil
+- **[Bibliotheca](../sources/apollodorus.md)** E.6.5, E.6.12-14: Thetis persuades him to wait two days; conquers Molossia; begets Molossus; succeeds Peleus at Phthia; slain at Delphi
+- **[Bibliotheca](../sources/apollodorus.md)** E.7.40: Judges Odysseus's case, condemns him to exile
 - **[Posthomerica](../sources/posthomerica.md)** VII: Fetched from Scyros by Odysseus and Diomedes; Deidameia's grief; dons Achilles' arms and seems Achilles reborn; Phoenix weeps for joy; Agamemnon greets him
 - **[Posthomerica](../sources/posthomerica.md)** VIII: Rides Achilles' immortal horses; duels and kills Eurypylus (Pelian lance through throat); routs Trojans to their gates; fights on undaunted when Ares intervenes; Thetis charms weariness from him
 - **[Posthomerica](../sources/posthomerica.md)** IX: Weeps at Achilles' tomb
@@ -157,11 +218,37 @@ The Posthomerica also uniquely portrays Neoptolemus as initially opposed to the 
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Slays Pammon, Polites, Antiphonus (Priam's sons) and Agenor; beheads Priam at altar of Zeus
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Achilles' ghost appears in dream from Elysian Plain; demands and performs sacrifice of Polyxena; receives Andromache
 - **[Aeneid](../sources/aeneid.md)** 2.262-558: Inside the wooden horse; compared to a snake; slays Polites and Priam at the altar
-- **[Fabulae](../sources/hyginus.md)** §97: Listed among those who went to Troy; called Pyrrhus from his father's disguise
+- **[Fabulae](../sources/hyginus.md)** §96-97: Name Pyrrhus from Achilles' disguise; listed among ships
 - **[Fabulae](../sources/hyginus.md)** §108: Named among warriors in the wooden horse
-- **[Fabulae](../sources/hyginus.md)** §112: Kills Eurypylus in combat
-- **[Fabulae](../sources/hyginus.md)** §114: Credited with 6 kills at Troy
+- **[Fabulae](../sources/hyginus.md)** §112-114: Kills Eurypylus and Priam; 6 total kills
+- **[Fabulae](../sources/hyginus.md)** §123: Begat Amphialus on Andromache; claimed Hermione; killed by Orestes at Delphi; bones scattered in Ambracia
+- **[Fabulae](../sources/hyginus.md)** §193: Attacked Harpalycus on return from Troy; repelled by Harpalyce
+- **[Pindar](../sources/pindar.md)**, Olympian VIII: Prophesied as fourth-generation Aiakid to take Troy (in Wooden Horse)
+- **[Pindar](../sources/pindar.md)**, Nemean V: Placed in "wide Epeiros" among Aiakid domains
+- **[Pindar](../sources/pindar.md)**, Nemean VII: Sacked Troy; ruled Molossia briefly; killed at Delphi "in quarrel concerning meats"; ordained to preside over Delphic games; Pindar defends his own treatment of the hero
 
+[^ec-ghost]: Little Iliad, summary by Proclus: "the ghost of Achilles appears to him [Neoptolemus]"
+[^ec-astyanax]: "snatched him from the bosom of his rich-haired nurse and seized him by the foot and cast him from a tower" (Little Iliad, Fragment, trans. H.G. Evelyn-White)
+[^ec-aeneas]: "put Aeneas, the famous son of horse-taming Anchises, on board his sea-faring ships, a prize surpassing those of all the Danaans" (Little Iliad, Fragment, trans. H.G. Evelyn-White)
+[^ec-returns]: Returns, summary by Proclus: "Neoptolemus, warned by Thetis, journeys overland"
+[^od-scyros]: "It was I that led him up out of Scyros in my good hollow ship, in the wake of the goodly-greaved Achaeans" (Odyssey 11.508-509, trans. Butcher & Lang)
+[^od-prowess]: "he was ever the first to speak, and no word missed the mark; the godlike Nestor and I alone surpassed him... he never tarried behind in the throng or the press of men, but ran out far before us all, yielding to none in that might of his" (Odyssey 11.510-515, trans. Butcher & Lang)
+[^od-eurypylus]: "how he smote with the sword that son of Telephus, the hero Eurypylus, and many Ceteians of his company were slain around him, by reason of a woman's bribe. He truly was the comeliest man that ever I saw, next to goodly Memnon" (Odyssey 11.519-522, trans. Butcher & Lang)
+[^od-horse]: "never once did I see thy son's fair face wax pale, nor did he wipe the tears from his cheeks: but he besought me often to let him go forth from the horse, and kept handling his sword-hilt, and his heavy bronze-shod spear, and he was set on mischief against the Trojans" (Odyssey 11.527-532, trans. Butcher & Lang)
+[^od-unscathed]: "he embarked unscathed with his share of the spoil, and with a noble prize; he was not smitten with the sharp spear, and got no wound in close fight" (Odyssey 11.534-536, trans. Butcher & Lang)
+[^od-rejoicing]: "the spirit of the son of Aeacus, fleet of foot, passed with great strides along the mead of asphodel, rejoicing in that I had told him of his son's renown" (Odyssey 11.538-540, trans. Butcher & Lang)
+[^apd-birth]: "Achilles had an intrigue with Deidamia, daughter of Lycomedes, and a son Pyrrhus was born to him, who was afterwards called Neoptolemus" (Bibliotheca 3.13.8, trans. J.G. Frazer)
+[^apd-conditions]: "Helenus was forced to tell how Ilium could be taken, to wit, first, if the bones of Pelops were brought to them; next, if Neoptolemus fought for them; and third, if the Palladium, which had fallen from heaven, were stolen from Troy" (Bibliotheca E.5.10, trans. J.G. Frazer)
+[^apd-arms]: "they sent Ulysses and Phoenix to Lycomedes at Scyros, and these two persuaded him to let Neoptolemus go. On coming to the camp and receiving his father's arms from Ulysses, who willingly resigned them, Neoptolemus slew many of the Trojans" (Bibliotheca E.5.11, trans. J.G. Frazer)
+[^apd-eurypylus]: "Eurypylus, son of Telephus, arrived to fight for the Trojans, bringing a great force of Mysians. He performed doughty deeds, but was slain by Neoptolemus" (Bibliotheca E.5.12, trans. J.G. Frazer)
+[^apd-priam]: "Neoptolemus slew Priam, who had taken refuge at the altar of Zeus of the Courtyard" (Bibliotheca E.5.21, trans. J.G. Frazer)
+[^apd-spoils]: "Neoptolemus got Andromache" (Bibliotheca E.5.23, trans. J.G. Frazer)
+[^apd-thetis]: "Thetis came and persuaded Neoptolemus to wait two days and to offer sacrifice; and he waited. But the others put to sea and encountered a storm" (Bibliotheca E.6.5, trans. J.G. Frazer)
+[^apd-molossia]: "Neoptolemus set out for the country of the Molossians by land with Helenus, and on the way Phoenix died, and Neoptolemus buried him; and having vanquished the Molossians in battle he reigned as king and begat Molossus on Andromache" (Bibliotheca E.6.12, trans. J.G. Frazer)
+[^apd-phthia]: "when Peleus was expelled from Phthia by the sons of Acastus and died, Neoptolemus succeeded to his father's kingdom" (Bibliotheca E.6.13, trans. J.G. Frazer)
+[^apd-death-orestes]: "when Orestes went mad, Neoptolemus carried off his wife Hermione, who had previously been betrothed to him in Troy; and for that reason he was slain by Orestes at Delphi" (Bibliotheca E.6.14, trans. J.G. Frazer)
+[^apd-death-delphi]: "some say that he went to Delphi to demand satisfaction from Apollo for the death of his father, and that he rifled the votive offerings and set fire to the temple, and was on that account slain by Machaereus the Phocian" (Bibliotheca E.6.14, trans. J.G. Frazer)
+[^apd-judge]: "Neoptolemus, thinking to get possession of Cephallenia if once Ulysses were put out of the way, condemned him to exile" (Bibliotheca E.7.40, trans. J.G. Frazer)
 [^post-scyros]: "that goodly form and face seemed even as very Achilles unto them" (Posthomerica 7.5725, trans. A.S. Way)
 [^post-deidameia]: "He, mightier than thou, mightier than all heroes on earth, yea, and a Goddess' son — but was in battle slain, all through the wiles and crafty counsels of these very men who now to woeful war be kindling thee" (Posthomerica 7.5837-5841, trans. A.S. Way)
 [^post-departure]: "No man is in war beyond his destiny slain. If my weird be to die in my country's cause, then let me die when I have done deeds worthy of my sire" (Posthomerica 7.5857-5859); "whatso else her weeping eyes beheld that was her son's" (7.5920)
@@ -184,26 +271,21 @@ The Posthomerica also uniquely portrays Neoptolemus as initially opposed to the 
 [^post-ghost-demand]: "else shall my wrath against them more than for Briseis burn" (Posthomerica 14.10281); "as a wind-breath swift he fleeted thence, and came to the Elysian Plain" (14.10291-10292)
 [^post-polyxena]: "Hear, father, thy son's prayer... Lo, unto thee now all thine heart's desire will we fulfil" (Posthomerica 14.10384-10387); "into the maid's throat then he plunged the blade of death: the dear life straightway sobbed she forth" (14.10390-10391)
 [^aen-snake]: "right before the vestibule and in the front doorway Pyrrhus moves rejoicingly in the sparkle of arms and gleaming brass: like as when a snake fed on poisonous herbs, whom chill winter kept hid and swollen underground, now fresh from his weeds outworn and shining in youth, wreathes his slippery body into the daylight, his upreared breast meets the sun, and his triple-cloven tongue flickers in his mouth" (Aeneid 2.469-475, trans. J.W. Mackail)
-[^hyg-name]: "he was called Pyrrhus from his father who was disguised as the girl Pyrrha. The total number of ships was 245" (Fabulae §97, trans. Mary Grant)
-[^od-scyros]: "It was I that led him up out of Scyros in my good hollow ship, in the wake of the goodly-greaved Achaeans" (Odyssey 11.508-509, trans. Butcher & Lang)
-[^od-prowess]: "he was ever the first to speak, and no word missed the mark; the godlike Nestor and I alone surpassed him... he never tarried behind in the throng or the press of men, but ran out far before us all, yielding to none in that might of his" (Odyssey 11.510-515, trans. Butcher & Lang)
-[^od-eurypylus]: "how he smote with the sword that son of Telephus, the hero Eurypylus, and many Ceteians of his company were slain around him, by reason of a woman's bribe. He truly was the comeliest man that ever I saw, next to goodly Memnon" (Odyssey 11.519-522, trans. Butcher & Lang)
-[^od-horse]: "never once did I see thy son's fair face wax pale, nor did he wipe the tears from his cheeks: but he besought me often to let him go forth from the horse, and kept handling his sword-hilt, and his heavy bronze-shod spear, and he was set on mischief against the Trojans" (Odyssey 11.527-532, trans. Butcher & Lang)
-[^od-unscathed]: "he embarked unscathed with his share of the spoil, and with a noble prize; he was not smitten with the sharp spear, and got no wound in close fight" (Odyssey 11.534-536, trans. Butcher & Lang)
-[^od-rejoicing]: "the spirit of the son of Aeacus, fleet of foot, passed with great strides along the mead of asphodel, rejoicing in that I had told him of his son's renown" (Odyssey 11.538-540, trans. Butcher & Lang)
-[^apd-birth]: "Achilles had an intrigue with Deidamia, daughter of Lycomedes, and a son Pyrrhus was born to him, who was afterwards called Neoptolemus" (Bibliotheca 3.13.8, trans. J.G. Frazer)
-[^apd-conditions]: "Helenus was forced to tell how Ilium could be taken, to wit, first, if the bones of Pelops were brought to them; next, if Neoptolemus fought for them; and third, if the Palladium, which had fallen from heaven, were stolen from Troy" (Bibliotheca E.5.10, trans. J.G. Frazer)
-[^apd-arms]: "they sent Ulysses and Phoenix to Lycomedes at Scyros, and these two persuaded him to let Neoptolemus go. On coming to the camp and receiving his father's arms from Ulysses, who willingly resigned them, Neoptolemus slew many of the Trojans" (Bibliotheca E.5.11, trans. J.G. Frazer)
-[^apd-eurypylus]: "Eurypylus, son of Telephus, arrived to fight for the Trojans, bringing a great force of Mysians. He performed doughty deeds, but was slain by Neoptolemus" (Bibliotheca E.5.12, trans. J.G. Frazer)
-[^apd-priam]: "Neoptolemus slew Priam, who had taken refuge at the altar of Zeus of the Courtyard" (Bibliotheca E.5.21, trans. J.G. Frazer)
-[^apd-spoils]: "Neoptolemus got Andromache" (Bibliotheca E.5.23, trans. J.G. Frazer)
-[^apd-thetis]: "Thetis came and persuaded Neoptolemus to wait two days and to offer sacrifice; and he waited. But the others put to sea and encountered a storm" (Bibliotheca E.6.5, trans. J.G. Frazer)
-[^apd-molossia]: "Neoptolemus set out for the country of the Molossians by land with Helenus, and on the way Phoenix died, and Neoptolemus buried him; and having vanquished the Molossians in battle he reigned as king and begat Molossus on Andromache" (Bibliotheca E.6.12, trans. J.G. Frazer)
-[^apd-phthia]: "when Peleus was expelled from Phthia by the sons of Acastus and died, Neoptolemus succeeded to his father's kingdom" (Bibliotheca E.6.13, trans. J.G. Frazer)
-[^apd-death-orestes]: "when Orestes went mad, Neoptolemus carried off his wife Hermione, who had previously been betrothed to him in Troy; and for that reason he was slain by Orestes at Delphi" (Bibliotheca E.6.14, trans. J.G. Frazer)
-[^apd-death-delphi]: "some say that he went to Delphi to demand satisfaction from Apollo for the death of his father, and that he rifled the votive offerings and set fire to the temple, and was on that account slain by Machaereus the Phocian" (Bibliotheca E.6.14, trans. J.G. Frazer)
 [^aen-gateway]: "Myself I saw in the gateway Neoptolemus mad in slaughter" (Aeneid 2.499-500, trans. J.W. Mackail)
 [^aen-priam-speech]: "not such to a foe was the Achilles whose parentage thou beliest; but he revered a suppliant's right and trust, restored to the tomb Hector's pallid corpse, and sent me back to my realm" (Aeneid 2.540-543, trans. J.W. Mackail)
 [^aen-priam-death]: "he drew him quivering to the very altar, slipping in the pool of his child's blood, and wound his left hand in his hair, while in his right the sword flashed out and plunged to the hilt in his side" (Aeneid 2.550-553, trans. J.W. Mackail)
-[^hyg-kills]: "Neoptolemus, 6" (Fabulae §114, trans. Mary Grant)
+[^hyg-name]: "The girls called him Pyrrha, since he had tawny hair, and in Greek a redhead is called pyrrhos" (Fabulae §96, trans. Mary Grant)
+[^hyg-ships]: "Neoptolemus, son of Achilles and Deidamia, from the island of Scyros; he was called Pyrrhus from his father who was disguised as the girl Pyrrha" (Fabulae §97, trans. Mary Grant)
+[^hyg-horse]: "in it were gathered Menelaus, Ulysses, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus" (Fabulae §108, trans. Mary Grant)
+[^hyg-kills]: "Neoptolemus, Priam" (Fabulae §113); "Neoptolemus, 6" (Fabulae §114, trans. Mary Grant)
+[^hyg-death]: "Orestes, thus insulted, slew Neoptolemus as he was sacrificing to Delphi. The bones of Neoptolemus were scattered through the land of Ambracia, which is in the district of Epirus" (Fabulae §123, trans. Mary Grant)
+[^hyg-harpalycus]: "When Neoptolemus, returning from Troy, attacked Harpalycus and wounded him severely, she saved her father from death by making an attack and putting the enemy to flight" (Fabulae §193, trans. Mary Grant)
 [^hyg-combat]: "Neoptolemus with Eurypylus; Eurypylus was killed" (Fabulae §112, trans. Mary Grant)
+[^pin-sack]: "beneath the floor of Pytho lieth Neoptolemos, dying there when he had sacked the city of Priam where the Danaoi toiled with him" (Pindar, Nemean VII, trans. Ernest Myers)
+[^pin-molossia]: "He sailing thence missed Skyros, and they wandered till they came to Ephyra, and in Molossia he was king for a little while: howbeit his race held this state continually" (Pindar, Nemean VII)
+[^pin-death]: "there in quarrel concerning meats a man smote him with a knife" (Pindar, Nemean VII)
+[^pin-fate]: "it was needful that in that most ancient grove someone of the lords the sons of Aiakos should abide within thenceforward, beside the goodly walls of the god's house, and that when with plenteous sacrifice the processions do honour to the heroes, he should keep watch that fair right be done" (Pindar, Nemean VII)
+[^pin-games]: "Three words shall be enough: when he presideth over the games there is no lie found in his testimony thereof" (Pindar, Nemean VII)
+[^pin-defense]: "Never shall my heart confess that I have outraged Neoptolemos with irreclaimable words" (Pindar, Nemean VII)
+[^pin-nem5]: "Neoptolemos in wide Epeiros, where cattle-pasturing headlands, from Dodona onwards, slope forward to the Ionian Sea" (Pindar, Nemean V)
+[^pin-ol8]: Olympian VIII; footnote: "Achilles' son, Neoptolemos, who succeeded" — "the third typifies Achilles' son, Neoptolemos, who was in the Wooden Horse" (Pindar, Olympian VIII)
