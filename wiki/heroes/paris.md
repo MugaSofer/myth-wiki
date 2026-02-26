@@ -102,6 +102,12 @@ Paris killed [Achilles](achilles.md): he "was shot with an arrow in the ankle by
 [^apd-achilles]: "he was shot with an arrow in the ankle by Alexander and Apollo at the Scaean gate" (Bibliotheca E.5.3, trans. J.G. Frazer)
 [^apd-death]: "After the death of Alexander, Helenus and Deiphobus quarrelled as to which of them should marry Helen" (Bibliotheca E.5.9, trans. J.G. Frazer)
 
+## In Euripides' [Rhesus](../sources/euripides-rhesus.md)
+
+[Paris](paris.md) appears briefly in the *Rhesus*, having heard rumours that spies have entered the camp. [Athena](../deities/athena.md), disguised as [Aphrodite](../deities/aphrodite.md), intercepts him. Speaking as Venus, she reassures him: "Be of good cheer; for Venus protects you: I in all your battles feel an interest, mindful of the prize I gained favoured by you."[^eur-rh-par-aphrodite] Paris, trusting the deception, departs without investigating further.
+
+[^eur-rh-par-aphrodite]: "Be of good cheer; for Venus protects you: I in all your battles feel an interest, mindful of the prize I gained favoured by you" (Rhesus, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Panther-skin and curved bow; challenges the Greeks; shrinks from [Menelaus](menelaus.md); rebuked by [Hector](hector.md) ("most fair in semblance"); duels Menelaus and loses; rescued by [Aphrodite](../deities/aphrodite.md); "radiant in beauty and vesture"; defends the gifts of Aphrodite
@@ -116,3 +122,4 @@ Paris killed [Achilles](achilles.md): he "was shot with an arrow in the ankle by
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.3: With Apollo, killed Achilles at the Scaean gate
 - **[Bibliotheca](../sources/apollodorus.md)** E.5.8: Killed by Philoctetes with the bow of Heracles
 - **[Epic Cycle](../sources/epic-cycle.md)** (Cypria): Judgment of the goddesses; abduction of Helen
+- **[Rhesus](../sources/euripides-rhesus.md)**: Hears rumours of spies; tricked by [Athena](../deities/athena.md) disguised as [Aphrodite](../deities/aphrodite.md); sent away without investigating

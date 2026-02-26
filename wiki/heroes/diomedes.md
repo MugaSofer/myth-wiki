@@ -259,6 +259,13 @@ In the sack that follows, Diomedes fights through Troy with characteristic feroc
 [^post-ilioneus]: "Piteously cried he, terror-overwhelmed: 'I kneel before thee, whosoe'er thou be Of mighty Argives. Oh compassionate My suppliant hands! Abate thy wrath! To slay The young and valiant is a glorious thing; But if thou smite an old man, small renown Waits on thy prowess.'... 'Old man, I look to attain to honoured age; But while my Strength yet waxeth, will not I Spare any foe, but hurl to Hades all. The brave man makes an end of every foe.'" (Posthomerica 13.9602-9616, trans. A.S. Way)
 [^post-sack-storm]: "By Diomedes' hands. Thence rushed he on Slaying the Trojans, storming in his might All through their fortress" (Posthomerica 13.9622-9624, trans. A.S. Way)
 
+## In Euripides' [Rhesus](../sources/euripides-rhesus.md)
+
+In the *Rhesus*, Diomedes accompanies [Odysseus](odysseus.md) into the Trojan camp at night. When Odysseus suggests retreating after finding [Hector](hector.md)'s tent empty, Diomedes insists on a fresh exploit: "'twere base, back to the Grecian fleet should we return, no fresh exploit performing 'gainst the foe."[^eur-rh-dio-base] [Athena](../deities/athena.md) directs them to [Rhesus](rhesus.md), and Diomedes takes the killing while Odysseus handles the horses: "To slay the foe be mine; do you the coursers guide, for you are practised in each nicer art."[^eur-rh-dio-kill]
+
+[^eur-rh-dio-base]: "'twere base, back to the Grecian fleet should we return, no fresh exploit performing 'gainst the foe" (Rhesus, trans. Michael Wodhull)
+[^eur-rh-dio-kill]: "To slay the foe be mine; do you the coursers guide, for you are practised in each nicer art, and quick of apprehension" (Rhesus, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Named in the Catalogue of Ships as leader of the Argives from Argos, Tiryns, and nearby cities
@@ -285,6 +292,7 @@ In the sack that follows, Diomedes fights through Troy with characteristic feroc
 - **[Posthomerica](../sources/posthomerica.md)** XI: Fights at the Scaean Gate alongside Sthenelus against Deiphobus and Polites; kills Laodocus in the field
 - **[Posthomerica](../sources/posthomerica.md)** XII: Listed third (after Neoptolemus and Menelaus) among those who enter the Wooden Horse
 - **[Posthomerica](../sources/posthomerica.md)** XIII: In the sack of Troy, kills Coroebus (would-be suitor of Cassandra), Eurydamas, and the suppliant elder Ilioneus; storms through the city
+- **[Rhesus](../sources/euripides-rhesus.md)**: Night raid with [Odysseus](odysseus.md); insists on fresh exploit; kills [Rhesus](rhesus.md) and his guards while Odysseus steals horses; directed by [Athena](../deities/athena.md)
 
 [^hyg-175-usurp]: "When Agrius, son of Parthaon, saw his brother Oineus bereft of children and in need, he drove him out of his kingdom, and took it over himself" (Fabulae §175, trans. Mary Grant)
 [^hyg-175-restore]: "In the meantime, after the fall of Troy, Diomede, son of Tydeus and Deipyle, hearing that his grandfather had been driven from his kingdom came to Aitolia with Sthenelus, son of Capaneus, and fought with Agrius' son, Lycopeus. He killed him, and expelled the needy Agrius from the kingdom, and restored it to his grandfather Oineus" (Fabulae §175, trans. Mary Grant)

@@ -481,6 +481,15 @@ After dismissing Ajax back into his tent, Athena delivers the play's governing m
 [^soph-aj-athena-pity]: "I pity him, for all that he is my foe, seeing he is bound fast to a dreadful doom. I think of mine own lot no less than his. For I see well, none of us that live are more than phantoms all, or empty shadow" (Sophocles, Ajax)
 [^soph-aj-athena-moral]: "See then, and utter thou no swelling speech against the gods, nor take upon thee any boast of pride, though thou prevail in might of hand, or height of deep-piled wealth. A day can press down all things human, and a day can raise them up. The wise of heart are those whom Heaven loves, but the perverse are hated" (Sophocles, Ajax)
 
+## In Euripides' [Rhesus](../sources/euripides-rhesus.md)
+
+[Athena](athena.md) directs the night raid on the Trojan camp. She appears to [Odysseus](../heroes/odysseus.md) and [Diomedes](../heroes/diomedes.md) and warns them that [Rhesus](../heroes/rhesus.md) must be killed that night, for if he survives "nor Ajax, nor can Achilles hinder him from wasting the camp of Greece."[^eur-rh-ath-warning] She tells them where Rhesus sleeps and orders them to steal his white horses.
+
+She then disguises herself as [Aphrodite](aphrodite.md) to intercept [Paris](../heroes/paris.md), who has heard rumours of intruders. Speaking as Venus, she reassures him and sends him away. The Muse, Rhesus's mother, later addresses Athena directly as the true cause of her son's death: "Think not, O Minerva, thou sole cause of my son's fate, that thou these watchful eyes hast 'scaped."[^eur-rh-ath-muse]
+
+[^eur-rh-ath-warning]: "nor Ajax, nor can Achilles hinder him from wasting the camp of Greece, demolishing your walls, and forcing a wide passage through your gates with his victorious spear: him slay, and all is yours" (Rhesus, trans. Michael Wodhull)
+[^eur-rh-ath-muse]: "Think not, O Minerva, thou sole cause of my son's fate, that thou these watchful eyes hast 'scaped" (Rhesus, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Callimachus, Hymns](../sources/callimachus-hymns.md)** V: Character — spurns perfume and mirrors; at the Judgment of Paris, used only olive oil while Aphrodite constantly primped; "Sacker of Cities, golden-helmeted"; blinding of Teiresias — he saw her bathing, she blinded him by divine law; compensated him with prophecy, guiding staff, long life, and full understanding in death; "no mother bare that goddess, but the head of Zeus"
@@ -565,6 +574,7 @@ After dismissing Ajax back into his tent, Athena delivers the play's governing m
 - **[Iphigenia in Tauris](../sources/euripides-iphigenia-tauris.md)**: Deus ex machina; commands Thoas to release [Orestes](../heroes/orestes.md) and [Iphigenia](../heroes/iphigenia.md); has [Poseidon](poseidon.md) calm the sea; establishes cults at Halae (ritual blood-drawing) and Brauron (Iphigenia as guardian); broke tie vote at Areopagus trial
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: Arrives from Troy propelled by her aegis; establishes the [Areopagus](../places/areopagus.md); casts deciding vote to acquit [Orestes](../heroes/orestes.md); persuades the Furies to become the Eumenides; leads them in procession to their underground shrine; reveals she alone can access Zeus' thunderbolts
 - **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Drives Ajax mad after the arms contest, redirecting his fury onto livestock; displays his deranged state to Odysseus; delivers the play's moral — "A day can press down all things human, and a day can raise them up"
+- **[Rhesus](../sources/euripides-rhesus.md)**: Directs [Odysseus](../heroes/odysseus.md) and [Diomedes](../heroes/diomedes.md) to kill [Rhesus](../heroes/rhesus.md); disguises as [Aphrodite](aphrodite.md) to deceive [Paris](../heroes/paris.md); accused by the Muse as "sole cause" of Rhesus's death
 
 [^apd-argo-timber]: "at the prow Athena fitted in a speaking timber from the oak of Dodona" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-dragon-teeth]: "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes" (Bibliotheca 1.9.23, trans. Frazer)

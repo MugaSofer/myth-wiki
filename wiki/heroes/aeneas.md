@@ -243,6 +243,12 @@ The seer [Calchas](../heroes/calchas.md) calls out to the Greeks to spare Aeneas
 [^post-XIII-calchas]: "'Forbear against Aeneas' noble head / To hurl the bitter dart, the deadly spear! / Fated he is by the high Gods' decree / To pass from Xanthus, and by Tiber's flood / To found a city holy and glorious / Through all time, and to rule o'er tribes of men / Far-sundered. Of his seed shall lords of earth / Rule from the rising to the setting sun. / Yea, with the Immortals ever shall he dwell, / Who is son of Aphrodite lovely-tressed'" (Posthomerica XIII.9767-9776, trans. A.S. Way)
 [^post-XIII-depart]: "Then hearkened they, and as a God did all / Look on him. Forth the city hasted he / Whither his feet should bear him" (Posthomerica XIII.9784-9786, trans. A.S. Way)
 
+## In Euripides' [Rhesus](../sources/euripides-rhesus.md)
+
+[Aeneas](aeneas.md) serves as the voice of caution in the *Rhesus*. When [Hector](hector.md) wants to attack the Greek camp at night, Aeneas argues against it: if the Greeks are not fleeing but laying a trap, a night assault over the trenches could be catastrophic. He advises sending a spy instead. Aeneas also warns that even if the Trojans prevail, [Achilles](achilles.md) will protect the fleet: "you have a foe at hand, the son of Peleus, from your flaming torches who will protect the fleet."[^eur-rh-aen-caution]
+
+[^eur-rh-aen-caution]: "you have a foe at hand, the son of Peleus, from your flaming torches who will protect the fleet, nor suffer you utterly to destroy the Grecian host" (Rhesus, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Homeric Hymn V](../sources/homeric-hymns.md)** (to Aphrodite): Conception prophesied; name etymologized from *ainos* ("awful grief"); mountain nymphs to raise him; Anchises warned never to reveal his divine mother
@@ -271,6 +277,7 @@ The seer [Calchas](../heroes/calchas.md) calls out to the Greeks to spare Aeneas
 - **[Posthomerica](../sources/posthomerica.md)** VII: Rebukes Polydamas's counsel to stay behind walls; argues for active fighting "for children and grey fathers"; speech wins over the assembly
 - **[Posthomerica](../sources/posthomerica.md)** XI: Defends the walls against Odysseus and Eurypylus with great stones; Apollo (disguised as Polymestor) calls him "seed of Gods" and promises long destiny; routs the Greeks alongside Eurymachus; Ares stands invisibly beside him as he hurls stones with godlike force; Philoctetes shoots at him but Aphrodite/Cytherea deflects the arrow to kill Medon; Philoctetes taunts him to come down; Aphrodite finally snatches him from battle in a mist, fearing Athena will kill him
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Fights through the burning city; resolves to flee when the cause is lost; carries father Anchises on his shoulders and leads his son by the hand; Aphrodite (Cypris) guides them, parting the flames; Calchas prophesies his destiny to found a city by the Tiber and commands the Greeks to spare him; the Greeks let him pass "as a God"
+- **[Rhesus](../sources/euripides-rhesus.md)**: Voice of caution; advises [Hector](hector.md) against a night attack; recommends sending a spy; warns of [Achilles](achilles.md)
 
 [^il20-genealogy]: "First Zeus the cloud-gatherer begat Dardanos, and he stablished Dardania... Then Dardanos begat a son, king Erichthonios, who became richest of mortal men... Then Erichthonios begat Tros to be lord over the Trojans, and to Tros three noble sons were born, Ilos and Assarakos and godlike Ganymedes... And Assarakos begat Kapys, and Kapys Anchises, and Anchises me; but Priam begat the goodly Hector" (Iliad 20.219-239, trans. Lang, Leaf, and Myers)
 [^hh5-desire]: "And so he put in her heart sweet desire for Anchises who was tending cattle at that time among the steep hills of many-fountained Ida, and in shape was like the immortal gods" (Homeric Hymn V to Aphrodite 53-55, trans. H.G. Evelyn-White)

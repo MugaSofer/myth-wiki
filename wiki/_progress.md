@@ -1150,11 +1150,13 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 9. **Euripides, Andromache** (trans. Michael Wodhull, 1809, Gutenberg #77336) — COMPLETE. Full play read and processed. Source page created. Entity pages updated: Andromache (protagonist — persecution by Hermione, sanctuary at Thetis's temple, Menelaus's coercion, rescue by Peleus, Thetis prophesies marriage to Helenus and Molossian dynasty), Hermione (jealousy, barrenness accusations, panic after Menelaus abandons her, attempted suicide, confession of bad counsel, flight with Orestes), Menelaus (captures Molossus, treacherous deal, Peleus's famous attack on Spartan customs), Peleus (rescue speech, promised immortality by Thetis), Neoptolemus (absent throughout; death at Delphi — Orestes's conspiracy, spectacular final fight, Thetis commands burial; Variant Traditions expanded), Orestes (arranges Delphi conspiracy, takes Hermione), Thetis (deus ex machina — burial, Molossian dynasty, Peleus's apotheosis, Achilles on White Island).
 
+10. **Euripides, Rhesus** (trans. Michael Wodhull, 1809, Gutenberg #77336) — COMPLETE. Full play read and processed. Source page created. Entity pages created: Rhesus (king of Thrace, son of Strymon and a Muse, white horses, golden armour, killed first night, apotheosis as priest of Bacchus), Dolon (wolf-skin spy, demands Achilles' horses, killed offstage). Entity pages updated: Hector (commands camp, rebukes Rhesus, accused of murder), Odysseus (infiltrates camp, steals horses, escapes on watchword), Diomedes (kills Rhesus), Paris (tricked by Athena as Aphrodite), Aeneas (voice of caution), Athena (directs raid, disguises as Aphrodite).
+
 **Later:**
-10. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
-11. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
-12. **More Greek tragedies** — Euripides (Ion, Children of Heracles [Wodhull], Rhesus, Cyclops)
-13. **Aeschylus, Persians** — historical rather than mythological, low priority
+11. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
+12. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
+13. **More Greek tragedies** — Euripides (Ion, Cyclops)
+14. **Aeschylus, Persians** — historical rather than mythological, low priority
 
 ### Minor Expansions — COMPLETE
 

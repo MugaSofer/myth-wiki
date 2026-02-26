@@ -148,6 +148,14 @@ In the [Metamorphoses](../sources/metamorphoses.md), Hector is introduced throug
 [^met-aesacus]: "Aesacus was the brother of the great illustrious Hector; and, if he had not been victimized by a strange fate in youth, he would have equalled Hector's glorious fame" (Metamorphoses 11.760-763, trans. Brookes More)
 [^met-parentage]: "Hector was child of Hecuba, who was daughter of Dymas" (Metamorphoses 11.763-764)
 
+## In Euripides' [Rhesus](../sources/euripides-rhesus.md)
+
+In the *Rhesus*, [Hector](hector.md) commands the Trojan camp during a tense night. When the Chorus reports fires in the Greek camp, Hector concludes the Greeks are fleeing and wants to attack immediately. [Aeneas](aeneas.md) counsels caution and advises sending a spy instead. Hector accepts and [Dolon](dolon.md) volunteers.
+
+When [Rhesus](rhesus.md) arrives as a late ally from Thrace, Hector rebukes him harshly for his tardiness: he has fought for nine years while Rhesus feasted. After Rhesus's murder by [Odysseus](odysseus.md) and [Diomedes](diomedes.md), the wounded Charioteer accuses Hector himself of killing Rhesus for his horses. Hector denies it: "Ulysses was the author of this deed."[^eur-rh-hec-denial]
+
+[^eur-rh-hec-denial]: "Ulysses was the author of this deed. What Greek could have accomplished or contrived such an exploit, but he?" (Rhesus, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Leader of the Trojans; "great Hector of the glancing helm"
@@ -169,3 +177,4 @@ In the [Metamorphoses](../sources/metamorphoses.md), Hector is introduced throug
 - **[Fabulae](../sources/hyginus.md)** 106: Killed by Achilles; body ransomed by Priam for equal weight of gold
 - **[Fabulae](../sources/hyginus.md)** 112: Exchanged gifts with Ajax — belt and sword
 - **[Metamorphoses](../sources/metamorphoses.md)** 11.760: Brother of Aesacus; "the great illustrious Hector"
+- **[Rhesus](../sources/euripides-rhesus.md)**: Commands the camp at night; wants to attack but accepts [Aeneas](aeneas.md)'s counsel to send a spy; rebukes [Rhesus](rhesus.md) for tardiness; accused of murder by [Rhesus](rhesus.md)'s Charioteer; blames [Odysseus](odysseus.md)

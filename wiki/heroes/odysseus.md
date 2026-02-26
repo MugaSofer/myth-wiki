@@ -431,6 +431,15 @@ Odysseus leads the heroes out of the horse after Sinon's signal (see above), res
 
 [^post-b14-hecuba]: "Hecuba / Odysseus dragged unto his ship. The tears / Poured from her eyes as water from a spring; / Trembled her limbs, fear-frenzied was her heart; / Rent were her hoary tresses and besprent / With ashes of the hearth, cast by her hands / When she saw Priam slain and Troy aflame" (Posthomerica 14.10058-10064, trans. A.S. Way)
 
+## In Euripides' [Rhesus](../sources/euripides-rhesus.md)
+
+In the *Rhesus*, [Odysseus](odysseus.md) infiltrates the Trojan camp with [Diomedes](diomedes.md), having already killed [Dolon](dolon.md) and learned the watchword "Apollo." [Athena](../deities/athena.md) redirects them from [Hector](hector.md)'s empty tent to [Rhesus](rhesus.md)'s position, warning that Rhesus must die tonight. While Diomedes kills Rhesus and his guards, Odysseus steals the magnificent white horses. When challenged by the Trojan sentinels, Odysseus gives the watchword and escapes.[^eur-rh-ody-escape]
+
+[Hector](hector.md) later identifies Odysseus as the culprit, calling him a "grievous pest" and recounting his previous exploits — stealing [Athena](../deities/athena.md)'s image from her temple, entering Troy disguised as a beggar.[^eur-rh-ody-reputation]
+
+[^eur-rh-ody-escape]: Rhesus. Odysseus uses the watchword "Apollo" to escape the Trojan sentinels (trans. Michael Wodhull)
+[^eur-rh-ody-reputation]: "Ulysses, from whom Troy hath suffered insults the most atrocious; for by night, entering Minerva's fane, he stole her image, and bore it to the Grecian fleet" (Rhesus, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Rallies the army at [Athena](../deities/athena.md)'s urging; his ship in the centre of the fleet; "Odysseus of many devices"
@@ -473,3 +482,4 @@ Odysseus leads the heroes out of the horse after Sinon's signal (see above), res
 - **[Posthomerica](../sources/posthomerica.md)** IX: Sails with Diomedes to Lemnos to fetch Philoctetes; Athena dissolves Philoctetes' murderous wrath; the two deflect blame for his abandonment onto the Fates
 - **[Posthomerica](../sources/posthomerica.md)** XII: Devises the stratagem of the Wooden Horse; persuades the assembled chiefs; third to enter the horse; restrains the warriors from rushing out; first to slip out and scout
 - **[Posthomerica](../sources/posthomerica.md)** XIII–XIV: Emerges from the horse and leads the sortie; claims Hecuba as his prize and drags her to his ship
+- **[Rhesus](../sources/euripides-rhesus.md)**: Infiltrates Trojan camp with [Diomedes](diomedes.md); kills [Dolon](dolon.md) offstage; directed by [Athena](../deities/athena.md) to kill [Rhesus](rhesus.md); steals white horses; escapes using watchword "Apollo"; Hector calls him a "grievous pest"
