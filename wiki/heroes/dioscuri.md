@@ -236,3 +236,5 @@ Pindar says Polydeuces killed Lynkeus with a spear and Zeus struck Idas with a t
 - **[Pindar](../sources/pindar.md)**, Pythian V: Kastor as patron of charioteers and giver of fair weather
 - **[Pindar](../sources/pindar.md)**, Nemean X: Fullest account — guardians of Sparta; Idas killed Kastor; Polydeukes slew Lynkeus; Zeus struck Idas; Polydeukes chose shared mortality over full divinity; Zeus restored Kastor
 - **[Pindar](../sources/pindar.md)**, Isthmian I: "Mightiest charioteers"
+- **[Euripides' Helen](../sources/euripides-helen.md)**: Appear as gods at the end; command Theoclymenus to spare Theonoe; prophesy [Helen](helen.md)'s deification and [Menelaus](menelaus.md)'s passage to the Islands of the Blessed; an island near Athens will be named "Helen"; [Teucer](teucer.md) reports they may be dead or may be "gods under the semblance of two radiant stars"
+- **[Euripides' Electra](../sources/euripides-electra.md)**: Appear as deus ex machina; reveal Helen never went to Troy ("'twas but a wraith"); assign Electra to the Farmer; order Orestes to Athens for trial; command burial of [Clytemnestra](clytemnestra.md)

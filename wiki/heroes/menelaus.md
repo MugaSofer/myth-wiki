@@ -98,6 +98,25 @@ After Hecuba's prosecution, Menelaus pronounces judgment: "Thy thought doth walk
 [^tw-men-judgment]: "Thy thought doth walk with mine in one intent. / 'Tis sure; her heart was willing, when she went / Forth to a stranger's bed. And all her fair / Tale of enchantment, 'tis a thing of air!" (Trojan Women, trans. Gilbert Murray)
 [^tw-lover-men]: "A lover once, will alway love again" (Trojan Women, trans. Gilbert Murray)
 
+## In Euripides' [Helen](../sources/euripides-helen.md)
+
+### The Shipwrecked King
+
+Menelaus arrives in Egypt as a shipwrecked beggar in rags, his fleet shattered against the rocks. He has left "Helen" — actually the phantom — in a cave with his surviving men. The image of the fallen king begging for food is one of Euripides' most powerful: "For the man of an exalted station, when assailed by adverse fortune, having never learned how to endure calamity, is plunged into a state far worse than he whose woes have been of ancient date."[^eur-hel-men-fall] A Female Servant drives him from the palace gate, telling him that "Jove's daughter Helen dwells" within — and has been there since before the Greeks went to Troy.
+
+### Recognition and the Phantom's Dissolution
+
+When Menelaus encounters the real [Helen](helen.md) at Proteus's tomb, he sees her likeness to his wife but refuses to believe: "What makes me doubt is this; because I have another wife."[^eur-hel-men-doubt] Only when a Messenger arrives to report that the phantom Helen has dissolved into air — rising skyward with the words "through Juno's arts, because ye falsely deemed Helen by Phrygian Paris was possest" — does Menelaus accept the truth and embrace his real wife.
+
+### The Escape
+
+Together with Helen, Menelaus devises a plan to escape Theoclymenus. Disguised as a shipwrecked sailor bringing news of his own death, he persuades Theoclymenus to provide a ship for Greek sea-burial rites. Once at sea, Menelaus slays the sacrificial bull to [Poseidon](../deities/poseidon.md), praying: "O Neptune, who in the ocean dwell'st, and ye chaste daughters of Nereus, to the Nauplian shore convey me and my consort, from this hostile land, in safety."[^eur-hel-men-prayer] He then signals his hidden Greeks to attack, seizes the rudder, and sails for Greece. The [Dioscuri](dioscuri.md) prophesy his eventual passage to the Islands of the Blessed: "the wanderer Menelaus shall reside among the happy islands. For the gods to those of nobler minds no hatred bear."[^eur-hel-men-blessed]
+
+[^eur-hel-men-fall]: "For the man of an exalted station, when assailed by adverse fortune, having never learned how to endure calamity, is plunged into a state far worse than he whose woes have been of ancient date" (Helen ~1621-1626, trans. Michael Wodhull)
+[^eur-hel-men-doubt]: "What makes me doubt is this; because I have another wife" (Helen ~1942-1943, trans. Michael Wodhull)
+[^eur-hel-men-prayer]: "O Neptune, who in the ocean dwell'st, and ye chaste daughters of Nereus, to the Nauplian shore convey me and my consort, from this hostile land, in safety" (Helen ~3697-3700, trans. Michael Wodhull)
+[^eur-hel-men-blessed]: "the wanderer Menelaus shall reside among the happy islands. For the gods to those of nobler minds no hatred bear" (Helen ~3867-3870, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Single combat with Paris; nearly kills him; [Aphrodite](../deities/aphrodite.md) rescues Paris
@@ -121,6 +140,7 @@ After Hecuba's prosecution, Menelaus pronounces judgment: "Thy thought doth walk
 - **[Posthomerica](../sources/posthomerica.md)** XII: Enters the Wooden Horse (second after [Neoptolemus](neoptolemus.md))
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Kills [Deiphobus](deiphobus.md) in [Helen](helen.md)'s chamber; invokes [Themis](../deities/themis.md)'s justice; "maddened was his soul with jealousy"
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Leads Helen from the burning city; reconciled that night; "as a vine and ivy entwine their stems"
+- **[Euripides' Helen](../sources/euripides-helen.md)**: Shipwrecked in Egypt in rags; left the phantom Helen in a cave; turned away at the palace gate; encounters the real Helen but refuses to believe until the phantom dissolves; devises escape with Helen; kills the bull, signals attack, seizes rudder; promised the Islands of the Blessed by the [Dioscuri](dioscuri.md)
 - **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Forbids [Ajax](ajax.md)'s burial, declaring him an insubordinate enemy who deserves to lie unburied; [Teucer](teucer.md) defies him, arguing Ajax came to Troy as a free commander; ultimately overruled when [Odysseus](odysseus.md) argues for burial
 - **[Trojan Women](../sources/euripides-trojan-women.md)**: Arrives "a prey to violent and conflicting emotions"; claims army has given [Helen](helen.md) to him to kill or keep; presides over Helen's trial with [Hecuba](hecuba.md) prosecuting; declares Helen's guilt but puts her on a separate ship rather than killing her; Hecuba warns "a lover once, will alway love again"
 

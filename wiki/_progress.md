@@ -1146,10 +1146,12 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 7. **Euripides, Electra** (trans. Gilbert Murray, 1905, Gutenberg #14322) — COMPLETE. Full play read and processed. Source page created. Entity pages updated: Electra (central figure — peasant marriage, subversion of Aeschylean recognition, speech over Aegisthus, driving the matricide, mother's hand on cheek, farewell to Orestes), Orestes (incognito arrival, killing of Aegisthus at sacrifice, hesitation before matricide — "fiend of Hell" question, veiled killing, devastation), Clytemnestra (defence — Iphigenia + Cassandra, admission of unhappiness, final cry), Aegisthus (ominous sacrifice, death by cleaver, mocked by Electra), Helen (phantom Helen tradition — "wraith of Helen, sent by Zeus").
 
+8. **Euripides, Helen** (trans. Michael Wodhull, 1809, Gutenberg #77336) — COMPLETE. Full play read and processed. Source page created. Entity pages updated: Helen (protagonist — phantom tradition in full, egg birth, beauty as curse, isolation in Egypt, reunion with Menelaus, devises escape, cheers Greeks in battle, promised deification), Menelaus (shipwrecked beggar, recognition scene, escape plan, kills bull and seizes ship, promised Islands of the Blessed), Teucer (banished by Telamon, mistakes Helen, news of Troy/Leda/Dioscuri, heading to Cyprus), Dioscuri (appear as gods, prophesy deification, command Theoclymenus). Helen Variant Traditions section expanded with Bibliotheca phantom variant.
+
 **Later:**
 8. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
 9. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
-10. **More Greek tragedies** — Euripides (Ion)
+10. **More Greek tragedies** — Euripides (Ion, Andromache, Children of Heracles [Wodhull], Rhesus, Cyclops)
 11. **Aeschylus, Persians** — historical rather than mythological, low priority
 
 ### Minor Expansions — COMPLETE

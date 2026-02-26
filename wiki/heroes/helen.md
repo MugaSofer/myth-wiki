@@ -277,13 +277,53 @@ Menelaus declares that he agrees with Hecuba — Helen's heart was willing when 
 [^tw-stones]: "Out, woman! There be those that seek thee yet / With stones! Go, meet them. So shall thy long debt / Be paid at last" (Trojan Women, trans. Gilbert Murray)
 [^tw-lover]: "A lover once, will alway love again" (Trojan Women, trans. Gilbert Murray)
 
+## In Euripides' [Helen](../sources/euripides-helen.md)
+
+### The Phantom and the Real Helen
+
+The *Helen* is Euripides' fullest exploration of the phantom tradition. In the prologue, Helen explains that when [Aphrodite](../deities/aphrodite.md) won the Judgment of [Paris](paris.md), [Hera](../deities/hera.md) "in my semblance formed a living image composed of ether. Paris falsely deemed that he possessed me."[^eur-hel-phantom] [Hermes](../deities/hermes.md) carried the real Helen through the air to Egypt, to the house of the just king Proteus, "that undefiled I might preserve the bed of [Menelaus](menelaus.md)."[^eur-hel-proteus] Meanwhile [Zeus](../deities/zeus.md) added war to misery: "he with war hath visited the realms of Greece, and Phrygia's miserable sons, that he might lighten from th' unrighteous swarms of its inhabitants the groaning earth."[^eur-hel-zeus]
+
+Helen recounts her birth: her mother [Leda](leda.md) conceived her by Zeus "on rapid wings, the figure of a swan assuming, and by treachery gained admission to her embraces, flying from an eagle, if we may credit such report."[^eur-hel-birth] She later adds that Leda bore her as a prodigy: "neither Grecian nor barbaric dame till then produced an egg, in which her children enveloped lay."[^eur-hel-egg]
+
+### Isolation in Egypt
+
+With Proteus dead, his son Theoclymenus presses Helen to marry him. She clings to Proteus's tomb as a sanctuary. She has suffered every form of loss: Leda has hanged herself from the shame of Helen's supposed adultery; [Castor and Pollux](dioscuri.md) are rumoured dead; her daughter Hermione "in the virgin state grown grey, still droops unwedded"; and Menelaus is believed lost at sea.[^eur-hel-woes]
+
+Helen repeatedly meditates on the cruelty of beauty: "For beauty renders other women blest, but hath to me the source of ruin proved."[^eur-hel-beauty] She wishes she could "like a tablet whose picture is effaced" exchange her form for "one less comely."[^eur-hel-tablet]
+
+### Reunion with Menelaus
+
+[Menelaus](menelaus.md) arrives as a shipwrecked beggar in rags. He recognises Helen's appearance but cannot believe she is his wife — he has already left "Helen" (the phantom) in a cave nearby. Helen tries to convince him: "I never went to the domains of Troy: it was my image only."[^eur-hel-image] Only when a Messenger arrives with news that the phantom has dissolved into air does Menelaus accept the truth. The phantom's farewell speech indicts the entire war: "O ye sons of hapless Phrygia, and of Greece: for me beside Scamander's conscious stream ye died, through Juno's arts."[^eur-hel-dissolve]
+
+### The Escape
+
+Helen devises the escape plan. She will tell Theoclymenus that Menelaus is dead and request a ship for Greek sea-burial rites. Theoclymenus is completely deceived and provides a Phoenician vessel. Once at sea, Menelaus slays the sacrificial bull and signals his hidden Greek crew to attack. Helen encourages them from the deck: "Where is the renown ye gained at Troy? display 'gainst these barbarians the same undaunted prowess."[^eur-hel-battle] They overpower the Egyptian sailors and sail for Greece.
+
+### Deification
+
+The [Dioscuri](dioscuri.md) appear and prophesy Helen's future among the gods: "after you have finished life's career, you shall be called a goddess, shall partake with us the rich oblations, and receive the gifts of men: for thus hath Jove decreed."[^eur-hel-deify] An island near Athens will bear her name — the place where Hermes first set her down on the way to Egypt. Menelaus is promised the Islands of the Blessed.
+
+[^eur-hel-phantom]: "in my semblance formed a living image composed of ether. Paris falsely deemed that he possessed me" (Helen ~1009-1012, trans. Michael Wodhull)
+[^eur-hel-proteus]: "that undefiled I might preserve the bed of Menelaus. I indeed am here" (Helen ~1028-1029, trans. Michael Wodhull)
+[^eur-hel-zeus]: "he with war hath visited the realms of Greece, and Phrygia's miserable sons, that he might lighten from th' unrighteous swarms of its inhabitants the groaning earth" (Helen ~1014-1018, trans. Michael Wodhull)
+[^eur-hel-birth]: "to my mother Leda Jove was borne on rapid wings, the figure of a swan assuming, and by treachery gained admission to her embraces, flying from an eagle, if we may credit such report" (Helen ~988-992, trans. Michael Wodhull)
+[^eur-hel-egg]: "neither Grecian nor barbaric dame till then produced an egg, in which her children enveloped lay, as they report, from Jove Leda engendered" (Helen ~1384-1389, trans. Michael Wodhull)
+[^eur-hel-woes]: "my mother too is dead... my daughter in the virgin state grown grey, still droops unwedded: my illustrious brothers, Castor and Pollux, called the sons of Jove, are now no more" (Helen ~1417-1424, trans. Michael Wodhull)
+[^eur-hel-beauty]: "For beauty renders other women blest, but hath to me the source of ruin proved" (Helen ~1451-1452, trans. Michael Wodhull)
+[^eur-hel-tablet]: "Would to Heaven, that, like a tablet whose picture is effaced, I could exchange this form for one less comely" (Helen ~1393-1395, trans. Michael Wodhull)
+[^eur-hel-image]: "To the domains of Troy I never went: it was my image only" (Helen ~1945-1946, trans. Michael Wodhull)
+[^eur-hel-dissolve]: "O ye sons of hapless Phrygia, and of Greece: for me beside Scamander's conscious stream ye died, through Juno's arts, because ye falsely deemed Helen by Phrygian Paris was possest" (Helen ~2014-2017, trans. Michael Wodhull)
+[^eur-hel-battle]: "Where is the renown ye gained at Troy? display 'gainst these barbarians the same undaunted prowess" (Helen ~3718-3720, trans. Michael Wodhull)
+[^eur-hel-deify]: "after you have finished life's career, you shall be called a goddess, shall partake with us the rich oblations, and receive the gifts of men: for thus hath Jove decreed" (Helen ~3854-3857, trans. Michael Wodhull)
+
 ## Variant Traditions
 
 ### The Phantom Helen
 
-In Euripides' [Electra](../sources/euripides-electra.md), [Castor](castor.md) reveals that Helen never went to [Troy](../places/troy.md) at all. When announcing [Menelaus](menelaus.md)'s return, he says: "From Egypt comes she, and the hall of Proteus, and in Troy hath ne'er at all set foot. 'Twas but a wraith of Helen, sent by [Zeus](../deities/zeus.md), to make much wrath and ravishment."[^eur-el-phantom] This tradition — that the Trojan War was fought over a phantom while the real Helen waited in Egypt — is also developed at length in Euripides' *Helen* and attributed to the lyric poet Stesichorus.
+The tradition that Helen never went to [Troy](../places/troy.md) appears in multiple Euripidean plays. In the [Electra](../sources/euripides-electra.md), [Castor](castor.md) reveals: "From Egypt comes she, and the hall of Proteus, and in Troy hath ne'er at all set foot. 'Twas but a wraith of Helen, sent by [Zeus](../deities/zeus.md), to make much wrath and ravishment."[^eur-el-phantom] The *[Helen](../sources/euripides-helen.md)* develops this at full length: [Hera](../deities/hera.md) created the phantom from ether as revenge for losing the Judgment of Paris, while [Hermes](../deities/hermes.md) carried the real Helen to Egypt. The [Bibliotheca](../sources/apollodorus.md) also preserves the variant: "according to some, he discovered Helen at the court of Proteus, king of Egypt; for till then Menelaus had only a phantom of her made of clouds."[^apd-phantom-helen] The tradition is attributed to the lyric poet Stesichorus, who composed a *Palinode* (recantation) after first writing negatively about Helen.
 
 [^eur-el-phantom]: "From Egypt comes she, and the hall of Proteus, and in Troy hath ne'er at all set foot. 'Twas but a wraith of Helen, sent by Zeus, to make much wrath and ravishment" (Electra ~1282-1284, trans. Gilbert Murray)
+[^apd-phantom-helen]: "according to some, he discovered Helen at the court of Proteus, king of Egypt; for till then Menelaus had only a phantom of her made of clouds" (Bibliotheca E.6.29, trans. J.G. Frazer)
 
 ## Appearances
 
@@ -308,4 +348,5 @@ In Euripides' [Electra](../sources/euripides-electra.md), [Castor](castor.md) re
 - **[Orestes](../sources/euripides-orestes.md)**: Sent to Argos by night (Menelaus fears stoning); sends Hermione to Clytemnestra's tomb; Electra scorns her vanity ("she has shorn off the extremities of her hair, in order to preserve her beauty"); Orestes and Pylades attack her but she vanishes — [Apollo](../deities/apollo.md) reveals she was saved by [Zeus](../deities/zeus.md) and raised to divine status beside [Castor and Pollux](dioscuri.md), "the guardian of mariners," honoured with libations
 - **[Iphigenia in Aulis](../sources/euripides-iphigenia-aulis.md)**: Cause of the entire crisis; Clytemnestra argues Hermione should die for Helen's sake, not Iphigenia; Iphigenia laments "thou daughter of Tyndarus, who hast brought many sufferings upon the Greeks"; Chorus questions the swan birth ("if indeed the report is true, that Leda met with a winged bird")
 - **[Trojan Women](../sources/euripides-trojan-women.md)**: Enters "gentle and unafraid; there is no disorder in her raiment"; defends herself by blaming Aphrodite, Paris, and her own helplessness; claims she tried to escape Troy; [Hecuba](hecuba.md) demolishes each argument ("Thou sawest him in gold and orient vest / Shining, and lo, a fire about thy breast / Leapt!"); [Menelaus](menelaus.md) declares she will die but his resolve wavers; Hecuba warns "a lover once, will alway love again"
+- **[Euripides' Helen](../sources/euripides-helen.md)**: Protagonist; never went to Troy — [Hera](../deities/hera.md) created a phantom from ether; real Helen carried to Egypt by [Hermes](../deities/hermes.md); stranded at Proteus's tomb for duration of war; born from an egg; [Leda](leda.md) hanged herself from shame; beauty a curse ("renders other women blest, but hath to me the source of ruin proved"); reunited with shipwrecked [Menelaus](menelaus.md); devises escape by fake funeral; cheers Greeks in battle on the ship; promised deification by [Dioscuri](dioscuri.md)
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Led from Troy by [Menelaus](menelaus.md); shame on her "dark-blue eyes"; veiled and shame-crimsoned; yet all men gazed "as on a Goddess"; [Aphrodite](../deities/aphrodite.md) stirs the Greeks to forget their anger; reunited with Menelaus that night; pleads innocence; reconciled "as a vine and ivy entwine their stems"

@@ -72,6 +72,16 @@ Teucer directs the burial, commanding Eurysakes to help lift his father's body.
 [^soph-aj-praise]: "Odysseus, best of men, thine every word hath my heart's praise, and my worst thought of thee is foiled by thy staunch kindness to the man who was thy rancorous foe" (Sophocles, Ajax)
 [^soph-aj-decline]: Sophocles, Ajax. Teucer declines Odysseus's offer to help with the rites, fearing Ajax's ghost might be offended by the participation of his chief enemy.
 
+## In Euripides' [Helen](../sources/euripides-helen.md)
+
+Teucer appears in Egypt, banished by his father [Telamon](telamon.md) for returning from [Troy](../places/troy.md) without [Ajax](ajax.md): "My brother Ajax, who died at Troy, was author of my ruin."[^eur-hel-teu-exile] He mistakes the real [Helen](helen.md) for the notorious woman and nearly attacks her: "Such a resemblance bear'st thou to that Helen, that if I were not in a foreign land, I with this stone would smite thee."[^eur-hel-teu-stone]
+
+He brings news of Troy's destruction ("Not a trace of those proud walls is now to be discerned"), [Menelaus](menelaus.md)'s rumoured death at sea, and Leda's suicide by hanging. Of the Dioscuri he says: "They are, and are not, dead; for two accounts are propagated... Some say that they are gods under the semblance of two radiant stars."[^eur-hel-teu-dioscuri] He is heading to Cyprus, where [Apollo](../deities/apollo.md) has told him to settle and found a city he will call Salamis in memory of his homeland.
+
+[^eur-hel-teu-exile]: "My brother Ajax, who died at Troy, was author of my ruin" (Helen ~1103-1104, trans. Michael Wodhull)
+[^eur-hel-teu-stone]: "Such a resemblance bear'st thou to that Helen, that if I were not in a foreign land, I with this stone would smite thee" (Helen ~1062-1065, trans. Michael Wodhull)
+[^eur-hel-teu-dioscuri]: "They are, and are not, dead; for two accounts are propagated... Some say that they are gods under the semblance of two radiant stars" (Helen ~1228-1235, trans. Michael Wodhull)
+
 ## In the Posthomerica
 
 ### Grief at Ajax's Death (Book V)
@@ -87,4 +97,5 @@ In the Posthomerica, Teucer's grief at [Ajax](ajax.md)'s suicide is so extreme t
 - **[Bibliotheca](../sources/apollodorus.md)** 3.12.7: Born to Telamon and Hesione (daughter of Laomedon); received as Telamon's prize when Heracles sacked Troy
 - **[Bibliotheca](../sources/apollodorus.md)** E.3.11: Sailed from Salamis with Ajax's contingent of twelve ships
 - **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Arrives after Ajax's suicide; laments his brother; fears Telamon's reception; reflects on the fateful exchange of gifts with Hector; arranges Eurysakes as suppliant; defies Menelaus and Agamemnon; praises Odysseus as "best of men" but declines his help with the rites
+- **[Euripides' Helen](../sources/euripides-helen.md)**: Appears in Egypt; banished by [Telamon](telamon.md) for returning without [Ajax](ajax.md); mistakes Helen for the infamous woman; brings news of Troy's fall, Leda's death, and the Dioscuri's fate; heading to Cyprus to found a new Salamis on [Apollo](../deities/apollo.md)'s instruction
 - **[Posthomerica](../sources/posthomerica.md)** V: Nearly kills himself in grief at Ajax's death
