@@ -490,6 +490,20 @@ She then disguises herself as [Aphrodite](aphrodite.md) to intercept [Paris](../
 [^eur-rh-ath-warning]: "nor Ajax, nor can Achilles hinder him from wasting the camp of Greece, demolishing your walls, and forcing a wide passage through your gates with his victorious spear: him slay, and all is yours" (Rhesus, trans. Michael Wodhull)
 [^eur-rh-ath-muse]: "Think not, O Minerva, thou sole cause of my son's fate, that thou these watchful eyes hast 'scaped" (Rhesus, trans. Michael Wodhull)
 
+## In Euripides' Ion
+
+In [Euripides' Ion](../sources/euripides-ion.md), Athena appears as the deus ex machina at the play's climax, sent by [Apollo](apollo.md) to resolve the crisis in his place. She explains that Apollo himself considered appearing but "unmeet he deems it to show himself before you, lest with blame the past be mention'd."[^eur-ion-ath-absent]
+
+She reveals the truth of [Ion](../heroes/ion.md)'s parentage to [Creusa](../heroes/creusa-athens.md) — that Apollo is his father and Creusa his mother — and prevents Ion from attacking Creusa before the revelation. She then delivers an extended prophecy of the nations that will descend from the characters before her: Ion's four sons — Geleon, Hopletes, Argades, and Aegicores — will give their names to the four Athenian tribes, and Ion's descendants will colonise the islands of the Aegean and "both continents."[^eur-ion-ath-ionian] From Creusa and [Xuthus](../heroes/xuthus.md) will come Dorus, ancestor of the Dorians, and Achaeus, ancestor of the Achaeans.[^eur-ion-ath-dorus]
+
+On the temple carvings described earlier in the play, Athena appears in the Gigantomachy "shaking her gorgon shield" against [Enceladus](../creatures/giants.md).[^eur-ion-ath-gigantomachy] The play also recalls Athena's gift to [Erichthonius](erichthonius.md): she gave him two drops of Gorgon blood, "the one works death, the other heals disease."[^eur-ion-ath-gorgon-blood] The deadly drop is the poison Creusa acquires in the play — it kills a dove instantly when tested.
+
+[^eur-ion-ath-absent]: "unmeet he deems it to show himself before you, lest with blame the past be mention'd" (Ion, trans. Robert Potter)
+[^eur-ion-ath-ionian]: "four sons shall spring" — Geleon, Hopletes, Argades, Aegicores, naming the Athenian tribes; Ionians will colonise the Aegean islands and both continents (Ion, trans. Robert Potter)
+[^eur-ion-ath-dorus]: Dorus, ancestor of the Dorians, and Achaeus, ancestor of the Achaeans, from Creusa and Xuthus (Ion, trans. Robert Potter)
+[^eur-ion-ath-gigantomachy]: "her gorgon shield" — Athena depicted on temple carvings fighting Enceladus in the Gigantomachy (Ion, trans. Robert Potter)
+[^eur-ion-ath-gorgon-blood]: "the one works death, the other heals disease" (Ion, trans. Robert Potter)
+
 ## Appearances
 
 - **[Callimachus, Hymns](../sources/callimachus-hymns.md)** V: Character — spurns perfume and mirrors; at the Judgment of Paris, used only olive oil while Aphrodite constantly primped; "Sacker of Cities, golden-helmeted"; blinding of Teiresias — he saw her bathing, she blinded him by divine law; compensated him with prophecy, guiding staff, long life, and full understanding in death; "no mother bare that goddess, but the head of Zeus"
@@ -575,6 +589,7 @@ She then disguises herself as [Aphrodite](aphrodite.md) to intercept [Paris](../
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: Arrives from Troy propelled by her aegis; establishes the [Areopagus](../places/areopagus.md); casts deciding vote to acquit [Orestes](../heroes/orestes.md); persuades the Furies to become the Eumenides; leads them in procession to their underground shrine; reveals she alone can access Zeus' thunderbolts
 - **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Drives Ajax mad after the arms contest, redirecting his fury onto livestock; displays his deranged state to Odysseus; delivers the play's moral — "A day can press down all things human, and a day can raise them up"
 - **[Rhesus](../sources/euripides-rhesus.md)**: Directs [Odysseus](../heroes/odysseus.md) and [Diomedes](../heroes/diomedes.md) to kill [Rhesus](../heroes/rhesus.md); disguises as [Aphrodite](aphrodite.md) to deceive [Paris](../heroes/paris.md); accused by the Muse as "sole cause" of Rhesus's death
+- **[Ion](../sources/euripides-ion.md)**: Deus ex machina; sent by [Apollo](apollo.md); reveals [Ion](../heroes/ion.md)'s true parentage; prophesies the Ionians, Dorians, Achaeans; gave [Erichthonius](erichthonius.md) two drops of Gorgon blood; shown fighting Enceladus on temple carvings
 
 [^apd-argo-timber]: "at the prow Athena fitted in a speaking timber from the oak of Dodona" (Bibliotheca 1.9.16, trans. Frazer)
 [^apd-dragon-teeth]: "he had got from Athena half of the dragon's teeth which Cadmus sowed in Thebes" (Bibliotheca 1.9.23, trans. Frazer)

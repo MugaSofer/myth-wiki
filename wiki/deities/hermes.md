@@ -302,6 +302,16 @@ The gods punished the inhospitable neighbourhood by flooding the land, but trans
 [^met-herm-philemon2]: "the wine-bowl often drained, as often was replenished, though unfilled, and Baucis and Philemon, full of fear, as they observed the wine spontaneous well, increasing when it should diminish, raised their hands in supplication" (Metamorphoses 8.678-682)
 [^met-herm-philemon3]: "Baucis saw Philemon, her old husband, and he, too, saw Baucis, as their bodies put forth leaves; and while the tops of trees grew over them, above their faces,—they spoke each to each; as long as they could speak they said, 'Farewell, farewell, my own'" (Metamorphoses 8.717-723)
 
+## In Euripides' Ion
+
+In [Euripides' Ion](../sources/euripides-ion.md), Hermes speaks the prologue, identifying himself as son of Maia and [Zeus](zeus.md). He describes how [Apollo](apollo.md) directed him to go to the Macrai cave beneath the Acropolis, retrieve the infant secretly exposed there by [Creusa](../heroes/creusa-athens.md), and carry him to [Delphi](../places/delphi.md): "bring to thy brother to my shrine, and place at the entrance of my temple."[^eur-ion-herm-command]
+
+Hermes carried out the task: he "bore the osier-woven ark, and placed the boy here at the temple's base, the wreathed lid uncovering, that the infant might be seen."[^eur-ion-herm-ark] He reveals the boy's name before the drama begins: "First of the gods I hail him by the name of Ion."[^eur-ion-herm-name]
+
+[^eur-ion-herm-command]: "bring to thy brother to my shrine, and place at the entrance of my temple" (Ion, trans. Robert Potter)
+[^eur-ion-herm-ark]: "bore the osier-woven ark, and placed the boy here at the temple's base, the wreathed lid uncovering, that the infant might be seen" (Ion, trans. Robert Potter)
+[^eur-ion-herm-name]: "First of the gods I hail him by the name of Ion" (Ion, trans. Robert Potter)
+
 ## Appearances
 
 - **Great Eoiae** Fragment 16: Cattle theft variant — cast stupor on dogs; drove cattle across Greece; tested Battus's oath; turned him to stone for breaking it
@@ -355,3 +365,4 @@ The gods punished the inhospitable neighbourhood by flooding the land, but trans
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Invoked by [Orestes](../heroes/orestes.md) at Agamemnon's tomb as "lord of the shades and patron of the realm"; invoked by the Chorus as "guard of shades in hell"
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: [Apollo](../deities/apollo.md) sends him to guard and guide Orestes on his flight to Athens
 - **[Prometheus Bound](../sources/aeschylus-prometheus-bound.md)**: Arrives as Zeus's messenger demanding the secret of Zeus's downfall; called "lacquey" by Prometheus; warns of burial and eagle punishment; Chorus refuses to abandon Prometheus at his urging
+- **[Ion](../sources/euripides-ion.md)**: Prologue speaker; carried infant [Ion](../heroes/ion.md) from the Macrai cave to [Delphi](../places/delphi.md) at [Apollo](apollo.md)'s command

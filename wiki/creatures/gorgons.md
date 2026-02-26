@@ -62,6 +62,19 @@ Perseus gave the Gorgon's head to [Athena](../deities/athena.md), who "inserted 
 [^apd-gorgons-pursuit]: "the Gorgons started up from their slumber and pursued Perseus: but they could not see him on account of the cap, for he was hidden by it." (Bibliotheca 2.4.3)
 [^apd-gorgons-shield]: "the Gorgon's head he gave to Athena... Athena inserted the Gorgon's head in the middle of her shield." (Bibliotheca 2.4.3)
 
+## In Euripides' Ion
+
+In [Euripides' Ion](../sources/euripides-ion.md), a different tradition about the Gorgon's origin and death is presented. During the Gigantomachy, the Earth itself gave birth to the Gorgon as a weapon against the gods: "There the earth brought forth the Gorgon, horrid monster... in succour of her sons to annoy the gods."[^eur-ion-gorgon-birth] [Athena](../deities/athena.md) slew her: "Her Pallas slew, daughter of Jove."[^eur-ion-gorgon-slain]
+
+Athena wore the Gorgon's spoils as breastplate and shield: "Her breastplate arm'd with vipers wreathed around... Her spoils before her breast Minerva wore."[^eur-ion-gorgon-spoils]
+
+Two drops of blood from the slain Gorgon were given by Athena to [Erichthonius](../heroes/erichthonius.md) with opposed properties: "The one works death, the other heals disease."[^eur-ion-gorgon-blood] This dual-natured gift is used as a plot device in the play — the deadly drop becomes a poison that kills a dove instantly when tested, before Creusa attempts to use it on Ion.
+
+[^eur-ion-gorgon-birth]: "There the earth brought forth the Gorgon, horrid monster... in succour of her sons to annoy the gods" (Ion, trans. Robert Potter)
+[^eur-ion-gorgon-slain]: "Her Pallas slew, daughter of Jove" (Ion, trans. Robert Potter)
+[^eur-ion-gorgon-spoils]: "Her breastplate arm'd with vipers wreathed around... Her spoils before her breast Minerva wore" (Ion, trans. Robert Potter)
+[^eur-ion-gorgon-blood]: "The one works death, the other heals disease" (Ion, trans. Robert Potter)
+
 ## Appearances
 
 - **[Theogony](../sources/theogony.md)** 274-294: Origin, Medusa's offspring
@@ -71,5 +84,6 @@ Perseus gave the Gorgon's head to [Athena](../deities/athena.md), who "inserted 
 - **[Iliad](../sources/iliad.md)** XI: "The Gorgon fell of aspect" on Agamemnon's shield, flanked by Dread and Terror
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.2-2.4.3: Full physical description — dragon-scaled heads, swine tusks, brazen hands, golden wings, petrifying gaze; three named (Stheno, Euryale, Medusa); only Medusa mortal; beheaded by Perseus; Pegasus and Chrysaor sprang forth; head given to Athena for her shield
 - **[Prometheus Bound](../sources/aeschylus-prometheus-bound.md)**: Prometheus warns Io of the Gorgon-haunted plains beside Cisthene; "he of men who looks on them shall gasp away his life"; their sisters the Graeae described as "swan-shapen, single-toothed, and all peering thro' shared endowment of one eye"
+- **[Ion](../sources/euripides-ion.md)**: Earth brought forth the Gorgon during the Gigantomachy to aid the [Giants](giants.md); slain by [Athena](../deities/athena.md); her blood given to [Erichthonius](../heroes/erichthonius.md) — "the one works death, the other heals disease"; the deadly drop used as poison
 
 [^cyp-gorgons]: "By him she conceived and bare the Gorgons, fearful monsters who lived in Sarpedon, a rocky island in deep-eddying Oceanus" (Cypria, Fragment 21, trans. H.G. Evelyn-White)

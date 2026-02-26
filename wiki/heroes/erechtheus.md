@@ -53,11 +53,25 @@ In the battle that followed, "Erechtheus killed Eumolpus."[^apd-erech-kills]
 
 In [Odyssey](../sources/odyssey.md) Book VII, after guiding Odysseus through Phaeacia, Athena "departed over the unharvested seas, and left pleasant Scheria, and came to Marathon and wide-wayed Athens, and entered the good house of Erechtheus."[^od7-erech] This is a passing reference — Athena's destination after helping Odysseus, confirming her traditional association with Athens and with Erechtheus's house.
 
+## In Euripides' Ion
+
+In [Euripides' Ion](../sources/euripides-ion.md), Erechtheus appears primarily through retrospective accounts. His daughter [Creusa](creusa-athens.md) was raped by [Apollo](../deities/apollo.md) before the play begins: "His daughter, call'd Creusa, to the embrace of nuptial love Apollo strain'd perforce."[^eur-ion-erech-creusa]
+
+The play recalls the tradition that Erechtheus sacrificed his daughters for Athens: he "slew the virgins, victims for their country."[^eur-ion-erech-sacrifice] His own death is described: [Poseidon](../deities/poseidon.md) destroyed him in retaliation for his killing of Eumolpus — "the yawning earth swallowed thy father... by Neptune's trident smote; and so he perish'd."[^eur-ion-erech-death]
+
+The play also recalls the tradition that Athena gave [Erichthonius](erichthonius.md), Erechtheus's distant ancestor, two drops of Gorgon blood — "the one works death, the other heals disease" — along with serpent-guards, establishing the Athenian custom of placing serpents with infants.[^eur-ion-erech-gorgon]
+
+[^eur-ion-erech-creusa]: "His daughter, call'd Creusa, to the embrace of nuptial love Apollo strain'd perforce" (Ion, trans. Robert Potter)
+[^eur-ion-erech-sacrifice]: "slew the virgins, victims for their country" (Ion, trans. Robert Potter)
+[^eur-ion-erech-death]: "the yawning earth swallowed thy father... by Neptune's trident smote; and so he perish'd" (Ion, trans. Robert Potter)
+[^eur-ion-erech-gorgon]: "the one works death, the other heals disease" — two drops of Gorgon blood given to Erichthonius, along with serpent-guards (Ion, trans. Robert Potter)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 3.15.1–3.15.5: Got the kingdom when Pandion died (Butes got the priesthood); married Praxithea daughter of Phrasimus; sons Cecrops II, Pandorus, Metion; daughters Procris, Creusa, Chthonia, Orithyia; marriages of daughters; Procris's story with Minos and Cephalus; Orithyia carried off by Boreas; Boreas's sons (Zetes and Calais) sailed with Jason; Chione bore Eumolpus to Poseidon; war with Eleusinians; oracle demanded sacrifice of youngest daughter; others killed themselves; Erechtheus killed Eumolpus; Poseidon destroyed Erechtheus and his house
 - **[Odyssey](../sources/odyssey.md)** 7.3882–3884: Athena departed Phaeacia and "entered the good house of Erechtheus" in Athens
 - **[Iliad](../sources/iliad.md)** 2.1282–1287: The name "Erechtheus" is used (likely conflating him with [Erichthonius](erichthonius.md)); fostered by Athena when Earth brought him to birth; worshipped with bulls and rams
+- **[Ion](../sources/euripides-ion.md)**: His daughter [Creusa](creusa-athens.md) raped by [Apollo](../deities/apollo.md); sacrificed his other daughters for Athens; swallowed by the earth when struck by [Poseidon](../deities/poseidon.md)'s trident
 
 [^apd-erech-division]: "Erechtheus got the kingdom, and Butes got the priesthood of Athena and Poseidon Erechtheus" (Bibliotheca 3.15.1, trans. Frazer)
 [^apd-erech-family]: "Erechtheus married Praxithea, daughter of Phrasimus by Diogenia, daughter of Cephisus, and had sons, to wit, Cecrops, Pandorus, and Metion; and daughters, to wit, Procris, Creusa, Chthonia, and Orithyia, who was carried off by Boreas" (Bibliotheca 3.15.1, trans. Frazer)

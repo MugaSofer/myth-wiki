@@ -351,6 +351,15 @@ The Chorus of Satyrs longs for Dionysus's revels throughout the play, and at the
 [^eur-cyc-dion-pleasure]: "The greatest source of pleasure to mankind" — Odysseus's description of Bacchus to Polyphemus (Cyclops, trans. Wodhull)
 [^eur-cyc-dion-laws]: "henceforth the laws of Bacchus will obey" — the Satyrs on their liberation (Cyclops, trans. Wodhull)
 
+## In Euripides' Ion
+
+In [Euripides' Ion](../sources/euripides-ion.md), Dionysus does not appear as a character but is present in two ways. The temple carvings at [Delphi](../places/delphi.md) depict him in the Gigantomachy, felling a giant "with the wand of Bacchus wreathed with ivy round, no martial spear" — a characteristically Dionysiac weapon even in cosmic warfare.[^eur-ion-dion-carving]
+
+The plot also hinges on Dionysiac religion. [Xuthus](../heroes/xuthus.md) believes himself to be Ion's father because he had intercourse with a woman during a Bacchic revel at Delphi, and Ion is the first person he encounters upon leaving the oracle — fulfilling [Apollo](apollo.md)'s pronouncement that the first person met would be his son. The Bacchic revels thus serve as the plausible occasion for Ion's supposed mortal paternity.[^eur-ion-dion-revel]
+
+[^eur-ion-dion-carving]: "with the wand of Bacchus wreathed with ivy round, no martial spear" — Dionysus depicted on temple carvings felling a giant (Ion, trans. Robert Potter)
+[^eur-ion-dion-revel]: Xuthus believes he conceived Ion during Bacchic revels at Delphi (Ion, trans. Robert Potter)
+
 ## Appearances
 
 - **[Cyclops](../sources/euripides-cyclops.md)**: Absent but invoked throughout; [Silenus](../heroes/silenus.md) and Satyrs were enslaved while searching for him; his wine defeats Polyphemus; "The greatest source of pleasure to mankind"
@@ -385,6 +394,7 @@ The Chorus of Satyrs longs for Dionysus's revels throughout the play, and at the
 - **[Fabulae](../sources/hyginus.md)** §167: Son of Jove and Proserpine (variant); dismembered by Titans; heart given to Semele in drink; Juno disguised as nurse Beroe; suggested she ask Jove to come as to Juno; smitten by thunderbolt; Jove took Liber from womb; gave to Nysus; called "the one with two mothers"
 - **[Fabulae](../sources/hyginus.md)** §179: Jove desired Semele; Juno disguised as Beroe; suggested she ask Jove to come with lightning and thunder; Semele burned to death; Mercury snatched Liber from fire; gave to Nysus to be reared
 - **[Bacchae](../sources/euripides-bacchae.md)**: Protagonist — arrives at Thebes in mortal form to establish his worship; drives Semele's sisters mad; imprisioned by Pentheus but escapes; shakes palace with earthquake; persuades Pentheus to dress as woman; bends pine tree with superhuman strength; commands Maenads from the sky; Pentheus torn apart by mother Agave; decrees Cadmus and Harmonia will become serpents; "at once the most terrible, and the mildest of deities"
+- **[Ion](../sources/euripides-ion.md)**: Shown on temple carvings defeating a giant with his ivy wand; Bacchic revels at [Delphi](../places/delphi.md) are the occasion of Ion's supposed conception
 
 [^apd-vine]: "Reigning over Calydon, Oeneus was the first who received a vine-plant from Dionysus" (Bibliotheca 1.8.1, trans. Frazer)
 [^apd-deianira]: "Deianira, who is said to have been begotten on Althaea by Dionysus" (Bibliotheca 1.8.1, trans. Frazer)

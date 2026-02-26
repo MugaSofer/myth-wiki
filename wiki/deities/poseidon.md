@@ -307,6 +307,15 @@ In [Euripides' Cyclops](../sources/euripides-cyclops.md), Polyphemus is identifi
 [^eur-cyc-pos-temples]: Odysseus appeals to Poseidon's temples at Troy as grounds for hospitality (Cyclops, trans. Wodhull)
 [^eur-cyc-pos-oath]: Silenus swears by Poseidon in false oaths (Cyclops, trans. Wodhull)
 
+## In Euripides' Ion
+
+In [Euripides' Ion](../sources/euripides-ion.md), Poseidon is recalled as the god who killed [Erechtheus](../heroes/erechtheus.md): "the yawning earth swallowed thy father... by Neptune's trident smote; and so he perish'd."[^eur-ion-pos-erechtheus] The account confirms the tradition in the [Bibliotheca](../sources/apollodorus.md) that Poseidon destroyed Erechtheus in revenge for the Athenian king's killing of Eumolpus.
+
+Poseidon is also criticised in Ion's broader indictment of divine injustice: "if to mortals you shall pay the penalty of forced embraces, thou, Neptune, and Jove..." — grouping him with [Zeus](zeus.md) and [Apollo](apollo.md) as gods who take mortal women by force and abandon the offspring.[^eur-ion-pos-critique]
+
+[^eur-ion-pos-erechtheus]: "the yawning earth swallowed thy father... by Neptune's trident smote; and so he perish'd" (Ion, trans. Robert Potter)
+[^eur-ion-pos-critique]: "if to mortals you shall pay the penalty of forced embraces, thou, Neptune, and Jove..." (Ion, trans. Robert Potter)
+
 ## Appearances
 
 - **[Cyclops](../sources/euripides-cyclops.md)**: Father of Polyphemus; [Odysseus](../heroes/odysseus.md) appeals to his temples at [Troy](../places/troy.md) for hospitality; Silenus swears by him
@@ -366,3 +375,4 @@ In [Euripides' Cyclops](../sources/euripides-cyclops.md), Polyphemus is identifi
 - **[Pindar](../sources/pindar.md)**, Olympian I: Loved [Pelops](../heroes/pelops.md) — "his heart vanquished by love, snatch thee and bear thee behind his golden steeds to the house of august Zeus"; gave him a golden car and winged untiring steeds to defeat Oinomaos
 - **[Fabulae](../sources/hyginus.md)** §89: Built wall around Troy with Apollo; Laomedon vowed sacrifice from his flocks; defaulted on vow through avarice; sent sea-monster to plague Troy; Apollo demanded Trojan maidens be offered; Hesione bound to rocks; Heracles killed monster; Laomedon defaulted again; Heracles slew Laomedon and gave kingdom to Priam
 - **[Fabulae](../sources/hyginus.md)** §164: Contested with Athena for Athens before Zeus as judge; Athena won by planting olive; in anger wanted to flood the land; forbidden by Hermes at Zeus's command
+- **[Ion](../sources/euripides-ion.md)**: Killed [Erechtheus](../heroes/erechtheus.md) with his trident; criticised alongside [Zeus](zeus.md) for divine injustice

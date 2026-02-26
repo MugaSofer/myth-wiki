@@ -1154,10 +1154,11 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 11. **Euripides, Cyclops** (trans. Michael Wodhull, 1809, Gutenberg #77336) — COMPLETE. Full satyr play read and processed. Source page created. Entity page created: Silenus (father of Satyrs, enslaved in Sicily, comic cupbearer). Entity pages updated: Cyclopes/Polyphemus (atheistic speech, cannibal feast, intoxication, blinding, oracle), Odysseus (xenia appeal, Noman ruse, blinding, identity reveal), Dionysus (absent but invoked, wine as weapon), Poseidon (Polyphemus's father), Hephaestus (invoked as Vulcan of Aetna).
 
+12. **Euripides, Ion** (trans. Robert Potter, 1781, MIT Classics Archive) — COMPLETE. Full play read and processed. Source page created. Entity pages created: Ion (son of Apollo and Creusa, ancestor of Ionians, temple servant), Creusa of Athens (daughter of Erechtheus, raped by Apollo, recognition scene). Entity pages updated: Apollo (rape of Creusa, fathered Ion, sent Hermes, oracle, absent from deus ex machina), Athena (deus ex machina, Ionian prophecy, Gorgon blood to Erichthonius), Hermes (prologue, carried infant to Delphi), Erechtheus (daughter raped, sacrificed daughters, killed by Poseidon), Poseidon (killed Erechtheus), Dionysus (temple carvings, Bacchic revels), Gorgons (earthborn, slain by Athena, dual blood drops).
+
 **Later:**
-12. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
-13. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
-14. **More Greek tragedies** — Euripides (Ion)
+13. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
+14. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
 15. **Aeschylus, Persians** — historical rather than mythological, low priority
 
 ### Minor Expansions — COMPLETE

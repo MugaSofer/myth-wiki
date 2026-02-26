@@ -414,6 +414,23 @@ When Apollo was born on Delos, "with music the swans, the gods' own minstrels, l
 [^call-apo-womb]: "Flee on! Swiftly shall I overtake thee and wash my bow in blood. Thou hast in thy keeping the children of a slanderous woman. Not thou shalt be my dear nurse, nor Cithaeron. Pure am I and may I be the care of them that are pure" (Hymn IV 91-94)
 [^call-apo-swans]: "with music the swans, the gods' own minstrels, left Maeonian Pactolus and circled seven times round Delos, and sang over the bed of child-birth, the Muses' birds, most musical of all birds that fly. Hence that child in after days strung the lyre with just so many strings – seven strings, since seven times the swans sang over the pangs of birth" (Hymn IV 249-253)
 
+## In Euripides' Ion
+
+In [Euripides' Ion](../sources/euripides-ion.md), Apollo is the absent but central divine agent of the play. Years before the drama begins, he raped [Creusa](../heroes/creusa-athens.md), daughter of [Erechtheus](../heroes/erechtheus.md), at the Macrai cave beneath the Acropolis of Athens, described during the assault as having "gold thy locks all glittering."[^eur-ion-apollo-appearance] Creusa bore a son but exposed the infant, expecting him to die.
+
+Apollo sent [Hermes](hermes.md) to retrieve the child and bring him to [Delphi](../places/delphi.md): "From the cave deep in the hollow rock a new-born babe... bring to thy brother to my shrine, and place at the entrance of my temple."[^eur-ion-command] Hermes carried out the command, laying the infant at the temple threshold so that Apollo's priestess would find and raise him. Apollo later arranged for the young man — named [Ion](../heroes/ion.md) by Hermes before the drama begins — to be presented by the Delphic oracle to [Xuthus](../heroes/xuthus.md) as his son, placing him in a noble Athenian house, though Apollo was his true father.
+
+Apollo did not appear in person to resolve the drama. He sent [Athena](athena.md) in his place, since, as Athena explains, he judged it "unmeet... to show himself before you, lest with blame the past be mention'd."[^eur-ion-apollo-absent]
+
+Ion criticises Apollo sharply when he reflects on the abandoned infant: "I must blame the god, if thus perforce he mounts the bed of virgins, and by stealth becomes a father, leaving then his children to die."[^eur-ion-ion-critique] Creusa confronts him in an extended accusation: "Nor here, nor there, O Phoebus, art thou just... ungrateful lover."[^eur-ion-creusa-critique] By the play's end, however, Creusa is reconciled: "Phoebus I praise, before unpraised; my son he now restores."[^eur-ion-reconciliation]
+
+[^eur-ion-apollo-appearance]: "gold thy locks all glittering" (Ion, trans. Robert Potter)
+[^eur-ion-command]: "From the cave deep in the hollow rock a new-born babe thou shalt behold... bring to thy brother to my shrine, and place at the entrance of my temple" (Ion, trans. Robert Potter)
+[^eur-ion-apollo-absent]: "unmeet he deems it to show himself before you, lest with blame the past be mention'd" (Ion, trans. Robert Potter)
+[^eur-ion-ion-critique]: "I must blame the god, if thus perforce he mounts the bed of virgins, and by stealth becomes a father, leaving then his children to die" (Ion, trans. Robert Potter)
+[^eur-ion-creusa-critique]: "Nor here, nor there, O Phoebus, art thou just... ungrateful lover" (Ion, trans. Robert Potter)
+[^eur-ion-reconciliation]: "Phoebus I praise, before unpraised; my son he now restores" (Ion, trans. Robert Potter)
+
 ## Appearances
 
 - **[Callimachus, Hymns](../sources/callimachus-hymns.md)** II: Physical appearance — golden tunic, mantle, lyre, bow, quiver, and sandals; "ever beautiful and ever young"; locks distil healing oils; archery, song, divination, and medicine all his; Nomius from service to Admetus; built horn altar at age four; slew Python; cult names Boëdromius, Clarius, Carneius
@@ -491,6 +508,7 @@ When Apollo was born on Delos, "with music the swans, the gods' own minstrels, l
 - **[Agamemnon](../sources/aeschylus-agamemnon.md)**: Cursed [Cassandra](../heroes/cassandra.md) so none believe her prophecies; she calls him "the Destroyer"
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: His oracle commands Orestes to avenge Agamemnon, threatening disease and madness if he fails; Orestes calls him "Loxias, king and prophet undisproved"
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: Protects Orestes at Delphi; sends him to Athens; serves as his advocate at the trial; argues marriage (sanctioned by Zeus and Hera) outweighs maternal kinship; argues the male is the true parent
+- **[Ion](../sources/euripides-ion.md)**: Raped [Creusa](../heroes/creusa-athens.md) at the Macrai cave; fathered [Ion](../heroes/ion.md); sent [Hermes](hermes.md) to carry the infant to [Delphi](../places/delphi.md); gave Ion to Xuthus through the oracle; sent [Athena](athena.md) as deus ex machina to reveal the truth; criticised for divine injustice
 
 [^od11-aloadae]: "The son of Zeus, whom Leto of the fair locks bare, destroyed the twain" (Odyssey 11.312-314, trans. Butcher and Lang)
 [^od15-amphiaraus]: "Zeus and Apollo loved him with all manner of love; yet he reached not the threshold of old age, but died in Thebes by reason of a woman's gifts" (Odyssey 15.253-256, trans. Butcher and Lang)
