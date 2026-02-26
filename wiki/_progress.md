@@ -1152,11 +1152,13 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 10. **Euripides, Rhesus** (trans. Michael Wodhull, 1809, Gutenberg #77336) — COMPLETE. Full play read and processed. Source page created. Entity pages created: Rhesus (king of Thrace, son of Strymon and a Muse, white horses, golden armour, killed first night, apotheosis as priest of Bacchus), Dolon (wolf-skin spy, demands Achilles' horses, killed offstage). Entity pages updated: Hector (commands camp, rebukes Rhesus, accused of murder), Odysseus (infiltrates camp, steals horses, escapes on watchword), Diomedes (kills Rhesus), Paris (tricked by Athena as Aphrodite), Aeneas (voice of caution), Athena (directs raid, disguises as Aphrodite).
 
+11. **Euripides, Cyclops** (trans. Michael Wodhull, 1809, Gutenberg #77336) — COMPLETE. Full satyr play read and processed. Source page created. Entity page created: Silenus (father of Satyrs, enslaved in Sicily, comic cupbearer). Entity pages updated: Cyclopes/Polyphemus (atheistic speech, cannibal feast, intoxication, blinding, oracle), Odysseus (xenia appeal, Noman ruse, blinding, identity reveal), Dionysus (absent but invoked, wine as weapon), Poseidon (Polyphemus's father), Hephaestus (invoked as Vulcan of Aetna).
+
 **Later:**
-11. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
-12. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
-13. **More Greek tragedies** — Euripides (Ion, Cyclops)
-14. **Aeschylus, Persians** — historical rather than mythological, low priority
+12. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
+13. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
+14. **More Greek tragedies** — Euripides (Ion)
+15. **Aeschylus, Persians** — historical rather than mythological, low priority
 
 ### Minor Expansions — COMPLETE
 

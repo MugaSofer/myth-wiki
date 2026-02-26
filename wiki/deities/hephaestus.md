@@ -228,8 +228,15 @@ Venus brings the finished arms to Aeneas: helmet "dread with plumes and spouting
 [^aen-heph-shield]: "the Lord of Fire had fashioned the story of Italy and the triumphs of the Romans, not witless of prophecy or ignorant of the age to be; there all the race of Ascanius' future seed, and their wars fought one by one" (Aeneid 8.626-629)
 [^aen-heph-lifts]: "rejoicing in the portraiture of unknown history, lifts on his shoulder the destined glories of his children" (Aeneid 8.730-731)
 
+## In Euripides' Cyclops
+
+In [Euripides' Cyclops](../sources/euripides-cyclops.md), [Odysseus](../heroes/odysseus.md) invokes Hephaestus as "Vulcan, king of Ætna" immediately before the blinding of [Polyphemus](../creatures/cyclopes.md): "from this impious pest, who haunts thy sacred mountain, free thyself at once, by burning out his glaring eye."[^eur-cyc-heph-invoke] Hephaestus is thus called upon as a patron of the volcanic fire used in the heated olive-wood brand, and as the rightful lord of the mountain that Polyphemus profanes by his impious dwelling.
+
+[^eur-cyc-heph-invoke]: "Vulcan, king of Ætna... from this impious pest, who haunts thy sacred mountain, free thyself at once, by burning out his glaring eye" (Euripides, Cyclops, trans. Michael Wodhull, 1809)
+
 ## Appearances
 
+- **[Cyclops](../sources/euripides-cyclops.md)**: Invoked as "Vulcan, king of Ætna" by [Odysseus](../heroes/odysseus.md) before the blinding of Polyphemus — "from this impious pest, who haunts thy sacred mountain, free thyself at once, by burning out his glaring eye"
 - **[Theogony](../sources/theogony.md)** 571-584, 927-929, 929a-929d, 945-946: Creates the first woman; born of Hera alone; marriage to Aglaea
 - **[Homeric Hymn III](../sources/homeric-hymns.md)** 316-321: Cast out by Hera; rescued by Thetis
 - **[Homeric Hymn XX](../sources/homeric-hymns.md)**: "Famed for inventions"; taught men crafts with Athena; freed them from cave-dwelling

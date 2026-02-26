@@ -299,8 +299,17 @@ In Book XI, [Apollo](apollo.md) and Poseidon "assumed a mortal form: and those t
 [^met-pos-troy]: "Neptune, enraged, said, 'You shall not escape your punishment.' And he drove all his waters high upon the shores of Troy... The daughter of the king was soon required as food for a sea-monster" (Metamorphoses 11.207-225)
 [^apd-arion]: "Adrastus alone was saved by his horse Arion. That horse Poseidon begot on Demeter, when in the likeness of a Fury she consorted with him" (Bibliotheca 3.6.8, trans. J.G. Frazer)
 
+## In Euripides' Cyclops
+
+In [Euripides' Cyclops](../sources/euripides-cyclops.md), Polyphemus is identified as a son of Poseidon; the Cyclopes are called "one-eyed sons of the ocean-god."[^eur-cyc-pos-sons] [Odysseus](../heroes/odysseus.md) appeals to Poseidon's own temples at [Troy](../places/troy.md) as grounds for the hospitality that Polyphemus denies him.[^eur-cyc-pos-temples] [Silenus](../heroes/silenus.md), who has fallen into Polyphemus's servitude, swears by Poseidon in his false oaths.[^eur-cyc-pos-oath]
+
+[^eur-cyc-pos-sons]: "one-eyed sons of the ocean-god" (Euripides, Cyclops, trans. Michael Wodhull, 1809)
+[^eur-cyc-pos-temples]: Odysseus appeals to Poseidon's temples at Troy as grounds for hospitality (Cyclops, trans. Wodhull)
+[^eur-cyc-pos-oath]: Silenus swears by Poseidon in false oaths (Cyclops, trans. Wodhull)
+
 ## Appearances
 
+- **[Cyclops](../sources/euripides-cyclops.md)**: Father of Polyphemus; [Odysseus](../heroes/odysseus.md) appeals to his temples at [Troy](../places/troy.md) for hospitality; Silenus swears by him
 - **[Euripides' Hippolytus](../sources/euripides-hippolytus.md)** 44-46, 887-890, 1206-1214: "Father Neptune" — granted [Theseus](../heroes/theseus.md) three curses that cannot fail; Theseus invokes one to destroy Hippolytus; Poseidon sends a monstrous bull from the sea in "a vast wave pillared in heaven"; the bull pursues Hippolytus's chariot to destruction
 - **[Argonautica](../sources/argonautica.md)** 1-4: Father of Amycus (by Bithynian Melie), Euphemus (who could run on water), Periclymenus (shapeshifting), and Ancaeus (by Astypalaea); father of Triton, who guided the Argo from Lake Tritonis
 - **[Metamorphoses](../sources/metamorphoses.md)** 1.274-312: Aids Zeus in the flood — "Neptune with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare"; commands rivers to overflow; afterwards "laid his trident down and pacified the waves" and called Triton to sound retreat

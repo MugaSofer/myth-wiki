@@ -440,6 +440,20 @@ In the *Rhesus*, [Odysseus](odysseus.md) infiltrates the Trojan camp with [Diome
 [^eur-rh-ody-escape]: Rhesus. Odysseus uses the watchword "Apollo" to escape the Trojan sentinels (trans. Michael Wodhull)
 [^eur-rh-ody-reputation]: "Ulysses, from whom Troy hath suffered insults the most atrocious; for by night, entering Minerva's fane, he stole her image, and bore it to the Grecian fleet" (Rhesus, trans. Michael Wodhull)
 
+## In Euripides' Cyclops
+
+[Euripides' Cyclops](../sources/euripides-cyclops.md) dramatises the Polyphemus episode as a satyr play. Odysseus arrives in Sicily after being blown off course from [Troy](../places/troy.md), and appeals to [xenia](../concepts/xenia.md) and divine law — invoking [Poseidon](../deities/poseidon.md)'s own temples at Troy as grounds for hospitality from Polyphemus.[^eur-cyc-od-xenia]
+
+He gives his name to Polyphemus as "Noman" and plies him with wine. When the [Cyclops](../creatures/cyclopes.md) is drunk, Odysseus and his crew blind him with a heated olive-wood brand. He first invokes [Hephaestus](../deities/hephaestus.md) ("Vulcan, king of Ætna") and Sleep before the blinding: "from this impious pest, who haunts thy sacred mountain, free thyself at once, by burning out his glaring eye."[^eur-cyc-od-invoke] The Satyrs prove cowardly when the moment comes, forcing Odysseus to rely solely on his own crew.[^eur-cyc-od-cowards]
+
+After the blinding, the "Noman" ruse plays out as in the [Odyssey](../sources/odyssey.md). Odysseus then reveals his true name: "Me my father named Ulysses. It was destined you should suffer a just requital for your impious feast."[^eur-cyc-od-reveal] Polyphemus recalls an ancient prophecy that Odysseus would blind him, and warns that Odysseus will suffer punishment at sea in return.[^eur-cyc-od-prophecy]
+
+[^eur-cyc-od-xenia]: Odysseus appeals to xenia and Poseidon's temples at Troy as grounds for hospitality (Euripides, Cyclops, trans. Michael Wodhull, 1809)
+[^eur-cyc-od-invoke]: "Vulcan, king of Ætna... from this impious pest, who haunts thy sacred mountain, free thyself at once, by burning out his glaring eye" (Cyclops, trans. Wodhull)
+[^eur-cyc-od-cowards]: "these allies of mine are worthless cowards" — Odysseus on the Satyrs who fail to help (Cyclops, trans. Wodhull)
+[^eur-cyc-od-reveal]: "Me my father named Ulysses. It was destined you should suffer a just requital for your impious feast." (Cyclops, trans. Wodhull)
+[^eur-cyc-od-prophecy]: Polyphemus recalls the ancient oracle foretelling his blinding by Odysseus, and prophesies sea-punishment in return (Cyclops, trans. Wodhull)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** II: Rallies the army at [Athena](../deities/athena.md)'s urging; his ship in the centre of the fleet; "Odysseus of many devices"
@@ -483,3 +497,4 @@ In the *Rhesus*, [Odysseus](odysseus.md) infiltrates the Trojan camp with [Diome
 - **[Posthomerica](../sources/posthomerica.md)** XII: Devises the stratagem of the Wooden Horse; persuades the assembled chiefs; third to enter the horse; restrains the warriors from rushing out; first to slip out and scout
 - **[Posthomerica](../sources/posthomerica.md)** XIII–XIV: Emerges from the horse and leads the sortie; claims Hecuba as his prize and drags her to his ship
 - **[Rhesus](../sources/euripides-rhesus.md)**: Infiltrates Trojan camp with [Diomedes](diomedes.md); kills [Dolon](dolon.md) offstage; directed by [Athena](../deities/athena.md) to kill [Rhesus](rhesus.md); steals white horses; escapes using watchword "Apollo"; Hector calls him a "grievous pest"
+- **[Cyclops](../sources/euripides-cyclops.md)**: Arrives in Sicily after [Troy](../places/troy.md); appeals to [xenia](../concepts/xenia.md); uses "Noman" ruse; plies Polyphemus with wine; blinds him with heated brand; reveals his identity; Polyphemus prophesies sea-punishment

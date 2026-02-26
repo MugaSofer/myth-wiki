@@ -339,8 +339,21 @@ The Chorus reports that the drums used in Dionysus's worship were originally "th
 [^eur-bac-voice]: "there was a certain voice from the sky... O youthful women, I bring you him who made you and me and my orgies a laughing-stock: but punish ye him" (Bacchae 1078-1081, trans. T.A. Buckley)
 [^eur-bac-miracles]: "one having taken a thyrsus, struck it against a rock, whence a dewy stream of water springs out; another placed her wand on the ground, and then the God sent up a spring of wine. And as many as had craving for the white drink, scratching the earth with the tips of their fingers, obtained abundance of milk; and from the ivy thyrsus sweet streams of honey dropped" (Bacchae 704-711, trans. T.A. Buckley)
 
+## In Euripides' Cyclops
+
+Dionysus does not appear in person in [Euripides' Cyclops](../sources/euripides-cyclops.md), but he is the constant reference point of the play. [Silenus](../heroes/silenus.md) and his Satyrs were captured while searching for him after he was kidnapped by Tyrrhenian pirates, and it is this search that brought them to Sicily, where [Polyphemus](../creatures/cyclopes.md) enslaved them to tend his flocks.[^eur-cyc-dion-search]
+
+Dionysus's wine becomes the instrument of Polyphemus's defeat. When [Odysseus](../heroes/odysseus.md) asks what sort of god Bacchus is, he calls him "The greatest source of pleasure to mankind."[^eur-cyc-dion-pleasure] Polyphemus, tasting wine for the first time, becomes drunk and helpless, enabling Odysseus's blinding.
+
+The Chorus of Satyrs longs for Dionysus's revels throughout the play, and at the close, freed from their servitude, they declare "henceforth the laws of Bacchus will obey."[^eur-cyc-dion-laws]
+
+[^eur-cyc-dion-search]: Silenus and the Satyrs were enslaved while searching for Dionysus, who had been kidnapped by Tyrrhenian pirates (Euripides, Cyclops, trans. Michael Wodhull, 1809)
+[^eur-cyc-dion-pleasure]: "The greatest source of pleasure to mankind" — Odysseus's description of Bacchus to Polyphemus (Cyclops, trans. Wodhull)
+[^eur-cyc-dion-laws]: "henceforth the laws of Bacchus will obey" — the Satyrs on their liberation (Cyclops, trans. Wodhull)
+
 ## Appearances
 
+- **[Cyclops](../sources/euripides-cyclops.md)**: Absent but invoked throughout; [Silenus](../heroes/silenus.md) and Satyrs were enslaved while searching for him; his wine defeats Polyphemus; "The greatest source of pleasure to mankind"
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.253-315: Birth from Semele; Hera's trick; Zeus's thunderbolt; rescued from his mother's womb; twice-born
 - **[Metamorphoses](../sources/metamorphoses.md)** 3.664-669: Divine manifestation — grape-leaf crown, vine-covered lance, tigers, lynxes, and panthers
 - **[Metamorphoses](../sources/metamorphoses.md)** 5.329: Fled Typhoeus to Egypt; hid in the form of a goat

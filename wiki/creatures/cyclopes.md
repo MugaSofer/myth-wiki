@@ -129,8 +129,32 @@ The infant Artemis, "while yet but three years old," visited the forge. "Brontes
 [^call-cyc-brontes]: "while yet but three years old, when Leto came bearing thee in her arms at the bidding of Hephaestus that he might give thee handsel and Brontes set thee on his stout knees – thou didst pluck the shaggy hair of his great breast and tear it out by force. And even unto this day the mid part of his breast remains hairless" (Hymn III 73-77)
 [^call-cyc-bow]: "'Cyclopes, for me too fashion ye a Cydonian bow and arrows and a hollow casket for my shafts; for I also am a child of Leto, even as Apollo. And if I with my bow shall slay some wild creature or monstrous beast, that shall the Cyclopes eat'" (Hymn III 81-85)
 
+## In Euripides' Cyclops
+
+[Euripides' Cyclops](../sources/euripides-cyclops.md) dramatises the encounter of [Odysseus](../heroes/odysseus.md) with Polyphemus, presenting the Cyclops as a son of [Poseidon](../deities/poseidon.md). The Cyclopes as a people are described as "one-eyed sons of the ocean-god."[^eur-cyc-sons]
+
+Polyphemus enslaved [Silenus](../heroes/silenus.md) and his Satyrs to tend his flocks after they were stranded on Sicily searching for [Dionysus](../deities/dionysus.md), who had been kidnapped by Tyrrhenian pirates. He shelters in his cave during thunderstorms and has nothing but contempt for Zeus's thunder.[^eur-cyc-cave]
+
+The most striking element of his characterisation is a speech rejecting all gods in favour of the belly: "Wealth is the deity the wise adore; all other objects I as trifles scorn, as the vain sayings of vain men deride." He sacrifices to no god but himself — "to the greatest of all gods — this belly."[^eur-cyc-belly] When Odysseus argues that he should respect the laws of [Zeus](../deities/zeus.md) and the claims of hospitality, Polyphemus dismisses them entirely.
+
+He devours two of Odysseus's companions, one dashed against the rocks "like a whelp against the sharp and craggy stones."[^eur-cyc-devour] Odysseus then plies him with wine. Drunk, Polyphemus sees visions: "the very heavens whirl round mingled with earth. I view Jove's throne sublime," and declares [Ganymede](../heroes/ganymede.md) more beautiful than the Graces.[^eur-cyc-drunk]
+
+The "Noman" ruse plays out as in the [Odyssey](../sources/odyssey.md) — Odysseus gives his name as "Noman," and after the blinding Polyphemus cries out "Noman hath ruined me."[^eur-cyc-noman] Odysseus blinds him with a heated olive-wood brand. Though the Satyrs prove cowardly allies — Odysseus declares "these allies of mine are worthless cowards" — he executes the plan with his own crew.[^eur-cyc-cowards]
+
+After his blinding, Polyphemus recalls an ancient oracle that foretold he would be blinded by Odysseus, and warns in return that Odysseus too will suffer punishment at sea.[^eur-cyc-oracle]
+
+[^eur-cyc-sons]: "one-eyed sons of the ocean-god" (Euripides, Cyclops, trans. Michael Wodhull, 1809)
+[^eur-cyc-cave]: Polyphemus shelters during thunderstorms and scorns Zeus's thunder (Cyclops, trans. Wodhull)
+[^eur-cyc-belly]: "Wealth is the deity the wise adore; all other objects I as trifles scorn, as the vain sayings of vain men deride... to the greatest of all gods — this belly" (Cyclops, trans. Wodhull)
+[^eur-cyc-devour]: "like a whelp against the sharp and craggy stones" (Cyclops, trans. Wodhull)
+[^eur-cyc-drunk]: "the very heavens whirl round mingled with earth. I view Jove's throne sublime" (Cyclops, trans. Wodhull)
+[^eur-cyc-noman]: "Noman hath ruined me" (Cyclops, trans. Wodhull)
+[^eur-cyc-cowards]: "these allies of mine are worthless cowards" (Cyclops, trans. Wodhull)
+[^eur-cyc-oracle]: Polyphemus recalls the ancient oracle foretelling his blinding at Odysseus's hand; counters that Odysseus too will be punished (Cyclops, trans. Wodhull)
+
 ## Appearances
 
+- **[Cyclops](../sources/euripides-cyclops.md)**: Son of [Poseidon](../deities/poseidon.md); enslaves [Silenus](../heroes/silenus.md) and Satyrs; rejects all gods — "Wealth is the deity the wise adore"; devours two of [Odysseus](../heroes/odysseus.md)'s companions; gets drunk on wine; blinded using the "Noman" ruse; recalls ancient oracle foretelling it
 - **[Callimachus, Hymns](../sources/callimachus-hymns.md)** III: Forging a horse-trough for Poseidon on the isle of Lipara; description — "like unto the crags of Ossa," single eyes "like a shield of fourfold hide for size"; used by mothers to frighten disobedient children ("Arges or Steropes"); infant Artemis plucked hair from Brontes's chest — his breast still hairless; Artemis commissioned her bow and arrows
 - **[Odyssey](../sources/odyssey.md)** I: Polyphemus named as "mightiest amongst all the Cyclôpes"; son of Poseidon and the nymph Thoösa; blinded by Odysseus
 - **[Odyssey](../sources/odyssey.md)** VII: Near of kin to the Phaeacians and the Giants; gods "appear manifest" to them
