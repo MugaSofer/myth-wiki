@@ -110,6 +110,21 @@ When the tutor arrives with the false news of Orestes' death in a chariot race, 
 
 Killed by Orestes offstage. Her cries are heard within: "O son, have pity! Pity the womb that bare thee."[^soph-el-womb] Electra, standing at the door, answers her.
 
+## In Euripides' [Electra](../sources/euripides-electra.md)
+
+In Euripides' [Electra](../sources/euripides-electra.md), Clytemnestra is lured to her daughter's hut by a false message that [Electra](electra.md) has given birth. She arrives in a chariot with Trojan handmaids, and delivers a searching defence of her actions.
+
+She argues that [Agamemnon](agamemnon.md) sacrificed [Iphigenia](iphigenia.md) not to save Greece but because of [Helen](helen.md)'s wantonness: "He slew my daughter... Because Helen was wanton, and her master knew no curb for her: for that, for that, he slew my daughter!"[^eur-el-cly-iphigenia] Even then she would not have killed him, "but he came, at last, bringing that damsel" — [Cassandra](cassandra.md) — "and set her in my room; and in one wall would hold two queens!"[^eur-el-cly-cassandra]
+
+Most striking is her admission of unhappiness: "Think not I am happy, child; nor flown with pride now, in the deeds my hand hath done."[^eur-el-cly-unhappy] This vulnerability distinguishes Euripides' portrayal from Aeschylus's triumphant murderess.
+
+She enters the hut to perform the birth-rites and is killed within. Her final cry: "O Children, Children; in the name of God, slay not your mother!"[^eur-el-cly-cry]
+
+[^eur-el-cly-iphigenia]: "Because Helen was wanton, and her master knew no curb for her: for that, for that, he slew my daughter!" (Electra ~1030, trans. Gilbert Murray)
+[^eur-el-cly-cassandra]: "he came, at last, bringing that damsel, with the flame of God about her, mad and knowing all: and set her in my room; and in one wall would hold two queens!" (Electra ~1032-1035, trans. Gilbert Murray)
+[^eur-el-cly-unhappy]: "Think not I am happy, child; nor flown with pride now, in the deeds my hand hath done" (Electra ~1105, trans. Gilbert Murray)
+[^eur-el-cly-cry]: "O Children, Children; in the name of God, slay not your mother!" (Electra ~1165, trans. Gilbert Murray)
+
 ## Variant Traditions
 
 Clytemnestra's role in the murder varies significantly across sources. In the [Odyssey](../sources/odyssey.md), she is a secondary figure alongside [Aegisthus](aegisthus.md). In the [Bibliotheca](../sources/apollodorus.md), both conspire equally. In the [Fabulae](../sources/hyginus.md), she is motivated by Oiax's false report about Cassandra. In Aeschylus' *Agamemnon*, she is the sole planner and executioner, with Aegisthus arriving only afterward to claim credit.
@@ -129,4 +144,5 @@ The murder weapon also differs: the Bibliotheca describes "a shirt without sleev
 - **[Agamemnon](../sources/aeschylus-agamemnon.md)**: Beacon speech; lays out purple tapestries; traps Agamemnon in robe-net; strikes three blows; justifies with Iphigenia; claims to end the curse; asserts joint rule with Aegisthus
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Serpent dream; sends libations to Agamemnon's tomb; welcomes disguised Orestes; bares her breast and pleads; warned of her "vengeful hounds"; killed by Orestes
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: Appears as ghost at Delphi; rouses the sleeping Furies to pursue Orestes
+- **[Euripides' Electra](../sources/euripides-electra.md)**: Lured to Electra's hut by false news of a birth; defends herself — killed Agamemnon because he sacrificed Iphigenia for Helen's sake, then brought Cassandra as concubine; admits unhappiness — "Think not I am happy, child"; enters to perform birth-rites; killed within — "O Children, Children; in the name of God, slay not your mother!"
 - **[Sophocles' Electra](../sources/sophocles-electra.md)**: Defends killing Agamemnon as justice; confronted by Electra; frightened by prophetic dream of Agamemnon's sceptre-tree; sends Chrysothemis with offerings; relieved by false news of Orestes' death; killed by Orestes offstage; her cries heard within

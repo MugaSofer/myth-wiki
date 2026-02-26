@@ -47,6 +47,15 @@ In [Sophocles](../sources/sophocles-electra.md)' tragedy, Aegisthus is almost en
 
 When the false report of [Orestes](orestes.md)'s death arrives, Aegisthus is absent from the city. He returns near the play's end, expecting to view the corpse. Instead, he finds Clytemnestra's body under a veil and realizes the deception. Orestes forces him to the spot where Agamemnon was murdered and takes him inside to die there. His final words are: "Is there no help but this abode must see the past and future ills of Pelops' race?"[^soph-el-pelops]
 
+## In Euripides' Electra
+
+In Euripides' [Electra](../sources/euripides-electra.md), Aegisthus is killed during a sacrifice to the Nymphs. He invites the disguised [Orestes](orestes.md) — posing as a Thessalian traveller — to share the feast. While examining the bull's entrails, he finds ominous signs: "No lobe was there; but lo, strange caves of gall, and, darkly raised, the portal vein boded to him that gazed fell visitations."[^eur-el-aeg-omens] Orestes strikes from behind with a cleaver, severing spine and brain.
+
+[Electra](electra.md) delivers a long speech over his corpse, mocking his vanity, his subordination to [Clytemnestra](clytemnestra.md) ("on thy ways thou heardst men whispering, 'Lo, the Queen's husband yonder' — not 'the King'"), and his constant fear of Orestes.[^eur-el-aeg-speech]
+
+[^eur-el-aeg-omens]: "No lobe was there; but lo, strange caves of gall, and, darkly raised, the portal vein boded to him that gazed fell visitations" (Electra ~825, trans. Gilbert Murray)
+[^eur-el-aeg-speech]: "on thy ways thou heardst men whispering, 'Lo, the Queen's husband yonder' — not 'the King'" (Electra ~930, trans. Gilbert Murray)
+
 ## Appearances
 
 - **[Odyssey](../sources/odyssey.md)** 1.29-43: Zeus cites him as example of mortal folly; Hermes warned him in vain
@@ -58,6 +67,7 @@ When the false report of [Orestes](orestes.md)'s death arrives, Aegisthus is abs
 - **[Fabulae](../sources/hyginus.md)** §117: Kills Agamemnon with axe alongside Clytemnestra
 - **[Agamemnon](../sources/aeschylus-agamemnon.md)**: Enters after the murder; tells Thyestes story; claims credit; taunted as coward
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Summoned without bodyguard; killed offstage by Orestes
+- **[Euripides' Electra](../sources/euripides-electra.md)**: Married Electra to a peasant to prevent noble offspring; sacrificing to Nymphs; invites disguised Orestes; finds ominous entrails; struck from behind by cleaver; corpse mocked by Electra — "the Queen's husband, not the King"
 - **[Sophocles' Electra](../sources/sophocles-electra.md)**: Mostly offstage; described sitting on Agamemnon's throne and wearing his robes; plans to entomb Electra; returns expecting to view Orestes' corpse; discovers Clytemnestra's body instead; forced to the spot where Agamemnon died and killed there
 
 [^od-zeus]: "Aegisthus would in no wise hearken" (Odyssey 1.35-43, trans. Butcher and Lang)

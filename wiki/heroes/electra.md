@@ -62,12 +62,48 @@ Orestes arrives carrying an urn that supposedly holds his ashes. Electra takes i
 
 While Orestes and [Pylades](pylades.md) enter the palace to kill Clytemnestra, Electra stands at the door. When Clytemnestra's cry is heard — "O son, have pity! Pity the womb that bare thee" — Electra answers: "Thou hadst none for him, nor for his father, in that day."[^soph-el-pity] When Clytemnestra cries out that she has been struck, Electra calls back: "Give a second stroke, if thou hast power."[^soph-el-strike]
 
+## In Euripides' [Electra](../sources/euripides-electra.md)
+
+Euripides' [Electra](../sources/euripides-electra.md) gives the most psychologically searching portrait of the character. She has been married by [Aegisthus](aegisthus.md) to a poor peasant farmer to prevent her bearing a son of noble blood. The Peasant has never consummated the marriage out of respect for her royal blood — "never yet these arms have clasped her body, and she goes a virgin still."[^eur-el-virgin]
+
+### Poverty and Bitterness
+
+Electra carries water at dawn and insists on labouring, though the Peasant begs her to rest. She details her humiliations: she weaves her own garments, is excluded from festivals, and while [Clytemnestra](clytemnestra.md) sits surrounded by Trojan spoils, [Agamemnon](agamemnon.md)'s grave lies unadorned. Aegisthus leaps on it when drunk, crying: "Where is thy son Orestes? Doth he give thy tomb good tendance?"[^eur-el-grave]
+
+### Recognition and the Subversion of Aeschylus
+
+When an Old Man suggests matching hair and footprints found at Agamemnon's tomb, Electra dismisses each token — a man's hair cannot match a woman's, stone takes no footprint, and childhood garments do not grow with the wearer. Instead, the Old Man recognises [Orestes](orestes.md) by a childhood scar: "There, by his brow, I see the scar he made, that day he ran with thee chasing thy fawn, and fell."[^eur-el-scar]
+
+### Driving the Revenge
+
+Electra devises the plot to kill Clytemnestra. She sends word that she has borne a child, knowing her mother will come. When Orestes hesitates before the matricide — "'Twas she that bare my body into life. She gave me suck. How can I strike her?" — and questions [Apollo](../deities/apollo.md)'s oracle ("How if some fiend of Hell, hid in God's likeness, spake that oracle?"), Electra is relentless: "Strike her as she struck our father!"[^eur-el-strike]
+
+### Speech Over Aegisthus
+
+She delivers a long tirade over Aegisthus's corpse, mocking him as "the Queen's husband" rather than "the King," despising his vanity ("that girl-like face!"), and warning: "O vaunt not, if one step be proudly made in evil, that all Justice is o'ercast."[^eur-el-speech]
+
+### The Aftermath
+
+After the matricide, Electra is shattered. She describes her mother's hand clinging to her cheek: "She stretched her hand to my cheek, and there brake from her lips a moan; 'Mercy, my child, my own!' Her hand clung to my cheek; clung, and my arm was weak; and the sword fell and was gone."[^eur-el-hand] She claims the blame: "Let tear rain upon tear, brother: but mine is the blame."[^eur-el-blame]
+
+[Castor](castor.md) decrees that Electra shall marry [Pylades](pylades.md) and leave Argos. She laments that exile is a "bitter judgment." In a wrenching farewell, she and Orestes embrace and part, knowing they will never see each other again.[^eur-el-farewell]
+
+[^eur-el-virgin]: "never yet these arms... have clasped her body, and she goes a virgin still" (Electra ~44-46, trans. Gilbert Murray)
+[^eur-el-grave]: "Where is thy son Orestes? Doth he give thy tomb good tendance?" (Electra ~327, trans. Gilbert Murray)
+[^eur-el-scar]: "There, by his brow, I see the scar he made, that day he ran with thee chasing thy fawn, and fell" (Electra ~573, trans. Gilbert Murray)
+[^eur-el-strike]: "Strike her as she struck our father!" (Electra ~1142, trans. Gilbert Murray)
+[^eur-el-speech]: "O vaunt not, if one step be proudly made in evil, that all Justice is o'ercast" (Electra ~953, trans. Gilbert Murray)
+[^eur-el-hand]: "She stretched her hand to my cheek, and there brake from her lips a moan; 'Mercy, my child, my own!' Her hand clung to my cheek; clung, and my arm was weak; and the sword fell and was gone" (Electra ~1221-1225, trans. Gilbert Murray)
+[^eur-el-blame]: "Let tear rain upon tear, brother: but mine is the blame" (Electra ~1183, trans. Gilbert Murray)
+[^eur-el-farewell]: "After so long, sister, to see and hold thee, and then part, then part, by all that chained thee to my heart forsaken, and forsaking thee!" (Electra ~1308-1310, trans. Gilbert Murray)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** E.6.24: Rescues infant Orestes and sends him to Strophius
 - **[Fabulae](../sources/hyginus.md)** §117: Rescues Orestes; sends him to Strophius in Phocis
 - **[Orestes](../sources/euripides-orestes.md)**: Tends Orestes in his madness; participant in the plot against Helen
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Bears libations to Agamemnon's tomb; discovers lock and footprints; recognizes Orestes; invokes Agamemnon's spirit in the kommos
+- **[Euripides' Electra](../sources/euripides-electra.md)**: Central figure; married to a peasant (unconsummated); carries water, weaves her own garments; dismisses Aeschylean recognition tokens; drives the revenge; devises the trap for Clytemnestra; tirade over Aegisthus's body; relentless during matricide — "Strike her as she struck our father"; shattered afterward — mother's hand on her cheek; claims the blame; decreed to marry Pylades and leave Argos
 - **[Sophocles' Electra](../sources/sophocles-electra.md)**: Central figure; mourns Agamemnon while enslaved in her own household; debates Clytemnestra; resolves to kill Aegisthus alone; laments over Orestes' urn; recognized by signet ring; urges Orestes during the matricide
 
 [^apd-rescue]: "Electra, one of Agamemnon's daughters, smuggled away her brother Orestes and gave him to Strophius, the Phocian, to bring up" (Bibliotheca E.6.24, trans. J.G. Frazer)

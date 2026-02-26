@@ -277,6 +277,14 @@ Menelaus declares that he agrees with Hecuba — Helen's heart was willing when 
 [^tw-stones]: "Out, woman! There be those that seek thee yet / With stones! Go, meet them. So shall thy long debt / Be paid at last" (Trojan Women, trans. Gilbert Murray)
 [^tw-lover]: "A lover once, will alway love again" (Trojan Women, trans. Gilbert Murray)
 
+## Variant Traditions
+
+### The Phantom Helen
+
+In Euripides' [Electra](../sources/euripides-electra.md), [Castor](castor.md) reveals that Helen never went to [Troy](../places/troy.md) at all. When announcing [Menelaus](menelaus.md)'s return, he says: "From Egypt comes she, and the hall of Proteus, and in Troy hath ne'er at all set foot. 'Twas but a wraith of Helen, sent by [Zeus](../deities/zeus.md), to make much wrath and ravishment."[^eur-el-phantom] This tradition — that the Trojan War was fought over a phantom while the real Helen waited in Egypt — is also developed at length in Euripides' *Helen* and attributed to the lyric poet Stesichorus.
+
+[^eur-el-phantom]: "From Egypt comes she, and the hall of Proteus, and in Troy hath ne'er at all set foot. 'Twas but a wraith of Helen, sent by Zeus, to make much wrath and ravishment" (Electra ~1282-1284, trans. Gilbert Murray)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Searches for her brothers Castor and Pollux — "mine own brethren, whom the same mother bare"; they are already dead ("the life-giving earth held fast")

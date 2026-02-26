@@ -166,6 +166,30 @@ Orestes and Pylades enter the palace and kill [Clytemnestra](clytemnestra.md) fi
 
 The play ends triumphantly, without the arrival of the Erinyes. Orestes' final words are: "If Apollo spake rightfully, the state within is well."[^soph-el-apollo] No Furies pursue him.
 
+## In Euripides' [Electra](../sources/euripides-electra.md)
+
+In Euripides' [Electra](../sources/euripides-electra.md), Orestes arrives incognito with [Pylades](pylades.md) in the Argive mountains, fresh from purification at [Apollo](../deities/apollo.md)'s shrine. He tests [Electra](electra.md) without revealing himself, learning of her degraded marriage and burning hatred. He is recognised not by matching hair or footprints (which Electra dismisses) but by a childhood scar on his brow.
+
+### Killing Aegisthus
+
+Posing as a Thessalian traveller, Orestes is invited by [Aegisthus](aegisthus.md) to share a sacrifice to the Nymphs. When Aegisthus asks him to butcher the bull, Orestes takes a cleaver and, as Aegisthus bends to examine the ominous entrails, "up with a leap thy brother flashed the sword, then down upon his neck, and cleft the cord of brain and spine."[^eur-el-or-kill] When the servants reach for their spears, Orestes reveals himself: "I come not as in wrath against these walls and mine own people. One man righteously I have slain, who slew my father."[^eur-el-or-reveal]
+
+### The Matricide
+
+Orestes hesitates profoundly before killing [Clytemnestra](clytemnestra.md). He questions the oracle itself: "How if some fiend of Hell, hid in God's likeness, spake that oracle?" Electra drives him forward. He kills with his face veiled: "I lifted over mine eyes my mantle: blinded I smote, as one smiteth a sacrifice; and the sword found her throat."[^eur-el-or-strike]
+
+Afterward he is devastated, recounting how his mother bared her breast and bent her knees. He laments: "Apollo, alas for the hymn thou sangest, as hope in mine ear! The Song was of Justice dim, but the Deed is anguish clear."[^eur-el-or-apollo] He asks who will break bread with a man whose hand is stained with his mother's blood.
+
+### The Dioscuri's Decree
+
+[Castor](castor.md) appears and criticises Apollo: "though in light he dwell, no light was this he showed to thee." He decrees that Orestes must flee to Athens, stand trial at the Areopagus where equal votes will mean acquittal, and eventually settle in Arcadia in a town called "Orestes Town." The [Erinyes](../creatures/erinyes.md) will pursue him until the trial.[^eur-el-or-castor]
+
+[^eur-el-or-kill]: "up with a leap thy brother flashed the sword, then down upon his neck, and cleft the cord of brain and spine" (Electra ~841, trans. Gilbert Murray)
+[^eur-el-or-reveal]: "I come not as in wrath against these walls and mine own people. One man righteously I have slain, who slew my father. It is I, the wronged Orestes!" (Electra ~850, trans. Gilbert Murray)
+[^eur-el-or-strike]: "I lifted over mine eyes my mantle: blinded I smote, as one smiteth a sacrifice; and the sword found her throat" (Electra ~1221, trans. Gilbert Murray)
+[^eur-el-or-apollo]: "Apollo, alas for the hymn thou sangest, as hope in mine ear! The Song was of Justice dim, but the Deed is anguish clear" (Electra ~1190, trans. Gilbert Murray)
+[^eur-el-or-castor]: "though in light he dwell, no light was this / He showed to thee, but darkness... Fare forth where Zeus and Fate have laid thy life" (Electra ~1245-1250, trans. Gilbert Murray)
+
 ## Variant Traditions
 
 The sources give different accounts for who rescued the infant Orestes. The [Bibliotheca](../sources/apollodorus.md) (E.6.24) credits Electra; the [Fabulae](../sources/hyginus.md) (§117) credits Electra; Pindar's Pythian XI credits a nurse named Arsinoë.
@@ -189,6 +213,7 @@ The location of Agamemnon's murder also varies. Most sources place it at Mycenae
 - **[Iphigenia in Tauris](../sources/euripides-iphigenia-tauris.md)**: Still pursued by Erinyes after matricide; [Apollo](../deities/apollo.md) sends him to steal [Artemis](../deities/artemis.md)'s image from Tauris; suffers madness on shore, seeing Furies as serpents; recounts trial at Areopagus (equal votes, [Athena](../deities/athena.md) broke tie); proves identity to [Iphigenia](iphigenia.md) with golden lamb tapestry and Pelops's spear; escapes with image; [Athena](../deities/athena.md) commands him to enshrine image at Halae in Attica
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Returns to Agamemnon's tomb with Pylades; Apollo's oracle commanded vengeance; interprets Clytemnestra's serpent dream as himself; disguises as Phocian traveler; kills Aegisthus; confronts and kills Clytemnestra; sees the Furies and flees to Delphi
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: Pursued by the Furies; Apollo sends him to Athens; tried at the Areopagus; Apollo defends him; Athena casts deciding vote; acquitted; pledges Argos-Athens alliance
+- **[Euripides' Electra](../sources/euripides-electra.md)**: Arrives incognito with Pylades; recognised by childhood scar (not hair/footprints); kills Aegisthus at a sacrifice — "cleft the cord of brain and spine"; hesitates before matricide — "How if some fiend of Hell, hid in God's likeness, spake that oracle?"; kills Clytemnestra with veiled face; shattered afterward; Castor decrees exile, trial at Areopagus, settlement in Arcadia
 - **[Sophocles' Electra](../sources/sophocles-electra.md)**: Returns with old tutor and Pylades; Apollo's oracle commands vengeance by stealth; false death report used to gain access; shows signet ring in recognition scene; kills Clytemnestra (offstage) then Aegisthus; play ends triumphantly without the Erinyes
 
 [^apd-murder]: "After Agamemnon had returned to Mycenae with Cassandra, he was murdered by Aegisthus and Clytaemnestra; for she gave him a shirt without sleeves and without a neck, and while he was putting it on he was cut down, and Aegisthus reigned over Mycenae. And they killed Cassandra also" (Bibliotheca E.6.23, trans. J.G. Frazer)

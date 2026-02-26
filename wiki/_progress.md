@@ -1144,11 +1144,13 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 6. **Euripides, Heracles** (trans. Michael Wodhull, 1809, Gutenberg #77336) — COMPLETE. Full play read and processed. Source page created. Entity page created: Megara. Entity pages updated: Heracles (siege, labours catalogue, return from underworld, Iris and Lyssa, murders, awakening, Theseus's rescue, theological speech rejecting divine immorality, decision to endure), Theseus (rescued from Hades, friendship speech, offers Athens as refuge), Amphitryon (prologue, archery defence, Heracles calls him "real sire" over Zeus, farewell), Iris (enforcer of Hera's command, overrules Lyssa's protest).
 
+7. **Euripides, Electra** (trans. Gilbert Murray, 1905, Gutenberg #14322) — COMPLETE. Full play read and processed. Source page created. Entity pages updated: Electra (central figure — peasant marriage, subversion of Aeschylean recognition, speech over Aegisthus, driving the matricide, mother's hand on cheek, farewell to Orestes), Orestes (incognito arrival, killing of Aegisthus at sacrifice, hesitation before matricide — "fiend of Hell" question, veiled killing, devastation), Clytemnestra (defence — Iphigenia + Cassandra, admission of unhappiness, final cry), Aegisthus (ominous sacrifice, death by cleaver, mocked by Electra), Helen (phantom Helen tradition — "wraith of Helen, sent by Zeus").
+
 **Later:**
-7. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
-8. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
-9. **More Greek tragedies** — Euripides (Electra, Ion)
-10. **Aeschylus, Persians** — historical rather than mythological, low priority
+8. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
+9. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
+10. **More Greek tragedies** — Euripides (Ion)
+11. **Aeschylus, Persians** — historical rather than mythological, low priority
 
 ### Minor Expansions — COMPLETE
 

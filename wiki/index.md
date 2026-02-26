@@ -2,7 +2,7 @@
 
 A reference wiki for Greek mythology, built by reading through primary sources and extracting information systematically. Every claim is cited to a specific passage in a specific ancient text — no "consensus mythology," just what the sources actually say.
 
-**324 pages** across 8 categories, drawing from **38 primary sources**.
+**325 pages** across 8 categories, drawing from **39 primary sources**.
 
 ---
 
@@ -62,7 +62,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 
 ## Sources
 
-37 processed texts, organized by author.
+38 processed texts, organized by author.
 
 ### Epic Poetry
 
@@ -101,7 +101,7 @@ A reference wiki for Greek mythology, built by reading through primary sources a
 |-----------|-------|
 | **Aeschylus** | [Agamemnon](sources/aeschylus-agamemnon.md) · [Libation-Bearers](sources/aeschylus-libation-bearers.md) · [Eumenides](sources/aeschylus-eumenides.md) · [Prometheus Bound](sources/aeschylus-prometheus-bound.md) · [Seven Against Thebes](sources/aeschylus-seven-against-thebes.md) · [Suppliant Maidens](sources/aeschylus-suppliant-maidens.md) |
 | **Sophocles** | [Oedipus the King](sources/sophocles-oedipus-king.md) · [Oedipus at Colonus](sources/sophocles-oedipus-colonus.md) · [Antigone](sources/sophocles-antigone.md) · [Ajax](sources/sophocles-ajax.md) · [Trachiniae](sources/sophocles-trachiniae.md) · [Electra](sources/sophocles-electra.md) · [Philoctetes](sources/sophocles-philoctetes.md) |
-| **Euripides** | [Medea](sources/euripides-medea.md) · [Hippolytus](sources/euripides-hippolytus.md) · [Alcestis](sources/euripides-alcestis.md) · [Bacchae](sources/euripides-bacchae.md) · [Hecuba](sources/euripides-hecuba.md) · [Heraclidae](sources/euripides-heraclidae.md) · [Orestes](sources/euripides-orestes.md) · [Phoenissae](sources/euripides-phoenissae.md) · [Iphigenia in Aulis](sources/euripides-iphigenia-aulis.md) · [Iphigenia in Tauris](sources/euripides-iphigenia-tauris.md) · [Trojan Women](sources/euripides-trojan-women.md) · [Heracles](sources/euripides-heracles.md) |
+| **Euripides** | [Medea](sources/euripides-medea.md) · [Hippolytus](sources/euripides-hippolytus.md) · [Alcestis](sources/euripides-alcestis.md) · [Bacchae](sources/euripides-bacchae.md) · [Hecuba](sources/euripides-hecuba.md) · [Heraclidae](sources/euripides-heraclidae.md) · [Orestes](sources/euripides-orestes.md) · [Phoenissae](sources/euripides-phoenissae.md) · [Iphigenia in Aulis](sources/euripides-iphigenia-aulis.md) · [Iphigenia in Tauris](sources/euripides-iphigenia-tauris.md) · [Trojan Women](sources/euripides-trojan-women.md) · [Heracles](sources/euripides-heracles.md) · [Electra](sources/euripides-electra.md) |
 
 ---
 
