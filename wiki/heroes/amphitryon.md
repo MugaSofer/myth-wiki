@@ -36,6 +36,20 @@ Amphitryon then raised [Heracles](heracles.md) as his own son: "Alcmena bore two
 
 "Hercules was taught to drive a chariot by Amphitryon, to wrestle by Autolycus, to shoot with the bow by Eurytus, to fence by Castor, and to play the lyre by Linus."[^apd-education] During a conflict with Thebes, "in the fight Amphitryon fell fighting bravely."[^apd-death] After his death, "[Rhadamanthys](rhadamanthys.md), son of Zeus, married Alcmena... and dwelt as an exile at Ocaleae in Boeotia."[^apd-remarriage]
 
+## In Euripides' [Heracles](../sources/euripides-heracles.md)
+
+Amphitryon has a major role in the [Heracles](../sources/euripides-heracles.md). He narrates the prologue, explaining that [Heracles](heracles.md) descended to [Hades](../deities/hades.md) to fetch [Cerberus](../creatures/cerberus.md) and has not returned, while the usurper Lycus threatens to kill the family.
+
+When Lycus contemptuously dismisses Heracles as merely an archer, Amphitryon delivers a passionate defence of archery as the wisest form of warfare: the archer "stands secure from death" and fights at a distance, where "discretion in the battle's chance engagements is the truest valour."[^eur-her-archery]
+
+After Heracles returns and kills Lycus, [Hera](../deities/hera.md) sends madness upon him. Amphitryon watches helplessly as Heracles murders Megara and the children. After [Athena](../deities/athena.md) stops the rampage with a hurled rock, Amphitryon reveals the truth to the awakened Heracles.
+
+The play's emotional core includes a striking moment of paternity: Heracles addresses Amphitryon as his true father over [Zeus](../deities/zeus.md) — "Yet, O let not this offend thine ear, old man, for thee, not Jove, I deem my real sire."[^eur-her-sire] At the end, Heracles bids farewell and asks Amphitryon to bury the children. Amphitryon asks "But who will bury me?" and Heracles promises to return from Athens to fetch him.[^eur-her-farewell]
+
+[^eur-her-archery]: "stands secure from death... discretion in the battle's chance engagements is the truest valour" (Heracles ~195-200, trans. Michael Wodhull)
+[^eur-her-sire]: "Yet, O let not this offend thine ear, old man, for thee, not Jove, I deem my real sire" (Heracles ~1265, trans. Michael Wodhull)
+[^eur-her-farewell]: "My children inter as I directed... But who will bury me?... I'll fetch thee from Thebes to Athens" (Heracles ~1420, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.5: Parentage; becomes guardian of Alcmena and the kingdom
@@ -44,6 +58,7 @@ Amphitryon then raised [Heracles](heracles.md) as his own son: "Alcmena bore two
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.8: Present at the conception of Heracles (unknowingly); married to Alcmena
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.9: Heracles' teacher in chariot-driving
 - **[Bibliotheca](../sources/apollodorus.md)** 2.4.10: Dies fighting for Thebes against Erginus and the Minyans
+- **[Euripides' Heracles](../sources/euripides-heracles.md)**: Major role; narrates prologue; defends archery against Lycus; Heracles calls him "my real sire" over Zeus; watches the murders helplessly; reveals the truth; entrusted with children's burial
 - **[Fabulae](../sources/hyginus.md)** §129: Mentioned in context of Oeneus' hospitality
 
 [^apd-guardianship]: "Amphitryon ransomed them from Polyxenus and brought them to Mycenae. Wishing to avenge his sons' death, Electryon purposed to make war on the Teleboans, but first he committed the kingdom to Amphitryon along with his daughter Alcmena, binding him by oath to keep her a virgin until his return" (Bibliotheca 2.4.5, trans. J.G. Frazer)

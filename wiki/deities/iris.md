@@ -72,6 +72,15 @@ Later in Book IV she acts as [Hera](hera.md)'s messenger, carrying the goddess's
 [^arg-iris-harpies]: "It is not lawful, O sons of Boreas, to strike with your swords the Harpies, the hounds of mighty Zeus; but I myself will give you a pledge, that hereafter they shall not draw near to Phineus" (Argonautica 2.288-294, trans. R.C. Seaton)
 [^arg-iris-messenger]: "Dear Iris, now come, if ever thou hast fulfilled my bidding, hie thee away on light pinions, and bid Thetis arise from the sea and come hither... and tell him to still the blasts of fire until Argo pass by them. Then go to Aeolus too, Aeolus who rules the winds, children of the clear sky; and to him also tell my purpose so that he may make all winds cease under heaven" (Argonautica 4.783-790, trans. R.C. Seaton)
 
+## In Euripides' [Heracles](../sources/euripides-heracles.md)
+
+[Iris](iris.md) appears alongside the goddess Lyssa (Madness, daughter of [Night](night.md)) above [Heracles](../heroes/heracles.md)' palace to execute [Hera](hera.md)'s command. She announces: "Now that the toilsome labours are completed, Jove's wife, majestic Juno, wills that he be stained with kindred blood."[^eur-her-iris-cmd]
+
+When Lyssa protests — calling Heracles a benefactor of gods and men who "hath settled a wild waste of land, and planted society" — Iris is unyielding: "The wife of Jove sent not thee hither to be wise."[^eur-her-iris-wise] This is a notably harsh portrayal of Iris, acting not as a neutral messenger but as an enforcer of divine cruelty.
+
+[^eur-her-iris-cmd]: "Now that the toilsome labours are completed, Jove's wife, majestic Juno, wills that he be stained with kindred blood" (Heracles ~830, trans. Michael Wodhull)
+[^eur-her-iris-wise]: "The wife of Jove sent not thee hither to be wise" (Heracles ~858, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** 2, 4: Stopped the sons of Boreas from killing the Harpies at the Floating Islands; swore by the Styx they would never approach Phineus again; later summoned Thetis, Hephaestus, and Aeolus at Hera's bidding to give the Argo safe passage
@@ -86,4 +95,5 @@ Later in Book IV she acts as [Hera](hera.md)'s messenger, carrying the goddess's
 - **[Iliad](../sources/iliad.md)** XVIII: Sent secretly by Hera ("unknown of Zeus and the other gods, for Hera sent her") to rouse Achilles to save Patroklos's body; "wind-footed fleet Iris"
 - **[Iliad](../sources/iliad.md)** XXIII: Carries Achilles' prayer to the Winds (North and West) to kindle Patroklos's pyre; mentions returning to "the streams of Ocean, to the Ethiopians' land where they sacrifice hecatombs to the immortal gods"
 - **[Iliad](../sources/iliad.md)** XXIV: Two missions — summons Thetis from the sea ("airy-footed Iris"; leaps into the sea "like a weight of lead"); delivers Zeus's message to Priam in Troy
+- **[Euripides' Heracles](../sources/euripides-heracles.md)**: Appears with Lyssa (Madness) to drive Heracles mad at Hera's command; overrules Lyssa's protest — "The wife of Jove sent not thee hither to be wise"; notably harsh portrayal as enforcer of divine cruelty
 - **[Bibliotheca](../sources/apollodorus.md)** 1.2.6: "to Thaumas and Electra were born Iris and the Harpies, Aello and Ocypete" — confirms Theogonic parentage

@@ -1142,11 +1142,13 @@ Source: `sources/aeschylus-four-plays-morshead.txt` (lines ~3526-4982), trans. E
 
 5. **Euripides, Trojan Women** (trans. Gilbert Murray, 1915, Gutenberg #10096) — COMPLETE. Full play read and processed. Source page created. Entity pages created: Astyanax, Polyxena. Entity pages updated: Hecuba (central figure — awakening, lots, Cassandra's madness, Astyanax's death, Helen's trial, lament over Astyanax, Troy's burning), Cassandra (mad bridal scene, prophecy of Agamemnon's death, Troy's dead happier), Andromache (Polyxena's death revealed, virtue speech, farewell to Astyanax), Helen (trial — blames Aphrodite, Hecuba demolishes arguments), Menelaus (claims Helen, resolve wavers).
 
+6. **Euripides, Heracles** (trans. Michael Wodhull, 1809, Gutenberg #77336) — COMPLETE. Full play read and processed. Source page created. Entity page created: Megara. Entity pages updated: Heracles (siege, labours catalogue, return from underworld, Iris and Lyssa, murders, awakening, Theseus's rescue, theological speech rejecting divine immorality, decision to endure), Theseus (rescued from Hades, friendship speech, offers Athens as refuge), Amphitryon (prologue, archery defence, Heracles calls him "real sire" over Zeus, farewell), Iris (enforcer of Hera's command, overrules Lyssa's protest).
+
 **Later:**
-6. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
-7. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
-8. **More Greek tragedies** — Euripides (Heracles, Electra, Ion)
-9. **Aeschylus, Persians** — historical rather than mythological, low priority
+7. **Pausanias, Description of Greece** (A.R. Shilleto, Gutenberg #68946 + #68680) — Enormous but richest remaining source. Local myths, variant traditions, cult sites, temple descriptions. Best tackled book by book.
+8. **Nonnus, Dionysiaca** — 48 books. The fullest account of Dionysus's life, packed with obscure myths and variant traditions. A major undertaking.
+9. **More Greek tragedies** — Euripides (Electra, Ion)
+10. **Aeschylus, Persians** — historical rather than mythological, low priority
 
 ### Minor Expansions — COMPLETE
 

@@ -643,6 +643,74 @@ Heracles succeeds and returns with the veiled Alcestis. He tells Admetus: "Havin
 [^eur-alc-ambush]: "going I will lay wait for the sable-vested king of the departed, Death, and I think that I shall find him drinking of the libations near the tomb. And if having taken him by lying in wait, rushing from my ambush, I shall seize hold of him, and make a circle around him with mine arms, there is not who shall take him away panting as to his sides, until he release me the woman" (Alcestis 845-852)
 [^eur-alc-victory]: "Having fought a battle with the prince of those beneath... At the tomb itself, having seized him from ambush with my hands" (Alcestis 1140-1142)
 
+## In Euripides' [Heracles](../sources/euripides-heracles.md)
+
+### The Siege
+
+In the [Heracles](../sources/euripides-heracles.md), Heracles has descended to [Hades](../deities/hades.md) to fetch [Cerberus](../creatures/cerberus.md) as his final labour. In his absence, the usurper Lycus has killed Creon and seized [Thebes](../places/thebes.md). [Amphitryon](amphitryon.md) explains that Lycus now threatens to kill Heracles' wife Megara, their children, and Amphitryon himself — "for they must die, whose sire with unavailing glory was renowned."[^eur-her-siege]
+
+Lycus contemptuously dismisses Heracles as merely an archer — a man who "never bore a buckler on his arm" — and mocks the labours as exaggerated: "with beasts he combat held, and in all else was abject."[^eur-her-lycus] [Amphitryon](amphitryon.md) delivers a passionate defence of archery as the wisest form of warfare: the archer "stands secure from death" and fights at a distance, where "discretion in the battle's chance engagements is the truest valour."[^eur-her-archery]
+
+### The Labours (Choral Catalogue)
+
+The Chorus catalogues Heracles' labours in song: the "tawny lion" of Nemea, whose skin he wore; the Centaurs, "that wild, that lawless race;" the golden-horned hind; the man-eating horses of Diomedes; Cycnus on the shore; the Hesperides and "the golden fruit beneath the leaves;" the Amazon's belt; the Hydra, "that monster multiplying many a head;" and the three-bodied Geryon.[^eur-her-labours]
+
+### Return from the Underworld
+
+Heracles returns alive from Hades. He confirms that he brought Cerberus up and also rescued [Theseus](theseus.md): "Theseus I led forth, saved by my arm, from the infernal regions."[^eur-her-theseus] Learning of Lycus's threats, he kills the usurper offstage.
+
+### Iris and Lyssa
+
+At the height of celebration, [Iris](../deities/iris.md) and Lyssa (Madness, daughter of [Night](../deities/night.md)) appear above the palace. Iris announces that [Hera](../deities/hera.md) commands Heracles be driven mad: "Now that the toilsome labours are completed, Jove's wife, majestic Juno, wills that he be stained with kindred blood."[^eur-her-iris]
+
+Lyssa herself protests the order, calling Heracles a benefactor of both gods and men: "This man, whose house I am sent to enter, is not without his fame on earth, or 'mongst the gods; for he hath settled a wild waste of land, and planted society; and the beasts that savaged men, he hath destroyed."[^eur-her-lyssa] She urges Iris to reconsider, but Iris insists: "The wife of Jove sent not thee hither to be wise."[^eur-her-iris-insist] Lyssa reluctantly obeys: "The sun I call to witness — what I do, I do against my will."[^eur-her-unwilling]
+
+### The Murders
+
+A Messenger describes the madness. At the altar where Heracles was purifying himself after killing Lycus, he went suddenly still, his eyes rolling and bloodshot. He believed he was journeying to Mycenae to attack [Eurystheus](eurystheus.md). He "mounted a chariot, where no chariot was, and used his hand as though he had a goad."[^eur-her-phantom] He killed his first son with an arrow, the second he struck down with his club, and the third he shot through his wife Megara as she tried to shield the child: "the bolt impelled through both, laid dead at once the mother and the child."[^eur-her-murders]
+
+He would have killed [Amphitryon](amphitryon.md) too, but [Athena](../deities/athena.md) intervened — she "hurled a rock against the breast of Hercules, and checked him from his murderous rage," knocking him unconscious against a pillar.[^eur-her-athena]
+
+### Awakening and Despair
+
+Heracles awakens bound to the pillar, surrounded by the bodies. When [Amphitryon](amphitryon.md) reveals what happened, Heracles is overwhelmed with horror. He contemplates suicide: "In death will I return to those abodes beneath, whence late I came."[^eur-her-death]
+
+He recounts the arc of his suffering — born to Hera's hatred ("Jove's wife by stealth sent snakes into my cradle to destroy me"), enduring labours beyond measure ("what lions, what typhons with a triple form, what giants, or what four-footed centaurs... by this arm were slain?"), and now this final atrocity. He imagines himself an outcast from every city: "Is not this he, the son of Jove, who murdered his children and his consort?"[^eur-her-outcast] He compares himself to Ixion chained to the wheel, and rails against Hera: "Who can pray to such a goddess, who, with envy stung, because Jove loved a woman, hath destroyed the benefactors of the Grecian realm?"[^eur-her-hera]
+
+### Theseus and the Rejection of Myth
+
+[Theseus](theseus.md) arrives with an Athenian army, having come to repay his debt — Heracles rescued him from [Hades](../deities/hades.md). When Heracles hides his face in shame and warns Theseus away as polluted, Theseus refuses: "To a friend no mischief from his friend can be transmitted."[^eur-her-friend] He insists on the obligations of friendship: "I abhor th' attachment of those friends which time impairs, him too who would enjoy their better fortunes, but refuse to sail in the same bark with those who prove unblest."[^eur-her-bark]
+
+Theseus argues that even the gods have sinned — they formed lawless marriages and bound their fathers in chains — yet dwell in heaven still. Heracles delivers a famous theological reply: "I suppose not that the gods delight in lawless nuptials, that their hands are bound with galling chains, nor did I e'er believe, nor can I be convinced, that one bears rule over another. For a deity if he be truly such, can stand in need of no support. But by some lying bard those miserable fables were devised."[^eur-her-theology]
+
+### The Decision to Endure
+
+Despite this, Heracles decides to endure: "he who bears not up 'gainst adverse fortune, never can withstand the weapon of his foe. I am resolved to wait for death with firmness."[^eur-her-endure] He debates whether to keep or discard his weapons — they seem to reproach him ("With us thy consort and thy children hast thou slain") — but decides he must keep them, "though sorrowing."[^eur-her-weapons]
+
+He bids farewell to Amphitryon, asking him to bury the children, and departs for Athens with Theseus: "Towed like a battered skiff. Whoe'er prefers wealth or dominion to a steadfast friend, judges amiss."[^eur-her-skiff]
+
+[^eur-her-siege]: "for they must die, whose sire with unavailing glory was renowned" (Heracles ~40, trans. Michael Wodhull)
+[^eur-her-lycus]: "he never bore a buckler on his arm, nor came within the spear's reach, but still held the bow, a coward's weapon, and in flight was prompt" (Heracles ~160, trans. Michael Wodhull)
+[^eur-her-archery]: "stands secure from death... discretion in the battle's chance engagements is the truest valour" (Heracles ~195-200, trans. Michael Wodhull)
+[^eur-her-labours]: "the tawny lion... that wild, that lawless race... the golden-horned hind... that monster multiplying many a head" (Heracles ~348-435, trans. Michael Wodhull)
+[^eur-her-theseus]: "Theseus I led forth, saved by my arm, from the infernal regions" (Heracles ~620, trans. Michael Wodhull)
+[^eur-her-iris]: "Now that the toilsome labours are completed, Jove's wife, majestic Juno, wills that he be stained with kindred blood" (Heracles ~830, trans. Michael Wodhull)
+[^eur-her-lyssa]: "This man, whose house I am sent to enter, is not without his fame on earth, or 'mongst the gods; for he hath settled a wild waste of land, and planted society; and the beasts that savaged men, he hath destroyed" (Heracles ~850, trans. Michael Wodhull)
+[^eur-her-iris-insist]: "The wife of Jove sent not thee hither to be wise" (Heracles ~858, trans. Michael Wodhull)
+[^eur-her-unwilling]: "The sun I call to witness — what I do, I do against my will" (Heracles ~860, trans. Michael Wodhull)
+[^eur-her-phantom]: "mounted a chariot, where no chariot was, and used his hand as though he had a goad" (Heracles ~945, trans. Michael Wodhull)
+[^eur-her-murders]: "the bolt impelled through both, laid dead at once the mother and the child" (Heracles ~1000, trans. Michael Wodhull)
+[^eur-her-athena]: "hurled a rock against the breast of Hercules, and checked him from his murderous rage" (Heracles ~1005, trans. Michael Wodhull)
+[^eur-her-death]: "In death will I return to those abodes beneath, whence late I came" (Heracles ~1247, trans. Michael Wodhull)
+[^eur-her-outcast]: "Is not this he, the son of Jove, who murdered his children and his consort? from this land shall not th' accursed miscreant be expelled?" (Heracles ~1290, trans. Michael Wodhull)
+[^eur-her-hera]: "Who can pray to such a goddess, who, with envy stung, because Jove loved a woman, hath destroyed the benefactors of the Grecian realm, those blameless objects of her hate?" (Heracles ~1310, trans. Michael Wodhull)
+[^eur-her-friend]: "To a friend no mischief from his friend can be transmitted" (Heracles ~1235, trans. Michael Wodhull)
+[^eur-her-bark]: "I abhor th' attachment of those friends which time impairs, him too who would enjoy their better fortunes, but refuse to sail in the same bark with those who prove unblest" (Heracles ~1222, trans. Michael Wodhull)
+[^eur-her-theology]: "I suppose not that the gods delight in lawless nuptials, that their hands are bound with galling chains, nor did I e'er believe, nor can I be convinced, that one bears rule over another. For a deity if he be truly such, can stand in need of no support. But by some lying bard those miserable fables were devised" (Heracles ~1340-1346, trans. Michael Wodhull)
+[^eur-her-endure]: "he who bears not up 'gainst adverse fortune, never can withstand the weapon of his foe. I am resolved to wait for death with firmness" (Heracles ~1350, trans. Michael Wodhull)
+[^eur-her-weapons]: "With us thy consort and thy children hast thou slain, yet thou the very instruments preserv'st which were their murderers" (Heracles ~1380, trans. Michael Wodhull)
+[^eur-her-skiff]: "Towed like a battered skiff. Whoe'er prefers wealth or dominion to a steadfast friend, judges amiss" (Heracles ~1424-1426, trans. Michael Wodhull)
+
 ## In Sophocles' [Trachiniae](../sources/sophocles-trachiniae.md)
 
 ### The Death of Heracles
@@ -689,6 +757,7 @@ Heracles appears as deus ex machina at the play's climax. When [Philoctetes](phi
 
 - **[Sophocles, Philoctetes](../sources/sophocles-philoctetes.md)**: Deus ex machina; descends from heaven to command [Philoctetes](philoctetes.md) to go to Troy; promises healing, glory, and victory; "like twin lions hunting the same hill"; warns of piety
 - **[Sophocles, Trachiniae](../sources/sophocles-trachiniae.md)**: Poisoned by Nessus's blood on the robe; agony at Cape Cenaeum; kills Lichas; carried to Trachis; catalogues labours (lion, Hydra, centaurs, boar, Cerberus, dragon); "a soft woman... hath conquered me"; recognises fulfilment of two prophecies (Zeus, Dodona); commands pyre on Oeta and Hyllus's marriage to Iole
+- **[Euripides' Heracles](../sources/euripides-heracles.md)**: Returns from Hades with Cerberus, rescues Theseus; kills usurper Lycus; Hera sends Iris and Lyssa (Madness) — Lyssa protests, calls him benefactor of gods and men; driven mad, kills Megara and three sons; Athena stops him with a rock; awakens to horror; Theseus persuades him to endure; rejects myths of divine immorality — "by some lying bard those miserable fables were devised"; departs for Athens "towed like a battered skiff"
 - **[Euripides' Alcestis](../sources/euripides-alcestis.md)** 476-567, 747-860, 1006-1163: En route to capture Diomedes' horses; "son of Alcmena"; fearless against Mars's children (Lycaon, Cycnus); hosted by Admetus in mourning; learns truth from servant; ambushes Death at the tomb; wrestles him and forces release of Alcestis; "Having fought a battle with the prince of those beneath"
 - **[Metamorphoses](../sources/metamorphoses.md)** 9.1-272: Wrestles Achelous; origin of Cornucopia; Nessus's poisoned tunic; agonizing death; lists his labours; builds pyre on Oeta; apotheosis among the stars
 - **[Homeric Hymn XV](../sources/homeric-hymns.md)**: "Son of Zeus and much the mightiest of men on earth"; born in Thebes of Alcmena; "wandered over unmeasured tracts of land and sea at the bidding of King Eurystheus"; now on Olympus with "neat-ankled Hebe for his wife"

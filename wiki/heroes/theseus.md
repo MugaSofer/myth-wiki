@@ -137,6 +137,19 @@ A Messenger reports how, on the shore, "a vast wave pillared in heaven" rose fro
 [^eur-hip-bitter]: "Oh! the bitter gifts of thy father Neptune!" (Hippolytus 1411)
 [^eur-hip-forgive]: "I give up all enmity against my father at thy request" (Hippolytus 1442)
 
+## In Euripides' [Heracles](../sources/euripides-heracles.md)
+
+Theseus plays a crucial role in the play's finale. Earlier, [Heracles](heracles.md) confirms he rescued Theseus from [Hades](../deities/hades.md) during his descent for [Cerberus](../creatures/cerberus.md): "Theseus I led forth, saved by my arm, from the infernal regions."[^eur-her-rescue]
+
+After Heracles kills his family in a [Hera](../deities/hera.md)-sent madness, Theseus arrives with an Athenian army to repay the debt. When Heracles hides his face in shame and warns Theseus away as polluted, Theseus refuses: "To a friend no mischief from his friend can be transmitted."[^eur-her-friend] He declares that true friendship endures misfortune: "I abhor th' attachment of those friends which time impairs, him too who would enjoy their better fortunes, but refuse to sail in the same bark with those who prove unblest."[^eur-her-bark]
+
+He offers Heracles refuge in Athens — a palace, shared wealth, lands named in his honour, and cult honors after death. He argues that even the gods have sinned and yet endure, but Heracles rejects this theology entirely. When Heracles decides to live, Theseus leads him away: "Fling round my neck thine arm: I'll lead the way." Heracles responds: "Of my sons bereft, in you the likeness of a son I find."[^eur-her-son]
+
+[^eur-her-rescue]: "Theseus I led forth, saved by my arm, from the infernal regions" (Heracles ~620, trans. Michael Wodhull)
+[^eur-her-friend]: "To a friend no mischief from his friend can be transmitted" (Heracles ~1235, trans. Michael Wodhull)
+[^eur-her-bark]: "I abhor th' attachment of those friends which time impairs, him too who would enjoy their better fortunes, but refuse to sail in the same bark with those who prove unblest" (Heracles ~1222, trans. Michael Wodhull)
+[^eur-her-son]: "Of my sons bereft, in you the likeness of a son I find" (Heracles ~1400, trans. Michael Wodhull)
+
 ## In the [Metamorphoses](../sources/metamorphoses.md)
 
 ### Medea's Attempted Poisoning (7.404-424)
@@ -211,5 +224,6 @@ In the play's climax, Theseus is the sole witness to Oedipus's mysterious death.
 - **[Fabulae](../sources/hyginus.md)** §42: Ariadne loved him, betrayed her brother (Minotaur), showed way out of Labyrinth; Theseus killed Minotaur, escaped by thread; took Ariadne to marry her
 - **[Fabulae](../sources/hyginus.md)** §43: Detained by storm on Dia; thought it reproach to bring Ariadne to Athens, left her asleep; Dionysus took her as wife; Theseus forgot black sails; Aegeus threw himself into sea (called Aegean); married Phaedra
 - **[Euripides' Hippolytus](../sources/euripides-hippolytus.md)** 44-46, 887-890, 1283-1466: "Father Neptune" — Poseidon granted him three curses; invokes one to destroy Hippolytus after Phaedra's false accusation; Poseidon sends a monstrous sea-bull; Hippolytus dragged to death; Artemis reveals the truth; Hippolytus forgives him
+- **[Euripides' Heracles](../sources/euripides-heracles.md)**: Rescued by Heracles from Hades; arrives with army to repay debt; insists on friendship despite pollution — "refuse to sail in the same bark with those who prove unblest"; offers Athens as refuge with lands and cult honors; leads Heracles away — "Of my sons bereft, in you the likeness of a son I find"
 - **[Oedipus at Colonus](../sources/sophocles-oedipus-colonus.md)**: Offers refuge to Oedipus; rescues Antigone and Ismene from Creon; sole witness to Oedipus's mysterious death; guardian of the secret grave
 - **[Metamorphoses](../sources/metamorphoses.md)** 7.404-452: Medea brewed aconite poison (from Cerberus's froth); Aegeus offered it to Theseus unknowing; recognized ivory-hilted sword; struck cup away; Medea escaped in whirlwind; Athenians sang catalogue of his deeds (Cretan bull, Periphetes, Procrustes, Cercyon, Sinis, Sciron)
