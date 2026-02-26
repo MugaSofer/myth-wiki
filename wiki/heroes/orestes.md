@@ -166,6 +166,12 @@ Orestes and Pylades enter the palace and kill [Clytemnestra](clytemnestra.md) fi
 
 The play ends triumphantly, without the arrival of the Erinyes. Orestes' final words are: "If Apollo spake rightfully, the state within is well."[^soph-el-apollo] No Furies pursue him.
 
+## In Euripides' [Andromache](../sources/euripides-andromache.md)
+
+In the *Andromache*, Orestes arrives after [Menelaus](menelaus.md) has abandoned [Hermione](hermione.md). He reveals he was betrothed to Hermione before Menelaus gave her to [Neoptolemus](neoptolemus.md) as a war-prize. He has already arranged Neoptolemus's murder at [Delphi](../places/delphi.md): confederates are stationed there to ambush him, and Orestes has incited the Delphian citizens by whispering that Neoptolemus has come to plunder [Apollo](../deities/apollo.md)'s temple.[^eur-andr-or-plot] He takes Hermione away with him.
+
+[^eur-andr-or-plot]: Andromache. Orestes reveals the prior betrothal, his conspiracy at Delphi, and takes Hermione (trans. Michael Wodhull)
+
 ## In Euripides' [Electra](../sources/euripides-electra.md)
 
 In Euripides' [Electra](../sources/euripides-electra.md), Orestes arrives incognito with [Pylades](pylades.md) in the Argive mountains, fresh from purification at [Apollo](../deities/apollo.md)'s shrine. He tests [Electra](electra.md) without revealing himself, learning of her degraded marriage and burning hatred. He is recognised not by matching hair or footprints (which Electra dismisses) but by a childhood scar on his brow.
@@ -213,6 +219,7 @@ The location of Agamemnon's murder also varies. Most sources place it at Mycenae
 - **[Iphigenia in Tauris](../sources/euripides-iphigenia-tauris.md)**: Still pursued by Erinyes after matricide; [Apollo](../deities/apollo.md) sends him to steal [Artemis](../deities/artemis.md)'s image from Tauris; suffers madness on shore, seeing Furies as serpents; recounts trial at Areopagus (equal votes, [Athena](../deities/athena.md) broke tie); proves identity to [Iphigenia](iphigenia.md) with golden lamb tapestry and Pelops's spear; escapes with image; [Athena](../deities/athena.md) commands him to enshrine image at Halae in Attica
 - **[Libation-Bearers](../sources/aeschylus-libation-bearers.md)**: Returns to Agamemnon's tomb with Pylades; Apollo's oracle commanded vengeance; interprets Clytemnestra's serpent dream as himself; disguises as Phocian traveler; kills Aegisthus; confronts and kills Clytemnestra; sees the Furies and flees to Delphi
 - **[Eumenides](../sources/aeschylus-eumenides.md)**: Pursued by the Furies; Apollo sends him to Athens; tried at the Areopagus; Apollo defends him; Athena casts deciding vote; acquitted; pledges Argos-Athens alliance
+- **[Andromache](../sources/euripides-andromache.md)**: Arrives after [Menelaus](menelaus.md) abandons [Hermione](hermione.md); reveals prior betrothal; has arranged [Neoptolemus](neoptolemus.md)'s murder at [Delphi](../places/delphi.md) by inciting the Delphians; takes Hermione away
 - **[Euripides' Electra](../sources/euripides-electra.md)**: Arrives incognito with Pylades; recognised by childhood scar (not hair/footprints); kills Aegisthus at a sacrifice — "cleft the cord of brain and spine"; hesitates before matricide — "How if some fiend of Hell, hid in God's likeness, spake that oracle?"; kills Clytemnestra with veiled face; shattered afterward; Castor decrees exile, trial at Areopagus, settlement in Arcadia
 - **[Sophocles' Electra](../sources/sophocles-electra.md)**: Returns with old tutor and Pylades; Apollo's oracle commands vengeance by stealth; false death report used to gain access; shows signet ring in recognition scene; kills Clytemnestra (offstage) then Aegisthus; play ends triumphantly without the Erinyes
 

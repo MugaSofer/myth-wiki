@@ -280,6 +280,16 @@ During the sack of Troy, when the Greek fleet sailed from Tenedos to Troy's shor
 
 [^post13-fleet]: "Thetis made their paths straight, and behind them sent a driving wind speeding them, and the hearts Achaean glowed" (Posthomerica 13.9452-9454, trans. A.S. Way)
 
+## In Euripides' [Andromache](../sources/euripides-andromache.md)
+
+Thetis appears as deus ex machina at the end of the play. She commands that [Neoptolemus](../heroes/neoptolemus.md) be buried at [Delphi](../places/delphi.md), "so shall his tomb declare the murderous violence [Orestes](../heroes/orestes.md)' band committed."[^eur-andr-th-burial] She prophesies that [Andromache](../heroes/andromache.md) must marry [Helenus](../heroes/helenus.md) and settle in Molossia, where Molossus will found a dynasty: "from him in long succession shall a race of happy kings Molossia's sceptre wield."[^eur-andr-th-molossus]
+
+She promises [Peleus](../heroes/peleus.md) immortality: she will make him a god and take him to [Nereus](nereus.md)'s underwater palace, where he will see [Achilles](../heroes/achilles.md) "inhabiting that isle whose chalky coasts are laved by the surrounding Euxine deep" — the White Island, Leuke.[^eur-andr-th-peleus]
+
+[^eur-andr-th-burial]: "so shall his tomb declare the murderous violence Orestes' band committed" (Andromache, trans. Michael Wodhull)
+[^eur-andr-th-molossus]: "from him in long succession shall a race of happy kings Molossia's sceptre wield" (Andromache, trans. Michael Wodhull)
+[^eur-andr-th-peleus]: "inhabiting that isle whose chalky coasts are laved by the surrounding Euxine deep" (Andromache, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** 4: Summoned by Iris at Hera's bidding; backstory — Zeus desired her but Themis prophesied her son would be mightier; Hera arranged the wedding and raised the bridal torch; Thetis tried to make Achilles immortal by fire and ambrosia; Peleus interrupted; she left in fury; guided the Argo past the Wandering Rocks, setting her hand to the rudder; Nereids passed the ship through "like a ball"
@@ -310,6 +320,7 @@ During the sack of Troy, when the Greek fleet sailed from Tenedos to Troy's shor
 - **[Posthomerica](../sources/posthomerica.md)** IV: Arrives from the sea to set out funeral games prizes; rewards Nestor for his song praising her beauty and the Peleus bridal; distributes prizes throughout the games; "his stately height called to her mind her dear son, and she sighed"
 - **[Posthomerica](../sources/posthomerica.md)** VII: Rejoices with the Nereids at the departure of Neoptolemus from Scyros
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Speeds the Greek fleet from Tenedos to Troy during the sack
+- **[Andromache](../sources/euripides-andromache.md)**: Deus ex machina; commands [Neoptolemus](../heroes/neoptolemus.md)'s burial at Delphi; prophesies [Andromache](../heroes/andromache.md)'s marriage to [Helenus](../heroes/helenus.md) and the Molossian dynasty; promises [Peleus](../heroes/peleus.md) immortality in [Nereus](nereus.md)'s palace; [Achilles](../heroes/achilles.md) on the White Island in the Euxine Sea
 
 [^apd-wandering]: "Thetis with the Nereids steered the ship through them at the summons of Hera" (Bibliotheca 1.9.25, trans. Frazer)
 [^hyg-54-prophecy]: "A prediction about Thetis, the Nereid, was that her son would be greater than his father" (Fabulae §54, trans. Mary Grant)

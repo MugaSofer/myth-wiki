@@ -209,11 +209,26 @@ Neoptolemus's realm in Epirus, where "his race held this state continually," gav
 
 In Olympian VIII, Apollo prophesied that Troy would fall "with the first and fourth" of [Aeacus](aeacus.md)'s line — Telamon with [Heracles](heracles.md), and Neoptolemus in the Wooden Horse.[^pin-ol8]
 
+## In Euripides' [Andromache](../sources/euripides-andromache.md)
+
+### Death at Delphi
+
+In the *Andromache*, Neoptolemus is absent throughout the play, having gone to [Delphi](../places/delphi.md) to atone for previously demanding [Apollo](../deities/apollo.md) compensate him for [Achilles](achilles.md)' death. [Orestes](orestes.md) has arranged his murder there: confederates are stationed at Delphi to ambush him with the help of the Delphian citizens, whom Orestes has incited by whispering that Neoptolemus has come to plunder Apollo's temple.[^eur-andr-neopt-plot]
+
+A Messenger describes the killing. Neoptolemus stood at the altar offering prayers and sacrifices when armed men hidden behind the laurels attacked him. He snatched arms from the temple wall and fought spectacularly — driving his attackers like doves — but a voice from the inner sanctuary rallied them. He was struck through the flank and overwhelmed, his body disfigured with countless wounds and cast from the temple.[^eur-andr-neopt-death]
+
+[Thetis](../deities/thetis.md) commands that Neoptolemus be buried at Delphi, "so shall his tomb declare the murderous violence Orestes' band committed."[^eur-andr-neopt-burial]
+
+[^eur-andr-neopt-plot]: Andromache. Orestes reveals he has arranged Neoptolemus's murder by inciting the Delphians to believe Neoptolemus has come to plunder Apollo's temple (trans. Michael Wodhull)
+[^eur-andr-neopt-death]: Andromache. Messenger speech: Neoptolemus fought from the temple wall like a hero, driving his attackers like doves, but was overwhelmed after a voice from the inner sanctuary rallied the ambushers (trans. Michael Wodhull)
+[^eur-andr-neopt-burial]: "so shall his tomb declare the murderous violence Orestes' band committed" (Andromache, trans. Michael Wodhull)
+
 ## Variant Traditions
 
 The sources agree on Neoptolemus's ferocity at Troy but differ on his fate and character:
 
 **Death at Delphi.** The circumstances vary across sources:
+- **Euripides** (*Andromache*): Murdered at the altar during a conspiracy arranged by [Orestes](orestes.md); Delphians incited by false claims he came to plunder the temple; fought spectacularly before being overwhelmed; [Thetis](../deities/thetis.md) commands burial at Delphi.
 - **Pindar** (Nemean VII): Killed "in quarrel concerning meats" by "a man" with a knife; his death was fated so that an Aiakid prince would preside over the sanctuary forever.
 - **[Apollodorus](../sources/apollodorus.md)** (E.6.14): Slain by [Orestes](orestes.md) in revenge for carrying off [Hermione](hermione.md). Alternatively, killed by the Phocian Machaereus after rifling votive offerings and burning the temple.
 - **[Hyginus](../sources/hyginus.md)** (§123): Slain by Orestes "as he was sacrificing to Delphi" over the Hermione dispute. His bones were scattered through Ambracia.
@@ -249,6 +264,7 @@ The sources agree on Neoptolemus's ferocity at Troy but differ on his fate and c
 - **[Fabulae](../sources/hyginus.md)** §112-114: Kills Eurypylus and Priam; 6 total kills
 - **[Fabulae](../sources/hyginus.md)** §123: Begat Amphialus on Andromache; claimed Hermione; killed by Orestes at Delphi; bones scattered in Ambracia
 - **[Fabulae](../sources/hyginus.md)** §193: Attacked Harpalycus on return from Troy; repelled by Harpalyce
+- **[Andromache](../sources/euripides-andromache.md)**: Absent throughout (at [Delphi](../places/delphi.md) atoning for demanding Apollo compensate him for [Achilles](achilles.md)' death); murdered at the altar by conspirators arranged by [Orestes](orestes.md); fought spectacularly before being overwhelmed; [Thetis](../deities/thetis.md) commands burial at Delphi
 - **[Pindar](../sources/pindar.md)**, Olympian VIII: Prophesied as fourth-generation Aiakid to take Troy (in Wooden Horse)
 - **[Pindar](../sources/pindar.md)**, Nemean V: Placed in "wide Epeiros" among Aiakid domains
 - **[Pindar](../sources/pindar.md)**, Nemean VII: Sacked Troy; ruled Molossia briefly; killed at Delphi "in quarrel concerning meats"; ordained to preside over Delphic games; Pindar defends his own treatment of the hero

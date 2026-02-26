@@ -117,6 +117,15 @@ Together with Helen, Menelaus devises a plan to escape Theoclymenus. Disguised a
 [^eur-hel-men-prayer]: "O Neptune, who in the ocean dwell'st, and ye chaste daughters of Nereus, to the Nauplian shore convey me and my consort, from this hostile land, in safety" (Helen ~3697-3700, trans. Michael Wodhull)
 [^eur-hel-men-blessed]: "the wanderer Menelaus shall reside among the happy islands. For the gods to those of nobler minds no hatred bear" (Helen ~3867-3870, trans. Michael Wodhull)
 
+## In Euripides' [Andromache](../sources/euripides-andromache.md)
+
+Menelaus arrives to support his daughter [Hermione](hermione.md) against [Andromache](andromache.md). He brings the captured Molossus — Andromache's son by [Neoptolemus](neoptolemus.md) — and forces Andromache to choose: die herself and save the child, or watch him killed. When Andromache leaves the altar to save her son, Menelaus immediately betrays the agreement: "I proposed to slay your son, that you might leave that hallowed altar of Thetis, and thus craftily induced you to fall into my hands."[^eur-andr-men-betray]
+
+[Peleus](peleus.md) arrives and delivers a devastating speech attacking Menelaus: Spartan women run around with bare legs and loose clothing wrestling with young men, so it is no wonder they prove unchaste; [Helen](helen.md) was worthless and Menelaus should have abandoned her rather than waging war; Menelaus came home from [Troy](../places/troy.md) unwounded while real heroes died; Menelaus sacrificed [Iphigenia](iphigenia.md) out of fear of losing Helen; and when he finally had Helen in his power after the sack, he saw her breast and dropped his sword.[^eur-andr-men-peleus] Menelaus retreats, claiming a war in Sparta demands his return.
+
+[^eur-andr-men-betray]: "I proposed to slay your son, that you might leave that hallowed altar of Thetis, and thus craftily induced you to fall into my hands" (Andromache, trans. Michael Wodhull)
+[^eur-andr-men-peleus]: Andromache. Peleus attacks Menelaus on multiple fronts: Spartan customs, Helen's worthlessness, his cowardice, his sacrifice of Iphigenia, and his inability to kill Helen when he saw her breast (trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Iliad](../sources/iliad.md)** III: Single combat with Paris; nearly kills him; [Aphrodite](../deities/aphrodite.md) rescues Paris
@@ -140,6 +149,7 @@ Together with Helen, Menelaus devises a plan to escape Theoclymenus. Disguised a
 - **[Posthomerica](../sources/posthomerica.md)** XII: Enters the Wooden Horse (second after [Neoptolemus](neoptolemus.md))
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Kills [Deiphobus](deiphobus.md) in [Helen](helen.md)'s chamber; invokes [Themis](../deities/themis.md)'s justice; "maddened was his soul with jealousy"
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Leads Helen from the burning city; reconciled that night; "as a vine and ivy entwine their stems"
+- **[Andromache](../sources/euripides-andromache.md)**: Supports [Hermione](hermione.md) against [Andromache](andromache.md); captures Molossus; betrays his deal to spare the child; attacked by [Peleus](peleus.md) in a famous speech denouncing Spartan customs, his cowardice, and his sacrifice of [Iphigenia](iphigenia.md); retreats claiming a war in Sparta
 - **[Euripides' Helen](../sources/euripides-helen.md)**: Shipwrecked in Egypt in rags; left the phantom Helen in a cave; turned away at the palace gate; encounters the real Helen but refuses to believe until the phantom dissolves; devises escape with Helen; kills the bull, signals attack, seizes rudder; promised the Islands of the Blessed by the [Dioscuri](dioscuri.md)
 - **[Sophocles, Ajax](../sources/sophocles-ajax.md)**: Forbids [Ajax](ajax.md)'s burial, declaring him an insubordinate enemy who deserves to lie unburied; [Teucer](teucer.md) defies him, arguing Ajax came to Troy as a free commander; ultimately overruled when [Odysseus](odysseus.md) argues for burial
 - **[Trojan Women](../sources/euripides-trojan-women.md)**: Arrives "a prey to violent and conflicting emotions"; claims army has given [Helen](helen.md) to him to kill or keep; presides over Helen's trial with [Hecuba](hecuba.md) prosecuting; declares Helen's guilt but puts her on a separate ship rather than killing her; Hecuba warns "a lover once, will alway love again"

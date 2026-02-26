@@ -126,6 +126,28 @@ Andromache's farewell to her son is the emotional centrepiece of the scene. She 
 [^tw-sentence]: "That the son / Of one so perilous be not fostered on / To manhood — / ... But from this crested wall / Of Troy be dashed, and die" (Trojan Women, trans. Gilbert Murray)
 [^tw-farewell]: "Go, die, my best-beloved, my cherished one, / In fierce men's hands, leaving me here alone. / Thy father was too valiant; that is why / They slay thee! Other children, like to die, / Might have been spared for that. But on thy head / His good is turned to evil" (Trojan Women, trans. Gilbert Murray)
 
+## In Euripides' [Andromache](../sources/euripides-andromache.md)
+
+### Persecution by Hermione
+
+In the *Andromache*, set after the [Trojan War](../events/trojan-war.md), Andromache is [Neoptolemus](neoptolemus.md)'s concubine and has borne him a son, Molossus. [Neoptolemus](neoptolemus.md) is absent, having gone to [Delphi](../places/delphi.md) to atone for previously demanding [Apollo](../deities/apollo.md) compensate him for [Achilles](achilles.md)' death. In his absence, [Hermione](hermione.md) — Neoptolemus's barren wife — persecutes Andromache, accusing her of using drugs to cause barrenness: "thy drugs have made me odious."[^eur-andr-drugs] She insults Andromache for sleeping with the son of her husband's killer: "thou dar'st to sleep e'en with the son of him who slew thy husband."[^eur-andr-insult]
+
+Andromache has taken sanctuary at [Thetis](../deities/thetis.md)'s temple, having secretly sent Molossus away and dispatched messengers to [Peleus](peleus.md) for help. She responds to Hermione with dignity, arguing that Hermione's barrenness comes from her own character, not magic: "Not beauty, but the virtues, O woman, to the partners of our bed afford delight."[^eur-andr-virtue]
+
+### Menelaus's Coercion
+
+[Menelaus](menelaus.md) arrives with the captured Molossus and forces Andromache to choose: die herself and save the child, or watch him killed. Andromache delivers a scathing speech denouncing Menelaus's fame as hollow — he destroyed [Troy](../places/troy.md) over a worthless woman, yet bullies a helpless captive. She leaves the altar to save her son, but Menelaus immediately betrays the deal, declaring he will kill both.[^eur-andr-betray]
+
+### Rescue and Prophecy
+
+[Peleus](peleus.md) arrives and rescues Andromache and Molossus. At the play's end, [Thetis](../deities/thetis.md) appears as deus ex machina and prophesies Andromache's future: she must marry [Helenus](helenus.md) and settle in Molossia, where Molossus will found a dynasty: "from him in long succession shall a race of happy kings Molossia's sceptre wield."[^eur-andr-prophecy]
+
+[^eur-andr-drugs]: "thy drugs have made me odious" (Andromache, trans. Michael Wodhull)
+[^eur-andr-insult]: "thou dar'st to sleep e'en with the son of him who slew thy husband" (Andromache, trans. Michael Wodhull)
+[^eur-andr-virtue]: "Not beauty, but the virtues, O woman, to the partners of our bed afford delight" (Andromache, trans. Michael Wodhull)
+[^eur-andr-betray]: "I proposed to slay your son, that you might leave that hallowed altar of Thetis, and thus craftily induced you to fall into my hands" (Andromache, trans. Michael Wodhull)
+[^eur-andr-prophecy]: "from him in long succession shall a race of happy kings Molossia's sceptre wield" (Andromache, trans. Michael Wodhull)
+
 ## Variant Traditions
 
 The fate of Astyanax differs in detail between sources. In the [Posthomerica](../sources/posthomerica.md), it is "those Danaan car-lords" collectively who throw him from the wall while Andromache watches. In the [Epic Cycle](../sources/epic-cycle.md) (Little Iliad), it is specifically [Neoptolemus](neoptolemus.md) who kills him. The [Bibliotheca](../sources/apollodorus.md) records that "Neoptolemus slew Astyanax" (E.5.23) without specifying the method; Hyginus (Fabulae 109) also attributes the killing to Neoptolemus.
@@ -142,3 +164,4 @@ The fate of Astyanax differs in detail between sources. In the [Posthomerica](..
 - **[Posthomerica](../sources/posthomerica.md)** XIII: Astyanax torn from her arms and hurled from the wall; she begged for her own death; dragged into captivity as "daughter of King Eetion"
 - **[Posthomerica](../sources/posthomerica.md)** XIV: Assigned to Neoptolemus in the division of captives
 - **[Trojan Women](../sources/euripides-trojan-women.md)**: Arrives on a chariot heaped with spoils holding Astyanax; reveals Polyxena's sacrifice; argues death is better than slavery; describes her own virtue as the cause of her enslavement; receives the death sentence for Astyanax (Odysseus's counsel); bids Astyanax farewell — "Thy father was too valiant; that is why they slay thee!"
+- **[Andromache](../sources/euripides-andromache.md)**: Protagonist; Neoptolemus's concubine, has borne him Molossus; persecuted by [Hermione](hermione.md) and [Menelaus](menelaus.md); takes sanctuary at [Thetis](../deities/thetis.md)'s temple; coerced by Menelaus's treachery; rescued by [Peleus](peleus.md); [Thetis](../deities/thetis.md) prophesies her marriage to [Helenus](helenus.md) and the Molossian dynasty

@@ -27,6 +27,27 @@ When [Apollo](../deities/apollo.md) appeared and resolved the conflicts, he comm
 
 [^orestes-marriage]: "Apollo, however, having appeared, said that he had conducted Helen to the Gods, and commanded Orestes to take Hermione to wife, and Electra to dwell with Pylades" (Euripides, Orestes, trans. T.A. Buckley)
 
+## In Euripides' [Andromache](../sources/euripides-andromache.md)
+
+### Jealousy and Confrontation
+
+In the *Andromache*, Hermione is [Neoptolemus](neoptolemus.md)'s barren wife, consumed with jealousy toward [Andromache](andromache.md) — Neoptolemus's concubine, who has borne him a son. Hermione arrives adorned in Spartan gold and demands Andromache leave the sanctuary of [Thetis](../deities/thetis.md)'s temple. She accuses Andromache of bewitching her husband and making her barren through drugs: "thy drugs have made me odious."[^eur-andr-herm-drugs] She insults Andromache for sleeping with the son of her husband's killer: "thou dar'st to sleep e'en with the son of him who slew thy husband."[^eur-andr-herm-insult]
+
+### Menelaus's Intervention
+
+Her father [Menelaus](menelaus.md) arrives and uses the captured Molossus to coerce Andromache into leaving the altar. When [Peleus](peleus.md) rescues the captives and Menelaus retreats — claiming a war in Sparta demands his return — Hermione is left without support.
+
+### Panic and Flight
+
+After Menelaus abandons her, Hermione realizes the consequences of her plot. She tries to hang herself and seize a sword; her Nurse restrains her. She confesses that "vile women" inflamed her jealousy with destructive counsel: "Never, never should wedded men let women have a free access, and visit their consort."[^eur-andr-herm-counsel]
+
+[Orestes](orestes.md) arrives and reveals he was betrothed to Hermione before Menelaus gave her to Neoptolemus as a war-prize. He takes her away with him, having already arranged Neoptolemus's murder at [Delphi](../places/delphi.md).[^eur-andr-herm-orestes]
+
+[^eur-andr-herm-drugs]: "thy drugs have made me odious" (Andromache, trans. Michael Wodhull)
+[^eur-andr-herm-insult]: "thou dar'st to sleep e'en with the son of him who slew thy husband" (Andromache, trans. Michael Wodhull)
+[^eur-andr-herm-counsel]: "Never, never should wedded men let women have a free access, and visit their consort" (Andromache, trans. Michael Wodhull)
+[^eur-andr-herm-orestes]: Andromache. Orestes reveals the prior betrothal and takes Hermione away after arranging Neoptolemus's death at Delphi.
+
 ## In Apollodorus
 
 According to [Apollodorus](../sources/apollodorus.md), Hermione was born to [Menelaus](menelaus.md) and [Helen](helen.md), and was betrothed to [Neoptolemus](neoptolemus.md) while he was at Troy.[^apd-birth] After the [Trojan War](../events/trojan-war.md), when [Neoptolemus](neoptolemus.md) carried her off, [Orestes](orestes.md) pursued them in madness and slew [Neoptolemus](neoptolemus.md) at Delphi.[^apd-neoptolemus] [Orestes](orestes.md) then married Hermione himself and ruled Argos, begetting [Tisamenus](tisamenus.md).[^apd-orestes-marriage]
@@ -47,4 +68,5 @@ According to [Apollodorus](../sources/apollodorus.md), Hermione was born to [Men
 - **[Apollodorus](../sources/apollodorus.md)** 3.11.1: Mentioned as daughter of [Menelaus](menelaus.md) and [Helen](helen.md)
 - **[Apollodorus](../sources/apollodorus.md)** E.6.14: Carried off by [Neoptolemus](neoptolemus.md) and later avenged by [Orestes](orestes.md)
 - **[Apollodorus](../sources/apollodorus.md)** E.6.28: Married to [Orestes](orestes.md); mother of [Tisamenus](tisamenus.md)
+- **[Andromache](../sources/euripides-andromache.md)**: Neoptolemus's barren wife; accuses [Andromache](andromache.md) of using drugs; adorned in Spartan gold; father [Menelaus](menelaus.md) intervenes on her behalf; panics when abandoned; attempts suicide; confesses she was misled by "vile women"; taken away by [Orestes](orestes.md)
 - **Euripides, Orestes**: Taken hostage by [Orestes](orestes.md) and [Electra](electra.md); betrothed to [Orestes](orestes.md) by [Apollo](../deities/apollo.md)

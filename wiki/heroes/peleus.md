@@ -141,6 +141,19 @@ In Isthmian VII, [Themis](../deities/themis.md) counselled the gods to give [The
 
 [^pin-ist7-peleus]: "My counsel is that ye give her to be the heaven-sent prize of Peleus son of Aiakos, whom the speech of men showeth to be their most righteous, an offspring of Iolkos' plain" (Pindar, Isthmian VII, trans. Ernest Myers)
 
+## In Euripides' [Andromache](../sources/euripides-andromache.md)
+
+### Rescue of Andromache
+
+In the *Andromache*, Peleus arrives to rescue [Andromache](andromache.md) and her son Molossus from [Menelaus](menelaus.md) and [Hermione](hermione.md). He delivers the play's most famous speech attacking Menelaus and Spartan customs: Spartan women run around with bare legs and loose clothing wrestling with young men, so it is no wonder they prove unchaste; [Helen](helen.md) was worthless; Menelaus came home from Troy unwounded while real heroes died; he sacrificed [Iphigenia](iphigenia.md) out of fear of losing Helen; and when he had Helen in his power after the sack, he saw her breast and dropped his sword. Menelaus retreats, and Peleus frees the captives.[^eur-andr-pel-speech]
+
+### Promised Immortality
+
+At the play's end, [Thetis](../deities/thetis.md) appears as deus ex machina and promises Peleus immortality: she will make him a god and take him to [Nereus](../deities/nereus.md)'s underwater palace, where he will see [Achilles](achilles.md) "inhabiting that isle whose chalky coasts are laved by the surrounding Euxine deep" — the White Island, Leuke.[^eur-andr-pel-immortal]
+
+[^eur-andr-pel-speech]: Andromache. Peleus attacks Menelaus on Spartan customs, Helen's worthlessness, his cowardice, sacrifice of Iphigenia, and inability to kill Helen (trans. Michael Wodhull)
+[^eur-andr-pel-immortal]: "inhabiting that isle whose chalky coasts are laved by the surrounding Euxine deep" (Andromache, trans. Michael Wodhull)
+
 ## Appearances
 
 - **[Argonautica](../sources/argonautica.md)** 1.90-92: Exiled for killing half-brother Phocus; sails as an Argonaut
@@ -166,6 +179,7 @@ In Isthmian VII, [Themis](../deities/themis.md) counselled the gods to give [The
 - **[Pindar](../sources/pindar.md)**, Nemean IV: Hippolyte forged lies against him; Akastos hid his sword; [Chiron](../creatures/chiron.md) rescued him; survived Thetis's fire and lion-claws; married a Nereid, saw the gods' gifts
 - **[Pindar](../sources/pindar.md)**, Nemean V: Muses sang of Thetis and Peleus at Pelion; refused Hippolyte "fearing the wrath of the Father who guardeth host and guest"; Zeus promised him a Nereid bride
 - **[Pindar](../sources/pindar.md)**, Isthmian VII: [Themis](../deities/themis.md) declares him "most righteous" among men; counsels gods to give [Thetis](../deities/thetis.md) to Peleus
+- **[Andromache](../sources/euripides-andromache.md)**: Rescues [Andromache](andromache.md) and Molossus from [Menelaus](menelaus.md) and [Hermione](hermione.md); delivers famous speech attacking Menelaus, Spartan customs, and Helen's worthlessness; promised immortality by [Thetis](../deities/thetis.md) — will dwell in [Nereus](../deities/nereus.md)'s palace and see [Achilles](achilles.md) on the White Island
 
 [^apd-exile]: "As Phocus excelled in athletic sports, his brothers Peleus and Telamon plotted against him, and the lot falling on Telamon, he killed his brother in a match by throwing a quoit at his head, and with the help of Peleus carried the body and hid it in a wood" (Bibliotheca 3.12.6, trans. J.G. Frazer)
 [^apd-phthia]: "Peleus fled to Phthia to the court of Eurytion, son of Actor, and was purified by him, and he received from him his daughter Antigone and the third part of the country" (Bibliotheca 3.13.1, trans. J.G. Frazer)
